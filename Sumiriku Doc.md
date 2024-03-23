@@ -32,7 +32,7 @@ ___
 
   - ###### [{{ Language and Translation}}{{ 3}}](#p4)
 
-- ### [{{ PART 2 - History and Religion}}{{ 4}}](#p5) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:175px,left:55px,width:375px,mix-blend-mode:normal}
+- ### [{{ PART 1 - History and Religion}}{{ 4}}](#p5) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:175px,left:55px,width:375px,mix-blend-mode:normal}
 
   - ###### [{{ The Land of Ink and Blood}}{{ 5}}](#p6)
 
