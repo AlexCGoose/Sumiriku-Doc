@@ -577,7 +577,7 @@ Creatures that come from one of these realms are chaotic beings that reflect and
 
 {{#fancy I}}<span class="after-fancy">N THE BEGINNING OF CREATION, THERE WAS SAID</span> to be nothing but Void, a sea of deep stillness, a place lacking in any contrast or duality. Magically, from this space the first spark and twinkle of starlight appeared. Eventually more and more of this starlight formed, danced together, and took shape as the first of the Ō-Hoshikuzushin (大星屑神, 'Great Stardust Deity'), Ō-Seiza-Ryū (大星座竜, 'Great Constellation Dragon'). In turn, 13 more Ō-Hoshikuzushin were born from the nothingness, and they brought with them emotion and conflict, passion and calm, into the realm that would become known as Hoshikuzuten (星屑天, 'Stardust Heaven').
 
-After spending many moments together, the Ō-Hoshikuzukami found themselves complacent, in a world that was falling back to stillness. This was when Ō-Seiza-Nezumi (大星座鼠, 'Great Constellation Mouse') had an ingenious idea to bring energy, life, and death back to the world, which she shared with her close friend Ō-Seiza-Ryū. Ō-Seiza-Ryū, delighted
+After spending many moments together, the Ō-Hoshikuzushin found themselves complacent, in a world that was falling back to stillness. This was when Ō-Seiza-Nezumi (大星座鼠, 'Great Constellation Mouse') had an ingenious idea to bring energy, life, and death back to the world, which she shared with her close friend Ō-Seiza-Ryū. Ō-Seiza-Ryū, delighted
 
 ::::::::::::::::::::::::::::::::::::::
 
@@ -622,10 +622,10 @@ minds and the ability to take humanoid forms. They continued to see each other e
 
 | Name                              | Description                                                                        | Primary Domain |
 |:----------------------------------|:-----------------------------------------------------------------------------------|:--------------:|
-| Yōzanagi-sama </br> (ようざなぎ様) | He-Who-Brings-Brightness. Alongside his wife, Inzanami-sama, they were the first of the Myōjin, personally blessed by the Ō-Hoshikuzukami. Together they sired or raised the rest of the Myōjin. After all of the rest of the Myōjin had joined them and Inzanami-sama left to stay in Yomi, Yōzanagi-sama found himself a quaint home within Kimyōkai, where he now stays. | Life |
-| Inzanami-sama </br> (いんざなみ様) | She-Who-Brings-Shadow. Alongside her husband, Yōzanagi-sama, they were the first of the Myōjin, chosen for the role by the Ō-Hoshikuzukami. Together they helped nurture the rest of the Myōjin. Once all of the rest of the Myōjin had joined them, Inzanami-sama decided to retire to Yomi, in order to care for the spirits that descended there. | Death |
-| Netsu-sama </br>(熱様 / ねつ様) | His-Fiery-Impetuous-Swordsmith-Augustness. The caring yet impetuous and hotheaded Netsu-sama was the Nekotaiyō child of Yōzanagi-sama and Inzanami-sama, and the protector of the twin suns, Hikariōna and Ikariōna. Despite being raised with his twin sister, Mikazuki-sama, his fiery nature drove a wedge between the two of them. Eventually their conflict became so bad that the Ō-Hoshikuzukami needed to intervene, separating the Suns and the Moon in the sky. | Suns |
-| Mikazuki-sama </br> (朏様 / </br> みかづき様) | Her-Shining-Intellect-Crescent-Moon-Augustness. Said to be the most intelligent of all the Myōjin, Mikazuki-sama was the Soratami child of Yōzanagi-sama and Inzanami-sama, and the guardian of the moon, Eisei. Although she was raised together with her twin brother, Netsu-sama, her aloofness and standoffishness caused a divide between the two of them. When this division grew too great the Ō-Hoshikuzukami stepped in, creating the gap between Day and Night. | Moon |
+| Yōzanagi-sama </br> (ようざなぎ様) | He-Who-Brings-Brightness. Alongside his wife, Inzanami-sama, they were the first of the Myōjin, personally blessed by the Ō-Hoshikuzushin. Together they sired or raised the rest of the Myōjin. After all of the rest of the Myōjin had joined them and Inzanami-sama left to stay in Yomi, Yōzanagi-sama found himself a quaint home within Kimyōkai, where he now stays. | Life |
+| Inzanami-sama </br> (いんざなみ様) | She-Who-Brings-Shadow. Alongside her husband, Yōzanagi-sama, they were the first of the Myōjin, chosen for the role by the Ō-Hoshikuzushin. Together they helped nurture the rest of the Myōjin. Once all of the rest of the Myōjin had joined them, Inzanami-sama decided to retire to Yomi, in order to care for the spirits that descended there. | Death |
+| Netsu-sama </br>(熱様 / ねつ様) | His-Fiery-Impetuous-Swordsmith-Augustness. The caring yet impetuous and hotheaded Netsu-sama was the Nekotaiyō child of Yōzanagi-sama and Inzanami-sama, and the protector of the twin suns, Hikariōna and Ikariōna. Despite being raised with his twin sister, Mikazuki-sama, his fiery nature drove a wedge between the two of them. Eventually their conflict became so bad that the Ō-Hoshikuzushin needed to intervene, separating the Suns and the Moon in the sky. | Suns |
+| Mikazuki-sama </br> (朏様 / </br> みかづき様) | Her-Shining-Intellect-Crescent-Moon-Augustness. Said to be the most intelligent of all the Myōjin, Mikazuki-sama was the Soratami child of Yōzanagi-sama and Inzanami-sama, and the guardian of the moon, Eisei. Although she was raised together with her twin brother, Netsu-sama, her aloofness and standoffishness caused a divide between the two of them. When this division grew too great the Ō-Hoshikuzushin stepped in, creating the gap between Day and Night. | Moon |
 
 }}
 
@@ -679,7 +679,7 @@ minds and the ability to take humanoid forms. They continued to see each other e
 |:----------------------------------|:-----------------------------------------------------------------------------------|:--------------:|
 | Shōji-sama </br> (小地様 / </br> しょうじ様) | The Little-Earth-Shizen-Korpokkur-Deity. Shōji-sama and Hanumi-sama are known as the Shizen couple, partners split by the tide. Shōji-sama is the Korpokkur deity, and is responsible for the care of all the land of the isles of Sumiriku. In pursuit of this Shōji-sama has crossed all of Sumiriku's great mountains, valleys, forests, swamps, and plains. He is also responsible for the great many creatures that call all of these locations their home. Of particular fondness to Shōji-sama are all the different kinds of bugs, and the tiny worlds which they inhabit; he finds great inspiration in knowing that something can be that strong and courageous given its small stature. His personal hobby is documenting each different critter he comes across, and learning of each one's quirks and traits. Despite this, he also moves to action when the people pray for him to hold back the devastating earthquakes that hit Sumiriku, formed from the roiling chaos under the ground. He came to meet Hanumi-sama at an idyllic river bank, and from there their love bloomed. They now work together to help embrace the natural world around them. Some say one might happen upon these two deities sharing in each other's company, at a calming spring or beautiful waterfall. | Land |
 | Tamata-no-Orochi </br> (多岐大蛇 / </br> たまたのおろち) | The Chromatic-Many-Headed-Serpent. Tamata-no-Orochi was said to have been born as an egg at the conflux between each of the Godaikai planes. As an instinctual reaction, the universe brought forth a being to contain this power, which took the form of the greatest and most terrible of all the Dragon-Kami. Unlike her metallic Kinzoku Dragon brethren she was chromatically scaled, her many heads granting her domain over all the elemental forces. From birth she was filled with the belief that it was her right to rule the realms, a belief that twisted into a narcissistic desire for power and conquest. Once fully formed, Tamata-no-Orochi plunged the world into darkness and terror, forcing the people to pledge their fealty to her or suffer; she believed that through this she would be revered as a ruler more than any of the Myōjin. She was finally felled and sealed back in the earth by the latent deity Yūkan-sama, and her cast-off heads grew into what are now known as the Godai Dragon-Kami. | Tyranny |
-| Yūkan-sama </br> (勇敢様 / </br> ゆうかん様) | His-Brave-Noble-Foolish-Augustness. Born a child of little note during the Assei Jidai, Yūkan-sama became known as a great swordsman and warrior rōnin, but also a drunkard lacking in conviction. Living under the tyranny of Tamata-no-Orochi, he chose to make his living taking jobs to cut down threats both worldly and otherworldly, only as long as they paid the right price. This lasted until a duel went horribly wrong, and he had to be rescued and nursed back to health by a healer from a small village on Ryugenshima named Kushinada. She, despite everything, felt affection for Yūkan-sama and found his hidden kindness, and he in turn made his first connection worth protecting. She also confided in him a horrible truth; their village sat close to the dwelling place of Tamata-no-Orochi, and in order to sate her the village had begun to sacrifice their members to the great and terrible tyrant dragon. In this moment did Yūkan-sama's convictions change, feeling deep sympathy for the plight of the village, and he chose to go face the terror alone. For this bravery, and to help balance the darkens of the world, the Ō-Hoshikuzukami blessed Yūkan-sama's rusted sword, turning it into one of the three Starlight Regalia, Kūshokiri. Through many hours of great effort and danger, he was able to fell the horror, cutting off many of her heads and sealing her back within the earth. After this day Yūkan-sama was now known as a hero of incredible bravery, and later a leader of the people against darkness. At the end of his life, instead of his spirit travelling to Yomi, Yūkan-sama ascended to be among the other Myōjin. | Hope |
+| Yūkan-sama </br> (勇敢様 / </br> ゆうかん様) | His-Brave-Noble-Foolish-Augustness. Born a child of little note during the Assei Jidai, Yūkan-sama became known as a great swordsman and warrior rōnin, but also a drunkard lacking in conviction. Living under the tyranny of Tamata-no-Orochi, he chose to make his living taking jobs to cut down threats both worldly and otherworldly, only as long as they paid the right price. This lasted until a duel went horribly wrong, and he had to be rescued and nursed back to health by a healer from a small village on Ryugenshima named Kushinada. She, despite everything, felt affection for Yūkan-sama and found his hidden kindness, and he in turn made his first connection worth protecting. She also confided in him a horrible truth; their village sat close to the dwelling place of Tamata-no-Orochi, and in order to sate her the village had begun to sacrifice their members to the great and terrible tyrant dragon. In this moment did Yūkan-sama's convictions change, feeling deep sympathy for the plight of the village, and he chose to go face the terror alone. For this bravery, and to help balance the darkens of the world, the Ō-Hoshikuzushin blessed Yūkan-sama's rusted sword, turning it into one of the three Starlight Regalia, Kūshokiri. Through many hours of great effort and danger, he was able to fell the horror, cutting off many of her heads and sealing her back within the earth. After this day Yūkan-sama was now known as a hero of incredible bravery, and later a leader of the people against darkness. At the end of his life, instead of his spirit travelling to Yomi, Yūkan-sama ascended to be among the other Myōjin. | Hope |
 
 }}
 
@@ -710,9 +710,9 @@ The Sumiriku calendar marks Year 0 as the year of the ascension of the first Emp
 
 ## (明け方代, 'Dawning Era')
 
-### ??? BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:326px,left:55px,width:375px,mix-blend-mode:normal}
+### ??? BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:453px,left:55px,width:375px,mix-blend-mode:normal}
 
-TODO
+The Akegata Jidai is considered the first era as before then there was nothing, no world, no light, not even time. From a single point of darkness at the beginning of time, the starlight of Hoshikuzuten burst forth, the moment that is credited for all of creation. This dawn of the universe, the spark of starlight and the painting of the great world map by the Ō-Hoshikuzushin, is said to have taken uncountable millennia, yet passed in the blink of an eye. This era is considered to have ended after the Ō-Hoshikuzushin finished their drawing of the world, and created the first Myōjin, the couple Yōzanagi-sama and Inzanami-sama, to be the world's guardians and caretakers.
 
 :
 
@@ -720,7 +720,7 @@ TODO
 
 ## (開花時代, 'Blooming Era')
 
-### Ended ~700 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:326px,left:55px,width:375px,mix-blend-mode:normal}
+### Ended ~700 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:1050px,left:55px,width:375px,mix-blend-mode:normal}
 
 TODO
 
@@ -730,7 +730,7 @@ TODO
 
 ## (圧政時代, 'Tyrannical Era')
 
-### ~700 - 570 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:454px,left:55px,width:375px,mix-blend-mode:normal}
+### ~700 - 570 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:1050px,left:55px,width:375px,mix-blend-mode:normal}
 
 TODO
 
@@ -740,7 +740,7 @@ TODO
 
 ## (分裂時代, 'Divided Era')
 
-### ~570 - 1 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:579px,left:55px,width:375px,mix-blend-mode:normal}
+### ~570 - 1 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:1050px,left:55px,width:375px,mix-blend-mode:normal}
 
 TODO
 
@@ -752,7 +752,7 @@ TODO
 
 ## 'Unification Era')
 
-### 0 - 1851 AA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:735px,left:55px,width:375px,mix-blend-mode:normal}
+### 0 - 1851 AA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:1050px,left:55px,width:375px,mix-blend-mode:normal}
 
 TODO
 
@@ -762,7 +762,7 @@ TODO
 
 ## (軍隊時代, 'Military Era')
 
-### 1852 - 2127 AA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:861px,left:55px,width:375px,mix-blend-mode:normal}
+### 1852 - 2127 AA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:1050px,left:55px,width:375px,mix-blend-mode:normal}
 
 TODO
 
@@ -774,7 +774,7 @@ TODO
 
 ## 'Shattered States Era')
 
-### Ongoing (2128 - 2254+ AA) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:199px,left:400px,width:375px,mix-blend-mode:normal}
+### Ongoing (2128 - 2254+ AA) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:1050px,left:400px,width:375px,mix-blend-mode:normal}
 
 TODO
 
