@@ -644,7 +644,7 @@ minds and the ability to take humanoid forms. They continued to see each other e
 | Bōfū-sama and Sekirai-sama </br> (暴風様 / </br> ぼうふ様 and </br> 赤雷様 / </br> せきらい様) | The Bickering-Stormbringer-Ōgaru-Twin-Deities. The conjoined Ōgaru twins, and bringers of storm. Their two personalities share a body, half being the blue god of Wind and half being the red god of Thunder. Bōfū-sama is believed to be the wiser and more level of the two, with Sekirai-sama being louder and more boisterous, and their two different viewpoints controlling one body often causes the butting of heads. This conflict creates the uncontrollable storms that reach the isles of Sumiriku. Bōfū-sama is frequently seen carrying a large bag full of wind, whereas Sekirai-sama holds a mallet with which he plays the many taiko drums that float alongside him. | Wind / Thunder |
 | Kahei-sama </br> (河平様 / </br> かへい様) | The Tranquil-River-Healing-Kappa-Deity. The Kappa deity, one of the first Kappa to reveal themselves to the early people of Sumiriku. Kahei-sama was first seen in the aftermath of a conflict that had taken place by a bridge over her river home. Kahei-sama, after hearing the commotion and witnessing the bloodshed of battle, emerged from the river and used her Kappa wisdom to tend to the wounded, making no distinctions between friend and foe. Many who recovered quickly took after her example, helping as many other survivors as they could find. People who arrived on the field of battle on opposite sides that day found themselves leaving united. To this day followers of Kahei are frequently neutral in conflict, instead trying to spread peace and bring healing to all who need it. | Peace |
 | Gobo-Gobo-sama </br> (五墓五墓様 / </br> ごぼごぼ様) | Greatest-Samurai-Glorious-Leader-Noble-Strong-Gobo-Gobo-First-Daimyō-Of-Clan-Gobo. Gobo-Gobo-sama, who's name used to be an ancient Akki insult, was a great Akki leader and warlord before he became a Myōjin. Considered the runt of his litter and clan, Gobo-Gobo demonstrated his might, determination, and dedication as he rose through the ranks to become warlord and daimyō. This leadership was proven to be invaluable when his Akki army, led by him and his trusted steed Ino, held off and cut down a human army of far greater numbers. In his honour, almost all disparate Akki gatherings claim to be descended from the original Clan Gobo. | War |
-| Hanamai-sama </br> (鼻米様 / </br> はなまい様) | The Harvesting-Rice-Sniffing-Obake. One of the Obake quadruplets, the Tanuki. Hanamai-sama sought to understand the nature that surrounded him. He discovered a love for farming, and for traditional recipes he learned by snooping on some locals. This passion became an invaluable skill, when the supplies of rice he had grown helped a Tanuki community through a terrible winter. Many farmers now keep a statue of Hanami-sama on their land, with his kama and his bag of seeds, as a protector and nurturer of their crops. | Rice |
+| Hanamai-sama </br> (鼻米様 / </br> はなまい様) | The Harvesting-Rice-Sniffing-Obake. One of the Obake quadruplets, the Tanuki. Hanamai-sama sought to understand the nature that surrounded him. He discovered a love for farming, and for traditional recipes he learned by snooping on some locals. This passion became an invaluable skill, when the supplies of rice he had grown helped a Tanuki community through a terrible winter. Many farmers now keep a statue of Hanamai-sama on their land, with his kama and his bag of seeds, as a protector and nurturer of their crops. | Rice |
 | Zaikawa-sama </br> (財川様 / </br> ざいかわ様) | The Luxurious-Gathering-Treasure-Obake. One of the Obake quadruplets, the Kawauso. Zaikawa-sama sought to find the treasures of the world around her. She found gems, jewels, and shiny metals within the rivers she swam, their preciousness speaking to her. Through her years of life she started trading and collecting, using the rivers as a path to sell her goods far and wide. Many merchants to this day keep small, sometimes mechanical statues of her within their businesses as blessings of financial fortune. | Riches |
 
 }}
@@ -712,7 +712,7 @@ The Sumiriku calendar marks Year 0 as the year of the ascension of the first Emp
 
 ### ??? BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:453px,left:55px,width:375px,mix-blend-mode:normal}
 
-The Akegata Jidai is the first era as it begins at the first moment in all of history. Before this era there was nothing but stillness, where not even light nor time flowed. From a single point of darkness at this beginning of time, the starlight of Hoshikuzuten burst forth, the moment that is credited for the creation of all that is. This starlight became the Ō-Hoshikuzushin, the zodiac beings and first of the Kami, who proceeded to create the map of the world. This dawn of the universe, the spark of starlight and the painting of the great world map by the Ō-Hoshikuzushin, is said to have taken uncountable millennia, yet passed in the blink of an eye. This era ended after the Ō-Hoshikuzushin finished their drawing of the world and created the first Myōjin, the couple Yōzanagi-sama and Inzanami-sama, to be the world's guardians and caretakers.
+The Akegata Jidai is the first era as it begins at the first moment in all of history. Before this era there was nothing but stillness, where not even light nor time flowed. From a single point of darkness at this beginning of time, the starlight of Hoshikuzuten burst forth, the moment that is credited for the creation of all that is. This starlight became the Ō-Hoshikuzushin, the Zodiac beings and first of the Kami, who proceeded to create the map of the world. This dawn of the universe, the spark of starlight and the painting of the great world map by the </br>Ō-Hoshikuzushin, is said to have taken uncountable millennia, yet passed in the blink of an eye. This era ended after the </br>Ō-Hoshikuzushin finished their drawing of the world and created the first Myōjin, the couple Yōzanagi-sama and Inzanami-sama, to be the world's guardians and caretakers.
 
 :
 
@@ -720,9 +720,11 @@ The Akegata Jidai is the first era as it begins at the first moment in all of hi
 
 ## (開花時代, 'Blooming Era')
 
-### Ended ~700 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:1050px,left:55px,width:375px,mix-blend-mode:normal}
+### Ended ~700 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:904px,left:55px,width:375px,mix-blend-mode:normal}
 
-After Yōzanagi-sama and Inzanami-sama had been placed as the highest Myōjin, the world began to flourish.
+After Yōzanagi-sama and Inzanami-sama had been placed as the highest Myōjin, the world began to flourish under their care. Together they brought life and death to the world, encouraged the presence of the great and mystical Kami, and grew all the creatures and peoples who dwelled within. They also brought up many new Myōjin to join their pantheon in Kumonoue, including their children, Netsu-sama and Mikazuki-sama.
+
+#### The Blood War
 
 :
 
@@ -748,7 +750,7 @@ TODO
 
 ## Tōgō Jidai
 
-## (統合時代,
+## (統合時代,</br>
 
 ## 'Unification Era')
 
@@ -770,7 +772,7 @@ TODO
 
 ## Koware Jidai
 
-## (壊れ時代,
+## (壊れ時代,</br>
 
 ## 'Shattered States Era')
 
