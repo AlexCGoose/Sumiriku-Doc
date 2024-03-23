@@ -6512,7 +6512,7 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 }}
 
 {{text-align:center
-![tanegashima_](http://www.worldheritageofportugueseorigin.com/wp-content/uploads/2015/06/TanegashimaGun-1024x199.jpg){position:absolute,bottom:90px,right:25px,width:350px}
+![tanegashima](http://www.worldheritageofportugueseorigin.com/wp-content/uploads/2015/06/TanegashimaGun-1024x199.jpg){position:absolute,bottom:90px,right:25px,width:350px}
 }}
 
 {{position:absolute,bottom:90px,right:170px,margin-bottom:-20px,text-align:right
