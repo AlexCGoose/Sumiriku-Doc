@@ -38,10 +38,21 @@ If this feather is held tightly, when the person holding the feather drops to 0 
 
 This feather can instead be used to return the recently deceased back to life. When placed on the body of a creature that has died within the last minute, they return to life with 1 hit point, as in the *Revivify* spell. This can't return to life a creature that has died of old age, nor can it restore any missing body parts. The feather is also consumed if used in this way.
 
+#### Blossom-Blade Saya
+
+*Wondrous item, ???* </br>
+This saya, or katana scabbard, is light pink in colour, with silver detailing and a purple sageo cord. When a katana is drawn from this saya, strongly scented sakura blossoms appear traveling along the path of the draw, alongside a strong gust of wind, before they disperse into the open air.
+
+\page
+
 #### Prayer Beads to the Myōjin
 
 *Wondrous item, Rare* (requires attunement by a Wisdom caster) </br>
-This bracelet of wooden prayer beads, known as an ōjuzu, has been made to help recite prayer to the Myōjin, the most divine of the Kami. In addition to the many non-magical wooden beads, the bracelet has 1 magical bead. This bead has magical kanji engravings spelling the name of Kahei-sama, the goddess of peace. The bead contains the *Calm Emotions* spell, that you can cast from it as a bonus action (using your spell save DC if a save is necessary). To use the bead, you must be wearing the necklace. Once a magic bead's spell is cast, that bead can't be used again until the next dawn. If a magic bead is removed from the necklace, that bead loses its magic. If more beads are discovered, they can be added to the bracelet.
+This bracelet of wooden prayer beads, known as an ōjuzu, has been made to help recite prayer to the Myōjin, the most divine of the Kami. In addition to the many non-magical wooden beads, the bracelet has a number of magical beads, each one engraved with the name of one of the Myōjin. Each magical bead contains a specific spell related to that Myōjin, that you can cast from it as a bonus action (using your spell save DC if a save is necessary). To use the bead, you must be wearing the bracelet. Once a magic bead's spell is cast, that bead can't be used again until the next dawn. If a magic bead is removed from the bracelet, that bead loses its magic. If more beads are discovered, they can be added to the bracelet.
+
+The bracelet currently has beads of the following spells, listed with their associated Myōjin:
+
+- Kahei-sama: *Calm Emotions*
 
 \page
 
