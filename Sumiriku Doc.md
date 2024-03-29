@@ -704,13 +704,11 @@ The Sumiriku calendar marks Year 0 as the year of the ascension of the first Emp
 
 }}
 
-:
-
 ## Akegata Jidai
 
 ## (明け方代, 'Dawning Era')
 
-### ??? BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:453px,left:55px,width:375px,mix-blend-mode:normal}
+### ??? BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:438px,left:55px,width:375px,mix-blend-mode:normal}
 
 The Akegata Jidai is the first era as it begins at the earliest moment in all of history. Before this era there was nothing but stillness, where not even light nor time flowed. From a single point of darkness at this beginning of time, the starlight of Hoshikuzuten burst forth, the moment that is credited for the creation of all that is. This starlight became the </br>Ō-Hoshikuzushin, the Zodiac beings and first of the Kami, who proceeded to create the map of the world. This dawn of the universe, the spark of starlight and the painting of the great world map by the Ō-Hoshikuzushin, is said to have taken uncountable millennia, yet passed in the blink of an eye. This era ended after the </br>Ō-Hoshikuzushin finished their drawing of the world and created the first Myōjin, the couple Yōzanagi-sama and Inzanami-sama, to be the world's guardians and caretakers.
 
@@ -718,9 +716,11 @@ The Akegata Jidai is the first era as it begins at the earliest moment in all of
 
 ## (開花時代, 'Blooming Era')
 
-### Ended ~700 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:901px,left:55px,width:375px,mix-blend-mode:normal}
+### Ended ~700 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:886px,left:55px,width:375px,mix-blend-mode:normal}
 
 After Yōzanagi-sama and Inzanami-sama had been placed as the highest Myōjin, the world began to flourish under their care. Together they brought life and death to the world, encouraged the presence of the great and mystical Kami, and grew all the creatures and peoples who dwelled within. They also brought up many new Myōjin to join their pantheon in Kumonoue, including their children, Netsu-sama and Mikazuki-sama.
+
+With the guidance of the Myōjin and the Kami, the 
 
 #### The Blood War
 
