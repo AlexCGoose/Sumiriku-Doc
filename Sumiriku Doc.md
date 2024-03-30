@@ -718,9 +718,9 @@ The Akegata Jidai is the first era as it begins at the earliest moment in all of
 
 ### Ended ~700 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:886px,left:55px,width:375px,mix-blend-mode:normal}
 
-After Yōzanagi-sama and Inzanami-sama had been placed as the highest Myōjin, the world began to flourish under their care. Together they brought life and death to the world, encouraged the presence of the great and mystical Kami, and grew all the creatures and peoples who dwelled within. They also brought up many new Myōjin to join their pantheon in Kumonoue, including their children, Netsu-sama and Mikazuki-sama.
+After Yōzanagi-sama and Inzanami-sama had been placed as the highest Myōjin, the world began to flourish under their care. Together they brought life and death to the world, encouraged the presence of the great and mystical Kami, and grew all the creatures and peoples who dwelled within. They also brought up many new Myōjin to join their pantheon in Kumonoue, including their children, Netsu-sama and Mikazuki-sama. They, along with the other denizens Kumonoue, often shared the land with their creations, descending into the world on Niji-no-ukihashi, the Floating Rainbow Bridge; they came to share their knowledge and skills, and left after them the Sacred Treasures, Sumiriku's most divine artifacts.
 
-With the guidance of the Myōjin and the Kami, the 
+After their creation, the many peoples of the world grew into their own, with the guidance and tutelage of their Myōjin creators. Starting from humble beginnings, the Kami helped teach the peoples ways both to survive and to thrive. They learned to hunt, to farm, to build homes, and to fight, but also to create art, pottery, and music - and through all of this was their reverence for the Kami shown.
 
 #### The Blood War
 
