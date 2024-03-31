@@ -68,13 +68,14 @@ ___
 
     - [{{ Akegata Jidai (Dawning Era)}}{{ 19}}](#p20)
     - [{{ Kaika Jidai (Blooming Era)}}{{ 19}}](#p20)
+      - [{{ The Blood War - TODO}}{{ 19}}](#p20)
     - [{{ Assei Jidai (Tyrannical Era)}}{{ 19}}](#p20)
     - [{{ Bunretsu Jidai (Divided Era)}}{{ 19}}](#p20)
     - [{{ Tōgō Jidai (Unification Era)}}{{ 19}}](#p20)
     - [{{ Guntai Jidai (Military Era)}}{{ 19}}](#p20)
     - [{{ Koware Jidai (Shattered States Era)}}{{ 19}}](#p20)
 
-- ### [{{ PART 2 - Character Options}}{{ 22}}](#p23) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:722px,left:55px,width:375px,mix-blend-mode:normal}
+- ### [{{ PART 2 - Character Options}}{{ 22}}](#p23) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:738px,left:55px,width:375px,mix-blend-mode:normal}
 
   - ###### [{{ Character Species}}{{ 23}}](#p24)
 
@@ -96,7 +97,6 @@ ___
   - ###### [{{ Aberrant Forms}}{{ 45}}](#p46)
 
     - [{{ Oni Bloodline Form}}{{ 45}}](#p46)
-    - [{{ Yūrei Manifest Form}}{{ 47}}](#p48)
 
 }}
 
@@ -105,6 +105,7 @@ ___
 {{toc
 
   - [{{ &nbsp;Yūrei Manifest Form}}{{ 47}}](#p48)
+    - [{{ Yūrei Manifest Form}}{{ 47}}](#p48)
 
   - ###### [{{ Classes and Subclasses}}{{ 49}}](#p50)
 
@@ -173,11 +174,11 @@ ___
 
 }}
 
-![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:588px,left:400px,width:375px,mix-blend-mode:normal}
+![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:604px,left:400px,width:375px,mix-blend-mode:normal}
 
-![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:732px,left:400px,width:375px,mix-blend-mode:normal}
+![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:748px,left:400px,width:375px,mix-blend-mode:normal}
 
-![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:876px,left:400px,width:375px,mix-blend-mode:normal}
+![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:892px,left:400px,width:375px,mix-blend-mode:normal}
 
 \page
 
@@ -718,11 +719,15 @@ The Akegata Jidai is the first era as it begins at the earliest moment in all of
 
 ### Ended ~700 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:886px,left:55px,width:375px,mix-blend-mode:normal}
 
-After Yōzanagi-sama and Inzanami-sama had been placed as the highest Myōjin, the world began to flourish under their care. Together they brought life and death to the world, encouraged the presence of the great and mystical Kami, and grew all the creatures and peoples who dwelled within. They also brought up many new Myōjin to join their pantheon in Kumonoue, including their children, Netsu-sama and Mikazuki-sama. They, along with the other denizens Kumonoue, often shared the land with their creations, descending into the world on Niji-no-ukihashi, the Floating Rainbow Bridge; they came to share their knowledge and skills, and left after them the Sacred Treasures, Sumiriku's most divine artifacts.
+After Yōzanagi-sama and Inzanami-sama had been placed as the highest Myōjin, the world began to flourish under their care. Together they brought life and death to the world, encouraged the presence of the great and mystical Kami, and grew all the creatures and peoples who dwelled within. They also brought up many new Myōjin to join their pantheon in Kumonoue, including their children, Netsu-sama and Mikazuki-sama. They, with the rest of their pantheon, often shared the land with their creations, descending into the world on Niji-no-ukihashi, the Floating Rainbow Bridge; they came to share their knowledge and skills, and left after them the Relics of Kumonoue, Sumiriku's most divine Sacred Treasures.
 
-After their creation, the many peoples of the world grew into their own, with the guidance and tutelage of their Myōjin creators. Starting from humble beginnings, the Kami helped teach the peoples ways both to survive and to thrive. They learned to hunt, to farm, to build homes, and to fight, but also to create art, pottery, and music - and through all of this was their reverence for the Kami shown.
+After their creation, the many peoples of the world grew into their own, with the guidance and tutelage of their Myōjin creators. Starting from humble beginnings, the Kami helped teach the peoples ways both to survive and to thrive. They learned to hunt, to farm, to build homes, and to fight, but also to create art, pottery, and music - and through all of this was their reverence for the Kami shown. By the end of this era the peoples of Sumiriku had grown into desperate societies and clans, similar to those that we know today.
+
+Before the end of the Kaika Jidai, Yōzanagi-sama and Inzanami-sama decided that their role as the elders of the Myōjin, and so they decided to depart Kumonoue and go their separate ways; Inzanami-sama traveled to Yomi to become its guardian, and Yōzanagi-sama is believed to now stay in a humble home in Kimyōkai. They left the world in the care of their children and the rest of the pantheon, not anticipating the threat that would come to the world without them...
 
 #### The Blood War
+
+Blood
 
 ## Assei Jidai
 
