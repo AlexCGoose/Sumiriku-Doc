@@ -21,7 +21,7 @@
 }}
 
 {{imageMaskEdge7,--offset:10cm,--rotation:180
-  ![library](https://pbs.twimg.com/media/FFYJMDyX0AItLp2?format=jpg&name=large){position:absolute,bottom:-0px,left:0px,height:100%}
+  ![library](https://pbs.twimg.com/media/FFYJMDyX0AItLp2?format=jpg&name=large){position:absolute,bottom:-0px,left:-50px,height:100%}
 }}
 
 {{pageNumber,auto}}
@@ -103,6 +103,8 @@ I left here my first jitte, as it felt the right time to part with it. It kept m
 
 Kenzo Haruto."
 
+![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:1000px,left:400px,width:375px,mix-blend-mode:normal}
+
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
@@ -112,26 +114,80 @@ Kenzo Haruto."
 
 # Villains and Monsters
 
-## Gamers
+Sumiriku is a dangerous place.
 
-### Text with an Underline ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:140px,left:55px,width:375px,mix-blend-mode:normal}
+:::::
 
-Test text
-The dragon's roar shook the ground beneath their feet, and the brave knight stood tall, his sword at the ready. He knew that this would be the battle of his life, but he was determined to emerge victorious.
+## The Hyakushima Bandits
 
-\column
+Many groups of bandits roam the roads and settlements of Sumiriku, who make their living by preying on defenseless civilians and taking whatever food and valuables they can find. One such group is found in middle Sesujishima, lead by the fearsome Kanehisa and his second in command, Akitake. Though they appear to be targeting the humble village of Hyakushima for the fruits of their harvest, Kanehisa has kept secret some ulterior motives...
 
-Test text
-The dragon's roar shook the ground beneath their feet, and the brave knight stood tall, his sword at the ready. He knew that this would be the battle of his life, but he was determined to emerge victoriousTest text
+{{monster,frame
 
-### Text with an Underline ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:201px,left:400px,width:375px,mix-blend-mode:normal}
+## Kanehisa
 
-The dragon's roar shook the ground beneath their feet, and the brave knight stood tall, his sword at the ready. He knew that this would be the battle of his life, but he was determined to emerge victorious
+*Medium Humanoid, Chaotic Evil*
+___
+**Armor Class** :: 13
+**Hit Points**  :: 35
+**Speed**       :: 3ft.
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|16 (+3)|14 (+2)|12 (+1)|12 (=1)| 8 (-1)|12 (+1)|
+___
+**Skills**               :: Intimidation +3, Persuasion +3
+**Senses**               :: darkvision 60 ft., passive Perception 15
+**Languages**            :: Common
+**Challenge**            :: 1 {{width:80px}} **Proficiency Bonus** +2 (Level 4)
+___
+***Legendary Resistance (1/Day).*** If Kanehisa fails a saving throw, he can choose to succeed instead.
+:
+***Exploit Opening (2/Day).*** When Kanehisa makes an attack, they have advantage on the attack roll
+
+### Actions
+
+***TODO.***
+
+}}
+
+{{imageMaskCorner20,--offsetX:50%,--offsetY:-40%,--rotation:0
+  ![kanehisa](https://i.imgur.com/rV5tLvC.jpeg){position:absolute,bottom:-10px,right:-300px,height:60%}
+}}
+
+{{position:absolute,top:1050px,left:350px
+
+##### Kanehisa
+
+}}
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
 ![star](https://i.imgur.com/lRD7g68.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
+{{partCover}}
+
+# PART 2
+
+## The Living Lore
+
+{{position:absolute,top:960px,right:180px,margin-bottom:-50px
+
+##### Satsuki, a keeper of Sumiriku's history
+
+}}
+
+{{imageMaskEdge7,--offset:8.5cm,--rotation:180
+  ![satsuki](https://i.imgur.com/TEenxFX.jpeg){position:absolute,top:-0px,left:-350px,height:90%}
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/lRD7g68.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
