@@ -4,7 +4,7 @@
 
 {{frontCover}}
 
-![cover](https://i.imgur.com/7FvVoJI.jpg){position:absolute,bottom:0,left:0,height:100.5%}
+![cover](https://i.ibb.co/2hr5mdB/Sumiriku-Cover6.png){position:absolute,bottom:0,left:0,height:100.5%}
 
 \page
 
@@ -573,7 +573,7 @@ Creatures that come from one of these realms are chaotic beings that reflect and
 
 # Zodiac and the Creation Myth
 
-![zodiac](https://i.imgur.com/3hZG0lM.png) {width:500px,position:absolute;left:50%;transform:translateX(-50%)}
+![zodiac](https://i.imgur.com/KtiZaV1.png) {width:500px,position:absolute;left:50%;transform:translateX(-50%)}
 
 {{position:absolute,top:535px,left:550px,margin-bottom:-30px,align:right
 

@@ -4,9 +4,38 @@
 
 {{frontCover}}
 
-![cover](https://i.imgur.com/IUY25GI.jpg){position:absolute,bottom:0,left:0,height:100.5%}
+![cover](https://i.ibb.co/tx3f0cz/Sumiriku-DMCover8.png){position:absolute,bottom:0,left:0,height:100.5%}
 
 \page
+
+{{partCover}}
+
+# PART 1
+
+## The Infinite Library
+
+{{position:absolute,top:1025px,left:180px,margin-bottom:-50px
+
+##### A Human explores the Infinite Library
+
+}}
+
+{{imageMaskEdge7,--offset:10cm,--rotation:180
+  ![library](https://pbs.twimg.com/media/FFYJMDyX0AItLp2?format=jpg&name=large){position:absolute,bottom:-0px,left:0px,height:100%}
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/lRD7g68.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+# Magic Items
+
+Some text
+
+:::::
 
 #### Kyōsei Claw
 
@@ -41,21 +70,71 @@ This feather can instead be used to return the recently deceased back to life. W
 #### Blossom-Blade Saya
 
 *Wondrous item, ???* </br>
-This saya, or katana scabbard, is light pink in colour, with silver detailing and a purple sageo cord. When a katana is drawn from this saya, strongly scented sakura blossoms appear traveling along the path of the draw, alongside a strong gust of wind, before they disperse into the open air.
+This saya, or katana scabbard, is light pink in colour, with silver detailing and a purple sageo cord. When a katana is drawn from this saya, strongly scented sakura blossoms appear traveling along the path of the draw, alongside a swift gust of wind, before they disperse into the open air.
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/lRD7g68.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
 #### Prayer Beads to the Myōjin
 
-*Wondrous item, Rare* (requires attunement by a Wisdom caster) </br>
+*Wondrous item, Rare (requires attunement by a Wisdom caster)* </br>
 This bracelet of wooden prayer beads, known as an ōjuzu, has been made to help recite prayer to the Myōjin, the most divine of the Kami. In addition to the many non-magical wooden beads, the bracelet has a number of magical beads, each one engraved with the name of one of the Myōjin. Each magical bead contains a specific spell related to that Myōjin, that you can cast from it as a bonus action (using your spell save DC if a save is necessary). To use the bead, you must be wearing the bracelet. Once a magic bead's spell is cast, that bead can't be used again until the next dawn. If a magic bead is removed from the bracelet, that bead loses its magic. If more beads are discovered, they can be added to the bracelet.
 
 The bracelet currently has beads of the following spells, listed with their associated Myōjin:
 
 - Kahei-sama: *Calm Emotions*
 
+#### Kenzo's Jitte
+
+*Weapon (Jitte), Uncommon* </br>
+This Jitte was a treasured weapon of Dojo Sensei Kenzo, which he had by his side for much of his life and used to teach martial arts to his students. If you successfully use the Disarming feature to disarm a creature, you get advantage with all attacks with this jitte and with the disarmed weapon against that creature until the end of your next turn.
+
+\column
+
+"A sensei should not pick a favourite student, so I shalln't, but I do hope that it is you, Tatsuhiro Haruto, who finds message. I know I have been less than forthcoming about why I am being sent away, and what purpose Daimyō Hidemaro Wakasa has for me, and to tell the truth the details are being kept a mystery even to me. To tell more of the truth, I have kept this secret for I must be sure none of you to follow me; I wish for you not to share my past, or to share my potential fate. I am being sent by the Daimyō to Nezumijima, back to some of my old haunts, to seek out some targets that are considered threats both to the clan and to the nation. I have been told that this is simply an investigation, relying on my access to former contacts, but I doubt I would be requested if it were not also for my other talents. As for why I have agreed to this, the Daimyō somehow knows of my past, more than any of you, and is able to hold that against me; for your safety I had no choice.
+
+Tatsuhiro, if you are reading this, the Dojo is yours for whatever you would need of it. I hope you can find a way to keep it as it was, to continue to train everyone under its roof, but I know that would be a greater challenge than I have ever faced. There will likely come a time where you will have to leave, to seek out a life elsewhere. For this I do not blame you, but I wish to know that all of you are safe, and you do not try to follow my path. Know that you are strong, that you are smart, and that you know what is just. Try to find, in your small corner of the world, the good you can do. And stay alive, for me.
+
+I left here my first jitte, as it felt the right time to part with it. It kept me safe for many years, may it keep you safe too.
+
+Kenzo Haruto."
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/lRD7g68.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+# Villains and Monsters
+
+## Gamers
+
+### Text with an Underline ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:140px,left:55px,width:375px,mix-blend-mode:normal}
+
+Test text
+The dragon's roar shook the ground beneath their feet, and the brave knight stood tall, his sword at the ready. He knew that this would be the battle of his life, but he was determined to emerge victorious.
+
+\column
+
+Test text
+The dragon's roar shook the ground beneath their feet, and the brave knight stood tall, his sword at the ready. He knew that this would be the battle of his life, but he was determined to emerge victoriousTest text
+
+### Text with an Underline ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:201px,left:400px,width:375px,mix-blend-mode:normal}
+
+The dragon's roar shook the ground beneath their feet, and the brave knight stood tall, his sword at the ready. He knew that this would be the battle of his life, but he was determined to emerge victorious
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/lRD7g68.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
 \page
 
 {{frontCover}}
 
-![background image](https://i.imgur.com/9hhabNH.jpg){position:absolute,bottom:0,left:0,height:100.5%}
+![background image](https://i.ibb.co/F42X5rg/Sumiriku-DMBack-Cover6.png){position:absolute,bottom:0,left:0,height:100.5%}
