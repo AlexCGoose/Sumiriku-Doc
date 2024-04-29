@@ -120,9 +120,9 @@ Sumiriku is a dangerous place.
 
 ## The Hyakushima Bandits
 
-Many groups of bandits roam the roads and settlements of Sumiriku, who make their living by preying on defenseless civilians and taking whatever food and valuables they can find. One such group is found in middle Sesujishima, lead by the fearsome Kanehisa and his second in command, Akitake. Though they appear to be targeting the humble village of Hyakushima for the fruits of their harvest, Kanehisa has kept secret some ulterior motives...
+Many groups of bandits roam the roads and settlements of Sumiriku, who make their living by preying on defenseless civilians and taking whatever food and valuables they can find. One such group is found in middle Sesujishima, lead by the fearsome Kanehisa and his second in command, Akitake. Though they appear to be targeting the humble village of Hyakushima to steal the result of their harvest, Kanehisa has kept secret some ulterior motives...
 
-{{monster,frame
+{{#creature,monster,frame
 
 ## Kanehisa
 
@@ -130,7 +130,7 @@ Many groups of bandits roam the roads and settlements of Sumiriku, who make thei
 ___
 **Armor Class** :: 13
 **Hit Points**  :: 35
-**Speed**       :: 3ft.
+**Speed**       :: 30 ft.
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -168,6 +168,44 @@ ___
 
 \page
 
+## Masuzō
+
+{{#creature,monster,frame
+
+## Kanehisa
+
+*Medium Humanoid, Lawful Neutral*
+___
+**Armor Class** :: 13
+**Hit Points**  :: 35
+**Speed**       :: 30 ft.
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|16 (+3)|14 (+2)|12 (+1)|12 (=1)| 8 (-1)|12 (+1)|
+___
+**Skills**               :: Intimidation +3, Persuasion +3
+**Senses**               :: darkvision 60 ft., passive Perception 15
+**Languages**            :: Common
+**Challenge**            :: 1 {{width:80px}} **Proficiency Bonus** +2 (Level 4)
+___
+***Legendary Resistance (1/Day).*** If Kanehisa fails a saving throw, he can choose to succeed instead.
+:
+***Exploit Opening (2/Day).*** When Kanehisa makes an attack, they have advantage on the attack roll
+
+### Actions
+
+***TODO.***
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/lRD7g68.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
 {{partCover}}
 
 # PART 2
@@ -187,7 +225,7 @@ ___
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/lRD7g68.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://i.imgur.com/lRD7g68.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 

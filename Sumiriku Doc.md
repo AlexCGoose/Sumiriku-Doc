@@ -4238,7 +4238,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 
 :
 
-{{monster,frame
+{{#creature,monster,frame
 
 ## Raccoon-Dog
 
@@ -4266,7 +4266,7 @@ ___
 
 :
 
-{{monster,frame
+{{#creature,monster,frame
 
 ## Tanuki Raccoon-Dog
 
@@ -4296,7 +4296,7 @@ ___
 
 :
 
-{{monster,frame
+{{#creature,monster,frame
 
 ## Tanuki Empowered Raccoon-Dog
 
@@ -4343,7 +4343,7 @@ ___
 
 :
 
-{{monster,frame
+{{#creature,monster,frame
 
 ## River Otter
 
@@ -4373,7 +4373,7 @@ ___
 
 :
 
-{{monster,frame
+{{#creature,monster,frame
 
 ## Kawauso River Otter
 
@@ -4408,7 +4408,7 @@ ___
 
 :::::::::::::::::::::::::::
 
-{{monster,frame
+{{#creature,monster,frame
 
 ## Kawauso Empowered River Otter
 
@@ -4450,7 +4450,7 @@ ___
 
 :
 
-{{monster,frame
+{{#creature,monster,frame
 
 ## Fox
 
@@ -4480,7 +4480,7 @@ ___
 
 :
 
-{{monster,frame
+{{#creature,monster,frame
 
 ## Kitsune Fox
 
@@ -4512,7 +4512,7 @@ ___
 
 :
 
-{{monster,frame
+{{#creature,monster,frame
 
 ## Kitsune Empowered Fox
 
@@ -4563,7 +4563,7 @@ ___
 
 :
 
-{{monster,frame
+{{#creature,monster,frame
 
 ## Crane
 
@@ -4591,7 +4591,7 @@ ___
 
 :
 
-{{monster,frame
+{{#creature,monster,frame
 
 ## Kisuru Crane
 
@@ -4624,7 +4624,7 @@ ___
 
 :::::::::::::::::::::::::::::
 
-{{monster,frame
+{{#creature,monster,frame
 
 ## Kisuru Empowered Crane
 
