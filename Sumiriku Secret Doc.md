@@ -95,13 +95,13 @@ This Jitte was a treasured weapon of Dojo Sensei Kenzo, which he had by his side
 
 \column
 
-"A sensei should not pick a favourite student, so I shalln't, but I do hope that it is you, Tatsuhiro Haruto, who finds message. I know I have been less than forthcoming about why I am being sent away, and what purpose Daimyō Hidemaro Wakasa has for me, and to tell the truth the details are being kept a mystery even to me. To tell more of the truth, I have kept this secret for I must be sure none of you to follow me; I wish for you not to share my past, or to share my potential fate. I am being sent by the Daimyō to Nezumijima, back to some of my old haunts, to seek out some targets that are considered threats both to the clan and to the nation. I have been told that this is simply an investigation, relying on my access to former contacts, but I doubt I would be requested if it were not also for my other talents. As for why I have agreed to this, the Daimyō somehow knows of my past, more than any of you, and is able to hold that against me; for your safety I had no choice.
+"A sensei should not pick a favourite student, so I shan't, but I do hope that it is you, Tatsuhiro Haruto, who finds message. I know I have been less than forthcoming about why I am being sent away, and what purpose Daimyō Wakasa has for me, and to tell the truth the details are being kept a mystery even to me. To tell more of the truth, I have kept this secret in order to be sure none of you follow me; I wish for you not to share my past, or to share my potential fate. I am being sent by the Daimyō to Nezumijima, back to some of my old haunts, to seek out some targets that are considered threats both to the clan and to the nation. I have been told that this is simply an investigation, relying on my access to former contacts, but I doubt I would be requested if it were not also for my other talents. As for why I have agreed to this, the Daimyō somehow knows of my past, more than any of you, and is able to hold that against me; for your safety I had no choice.
 
-Tatsuhiro, if you are reading this, the Dojo is yours for whatever you would need of it. I hope you can find a way to keep it as it was, to continue to train everyone under its roof, but I know that would be a greater challenge than I have ever faced. There will likely come a time where you will have to leave, to seek out a life elsewhere. For this I do not blame you, but I wish to know that all of you are safe, and you do not try to follow my path. Know that you are strong, that you are smart, and that you know what is just. Try to find, in your small corner of the world, the good you can do. And stay alive, for me.
+Whichever of you are reading this, the Dojo is yours for whatever you would need of it. I hope you can find a way to keep it as it was, to continue to train everyone under its roof, but I know that would be a greater challenge than I have ever faced. There will likely come a time where you will have to leave, to seek out a life elsewhere. For this I do not blame you, but I wish to know that all of you are safe, and you do not try to follow my path. Know that you are strong, that you are smart, and that you know what is just. Try to find, in your small corner of the world, the good you can do. And stay alive, for me.
 
 I left here my first jitte, as it felt the right time to part with it. It kept me safe for many years, may it keep you safe too.
 
-Kenzo Haruto."
+Haruto Kenzo."
 
 ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:1000px,left:400px,width:375px,mix-blend-mode:normal}
 
@@ -170,24 +170,24 @@ ___
 
 ## Masuzō
 
+:
+
 {{#creature,monster,frame
 
-## Kanehisa
+## Masuzō
 
-*Medium Humanoid, Lawful Neutral*
+*Medium Yama-Otoko (Giant), Lawful Neutral*
 ___
-**Armor Class** :: 13
-**Hit Points**  :: 35
+**Armor Class** :: 17
+**Hit Points**  :: 50
 **Speed**       :: 30 ft.
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|16 (+3)|14 (+2)|12 (+1)|12 (=1)| 8 (-1)|12 (+1)|
+|14 (+2)|14 (+2)|18 (+4)|10 (+1)|16 (+3)| 8 (-1)|
 ___
-**Skills**               :: Intimidation +3, Persuasion +3
-**Senses**               :: darkvision 60 ft., passive Perception 15
-**Languages**            :: Common
-**Challenge**            :: 1 {{width:80px}} **Proficiency Bonus** +2 (Level 4)
+**Languages**            :: Common, Ōgarugo
+**Challenge**            :: 5 {{width:80px}} **Proficiency Bonus** +3 (Level 5)
 ___
 ***Legendary Resistance (1/Day).*** If Kanehisa fails a saving throw, he can choose to succeed instead.
 :
@@ -195,9 +195,26 @@ ___
 
 ### Actions
 
-***TODO.***
+***Multiattack.***
+:
+***Martial Arts Attack.*** +7 to hi
 
 }}
+
+:
+
+### Kettōdo Rules ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:489px,left:55px,width:375px,mix-blend-mode:normal}
+
+Movement Speed is halved. You can choose to reduce your Movement Speed by a further 10 feet to take the Disengage action.
+
+Initiative is rolled at the beginning of each round of combat.
+
+Before each of your opponent's attacks you can make one of the following special combat actions in place of taking a Reaction, that does not consume your Reaction. You cannot use one of actions and a Reaction on the same attack, and you cannot use one of these special actions after being hit in a turn:
+
+- **Block.** You can roll a d6 and add the total to your AC against that attack.
+- **Sidestep.** If the attack misses you you can make a Melee Weapon Attack against the opponent that attacked you.
+
+A hit, disarm, or other status condition counts as a point. Duels are typically played to 5 points, or until a combatant resigns.
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
