@@ -2438,6 +2438,16 @@ test
 
 test
 
+{{position:absolute,text-align:right,top:350px,right:305px,margin-bottom:-30px
+
+##### A Mage girl with</br>Ofuda spells and</br> a Fox Shikigami 
+
+}}
+
+![mage-girl-shadow](https://i.imgur.com/ujAxzyV.png) {position:absolute,top:350px,right:-75px,width:300px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.2)skewX(-25deg),mix-blend-mode:multiply}
+
+![mage-girl](https://i.imgur.com/ujAxzyV.png) {position:absolute,right:-0px,top:-0px,width:400px,margin-bottom:-25px,filter:brightness(95%),opacity:100%,mix-blend-mode:normal,transform:scaleX(1)}
+
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
