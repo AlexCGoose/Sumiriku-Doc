@@ -137,7 +137,7 @@ This prosthetic hand is actually a sentient ooze, attached to a host for protect
 
 #### Prayer Beads to the Myōjin
 
-*Wondrous item, Rare (requires attunement by a Wisdom caster), Major* </br>
+*Wondrous item, Rare, Major (requires attunement by a Wisdom caster)* </br>
 This bracelet of wooden prayer beads, known as an ōjuzu, has been made to help recite prayer to the Myōjin, the most divine of the Kami. In addition to the many non-magical wooden beads, the bracelet has a number of magical beads, each one engraved with the name of one of the Myōjin. Each magical bead contains a specific spell related to that Myōjin, that you can cast from it as a bonus action (using your spell save DC if a save is necessary). To use the bead, you must be wearing the bracelet. Once a magic bead's spell is cast, that bead can't be used again until the next dawn. If a magic bead is removed from the bracelet, that bead loses its magic. If more beads are discovered, they can be added to the bracelet.
 
 The bracelet currently has beads of the following spells, listed with their associated Myōjin:
