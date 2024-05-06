@@ -4206,7 +4206,7 @@ T  {{width:5px}} ext
 
 ##### Note: Magic Item Keywords
 
-All Magic Items listed here and in Stories & Secrets have a selection of keyword tags associated with them, which describe some of the qualities of the item. The first tag is the Type. The Types for Magic Items are Ammunition, Armour, Instrument, Potion, Ring, Scroll, Spellcasting Focus, Tattoo, Weapon, or Wondrous Item for items that don't fit any of the other categories (there exist other item types for non-magical items). An item may have multiple of these types.
+All Magic Items listed here and in Stories & Secrets have a selection of keyword tags associated with them, which describe some of the qualities of the item. The first tag is the Type. The Types for Magic Items are Ammunition, Armour, Instrument, Potion, Prosthetic, Ring, Scroll, Spellcasting Focus, Tattoo, Weapon, or Wondrous Item for items that don't fit any of the other categories (there exist other item types for non-magical items). An item may have multiple of these types.
 
 The second tag is Rarity, which indicates how plentiful an item is and how likely it is to come across the item. The five levels of Rarity are Common, Uncommon, Rare, Very Rare, and Unique. Common items are often small, simple magical items or consumable items, such as Potions and low level Spell Scrolls. There should only be one copy of each Unique item in existence, but this does not necessarily mean the item is more powerful or valuable; an item can be Unique for its provenance even if it has the same traits as more common items.
 
