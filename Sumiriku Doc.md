@@ -14,9 +14,9 @@
 
 ## Player's Guide v0.7
 
-___
+![line](https://i.imgur.com/FN4VAkw.png) {position:absolute,top:321px,left:175px,width:450px}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:relative,top:80px,width:450px}<img style="text-align: center;"/>
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:400px,left:175px,width:450px}
 
 \page
 
@@ -30,7 +30,7 @@ ___
 
 - ### [{{ Foreword - On Culture, Adaptation, and Appropriation}}{{ 3}}](#p4) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:140px,left:55px,width:245px,mix-blend-mode:normal}
 
-  - ###### [{{ Language and Translation ..}}{{ 3}}](#p4)
+  - ###### [{{ Language and Translation}}{{ 3}}](#p4)
 
 - ### [{{ PART 1 - History and Religion}}{{ 4}}](#p5) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:201px,left:55px,width:245px,mix-blend-mode:normal}
 
@@ -66,7 +66,7 @@ ___
 
   - ###### [{{ Historical Periods}}{{ 19}}](#p20)
 
-    - [{{ Akegata Jidai (Dawning Era) .........................................}}{{ 19}}](#p20)
+    - [{{ Akegata Jidai (Dawning Era)}}{{ 19}}](#p20)
     - [{{ Kaika Jidai (Blooming Era)}}{{ 19}}](#p20)
       - [{{ The Blood War}}{{ 19}}](#p20)
     - [{{ Assei Jidai (Tyrannical Era)}}{{ 19}}](#p20)

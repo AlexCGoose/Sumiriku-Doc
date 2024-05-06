@@ -8,6 +8,52 @@
 
 \page
 
+{{insideCover}}
+
+# The Shattered States of Sumiriku
+
+## Stories & Secrets v0.1
+
+![line](https://i.imgur.com/iCxIyLL.png) {position:absolute,top:321px,left:175px,width:450px}
+
+![mouse](https://i.imgur.com/p8d8ld4.png) {position:absolute,top:400px,left:175px,width:450px}
+
+\page
+
+{{wide,text-align:center
+
+# Table Of Contents
+
+}}
+
+{{toc
+
+- ### [{{ PART 1 - The Infinite Library}}{{ 3}}](#p4) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:127px,left:55px,width:245px,mix-blend-mode:normal}
+
+  - ###### [{{ Magic Items}}{{ 4}}](#p5)
+  
+    - [{{ Blossom-Blade Saya}}{{ 4}}](#p5)
+    - [{{ Kabuki Mask of the Noppera-bō}}{{ 8}}](#p9)
+    - [{{ Kenzo's Jitte}}{{ 4}}](#p5)
+    - [{{ Kyōsei Claw}}{{ 5}}](#p6)
+    - [{{ Prayer Beads to the Myōjin}}{{ 5}}](#p6)
+    - [{{ Red Feather?}}{{ 5}}](#p6)
+
+  - ###### [{{ Villains and Monsters}}{{ 6}}](#p7)
+  
+    - [{{ The Hyakushima Bandits}}{{ 6}}](#p7)
+    - [{{ Masuzō}}{{ 7}}](#p8)
+
+- ### [{{ PART 2 - The Living Lore}}{{ 8}}](#p9) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:336px,left:55px,width:245px,mix-blend-mode:normal}
+
+  - ###### [{{ Letters and Documents}}{{ 9}}](#p10)
+  
+    - [{{ Sensei Kenzo’s Letter to the Students}}{{ 9}}](#p10)
+
+}}
+
+\page
+
 {{partCover}}
 
 # PART 1
@@ -271,4 +317,4 @@ Haruto Kenzo."
 
 {{frontCover}}
 
-![background image](https://i.ibb.co/F42X5rg/Sumiriku-DMBack-Cover6.png){position:absolute,bottom:0,left:0,height:100.5%}
+![background image](https://i.ibb.co/GJ6VDNn/Sumiriku-DMBack-Cover7.png){position:absolute,bottom:0,left:0,height:100.5%}
