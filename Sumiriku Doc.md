@@ -28,11 +28,11 @@ ___
 
 {{toc
 
-- ### [{{ Foreword - On Culture, Adaptation, and Appropriation}}{{ 3}}](#p4) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:124px,left:55px,width:375px,mix-blend-mode:normal}
+- ### [{{ Foreword - On Culture, Adaptation, and Appropriation}}{{ 3}}](#p4) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:140px,left:55px,width:245px,mix-blend-mode:normal}
 
-  - ###### [{{ Language and Translation}}{{ 3}}](#p4)
+  - ###### [{{ Language and Translation ..}}{{ 3}}](#p4)
 
-- ### [{{ PART 1 - History and Religion}}{{ 4}}](#p5) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:175px,left:55px,width:375px,mix-blend-mode:normal}
+- ### [{{ PART 1 - History and Religion}}{{ 4}}](#p5) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:201px,left:55px,width:245px,mix-blend-mode:normal}
 
   - ###### [{{ The Land of Ink and Blood}}{{ 5}}](#p6)
 
@@ -64,18 +64,18 @@ ___
 
   - ###### [{{ Major Deities}}{{ 15}}](#p16)
 
-  - ###### [{{ Historical Periods - TODO}}{{ 19}}](#p20)
+  - ###### [{{ Historical Periods}}{{ 19}}](#p20)
 
-    - [{{ Akegata Jidai (Dawning Era)}}{{ 19}}](#p20)
+    - [{{ Akegata Jidai (Dawning Era) .........................................}}{{ 19}}](#p20)
     - [{{ Kaika Jidai (Blooming Era)}}{{ 19}}](#p20)
-      - [{{ The Blood War - TODO}}{{ 19}}](#p20)
+      - [{{ The Blood War}}{{ 19}}](#p20)
     - [{{ Assei Jidai (Tyrannical Era)}}{{ 19}}](#p20)
     - [{{ Bunretsu Jidai (Divided Era)}}{{ 19}}](#p20)
     - [{{ Tōgō Jidai (Unification Era)}}{{ 19}}](#p20)
     - [{{ Guntai Jidai (Military Era)}}{{ 19}}](#p20)
     - [{{ Koware Jidai (Shattered States Era)}}{{ 19}}](#p20)
 
-- ### [{{ PART 2 - Character Options}}{{ 22}}](#p23) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:738px,left:55px,width:375px,mix-blend-mode:normal}
+- ### [{{ PART 2 - Character Options}}{{ 22}}](#p23) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:837px,left:55px,width:245px,mix-blend-mode:normal}
 
   - ###### [{{ Character Species}}{{ 23}}](#p24)
 
@@ -94,17 +94,14 @@ ___
     - [{{ Ryūson (Dragonborn)}}{{ 41}}](#p42)
     - [{{ Human}}{{ 44}}](#p45)
 
-  - ###### [{{ Aberrant Forms}}{{ 45}}](#p46)
-
-    - [{{ Oni Bloodline Form}}{{ 45}}](#p46)
-
 }}
-
-\column
 
 {{toc
 
-  - [{{ &nbsp;Yūrei Manifest Form}}{{ 47}}](#p48)
+  - ###### [{{ Aberrant Forms}}{{ 45}}](#p46)
+
+    - [{{ Oni Bloodline Form}}{{ 45}}](#p46)
+    - [{{ Yūrei Manifest Form}}{{ 47}}](#p48)
     - [{{ Yūrei Manifest Form}}{{ 47}}](#p48)
 
   - ###### [{{ Classes and Subclasses}}{{ 49}}](#p50)
@@ -112,18 +109,18 @@ ___
     - [{{ Barbarian}}{{ 49}}](#p50)
     - [{{ Bard}}{{ 49}}](#p50)
     - [{{ Blood Hunter}}{{ 50}}](#p51)
-      - [{{ Order of the Shifthunters - TODO}}{{ 50}}](#p51)
-    - [{{ Cleric - TODO}}{{ 51}}](#p52)
-    - [{{ Druid - TODO}}{{ 51}}](#p52)
-    - [{{ Monk - TODO}}{{ 51}}](#p52)
-      - [{{ Way of the Raging Demon - TODO}}{{ 51}}](#p52)
-    - [{{ Paladin - TODO}}{{ 51}}](#p52)
-    - [{{ Ranger - TODO}}{{ 51}}](#p52)
-    - [{{ Rogue - TODO}}{{ 52}}](#p53)
-      - [{{ Dagger Dancer Archetype - TODO}}{{ 52}}](#p53)
-    - [{{ Sorcerer - TODO}}{{ 53}}](#p54)
-    - [{{ Warlock - TODO}}{{ 53}}](#p54)
-    - [{{ Wizard - TODO}}{{ 53}}](#p54)
+      - [{{ Order of the Shifthunters}}{{ 50}}](#p51)
+    - [{{ Cleric - TODO}}{{ 52}}](#p53)
+    - [{{ Druid - TODO}}{{ 52}}](#p53)
+    - [{{ Monk - TODO}}{{ 52}}](#p53)
+      - [{{ Way of the Raging Demon}}{{ 52}}](#p53)
+    - [{{ Paladin - TODO}}{{ 52}}](#p53)
+    - [{{ Ranger - TODO}}{{ 52}}](#p53)
+    - [{{ Rogue - TODO}}{{ 53}}](#p54)
+      - [{{ Dagger Dancer Archetype}}{{ 53}}](#p54)
+    - [{{ Sorcerer - TODO}}{{ 54}}](#p55)
+    - [{{ Warlock - TODO}}{{ 54}}](#p55)
+    - [{{ Wizard - TODO}}{{ 54}}](#p55)
 
   - ###### [{{ Backgrounds}}{{ 55}}](#p56)
 
@@ -138,13 +135,10 @@ ___
 
   - ###### [{{ Feats}}{{ 67}}](#p68)
 
-    - [{{ Species and Aberrant Form Feats  - TODO}}{{ 67}}](#p68)
+    - [{{ Species and Aberrant Form Feats - TODO}}{{ 67}}](#p68)
     - [{{ Generic Feats}}{{ 74}}](#p75)
-}}
 
-{{toc
-
-- ### [{{ PART 3 - Geography and Culture}}{{ 80}}](#p81)
+  - ### [{{ PART 3 - Geography and Culture}}{{ 80}}](#p81) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:674px,left:285px,width:245px,mix-blend-mode:normal}
 
   - ###### [{{ Maps of Sumiriku and the World - TODO}}{{ 81}}](#p82)
 
@@ -161,9 +155,13 @@ ___
 
   - ###### [{{ Important People and Groups - TODO}}{{ 88}}](#p89)
 
-  - ###### [{{ Relics and Special Items - TODO}}{{ 90}}](#p91)
+  - ###### [{{ Sacred Treasures and other Magic Items - TODO}}{{ 90}}](#p91)
 
-- ### [{{ EXTRA - Appendices}}{{ 91}}](#p92)
+}}
+
+{{toc
+
+- ### [{{ EXTRA - Appendices}}{{ 91}}](#p92) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:115px,left:515px,width:245px,mix-blend-mode:normal}
 
   - ###### [{{ Appendix A - Creature Stat Blocks}}{{ 92}}](#p93)
 
@@ -175,17 +173,11 @@ ___
 
   - ###### [{{ Appendix E - Reference Images - TODO}}{{ 118}}](#p119)
 
-- ### [{{ CREDITS}}{{ 123}}](#p124)
+- ### [{{ CREDITS}}{{ 123}}](#p124) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:322px,left:515px,width:245px,mix-blend-mode:normal}
 
   - ###### [{{ Special Thanks}}{{ 123}}](#p124)
 
 }}
-
-![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:604px,left:400px,width:375px,mix-blend-mode:normal}
-
-![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:748px,left:400px,width:375px,mix-blend-mode:normal}
-
-![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:892px,left:400px,width:375px,mix-blend-mode:normal}
 
 \page
 
@@ -1550,17 +1542,13 @@ Refer to Appendix A for creature stat blocks, and Appendix D for rules on Transf
 
 \page
 
-{{imageMaskCorner11,--offsetX:-48%,--offsetY:55%,--rotation:0
-  ![cranes](https://data.ukiyo-e.org/artelino/images/52796g1.jpg){position:absolute,top:-30px,left:-100px,width:70%,transform:scaleX(1),filter:opacity(90%)}
-}}
+![splotch](https://i.imgur.com/UPUX4zG.png) {position:absolute,top:0px,left:40px,width:300px,mix-blend-mode:multiply,filter:hue-rotate(0deg)brightness(125%)grayscale(100%),opacity:50%,transform:rotate(40deg)}
 
-![kisuru-shadow](https://i.imgur.com/XHzPTC5.png) {position:absolute,left:-30px,top:120px,width:300px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.2)skewX(17deg),mix-blend-mode:multiply}
+![origami](https://i.imgur.com/9INHZIt.png) {position:absolute,top:50px,left:-00px,width:400px,mix-blend-mode:normal,filter:brightness(100%)grayscale(100%),transform:scaleX(1)rotate(0deg)}
 
-![kisuru](https://i.imgur.com/XHzPTC5.png) {position:absolute,top:-15px,left:50px,width:300px,mix-blend-mode:normal}
+{{position:absolute,top:325px,left:200px,margin-bottom:-30px
 
-{{position:absolute,top:295px,left:255px,margin-bottom:-30px
-
-##### A Kisuru</br> martial leader
+##### An Origami Crane
 
 }}
 
@@ -1576,13 +1564,17 @@ The deity Ochiwa-sama is a Kisuru, and the God of Mourning.
 
 \column
 
-![splotch](https://i.imgur.com/UPUX4zG.png) {position:absolute,top:100px,left:410px,width:325px,mix-blend-mode:multiply,filter:hue-rotate(0deg)brightness(125%)grayscale(100%);,opacity:50%}
+{{imageMaskCorner10,--offsetX:48%,--offsetY:40%,--rotation:0
+  ![cranes](https://data.ukiyo-e.org/artelino/images/52796g1.jpg){position:absolute,top:-20px,right:-30px,width:70%,transform:scaleX(-1),filter:opacity(90%)}
+}}
 
-![origami](https://i.imgur.com/9INHZIt.png) {position:absolute,top:150px,left:375px,width:400px,mix-blend-mode:normal,filter:brightness(100%)grayscale(100%)}
+![kisuru-shadow](https://i.imgur.com/XHzPTC5.png) {position:absolute,top:225px,left:500px,width:375px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.2)skewX(-17deg),mix-blend-mode:multiply}
 
-{{position:absolute,top:450px,left:500px,margin-bottom:-30px
+![kisuru](https://i.imgur.com/XHzPTC5.png) {position:absolute,top:-20px,left:375px,width:425px,mix-blend-mode:normal,transform:scaleX(1)}
 
-##### An Origami Crane
+{{position:absolute,top:450px,right:300px,margin-bottom:-30px,text-align:right
+
+##### A Kisuru</br> martial leader
 
 }}
 
@@ -2440,7 +2432,7 @@ test
 
 {{position:absolute,text-align:right,top:350px,right:305px,margin-bottom:-30px
 
-##### A Mage girl with</br>Ofuda spells and</br> a Fox Shikigami 
+##### A Mage girl with</br>Ofuda spells and</br> a Fox Shikigami
 
 }}
 
@@ -2457,7 +2449,7 @@ test
 
 # Backgrounds
 
-Adventurers come from a great variety of walks of life before they embark on their journeys. The Koware Jidai has done much to fling people from these roles into an unknown future, often leaving behind these previous lives out of necessity rather than opportunity  Rōnin, Scholar, Geisha, Merchant; people of entirely different experiences may find themselves in an unlikely union, one where sharing their unique skills gives them an advantage against an uncaring world.
+Adventurers come from a great variety of walks of life before they embark on their journeys. The Koware Jidai has done much to force people from these roles into an unknown future, often leaving behind these previous lives out of necessity rather than opportunity. Rōnin, Scholar, Geisha, Merchant; people of entirely different experiences may find themselves in an unlikely union, one where sharing their unique skills gives them an advantage against an uncaring world.
 
 :
 
@@ -4206,9 +4198,23 @@ T  {{width:5px}} ext
 
 \page
 
-# Relics and Special Items - TODO
+# Sacred Treasures and other Magic Items - TODO
 
 T  {{width:5px}} ext
+
+{{note
+
+##### Note: Magic Item Keywords
+
+All Magic Items listed here and in Stories & Secrets have a selection of keyword tags associated with them, which describe some of the qualities of the item. The first tag is the Type. The Types for Magic Items are Ammunition, Armour, Instrument, Potion, Ring, Scroll, Spellcasting Focus, Tattoo, Weapon, or Wondrous Item for items that don't fit any of the other categories (there exist other item types for non-magical items). An item may have multiple of these types.
+
+The second tag is Rarity, which indicates how plentiful an item is and how likely it is to come across the item. The five levels of Rarity are Common, Uncommon, Rare, Very Rare, and Unique. Common items are often small, simple magical items or consumable items, such as Potions and low level Spell Scrolls. There should only be one copy of each Unique item in existence, but this does not necessarily mean the item is more powerful or valuable; an item can be Unique for its provenance even if it has the same traits as more common items.
+
+The third tag is Power, which indicates the strength of the item's abilities and the impact it would have on a character's potential. The levels of Power are Aesthetic, for items that do not confer any mechanical bonuses, Minor, Major, Epic, and Ultimate.
+
+There are a selection of additional tags that any item can have. Craftable is for items forged and transmuted by people's hands, which are also items that are easier to purchase or to have custom made. Miracle is for items created by magical phenomena or rituals lost to time, such the item couldn't be created again. Sacred is for the Sacred Treasures of Sumiriku, items that have legendary tales told of them or have close ties to divinity.
+
+}}
 
 {{pageNumber,auto}}
 {{footnote PART 3 | GEOGRAPHY AND CULTURE}}
