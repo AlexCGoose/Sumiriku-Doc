@@ -2368,7 +2368,7 @@ While you aren't wearing Armour or wielding a Shield, your base Armour Class equ
 
 *3rd level Dagger Dancer feature*
 </br>
-You are unaffected by Difficult Terrain from being in an allied creature's space, and you can move through spaces occupied by any hostile creature, regardless of its size. When you reach 6th level in this class, you also are unaffected by Difficult Terrain from being in a hostile creature's space.
+You are unaffected by the reduction to movement from being in an allied creature's space, and you can move through spaces occupied by any hostile creature, regardless of its size. When you reach 6th level in this class, you also are unaffected by the reduction to movement from being in a hostile creature's space.
 
 On your turn, if you travel through the space of a hostile creature you can use Sneak Attack against that creature without needing Advantage on the attack.
 
