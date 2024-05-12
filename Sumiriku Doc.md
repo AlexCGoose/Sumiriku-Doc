@@ -4,7 +4,7 @@
 
 {{frontCover}}
 
-![cover](https://i.ibb.co/2hr5mdB/Sumiriku-Cover6.png){position:absolute,bottom:0,left:0,height:100.5%}
+![cover](https://i.ibb.co/wgqY341/Sumiriku-Cover6.png){position:absolute,bottom:0,left:0,height:100.5%}
 
 \page
 
@@ -2032,7 +2032,7 @@ As an Oni Bloodline, you gain these special traits:
   ![yurei](https://i.imgur.com/wrb76S8.png) {position:absolute,left:-0px,top:00px,width:400px,margin-bottom:-25px,filter:brightness(95%),opacity:100%,mix-blend-mode:normal,transform:scaleX(-1)}
 }}
 
-{{position:absolute,top:640px,left:275px,margin-bottom:-30px
+{{position:absolute,top:645px,left:275px,margin-bottom:-30px
 
 ##### A Yurei Balanced</br> on a Naginata
 
@@ -2120,7 +2120,19 @@ You stay in the new form until you use an Action to revert to your true form or 
 
 \page
 
-# Classes and Subclasses - TODO
+{{imageMaskEdge1,--offset:5%,--rotation:90
+  ![barbarian](https://i.imgur.com/Gbp6A7L.png){position:absolute,top:-1px,left:-500px,height:101%,transform:scaleX(-1)}
+}}
+
+{{position:absolute,top:1060px,left:375px,margin-bottom:-30px,text-align:left
+
+##### An Otsuchi wielding Barbarian
+
+}}
+
+{{wide,#big-column-right
+
+# Classes and Subclasses
 
 Across Sumiriku there are many people with remarkable talents and abilities. The stories and myths of this land tell of legendary people, with incredible martial prowess, skill in sorcery and foresight, or even direct control over nature and the elements. It may be that, in this time of crisis, heroes like those in the legends will emerge again.
 
@@ -2144,13 +2156,14 @@ On the fields of war there are those who forego the precise techniques of many m
 
 The intersection of skills between Barbarians and Monks are Sumōtori (相撲取り), wrestlers who use their impressive might and strength to force their opponents out of the ring. Sumōtori train their bodies to become both an unstoppable force and an immovable object, skills which are valuable in the arena and on the battlefield.
 
-{{note
-
-##### Note: Where are the Artificers?
-
-Artificer as a Class is not presented here, as it is not assumed to be available within the setting of Sumiriku; their inventor archetype does not fit well within the pre-industrial setting. Speak with your DM if you wish to play as an Artificer, to create a character concept that would fit within Sumiriku.
-
 }}
+
+{{pageNumber,auto}}
+{{footnote PART 2 | CHARACTER OPTIONS}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+
+\page
 
 ## Bard
 
@@ -2166,55 +2179,65 @@ In the Equipment section later in this part is a list of instruments specific to
 
 }}
 
-{{imageMaskCorner20,--offsetX:47%,--offsetY:-60%,--rotation:0
-  ![shamisen](https://i.imgur.com/X7WZbjd.png){position:absolute,left:290px,bottom:-50px,height:75%,transform:scaleX(1)}
+{{imageMaskCorner20,--offsetX:-47.5%,--offsetY:-42.5%,--rotation:0
+  ![yokai-hunter](https://i.hireillo.com/wp-content/uploads/2023/03/22231049/yokai-hunter-v1-rgb-699x1080.jpg){position:absolute,left:-120px,bottom:-50px,height:75%,transform:scaleX(-1)}
 }}
 
-{{position:absolute,top:1055px,right:390px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:520px,left:335px,margin-bottom:-30px,text-align:left
+
+##### A Yokai</br>Hunter
+
+}}
+
+\column
+
+{{imageMaskCorner20,--offsetX:47%,--offsetY:56%,--rotation:0
+  ![shamisen](https://i.imgur.com/X7WZbjd.png){position:aboslute,top:-250px,right:-140px,height:70%,transform:scaleX(1)}
+}}
+
+{{position:absolute,top:420px,right:320px,margin-bottom:-30px,text-align:right
 
 ##### A Shamisen </br>player
+
+}}
+
+:::::::::::::::::::::::::::::
+
+## Blood Hunter
+
+In the shadowy corners of the world there exist a select few, who have taken a most dark and solemn vow: to be the unseen shield against threats unimaginable. Those who take this vow brand themselves with the power of blood magic, a power they use to thwart their foes at the cost of their own life force. Yōkai deceivers, demonic Oni, vengeful spirits, aberrations from beyond space; if the marked ones are successful then the world at large will never even learn of these dangers. Becoming one of these hunters is often a family tradition, the mark of the vow passed from parent to child, but there are also those who find their way into this mysterious life. Those who follow this path often wander the land alone tracking their prey, or they may walk amongst regular folk in major towns and cities, keeping their secret existence close to their chest. It is believed by some that organisations of these hunters exist in some of the larger settlements, and they share their knowledge and skills under cover of darkness.
+
+:
+
+{{note
+
+##### Note: Where are the Artificers?
+
+Artificer as a Class is not presented here, as it is not assumed to be available within the setting of Sumiriku; their inventor archetype does not fit well within the pre-industrial setting. Speak with your DM if you wish to play as an Artificer, to create a character concept that would fit within Sumiriku.
 
 }}
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-{{imageMaskCorner20,--offsetX:-47.5%,--offsetY:42.5%,--rotation:0
-  ![yokai-hunter](https://i.hireillo.com/wp-content/uploads/2023/03/22231049/yokai-hunter-v1-rgb-699x1080.jpg){position:aboslute,top:-150px,left:-100px,height:70%,transform:scaleX(-1)}
-}}
-
-{{position:absolute,top:570px,left:325px,margin-bottom:-30px
-
-##### A Yokai</br>Hunter
-
-}}
-
-::::::::::::::::::::::::::::::::::::::::
-
-## Blood Hunter
-
-In the shadowy corners of the world there exist a select few, who have taken a most dark and solemn vow: to be the unseen shield against threats unimaginable. Those who take this vow brand themselves with the power of blood magic, a power they use to thwart their foes at the cost of their own life force. Yōkai deceivers, demonic Oni, vengeful spirits, aberrations from beyond space; if the marked ones are successful then the world at large will never even learn of these dangers. Becoming one of these hunters is often a family tradition, the mark of the vow passed from parent to child, but there are also those who find their way into this mysterious life. Those who follow this path often wander the land alone tracking their prey, or they may walk amongst regular folk in major towns and cities, keeping their secret existence close to their chest. It is believed by some that organisations of these hunters exist in some of the larger settlements, and they share their knowledge and skills under cover of darkness.
-
-\column
-
-### Order of the Shiftstalkers ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Order of the Shiftstalkers ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Alternate Blood Hunter Subclass*
 </br>
-To many, Yokai seem like nothing more than curious miscreants, mischief makers, but few recognise the true danger these otherworldly beings can bring. Dwelling deep within Kimyōkai, creatures of great power plot and scheme at the downfall of the manifest world and their control over both realms. The world's protection comes from Yokai hunters calling themselves the Shiftstalkers, who have mastered using the Yokai's techniques of disguise, trickery, and manipulation against them.
+To most people, Yokai seem like nothing more than curious miscreants, mischief makers - few recognise the true danger these otherworldly beings can bring. Dwelling  within Kimyōkai, creatures of great power plot and scheme at the downfall of the manifest world and their control over both realms. The world's protection comes from Yokai hunters calling themselves the Shiftstalkers, who have mastered using the Yokai's techniques of disguise, trickery, and manipulation against them.
 
 {{#default-table,classTable
 
-| Alt. Blood Hunter Level | Feature                              |
-|:------------------------|:-------------------------------------|
-| 3rd                     | Mimic Weapon, Otherworldly Senses    |
-| 7th                     | Nimble Step                          |
-| 13th                    | Two to Tango                         |
-| 18th                    | Rhythm of Battle                     |
+| Alt. Blood Hunter Level | Feature                                                     |
+|:------------------------|:------------------------------------------------------------|
+| 3rd                     | Mimic Weapon, Blade of Sinew, Otherworldly Senses           |
+| 7th                     | Illusionary Persona, Grafted Armament                       |
+| 13th                    | Repelant Aura                                               |
+| 18th                    | Devour Soul                                                 |
 
 }}
 
@@ -2224,50 +2247,45 @@ To many, Yokai seem like nothing more than curious miscreants, mischief makers, 
 </br>
 One of your weapons has awoken to reveal itself as a Tsukumogami, a Yokai that disguises itself as an inanimate object. Choose a Melee Weapon that you own with which you are proficient. This weapon becomes your Mimic Weapon.
 
-Your Mimic Weapon is a sentient weapon, with an Intelligence of 8, a Wisdom of 14, and a Charisma of 11. It has your alignment and shares your goals, but also wishes to devour other weapons to prove its power. It has hearing and normal vision out to a range of 60 feet, understands your speech, and can communicate through animalistic grunts and vocalisations. As an Action you can transform your weapon, changing it into any other Melee Weapon with which you are proficient.
+Your Mimic Weapon is a sentient weapon, with an Intelligence of 8, a Wisdom of 14, and a Charisma of 11. It has your alignment and shares your goals, but also wishes to devour other weapons to prove its power. It has signs of being a living weapon, such as eyes or teeth, but it can disguise those features to make them unnoticable. It has hearing and normal vision out to a range of 60 feet, understands your speech, and can communicate through animalistic grunts and vocalisations. As an Action you can transform your weapon, changing it into any other Melee Weapon with which you are proficient.
 
 Your Mimic Weapon is also able to eat other weapons to gain their abilities. Over a Short Rest you can give your weapon another magical Melee Weapon to consume, permanently granting it the effects of the weapons it consumes. If the weapons consumed have +1 to Attack and Damage Rolls, your Mimic Weapon gets the sum of those bonuses, to a maximum of +3. If the magical Melee Weapons consumed require attunement, you must attune to each one individually.
 
-{{pageNumber,auto}}
-{{footnote PART 2 | CHARACTER OPTIONS}}
+\column
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+{{imageMaskCorner16,--offsetX:57%,--offsetY:45%,--rotation:0
+  ![swamp](https://www.originalmagicart.store/cdn/shop/products/AOJIMaiko_003_Swampcopy_5000x.jpg?v=1645691827){position:aboslute,top:-50px,right:-240px,height:70%,transform:scaleX(1),filter:opacity(66%)}
+}}
 
-\page
+![oni-girl-shadow](https://i.imgur.com/VWlzFnV.png) {position:absolute,top:155px,right:-120px,width:400px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.2)skewX(-25deg),mix-blend-mode:multiply}
+
+![oni-girl](https://i.imgur.com/VWlzFnV.png) {position:absolute,right:0px,top:-35px,width:400px,margin-bottom:-25px,filter:brightness(95%),opacity:100%,mix-blend-mode:normal,transform:scaleX(1)}
+
+{{position:absolute,top:330px,right:305px,margin-bottom:-30px,text-align:right
+
+##### A Oni-cursed </br>Human with a </br>Tsukumogami </br>weapon
+
+}}
+
+:::::::::::::::::::::::::::::::::
+
+#### Blade of Sinew
+
+*3rd level Order of the Shiftstalkers feature*
+</br>
+You can draw power from your Mimic Weapon's blood rather than your own. Once per long rest you can make a Vital Sacrifice without reducing your current or maximum hit points. You cannot use this feature in the same turn you make an Attack with your Mimic Weapon.
 
 #### Otherworldly Senses
 
 *3rd level Order of the Shiftstalkers feature*
 </br>
-Your bond with your Mimic Weapon increases your awareness of your surroundings. While wielding your Mimic Weapon have Advantage on Intelligence (Investigation) and Wisdom (Survival) checks to detect Yokai (Fey), and you cannot be surprised.
+Your bond with your Mimic Weapon increases your awareness of your surroundings. While wielding your Mimic Weapon you can detect the presence of Illusion magic and Shapechangers within 60 feet of you, and you have advantage on saves against magic you detect this way.
 
-#### Living Weapon
+#### Illusionary Persona
 
 *7th level Order of the Shiftstalkers feature*
 </br>
-test
-
-#### Living Weapon
-
-*13th level Order of the Shiftstalkers feature*
-</br>
-test
-
-#### Living Weapon
-
-*18th level Order of the Shiftstalkers feature*
-</br>
-test
-
-{{position:absolute,top:70px,left:405px,margin-bottom:-30px
-
-##### A Oni-cursed Human</br>with a Tsukumogami weapon
-
-}}
-
-![oni-girl-shadow](https://i.imgur.com/VWlzFnV.png) {position:absolute,top:330px,right:-45px,width:400px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.2)skewX(-25deg),mix-blend-mode:multiply}
-
-![oni-girl](https://i.imgur.com/VWlzFnV.png) {position:absolute,right:-0px,top:-0px,width:500px,margin-bottom:-25px,filter:brightness(95%),opacity:100%,mix-blend-mode:normal,transform:scaleX(1)}
+You learn the Yokai magic of disguise and infiltration. You can use your Mimic Weapon to cast the Alter Self spell once per long rest. When you cast the spell this way you can any number of the options at once, not just one, and the duration of the spell is 8 hours. While taking the apperance of a specific creature, you have advantage on Charisma (Deception) checks when interacting with said creature and on Wisdom (Survival) checks to track said creature.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -2276,13 +2294,75 @@ test
 
 \page
 
+#### Grafted Armament
+
+*7th level Order of the Shiftstalkers feature*
+</br>
+The bond with your Mimic Weapon grows closer. You can no longer be seperated from your Mimic Weapon by any means. As a Bonus Action you can have your Mimic Weapon retreat into your body or have it emerge from you in your hand.
+
+#### Repelant Aura
+
+*13th level Order of the Shiftstalkers feature*
+</br>
+Your distrust of yokai allures empowers you and your allies. Whenever a creature attempts to charm you or an ally of you within 30 feet they must attempt a Wisdom Saving Throw against your Rite Save DC. If they fail the Saving Throw the charm attempt fails and they take Psychic damage equal to a two roles of your Rite Die.
+
+#### Devour Soul
+
+*18th level Order of the Shiftstalkers feature*
+</br>
+You have learned the most foul of Yokai powers; the ability to feast on a foe's soul. Whenever you deal Fire, Necrotic or Psychic damage with 
+a Crimson Offering on your Mimic Weapon, you restore a number of hit points equal to the damage dealt.
+
+:
+
+{{note
+
+##### Note: Adapting to Original Blood Hunter
+
+test
+
+}}
+
+\column
+
 ## Cleric
 
 test
 
+![miko](https://i.imgur.com/LV1E25m.png) {position:absolute,bottom:-200px,right:-120px,width:450px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.2)skewX(-25deg),mix-blend-mode:multiply}
+
+![miko-girl](https://i.imgur.com/LV1E25m.png) {position:absolute,right:0px,bottom:45px,width:450px,margin-bottom:-25px,filter:brightness(95%),opacity:100%,mix-blend-mode:normal,transform:scaleX(1)}
+
+{{position:absolute,top:970px,left:400px,margin-bottom:-30px
+
+##### A Miko
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 2 | CHARACTER OPTIONS}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
+
+{{imageMaskCorner21,--offsetX:-53%,--offsetY:50%,--rotation:0
+  ![druid](https://i.imgur.com/j21G2eG.jpeg){position:aboslute,top:-10px,left:-20px,height:50%,transform:scaleX(-1)}
+}}
+
+{{position:absolute,top:540px,left:265px,margin-bottom:-30px
+
+##### A Druid protects </br>her forest home
+
+}}
+
+::::::::::::::::::::::::::::::::::::
+
 ## Druid
 
 test
+
+\column
 
 ## Fighter
 
@@ -2292,7 +2372,7 @@ test
 
 test
 
-### Way of the Raging Demon ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:297px,left:55px,width:375px,mix-blend-mode:normal}
+### Way of the Raging Demon ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:297px,left:400px,width:375px,mix-blend-mode:normal}
 
 test
 
@@ -2327,6 +2407,13 @@ test
 ## Ranger
 
 test
+
+{{pageNumber,auto}}
+{{footnote PART 2 | CHARACTER OPTIONS}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+
+\page
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -4144,7 +4231,7 @@ The day of the Summer Solstice, the longest day of the year. It is said that the
 
 ### Tanabata </br> - 7th of Shichigatsu - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:676px,left:400px,width:375px,mix-blend-mode:normal}
 
-A day of wishmaking.
+A day of wish-making.
 
 :
 
