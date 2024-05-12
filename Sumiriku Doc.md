@@ -2380,11 +2380,15 @@ Your movement doesn't provoke Opportunity Attacks. If you take the Disengage Act
 
 \column
 
-{{imageMaskCorner15,--offsetX:51%,--offsetY:41%,--rotation:0
-  ![dagger-dancer](https://cdna.artstation.com/p/assets/images/images/020/287/172/large/olga-petuhova-bmm2.jpg?1567166253){position:aboslute,top:-70px,right:-1px,width:60%,transform:scaleX(-1),filter:opacity(100%)}
+{{imageMaskCorner12,--offsetX:51%,--offsetY:42%,--rotation:0
+  ![dagger-dancer](https://i.imgur.com/Gu7CTCn.png){position:aboslute,top:-70px,right:-100px,width:60%,transform:scaleX(1),filter:opacity(100%)}
 }}
 
-{{position:absolute,top:435px,right:345px,margin-bottom:-30px,text-align:right
+{{imageMaskCorner12,--offsetX:30%,--offsetY:30%,--rotation:0
+  ![dagger-dancer-crop](https://i.imgur.com/gIOgpRY.png){position:aboslute,top:-70px,right:-100px,width:60%,transform:scaleX(1),filter:opacity(100%)}
+}}
+
+{{position:absolute,top:420px,right:300px,margin-bottom:-30px,text-align:right
 
 ##### A Dagger </br>Dancer
 
