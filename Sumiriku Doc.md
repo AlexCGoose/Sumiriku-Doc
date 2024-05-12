@@ -107,75 +107,75 @@
   - ###### [{{ Classes and Subclasses}}{{ 49}}](#p50)
 
     - [{{ Barbarian}}{{ 49}}](#p50)
-    - [{{ Bard}}{{ 49}}](#p50)
+    - [{{ Bard}}{{ 50}}](#p51)
     - [{{ Blood Hunter}}{{ 50}}](#p51)
-      - [{{ Order of the Shifthunters}}{{ 50}}](#p51)
+      - [{{ Order of the Shifthunters}}{{ 51}}](#p52)
     - [{{ Cleric - TODO}}{{ 52}}](#p53)
-    - [{{ Druid - TODO}}{{ 52}}](#p53)
-    - [{{ Monk - TODO}}{{ 52}}](#p53)
-      - [{{ Way of the Raging Demon}}{{ 52}}](#p53)
-    - [{{ Paladin - TODO}}{{ 52}}](#p53)
-    - [{{ Ranger - TODO}}{{ 52}}](#p53)
-    - [{{ Rogue - TODO}}{{ 53}}](#p54)
-      - [{{ Dagger Dancer Archetype}}{{ 53}}](#p54)
-    - [{{ Sorcerer - TODO}}{{ 54}}](#p55)
-    - [{{ Warlock - TODO}}{{ 54}}](#p55)
-    - [{{ Wizard - TODO}}{{ 54}}](#p55)
+    - [{{ Druid - TODO}}{{ 53}}](#p54)
+    - [{{ Monk - TODO}}{{ 53}}](#p54)
+      - [{{ Way of the Raging Demon}}{{ 53}}](#p54)
+    - [{{ Paladin - TODO}}{{ 53}}](#p54)
+    - [{{ Ranger - TODO}}{{ 53}}](#p54)
+    - [{{ Rogue - TODO}}{{ 56}}](#p56)
+      - [{{ Dagger Dancer Archetype}}{{ 55}}](#p56)
+    - [{{ Sorcerer - TODO}}{{ 56}}](#p57)
+    - [{{ Warlock - TODO}}{{ 56}}](#p57)
+    - [{{ Wizard - TODO}}{{ 56}}](#p57)
 
-  - ###### [{{ Backgrounds}}{{ 55}}](#p56)
+  - ###### [{{ Backgrounds}}{{ 57}}](#p58)
 
-    - [{{ Languages}}{{ 56}}](#p57)
-    - [{{ Sample Backgrounds - TODO}}{{ 57}}](#p58)
+    - [{{ Languages}}{{ 58}}](#p59)
+    - [{{ Sample Backgrounds - TODO}}{{ 59}}](#p60)
 
-  - ###### [{{ Weapons, Armour, and Equipment}}{{ 59}}](#p60)
+  - ###### [{{ Weapons, Armour, and Equipment}}{{ 61}}](#p62)
 
-    - [{{ Weapons - TODO}}{{ 59}}](#p60)
-    - [{{ Armour}}{{ 65}}](#p66)
-    - [{{ Equipment - TODO}}{{ 66}}](#p67)
+    - [{{ Weapons - TODO}}{{ 61}}](#p62)
+    - [{{ Armour}}{{ 67}}](#p68)
+    - [{{ Equipment - TODO}}{{ 68}}](#p69)
 
-  - ###### [{{ Feats}}{{ 67}}](#p68)
+  - ###### [{{ Feats}}{{ 69}}](#p70)
 
-    - [{{ Species and Aberrant Form Feats - TODO}}{{ 67}}](#p68)
-    - [{{ Generic Feats}}{{ 74}}](#p75)
+    - [{{ Species and Aberrant Form Feats - TODO}}{{ 69}}](#p70)
+    - [{{ Generic Feats}}{{ 76}}](#p77)
 
-  - ### [{{ PART 3 - Geography and Culture}}{{ 80}}](#p81) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:674px,left:285px,width:245px,mix-blend-mode:normal}
+  - ### [{{ PART 3 - Geography and Culture}}{{ 82}}](#p83) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:674px,left:285px,width:245px,mix-blend-mode:normal}
 
-  - ###### [{{ Maps of Sumiriku and the World - TODO}}{{ 81}}](#p82)
+  - ###### [{{ Maps of Sumiriku and the World - TODO}}{{ 83}}](#p84)
 
-  - ###### [{{ Landscapes and Landmarks - TODO}}{{ 83}}](#p84)
+  - ###### [{{ Landscapes and Landmarks - TODO}}{{ 85}}](#p86)
 
-  - ###### [{{ Calendar and Notable Events - TODO}}{{ 86}}](#p87)
+  - ###### [{{ Calendar and Notable Events - TODO}}{{ 88}}](#p89)
 
-    - [{{ Seasons}}{{ 86}}](#p87)
-    - [{{ Important Days}}{{ 86}}](#p87)
-      - [{{ Shōtenbi (Ascension Day)}}{{ 86}}](#p87)
-      - [{{ Tanabata (Seventh Evening)}}{{ 86}}](#p87)
-      - [{{ Ganjitsu (New Year's Day)}}{{ 86}}](#p87)
-      - [{{ Hyakki Chitsuki (Hundred Oni Blood Moon)}}{{ 87}}](#p88)
+    - [{{ Seasons}}{{ 88}}](#p89)
+    - [{{ Important Days}}{{ 88}}](#p89)
+      - [{{ Shōtenbi (Ascension Day)}}{{ 88}}](#p89)
+      - [{{ Tanabata (Seventh Evening)}}{{ 88}}](#p89)
+      - [{{ Ganjitsu (New Year's Day)}}{{ 88}}](#p89)
+      - [{{ Hyakki Chitsuki (Hundred Oni Blood Moon)}}{{ 89}}](#p90)
 
-  - ###### [{{ Important People and Groups - TODO}}{{ 88}}](#p89)
+  - ###### [{{ Important People and Groups - TODO}}{{ 90}}](#p91)
 
-  - ###### [{{ Sacred Treasures and other Magic Items - TODO}}{{ 90}}](#p91)
+  - ###### [{{ Sacred Treasures and other Magic Items - TODO}}{{ 92}}](#p93)
 
 }}
 
 {{toc
 
-- ### [{{ EXTRA - Appendices}}{{ 91}}](#p92) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:115px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ EXTRA - Appendices}}{{ 93}}](#p94) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:115px,left:515px,width:245px,mix-blend-mode:normal}
 
-  - ###### [{{ Appendix A - Creature Stat Blocks}}{{ 92}}](#p93)
+  - ###### [{{ Appendix A - Creature Stat Blocks}}{{ 94}}](#p95)
 
-  - ###### [{{ Appendix B - Available Feats}}{{ 96}}](#p97)
+  - ###### [{{ Appendix B - Available Feats}}{{ 98}}](#p99)
 
-  - ###### [{{ Appendix C - Spell Changes - TODO}}{{ 108}}](#p109)
+  - ###### [{{ Appendix C - Spell Changes - TODO}}{{ 110}}](#p111)
 
-  - ###### [{{ Appendix D - Rule Change Glossary}}{{ 109}}](#p110)
+  - ###### [{{ Appendix D - Rule Change Glossary}}{{ 111}}](#p112)
 
-  - ###### [{{ Appendix E - Reference Images - TODO}}{{ 118}}](#p119)
+  - ###### [{{ Appendix E - Reference Images - TODO}}{{ 120}}](#p121)
 
-- ### [{{ CREDITS}}{{ 123}}](#p124) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:322px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ CREDITS}}{{ 125}}](#p126) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:322px,left:515px,width:245px,mix-blend-mode:normal}
 
-  - ###### [{{ Special Thanks}}{{ 123}}](#p124)
+  - ###### [{{ Special Thanks}}{{ 125}}](#p126)
 
 }}
 
