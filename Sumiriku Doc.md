@@ -2659,7 +2659,7 @@ On the next page is a table with all Languages known across Sumiriku. Sumirikugo
 </br>Bedroll{{width:97px}}Musical Instrument
 </br>Bo{{width:126px}}Philosophy Book
 </br>Holy Symbol{{width:62px}}Robe
-</br>Merchant's Scale{{width:33px}}25gp
+</br>Merchant's Scale{{width:33px}}25 GP
 </br>Lamp
 
 :
@@ -2677,7 +2677,7 @@ On the next page is a table with all Languages known across Sumiriku. Sumirikugo
 **Equipment**
 </br>Abacus{{width:98px}}Pouch (2)
 </br>Artisan's Tools{{width:48px}}Traveler's Clothes
-</br>Merchant's Scale{{width:33px}}25gp
+</br>Merchant's Scale{{width:33px}}25 GP
 
 :
 
