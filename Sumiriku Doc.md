@@ -2042,7 +2042,7 @@ As an Oni Bloodline, you gain these special traits:
 
 ## 幽霊 - Yūrei Manifest Form
 
-A Yūrei is a ghost or spirit that lingers in the worlds of the living, rather than departing for Yomi. They may have discovered how to escape from Yomi, or they may be trapped within the real world unable to leave to the afterlife peacefully. Many Yūrei have a purpose, a mission they seek to complete before their souls can be fulfilled and they can return to death. This purpose is often vengeance, retribution against their murderer or anyone else who betrayed them in life. The existence as a spirit within the physical world gives Yūrei many unique traits, including the power to change their tangibility and phase through reality. However their existence came to be, it is clear that Yūrei are a bizarre, potentially terrifying abnormality, something never supposed to exist.
+A Yūrei is a ghost or spirit that lingers in the worlds of the living, rather than departing for Yomi. They may have discovered how to escape from Yomi, or they may be trapped within the real world unable to leave to the afterlife peacefully. Many Yūrei have a purpose, a mission they seek to complete before their souls can be fulfilled and they can return to death. This purpose is often vengeance, retribution against their murderer or anyone else who betrayed them in life. The existence as a spirit within the physical world gives Yūrei many unique traits, including the power to change their tangibility and phase through reality. However their existence came to be, it is clear that a Yūrei is a bizarre, potentially terrifying abnormality, something never supposed to exist.
 
 \column
 
@@ -2060,9 +2060,11 @@ As a Yūrei Manifest, you gain these special traits:
 
 ***Ageless and Everlasting.*** You don't age, and effects that would cause you to age don't work on you. You also do not need to eat, drink, or breathe, but you do need to Sleep to prevent Exhaustion. When you do, instead of sleeping you disappear to Yomi, the undying realm.
 
+***Under a Dark Sky.*** You have vulnerability to Radiant damage.
+
 ***Cling to Life.*** You roll a d12 in place of a d20 for Death Saving Throws. On a roll of 1 to 4 you get one failed save, on a roll of 5 to 8 you get one successful save, and on a roll of 9 to 12 you regain 1 hit point and become conscious. You cannot add any additional bonuses to this Saving Throw.
 
-***Pass Through Reality.*** You can use a Bonus Action to phase, allowing you to bypass the real and tangible. This phasing lasts until the end of your turn. While phasing, you can move through solid objects and creatures as if they were difficult terrain. If you stop phasing inside a creature or object, you are instantly shunted to the nearest unoccupied space and take 1d10 force damage for every 5 feet you were forced to travel. You can phase a number of times equal to your Proficiency Bonus, and you regain all uses after you finish a Long Rest.
+***Pass Through Reality.*** You can use a Bonus Action to phase, allowing you to bypass the real and tangible. This phasing lasts until the end of your turn. While phasing, you can move through solid objects and creatures as if they were difficult terrain. If you stop phasing inside a creature or object, you are instantly shunted to the nearest unoccupied space and take 1d10 Force damage for every 5 feet you were forced to travel. You can phase a number of times equal to your Proficiency Bonus, and you regain all uses after you finish a Long Rest.
 
 ***Incorporeal Form.*** As a Reaction to being targeted by a spell, attack, or ability, you may choose to become incorporeal, as you and everything you are caring leave the physical world. You cannot be the target of, or be affected by, spells, attacks, or abilities while incorporeal, and you are invisible. Your incorporeal form ends at the start of your next turn, or when you make an attack or cast a spell. Once you use this feature, you can't use it again until you finish a Long Rest.
 
@@ -2236,7 +2238,7 @@ To most people, Yokai seem like nothing more than curious miscreants, mischief m
 |:------------------------|:------------------------------------------------------------|
 | 3rd                     | Mimic Weapon, Blade of Sinew, Otherworldly Senses           |
 | 7th                     | Illusionary Persona, Grafted Armament                       |
-| 13th                    | Repelant Aura                                               |
+| 13th                    | Repellant Aura                                               |
 | 18th                    | Devour Soul                                                 |
 
 }}
@@ -2247,7 +2249,7 @@ To most people, Yokai seem like nothing more than curious miscreants, mischief m
 </br>
 One of your weapons has awoken to reveal itself as a Tsukumogami, a Yokai that disguises itself as an inanimate object. Choose a Melee Weapon that you own with which you are proficient. This weapon becomes your Mimic Weapon.
 
-Your Mimic Weapon is a sentient weapon, with an Intelligence of 8, a Wisdom of 14, and a Charisma of 11. It has your alignment and shares your goals, but also wishes to devour other weapons to prove its power. It has signs of being a living weapon, such as eyes or teeth, but it can disguise those features to make them unnoticable. It has hearing and normal vision out to a range of 60 feet, understands your speech, and can communicate through animalistic grunts and vocalisations. As an Action you can transform your weapon, changing it into any other Melee Weapon with which you are proficient.
+Your Mimic Weapon is a sentient weapon, with an Intelligence of 8, a Wisdom of 14, and a Charisma of 11. It has your alignment and shares your goals, but also wishes to devour other weapons to prove its power. It has signs of being a living weapon, such as eyes or teeth, but it can disguise those features to make them unnoticeable. It has hearing and normal vision out to a range of 60 feet, understands your speech, and can communicate through animalistic grunts and vocalisations. As an Action you can transform your weapon, changing it into any other Melee Weapon with which you are proficient.
 
 Your Mimic Weapon is also able to eat other weapons to gain their abilities. Over a Short Rest you can give your weapon another magical Melee Weapon to consume, permanently granting it the effects of the weapons it consumes. If the weapons consumed have +1 to Attack and Damage Rolls, your Mimic Weapon gets the sum of those bonuses, to a maximum of +3. If the magical Melee Weapons consumed require attunement, you must attune to each one individually.
 
@@ -2279,13 +2281,13 @@ You can draw power from your Mimic Weapon's blood rather than your own. Once per
 
 *3rd level Order of the Shiftstalkers feature*
 </br>
-Your bond with your Mimic Weapon increases your awareness of your surroundings. While wielding your Mimic Weapon you can detect the presence of Illusion magic and Shapechangers within 60 feet of you, and you have advantage on saves against magic you detect this way.
+Your bond with your Mimic Weapon increases your awareness of your surroundings. While wielding your Mimic Weapon you can detect the presence of Illusion magic and Obake (Shapechangers) within 60 feet of you, and you have advantage on saves against magic you detect this way.
 
 #### Illusionary Persona
 
 *7th level Order of the Shiftstalkers feature*
 </br>
-You learn the Yokai magic of disguise and infiltration. You can use your Mimic Weapon to cast the Alter Self spell once per long rest. When you cast the spell this way you can any number of the options at once, not just one, and the duration of the spell is 8 hours. While taking the apperance of a specific creature, you have advantage on Charisma (Deception) checks when interacting with said creature and on Wisdom (Survival) checks to track said creature.
+You learn the Yokai magic of disguise and infiltration. You can use your Mimic Weapon to cast the Alter Self spell once per long rest. When you cast the spell this way you can any number of the options at once, not just one, and the duration of the spell is 8 hours. While taking the appearance of a specific creature, you have advantage on Charisma (Deception) checks when interacting with said creature and on Wisdom (Survival) checks to track said creature.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -2298,9 +2300,9 @@ You learn the Yokai magic of disguise and infiltration. You can use your Mimic W
 
 *7th level Order of the Shiftstalkers feature*
 </br>
-The bond with your Mimic Weapon grows closer. You can no longer be seperated from your Mimic Weapon by any means. As a Bonus Action you can have your Mimic Weapon retreat into your body or have it emerge from you in your hand.
+The bond with your Mimic Weapon grows closer. You can no longer be separated from your Mimic Weapon by any means. As a Bonus Action you can have your Mimic Weapon retreat into your body or have it emerge from you in your hand.
 
-#### Repelant Aura
+#### Repellant Aura
 
 *13th level Order of the Shiftstalkers feature*
 </br>
@@ -2310,8 +2312,7 @@ Your distrust of yokai allures empowers you and your allies. Whenever a creature
 
 *18th level Order of the Shiftstalkers feature*
 </br>
-You have learned the most foul of Yokai powers; the ability to feast on a foe's soul. Whenever you deal Fire, Necrotic or Psychic damage with 
-a Crimson Offering on your Mimic Weapon, you restore a number of hit points equal to the damage dealt.
+You have learned the most foul of Yokai powers; the ability to feast on a foe's soul. Whenever you deal Fire, Necrotic or Psychic damage with a Crimson Offering on your Mimic Weapon, you restore a number of hit points equal to the damage dealt.
 
 :
 
