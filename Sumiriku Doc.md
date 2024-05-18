@@ -2259,9 +2259,9 @@ Your Mimic Weapon is also able to eat other weapons to gain their abilities. Ove
   ![swamp](https://www.originalmagicart.store/cdn/shop/products/AOJIMaiko_003_Swampcopy_5000x.jpg?v=1645691827){position:aboslute,top:-50px,right:-240px,height:70%,transform:scaleX(1),filter:opacity(66%)}
 }}
 
-![oni-girl-shadow](https://i.imgur.com/VWlzFnV.png) {position:absolute,top:155px,right:-120px,width:400px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.2)skewX(-25deg),mix-blend-mode:multiply}
+![oni-girl-shadow](https://i.imgur.com/VWlzFnV.png) {position:absolute,top:155px,right:-120px,width:390px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.2)skewX(-25deg),mix-blend-mode:multiply}
 
-![oni-girl](https://i.imgur.com/VWlzFnV.png) {position:absolute,right:0px,top:-35px,width:400px,margin-bottom:-25px,filter:brightness(95%),opacity:100%,mix-blend-mode:normal,transform:scaleX(1)}
+![oni-girl](https://i.imgur.com/VWlzFnV.png) {position:absolute,right:0px,top:-35px,width:390px,margin-bottom:-25px,filter:brightness(95%),opacity:100%,mix-blend-mode:normal,transform:scaleX(1)}
 
 {{position:absolute,top:330px,right:305px,margin-bottom:-30px,text-align:right
 
@@ -2269,7 +2269,7 @@ Your Mimic Weapon is also able to eat other weapons to gain their abilities. Ove
 
 }}
 
-:::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::
 
 #### Blade of Sinew
 
