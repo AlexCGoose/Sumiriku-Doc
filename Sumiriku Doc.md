@@ -136,7 +136,7 @@
   - ###### [{{ Feats}}{{ 69}}](#p70)
 
     - [{{ Species and Aberrant Form Feats - TODO}}{{ 69}}](#p70)
-    - [{{ Generic Feats}}{{ 76}}](#p77)
+    - [{{ Generic Feats}}{{ 77}}](#p78)
 
   - ### [{{ PART 3 - Geography and Culture}}{{ 82}}](#p83) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:674px,left:285px,width:245px,mix-blend-mode:normal}
 
@@ -889,7 +889,7 @@ The Myōjin Netsu-sama is a Nekotaiyō, and the God of the Suns.
 
 As a Nekotaiyō, you gain these special traits:
 
-***Cat's Claws.*** You can use your claws to make Unarmed Strikes. When you hit with them, the strike deals 1d4 + your Strength Modifier slashing damage, instead of the Bludgeoning damage normal for an Unarmed Strike.
+***Cat's Claws.*** You can use your claws to make Unarmed Strikes. When you hit with them, the strike deals 1d4 + your Strength Modifier Slashing damage, instead of the Bludgeoning damage normal for an Unarmed Strike.
 
 ***Empowered Vision.*** While in direct sunlight you have Advantage on Wisdom (Perception) checks that rely on sight and you can make out details of even extremely distant creatures and objects as small as 2 feet across.
 
@@ -1558,7 +1558,7 @@ Refer to Appendix A for creature stat blocks, and Appendix D for rules on Transf
 
 Kisuru, one of the four Obake, take the appearance of a crane, either as a humanoid or when shapeshifted as an animal. A somewhat abnormal appearance, Kisuru have feathers of white and black, red crowns, large beaks and long necks, and spindly legs with talons. In their humanoid form they have taloned hands at their wing tips. They stand an average of 6 to 8 feet tall in their humanoid forms, which are typically too heavy to achieve flight in but their feathered wings still allow them to glide gracefully through the air.
 
-Kisuru are considered by many of Sumiriku to be soft-spoken and patient people, but they are more multifaceted than they may appear on the surface. Kisuru are known for being frequently religious, with many cultural ceremonies to recognise the passage of time and the development of one's life. This religiosity leads some to take up a pacifist life, though others follow this belief to become noble samurai. Like their Kitsune cousins, the Kisuru have an appreciation for artistry, but they tend to prefer individual, personal works such as painting, poetry, and origami, a specific interest of the deity Ochiwa-sama. Before the outbreak of the war, Kisuru were known to have a strong connection to the imperial government. Kisuru can be found typically in the northern, colder climates of Sumiriku, like their crane relatives, but their shape-shifting wings let them take further journeys than most of the other species of Sumiriku.
+Kisuru are considered by many of Sumiriku to be soft-spoken and patient people, but they are more multifaceted than they may appear on the surface. Kisuru are known for being frequently religious, with many cultural ceremonies to recognise the passage of time and the development of one's life. This religiosity leads some to take up a pacifist life, though others follow this belief to become noble samurai. Like their Kitsune cousins, the Kisuru have an appreciation for artistry, but they tend to prefer individual, personal works such as painting, poetry, and origami, a specific interest of the deity Ochiwa-sama. Before the outbreak of the war, Kisuru were known to have a strong connection to the imperial government. Kisuru can be found typically in the southern, colder climates of Sumiriku, like their crane relatives, but their shape-shifting wings let them take further journeys than most of the other species of Sumiriku.
 
 The deity Ochiwa-sama is a Kisuru, and the God of Mourning.
 
@@ -1993,17 +1993,17 @@ As an Oni Bloodline, you gain these special traits:
 
 ***Brimstone Blood.*** You gain the Oni (Fiend) creature type.
 
-***Ferocity.*** As an Oni you have a burning passion inside you that needs to be kept in check. Whenever you fail an Ability Check you roll 1d4 and add that amount to your total Ferocity. Additionally, if you start your turn in combat while not incapacitated, you increase your Ferocity by 1d4 + the number of hostile creatures within 5 feet. If you are made Unconscious against your will, such as being reduced to 0 hit points, your Ferocity resets to 0.
+***Ferocity.*** As an Oni you have a burning passion inside you that needs to be kept in check. Whenever you fail a d20 test you roll 1d4 and add that amount to your total Ferocity. Additionally, if you start your turn in combat while not Incapacitated, you increase your Ferocity by 1d4 + the number of hostile creatures within 5 feet. If you are made Unconscious against your will, such as being reduced to 0 hit points, your Ferocity resets to 0.
 
 ***Rampage.*** If you start your turn with 15 or more Ferocity, you must make a Wisdom Saving Throw, with DC equal to your current Ferocity, or else you will be overcome with bloodlust. You must spend your turn moving up to your movement towards the nearest target and then attack them with Demon Fangs, expending all of your Ferocity to deal damage. If at least one ally and one enemy are both the closest creatures, roll a die for odd or even to decide whether to attack an ally or an enemy. If no target is within range, you must take the Dash Action and move as close as possible to the nearest target.
 
-***Demon Fangs.*** You have grown fangs that show your demonic association. Your fanged bite is a natural weapon, which counts as a simple melee weapon with which you are proficient. While above 10 ferocity, you have Advantage on attacks with this bite. It deals 1d4 piercing damage on a hit. When you attack with this weapon and hit a creature, you can expend any amount of Ferocity to deal an equal amount of additional damage with the attack.
+***Demon Fangs.*** You have grown fangs that show your demonic association. Your fanged bite is a natural weapon, which counts as a Simple Melee Weapon with which you are proficient. While above 10 Ferocity, you have Advantage on attacks with this bite. It deals 1d4 Piercing damage on a hit. When you attack with this weapon and hit a creature, you can expend any amount of Ferocity to deal an equal amount of additional damage with the attack.
 
 \column
 
 &nbsp;***Imposing Power.*** You can spend 5 Ferocity whenever you make a Charisma (Intimidation) or Strength (Athletics) check to grant yourself Advantage on the roll.
 
-***Frightful Presence.*** As an Action, you can spend 5 Ferocity to terrify the creatures around you. All creatures of your choice in a 30-foot-radius centred on you must make a Wisdom Saving Throw, or be frightened of you until the start of your next turn. The DC is equal to 5 + your Proficiency Bonus + your current ferocity.
+***Frightful Presence.*** As an Action, you can spend 5 Ferocity to terrify the creatures around you. All creatures of your choice in a 30-foot-radius centred on you must make a Wisdom Saving Throw, or be Frightened of you until the start of your next turn. The DC is equal to 5 + your Proficiency Bonus + your current Ferocity.
 
 {{position:absolute,top:900px,right:400px,margin-bottom:-30px,text-align:right
 
@@ -3059,7 +3059,7 @@ When you hit with a Weapon that has the Strong-Draw property, you can add 1 + ha
 
 #### Bō (棒)
 
-A long wooden staff weapon, typically around 1.8 m or 6 shaku long. Most often used in traditional martial arts such as Bōjutsu, where it is seen to be an extension of one's limbs and thus is used in forms similar to those in empty hand martial arts. It can also be used for stabbing or upward slashing motions, similar to a sword or spear.
+A long wooden staff weapon, typically around 1.8 metres or 6 shaku long. Most often used in traditional martial arts such as Bōjutsu, where it is seen to be an extension of one's limbs and thus is used in forms similar to those in empty hand martial arts. It can also be used for stabbing or upward slashing motions, similar to a sword or spear.
 
 #### Bokken (木剣)
 
@@ -3654,7 +3654,19 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 \page
 
-### Determined ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+{{imageMaskCorner21,--offsetX:-52.5%,--offsetY:54%,--rotation:0
+  ![determined](https://cdnb.artstation.com/p/assets/images/images/009/216/345/large/borja-pindado-digdeep-borjapindado.jpg?1517763919){position:absolute,top:-1px,left:-120px,width:75%}
+}}
+
+{{position:absolute,top:525px,left:120px,margin-bottom:-30px
+
+##### An Determined Warrior
+
+}}
+
+:::::::::::::::::::::::::::::::::::::::
+
+### Determined ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:625px,left:55px,width:375px,mix-blend-mode:normal}
 
 *4th-Level Feat*
 </br>**Prerequisite:** Human
@@ -3670,48 +3682,65 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 **Unwavering.** If you fail a Saving Throw, you can use a Heroic Reroll to succeed instead. Once you use this feature, you cannot use it again until you finish a Long Rest.
 
-:
+\column
 
-### Oni Purified - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:409px,left:55px,width:375px,mix-blend-mode:normal}
+### Oni Purified ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
-*4th-Level Feat*
+*8th-Level Feat*
 </br>**Prerequisite:** Oni Bloodline Form, not having the Oni Embraced Feat
 </br>**Repeatable:** No
 
-</br>You've managed to find inner tranquillity, and suppress the evil that had become a part of you. You may manifest some physical changes as a part of this, as some of your demonic features fade, but you accept that some will always be a part of you. You also gain the following benefits:
+</br>You've managed to find inner tranquillity and balance, and have suppressed the evil that had tied itself to you. You may manifest some physical changes as a part of this, as some of your demonic features fade, but you accept that your past will always be a part of you. You also gain the following benefits:
 
 :
 
-&nbsp;**???**
+&nbsp;**Third Eye of Insight.** You open a third eye to see into the spirit realm; the calming, pastel plane of the Kami. You can see into the Ethereal Plane with this third eye. You also gain advantage on Wisdom (Insight) checks and can tell whether someone is lying when looking at them with your third eye.
 
-\column
+**Tranquility.** You have replaced your Ferocity with Tranquility, the ability to grow from failure. You still gain Tranquility when you fail a d20 test, but you now gain 1 Tranquility for each ally within 30 feet of you at the start of your turn in combat while not Incapacitated, rather than gaining Ferocity for creatures adjacent to you. You no longer have an features that rely on your Ferocity.
 
-### Oni Embraced - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+**Refocus.** You no longer have the desire to rampage, and instead learn to focus yourself and others in the heat of battle. If you start your turn with 15 or more Ferocity, you must make a Wisdom Saving Throw, with DC equal to your current Tranquility. If you fail you must spend your action to create a healing wave, expending all of your Tranquility to restore a number of hit points equal to the Tranquility spent to yourself and all allies within 30 feet. You can choose to fail this Saving Throw.
 
-*4th-Level Feat*
-</br>**Prerequisite:** Oni Bloodline Form, not having the Oni Purified Feat
-</br>**Repeatable:** No
+**Strength of Will.** You can spend 5 Tranquility whenever you make a Charisma (Persuasion) check, Strength (Athletics) check, or Wisdom Saving Throw to grant yourself Advantage on the Roll.
 
-</br>You've fully taken on the demonic part of yourself. You may believe that you can suppress the Oni and use its power, or the spirit inside you may have co opted your body for its own ends. Either way, your physical demonic characteristics become more prominent, and you also gain the following benefits:
-
-:
-
-&nbsp;**???**
-
-{{imageMaskCorner30,--offsetX:66%,--offsetY:-47%,--rotation:0
-  ![embraced](https://i.imgur.com/9HNkS5I.jpg){position:absolute,bottom:-140px,right:-300px,width:120%,}
-}}
-
-{{position:absolute,top:1050px,right:425px,margin-bottom:-30px,text-align:right
-
-##### An Ōgaru that has</br> embraced an Oni
-
-}}
+**Calming Presence.** As an Action, you can spend 5 Tranquility to cast the Calm Emotions spell.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
 ![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
+
+{{imageMaskEdge4,--offset:8%,--rotation:90
+  ![embraced](https://i.imgur.com/9HNkS5I.jpg){position:absolute,bottom:-1px,left:-600px,height:101%}
+}}
+
+{{position:absolute,top:990px,left:360px,margin-bottom:-30px,text-align:left
+
+##### An Ōgaru that has</br> embraced an Oni
+
+}}
+
+\column
+
+### Oni Embraced - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+
+*8th-Level Feat*
+</br>**Prerequisite:** Oni Bloodline Form, not having the Oni Purified Feat
+</br>**Repeatable:** No
+
+</br>You've fully taken on the demonic part of yourself. You may believe that you can suppress the Oni and use its power, or the spirit inside you may have co-opted your body for its own ends. Either way, your physical demonic characteristics become more prominent, and you also gain the following benefits:
+
+:
+
+&nbsp;**Third Eye of Predation.** You open a third eye to see into the spirit realm; a blood-red abyss full of Kami ready to be devoured. You can see into the Ethereal Plane with this third eye. While looking into the Ethereal Plane you can also see the beating life force of all creatures within 100 feet of you on the same plane as you, even if they are behind full cover. You can also tell from this sense the creature's levels of stress and fear.
+
+**Onslaught.**
+
+{{pageNumber,auto}}
+{{footnote PART 2 | CHARACTER OPTIONS}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -3745,11 +3774,11 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 &nbsp;**Marked for Hunting.** You are able to make a creature your mark, the individual that is the target of your haunt. As a Bonus Action you can mark a target you can see. You always know the direction between you and the marked target. Your mark persists indefinitely, or until you mark a different target. Once you have used this feature you cannot use it again until you have finished a Long Rest.
 
-**Invisible Stalker.** If you are hidden and hit a creature with an attack, you remain hidden. If you hit your mark with an attack while hidden, the attack deals an additional d8 necrotic damage.
+**Invisible Stalker.** If you are hidden and hit a creature with an attack, you remain hidden. If you hit your mark with an attack while hidden, the attack deals an additional 1d8 necrotic damage.
 
 **Life from Unlife.** Whenever you </br>deal damage, you can use your</br> Reaction to regain a number of</br> hit points equal to the damage </br>dealt. You can use this feature </br>a number of times equal to your </br>proficiency bonus, and you </br>regain all expended uses when </br>you finish a Long Rest.
 
-{{position:absolute,top:680px,right:250px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:700px,right:240px,margin-bottom:-30px,text-align:right
 
 ##### A haunting </br> Yurei
 
@@ -3764,7 +3793,7 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -3821,7 +3850,7 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -3851,7 +3880,7 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 **Patient Stance.** If you are wielding a Katana and nothing else, you can use your Bonus Action to sheathe it and enter a Patient Stance, with one hand on the scabbard and another on the handle. While in this Stance, your Reaction Attacks deal an additional 1d8 Slashing damage, as you unsheathe your Katana and attack in one fluid motion. This Stance ends if you Attack, use the Magic Action, let go of your Katana, or take the Dash Action. You can also choose to start combat in this Stance, provided your Katana is not already drawn.
 
-**Quick Slash.** While in your Patient Stance, as a Reaction to a creature you can see within 10 feet of you attempting to make an Attack, you can attempt to make a Quick Slash against the target, moving up to 5 feet towards them and making an Attack with your Katana at Advantage.
+**Quick Slash.** While in your Patient Stance, as a Reaction to a creature you can see within 10 feet of you attempting to make an Attack Roll, you can attempt to make a Quick Slash against the target, moving up to 5 feet towards them and making an Attack with your Katana at Advantage.
 
 \column
 
@@ -3872,7 +3901,7 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -3931,23 +3960,11 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-{{imageMaskEdge1,--offset:3%,--rotation:90
-  ![hadoken](https://i.imgur.com/zhQpREA.png){position:absolute,bottom:-1px,left:-350px,height:101%,mix-blend-mode:normal}
-}}
-
-{{position:absolute,top:1020px,left:390px,margin-bottom:-30px
-
-##### A practitioner of</br> Shotokan Karate
-
-}}
-
-\column
-
-### Okizeme Expert ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Okizeme Expert ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *4th-Level Feat*
 </br>**Prerequisite:** None
@@ -3965,7 +3982,7 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 :
 
-### Shurikenjutsu Master ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:465px,left:400px,width:375px,mix-blend-mode:normal}
+### Shurikenjutsu Master ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:465px,left:55px,width:375px,mix-blend-mode:normal}
 
 *4th-Level Feat*
 </br>**Prerequisite:** Proficiency with Shuriken
@@ -3983,16 +4000,36 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 **Retrieval.** At the end of a battle you can now spend 1 minute to recover all thrown weapons and ammunition used during said battle, rather than half, as long as those items are not missing or destroyed.
 
-:
+{{imageMaskEdge1,--offset:3%,--rotation:270
+  ![hadoken](https://i.imgur.com/zhQpREA.png){position:absolute,bottom:-1px,right:-350px,height:101%,mix-blend-mode:normal,transform:scaleX(-1)}
+}}
+
+{{position:absolute,top:1020px,left:270px,margin-bottom:-30px
+
+##### A practitioner of</br> Shotokan Karate
+
+}}
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-### Traditionalist ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+{{imageMaskEdge1,--offset:3%,--rotation:90
+  ![death](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5246e0e3-fe8a-4fdb-9c31-4741f3509015/d870uiy-998dc2a8-50d7-4631-8a6d-149f7f928a4d.jpg/v1/fit/w_700,h_933,q_70,strp/nature_s_fortitude_by_changinghand_d870uiy-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTMzIiwicGF0aCI6IlwvZlwvNTI0NmUwZTMtZmU4YS00ZmRiLTljMzEtNDc0MWYzNTA5MDE1XC9kODcwdWl5LTk5OGRjMmE4LTUwZDctNDYzMS04YTZkLTE0OWY3ZjkyOGE0ZC5qcGciLCJ3aWR0aCI6Ijw9NzAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.fZ9SOoZKs0glNOxYaN0xQOCQI2hwVbiyIhXj90BoJHg){position:absolute,bottom:-50px,left:-200px,height:110%,mix-blend-mode:normal,transform:scaleX(1)}
+}}
+
+{{position:absolute,top:960px,left:400px,margin-bottom:-30px,text-align:left
+
+##### A Samurai returns</br> to nature
+
+}}
+
+\column
+
+### Traditionalist ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *4th-Level Feat*
 </br>**Prerequisite:** None
@@ -4010,7 +4047,7 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 :
 
-### Yomi Touched ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:392px,left:55px,width:375px,mix-blend-mode:normal}
+### Yomi Touched ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:392px,left:400px,width:375px,mix-blend-mode:normal}
 
 *4th-Level Feat*
 </br>**Prerequisite:** None
@@ -4023,35 +4060,6 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 &nbsp;**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma Score by 1, to a maximum of 20.
 
 **Otherworldly Casting.** You always have the Invisibility spell and one 1st-Level spell of your choice prepared, and can cast these spells using any Spell Slots you have. The 1st-Level spell must be from the Conjuration or Necromancy schools of magic. You can also cast these spells once without expending a Spell Slot or requiring Material components, and you regain the ability to do so when you finish a Long Rest. Your Spellcasting Ability for these spells is the ability increased by this feat.
-
-\column
-
-{{imageMaskEdge1,--offset:3%,--rotation:-90
-  ![death](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5246e0e3-fe8a-4fdb-9c31-4741f3509015/d870uiy-998dc2a8-50d7-4631-8a6d-149f7f928a4d.jpg/v1/fit/w_700,h_933,q_70,strp/nature_s_fortitude_by_changinghand_d870uiy-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTMzIiwicGF0aCI6IlwvZlwvNTI0NmUwZTMtZmU4YS00ZmRiLTljMzEtNDc0MWYzNTA5MDE1XC9kODcwdWl5LTk5OGRjMmE4LTUwZDctNDYzMS04YTZkLTE0OWY3ZjkyOGE0ZC5qcGciLCJ3aWR0aCI6Ijw9NzAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.fZ9SOoZKs0glNOxYaN0xQOCQI2hwVbiyIhXj90BoJHg){position:absolute,bottom:-50px,right:-200px,height:110%,mix-blend-mode:normal,transform:scaleX(-1)}
-}}
-
-{{position:absolute,top:1020px,right:395px,margin-bottom:-30px,text-align:right
-
-##### A Samurai returns</br> to nature
-
-}}
-
-{{pageNumber,auto}}
-{{footnote PART 2 | CHARACTER OPTIONS}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
-
-\page
-
-{{imageMaskEdge1,--offset:11.5cm,--rotation:180
-  ![Background image](https://upload.wikimedia.org/wikipedia/commons/d/d0/100_views_edo_008.jpg){position:absolute,top:-80px,left:-25px,width:110%}
-}}
-
-{{position:absolute,bottom:105px,left:230px,margin-bottom:-30px
-
-##### A Ukiyo-e view of Sumiriku's most sacred mountain - TODO
-
-}}
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -6658,6 +6666,16 @@ Very special thanks to Raluca Patria for her incredible assistance with map crea
 ![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
+
+{{imageMaskEdge1,--offset:11.5cm,--rotation:180
+  ![Background image](https://upload.wikimedia.org/wikipedia/commons/d/d0/100_views_edo_008.jpg){position:absolute,top:-80px,left:-25px,width:110%}
+}}
+
+{{position:absolute,bottom:105px,left:230px,margin-bottom:-30px
+
+##### A Ukiyo-e view of Sumiriku's most sacred mountain - TODO
+
+}}
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
