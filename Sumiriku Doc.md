@@ -2349,7 +2349,7 @@ test
 \page
 
 {{imageMaskCorner21,--offsetX:-53%,--offsetY:50%,--rotation:0
-  ![druid](https://i.imgur.com/j21G2eG.jpeg){position:aboslute,top:-10px,left:-20px,height:50%,transform:scaleX(-1)}
+  ![druid](https://i.imgur.com/j21G2eG.jpeg){position:aboslute,top:-1px,left:-20px,height:50%,transform:scaleX(-1)}
 }}
 
 {{position:absolute,top:540px,left:265px,margin-bottom:-30px
@@ -4066,7 +4066,6 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
 ![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
-
 
 \page
 
