@@ -112,6 +112,7 @@
       - [{{ Order of the Shifthunters}}{{ 51}}](#p52)
     - [{{ Cleric - TODO}}{{ 52}}](#p53)
     - [{{ Druid - TODO}}{{ 53}}](#p54)
+    - [{{ Fighter - TODO}}{{ 53}}](#p54)
     - [{{ Monk - TODO}}{{ 53}}](#p54)
       - [{{ Way of the Raging Demon}}{{ 53}}](#p54)
     - [{{ Paladin - TODO}}{{ 53}}](#p54)
@@ -138,7 +139,7 @@
     - [{{ Species and Aberrant Form Feats - TODO}}{{ 69}}](#p70)
     - [{{ Generic Feats}}{{ 77}}](#p78)
 
-  - ### [{{ PART 3 - Geography and Culture}}{{ 82}}](#p83) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:674px,left:285px,width:245px,mix-blend-mode:normal}
+  - ### [{{ PART 3 - Geography and Culture}}{{ 82}}](#p83) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:690px,left:285px,width:245px,mix-blend-mode:normal}
 
   - ###### [{{ Maps of Sumiriku and the World - TODO}}{{ 83}}](#p84)
 
@@ -3660,7 +3661,7 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 {{position:absolute,top:525px,left:120px,margin-bottom:-30px
 
-##### An Determined Warrior
+##### An Determined Warior
 
 }}
 
@@ -4065,6 +4066,7 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
 ![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+
 
 \page
 
