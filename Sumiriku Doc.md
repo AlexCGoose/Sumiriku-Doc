@@ -2143,7 +2143,7 @@ geisha bard?
 theater bard?
 painter bard?
 craftsman bard?
-ink bard?
+ink bard
 
 shinto cleric?
 buddist cleric?
@@ -2151,11 +2151,11 @@ herbalist cleric?
 
 duality cleric?
 sky cleric?
-harvest cleric?
-treasure cleric?
+harvest cleric? - poverty in laserllama kinda
+treasure cleric? - in laserllama
 revelry cleric? - trickery
 sea cleric?
-land cleric?
+land cleric? - nature
 tyranny cleric?
 hope cleric? - twilight kinda
 
@@ -2185,7 +2185,7 @@ zodiac sorcerer?
 calamity sorcerer?
 
 balance wizard?
-constellation wizard?
+constellation / zodiac wizard?
 
 -->
 
