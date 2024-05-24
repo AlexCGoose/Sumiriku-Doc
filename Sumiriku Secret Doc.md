@@ -4,7 +4,7 @@
 
 {{frontCover}}
 
-![cover](https://i.ibb.co/tx3f0cz/Sumiriku-DMCover8.png){position:absolute,bottom:0,left:0,height:100.5%}
+![cover](https://i.ibb.co/X3VBnpD/Sumiriku-DMCover8.png){position:absolute,bottom:0,left:0,height:100.5%}
 
 \page
 
@@ -73,7 +73,7 @@
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/lRD7g68.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
@@ -120,14 +120,14 @@ This Jitte was a treasured weapon of Dojo Sensei Kenzo, which he had by his side
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/lRD7g68.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
 #### Kyōsei Claw
 
-*Prosthetic (Hand), Rare, Minor* </br>
-This prosthetic hand is actually a sentient ooze, attached to a host for protection in a symbiotic relationship. The claw is a dark purple colour, with multiple toothy protrusions, including a mouth in the palm of the hand.
+*Prosthetic (Arm), Rare, Minor* </br>
+This prosthetic arm is actually a sentient ooze, attached to a host for protection in a symbiotic relationship. The claw is a dark purple colour, with multiple toothy protrusions, including a mouth in the palm of the hand.
 
 **Unarmed Strikes.** You can use this claw to make Unarmed Strikes. When you hit with them, the strike deals 1d6 + your Strength Modifier Necrotic damage, instead of the Bludgeoning damage normal for an Unarmed Strike.
 
@@ -158,7 +158,45 @@ This feather can instead be used to return the recently deceased back to life. W
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/lRD7g68.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+![arm](https://i.imgur.com/euSgduk.png) {position:absolute,bottom:75px,left:75px,height:90%}
+
+\column
+
+{{wide,#big-column-right
+
+#### Shinobi Prosthetic
+
+*Prosthetic (Arm), Very Rare, Major (Requires Attunement)* </br>
+This highly advanced prosthetic, created by esteemed craftsperson Rumiko, combines stone, rope, steel, and bone into a form that mimics a normal arm. A combination of engineering and magic allows the wielder to command the prosthetic as they would their missing arm, though they receive no sensation from it and the precision they can get is never quite the same. The magic incorporated into the prosthetic is confounding; the mechanics of the limb are mundane but the embed magic is required to control it. Specially for the new owner, the tips of the fingers have been filed down into small claws.
+
+Despite the impressive feat of engineering, a device as complex as this is likely to encounter issues. You can use this prosthetic as a regular arm, able to perform all actions that you would normally. Whenever you attempt a d20 test requiring use of this prosthetic, such as lifting a heavy object or making an Attack Roll, and you roll a 1 you fail the action and the prosthetic jams, and is unusable until it is fixed. You also must attempt a d20 test to see if the prosthetic jams if you attempt an action with your prosthetic that does not require a d20 test, such as casting a spell with Somatic components. While your prosthetic is jammed you can use your Action to make a DC 15 Dexterity (Sleight of Hand) check to fix the arm. You can add proficiency to this roll if you have proficiency with Carpenter's tools, Tinker's tools, or Thieves' tools and you use them to help fix the arm. Another creature can also attempt this fix as an action. If this check is failed, the arm is broken and will need repairs.
+
+You can repair the arm over a Short or Long Rest. You can attempt the same check once per rest, this time at DC 10, to repair an arm or to remove a jam. If you have proficiency with Carpenter's tools, Tinker's tools, or Thieves' tools and use them in the repairs you succeed without needing to make a check.
+
+Your prosthetic has space for an attachment under the bone. You can manually swap attachments over a Short or Long Rest.
+
+#### Shuko Claws
+
+*Wondrous Item (Shinobi Prosthetic Attachment), Very Rare, Minor, Mundane* </br>
+This attachment grants you hidden hooked blades, designed after the claws of the Nekotaiyō, to help climb perilous heights. As a Bonus Action you can extend or retract these claws. While extended, you gain a Climb Speed equal to half of your Speed. In addition, if you take the Attack Action on your turn you can use your Bonus Action to make an attack with the claws. They are Martial Melee weapons that deal 1d4 + your Strength Modifier Slashing damage.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
@@ -214,7 +252,7 @@ ___
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/lRD7g68.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -269,7 +307,7 @@ A hit, disarm, or other status condition counts as a point. Duels are typically 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/lRD7g68.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
@@ -292,7 +330,7 @@ A hit, disarm, or other status condition counts as a point. Duels are typically 
 {{pageNumber,auto}}
 {{footnote PART 2 | THE LIVING LORE}}
 
-![star](https://i.imgur.com/lRD7g68.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -308,10 +346,24 @@ I left here my first jitte, as it felt the right time to part with it. It kept m
 
 Haruto Kenzo."
 
+\column
+
+{{#moon-table,classTable,frame
+
+##### Moonfolk Lineage
+
+| Lineage  | 1st-Level Feature                                     | 5th-Level Feature                                          |
+|:---------|:------------------------------------------------------|:-----------------------------------------------------------|
+| Soratami | 1 | 2 |
+| Moritami | 1 | 2 |
+| Maigomin | 1 | 2 |
+
+}}
+
 {{pageNumber,auto}}
 {{footnote PART 2 | THE LIVING LORE}}
 
-![star](https://i.imgur.com/lRD7g68.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
