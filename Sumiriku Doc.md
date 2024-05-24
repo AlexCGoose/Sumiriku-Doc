@@ -2187,6 +2187,8 @@ calamity sorcerer?
 balance wizard?
 constellation / zodiac wizard?
 
+added text from android
+
 -->
 
 {{imageMaskEdge1,--offset:6%,--rotation:90
