@@ -2133,6 +2133,62 @@ You stay in the new form until you use an Action to revert to your true form or 
 
 \page
 
+<!--
+
+craftsman artificer?
+
+kaiju barbarian?
+
+geisha bard?
+theater bard?
+painter bard?
+craftsman bard?
+ink bard?
+
+shinto cleric?
+buddist cleric?
+herbalist cleric?
+
+duality cleric?
+sky cleric?
+harvest cleric?
+treasure cleric?
+revelry cleric? - trickery
+sea cleric?
+land cleric?
+tyranny cleric?
+hope cleric?
+
+blossoms druid?
+natural disaster druid?
+quake druid?
+mountain druid?
+
+dirty fighter?
+yasuo fighter?
+
+akuma monk
+
+progress paladin?
+
+thrown weapon ranger?
+kami ranger?
+survival ranger?
+ainu ranger?
+
+ninja rogue?
+dagger dancer rouge
+
+spirit soul sorcerer?
+yokai sorcerer?
+zodiac sorcerer?
+calamity sorcerer?
+
+balance wizard?
+constellation wizard?
+
+-->
+
 {{imageMaskEdge1,--offset:6%,--rotation:90
   ![barbarian](https://i.imgur.com/Gbp6A7L.png){position:absolute,top:-1px,left:-500px,height:101%,transform:scaleX(-1)}
 }}
