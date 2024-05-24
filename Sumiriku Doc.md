@@ -2157,7 +2157,7 @@ revelry cleric? - trickery
 sea cleric?
 land cleric?
 tyranny cleric?
-hope cleric?
+hope cleric? - twilight kinda
 
 blossoms druid?
 natural disaster druid?
