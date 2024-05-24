@@ -2000,13 +2000,23 @@ As an Oni Bloodline, you gain these special traits:
 
 ***Demon Fangs.*** You have grown fangs that show your demonic association. Your fanged bite is a natural weapon, which counts as a Simple Melee Weapon with which you are proficient. While above 10 Ferocity, you have Advantage on attacks with this bite. It deals 1d4 Piercing damage on a hit. When you attack with this weapon and hit a creature, you can expend any amount of Ferocity to deal an equal amount of additional damage with the attack.
 
+:
+
+{{note
+
+##### Note: Gaining Ferocity
+
+You are only able to gain Ferocity when you fail d20 tests that you had a reasonable chance of succeeding at; you cannot build Ferocity by repeatedly attempting near impossible tasks. If it is unclear if you should gain Ferocity, the DM determines whether or not you do in that specific instance.
+
+}}
+
 \column
 
 &nbsp;***Imposing Power.*** You can spend 5 Ferocity whenever you make a Charisma (Intimidation) or Strength (Athletics) check to grant yourself Advantage on the roll.
 
 ***Frightful Presence.*** As an Action, you can spend 5 Ferocity to terrify the creatures around you. All creatures of your choice in a 30-foot-radius centred on you must make a Wisdom Saving Throw, or be Frightened of you until the start of your next turn. The DC is equal to 5 + your Proficiency Bonus + your current Ferocity.
 
-{{position:absolute,top:900px,right:400px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:1035px,right:410px,margin-bottom:-30px,text-align:right
 
 ##### A Human </br> Oni Samurai
 
@@ -2027,7 +2037,7 @@ As an Oni Bloodline, you gain these special traits:
   ![skeleton](https://i.imgur.com/4wjoUkp.png){position:aboslute,top:-20px,left:-450px,height:65%,transform:scaleX(-1),mix-blend-mode:multiply,filter:brightness(75%)}
 }}
 
-![yurei-shadow](https://i.imgur.com/wrb76S8.png) {position:absolute,bottom:200px,right:335px,width:400px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(-1)scaleY(0.2)skewX(5deg),mix-blend-mode:multiply}
+![yurei-shadow](https://i.imgur.com/wrb76S8.png) {position:absolute,bottom:200px,right:350px,width:400px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(-1)scaleY(0.2)skewX(0deg),mix-blend-mode:multiply}
 
 {{imageMaskCorner21,--offsetX:-56%,--offsetY:40%,--rotation:0,--filter:opacity(80%)
   ![yurei](https://i.imgur.com/wrb76S8.png) {position:absolute,left:-0px,top:00px,width:400px,margin-bottom:-25px,filter:brightness(95%),opacity:100%,mix-blend-mode:normal,transform:scaleX(-1)}
@@ -2123,11 +2133,11 @@ You stay in the new form until you use an Action to revert to your true form or 
 
 \page
 
-{{imageMaskEdge1,--offset:5%,--rotation:90
+{{imageMaskEdge1,--offset:6%,--rotation:90
   ![barbarian](https://i.imgur.com/Gbp6A7L.png){position:absolute,top:-1px,left:-500px,height:101%,transform:scaleX(-1)}
 }}
 
-{{position:absolute,top:1060px,left:375px,margin-bottom:-30px,text-align:left
+{{position:absolute,top:1060px,left:365px,margin-bottom:-30px,text-align:left
 
 ##### An Otsuchi wielding Barbarian
 
@@ -2168,6 +2178,147 @@ The intersection of skills between Barbarians and Monks are Sumōtori (相撲取
 
 \page
 
+### Path of the Kaijū ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+
+*Alternate Barbarian Subclass*
+</br>
+Those who walk the Path of the Kaijū are living proof of the existence of Sumiriku's most destructive creatures. Though it is unknown how they forged this bond with beings of myth, in their veins flows the same blood as these mysterious titans of destruction, wrath, and carnage. Rumours still swirl about the Kaijū's status, their power, and their intentions, but one trait is agreed upon; their driving force is rage.
+
+{{#default-table,classTable
+
+| Alt. Barbarian Level | Feature                      |
+|:---------------------|:-----------------------------|
+| 3rd                  | ???, Kaijū Exploits |
+| 6th                  | ??? |
+| 10th                 | ??? |
+| 14th                 | ??? |
+
+}}
+
+#### Big Rage + Claws & Tail
+
+*3rd level Path of the Kaijū feature*
+</br>
+???
+
+#### Kaijū Exploits
+
+*3rd level Path of the Kaijū feature*
+</br>
+You learn certain Exploits at the Alternate Barbarian levels in the table below. These don't count against your number of Exploits Known and can't be switched upon gaining a level.
+
+{{#default-table,classTable
+
+| Alt. Barbarian Level | Exploit                            |
+|:---------------------|:-----------------------------------|
+| 3rd                  | ??? |
+| 5th                  | ??? |
+| 9th                  | ??? |
+
+}}
+
+#### Biiger Rage?
+
+*6th level Path of the Kaijū feature*
+</br>
+???
+
+#### Something else - Speepin?
+
+*10th level Path of the Kaijū feature*
+</br>
+???
+
+#### Nuclear Breath / Arcane Eruption?
+
+*14th level Path of the Kaijū feature*
+</br>
+???
+
+:
+
+{{note
+
+##### Note: Adapting to 2024 D&D Barbarian
+
+test
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 2 | CHARACTER OPTIONS}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
+
+### Path of the Brute
+
+While most Barbarians hail from the wild places of the world, Brutes discovered their Rage in the underbelly of civilization. Their abilities stem from a combination of street smarts and pure grit. All those who follow this Path share one thing in common, they prefer to solve their problems with their fists.
+
+#### The Wrong Crowd
+
+*3rd-level Path of the Brute feature*
+</br>
+You have a way of falling in with the roughest crowd in any town you find yourself in. When you spend a night carousing in a settlement of any size, you have advantage on all ability checks to gather information on that settlement, its culture, factions, and any important, infamous, or influential figures.
+
+#### Brutish Exploits
+
+*3rd-level Path of the Brute feature*
+</br>
+You learn certain Exploits at the Barbarian levels in the table below. These don't count against your number of Exploits Known and can't be switched upon gaining a level.
+
+{{#default-table,classTable
+
+| Alt. Barbarian Level | Exploit                            |
+|:---------------------|:-----------------------------------|
+| 3rd                  | commanding presence, crushing grip |
+| 5th                  | concussive blow, greater hurl      |
+| 9th                  | confounding critical               |
+
+}}
+
+#### Unarmed & Dangerous
+
+*3rd-level Path of the Brute feature*
+</br>
+Your body is a deadly weapon. Your unarmed strikes deal bludgeoning damage equal to one roll of your Exploit Die.
+
+In addition, whenever you take the Attack action while you are Raging and you make only unarmed strikes, grapples, or shove attacks, you can make one additional unarmed strike, grapple, or shove attack as a bonus action on that turn.
+
+#### Brutal Strikes
+
+*6th-level Path of the Brute feature*
+</br>
+While Raging, your unarmed strikes count as magical for the purposes of overcoming resistance to nonmagical attacks.
+
+Also, when you hit a creature with an unarmed strike, you can use concussive blow without expending an Exploit Die.
+
+You can use concussive blow in this way a number of times equal to your Constitution modifier (minimum of once), and you regain all expended uses when you finish a long rest.
+
+#### Iron Grip
+
+*10th-level Path of the Brute feature*
+</br>
+Once you have a hold of something it is nearly impossible for it to escape. While you are Raging, you can grapple creatures up to two sizes larger than you, and your walking speed is no longer halved when you are dragging a grappled creature.
+
+You also gain a climb speed equal to your walking speed.
+
+#### Brutish Determination
+
+*14th-level Path of the Brute feature*
+</br>
+You can shrug off physical blows that would devastate lesser warriors. When you make a Strength, Dexterity, Constitution, or death saving throw, you roll a d4 and add it to your roll.
+
+Should you roll a 20 or higher on a death saving throw, you instantly regain consciousness and stand up with 1 hit point.
+
+{{pageNumber,auto}}
+{{footnote PART 2 | CHARACTER OPTIONS}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+
+\page
+
 ## Bard
 
 Music, rhythm, and stories permeate everything and everyone within Sumiriku; every drop of dew and gust of wind has a note to play or a story to tell. Those that hone their senses to this and help bring these tales to life can tap into a magical power known as Kotodama (言霊), or 'Sacred Sound', to influence the world around them. Musicians, Geishas, Theatre Performers, Painters, Poets, and other storytellers can all access this power through their own artistic methods. These types of artists are most commonly found in major cities, though travelling performers can be found far and wide. Some musicians are even employed on the battlefield; taiko drummers are used to keep the rhythm of war for advancing armies.
@@ -2182,18 +2333,6 @@ In the Equipment section later in this part is a list of instruments specific to
 
 }}
 
-{{imageMaskCorner20,--offsetX:-47.5%,--offsetY:-42.5%,--rotation:0
-  ![yokai-hunter](https://i.hireillo.com/wp-content/uploads/2023/03/22231049/yokai-hunter-v1-rgb-699x1080.jpg){position:absolute,left:-120px,bottom:-50px,height:75%,transform:scaleX(-1)}
-}}
-
-{{position:absolute,top:520px,left:335px,margin-bottom:-30px,text-align:left
-
-##### A Yokai</br>Hunter
-
-}}
-
-\column
-
 {{imageMaskCorner20,--offsetX:47%,--offsetY:56%,--rotation:0
   ![shamisen](https://i.imgur.com/X7WZbjd.png){position:aboslute,top:-250px,right:-140px,height:70%,transform:scaleX(1)}
 }}
@@ -2201,6 +2340,63 @@ In the Equipment section later in this part is a list of instruments specific to
 {{position:absolute,top:420px,right:320px,margin-bottom:-30px,text-align:right
 
 ##### A Shamisen </br>player
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 2 | CHARACTER OPTIONS}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
+
+### College of Ink ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+
+*Bard Subclass*
+</br>
+The name Sumiriku translates to 'Land of Ink', in reference to the cosmic ink used by the Ō-Hoshikuzushin to draw the islands' shores. Brushwork on canvas, in all its many forms, has always been a sacred and greatly appreciated art, from the elite classes to the common folk. Those that learn of the College of Ink turn their talent with the brush to pure, artistic magic.
+
+{{#default-table,classTable
+
+| Bard Level | Feature                      |
+|:-----------|:-----------------------------|
+| 3rd        | ??? |
+| 6th        | ??? |
+| 14th       | ??? |
+
+}}
+
+#### Casting with a Brush
+
+*3rd level College of Ink feature*
+</br>
+Painter's Supplies / Calligrapher's Supplies???
+
+#### ???
+
+*6th level College of Ink feature*
+</br>
+???
+
+#### ???
+
+*14th level College of Ink feature*
+</br>
+???
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+
+\page
+
+\column
+
+{{imageMaskCorner20,--offsetX:-47.5%,--offsetY:-42.5%,--rotation:0
+  ![yokai-hunter](https://i.hireillo.com/wp-content/uploads/2023/03/22231049/yokai-hunter-v1-rgb-699x1080.jpg){position:absolute,left:-120px,bottom:-50px,height:75%,transform:scaleX(-1)}
+}}
+
+{{position:absolute,top:520px,left:335px,margin-bottom:-30px,text-align:left
+
+##### A Yokai</br>Hunter
 
 }}
 
@@ -2239,7 +2435,7 @@ To most people, Yokai seem like nothing more than curious miscreants, mischief m
 |:------------------------|:------------------------------------------------------------|
 | 3rd                     | Mimic Weapon, Blade of Sinew, Otherworldly Senses           |
 | 7th                     | Illusionary Persona, Grafted Armament                       |
-| 13th                    | Repellant Aura                                               |
+| 13th                    | Repellant Aura                                              |
 | 18th                    | Devour Soul                                                 |
 
 }}
