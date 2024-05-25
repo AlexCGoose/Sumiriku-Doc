@@ -215,7 +215,7 @@ Where possible within this book, I have tried to provide translations of terms a
 
 {{position:absolute,top:1025px,left:180px,margin-bottom:-50px
 
-##### The Kami Goddess Kajin-sama, disguised as a human, <br> appears with her fox companion before a Samurai
+##### The Kami Goddess Kajin-sama, disguised as a human, <br> appears with her fox companion before a samurai
 
 }}
 
@@ -277,7 +277,7 @@ The people of Sumiriku share belief in a polytheistic and animistic religion cal
 
 Shrines are built across the worlds to worship Kami, and to be tethers for the Kami's connection to the physical world. These shrines, and their commonly associated Torii gates, are physical reminders of places of heightened spiritual energy. They differ greatly in scale and grandeur.
 
-The grandest among them are vast structures that become sites of pilgrimages for worshippers of the Myojin, the fourteen greatest Kami. The smallest can be quaint household shrines used to pray to the family Kami that protect a dwelling. Still others are themselves natural landmarks, or house divine objects called Go-Shintai (御神体, 'Sacred body of the Kami'), that are the dwelling place of a Kami; natural dwelling places are often marked with a Shimenawa (標縄, 'Enclosing rope'). The most worshipped of the Kami have many shrines across the realms, as their incredible spirits have been split by their worshippers in a process called Bunrei (分霊, 'Dividing the spirit').
+The grandest among them are vast structures that become sites of pilgrimages for worshippers of the Myōjin, the fourteen greatest Kami. The smallest can be quaint household shrines used to pray to the family Kami that protect a dwelling. Still others are themselves natural landmarks, or house divine objects called Go-Shintai (御神体, 'Sacred body of the Kami'), that are the dwelling place of a Kami; natural dwelling places are often marked with a Shimenawa (標縄, 'Enclosing rope'). The most worshipped of the Kami have many shrines across the realms, as their incredible spirits have been split by their worshippers in a process called Bunrei (分霊, 'Dividing the spirit').
 
 No matter their size or shape, shrines are typically always at a raised position, with stairs leading up to them. It is believed that this brings them, and the worshippers who visit them, closer to Kumonoue, the realm of the Myōjin.
 
@@ -370,15 +370,19 @@ Each of the elemental planes, or Godaikai, are believed to be controlled by a Go
   ![dragon](https://cdnb.artstation.com/p/assets/images/images/027/674/515/large/simone-torcasio-azure-dragon1.jpg?1592231718){position:absolute,left:-375px,bottom:-400px,height:150%}
 }}
 
-{{position:absolute,bottom:100px,left:380px,margin-bottom:-30px,text-align:left
+{{position:absolute,bottom:80px,left:400px,margin-bottom:-30px,text-align:left
 
+<!-- ##### A Water </br>Godai Ryū -->
 ##### A Water </br>Godai Ryu
 
 }}
 
 \column
 
-## Ryū
+![accent](https://i.imgur.com/UgbNP8C.png){position:absolute,top:70px,left:449px,width:7px,mix-blend-mode:normal}
+
+<!-- ## Ryū -->
+## Ryu
 
 Of all the beings across Sumiriku, often the most renowned and honoured are the great Dragons, or Ryū (竜). Ryū are massive serpentine beings, with manes and whiskers, fish-like scales, large antlers, and typically three-clawed hands and feet. Ryū are incredibly powerful, mythical creatures, able to harness both their own impressive might as well as that of the magic in the world around them. They are able to use this magic in the conjuration of spells as well as in their incredible beams of draconic breath. Despite some assuming they are nothing more than huge beasts, Ryū are actually also of notable intellect, though their plans and philosophies may seem abstract to the average Sumiriku denizen. It is unclear how ancient these beings can become, but it is known that throughout a Ryū's life they will shed their great antlers multiple times; these antlers are often sort after both as deeply sacred relics as well as treasures of great value. It is a marvellous sight to witness a Ryū soaring through Sumiriku's sky or swimming through its waters.
 
@@ -411,7 +415,7 @@ Across Sumiriku, stories and rumours tell of calamitous creatures, laying dorman
   ![kirin](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f9104437-622c-475e-8209-69e7e7a41dc7/deqpxv9-35cfef21-8d58-4e28-be5e-a27fe700350a.png/v1/fit/w_828,h_1184,q_70,strp/kirin_by_duskyvel_deqpxv9-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgzMSIsInBhdGgiOiJcL2ZcL2Y5MTA0NDM3LTYyMmMtNDc1ZS04MjA5LTY5ZTdlN2E0MWRjN1wvZGVxcHh2OS0zNWNmZWYyMS04ZDU4LTRlMjgtYmU1ZS1hMjdmZTcwMDM1MGEucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.YXG-spnd8od9FxFUqRWvcTtaKBVZ3sRv3LtK6ZG1qRs){position:absolute,right:-175px,bottom:-1px,height:101%}
 }}
 
-{{position:absolute,bottom:70px,left:250px,margin-bottom:-30px,text-align:left
+{{position:absolute,bottom:120px,left:200px,margin-bottom:-30px,text-align:left
 
 ##### A Kirin, an example of </br>a Holy Manifestation
 
@@ -434,7 +438,7 @@ Below are the list of the Realms connected to Sumiriku:
 
 The dwelling place of the 14 Ō-Hoshikuzushin, progenitors of all else that is. This is the realm where the events of creation took place, with the unfurling of the great cosmic map. This realm lies far beyond the clouds, among the stars in the sky. This place is so distant from the tangible world as to be fully abstract, so no one can truly know what it would be like to exist within it. The presence of this realm is not understood but is instead felt, in the glow of the constellations in the night sky and in the Starlight Regalia, the most sacred of treasures, under strict ownership of the Emperor.
 
-{{position:relative,top:50px,left:-30px,margin-bottom:-30px,align:right
+{{position:relative,top:35px,left:-30px,margin-bottom:-30px,align:right
 
 ##### A bustling city street in Utsushiyo
 
@@ -463,6 +467,7 @@ The world of the real and tangible, of the living and breathing, of ink and bloo
 
 {{position:absolute,top:410px,left:145px,margin-bottom:-30px,align:right
 
+<!-- ##### A river in Kimyōkai -->
 ##### A river in Kimyokai
 
 }}
@@ -497,7 +502,7 @@ The place for the dead, for spirits who have expended the time they had. The dep
 
 }}
 
-{{imageMaskEdge5,--offset:32%,--rotation:0
+{{imageMaskEdge5,--offset:33%,--rotation:0
   ![yomi](https://cdna.artstation.com/p/media_assets/images/images/000/304/018/large/Yomi_River_Scene.jpg?1539545470){position:aboslute,top:740px,left:-1px,width:101%}
 }}
 
@@ -531,7 +536,7 @@ Creatures that come from one of these realms are chaotic beings that reflect and
   ![suikai](https://basiclandart.com/wp-content/uploads/2020/08/jmp-46-island-calle.jpg){position:aboslute,top:200px,left:-250px,width:100%,transform:scaleX(-1)}
 }}
 
-{{imageMaskCorner24,--offsetX:-53%,--offsetY:68%,--rotation:0
+{{imageMaskCorner24,--offsetX:-55%,--offsetY:68%,--rotation:0
   ![makoku](https://images.fineartamerica.com/images-medium-large/lair-of-the-ashen-idol-philip-straub.jpg){position:aboslute,top:0px,left:-130px,width:80%,transform:scaleX(-1)}
 }}
 
@@ -553,6 +558,7 @@ Creatures that come from one of these realms are chaotic beings that reflect and
 
 {{position:absolute,top:1030px,left:390px,margin-bottom:-30px,align:right
 
+<!-- ##### Fūkai -->
 ##### Fukai
 
 }}
@@ -855,7 +861,8 @@ In this section you will find details on the appearance, culture, and traits of 
 
 {{position:absolute,top:400px,left:680px,text-align:left
 
-##### A Nekotaiyo </br> Ronin
+<!-- ##### A Nekotaiyō </br> ronin -->
+##### A Nekotaiyo </br> ronin
 
 }}
 
@@ -910,7 +917,8 @@ As a Nekotaiyō, you gain these special traits:
 
 {{position:absolute,top:1000px,right:370px,margin-bottom:-30px,text-align:right
 
-##### A Nekotaiyo </br> Samurai
+<!-- ##### A Nekotaiyō </br> samurai -->
+##### A Nekotaiyo </br> samurai
 
 }}
 
@@ -947,7 +955,7 @@ The deity Mikazuki-sama is a Soratami, and the God of the Moon.
 
 {{position:absolute,top:1030px,left:370px,margin-bottom:-30px
 
-##### A Tsukibito </br> Scholar
+##### A Tsukibito </br> scholar
 
 }}
 
@@ -980,7 +988,7 @@ As a Tsukibito, you gain these special traits:
 
 {{position:relative,top:-20px,left:430px,margin-bottom:-30px
 
-##### Tsukibito Guards
+##### Tsukibito guards
 
 }}
 
@@ -1088,6 +1096,7 @@ The deities of Bōfū-sama and Sekirai-sama are conjoined Ōgaru twins, and are 
 
 {{position:absolute,top:965px,left:-380px,text-align:right
 
+<!-- ##### An Ōgaru </br> in prayer -->
 ##### An Ogaru </br> in prayer
 
 }}
@@ -1105,6 +1114,7 @@ The deities of Bōfū-sama and Sekirai-sama are conjoined Ōgaru twins, and are 
 
 {{position:absolute,top:1000px,left:380px,text-align:left
 
+<!-- ##### An Ōgaru, influenced by the </br> dark magic of an Oni -->
 ##### An Ogaru, influenced by the </br> dark magic of an Oni
 
 }}
@@ -1186,7 +1196,7 @@ As a Kappa, you gain these special traits:
 
 ***Wellbeing.*** Kappa have an intuitive knowledge of medicine, particularly the skill of setting broken bones. You have proficiency in the Medicine skill, and can attempt to stabilise an unconscious creature as a Bonus Action rather than an Action.
 
-***Peace Magic.*** Starting at 5th level, you can cast the Calm Emotions spell with this trait. Once you cast Calm Emotions with this trait, you can't cast that spell with it again until you finish a Long Rest. You can also cast this spell using any Spell Slots you have of the appropriate level.
+***Peace Magic.*** Starting at 5th level, you can cast the *Calm Emotions* spell with this trait. Once you cast *Calm Emotions* with this trait, you can't cast that spell with it again until you finish a Long Rest. You can also cast this spell using any Spell Slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your Spellcasting Ability for these spells when you cast them with this trait (choose when you select this species).
 
@@ -1211,7 +1221,7 @@ Akki are known for their appreciation of mayhem, strategy, and fire. They have b
 
 {{position:absolute,top:700px,left:330px,text-align:left
 
-##### An Akki </br> Sorcerer
+##### An Akki </br> sorcerer
 
 }}
 
@@ -1223,7 +1233,7 @@ Akki are known for their appreciation of mayhem, strategy, and fire. They have b
 
 {{position:absolute,top:315px,right:290px,text-align:right
 
-##### An Akki </br> Warrior
+##### An Akki </br> warrior
 
 }}
 
@@ -1293,7 +1303,7 @@ Tanuki nowadays are most commonly farmers and agriculturalists and mostly keep t
 The deity Hanamai-sama is a Tanuki, and the God of Rice.
 
 {{imageMaskEdge1,--offset:17%,scale,--rotation:-0,
-  ![tanuki](https://i.imgur.com/sWq29Yj.png){position:absolute,bottom:-65px,left:-1px,width:101%,transform:scaleX(-1}
+  ![tanuki](https://i.imgur.com/sWq29Yj.png){position:absolute,bottom:-65px,left:-1px,width:101%}
 }}
 
 {{position:absolute,top:660px,left:425px,margin-bottom:-30px
@@ -1434,7 +1444,7 @@ You also gain the Obake (Shapechanger) creature type.
 
 ***Favourite Stone.*** You are in possession of a special pebble that you call your own. Whenever this pebble is separated from you, you may have the pebble quickly return to you or to whoever was previously holding it. You can choose any stone, gem, or equivalent object you possess to be your Favourite Stone.
 
-You also know the Magic Stone cantrip. Intelligence, Wisdom, or Charisma is your Spellcasting Ability for this cantrip when you cast it with this trait (choose when you select this species).
+You also know the *Magic Stone* cantrip. Intelligence, Wisdom, or Charisma is your Spellcasting Ability for this cantrip when you cast it with this trait (choose when you select this species).
 
 🪙 ***Investments!*** Every time you take a Long Rest, you gain a number of gold pieces equal to 1% of your current gold pieces, rounded down.
 
@@ -1506,7 +1516,7 @@ You also gain the Obake (Shapechanger) creature type.
 
 ***Majestic Tails.*** At 4th level you grow a second tail, signifying your personal growth and enlightenment. At every second level from then, you grow another tail, to a maximum of 9. As a Reaction to yourself failing a d20 Test, you can add a bonus to your roll equal to the number of tails you have, potentially changing the result from a fail to a success. Once you use this feature you must take a Short or Long Rest before you can use it again. When you grow your 9th tail, you also gain the Kami (Celestial) creature type.
 
-***Divine Messenger.*** You know the Dancing Lights and Message cantrips. You can cast these while in your Animal form. When you use the Dancing Lights cantrip from this feature, they have the appearance of floating flames called Kitsunebi.
+***Divine Messenger.*** You know the *Dancing Lights* and *Message* cantrips. You can cast these while in your Animal form. When you use the *Dancing Lights* cantrip from this feature, they have the appearance of floating flames called Kitsunebi.
 
 }}
 
@@ -1532,7 +1542,7 @@ Refer to Appendix A for creature stat blocks, and Appendix D for rules on Transf
 
 {{position:absolute,top:1050px,right:375px,margin-bottom:-30px,text-align:right
 
-##### A Kitsune in their</br>Humanoid form
+##### A Kitsune in their</br>humanoid form
 
 }}
 
@@ -1628,7 +1638,7 @@ Refer to Appendix A for creature stat blocks, and Appendix D for rules on Transf
 
 {{position:absolute,top:1000px,right:400px,margin-bottom:-30px,text-align:right
 
-##### A Kisuru</br> Noble
+##### A Kisuru</br> noble
 
 }}
 
@@ -1869,7 +1879,7 @@ You can use this Breath Weapon a number of times equal to your Proficiency Bonus
 
 {{position:absolute,top:1000px,left:-175px,margin-bottom:-30px,text-align:center
 
-##### A Human Noble
+##### A Human noble
 
 }}
 
@@ -1888,7 +1898,7 @@ You can use this Breath Weapon a number of times equal to your Proficiency Bonus
 
 {{position:absolute,top:470px,left:0px,margin-bottom:-30px,text-align:center
 
-##### A Human Ranger from Ryugenshima
+##### A Human ranger from Ryugenshima
 
 }}
 
@@ -1955,7 +1965,7 @@ Refer to Appendix B for the available 1st-Level Feats and Appendix D for rules o
 
 {{position:absolute,top:1060px,left:585px,margin-bottom:-30px
 
-##### An Oni Mask
+##### An Oni mask
 
 }}
 
@@ -2122,7 +2132,8 @@ You stay in the new form until you use an Action to revert to your true form or 
 
 {{position:absolute,top:1040px,right:400px,margin-bottom:-30px,text-align:right
 
-##### A Noppera-bō</br>mask salesman
+<!-- ##### A Noppera-bō</br>mask salesman -->
+##### A Noppera-bo</br>mask salesman
 
 }}
 
@@ -2197,7 +2208,8 @@ added text from android
 
 {{position:absolute,top:1060px,left:365px,margin-bottom:-30px,text-align:left
 
-##### An Otsuchi wielding Barbarian
+<!-- ##### An Ōtsuchi-wielding Barbarian -->
+##### An Otsuchi-wielding Barbarian
 
 }}
 
@@ -2442,6 +2454,9 @@ Painter's Supplies / Calligrapher's Supplies???
 </br>
 ???
 
+{{pageNumber,auto}}
+{{footnote PART 2 | CHARACTER OPTIONS}}
+
 ![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
@@ -2454,6 +2469,7 @@ Painter's Supplies / Calligrapher's Supplies???
 
 {{position:absolute,top:520px,left:335px,margin-bottom:-30px,text-align:left
 
+<!-- ##### A Yōkai</br>Hunter -->
 ##### A Yokai</br>Hunter
 
 }}
@@ -2804,7 +2820,7 @@ Adventurers come from a great variety of walks of life before they embark on the
 
 ##### Note: Rules for Backgrounds
 
-This book presents options for a number of sample background made to fit within the world of Sumiriku. These sample backgrounds may be picked for a character, or used as inspiration for creating a fully custom background. These backgrounds use the OneDnD rules for custom background creation. These rules are reprinted here for convenience:
+This book presents options for a number of sample background made to fit within the world of Sumiriku. These sample backgrounds may be picked for a character, or used as inspiration for creating a fully custom background. These backgrounds use the 2024 D&D rules for custom background creation. These rules are reprinted here for convenience:
 
 :
 
@@ -2958,7 +2974,7 @@ On the next page is a table with all Languages known across Sumiriku. Sumirikugo
 
 ##### Note: Igo, the intellectual game
 
-Igo (囲碁) is a board game about surrounding territory played with black and white stones, based on the real game of Go.
+Igo (囲碁) is a board game about surrounding territory played with black and white stones, based on the real game of Go. More details on games can be found in the next section
 
 }}
 
@@ -3391,6 +3407,18 @@ A longer and heavier form of the Yari, or straight-headed spear. Military Yari a
 
 If there is one weapon which Sumiriku will be known for, it is the Katana. A Katana is characterised by a curved, single-edged blade, typically 60 to 80 cm long, with a circular or squared guard and long grip to accommodate two hands, though some chose to wield one with a single hand. Katanas are the most common weapon for a Samurai to use, as it is a weapon equally as useful in a castle as on a battlefield, but many Rōnin and warrior monks also gravitate to the weapon. The light-weight build and sleek shape also make it a weapon equally useful for those who fight with pure might and those who fight with swiftness and finesse. A Katana is held at the side sharp edge pointed upward, often alongside a Wakizashi, the pair of which is called a Daishō. A well forged and decorated Katana or Daishō is considered a signifier of high status for a Samurai and a true dedication to the craft for a swordsmith. The most famous Katana is one of the Starlight Regalia and former blade of Yūkan-sama, Kūshokiri.
 
+:
+
+{{note
+
+##### Note: Reference Images
+
+Appendix E contains real-world photos and reference images for each of the weapons described here.
+
+}}
+
+:
+
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
@@ -3541,7 +3569,7 @@ Details for each Armour have been moved into their own Armour Properties, such a
 
 \column
 
-### Armour Properties ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:709px,left:400px,width:375px,mix-blend-mode:normal}
+### Armour Properties ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:710px,left:400px,width:375px,mix-blend-mode:normal}
 
 #### Bulky
 
@@ -3661,13 +3689,13 @@ Appendix B reprints all Feats available for use within this setting, some of whi
 
 &nbsp;**Ability Score Increase.** Increase your Intelligence or Wisdom Score by 1, to a maximum of 20.
 
-**Arcane Senses.** You always have the Detect Magic and Detect Thoughts spells prepared, and can cast them using any Spell Slots you have. You can also cast these spells once each without expending a Spell Slot or requiring Verbal, Somatic, or Material components, and you regain the ability to do so when you finish a Long Rest. Your Spellcasting Ability for these spells is the ability increased by this feat. Detect Thoughts also gain a bonus depending on your lineage:
+**Arcane Senses.** You always have the *Detect Magic* and *Detect Thoughts* spells prepared, and can cast them using any Spell Slots you have. You can also cast these spells once each without expending a Spell Slot or requiring Verbal, Somatic, or Material components, and you regain the ability to do so when you finish a Long Rest. Your Spellcasting Ability for these spells is the ability increased by this feat. Detect Thoughts also gain a bonus depending on your lineage:
 
-*Soratami.* When you cast Detect Thoughts for free with this feat, the creature you target will not know their thoughts are being read if you probe deeper, even if they succeed on the Saving Throw.
+*Soratami.* When you cast *Detect Thoughts* for free with this feat, the creature you target will not know their thoughts are being read if you probe deeper, even if they succeed on the Saving Throw.
 
-*Moritami.* When you cast Detect Thoughts you are able to read the thoughts of creatures that have an Intelligence of 3 or less and creatures that do not speak any languages.
+*Moritami.* When you cast *Detect Thoughts* you are able to read the thoughts of creatures that have an Intelligence of 3 or less and creatures that do not speak any languages.
 
-*Maigomin.* When you cast Detect Thoughts for free with this feat, you are instead able to empty your mind, becoming one with nothing. While concentrating on Detect Thoughts, instead of the normal effects, you are instead Deafened but can choose to succeed on any Intelligence, Wisdom, or Charisma Saving Throws.
+*Maigomin.* When you cast *Detect Thoughts* for free with this feat, you are instead able to empty your mind, becoming one with nothing. While concentrating on Detect Thoughts, instead of the normal effects, you are instead Deafened but can choose to succeed on any Intelligence, Wisdom, or Charisma Saving Throws.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -3722,9 +3750,10 @@ Appendix B reprints all Feats available for use within this setting, some of whi
   ![mighty](https://i.imgur.com/VdF8cf1.jpg){position:absolute,bottom:-70px,right:-200px,width:120%,transform:scaleX(-1)}
 }}
 
-{{position:absolute,top:975px,right:425px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:985px,right:425px,margin-bottom:-30px,text-align:right
 
-##### A Mighty </br> Ōgaru
+<!-- ##### A mighty </br> Ōgaru -->
+##### A mighty </br> Ogaru
 
 }}
 
@@ -3741,7 +3770,7 @@ Appendix B reprints all Feats available for use within this setting, some of whi
 
 {{position:absolute,top:350px,left:280px,margin-bottom:-30px
 
-##### An Akki</br> Explosomancer
+##### An Akki</br> explosomancer
 
 }}
 
@@ -3759,9 +3788,9 @@ Appendix B reprints all Feats available for use within this setting, some of whi
 
 &nbsp;**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma Score by 1, to a maximum of 20.
 
-**Protective Aura.** You always have the Shield of Faith spell prepared, and can cast it using any Spell Slots you have. You can also cast this spell once without expending a Spell Slot or requiring Material components, and you regain the ability to do so when you finish a Long Rest. Your Spellcasting Ability for these spells is the ability increased by this feat.
+**Protective Aura.** You always have the *Shield of Faith* spell prepared, and can cast it using any Spell Slots you have. You can also cast this spell once without expending a Spell Slot or requiring Material components, and you regain the ability to do so when you finish a Long Rest. Your Spellcasting Ability for these spells is the ability increased by this feat.
 
-When you cast Shield of Faith for free using this feat, you can instead turn this shield into a large shell barrier. When you cast the spell targeting yourself, or as a bonus action while concentrating on the spell cast on yourself, you can choose to replace the effect of the spell with a 15-foot-radius sphere barrier centred on yourself and that emanates from you. Creatures inside of the barrier are considered to have Half Cover, which means that they have +2 to AC and to Dexterity Saving Throws when targeted from outside the barrier. You can turn this barrier back into Shield of Faith cast on yourself as a Bonus Action.
+When you cast *Shield of Faith* for free using this feat, you can instead turn this shield into a large shell barrier. When you cast the spell targeting yourself, or as a bonus action while concentrating on the spell cast on yourself, you can choose to replace the effect of the spell with a 15-foot-radius sphere barrier centred on yourself and that emanates from you. Creatures inside of the barrier are considered to have Half Cover, which means that they have +2 to AC and to Dexterity Saving Throws when targeted from outside the barrier. You can turn this barrier back into Shield of Faith cast on yourself as a Bonus Action.
 
 \column
 
@@ -3787,7 +3816,7 @@ When you cast Shield of Faith for free using this feat, you can instead turn thi
 
 {{position:absolute,top:1050px,right:400px,margin-bottom:-30px,text-align:right
 
-##### A Kappa </br> Hermit
+##### A Kappa </br> hermit
 
 }}
 
@@ -3880,7 +3909,7 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 *Headgear:* You do not suffer any negative effects from weather conditions. When you take the Dodge Action in combat, you can choose to spend one Hit Die to heal, regaining a number of hit points equal to a roll of the die plus your Constitution modifier.
 
-*Held Item:* When you take the Attack Action on your turn, you can replace any number of your attacks with use of the Gust cantrip. Once per Long Rest, you can also use this leaf to cast Feather Fall, using the leaf as a parachute. If you let go of the leaf, Feather Fall ends.
+*Held Item:* When you take the Attack Action on your turn, you can replace any number of your attacks with use of the *Gust* cantrip. Once per Long Rest, you can also use this leaf to cast Feather Fall, using the leaf as a parachute. If you let go of the leaf, Feather Fall ends.
 
 \column
 
@@ -3900,7 +3929,7 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 *Rising Dragon Fist.* When you take the Attack Action on your turn, you can replace one of your attacks with an elementally empowered uppercut. Make an Unarmed Strike against a target within range. This attack deals an additional 1d6 of your associated damage type, and the target must succeed on a Strength Saving Throw with DC equal to 12 + your Proficiency Bonus or be knocked Prone. Additionally, creatures within 5 feet of the target take half damage from the attack.
 
-*Elemental Spirit Explosion.* As an Action on your turn, you call forth a sphere of magical energy and unleash it on your enemies. Each creature in a 20-foot-radius sphere centred on a point of your choice within 60 feet must make a Constitution Saving Throw, with a DC equal to your spell save DC. If you do not have a spell save DC, treat Wisdom as your Spellcasting Ability for this. On a failed save, creatures within the sphere take damage equal to and of the same damage type as your breath weapon. When you use this ability, a number of creatures equal to your Proficiency Bonus that can see you within 60 feet of you can use their Reaction to lend you their energy, increasing the damage dealt by this ability by 1d6. This ability is considered a 5th level spell.
+*Elemental Spirit Explosion.* As an Action on your turn, you call forth a sphere of magical energy and unleash it on your enemies. Each creature in a 20-foot-radius sphere centred on a point of your choice within 60 feet must make a Constitution Saving Throw, with a DC equal to your spell save DC. If you do not have a spell save DC, treat Wisdom as your Spellcasting Ability for this. On a failed save, creatures within the sphere take damage equal to and of the same damage type as your breath weapon. When you use this ability, a number of creatures equal to your Proficiency Bonus that can see you within 60 feet of you can use their Reaction to lend you their energy, increasing the damage dealt by this ability by 1d6 per Reaction used. This ability is considered a 5th level spell.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -3915,7 +3944,7 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 {{position:absolute,top:525px,left:120px,margin-bottom:-30px
 
-##### An Determined Warior
+##### An determined warrior
 
 }}
 
@@ -3957,7 +3986,7 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 **Strength of Will.** You can spend 5 Tranquility whenever you make a Charisma (Persuasion) check, Strength (Athletics) check, or Wisdom Saving Throw to grant yourself Advantage on the Roll.
 
-**Calming Presence.** As an Action, you can spend 5 Tranquility to cast the Calm Emotions spell.
+**Calming Presence.** As an Action, you can spend 5 Tranquility to cast the *Calm Emotions* spell.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -3972,7 +4001,7 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 {{position:absolute,top:990px,left:360px,margin-bottom:-30px,text-align:left
 
-##### An Ōgaru that has</br> embraced an Oni
+##### An Ogaru that has</br> embraced an Oni
 
 }}
 
@@ -4031,7 +4060,7 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 **Invisible Stalker.** If you are hidden and hit a creature with an attack, you remain hidden. If you hit your mark with an attack while hidden, the attack deals an additional 1d8 necrotic damage.
 
-**Life from Unlife.** Whenever you </br>deal damage, you can use your</br> Reaction to regain a number of</br> hit points equal to the damage </br>dealt. You can use this feature </br>a number of times equal to your </br>proficiency bonus, and you </br>regain all expended uses when </br>you finish a Long Rest.
+**Life from Unlife.** Whenever you </br>deal damage to a creature, you can </br>use your Reaction to regain a </br>number of hit points equal to the </br>damage dealt to that creature. </br>You can use this feature a </br>number of times equal to your </br>proficiency bonus, and you </br>regain all expended uses when </br>you finish a Long Rest.
 
 {{position:absolute,top:700px,right:240px,margin-bottom:-30px,text-align:right
 
@@ -4096,9 +4125,9 @@ When you use this ability, you can't use your Lucky racial trait before the end 
   ![narset](https://cdna.artstation.com/p/assets/images/images/024/748/762/large/livia-prima-img-20200305-181700-084.jpg?1583407638){position:aboslute,top:600px,left:-1px,width:101%}
 }}
 
-{{position:absolute,top:690px,left:600px,margin-bottom:-30px
+{{position:absolute,top:685px,left:550px,margin-bottom:-30px
 
-##### A Bojutsu Master
+##### A Bojutsu master
 
 }}
 
@@ -4113,9 +4142,9 @@ When you use this ability, you can't use your Lucky racial trait before the end 
   ![snowfall](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5246e0e3-fe8a-4fdb-9c31-4741f3509015/dcmq5wj-3112415c-4938-40d1-a91d-bb1f4461573f.jpg/v1/fit/w_786,h_900,q_70,strp/snowfall_by_changinghand_dcmq5wj-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvNTI0NmUwZTMtZmU4YS00ZmRiLTljMzEtNDc0MWYzNTA5MDE1XC9kY21xNXdqLTMxMTI0MTVjLTQ5MzgtNDBkMS1hOTFkLWJiMWY0NDYxNTczZi5qcGciLCJ3aWR0aCI6Ijw9Nzg2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Tb0eWRM6GwdQlyp-tVu4pqZj2P8O27b9ToXk-yNO_BY){position:aboslute,top:-250px,left:-1px,width:101%}
 }}
 
-{{position:absolute,top:425px,left:250px,margin-bottom:-30px
+{{position:absolute,top:440px,left:150px,margin-bottom:-30px
 
-##### A Warrior Monk delivers a Quick Slash
+##### A warrior monk delivers a quick slash
 
 }}
 
@@ -4151,7 +4180,7 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 :
 &nbsp;**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma Score by 1, to a maximum of 20.
 
-**Otherworldly Casting.** You always have the Misty Step spell and one 1st-Level spell of your choice prepared, and can cast these spells using any Spell Slots you have. The 1st-Level spell must be from the Enchantment or Illusion schools of magic. You can also cast these spells once without expending a Spell Slot or requiring Material components, and you regain the ability to do so when you finish a Long Rest. Your Spellcasting Ability for these spells is the ability increased by this feat.
+**Otherworldly Casting.** You always have the *Misty Step* spell and one 1st-Level spell of your choice prepared, and can cast these spells using any Spell Slots you have. The 1st-Level spell must be from the Enchantment or Illusion schools of magic. You can also cast these spells once without expending a Spell Slot or requiring Material components, and you regain the ability to do so when you finish a Long Rest. Your Spellcasting Ability for these spells is the ability increased by this feat.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -4208,7 +4237,7 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 {{position:absolute,top:620px,left:450px,margin-bottom:-30px
 
-##### A Kusarigama wielding Nekotaiyō
+##### A Kusarigama-wielding Nekotaiyo
 
 }}
 
@@ -4278,7 +4307,7 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 {{position:absolute,top:960px,left:400px,margin-bottom:-30px,text-align:left
 
-##### A Samurai returns</br> to nature
+##### A samurai returns</br> to nature
 
 }}
 
@@ -4314,7 +4343,7 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 &nbsp;**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma Score by 1, to a maximum of 20.
 
-**Otherworldly Casting.** You always have the Invisibility spell and one 1st-Level spell of your choice prepared, and can cast these spells using any Spell Slots you have. The 1st-Level spell must be from the Conjuration or Necromancy schools of magic. You can also cast these spells once without expending a Spell Slot or requiring Material components, and you regain the ability to do so when you finish a Long Rest. Your Spellcasting Ability for these spells is the ability increased by this feat.
+**Otherworldly Casting.** You always have the *Invisibility* spell and one 1st-Level spell of your choice prepared, and can cast these spells using any Spell Slots you have. The 1st-Level spell must be from the Conjuration or Necromancy schools of magic. You can also cast these spells once without expending a Spell Slot or requiring Material components, and you regain the ability to do so when you finish a Long Rest. Your Spellcasting Ability for these spells is the ability increased by this feat.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -4524,7 +4553,7 @@ The end of the current year and the beginning of the next.
 
 ### Hyakki Chitsuki (百鬼血月, 'Hundred Oni Blood Moon') ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:484px,left:55px,width:375px,mix-blend-mode:normal}
 
-The Oni first poured out of their realm in Makoku, lead by their Oni Lords, during the Kaika Jidai, and threatened to bring untold darkness and horror to the world. The might of the Myojin, still present in the world at the time, had to be assembled in order to push the Oni back and seal them deep beneath the earth, in a conflict now known as the Blood War. This entombment was not perfect however, and the Oni have discovered how to temporarily break their imprisonment and briefly bring chaos back to the real world.
+The Oni first poured out of their realm in Makoku, lead by their Oni Lords, during the Kaika Jidai, and threatened to bring untold darkness and horror to the world. The might of the Myōjin, still present in the world at the time, had to be assembled in order to push the Oni back and seal them deep beneath the earth, in a conflict now known as the Blood War. This entombment was not perfect however, and the Oni have discovered how to temporarily break their imprisonment and briefly bring chaos back to the real world.
 
 The escape of the Oni causes a night of terror, known as the Hyakki Chitsuki, where these demonic beings hunt for people and kami alike to prey and feast upon. The timing of this night is unpredictable as it only occurs around once in a generation or so, but, like an earthquake or a volcanic eruption, it always seems to come when the population of Utsushiyo is the most complacent, the most forgetful of their place in the hierarchy of realms. The Oni have been cursed by Netsu-sama to flee in fear when they witness the rising suns, but that still gives them one terrible night to do what they please. If one is ever out at night and sees the moon turn red and the sky rain blood then they should pray for safety, for the Oni are coming.
 
@@ -5069,7 +5098,7 @@ T {{width:5px}} his section is a list of all available Feats for use in games in
 
 **Initiative Swap.** Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally is Incapacitated.
 
-:::
+::
 
 {{note
 
@@ -5087,15 +5116,15 @@ T {{width:5px}} his section is a list of all available Feats for use in games in
 
 ##### Note: Available Feats and Homebrew Feats
 
-The Feats presented here are most feats shown in the OneDnD playtest documents as well as Feats from Tasha's Cauldron of Everything, excluding any Feats with Species prerequisites and Crossbow Expert. Crossbow Expert has been removed as Crossbows are extremely uncommon in this setting, but they and the feat may be available on request.
+The Feats presented here are most feats shown in the 2024 D&D playtest documents as well as Feats from Tasha's Cauldron of Everything, excluding any Feats with Species prerequisites and Crossbow Expert. Crossbow Expert has been removed as Crossbows are extremely uncommon in this setting, but they and the feat could be allowed with DM approval.
 
-Homebrew Feats, such as those found alongside the recommended Alternate version of classes, are available on request and review. Any Feats that do not specify will be considered 4th-level Feats.
+Homebrew Feats, such as those found alongside the recommended Alternate version of classes, are available on request and review. Any Feats that do not specify should be considered 4th-level Feats.
 
 }}
 
 :
 
-### Crafter ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:359px,left:400px,width:375px,mix-blend-mode:normal}
+### Crafter ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:376px,left:400px,width:375px,mix-blend-mode:normal}
 
 *1st-Level Feat*
 </br>**Prerequisite:** None
@@ -5113,7 +5142,7 @@ Homebrew Feats, such as those found alongside the recommended Alternate version 
 
 :
 
-### Chef Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:687px,left:400px,width:375px,mix-blend-mode:normal}
+### Chef Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:704px,left:400px,width:375px,mix-blend-mode:normal}
 
 *1st-Level Feat*
 </br>**Prerequisite:** None
@@ -5172,7 +5201,7 @@ Homebrew Feats, such as those found alongside the recommended Alternate version 
 
 {{position:absolute,top:790px,left:275px,margin-bottom:-30px
 
-##### A Martial</br> Initiate
+##### A martial</br> initiate
 
 }}
 
@@ -5180,7 +5209,7 @@ Homebrew Feats, such as those found alongside the recommended Alternate version 
 
 {{position:absolute,top:220px,right:325px,margin-bottom:-30px,text-align:right
 
-##### A Cleric</br> casts a</br> healing spell
+##### A cleric</br> casts a</br> healing spell
 
 }}
 
@@ -5235,7 +5264,7 @@ Homebrew Feats, such as those found alongside the recommended Alternate version 
 
 {{position:absolute,top:360px,left:300px,margin-bottom:-30px,text-align:left
 
-##### A Musician</br> with a</br> Shamisen
+##### A musician</br> with a</br> Shamisen
 
 }}
 
@@ -5386,7 +5415,7 @@ Whenever you gain a new level, you can replace one of the Spells you chose for t
 
 {{position:absolute,top:950px,left:420px,margin-bottom:-30px,text-align:left
 
-##### A Tough,</br> Charging</br> Sumo</br> Wrestler
+##### A tough,</br> charging</br> sumo</br> wrestler
 
 }}
 
@@ -5455,7 +5484,7 @@ Whenever you gain a new level, you can replace one of the Spells you chose for t
 
 {{position:absolute,top:500px,left:420px,margin-bottom:-30px,text-align:left
 
-##### A Pyromancer</br>Elementalist
+##### A pyromancer</br>elementalist
 
 }}
 
@@ -5490,7 +5519,7 @@ Spells you cast ignore resistance to damage of the chosen type, and treat immuni
 
 {{position:absolute,top:460px,left:300px,margin-bottom:-30px,text-align:left
 
-##### An Ashigaru </br> Gunner with</br>a Hinawajū
+##### An ashigaru </br> gunner with</br>a Hinawajū
 
 }}
 
@@ -5633,7 +5662,7 @@ Spells you cast ignore resistance to damage of the chosen type, and treat immuni
 
 {{position:absolute,top:780px,right:690px,margin-bottom:-30px,text-align:right
 
-##### Inspiring </br> Leadership
+##### Inspiring </br> leadership
 
 }}
 
@@ -5686,7 +5715,7 @@ Spells you cast ignore resistance to damage of the chosen type, and treat immuni
 
 {{position:absolute,top:260px,left:625px,margin-bottom:-30px,text-align:left
 
-##### A Mobile Monk
+##### A mobile monk
 
 }}
 
@@ -5716,7 +5745,7 @@ Spells you cast ignore resistance to damage of the chosen type, and treat immuni
 
 {{position:absolute,top:760px,left:400px,margin-bottom:-30px,text-align:left
 
-##### A Subtle Spell
+##### A subtle spell
 
 }}
 
@@ -5771,7 +5800,7 @@ Spells you cast ignore resistance to damage of the chosen type, and treat immuni
 
 {{position:absolute,top:1000px,right:390px,margin-bottom:-30px,text-align:right
 
-##### A Mounted </br> Warlord
+##### A mounted </br> warlord
 
 }}
 
@@ -5838,7 +5867,7 @@ Spells you cast ignore resistance to damage of the chosen type, and treat immuni
 
 {{position:absolute,top:1050px,right:390px,margin-bottom:-30px,text-align:right
 
-##### A Ritual </br> Caster
+##### A ritual </br> caster
 
 }}
 
@@ -5926,7 +5955,7 @@ Spells you cast ignore resistance to damage of the chosen type, and treat immuni
 
 {{position:absolute,top:575px,left:75px,margin-bottom:-30px,text-align:left
 
-##### A Skulking Ninja
+##### A skulking ninja
 
 }}
 
@@ -6045,7 +6074,9 @@ You need to be able to see or hear the Bard to be able to receive Bardic Inspira
 
 The following are the Conditions that have been added or have had their rules modified:
 
-### Dazed ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:925px,left:55px,width:375px,mix-blend-mode:normal}
+:
+
+### Dazed ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:934px,left:55px,width:375px,mix-blend-mode:normal}
 
 While Dazed, you experience the following effect:
 
@@ -6544,7 +6575,8 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 
 {{position:absolute,bottom:650px,left:75px,margin-bottom:-20px,text-align:left
 
-##### Bō
+<!-- ##### Bō -->
+##### Bo
 
 }}
 
@@ -6556,7 +6588,8 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 
 {{position:absolute,bottom:650px,left:340px,margin-bottom:-20px,text-align:left
 
-##### Hanbō
+<!-- ##### Hanbō -->
+##### Hanbo
 
 }}
 
@@ -6612,7 +6645,8 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 
 {{position:absolute,bottom:790px,right:170px,margin-bottom:-20px,text-align:right
 
-##### Tantō
+<!-- ##### Tantō -->
+##### Tanto
 
 }}
 
@@ -6622,7 +6656,8 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 
 {{position:absolute,bottom:600px,right:140px,margin-bottom:-20px,text-align:right
 
-##### Kaiken Tantō
+<!-- ##### Kaiken Tantō -->
+##### Kaiken Tanto
 
 }}
 
@@ -6642,7 +6677,8 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 
 {{position:absolute,bottom:440px,right:140px,margin-bottom:-20px,text-align:right
 
-##### Yoroi-dōshi
+<!-- ##### Yorio-dōshi -->
+##### Yoroi-doshi
 
 }}
 
@@ -6676,7 +6712,7 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 }}
 
 {{text-align:center
-![jumonji-yari](https://www.rct.uk/sites/default/files/collection-online/c/8/938260-1568629735.jpg){position:absolute,bottom:360px,left:20px,width:170px}
+![jumonji-yari](https://i.imgur.com/ZW3j4VG.png){position:absolute,bottom:360px,left:20px,width:170px}
 }}
 
 {{text-align:center
@@ -6750,7 +6786,8 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 
 {{position:absolute,bottom:105px,left:180px,margin-bottom:-20px,text-align:left
 
-##### Ōdachi
+<!-- ##### Ōdachi -->
+##### Odachi
 
 }}
 
@@ -6772,7 +6809,8 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 
 {{position:absolute,bottom:65px,right:165px,margin-bottom:-20px,text-align:right
 
-##### Ōtsuchi
+<!-- ##### Ōtsuchi -->
+##### Otsuchi
 
 }}
 
@@ -6789,7 +6827,8 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 
 {{position:absolute,bottom:650px,left:165px,margin-bottom:-20px,text-align:left
 
-##### Sentōno
+<!-- ##### Sentōno -->
+##### Sentono
 
 }}
 
@@ -6831,7 +6870,8 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 
 {{position:absolute,bottom:140px,right:185px,margin-bottom:-20px,text-align:right
 
-##### Tetsubō
+<!-- ##### Tetsubō -->
+##### Tetsubo
 
 }}
 
@@ -6860,7 +6900,8 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 
 {{position:absolute,bottom:390px,left:155px,margin-bottom:-20px,text-align:left
 
-##### Hankyū (Yumi)
+<!-- ##### Hankyū (Yumi) -->
+##### Hankyu (Yumi)
 
 }}
 
@@ -6884,7 +6925,8 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 
 {{position:absolute,bottom:605px,right:155px,margin-bottom:-20px,text-align:right
 
-##### Daikyū (Yumi)
+<!-- ##### Daikyū (Yumi) -->
+##### Daikyu (Yumi)
 
 }}
 
@@ -6898,7 +6940,8 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 
 {{position:absolute,bottom:90px,right:170px,margin-bottom:-20px,text-align:right
 
-##### Hinawajū
+<!-- ##### Hinawajū -->
+##### Hinawaju
 
 }}
 
