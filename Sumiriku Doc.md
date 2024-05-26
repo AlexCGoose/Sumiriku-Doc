@@ -648,7 +648,7 @@ minds and the ability to take humanoid forms. They continued to see each other e
 | Name                              | Description                                                                        | Primary Domain |
 |:----------------------------------|:-----------------------------------------------------------------------------------|:--------------:|
 | Sonsora-sama </br> (孫空様 / </br> そんそら様) | The Joyous-Soaring-Clouds-Masaru-Deity. A curious and outgoing Masaru, Sonsora-sama was said to have personally befriended the clouds. She used this friendship to bring clear skies and great weather to the people below her. She was also known to irritate the pair of Bōfū-sama and Sekirai-sama, thwarting their attempts to bring terrible storms. She is frequently seen either soaring through the skies atop her own tiny cloud or guarding Niji-no-ukihashi, the Floating Rainbow Bridge. She is also said to be the progenitor of the first style of Sumiriku martial arts, Saruyū (猿流). | Sky |
-| Bōfū-sama and Sekirai-sama </br> (暴風様 / </br> ぼうふ様 and </br> 赤雷様 / </br> せきらい様) | The Bickering-Stormbringer-Ōgaru-Twin-Deities. The conjoined Ōgaru twins, and bringers of storm. Their two personalities share a body, half being the blue god of Wind and half being the red god of Thunder. Bōfū-sama is believed to be the wiser and more level of the two, with Sekirai-sama being louder and more boisterous, and their two different viewpoints controlling one body often causes the butting of heads. This conflict creates the uncontrollable storms that reach the isles of Sumiriku. Bōfū-sama is frequently seen carrying a large bag full of wind, whereas Sekirai-sama holds a mallet with which he plays the many taiko drums that float alongside him. | Wind / Thunder |
+| Bōfū-sama and Sekirai-sama </br> (暴風様 / </br> ぼうふ様 and </br> 赤雷様 / </br> せきらい様) | The Bickering-Stormbringer-Ōgaru-Twin-Deities. The conjoined Ōgaru twins, and bringers of storm. Their two personalities share a body, half being the blue god of Wind and half being the red god of Thunder. Bōfū-sama is believed to be the wiser and more level-headed of the two, with Sekirai-sama being louder and more boisterous, and their two different viewpoints controlling one body often causes the butting of heads. This conflict creates the uncontrollable storms that reach the isles of Sumiriku. Bōfū-sama is frequently seen carrying a large bag full of wind, whereas Sekirai-sama holds a mallet with which he plays the many taiko drums that float alongside him. | Wind / Thunder |
 | Kahei-sama </br> (河平様 / </br> かへい様) | The Tranquil-River-Healing-Kappa-Deity. The Kappa deity, one of the first Kappa to reveal themselves to the early people of Sumiriku. Kahei-sama was first seen in the aftermath of a conflict that had taken place by a bridge over her river home. Kahei-sama, after hearing the commotion and witnessing the bloodshed of battle, emerged from the river and used her Kappa wisdom to tend to the wounded, making no distinctions between friend and foe. Many who recovered quickly took after her example, helping as many other survivors as they could find. People who arrived on the field of battle on opposite sides that day found themselves leaving united. To this day followers of Kahei-sama are frequently neutral in conflict, instead trying to spread peace and bring healing to all who need it. | Peace |
 | Gobo-Gobo-sama </br> (五墓五墓様 / </br> ごぼごぼ様) | Greatest-Samurai-Glorious-Leader-Noble-Strong-Gobo-Gobo-First-Daimyō-Of-Clan-Gobo. Gobo-Gobo-sama, who's name used to be an ancient Akki insult, was a great Akki leader and warlord before he became a Myōjin. Considered the runt of his litter and clan, Gobo-Gobo demonstrated his might, determination, and dedication as he rose through the ranks to become warlord and daimyō. This leadership was proven to be invaluable when his Akki army, led by him and his trusted steed Ino, held off and cut down a human army of far greater numbers. In his honour, almost all disparate Akki gatherings claim to be descended from the original Clan Gobo. | War |
 | Hanamai-sama </br> (鼻米様 / </br> はなまい様) | The Harvesting-Rice-Sniffing-Obake. One of the Obake quadruplets, the Tanuki. Hanamai-sama sought to understand the nature that surrounded him. He discovered a love for farming, and for traditional recipes he learned by snooping on some locals. This passion became an invaluable skill, when the supplies of rice he had grown helped a Tanuki community through a terrible winter. Many farmers now keep a statue of Hanamai-sama on their land, with his kama and his bag of seeds, as a protector and nurturer of their crops. | Rice |
@@ -905,7 +905,7 @@ As a Nekotaiyō, you gain these special traits:
 
 ***Graceful Landing.*** You do not take damage from falling 20 feet or less.
 
-***Twin Sun Blessing.*** At 3rd Level you gain one of the following two features, depending on which of Sumiriku's twin suns you have a stronger affinity for:
+***Twin Sun Blessing.*** At 3rd level you gain one of the following two features, depending on which of Sumiriku's twin suns you have a stronger affinity for:
 
 *Ikariōna's Fury.* You have the ability to gain incredible agility gifted from the Rage Mother, allowing you to move with a burst of speed. When you move on your turn in combat, you can double your Speed. While your Speed is doubled this way, you can move through the spaces of hostile creatures, and you do not count the spaces of creatures as difficult terrain. Any creature you walk through the space of while this is active takes 1d6 fire damage. Once you use this trait, you can't use it again until you finish a Short or Long Rest.
 
@@ -978,7 +978,7 @@ As a Tsukibito, you gain these special traits:
 
 ***Darkvision.*** You have Darkvision with a range of 60 feet.
 
-***Moon's Blessing.*** You are part of a Moonfolk lineage, and the moon has given you specific gifts as part of that lineage. Choose a lineage from the Moonfolk Lineage table: Soratami, the lineage of the soaring cities; Moritami, the lineage of the forest floor; or Maigomin, the lost Moonfolk. You gain the 1st-level benefits of that lineage, and when you reach 5th-level you also gain an additional lineage benefit.
+***Moon's Blessing.*** You are part of a Moonfolk lineage, and the moon has given you specific gifts as part of that lineage. Choose a lineage from the Moonfolk Lineage table: Soratami, the lineage of the soaring cities; Moritami, the lineage of the forest floor; or Maigomin, the lost Moonfolk. You gain the 1st level benefits of that lineage, and when you reach 5th level you also gain an additional lineage benefit.
 
 ***Enlightened Mind.*** You gain proficiency in Investigation, as well as one of the following skills; Arcana, History, Nature, or Religion.
 
@@ -2258,18 +2258,20 @@ Those who walk the Path of the Kaijū are living proof of the existence of Sumir
 
 | Alt. Barbarian Level | Feature                      |
 |:---------------------|:-----------------------------|
-| 3rd                  | ???, Kaijū Exploits |
-| 6th                  | ??? |
-| 10th                 | ??? |
+| 3rd                  | Rip and Tear, Kaijū Exploits |
+| 6th                  | Titan's Slumber |
+| 10th                 | Anti-Magic Scales |
 | 14th                 | ??? |
 
 }}
 
-#### Big Rage + Claws & Tail
+#### Rip and Tear
 
 *3rd level Path of the Kaijū feature*
 </br>
-???
+You have grown the weapons of the Kaijū, vicious claws and a barbed tail. Your Unarmed Strikes deal Bludgeoning or Slashing damage, your choice, equal to one roll of your Exploit Die + your Strength Modifier. <!-- Should these be natural weapons??? -->
+
+As a Bonus Action you can swing your tail around to trip your foes. As a Bonus Action you can force all creatures your size or smaller within 5 feet of you to make a Strength Saving Throw against your Exploit Save DC. Each creature that fails takes damage equal to one roll of your Exploit Die and is knocked Prone.
 
 #### Kaijū Exploits
 
@@ -2287,17 +2289,19 @@ You learn certain Exploits at the Alternate Barbarian levels in the table below.
 
 }}
 
-#### Biiger Rage?
+#### Titan's Slumber
 
 *6th level Path of the Kaijū feature*
 </br>
-???
+While you rest your power grows; those that disrupt this hibernation should beware. When you complete a Long Rest, you gain temporary hit points equal to your Constitution Modifier + your level. While you have these temporary hit points, your Unarmored Defense increased to 13 + your Dexterity Modifier + your Constitution modifier, as your armoured scales build themselves around you.
 
-#### Something else - Speepin?
+In addition, you are quick to strike from your slumber. You are able to make passive Wisdom (Perception) checks to listen for threats while Sleeping, you cannot have disadvantage on your Initiative rolls while Sleeping, and if you enter a combat while resting you are able to begin the combat by entering your Rage, before any other creatures get the chance to act.
+
+#### Anti-Magic Scales
 
 *10th level Path of the Kaijū feature*
 </br>
-???
+Your carapace armour has developed a protection against magical threats. While Raging, if you are targeted by a *Magic Missile* spell, a line spell, or a spell that requires a Ranged Attack Roll, you may use your reaction to make a Constitution Saving Throw against the caster's Spell Save DC. If you succeed the spell has no effect against you. If you roll a 20 on the Saving Throw, you are unaffected and and the effect is reflected back at the caster as though it originated from you, turning the caster into the target.
 
 #### Nuclear Breath / Arcane Eruption?
 
@@ -2558,7 +2562,7 @@ Your bond with your Mimic Weapon increases your awareness of your surroundings. 
 
 *7th level Order of the Shiftstalkers feature*
 </br>
-You learn the Yokai magic of disguise and infiltration. You can use your Mimic Weapon to cast the Alter Self spell once per long rest. When you cast the spell this way you can any number of the options at once, not just one, and the duration of the spell is 8 hours. While taking the appearance of a specific creature, you have advantage on Charisma (Deception) checks when interacting with said creature and on Wisdom (Survival) checks to track said creature.
+You learn the Yokai magic of disguise and infiltration. You can use your Mimic Weapon to cast the *Alter Self* spell once per long rest. When you cast the spell this way you can any number of the options at once, not just one, and the duration of the spell is 8 hours. While taking the appearance of a specific creature, you have advantage on Charisma (Deception) checks when interacting with said creature and on Wisdom (Survival) checks to track said creature.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -2834,7 +2838,7 @@ Your character's Background is a collection of characteristics that represent th
 
 **Language.** You can know up to one language from the Languages table.
 
-**Feat.** You gain one 1st-level Feat. Refer to the Appendix for the available 1st-Level Feats.
+**Feat.** You gain one 1st-Level Feat. Refer to the Appendix for the available 1st-Level Feats.
 
 **Equipment.** You get 50 GP worth of starting equipment and money. Refer to the next section for details on weapons and equipment specific to Sumiriku
 
@@ -3637,7 +3641,7 @@ The following are a set of Feats designed for the setting of Sumiriku. These Fea
 
 ##### Note: Feat Levels
 
-A Feat's level is the level a character must be in order to take said feat. All the feats shown here are 4th-level feats or higher.
+A Feat's level is the level a character must be in order to take said feat. All the feats shown here are 4th-Level feats or higher.
 
 }}
 
@@ -3929,7 +3933,7 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 *Rising Dragon Fist.* When you take the Attack Action on your turn, you can replace one of your attacks with an elementally empowered uppercut. Make an Unarmed Strike against a target within range. This attack deals an additional 1d6 of your associated damage type, and the target must succeed on a Strength Saving Throw with DC equal to 12 + your Proficiency Bonus or be knocked Prone. Additionally, creatures within 5 feet of the target take half damage from the attack.
 
-*Elemental Spirit Explosion.* As an Action on your turn, you call forth a sphere of magical energy and unleash it on your enemies. Each creature in a 20-foot-radius sphere centred on a point of your choice within 60 feet must make a Constitution Saving Throw, with a DC equal to your spell save DC. If you do not have a spell save DC, treat Wisdom as your Spellcasting Ability for this. On a failed save, creatures within the sphere take damage equal to and of the same damage type as your breath weapon. When you use this ability, a number of creatures equal to your Proficiency Bonus that can see you within 60 feet of you can use their Reaction to lend you their energy, increasing the damage dealt by this ability by 1d6 per Reaction used. This ability is considered a 5th level spell.
+*Elemental Spirit Explosion.* As an Action on your turn, you call forth a sphere of magical energy and unleash it on your enemies. Each creature in a 20-foot-radius sphere centred on a point of your choice within 60 feet must make a Constitution Saving Throw, with a DC equal to your spell save DC. If you do not have a spell save DC, treat Wisdom as your Spellcasting Ability for this. On a failed save, creatures within the sphere take damage equal to and of the same damage type as your breath weapon. When you use this ability, a number of creatures equal to your Proficiency Bonus that can see you within 60 feet of you can use their Reaction to lend you their energy, increasing the damage dealt by this ability by 1d6 per Reaction used. This ability is considered a 5th-Level spell.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -4343,7 +4347,7 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 &nbsp;**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma Score by 1, to a maximum of 20.
 
-**Otherworldly Casting.** You always have the *Invisibility* spell and one 1st-Level spell of your choice prepared, and can cast these spells using any Spell Slots you have. The 1st-Level spell must be from the Conjuration or Necromancy schools of magic. You can also cast these spells once without expending a Spell Slot or requiring Material components, and you regain the ability to do so when you finish a Long Rest. Your Spellcasting Ability for these spells is the ability increased by this feat.
+**Underworldly Casting.** You always have the *Invisibility* spell and one 1st-Level spell of your choice prepared, and can cast these spells using any Spell Slots you have. The 1st-Level spell must be from the Conjuration or Necromancy schools of magic. You can also cast these spells once without expending a Spell Slot or requiring Material components, and you regain the ability to do so when you finish a Long Rest. Your Spellcasting Ability for these spells is the ability increased by this feat.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -4592,9 +4596,9 @@ T  {{width:5px}} ext
 
 All Magic Items listed here and in Stories & Secrets have a selection of keyword tags associated with them, which describe some of the qualities of the item. The first tag is the Type. The Types for Magic Items are Ammunition, Armour, Instrument, Potion, Prosthetic, Ring, Scroll, Spellcasting Focus, Tattoo, Weapon, or Wondrous Item for items that don't fit any of the other categories (there exist other item types for non-magical items). An item may have multiple of these types.
 
-The second tag is Rarity, which indicates how plentiful an item is and how likely it is to come across the item. The five levels of Rarity are Common, Uncommon, Rare, Very Rare, and Unique. Common items are often small, simple magical items or consumable items, such as Potions and low level Spell Scrolls. There should only be one copy of each Unique item in existence, but this does not necessarily mean the item is more powerful or valuable; an item can be Unique for its provenance even if it has the same traits as more common items.
+The second tag is Rarity, which indicates how plentiful an item is and how likely it is to come across the item. The five tiers of Rarity are Common, Uncommon, Rare, Very Rare, and Unique. Common items are often small, simple magical items or consumable items, such as Potions and low level Spell Scrolls. There should only be one copy of each Unique item in existence, but this does not necessarily mean the item is more powerful or valuable; an item can be Unique for its provenance even if it has the same traits as more common items.
 
-The third tag is Power, which indicates the strength of the item's abilities and the impact it would have on a character's potential. The levels of Power are Aesthetic, for items that do not confer any mechanical bonuses, Minor, Major, Epic, and Ultimate.
+The third tag is Power, which indicates the strength of the item's abilities and the impact it would have on a character's potential. The tiers of Power are Aesthetic, for items that do not confer any mechanical bonuses, Minor, Major, Epic, and Ultimate.
 
 There are a selection of additional tags that any item can have. Craftable is for items forged and transmuted by people's hands, which are also items that are easier to purchase or to have custom made. Miracle is for items created by magical phenomena or rituals lost to time, such the item couldn't be created again. Sacred is for the Sacred Treasures of Sumiriku, items that have legendary tales told of them or have close ties to divinity.
 
@@ -5066,7 +5070,7 @@ ___
 
 T {{width:5px}} his section is a list of all available Feats for use in games in this setting, sorted by level prerequisite and then alphabetically. Some of these Feats have been redesigned or rebalanced; these feats have been renamed to include 'Updated' for clarity.
 
-## 1st-level Feats
+## 1st-Level Feats
 
 ### Actor Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:278px,left:55px,width:375px,mix-blend-mode:normal}
 
@@ -5900,7 +5904,8 @@ Spells you cast ignore resistance to damage of the chosen type, and treat immuni
 
 {{position:absolute,top:1050px,left:390px,margin-bottom:-30px,text-align:left
 
-##### A sharpshooter </br> with a Daikyū
+<!-- ##### A sharpshooter </br> with a Daikyū -->
+##### A sharpshooter </br> with a Daikyu
 
 }}
 
@@ -6060,7 +6065,7 @@ Areas of Effect impact all of the 5-foot by 5-foot squares that the area covers 
 
 Auras and other effects that are measured as a radius from a target emanate from the centre of that target. This means that an aura that emanates from a large creature is at the midpoint of four 5-foot by 5-foot squares, and 5 feet of the radius of the aura is encompassed by the creature.
 
-Any effect that is measured in terms of distance away from the creature, such as Paladin's *Aura of Protection* or the spell *Pass without Trace*, should instead be measured as an aura that emanates from the creature that causes the effect. The radius of these effects is 5 feet plus the distance specified by the effect. For example, a 6th Level Paladin's *Aura of Protection* should be a 15-foot radius sphere centred on the Paladin.
+Any effect that is measured in terms of distance away from the creature, such as Paladin's *Aura of Protection* or the spell *Pass without Trace*, should instead be measured as an aura that emanates from the creature that causes the effect. The radius of these effects is 5 feet plus the distance specified by the effect. For example, a 6th level Paladin's *Aura of Protection* should be a 15-foot radius sphere centred on the Paladin.
 
 ## Armour Class
 
