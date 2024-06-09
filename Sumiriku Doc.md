@@ -107,6 +107,7 @@
   - ###### [{{ Classes and Subclasses}}{{ 49}}](#p50)
 
     - [{{ Barbarian}}{{ 49}}](#p50)
+      - [{{ Path of the Kaijū}}{{ 50}}](#p51)
     - [{{ Bard}}{{ 50}}](#p51)
     - [{{ Blood Hunter}}{{ 50}}](#p51)
       - [{{ Order of the Shifthunters}}{{ 51}}](#p52)
@@ -572,23 +573,23 @@ Creatures that come from one of these realms are chaotic beings that reflect and
 
 # Zodiac and the Creation Myth
 
-![zodiac](https://i.imgur.com/KtiZaV1.png) {width:500px,position:absolute;left:50%;transform:translateX(-50%)}
+![zodiac](https://i.imgur.com/KtiZaV1.png) {width:525px,position:absolute;left:50%;transform:translateX(-50%)}
 
-{{position:absolute,top:535px,left:550px,margin-bottom:-30px,align:right
+{{position:absolute,top:565px,left:550px,margin-bottom:-30px,align:right
 
 ##### The Zodiac </br> wheel
 
 }}
 
-::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::
 
 {{#fancy I}}<span class="after-fancy">N THE BEGINNING OF CREATION, THERE WAS SAID</span> to be nothing but Void, a sea of deep stillness, a place lacking in any contrast or duality. Magically, from this space the first spark and twinkle of starlight appeared. Eventually more and more of this starlight formed, danced together, and took shape as the first of the Ō-Hoshikuzushin (大星屑神, 'Great Stardust Deity'), Ō-Seiza-Ryū (大星座竜, 'Great Constellation Dragon'). In turn, 13 more Ō-Hoshikuzushin were born from the nothingness, and they brought with them emotion and conflict, passion and calm, into the realm that would become known as Hoshikuzuten (星屑天, 'Stardust Heaven').
 
-After spending many moments together, the Ō-Hoshikuzushin found themselves complacent, in a world that was falling back to stillness. This was when Ō-Seiza-Nezumi (大星座鼠, 'Great Constellation Mouse') had an ingenious idea to bring energy, life, and death back to the world, which she shared with her close friend Ō-Seiza-Ryū. Ō-Seiza-Ryū, delighted
+After spending many moments together, the Ō-Hoshikuzushin found themselves complacent, in a world that was falling back to stillness. This was when Ō-Seiza-Nezumi (大星座鼠, 'Great Constellation Mouse') had an ingenious idea to bring energy, life, and death back to the world, which she shared with her close friend Ō-Seiza-Ryū. Ō-Seiza-Ryū, delighted by the idea,
 
 ::::::::::::::::::::::::::::::::::::::
 
-by the idea, conjured up a scroll out of the starlight that surrounded them, and unfurled it to reveal an empty map of the world beneath them. Then, with a constellation brush and ink of void, they collaborated together to draw the shores and coast of what would become Sumiriku. These Ō-Hoshikuzushin, and their home in Hoshikuzuten, can still be seen by those with keen eyes and open spirits when looking up into the constellations that form in the night sky.
+conjured up a scroll out of the starlight that surrounded them, and unfurled it to reveal an empty map of the world beneath them. Then, with a constellation brush and ink of void, they collaborated together to draw the shores and coast of what would become Sumiriku. These Ō-Hoshikuzushin, and their home in Hoshikuzuten, can still be seen by those with keen eyes and open spirits when looking up into the constellations that form in the night sky.
 
 This creation fuels the idea of In'yō, the belief in the cosmic balance of light and dark; the black ink gives meaning to the white paper and the white paper gives meaning to the black ink.
 
@@ -4600,7 +4601,7 @@ The second tag is Rarity, which indicates how plentiful an item is and how likel
 
 The third tag is Power, which indicates the strength of the item's abilities and the impact it would have on a character's potential. The tiers of Power are Aesthetic, for items that do not confer any mechanical bonuses, Minor, Major, Epic, and Ultimate.
 
-There are a selection of additional tags that any item can have. Craftable is for items forged and transmuted by people's hands, which are also items that are easier to purchase or to have custom made. Miracle is for items created by magical phenomena or rituals lost to time, such the item couldn't be created again. Sacred is for the Sacred Treasures of Sumiriku, items that have legendary tales told of them or have close ties to divinity.
+There are a selection of additional tags that any item can have. Craftable is for items forged and transmuted by people's hands, which are also items that are easier to purchase or to have custom made. Mundane is for items that have no magical properties, and will continue to function under any anti-magic effects. Miracle is for items created by magical phenomena or rituals lost to time, such the item couldn't be created again. Sacred is for the Sacred Treasures of Sumiriku, items that have legendary tales told of them or have close ties to divinity.
 
 }}
 

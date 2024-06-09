@@ -93,7 +93,7 @@ The second tag is Rarity, which indicates how plentiful an item is and how likel
 
 The third tag is Power, which indicates the strength of the item's abilities and the impact it would have on a character's potential. The levels of Power are Aesthetic, for items that do not confer any mechanical bonuses, Minor, Major, Epic, and Ultimate.
 
-There are a selection of additional tags that any item can have. Craftable is for items forged and transmuted by people's hands, which are also items that are easier to purchase or to have custom made. Miracle is for items created by magical phenomena or rituals lost to time, such the item couldn't be created again. Sacred is for the Sacred Treasures of Sumiriku, items that have legendary tales told of them or have close ties to divinity.
+There are a selection of additional tags that any item can have. Craftable is for items forged and transmuted by people's hands, which are also items that are easier to purchase or to have custom made. Mundane is for items that have no magical properties, and will continue to function under any anti-magic effects. Miracle is for items created by magical phenomena or rituals lost to time, such the item couldn't be created again. Sacred is for the Sacred Treasures of Sumiriku, items that have legendary tales told of them or have close ties to divinity.
 
 }}
 
@@ -182,7 +182,7 @@ Your prosthetic has space for an attachment under the bone. You can manually swa
 #### Shuko Claws
 
 *Wondrous Item (Shinobi Prosthetic Attachment), Very Rare, Minor, Mundane* </br>
-This attachment grants you hidden hooked blades, designed after the claws of the Nekotaiyō, to help climb perilous heights. As a Bonus Action you can extend or retract these claws. While extended, you gain a Climb Speed equal to half of your Speed. In addition, if you take the Attack Action on your turn you can use your Bonus Action to make an attack with the claws. They are Martial Melee weapons that deal 1d4 + your Strength Modifier Slashing damage.
+This attachment grants you hidden hooked blades, designed after the claws of the Nekotaiyō to help climb perilous heights. As a Bonus Action you can extend or retract these claws. While extended, you gain a Climb Speed equal to half of your Speed. In addition, if you take the Attack Action on your turn you can use your Bonus Action to make an attack with the claws. They are Martial Melee weapons that deal 1d4 + your Strength Modifier Slashing damage.
 
 }}
 
@@ -192,6 +192,11 @@ This attachment grants you hidden hooked blades, designed after the claws of the
 ![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
+
+#### Hookshot Hand
+
+*Wondrous Item (Shinobi Prosthetic Attachment), Very Rare, Minor, Mundane* </br>
+This attachment grants you hidden hooked blades, designed after the claws of the Nekotaiyō to help climb perilous heights. As a Bonus Action you can extend or retract these claws. While extended, you gain a Climb Speed equal to half of your Speed. In addition, if you take the Attack Action on your turn you can use your Bonus Action to make an attack with the claws. They are Martial Melee weapons that deal 1d4 + your Strength Modifier Slashing damage.
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
@@ -369,4 +374,4 @@ Haruto Kenzo."
 
 {{frontCover}}
 
-![background image](https://i.ibb.co/GJ6VDNn/Sumiriku-DMBack-Cover7.png){position:absolute,bottom:0,left:0,height:100.5%}
+![background image](https://i.ibb.co/FWrB1Cm/Sumiriku-DMBack-Cover7.png){position:absolute,bottom:0,left:0,height:100.5%}
