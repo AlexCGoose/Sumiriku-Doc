@@ -6444,13 +6444,13 @@ Some classes, subclasses, and feats let characters gain access to Weapon Masteri
 
 The Weapon Mastery prerequisites show which Masteries are applicable to which weapons. If a game feature lets you replace a weapon's Mastery property with another one, that weapon must meet any prerequisite specified for the new property.
 
-### Cleave ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:352px,left:400px,width:375px,mix-blend-mode:normal}
+### Cleave ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:417px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Prerequisite: Melee Weapon, Heavy Property*
 </br>
 If you hit a creature with a Melee Attack using this weapon, you can deal damage to every creature of your choice adjacent to the target and within the weapon's reach. This damage is equal to the weapon's damage. You can deal this extra damage only once per turn.
 
-### Cross ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:513px,left:400px,width:375px,mix-blend-mode:normal}
+### Cross ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:579px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Prerequisite: Melee Weapon, Finesse or Versatile Property*
 </br>
@@ -6458,7 +6458,7 @@ If you use the Attack Action and hit a creature with a Melee Attack using this w
 
 :
 
-### Graze ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:701px,left:400px,width:375px,mix-blend-mode:normal}
+### Graze ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:767px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Prerequisite: Melee Weapon, Heavy Property*
 </br>
@@ -6471,7 +6471,7 @@ If your Attack Roll with this weapon misses a creature, you can deal damage to t
 
 \page
 
-### Nick ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:889px,left:400px,width:375px,mix-blend-mode:normal}
+### Nick ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Prerequisite: Light Property*
 </br>
@@ -6479,7 +6479,7 @@ When you make the extra attack of the Light property, you can make it as part of
 
 :
 
-### Push ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Push ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:234px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Prerequisite: Heavy, Two-Handed, or Versatile Property*
 </br>
@@ -6487,7 +6487,7 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 
 :
 
-### Sap ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:252px,left:55px,width:375px,mix-blend-mode:normal}
+### Sap ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:423px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Prerequisite: None*
 </br>
@@ -6495,7 +6495,7 @@ If you hit a creature with this weapon, you can reduce its Speed by 10 feet unti
 
 :
 
-### Topple ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:404px,left:55px,width:375px,mix-blend-mode:normal}
+### Topple ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:574px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Prerequisite: Heavy, Reach, or Versatile Property*
 </br>
@@ -6503,7 +6503,7 @@ If you hit a creature with this weapon and exceed its AC by 5 or more, you can f
 
 :
 
-### Vex ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:538px,left:55px,width:375px,mix-blend-mode:normal}
+### Vex ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:708px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Prerequisite: Ammunition, Finesse, or Light Property*
 </br>
@@ -6513,7 +6513,7 @@ If you hit a creature with this weapon, you have Advantage on your next Attack R
 
 The following Weapon Properties have been updated:
 
-### Heavy ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:741px,left:55px,width:375px,mix-blend-mode:normal}
+### Heavy ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:911px,left:55px,width:375px,mix-blend-mode:normal}
 
 Creatures that are Medium or Larger must have a Strength of 13 or higher or they have Disadvantage on Attack Rolls when attacking with a Heavy Weapon. Creatures that are Small need a Strength of 15 or higher to not attack at Disadvantage, and Tiny creatures can't attack with this Weapon.
 
