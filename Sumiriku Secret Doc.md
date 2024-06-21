@@ -142,6 +142,7 @@ This bracelet of wooden prayer beads, known as an ōjuzu, has been made to help 
 
 The bracelet currently has beads of the following spells, listed with their associated Myōjin:
 
+- Netsu-sama: *Haste*
 - Kahei-sama: *Calm Emotions*
 
 \column

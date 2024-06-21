@@ -108,76 +108,76 @@
 
     - [{{ Barbarian}}{{ 49}}](#p50)
       - [{{ Path of the Kaijū}}{{ 50}}](#p51)
-    - [{{ Bard}}{{ 50}}](#p51)
-    - [{{ Blood Hunter}}{{ 50}}](#p51)
-      - [{{ Order of the Shifthunters}}{{ 51}}](#p52)
-    - [{{ Cleric - TODO}}{{ 52}}](#p53)
-    - [{{ Druid - TODO}}{{ 53}}](#p54)
-    - [{{ Fighter - TODO}}{{ 53}}](#p54)
-    - [{{ Monk - TODO}}{{ 53}}](#p54)
-      - [{{ Way of the Raging Demon}}{{ 53}}](#p54)
-    - [{{ Paladin - TODO}}{{ 53}}](#p54)
-    - [{{ Ranger - TODO}}{{ 53}}](#p54)
-    - [{{ Rogue - TODO}}{{ 56}}](#p56)
-      - [{{ Dagger Dancer Archetype}}{{ 55}}](#p56)
-    - [{{ Sorcerer - TODO}}{{ 56}}](#p57)
-    - [{{ Warlock - TODO}}{{ 56}}](#p57)
-    - [{{ Wizard - TODO}}{{ 56}}](#p57)
+    - [{{ Bard}}{{ 52}}](#p53)
+    - [{{ Blood Hunter}}{{ 54}}](#p55)
+      - [{{ Order of the Shifthunters}}{{ 55}}](#p56)
+    - [{{ Cleric - TODO}}{{ 56}}](#p57)
+    - [{{ Druid - TODO}}{{ 57}}](#p58)
+    - [{{ Fighter - TODO}}{{ 57}}](#p58)
+    - [{{ Monk - TODO}}{{ 57}}](#p58)
+      - [{{ Way of the Raging Demon}}{{ 57}}](#p8)
+    - [{{ Paladin - TODO}}{{ 57}}](#p58)
+    - [{{ Ranger - TODO}}{{ 57}}](#p58)
+    - [{{ Rogue - TODO}}{{ 59}}](#p60)
+      - [{{ Dagger Dancer Archetype}}{{ 59}}](#p60)
+    - [{{ Sorcerer - TODO}}{{ 60}}](#p61)
+    - [{{ Warlock - TODO}}{{ 60}}](#p61)
+    - [{{ Wizard - TODO}}{{ 60}}](#p61)
 
-  - ###### [{{ Backgrounds}}{{ 57}}](#p58)
+  - ###### [{{ Backgrounds}}{{ 61}}](#p62)
 
-    - [{{ Languages}}{{ 58}}](#p59)
-    - [{{ Sample Backgrounds - TODO}}{{ 59}}](#p60)
+    - [{{ Languages}}{{ 61}}](#p62)
+    - [{{ Sample Backgrounds - TODO}}{{ 63}}](#p64)
 
-  - ###### [{{ Weapons, Armour, and Equipment}}{{ 61}}](#p62)
+  - ###### [{{ Weapons, Armour, and Equipment}}{{ 65}}](#p66)
 
-    - [{{ Weapons - TODO}}{{ 61}}](#p62)
-    - [{{ Armour}}{{ 67}}](#p68)
-    - [{{ Equipment - TODO}}{{ 68}}](#p69)
+    - [{{ Weapons - TODO}}{{ 65}}](#p66)
+    - [{{ Armour}}{{ 71}}](#p72)
+    - [{{ Equipment - TODO}}{{ 72}}](#p73)
 
-  - ###### [{{ Feats}}{{ 69}}](#p70)
+  - ###### [{{ Feats}}{{ 73}}](#p74)
 
-    - [{{ Species and Aberrant Form Feats - TODO}}{{ 69}}](#p70)
-    - [{{ Generic Feats}}{{ 77}}](#p78)
+    - [{{ Species and Aberrant Form Feats - TODO}}{{ 73}}](#p74)
+    - [{{ Generic Feats}}{{ 81}}](#p82)
 
-  - ### [{{ PART 3 - Geography and Culture}}{{ 82}}](#p83) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:690px,left:285px,width:245px,mix-blend-mode:normal}
+  - ### [{{ PART 3 - Geography and Culture}}{{ 86}}](#p87) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:690px,left:285px,width:245px,mix-blend-mode:normal}
 
-  - ###### [{{ Maps of Sumiriku and the World - TODO}}{{ 83}}](#p84)
+  - ###### [{{ Maps of Sumiriku and the World - TODO}}{{ 87}}](#p88)
 
-  - ###### [{{ Landscapes and Landmarks - TODO}}{{ 85}}](#p86)
+  - ###### [{{ Landscapes and Landmarks - TODO}}{{ 89}}](#p90)
 
-  - ###### [{{ Calendar and Notable Events - TODO}}{{ 88}}](#p89)
+  - ###### [{{ Calendar and Notable Events - TODO}}{{ 92}}](#p93)
 
-    - [{{ Seasons}}{{ 88}}](#p89)
-    - [{{ Important Days}}{{ 88}}](#p89)
-      - [{{ Shōtenbi (Ascension Day)}}{{ 88}}](#p89)
-      - [{{ Tanabata (Seventh Evening)}}{{ 88}}](#p89)
-      - [{{ Ganjitsu (New Year's Day)}}{{ 88}}](#p89)
-      - [{{ Hyakki Chitsuki (Hundred Oni Blood Moon)}}{{ 89}}](#p90)
+    - [{{ Seasons}}{{ 92}}](#p93)
+    - [{{ Important Days}}{{ 92}}](#p93)
+      - [{{ Shōtenbi (Ascension Day)}}{{ 92}}](#p93)
+      - [{{ Tanabata (Seventh Evening)}}{{ 92}}](#p93)
+      - [{{ Ganjitsu (New Year's Day)}}{{ 92}}](#93)
+      - [{{ Hyakki Chitsuki (Hundred Oni Blood Moon)}}{{ 93}}](#p94)
 
-  - ###### [{{ Important People and Groups - TODO}}{{ 90}}](#p91)
+  - ###### [{{ Important People and Groups - TODO}}{{ 94}}](#p95)
 
-  - ###### [{{ Sacred Treasures and other Magic Items - TODO}}{{ 92}}](#p93)
+  - ###### [{{ Sacred Treasures and other Magic Items - TODO}}{{ 96}}](#p97)
 
 }}
 
 {{toc
 
-- ### [{{ EXTRA - Appendices}}{{ 93}}](#p94) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:115px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ EXTRA - Appendices}}{{ 97}}](#p98) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:115px,left:515px,width:245px,mix-blend-mode:normal}
 
-  - ###### [{{ Appendix A - Creature Stat Blocks}}{{ 94}}](#p95)
+  - ###### [{{ Appendix A - Creature Stat Blocks}}{{ 98}}](#p99)
 
-  - ###### [{{ Appendix B - Available Feats}}{{ 98}}](#p99)
+  - ###### [{{ Appendix B - Available Feats}}{{ 102}}](#p103)
 
-  - ###### [{{ Appendix C - Spell Changes - TODO}}{{ 110}}](#p111)
+  - ###### [{{ Appendix C - Spell Changes - TODO}}{{ 114}}](#p115)
 
-  - ###### [{{ Appendix D - Rule Change Glossary}}{{ 111}}](#p112)
+  - ###### [{{ Appendix D - Rule Change Glossary}}{{ 115}}](#p116)
 
-  - ###### [{{ Appendix E - Reference Images - TODO}}{{ 120}}](#p121)
+  - ###### [{{ Appendix E - Reference Images - TODO}}{{ 124}}](#p125)
 
-- ### [{{ CREDITS}}{{ 125}}](#p126) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:322px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ CREDITS}}{{ 129}}](#p130) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:322px,left:515px,width:245px,mix-blend-mode:normal}
 
-  - ###### [{{ Special Thanks}}{{ 125}}](#p126)
+  - ###### [{{ Special Thanks}}{{ 129}}](#p130)
 
 }}
 
@@ -3231,7 +3231,7 @@ As Sumiriku is a nation beset with conflict, it is understandable that it is a p
 
 New Weapon Properties are explained on the next page. Some of the other weapon properties have been updated, which are explained in Appendix D.
 
-Weapon Masteries are new to OneDnD, which add additional features to weapons for some classes. If you play a class with access to Weapon Masteries, each weapon has an associated mastery. All Weapon Masteries, including and adjusted Masteries and one new Mastery, can be found in Appendix D.
+Weapon Masteries are new to 2024 DnD, which add additional features to weapons for some classes. If you play a class with access to Weapon Masteries, each weapon has an associated mastery. All Weapon Masteries, including and adjusted Masteries and one new Mastery, can be found in Appendix D.
 
 }}
 
@@ -6339,7 +6339,7 @@ Two-Handed Weapons count as being held only in one hand, which allows you to hav
 
 ## Heroic Reroll
 
-When you have Heroic Reroll (also called Inspiration), you can expend it to get a reroll on a d20 Test. You decide to do so immediately after rolling the d20.
+When you have Heroic Reroll (also called Inspiration), you can expend it to get a reroll on any die roll you make. You decide to do so immediately after rolling the die.
 
 The DM can award Heroic Reroll to a player character who's done something that is particularly heroic or in character. Some game features, such as the Human's *Resourceful* trait, also award a Heroic Reroll.
 
@@ -6440,7 +6440,7 @@ You can attempt to cast the spell on a Spell Scroll if you know the spell, the s
 
 ## Weapon Masteries
 
-Some classes, subclasses, and feats let characters gain access to Weapon Masteries with weapons of their choice, allowing them to use the Weapon Mastery property when they attack with that weapon. Below is the list of all the Mastery properties, some of which are new and some of which have been modified from the OneDnD playtest documents.
+Some classes, subclasses, and feats let characters gain access to Weapon Masteries with weapons of their choice, allowing them to use the Weapon Mastery property when they attack with that weapon. Below is the list of all the Mastery properties, some of which are new and some of which have been modified from the 2024 DnD playtest documents.
 
 The Weapon Mastery prerequisites show which Masteries are applicable to which weapons. If a game feature lets you replace a weapon's Mastery property with another one, that weapon must meet any prerequisite specified for the new property.
 
