@@ -152,7 +152,7 @@
     - [{{ Important Days}}{{ 92}}](#p93)
       - [{{ Shōtenbi (Ascension Day)}}{{ 92}}](#p93)
       - [{{ Tanabata (Seventh Evening)}}{{ 92}}](#p93)
-      - [{{ Ganjitsu (New Year's Day)}}{{ 92}}](#93)
+      - [{{ Ganjitsu (New Year's Day)}}{{ 92}}](#p93)
       - [{{ Hyakki Chitsuki (Hundred Oni Blood Moon)}}{{ 93}}](#p94)
 
   - ###### [{{ Important People and Groups - TODO}}{{ 94}}](#p95)
