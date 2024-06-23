@@ -167,9 +167,9 @@
 
   - ###### [{{ Appendix C - Spell Changes - TODO}}{{ 114}}](#p115)
 
-  - ###### [{{ Appendix D - Rule Change Glossary}}{{ 121}}](#p122)
+  - ###### [{{ Appendix D - Rule Change Glossary}}{{ 123}}](#p124)
 
-  - ###### [{{ Appendix E - Reference Images - TODO}}{{ 130}}](#p131)
+  - ###### [{{ Appendix E - Reference Images - TODO}}{{ 132}}](#p133)
 
 - ### [{{ CREDITS}}{{ 129}}](#p130) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:336px,left:515px,width:245px,mix-blend-mode:normal}
 
@@ -4225,7 +4225,7 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 **Flail.** The Slashing part of any Kusarigama you wield gains the Reach property.
 
-**Ensnaring Chain.** When you hit with the Bludgeoning part of a Kusarigama, you can forgo dealing damage to instead Disarm the target or Restrain them until the start of your next turn. While the target is restrained in this way you can only attack with the Slashing part of a Kusarigama, and it loses the Reach property.
+**Ensnaring Chain.** When you hit with the Bludgeoning part of a Kusarigama, you can forgo dealing damage to instead Disarm the target or Restrain them until the start of your next turn. While the target is  Restrained in this way you can only attack with the Slashing part of a Kusarigama, and it loses the Reach property.
 
 **Swing Hook.** You are able to use the weight at the end of the Kusarigama chain as a grappling hook to reach higher places. You can throw the weight around beams, tree branches, into windows, and to other places of your DM's discretion within 15 feet. Creatures can climb the chain as if it were a rope, or they can swing from the chain to make Long Jumps of up to 20 feet as part of their movement.
 
@@ -6037,28 +6037,25 @@ Below is an alphabetised list of the spells added or changed in the 2024 D&D ver
 
 - Acid Splash - Now effects a 5-foot-radius sphere
 - Aid - Grants Temporary Hit Points, increased number of creatures
+- Arcane Eruption - New Level 4 Sorcerer spell, deals AoE damage and gives an extra condition
+- Banishing Smite - Changed casting time, requires Charisma Saving Throw to banish
+- Banishment - Reduced Range, target can repeat the Saving Throw
 - Barkskin - Replaces AC increase with Temporary Hit Points
 - Blade Ward - Replaces resistance with Disadvantage on attacks
 - Blinding Smite - New Level 3 Paladin smite spell, gives Blinded condition
 - Chill Touch - Damage die increased to d10, now Touch range
 - Conjure Animals - Now creates a spectral swarm that deals damage in an area rather than summoning
 - Conjure Barrage - Increased damage, deals Force damage, increases damage when upcast
+- Conjure Celestial - Now creates a healing and damaging cylinder of light rather than summoning
+- Conjure Elemental - Now creates an elemental that attacks enemies that approach rather than summoning
+- Conjure Fey - Now creates an fey that makes attacks and Frightens that approach rather than summoning
+- Conjure Minor Elemental - Now increases damage you deal with attacks rather than summoning
+- Conjure Volley - Works with Melee Weapons, only effects creatures of your choice, deals Force damage
+- Conjure Woodland Beings - Now deals damage to creatures that get close to you rather than summoning
 - Counterspell - Target must attempt a Constitution Saving Throw, the target's Spell Slot isn't expended if the spell is countered, no benefit for upcasting
 - Cure Wounds - Die increased to 2d8 per Spell Slot
-- Find Steed - Uses a new statblock, scales with level
-- Friends - Forces a Saving Throw, applies the Charmed condition
-- Guidance - Cast as a Reaction to a failed Ability Check
-- Healing Word - Die increased to 2d4 per Spell Slot
-- Hunter's Mark - Deals Force damage, increases damage when upcast
-- Mass Healing Word - Healing increased by 1d4
-- Poison Spray - Now an Attack Roll, increased range
-- Produce Flame - Increased range and light range, spell no longer ends after attacking
-- Resistance - Cast as a Reaction to a failed Saving Throw
-- Shining Smite - New Level 2 Paladin smite spell, grants Advantage on attacks and prevents Invisibility
-- Shocking Grasp - Replaces preventing Reactions with preventing Opportunity Attacks, damage up
-- Spiritual Weapon - Now requires Concentration
-- Staggering Smite - Changed casting time, no longer uses Concentration, can be upcast
-- Starry Wisp - New Bard/Druid Ranged Attack Cantrip, prevents Invisibility
+- Find Steed - Uses a new statblock, scales with Spell Slot level
+- Find Familiar - Uses a new statblock, scales with Spell Slot level
 
 }}
 
@@ -6070,11 +6067,39 @@ Below is an alphabetised list of the spells added or changed in the 2024 D&D ver
 
 ##### Note: Spells in D&D 2024 pt. 2
 
+- Fount of Moonlight - New Level 4 Bard/Druid spell that improves attack damage and can Blind
+- Friends - Forces a Saving Throw, applies the Charmed condition
+- Guidance - Cast as a Reaction to a failed Ability Check
+- Healing Word - Die increased to 2d4 per Spell Slot
+- Hunter's Mark - Deals Force damage, increases damage when upcast
+- Mass Cure Wounds - Healing increased by 2d8
+- Mass Healing Word - Healing increased by 1d4
+- Poison Spray - Now an Attack Roll, increased range
+- Produce Flame - Increased range and light range, spell no longer ends after attacking
+- Power Word Fortify - New Lever 7 Bard/Cleric spell that gives 120 Temporary Hit Points split between up to six creatures
+- Power Word Heal - Range increased to 60 feet, removes Dazed condition
+- Power Word Kill - Now deals damage if the creature is not below 100 Hit Points
+- Resistance - Cast as a Reaction to a failed Saving Throw
+- Searing Smite - Changed casting time, damage happens before Saving Throw, fir can't be put out with an Action
+- Shining Smite - New Level 2 Paladin smite spell, grants Advantage on attacks and prevents Invisibility
+- Shocking Grasp - Replaces preventing Reactions with preventing Opportunity Attacks, damage up
+- Sorcerous Burst - New Sorcerer Cantrip, adds an extra damage die each time you roll maximum
+- Spiritual Weapon - Now requires Concentration
+- Staggering Smite - Changed casting time, no longer uses Concentration, can be upcast
+- Starry Wisp - New Bard/Druid Ranged Attack Cantrip, prevents Invisibility
 - Thunderous Smite - Changed casting time, no longer uses Concentration, can be upcast
 - True Strike - Now makes a weapon attack using Spellcasting Ability, scales with level
 - Vicious Mockery - Damage die increased to d6
+- Wrathful Smite - Changed casting time, no longer uses Concentration, can be upcast, deals Necrotic Damage, target now repeats Saving Throw at the end of it's turn
 
 }}
+
+{{pageNumber,auto}}
+{{footnote EXTRA | APPENDICES}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
 
 ## Cantrips
 
@@ -6089,6 +6114,8 @@ A Club (Bokken) or Quarterstaff (Bō) you are holding is imbued with nature’s 
 
 The spell ends early if you cast it again or if you let go of the weapon.
 
+:
+
 ### Spare the Dying
 
 *Necromancy Cantrip (Cleric, Druid)*
@@ -6099,13 +6126,6 @@ The spell ends early if you cast it again or if you let go of the weapon.
 Choose a creature other than you within range that has 0 Hit Points yet is alive. The creature becomes Stable.
 
 **Cantrip Upgrade.** The spell’s range doubles when you reach levels 5 (30 feet), 11 (60 feet), and 17 (120 feet).
-
-{{pageNumber,auto}}
-{{footnote EXTRA | APPENDICES}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
-
-\page
 
 ## Level 1
 
@@ -6120,7 +6140,7 @@ A dazzling array of flashing, colored light springs from your hand. Each creatur
 
 **At Higher Levels.** When you cast this spell using a Spell Slot of 2nd level or higher, the size of the cone increases by 5 feet for each slot level above 1st.
 
-:
+\column
 
 ### Compelled Duel
 
@@ -6129,13 +6149,13 @@ A dazzling array of flashing, colored light springs from your hand. Each creatur
 **Range:**        :: Self (15-foot cone)
 **Components:**   :: V
 **Duration:**     :: Concentration, up to 1 minute
-You attempt to compel a creature into a duel. One creature that you can see within range must make a Wisdom Saving Throw. On a failed save, the creature is drawn to you, compelled by your divine demand. For the duration, it has disadvantage on attack rolls against creatures other than you, and must make a Wisdom Saving Throw each time it attempts to move away from you; if it succeeds on this Saving Throw, this spell doesn't restrict the target's movement for that turn.
+You attempt to compel a creature into a duel. One creature that you can see within range must make a Wisdom Saving Throw. On a failed save, the creature is drawn to you, compelled by your divine demand. For the duration, you both have disadvantage on attack rolls against creatures other than each other, and the target must make a Wisdom Saving Throw each time it attempts to move away from you; if it succeeds on this Saving Throw, this spell doesn't restrict the target's movement for that turn.
 
 The spell ends if a creature friendly to you damages the target or casts a harmful spell on it, or if you end your turn more than 30 feet away from the target.
 
 **At Higher Levels.** When you cast this spell using a Spell Slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
 
-\column
+:
 
 ### Goodberry
 
@@ -6150,7 +6170,12 @@ The berries lose their potency if they have not been consumed within 24 hours of
 
 **At Higher Levels.** When you cast this spell using a Spell Slot of level 2 or higher, five additional berries appear for each slot level above 1.
 
-:
+{{pageNumber,auto}}
+{{footnote EXTRA | APPENDICES}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+
+\page
 
 ### Hail of Thorns
 
@@ -6163,12 +6188,7 @@ As you hit the target, the projectile splits into a rain of thorns. In addition 
 
 **At Higher Levels.** If you cast this spell using a Spell Slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st (to a maximum of 6d10).
 
-{{pageNumber,auto}}
-{{footnote EXTRA | APPENDICES}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
-
-\page
+:
 
 ### Ray of Sickness
 
@@ -6282,7 +6302,7 @@ You sense the presence of any trap within range that is within line of sight. A 
 **Range:**        :: Self
 **Components:**   :: V, S, M (leaf of sumac)
 **Duration:**     :: Concentration, up to 10 minutes
-You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke the blade again as a bonus action.
+You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke the blade again as a Bonus Action.
 
 You can use your Action to make a Melee Spell Attack with the fiery blade. On a hit, the target takes 3d10 Fire damage.
 
@@ -6331,6 +6351,24 @@ A veil of shadows and silence radiates from you, masking you and your companions
 
 :
 
+### Prayer of Healing
+
+*Level 2 Abjuration*
+**Casting Time:** :: 1 minute
+**Range:**        :: 30 feet
+**Components:**   :: V
+**Duration:**     :: Instantaneous
+You utter an extended prayer of restoration. Choose a number of willing creatures equal to your Spellcasting Ability Modifier (minimum of 1). Each of those creatures who remains within range for the Spell’s entire casting gains the benefits of a Short Rest and also regains 2d8 Hit Points, and a creature can’t be affected by this Spell again until that creature finishes a Long Rest.
+
+**At Higher Levels.** When you cast this Spell using a Spell Slot of 3rd level or higher, the healing increases by 1d8 for each slot above 2nd.
+
+{{pageNumber,auto}}
+{{footnote EXTRA | APPENDICES}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
+
 ### Ray of Enfeeblement
 
 *Level 2 Necromancy*
@@ -6340,12 +6378,7 @@ A veil of shadows and silence radiates from you, masking you and your companions
 **Duration:**     :: Concentration, up to 1 minute
 A black beam of enervating energy springs from your finger toward a creature within range. Make a Ranged Spell Attack against the target. On a hit, the target has disadvantage on Strength checks, Strength Saving Throws, and attacks for the duration of the spell.
 
-{{pageNumber,auto}}
-{{footnote EXTRA | APPENDICES}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
-
-\page
+:
 
 ### Spike Growth
 
@@ -6360,7 +6393,7 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 
 **At Higher Levels.** When you cast this spell using a Spell Slot of 3rd level or higher, the damage increases by 1d4 for each slot level above 2nd.
 
-:
+\column
 
 ### Web
 
@@ -6371,11 +6404,9 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 **Duration:**     :: Concentration, up to 1 hour
 You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20-foot cube from that point for the duration, that must be anchored between two solid masses (such as walls or trees). Every 5 feet traveled through the webs costs an additional 5 feet of movement.
 
-Each creature that starts its turn in the webs must make a Dexterity Saving Throw. On a failed save, the creature is restrained as long as it remains in the webs or until it breaks free. At the start of each of its turns, a creature caught in the webs can repeat the Saving Throw. On a success, the creature breaks free of the webs.
+Each creature that starts its turn in the webs must make a Dexterity Saving Throw. On a failed save, the creature is  Restrained as long as it remains in the webs or until it breaks free. At the start of each of its turns, a creature caught in the webs can repeat the Saving Throw. On a success, the creature breaks free of the webs.
 
 The webs are flammable. If the webs are exposed to fire they burn away in 1 round, and any creature that starts its turn in the area takes 2d4 Fire damage.
-
-\column
 
 ## Level 3
 
@@ -6390,7 +6421,12 @@ You project a phantasmal image of a creature's worst fears. Each creature in a 3
 
 While frightened by this spell, a creature must take the Dash Action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn't have line of sight to you, the creature can repeat the Saving Throw. On a successful save, the spell ends for that creature. An affected creature can also repeat this Saving Throw at the end of each of its turns.
 
-:
+{{pageNumber,auto}}
+{{footnote EXTRA | APPENDICES}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+
+\page
 
 ### Hypnotic Pattern
 
@@ -6403,12 +6439,7 @@ You create a twisting pattern of colors that weaves through the air inside a 30-
 
 An affected creature can repeat this Saving Throw at the end of each of its turns, ending the effect on a success. The spell also ends for an affected creature if it takes any damage or if someone else uses an Action to shake it out of its stupor.
 
-{{pageNumber,auto}}
-{{footnote EXTRA | APPENDICES}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
-
-\page
+:
 
 ### Leomund's Tiny Hut
 
@@ -6423,7 +6454,7 @@ Nine creatures of Medium size or smaller can fit inside the dome with you. The s
 
 Until the spell ends, you can command the interior to become dimly lit or dark. The dome is opaque from the outside, of any color you choose, but it is transparent from the inside.
 
-:
+\column
 
 ### Lightning Arrow
 
@@ -6438,7 +6469,7 @@ The piece of ammunition or weapon then returns to its normal form.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage for both effects of the spell increases by 1d8 for each slot level above 3rd.
 
-\column
+:
 
 ### Spirit Guardians
 
@@ -6453,7 +6484,12 @@ When you cast this spell, you can designate any number of creatures you can see 
 
 **At Higher Levels.** When you cast this spell using a Spell Slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
 
-:
+{{pageNumber,auto}}
+{{footnote EXTRA | APPENDICES}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
 
 ### Stinking Cloud
 
@@ -6467,6 +6503,91 @@ You create a 20-foot-radius sphere of yellow, nauseating gas centered on a point
 Each creature that is completely within the cloud at the start of its turn must make a Constitution Saving Throw. On a failed save, the creature is Poisoned, and must spend its action while Poisoned turn retching and reeling. Creatures that don't need to breathe or are immune to the Poisoned condition automatically succeed on this Saving Throw. An affected creature can repeat this Saving Throw at the end of each of its turns, ending the effect on a success.
 
 A moderate wind disperses the cloud after 4 rounds. A strong wind disperses it after 1 round.
+
+## Level 4
+
+### Evard's Black Tentacles
+
+*Level 4 Conjuration*
+**Casting Time:** :: Action
+**Range:**        :: 90 feet
+**Components:**   :: V, S, M (a piece of tentacle from a giant octopus or a giant squid)
+**Duration:**     :: Concentration, up to 1 minute
+Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, Every 5 feet traveled through the tentacles costs an additional 5 feet of movement.
+
+Each creature that starts its turn in the webs must make a Dexterity Saving Throw. On a failed save, the creature takes 3d6 Bludgeoning damage and is Restrained by the tentacles until the spell ends. A creature that starts its turn in the area and is already Restrained by the tentacles takes 3d6 Bludgeoning damage. At the start of each of its turns, a creature caught in the tentacles can repeat the Saving Throw. On a success, the creature breaks free of the tentacles.
+
+\column
+
+### Grasping Vine
+
+*Level 4 Conjuration*
+**Casting Time:** :: Bonus Action
+**Range:**        :: 30 feet
+**Components:**   :: V, S
+**Duration:**     :: Concentration, up to 1 minute
+You conjure a vine that sprouts from the ground in an unoccupied space of your choice that you can see within range. When you cast this spell, you can direct the vine to lash out at a creature within 30 feet of it that you can see. That creature must succeed on a Dexterity Saving Throw or be pulled 20 feet directly toward the vine. Large or smaller creatures become Grappled by the vine and are knocked Prone. The escape DC from this grapple is equal to your Spell Save DC.
+
+Until the spell ends, you can direct the vine to lash out at the same creature or another one as a Bonus Action on each of your turns. If the vine is currently grappling a target, the grapple ends when it lashes out again.
+
+:
+
+### Leomund's Secret Chest
+
+*Level 4 Conjuration*
+**Casting Time:** :: Action
+**Range:**        :: Touch
+**Components:**   :: V, S, M (an exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth at least 5,000 gp, and a Tiny replica made from the same materials worth at least 50 gp)
+**Duration:**     :: Concentration, up to 1 minute
+You hide a chest, and all its contents, on the Ethereal Plane. You must touch the chest and the miniature replica that serves as a material component for the spell. The chest can contain up to 12 cubic feet of nonliving material (3 feet by 2 feet by 2 feet).
+
+While the chest remains on the Ethereal Plane, you can use an action and touch the replica to recall the chest. It appears in an unoccupied space on the ground within 5 feet of you. You can send the chest back to the Ethereal Plane by using an action and touching both the chest and the replica.
+
+This effect ends if you cast this spell again, if the smaller replica chest is destroyed, or if you choose to end the spell as an action. If the spell ends and the larger chest is on the Ethereal Plane, it is irretrievably lost.
+
+{{pageNumber,auto}}
+{{footnote EXTRA | APPENDICES}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+
+\page
+
+### Phantasmal Killer
+
+*Level 4 Illusion*
+**Casting Time:** :: Action
+**Range:**        :: 120 feet
+**Components:**   :: V, S
+**Duration:**     :: Concentration, up to 1 minute
+You tap into the nightmares of a creature you can see within range and create an illusory manifestation of its deepest fears, visible only to that creature. The target must make a Wisdom saving throw. On a failed save, the target takes 6d10 Psychic damage and becomes frightened for the duration. On a successful save, the target takes half as much damage and the spell ends. At the end of each of the target's turns before the spell ends, the target must succeed on a Wisdom saving throw or take 6d10 Psychic damage. On a successful save, the spell ends.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.
+
+:
+
+### Polymorph
+
+*Level 4 Transmutation*
+**Casting Time:** :: Action
+**Range:**        :: 60 feet
+**Components:**   :: V, S, M (a caterpillar cocoon)
+**Duration:**     :: Concentration, up to 1 hour
+When you learn this spell, choose 3 beasts whose challenge rating is equal to or less than your level to use with this spell. When you level up, you can replace one of these beasts with a different one.
+
+This spell transforms a creature that you can see within range into one of the beasts selected with this spell. (See the rules on Transformations in Appendix D) An unwilling creature must make a Wisdom Saving Throw to avoid the effect. The spell has no effect on a Shapechangers or a creature with 0 Hit Points. An unwilling target has all their game statistics, including mental ability scores, replaced by the statistics of the chosen beast. It retains its alignment and personality. A willing creature can also choose to gain a number of Temporary Hit Points equal to your Level.
+
+The transformation lasts for the duration. The target can choose to end the spell early when they take damage, and they can also choose to repeat the Wisdom Saving Throw at the end of each of its turns, ending the effect on a success.
+
+\column
+
+### Stoneskin
+
+*Level 4 Abjuration*
+**Casting Time:** :: Action
+**Range:**        :: Touch
+**Components:**   :: V, S, M (a chunk of stone)
+**Duration:**     :: Concentration, up to 1 hour
+This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to bludgeoning, piercing, and slashing damage.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -6485,7 +6606,7 @@ Areas of Effect impact all of the 5-foot by 5-foot squares that the area covers 
 
 Auras and other effects that are measured as a radius from a target emanate from the centre of that target. This means that an aura that emanates from a large creature is at the midpoint of four 5-foot by 5-foot squares, and 5 feet of the radius of the aura is encompassed by the creature.
 
-Any effect that is measured in terms of distance away from the creature, such as Paladin's *Aura of Protection* or the spell *Pass without Trace*, should instead be measured as an aura that emanates from the creature that causes the effect. The radius of these effects is 5 feet plus the distance specified by the effect. For example, a 6th level Paladin's *Aura of Protection* should be a 15-foot radius sphere centred on the Paladin.
+Any effect that is measured in terms of distance away from the creature, such as Paladin's *Aura of Protection* or the spell *Pass Without Trace*, should instead be measured as an aura that emanates from the creature that causes the effect. The radius of these effects is 5 feet plus the distance specified by the effect. For example, a 6th level Paladin's *Aura of Protection* should be a 15-foot radius sphere centred on the Paladin.
 
 ## Armour Class
 
