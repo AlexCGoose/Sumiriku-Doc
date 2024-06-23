@@ -136,7 +136,7 @@
     - [{{ Species and Aberrant Form Feats - TODO}}{{ 73}}](#p74)
     - [{{ Generic Feats}}{{ 81}}](#p82)
 
-  - ### [{{ PART 3 - Geography and Culture}}{{ 86}}](#p87) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:690px,left:285px,width:245px,mix-blend-mode:normal}
+  - ### [{{ PART 3 - Geography and Culture}}{{ 86}}](#p87) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:706px,left:285px,width:245px,mix-blend-mode:normal}
 
   - ###### [{{ Maps of Sumiriku and the World - TODO}}{{ 87}}](#p88)
 
@@ -167,13 +167,13 @@
 
   - ###### [{{ Appendix C - Spell Changes - TODO}}{{ 114}}](#p115)
 
-  - ###### [{{ Appendix D - Rule Change Glossary}}{{ 123}}](#p124)
+  - ###### [{{ Appendix D - Rule Change Glossary}}{{ 132}}](#p133)
 
-  - ###### [{{ Appendix E - Reference Images - TODO}}{{ 132}}](#p133)
+  - ###### [{{ Appendix E - Reference Images - TODO}}{{ 141}}](#p142)
 
-- ### [{{ CREDITS}}{{ 129}}](#p130) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:336px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ CREDITS}}{{ 146}}](#p147) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:322px,left:515px,width:245px,mix-blend-mode:normal}
 
-  - ###### [{{ Special Thanks}}{{ 135}}](#p136)
+  - ###### [{{ Special Thanks}}{{ 146}}](#147)
 
 }}
 
@@ -7836,7 +7836,7 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -7897,7 +7897,7 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
