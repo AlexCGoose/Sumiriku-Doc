@@ -994,7 +994,7 @@ As a Tsukibito, you gain these special traits:
 
 | Lineage  | 1st-Level Feature                                     | 5th-Level Feature                                          |
 |:---------|:------------------------------------------------------|:-----------------------------------------------------------|
-| Soratami | You can float about 1 foot above the ground, as long as you are above solid ground or the surface of a calm liquid. Your Floating Speed is equal to your Speed. You can float anywhere you could normally walk, and you ignore ground-based Difficult Terrain while floating. If you suffer a condition that reduces your Speed to 0 or you gain the Prone condition, you stop floating and begin to fall. | As a Reaction to falling, you can slow your rate of descent to 60 feet per round. This slow fall lasts for up to 1 minute. If you land while falling at this decreased rate you take no fall damage and begin floating above the ground. You must be able to float to use this feature. |
+| Soratami | You can float about 1 foot above the ground, as long as you are above solid ground or the surface of a calm liquid. Your Floating Speed is equal to your Speed. You can float anywhere you could normally walk, and you ignore ground-based Difficult Terrain while floating. If you suffer a Condition that reduces your Speed to 0 or you gain the Prone Condition, you stop floating and begin to fall. | As a Reaction to falling, you can slow your rate of descent to 60 feet per round. This slow fall lasts for up to 1 minute. If you land while falling at this decreased rate you take no fall damage and begin floating above the ground. You must be able to float to use this feature. |
 | Moritami | As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be standing on or touching earth, dirt, or foliage to use this Tremorsense. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. | You can spend 10 minutes surveying the ground around you to sense past travellers in the area. You get to know how many creatures have passed through here in the past day, what creature types they are, which directions they have travelled, and who was here most recently. You can also learn of the local geography, such as terrain, bodies of water, and local flora and fauna. This feature doesn't work in man-made spaces such as buildings, roads, and cities. Once you use this feature you must take a Long Rest before you can use it again. |
 | Maigomin | The range of your Darkvision increases to 120 feet. | You gain Advantage on Wisdom (Perception) checks that rely on sight while in dim light or darkness and you can make out details of even extremely distant creatures and objects as small as 2 feet across. |
 
@@ -1249,7 +1249,7 @@ As an Akki, you gain these special traits:
 
 ***Darkvision.*** You have Darkvision with a range of 60 feet.
 
-***Fortified Mind.*** You have Advantage on Saving Throws you make to avoid or end the Charmed condition on yourself.
+***Fortified Mind.*** You have Advantage on Saving Throws you make to avoid or end the Charmed Condition on yourself.
 
 ***Fury of the Small.*** When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your Proficiency Bonus. You can use this trait a number of times equal to your Proficiency Bonus, regaining all expended uses when you finish a Long Rest, and you can use it no more than once per turn.
 
@@ -1998,7 +1998,7 @@ As an Oni Bloodline, you gain these special traits:
 
 ***Brimstone Blood.*** You gain the Oni (Fiend) creature type.
 
-***Ferocity.*** As an Oni you have a burning passion inside you that needs to be kept in check. Whenever you fail a d20 test you roll 1d4 and add that amount to your total Ferocity. Additionally, if you start your turn in combat while not Incapacitated, you increase your Ferocity by 1d4 + the number of hostile creatures within 5 feet. If you are made Unconscious against your will, such as being reduced to 0 Hit Points, your Ferocity resets to 0.
+***Ferocity.*** As an Oni you have a burning passion inside you that needs to be kept in check. Whenever you fail a d20 test you roll 1d4 and add that amount to your total Ferocity. Additionally, if you start your turn in combat while not Incapacitated, you increase your Ferocity by 1d4 + the number of hostile creatures within 5 feet. If you are made Unconscious against your will, such as being reduced to 0 Hit Points, your Ferocity resets.
 
 ***Rampage.*** If you start your turn with 15 or more Ferocity, you must make a Wisdom Saving Throw, with DC equal to your current Ferocity, or else you will be overcome with bloodlust. You must spend your turn moving up to your movement towards the nearest target and then attack them with Demon Fangs, expending all of your Ferocity to deal damage. If at least one ally and one enemy are both the closest creatures, roll a die for odd or even to decide whether to attack an ally or an enemy. If no target is within range, you must take the Dash Action and move as close as possible to the nearest target.
 
@@ -3835,7 +3835,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 :
 
-&nbsp;**Yokai Heritage.** Your connection to the mischievous spirit world gives you the Yokai (Fey) creature type in addition to your other types. You also have Advantage on Saving Throws you make to avoid or end the Charmed condition on yourself.
+&nbsp;**Yokai Heritage.** Your connection to the mischievous spirit world gives you the Yokai (Fey) creature type in addition to your other types. You also have Advantage on Saving Throws you make to avoid or end the Charmed Condition on yourself.
 
 **Morphing Disguise.** If you do not already, you gain the ability to change your appearance from your regular form to a human visage. As an Action you can change forms, changing your size and height as well. You can also adjust your features, taking any appearance between your regular and your human form. Additionally, you can use this feature to disguise yourself, taking the appearance of any human you have seen before. To discern that you are not actually human, a creature can use its Action to inspect your appearance and must succeed on an Intelligence (Investigation) check with a DC of 8 + your Charisma modifier + your Proficiency Bonus.
 
@@ -3853,7 +3853,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 :
 
-&nbsp;**Yokai Heritage.** Your connection to the wild spirit world gives you the Yokai (Fey) creature type in addition to your other types. You also have Advantage on Saving Throws you make to avoid or end the Charmed condition on yourself.
+&nbsp;**Yokai Heritage.** Your connection to the wild spirit world gives you the Yokai (Fey) creature type in addition to your other types. You also have Advantage on Saving Throws you make to avoid or end the Charmed Condition on yourself.
 
 **Primal Spirit.** When you use your shapeshift feature, you can choose to transform into the empowered version of your Animal Form. The stat blocks for these forms, Empowered Kitsune Fox, Empowered Tanuki Raccoon-Dog, etc., can be found with their regular counterparts in Appendix A. These forms are considered Large creatures, have improved stats and attacks, and each have a unique ability on Recharge 5-6. When you transform into this empowered form you gain Temporary Hit Points equal to 4 times your level, which last for 1 hour. Once you lose these Temporary Hit Points you revert back to your regular, un-empowered Animal Form. You can also revert to your regular form as a Bonus Action, but you lose the Temporary Hit Points if you do. Once you use this feature, you cannot use it again until you finish a Long Rest.
 
@@ -6037,12 +6037,12 @@ Below is an alphabetised list of the spells added or changed in the 2024 D&D ver
 
 - Acid Splash - Now effects a 5-foot-radius sphere
 - Aid - Grants Temporary Hit Points, increased number of creatures
-- Arcane Eruption - New Level 4 Sorcerer spell, deals AoE damage and gives an extra condition
+- Arcane Eruption - New Level 4 Sorcerer spell, deals AoE damage and gives an extra Condition
 - Banishing Smite - Changed casting time, requires Charisma Saving Throw to banish
 - Banishment - Reduced Range, target can repeat the Saving Throw
 - Barkskin - Replaces AC increase with Temporary Hit Points
 - Blade Ward - Replaces resistance with Disadvantage on attacks
-- Blinding Smite - New Level 3 Paladin smite spell, gives Blinded condition
+- Blinding Smite - New Level 3 Paladin smite spell, gives Blinded Condition
 - Chill Touch - Damage die increased to d10, now Touch range
 - Conjure Animals - Now creates a spectral swarm that deals damage in an area rather than summoning
 - Conjure Barrage - Increased damage, deals Force damage, increases damage when upcast
@@ -6054,8 +6054,8 @@ Below is an alphabetised list of the spells added or changed in the 2024 D&D ver
 - Conjure Woodland Beings - Now deals damage to creatures that get close to you rather than summoning
 - Counterspell - Target must attempt a Constitution Saving Throw, the target's Spell Slot isn't expended if the spell is countered, no benefit for upcasting
 - Cure Wounds - Die increased to 2d8 per Spell Slot
-- Find Steed - Uses a new statblock, scales with Spell Slot level
-- Find Familiar - Uses a new statblock, scales with Spell Slot level
+- Find Steed - Uses a new stat block, scales with Spell Slot level
+- Find Familiar - Uses a new stat block, scales with Spell Slot level
 
 }}
 
@@ -6068,28 +6068,29 @@ Below is an alphabetised list of the spells added or changed in the 2024 D&D ver
 ##### Note: Spells in D&D 2024 pt. 2
 
 - Fount of Moonlight - New Level 4 Bard/Druid spell that improves attack damage and can Blind
-- Friends - Forces a Saving Throw, applies the Charmed condition
+- Friends - Forces a Saving Throw, applies the Charmed Condition
 - Guidance - Cast as a Reaction to a failed Ability Check
-- Healing Word - Die increased to 2d4 per Spell Slot
+- Healing Word - Die increased for 1d4 to 2d4 per Spell Slot
 - Hunter's Mark - Deals Force damage, increases damage when upcast
 - Mass Cure Wounds - Healing increased by 2d8
 - Mass Healing Word - Healing increased by 1d4
 - Poison Spray - Now an Attack Roll, increased range
 - Produce Flame - Increased range and light range, spell no longer ends after attacking
 - Power Word Fortify - New Lever 7 Bard/Cleric spell that gives 120 Temporary Hit Points split between up to six creatures
-- Power Word Heal - Range increased to 60 feet, removes Dazed condition
+- Power Word Heal - Range increased to 60 feet, removes Dazed Condition
 - Power Word Kill - Now deals damage if the creature is not below 100 Hit Points
 - Resistance - Cast as a Reaction to a failed Saving Throw
-- Searing Smite - Changed casting time, damage happens before Saving Throw, fir can't be put out with an Action
+- Searing Smite - Changed casting time, damage happens before Saving Throw, fire can't be put out with an Action
 - Shining Smite - New Level 2 Paladin smite spell, grants Advantage on attacks and prevents Invisibility
 - Shocking Grasp - Replaces preventing Reactions with preventing Opportunity Attacks, damage up
 - Sorcerous Burst - New Sorcerer Cantrip, adds an extra damage die each time you roll maximum
+- Spare the Dying - Increased range, can't self target, increases range with level
 - Spiritual Weapon - Now requires Concentration
 - Staggering Smite - Changed casting time, no longer uses Concentration, can be upcast
 - Starry Wisp - New Bard/Druid Ranged Attack Cantrip, prevents Invisibility
 - Thunderous Smite - Changed casting time, no longer uses Concentration, can be upcast
 - True Strike - Now makes a weapon attack using Spellcasting Ability, scales with level
-- Vicious Mockery - Damage die increased to d6
+- Vicious Mockery - Damage die increased from d4 to d6
 - Wrathful Smite - Changed casting time, no longer uses Concentration, can be upcast, deals Necrotic Damage, target now repeats Saving Throw at the end of it's turn
 
 }}
@@ -6098,6 +6099,80 @@ Below is an alphabetised list of the spells added or changed in the 2024 D&D ver
 {{footnote EXTRA | APPENDICES}}
 
 ![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
+
+{{note
+
+##### Note: Spells in this document pt. 1
+
+Below is list sorted by level and alphabetically of the spells changed in this document, with a brief description of the change. Refer to these over instead of their 5e counterparts.
+
+- Shillelagh - Extended duration, deals Force damage
+- Color Spray - Constitution Save instead of HP threshold, upcasting increases range
+- Compelled Duel - Target can't move away from you, you can attack other creatures, upcast for more targets
+- Goodberry - Consumes a component when cast
+- Hail of Thorns - Changed casting time to after hitting a target, no longer uses concentration
+- Ray of Sickness - Increased damage by 1d8
+- Sleep - Constitution Save instead of HP threshold, save repeats at end of target's turn, upcast for more targets
+- Witch Bolt - Applies the Dazed Condition
+- Alter Self - No longer uses concentration, natural weapons can you Spellcasting Ability Modifier
+- Crown of Madness - Charmed target can attack self
+- Find Traps - Reveals location of traps
+- Flame Blade - Damage increased from 3d6 to 3d10, upcast damage increased to 1d10 per level
+- Heat Metal - No more Saving Throw or Disadvantage, damage happens to contacting creature at the start of their turn
+- Melf's Acid Arrow - Deals an extra 2d4 damage on hit and miss
+- Pass Without Trace - Stealth bonus reduced to +5, must be near caster to keep bonus
+- Prayer of Healing - Grants a Short Rest, cast time reduced to 1 minute
+- Ray of Enfeeblement - Replaces half damage with disadvantage on Strength checks and Saving Throws and attacks, no repeating save
+- Spike Growth - Damage per turn capped
+- Web - Clarified positioning, only restrains at start of targets' turns, clarified fire interaction
+- Fear - Save repeats at end of targets' turns
+- Hypnotic Pattern - Save repeats at end of targets' turns
+- Leomund's Tiny Hut - No longer a ritual, dome has an AC and HP
+- Lightning Arrow - Changed casting time to after hitting a target, no longer uses concentration
+- Spirit Guardians - Replaces speed reduction with increased movement cost, damage reduced by 1d8
+- Stinking Cloud - Applies the Poison Condition, creature must waste action while poisoned, save repeats at end of targets' turns
+- Evard's Black Tentacles - Save repeats at end of targets' turns, no Action to escape
+
+}}
+
+{{note
+
+##### Note: Spells in this document pt. 2
+
+- Grasping Vine - Grapples and knocks creature Prone
+- Leomund's Secret Chest - No random chance of losing chest
+- Phantasmal Killer - Deals 6d10 damage immediately or half on successful save, increased repeating damage by 2d10
+- Polymorph - Beast stat blocks chosen when learning the spell, uses target's hit points, unwilling creatures can repeat the save at end of turn
+- Stoneskin - No Material cost
+- Animate Object - Now uses stat blocks like Summon spells
+- Dream - Now a ritual
+- Geas - Time between damage reduced to one hour
+- Legend Lore - Works on any person, place, or object
+- Swift Quiver - Makes two attacks when you cast the spell
+- Wall of Force - The wall now has an AC and HP
+- Magic Jar - Clears up wording and prevents exploits
+- Planar Ally - Ally now works without bargaining, CR of ally set, duration reduced to 24 hours
+- Forcecage - The cage now has an AC and HP
+- Mordenkainen's Sword - Damage significantly increased, Critical Hit ratio increased, movement speed increased, can pass through barriers, upcast to get an extra attack
+- Prismatic Spray - Creatures are affected by two rays minimum
+- Simulacrum - Prevents exploits by not letting the simulacrum cast, rest, or heal
+- Control Weather - Weather changes happen quicker
+- Feeblemind - Spell can be ended with *Dispel Magic*
+- Incendiary Cloud - No saving throw for damage on a creature entering the cloud or ending their turn there
+- True Polymorph - Prevents exploits by preventing casting and shapechanging, uses Temporary Hit Points as Polymorph health
+- Shapechange - Prevents exploits by preventing casting and shapechanging
+- Prismatic Wall - Creatures cannot be affected by the same layer multiple times a turn
+- Weird - Deals 6d10 damage on failed save, increased repeating damage by 2d10
+- Wish - Only can recreate spells with Action casting time, can't have multiple bonuses at once, removed chance of losing ability to cast
+
+}}
+
+{{pageNumber,auto}}
+{{footnote EXTRA | APPENDICES}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -6113,19 +6188,6 @@ Below is an alphabetised list of the spells added or changed in the 2024 D&D ver
 A Club (Bokken) or Quarterstaff (Bō) you are holding is imbued with nature’s power. For the duration, you can use your Spellcasting Ability instead of Strength for the attack and damage rolls of Melee Attacks using that weapon, and the weapon’s damage die becomes a d8. If the attack deals damage, it can be Force damage or the weapon’s normal damage type (your choice).
 
 The spell ends early if you cast it again or if you let go of the weapon.
-
-:
-
-### Spare the Dying
-
-*Necromancy Cantrip (Cleric, Druid)*
-**Casting Time:** :: Action
-**Range:**        :: 15 feet
-**Components:**   :: V, S
-**Duration:**     :: Instantaneous
-Choose a creature other than you within range that has 0 Hit Points yet is alive. The creature becomes Stable.
-
-**Cantrip Upgrade.** The spell’s range doubles when you reach levels 5 (30 feet), 11 (60 feet), and 17 (120 feet).
 
 ## Level 1
 
@@ -6173,7 +6235,7 @@ The berries lose their potency if they have not been consumed within 24 hours of
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -6241,7 +6303,7 @@ A beam of crackling, blue energy lances out toward a creature within range, form
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -6291,7 +6353,7 @@ You sense the presence of any trap within range that is within line of sight. A 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -6308,7 +6370,7 @@ You can use your Action to make a Melee Spell Attack with the fiery blade. On a 
 
 The flaming blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d10 for every two slot levels above 2nd.
+**At Higher Levels.** When you cast this spell using a Spell Slot of 4th level or higher, the damage increases by 1d10 for every two slot levels above 2nd.
 
 :
 
@@ -6334,7 +6396,7 @@ Choose a metal object that you can see within range. You cause the object to glo
 **Duration:**     :: Instantaneous
 A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a Ranged Spell Attack against the target. On a hit, the target takes 4d4 Acid damage immediately and 4d4 Acid damage at the end of its next turn. On a miss, the arrow splashes the target, dealing all the initial damage but no damage at the end of its next turn.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd.
+**At Higher Levels.** When you cast this spell using a Spell Slot of 3rd level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd.
 
 :
 
@@ -6365,7 +6427,7 @@ You utter an extended prayer of restoration. Choose a number of willing creature
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -6424,7 +6486,7 @@ While frightened by this spell, a creature must take the Dash Action and move aw
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png){position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -6467,7 +6529,7 @@ As you hit the target, the weapon's ammunition, or the weapon itself if it's a t
 
 The piece of ammunition or weapon then returns to its normal form.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage for both effects of the spell increases by 1d8 for each slot level above 3rd.
+**At Higher Levels.** When you cast this spell using a Spell Slot of 4th level or higher, the damage for both effects of the spell increases by 1d8 for each slot level above 3rd.
 
 :
 
@@ -6487,7 +6549,7 @@ When you cast this spell, you can designate any number of creatures you can see 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -6500,7 +6562,7 @@ When you cast this spell, you can designate any number of creatures you can see 
 **Duration:**     :: Concentration, up to 1 minute
 You create a 20-foot-radius sphere of yellow, nauseating gas centered on a point within range. The cloud spreads around corners, and its area is Heavily Obscured. The cloud lingers in the air for the duration.
 
-Each creature that is completely within the cloud at the start of its turn must make a Constitution Saving Throw. On a failed save, the creature is Poisoned, and must spend its action while Poisoned turn retching and reeling. Creatures that don't need to breathe or are immune to the Poisoned condition automatically succeed on this Saving Throw. An affected creature can repeat this Saving Throw at the end of each of its turns, ending the effect on a success.
+Each creature that is completely within the cloud at the start of its turn must make a Constitution Saving Throw. On a failed save, the creature is Poisoned, and must spend its action while Poisoned turn retching and reeling. The Poisoned Condition persists even after the creature leaves the cloud. Creatures that don't need to breathe or are immune to the Poisoned Condition automatically succeed on this Saving Throw. A Poisoned creature can repeat this Saving Throw at the end of each of its turns, ending the effect on a success.
 
 A moderate wind disperses the cloud after 4 rounds. A strong wind disperses it after 1 round.
 
@@ -6548,7 +6610,7 @@ This effect ends if you cast this spell again, if the smaller replica chest is d
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -6559,9 +6621,9 @@ This effect ends if you cast this spell again, if the smaller replica chest is d
 **Range:**        :: 120 feet
 **Components:**   :: V, S
 **Duration:**     :: Concentration, up to 1 minute
-You tap into the nightmares of a creature you can see within range and create an illusory manifestation of its deepest fears, visible only to that creature. The target must make a Wisdom saving throw. On a failed save, the target takes 6d10 Psychic damage and becomes frightened for the duration. On a successful save, the target takes half as much damage and the spell ends. At the end of each of the target's turns before the spell ends, the target must succeed on a Wisdom saving throw or take 6d10 Psychic damage. On a successful save, the spell ends.
+You tap into the nightmares of a creature you can see within range and create an illusory manifestation of its deepest fears, visible only to that creature. The target must make a Wisdom Saving Throw. On a failed save, the target takes 6d10 Psychic damage and becomes frightened for the duration. On a successful save, the target takes half as much damage and the spell ends. At the end of each of the target's turns before the spell ends, the target must succeed on a Wisdom Saving Throw or take 6d10 Psychic damage. On a successful save, the spell ends.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.
+**At Higher Levels.** When you cast this spell using a Spell Slot of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.
 
 :
 
@@ -6572,9 +6634,9 @@ You tap into the nightmares of a creature you can see within range and create an
 **Range:**        :: 60 feet
 **Components:**   :: V, S, M (a caterpillar cocoon)
 **Duration:**     :: Concentration, up to 1 hour
-When you learn this spell, choose 3 beasts whose challenge rating is equal to or less than your level to use with this spell. When you level up, you can replace one of these beasts with a different one.
+When you learn this spell, choose 3 beasts whose challenge rating is equal to or less than your level to use with this spell. When you complete a Long Rest, you can replace one of these beasts with a different one.
 
-This spell transforms a creature that you can see within range into one of the beasts selected with this spell. (See the rules on Transformations in Appendix D) An unwilling creature must make a Wisdom Saving Throw to avoid the effect. The spell has no effect on a Shapechangers or a creature with 0 Hit Points. An unwilling target has all their game statistics, including mental ability scores, replaced by the statistics of the chosen beast. It retains its alignment and personality. A willing creature can also choose to gain a number of Temporary Hit Points equal to your Level.
+This spell transforms a creature that you can see within range into one of the beasts selected with this spell (See the rules on Transformations in Appendix D). An unwilling creature must make a Wisdom Saving Throw to avoid the effect. The spell has no effect on a Shapechangers or a creature with 0 Hit Points. An unwilling target has all their game statistics, including mental Ability Scores, replaced by the statistics of the chosen beast. It retains its alignment and personality. If the target was willing, they can gain Temporary Hit Points equal to your level.
 
 The transformation lasts for the duration. The target can choose to end the spell early when they take damage, and they can also choose to repeat the Wisdom Saving Throw at the end of each of its turns, ending the effect on a success.
 
@@ -6587,12 +6649,543 @@ The transformation lasts for the duration. The target can choose to end the spel
 **Range:**        :: Touch
 **Components:**   :: V, S, M (a chunk of stone)
 **Duration:**     :: Concentration, up to 1 hour
-This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to bludgeoning, piercing, and slashing damage.
+This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to Bludgeoning, Piercing, and Slashing damage.
+
+## Level 5
+
+### Animate Objects
+
+*Level 5 Transmutation*
+**Casting Time:** :: Action
+**Range:**        :: 120 feet
+**Components:**   :: V, S
+**Duration:**     :: Concentration, up to 1 hour
+Objects come to life at your command. Target an appropriate object or set of objects within range to turn them into either the Large Animated Object or the Swarm of Animated Objects stat block.
+
+The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
+
+**At Higher Levels.** When you cast this spell using a Spell Slot of 6th level or higher, use the higher level wherever the spell's level appears in the stat block.
+
+{{pageNumber,auto}}
+{{footnote EXTRA | APPENDICES}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+
+\page
+
+{{#creature,monster,frame
+
+## Large Animated Object - TODO
+
+*Large Construct, Unaligned*
+___
+**Armour Class** :: 13 + the level of the spell (natural armor)
+**Hit Points**  :: 40 + 15 for each spell level above 4th
+**Speed**       :: 30 ft.
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|18 (+4)|10 (+0)|18 (+4)|2 (-4) |12 (+1)|4 (-3) |
+___
+**Damage Resistances**   :: Poison, Psychic
+**Condition Immunities** :: Charmed, Exhaustion, Frightened, Incapacitated, Paralyzed, Petrified, Poisoned
+**Senses**               :: Blindsight 60 ft., passive Perception 11
+**Challenge**            :: -
+___
+
+### Actions
+
+***Multiattack.*** The construct makes a number of attacks equal to half this spell's level (rounded down).
+:
+***Slam.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target. *Hit:* 1d8 + 4 + the spell's level Bludgeoning damage.
+
+}}
+
+:
+
+{{#creature,monster,frame
+
+## Swarm of Animated Objects - TODO
+
+*Medium swarm of Tiny Construct, Unaligned*
+___
+**Armour Class** :: 13 + the level of the spell (natural armor)
+**Hit Points**  :: 40 + 15 for each spell level above 4th
+**Speed**       :: 0 ft., fly 30 ft.
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|5 (-3) |18 (+4)|18 (+4)|2 (-4) |12 (+1)|4 (-3) |
+___
+**Damage Resistances**   :: Bludgeoning, Piercing, Poison, Psychic, Slashing,
+**Condition Immunities** :: Charmed, Exhaustion, Frightened, Grappled, Incapacitated, Paralyzed, Petrified, Poisoned, Prone, Restrained, Stunned
+**Senses**               :: Blindsight 60 ft., passive Perception 11
+**Challenge**            :: -
+___
+***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny book. The swarm can't regain Hit Points or gain temporary Hit Points.
+
+### Actions
+
+***Multiattack.*** The swarm makes a number of attacks equal to half this spell's level (rounded down).
+:
+***Slam.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 2d4 + 4 + the spell's level Bludgeoning damage., or 1d4 + 4 + the spell's level Bludgeoning damage if the swarm has half of its Hit Points or fewer.
+
+}}
+
+\column
+
+### Dream
+
+*Level 5 Illusion (Ritual)*
+**Casting Time:** :: 1 minute
+**Range:**        :: Special
+**Components:**   :: V, S, M (a handful of sand, a dab of ink, and a writing quill plucked from a sleeping bird)
+**Duration:**     :: 8 hours
+This spell shapes a creature's dreams. Choose a creature known to you as the target of this spell. The target must be on the same plane of existence as you. Creatures that don't sleep can't be contacted by this spell. You, or a willing creature you touch, enters a trance state, acting as a messenger. While in the trance, the messenger is aware of his or her surroundings, but can't take actions or move.
+
+If the target is asleep, the messenger appears in the target's dreams and can converse with the target as long as it remains asleep, through the duration of the spell. The messenger can also shape the environment of the dream, creating landscapes, objects, and other images. The messenger can emerge from the trance at any time, ending the effect of the spell early. The target recalls the dream perfectly upon waking. If the target is awake when you cast the spell, the messenger knows it, and can either end the trance (and the spell) or wait for the target to fall asleep, at which point the messenger appears in the target's dreams.
+
+You can make the messenger appear monstrous and terrifying to the target. If you do, the messenger can deliver a message of no more than ten words and then the target must make a Wisdom Saving Throw. On a failed save, echoes of the phantasmal monstrosity spawn a nightmare that lasts the duration of the target's sleep and prevents the target from gaining any benefit from that rest. In addition, when the target wakes up, it takes 3d6 psychic damage.
+
+If you have a body part, lock of hair, clipping from a nail, or similar portion of the target's body, the target makes its Saving Throw with disadvantage.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
 ![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
+
+### Geas
+
+*Level 5 Enchantment*
+**Casting Time:** :: 1 minute
+**Range:**        :: 60 feet
+**Components:**   :: V
+**Duration:**     :: 30 days
+You place a magical command on a creature that you can see within range, forcing it to carry out some service or refrain from some action or course of activity as you decide. If the creature can understand you, it must succeed on a Wisdom Saving Throw or become charmed by you for the duration. While the creature is charmed by you, it takes 5d10 psychic damage each time it acts in a manner directly counter to your instructions, but no more than once each hour. A creature that can't understand you is unaffected by the spell.
+
+You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the spell ends.
+
+You can end the spell early by using an action to dismiss it. A *Remove Curse*, *Greater Restoration*, or *Wish* spell also ends it.
+
+**At Higher Levels.** When you cast this spell using a Spell Slot of 7th or 8th level, the duration is 1 year. When you cast this spell using a Spell Slot of 9th level, the spell lasts until it is ended by one of the spells mentioned above.
+
+:
+
+### Legend Lore
+
+*Level 5 Enchantment*
+**Casting Time:** :: 10 minutes
+**Range:**        :: Self
+**Components:**   :: V, S, M (incense worth at least 250 gp, which the spell consumes, and four ivory strips worth at least 50 gp each)
+**Duration:**     :: Instantaneous
+Name or describe a person, place, or object. The spell brings to your mind a brief summary of the significant lore about the thing you named. The lore might consist of current tales, forgotten stories, or even secret lore that has never been widely known. The more information you already have about the thing, the more precise and detailed the information you receive is. The information you learn is accurate but might be couched in figurative language.
+
+\column
+
+### Swift Quiver
+
+*Level 5 Transmutation*
+**Casting Time:** :: Bonus Action
+**Range:**        :: Self
+**Components:**   :: V, S, M (a quiver containing at least one piece of ammunition)
+**Duration:**     :: Concentration, up to 1 minute
+You transmute your quiver so it produces an endless supply of nonmagical ammunition, which seems to leap into your hand when you reach for it.
+
+On each of your turns until the spell ends, you can use a Bonus Action (including the Bonus Action used to cast this spell) to make two attacks with a Ranged Weapon that uses ammunition from this quiver. When you make such a Ranged Attack, your quiver magically replaces the ammunition you used with a nonmagical copy of that ammunition. Pieces of ammunition created by this spell disintegrate when the spell ends. If the quiver leaves your possession, the spell ends.
+
+{{pageNumber,auto}}
+{{footnote EXTRA | APPENDICES}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+
+\page
+
+### Wall of Force
+
+*Level 5 Conjuration*
+**Casting Time:** :: Action
+**Range:**        :: 120 feet
+**Components:**   :: V, S, M (a pinch of powder made by crushing a clear gemstone)
+**Duration:**     :: Concentration, up to 10 minutes
+A shimmering opaque wall of force springs into existence at a point you choose within range and lasts for the duration.
+
+**Orientation & Shape.** The wall appears in any orientation you choose, as a horizontal or vertical barrier or an angle. It can be free floating or rest on a solid surface. You can form it into a hemispherical dome, a sphere with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-by-10-foot panels. Each panel must be contiguous with another. In any form, the wall is 1/4 inch thick. Nothing can pass through the wall physically, and anything viewed through it is lightly obscured. The wall extends into the Ethereal Plane, blocking ethereal travel through the wall. If it cuts through a creature's space when it appears, the creatures must make a Dexterity Saving Throw. On a success, it chooses which side of the wall it moves to. On a failure, you choose the side it moves to.
+
+**Statistics.** The wall's Armor Class equal to your Spell save DC and it has 125 Hit Points. It is immune to Poison and Psychic damage. It cannot be dispelled by a *Dispel Magic* spell, but a *Disintegrate* spell destroys the wall it instantly.
+
+**At Higher Levels.** When you cast this spell using a Spell Slot of 6th-level or higher, the Hit Points of the wall created by this spell increase by 25 for each Spell Slot level above 5th.
+
+\column
+
+## Level 6
+
+### Magic Jar
+
+*Level 6 Necromancy*
+**Casting Time:** :: 1 minute
+**Range:**        :: Self
+**Components:**   :: V, S, M (an ornamental container worth at least 500 gp)
+**Duration:**     :: Until dispelled
+Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell's material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container's space. You can't move or use Reactions. The only actions you can take are to end the spell (returning to your living body) or attempt to possess a humanoid's body by projecting your soul.
+
+You can attempt to possess any humanoid within 100 feet of you that you can see (creatures warded by a *Protection from Evil and Good* or *Magic Circle* spell can't be possessed). The target must make a Charisma Saving Throw. On a failure, your soul moves into the target's body, and the target's soul becomes trapped in the container. On a success, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours.
+
+While you possess a creature, this spell ends, returning your soul to your body and your host's soul to their body, if any of the following occur:
+
+- If the host body dies
+- If the container is destroyed
+- If the host body is successfully possessed by another creature
+- If the body ceases to be a humanoid
+- If you use your Action to end the spell
+- If the spell ends for any reason
+
+Once you possess a creature's body, you control it. Your game statistics are replaced by the statistics of the creature, though you retain your alignment and your Intelligence, Wisdom, and Charisma scores. If the creature has the Spellcasting trait or the ability to change shape you cannot use those traits.
+
+Meanwhile, the possessed creature's soul can perceive from the container using its own senses, but it can't move or take actions at all. If the host body is dead when the spell ends, they die. If your body is dead when the spell ends, you die. When the spell ends, the container is destroyed.
+
+{{pageNumber,auto}}
+{{footnote EXTRA | APPENDICES}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
+
+### Planar Ally
+
+*Level 6 Conjuration*
+**Casting Time:** :: 10 minutes
+**Range:**        :: 60 feet
+**Components:**   :: V, S
+**Duration:**     :: Concentration, up to 24 hours
+You beseech an otherworldly entity for aid. The being must be known to you: a god, a primordial, a demon prince, or some other being of cosmic power. That entity sends your choice of a CR 5 Celestial, Elemental, or Fiend loyal to it to aid you, making the creature appear in an unoccupied space within range.
+
+When the creature appears, you can telepathically give the creature a single sentence task, even if you cannot communicate with them normally. The creature will attempt to complete the task to the best of their ability, so long as it is not obviously impossible or suicidal in nature. The spell ends early if the task is completed or the creature falls to 0 Hit Points.
+
+## Level 7
+
+### Forcecage
+
+*Level 7 Conjuration*
+**Casting Time:** :: Action
+**Range:**        :: 100 feet
+**Components:**   :: V, S, M (an ornate jade box worth 1,500 gp)
+**Duration:**     :: Concentration, up to 1 hour
+A shimmering, immobile, cube-shaped prison composed of magical force springs into existence around an area of your choice within range. You choose whether this magic prison is shaped like a cage with bars or a solid box.
+
+**Shape.** If you choose cage, it can be up to 20 feet on a side and made from 1/2-inch diameter bars spaced 1/2 inch apart. If you choose box, it can be up to 10 feet on a side, creating a solid barrier that prevents any matter from passing through it and blocking any spells cast into or out of the area. The cage extends into the Ethereal Plane, blocking ethereal travel.
+
+**Creatures Inside.** When you cast the spell, any creatures that are completely inside the area of the cage are trapped. Any creatures partially within the area, or too large to fit are pushed away until they are completely outside of the cage.
+
+\column
+
+&nbsp;A creature inside the cage cannot leave it by non-magical means. If the creature tries to use teleportation or interplanar travel to leave the cage, it must first make a Charisma Saving Throw. The spell or effect is wasted on a failed save, but on a success the creature uses the spell or effect to escape.
+
+**Statistics.** The cage's Armor Class equals your Spell save DC and it has 250 Hit Points. It is immune to Poison and Psychic damage. It cannot be dispelled by a *Dispel Magic* spell, but a *Disintegrate* spell destroys the wall it instantly.
+
+**At Higher Levels.** When you cast this spell using a Spell Slot of 8th-level or higher, the Hit Points of the cage created by this spell increase by 25 for each Spell Slot level above 7th.
+
+:
+
+### Mordenkainen's Sword
+
+*Level 7 Conjuration (Bard, Sorcerer, Warlock, Wizard)*
+**Casting Time:** :: Action
+**Range:**        :: 60 feet
+**Components:**   :: V, S, M (a fine sword hilt worth 250 gp)
+**Duration:**     :: Concentration, up to 1 minute
+You create a sword-shaped planar rift about 3 feet long in an unoccupied space you can see within range. This floating rift-sword lasts for the duration. When you cast this spell, you can make a Melee Spell Attack with the sword against a creature, loose object, or structure within 5 feet of the sword. On a hit, the target takes 4d12 Force damage. This attack scores a Critical Hit if the number on the d20 is 18 or higher. On a Critical Hit, the sword deals an extra 8d12 force damage (for a total of 12d12 force damage).
+
+As a bonus action on your turn, you can move the sword up to 30 feet to an unoccupied space you can see and then make a Melee Spell Attack with it again.
+
+The sword can harmlessly pass through any barrier, including a wall of force.
+
+**At Higher Levels.** When you cast this spell using a 9th-level Spell Slot, when you make an attack with the sword you may attack twice.
+
+{{pageNumber,auto}}
+{{footnote EXTRA | APPENDICES}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+
+\page
+
+### Prismatic Spray
+
+*Level 7 Evocation*
+**Casting Time:** :: Action
+**Range:**        :: Self (60-foot cone)
+**Components:**   :: V, S
+**Duration:**     :: Instantaneous
+
+Eight multicolored rays of light flash from your hand. Each ray is a different color and has a different power and purpose. Each creature in a 60-foot cone must make a Dexterity Saving Throw. For each target, roll 2d6 to determine which color ray affects it. If you roll doubles, the target is affected by the Violet ray as well as the ray of the number rolled.
+
+*(Rays remain the same)*
+
+<!-- **1 - Red.** The target takes 10d6 Fire damage on a failed save, or half as much damage on a successful one.
+
+**2 - Orange.** The target takes 10d6 Acid damage on a failed save, or half as much damage on a successful one.
+
+**3 - Yellow.** The target takes 10d6 Lightning damage on a failed save, or half as much damage on a successful one.
+
+**4 - Green.** The target takes 10d6 Poison damage on a failed save, or half as much damage on a successful one.
+
+**5 - Blue.** The target takes 10d6 Cold damage on a failed save, or half as much damage on a successful one.
+
+**6 - Indigo.** On a failed save, the target is Restrained. It must then make a Constitution Saving Throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the petrified Condition. The successes and failures don't need to be consecutive, keep track of both until the target collects three of a kind.
+
+**Doubles - Violet.** On a failed save, the target is Blinded. It must then make a Wisdom Saving Throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of existence of the DM's choosing and is no longer Blinded. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.) -->
+
+:
+
+### Simulacrum
+
+*Level 7 Illusion*
+**Casting Time:** :: 12 hours
+**Range:**        :: Touch
+**Components:**   :: V, S, M (snow or ice in quantities sufficient to make a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell)
+**Duration:**     :: Until dispelled
+You attempt to shape an illusory duplicate of one beast or humanoid in its original form that is within range for the entire casting time of the spell. If the creature being duplicated is unwilling it An unwilling creature must make a Wisdom Saving Throw to avoid being duplicated. The duplicate is a creature, partially real and formed from ice or snow, and it can take actions and otherwise be affected as a normal creature. The creature appears to be identical to the original, aside from being formed without any equipment.
+
+The simulacrum uses the same statistics as the creature it duplicates, except for the following differences; It is a construct, has half the original creature's Hit Point maximum, it cannot cast spells or change its shape, it cannot benefit from a Short Rest, Long Rest, or a Sleep, it cannot gain Exhaustion, and it cannot be healed in any way other than being repaired in an alchemical laboratory.
+
+\column
+
+The simulacrum is friendly to you and creatures you designate. It obeys your spoken commands, moving and acting in accordance with your wishes and acting on your turn in combat. The simulacrum lacks the ability to learn or become more powerful, so it never increases its level or other abilities, nor can it regain expended spell slots.
+
+If the simulacrum is damaged, you can repair it in an alchemical laboratory, using rare herbs and minerals worth 100 gp per hit point it regains. The simulacrum lasts until it drops to 0 Hit Points, at which point it reverts to snow and melts instantly.
+
+If you cast this spell again, any currently active duplicates you created with this spell are instantly destroyed.
+
+## Level 8
+
+### Control Weather
+
+*Level 8 Transmutation*
+**Casting Time:** :: 10 minutes
+**Range:**        :: Self (5-mile radius)
+**Components:**   :: V, S, M (burning incense and bits of earth and wood mixed in water)
+**Duration:**     :: Until dispelled
+You take control of the weather within 5 miles of you for the duration. You must be outdoors to cast this spell. Moving to a place where you don't have a clear path to the sky ends the spell early.
+
+When you cast the spell, you change the current weather conditions, which are determined by the DM based on the climate and season. You can change precipitation, temperature, and wind. Every 10 additional minutes you can use your Action to change the weather conditions again. When the spell ends, the weather gradually returns to normal.
+
+When you change the weather conditions, find a current condition on the following tables and change its stage by one, up or down. When changing the wind, you can change its direction.
+
+*(Condition Tables remain the same)*
+
+<!-- {{#default-table,classTable
+
+##### Precipitation
+
+| Stage | Condition                                  |
+|:------|:-------------------------------------------|
+| 1     | Clear                                      |
+| 2     | Light clouds                               |
+| 3     | Overcast or ground fog                     |
+| 4     | Rain, hail, or snow                        |
+| 5     | Torrential rain, driving hail, or blizzard |
+
+##### Temperature
+
+| Stage | Condition       |
+|:------|:----------------|
+| 1     | Unbearable heat |
+| 2     | Hot             |
+| 3     | Warm            |
+| 4     | Cool            |
+| 5     | Cold            |
+| 6     | Arctic cold     |
+
+##### Wind
+
+| Stage | Condition     |
+|:------|:--------------|
+| 1     | Calm          |
+| 2     | Moderate wind |
+| 3     | Strong wind   |
+| 4     | Gale          |
+| 5     | Storm         |
+
+}} -->
+
+{{pageNumber,auto}}
+{{footnote EXTRA | APPENDICES}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
+
+### Feeblemind
+
+*Level 8 Transmutation*
+**Casting Time:** :: Action
+**Range:**        :: 150 feet
+**Components:**   :: V, S, M (a handful of clay, crystal, glass, or mineral spheres)
+**Duration:**     :: Until dispelled
+You blast the mind of a creature that you can see within range, attempting to shatter its intellect and personality. The target takes 4d6 Psychic damage and must make an Intelligence Saving Throw.
+
+On a failed save, the creature's Intelligence and Charisma scores become 1. The creature can't cast spells, activate Magic Items, understand language, or communicate in any intelligible way. The creature can, however, identify its friends, follow them, and even protect them.
+
+At the end of every 30 days, the creature can repeat its Saving Throw against this spell. If it succeeds on its Saving Throw, the spell ends.
+
+The spell can also be ended by *Dispel Magic*, *Greater Restoration*, *Heal*, or *Wish*.
+
+:
+
+### Incendiary Cloud
+
+*Level 8 Transmutation*
+**Casting Time:** :: Action
+**Range:**        :: 150 feet
+**Components:**   :: V, S
+**Duration:**     :: Concentration, up to 1 minute
+A swirling cloud of smoke shot through with white-hot embers appears in a 20-foot-radius sphere centered on a point within range. The cloud spreads around corners and is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
+
+When the cloud appears, each creature in it must make a Dexterity Saving Throw. A creature takes 10d8 Fire damage on a failed save, or half as much damage on a successful one. A creature that enters the spell's area for the first time on a turn or ends its turn there also takes 10d8 Fire damage.
+
+When the cloud appears choose a direction. The cloud moves 10 feet in that direction at the start of each of your turns.
+
+\column
+
+## Level 9
+
+### True Polymorph
+
+*Level 9 Transmutation*
+**Casting Time:** :: Action
+**Range:**        :: 30 feet
+**Components:**   :: V, S, M (a drop of mercury, a dollop of gum arabic, and a wisp of smoke)
+**Duration:**     :: Concentration, up to 1 hour
+Choose one creature or nonmagical object that you can see within range. You transform the creature into a different creature, the creature into a nonmagical object, or the object into a creature (the object must be neither worn nor carried by another creature). The transformation lasts for the duration, or until the target drops to 0 Hit Points or dies. If you concentrate on this spell for the full duration, the transformation lasts until it is dispelled.
+
+This spell has no effect on a Shapechanger or a creature with 0 Hit Points. An unwilling creature can make a Wisdom Saving Throw, and if it succeeds, it isn't affected by this spell.
+
+**Creature into Creature.** If you turn a creature into another kind of creature, the new form can be any kind you choose whose challenge rating is equal to or less than the target's (or its level, if the target doesn't have a challenge rating). The target's game statistics, including mental Ability Scores, are replaced by the statistics of the new form. It retains its alignment and personality.
+
+The target gains Temporary Hit Points equal to the Hit Points of the creature being transformed into. Once these Temporary Hit Points are gone the creature reverts to its original form.
+
+The creature is limited in the actions it can perform by the nature of its new form, and it can't speak or take any other action that requires hands or speech unless its new form is capable of such actions. The creature is unable to cast spells.
+
+The target's gear melds into the new form. The creature can't activate, use, wield, or otherwise benefit from any of its equipment.
+
+*(Object into Creature and Creature into Object remains the same)*
+
+<!-- **Object into Creature.** You can turn an object into any kind of creature, as long as the creature's size is no larger than the object's size and the creature's challenge rating is 9 or lower. The creature is friendly to you and your companions. It acts on each of your turns. You decide what action it takes and how it moves. The DM has the creature's statistics and resolves all of its actions and movement.
+
+If the spell becomes permanent, you no longer control the creature. It might remain friendly to you, depending on how you have treated it.
+
+**Creature into Object.** If you turn a creature into an object, it transforms along with whatever it is wearing and carrying into that form, as long as the object's size is no larger than the creature's size. The creature's statistics become those of the object, and the creature has no memory of time spent in this form, after the spell ends and it returns to its normal form. -->
+
+{{pageNumber,auto}}
+{{footnote EXTRA | APPENDICES}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+
+\page
+
+### Shapechange
+
+*Level 9 Transmutation*
+**Casting Time:** :: Action
+**Range:**        :: Self
+**Components:**   :: V, S, M (a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell)
+**Duration:**     :: Concentration, up to 1 hour
+
+You assume the form of a different creature for the duration. The new form can be of any creature with a challenge rating equal to your level or lower. The creature can't be a construct or an undead, and you must have seen the sort of creature at least once. You transform into an average example of that creature, one without any class levels or the Spellcasting trait.
+
+Your game statistics are replaced by the statistics of the chosen creature, though you retain your alignment and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and Saving Throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus listed in its statistics is higher than yours, use the creature's bonus in place of yours. You can't use any legendary actions or lair actions of the new form.
+
+You gain Temporary Hit Points equal to the Hit Points of the creature being transformed into. Once these Temporary Hit Points are gone the you reverts to your original form.
+
+You retain the benefit of any features from your class, race, or other source and can use them, provided that your new form is physically capable of doing so, except you cannot cast spells. You can't use any special senses you have (for example, darkvision) unless your new form also has that sense. You can only speak if the creature can normally speak. Until this spell ends, any shapechanging you do can only be through this spell.
+
+When you transform, you choose whether your equipment falls to the ground, merges into the new form, or is worn by it. Worn equipment functions as normal. The DM determines whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change shape or size to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge into your new form. Equipment that merges has no effect in that state.
+
+\column
+
+During this spell's duration, you can use your action to assume a different form following the same restrictions and rules for the original form, with one exception: if your new form has more hit points than your current one, your hit points remain at their current value.
+
+:
+
+### Prismatic Wall
+
+*Level 9 Abjuration*
+**Casting Time:** :: Action
+**Range:**        :: Self
+**Components:**   :: V, S, M (a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell)
+**Duration:**     :: Concentration, up to 1 hour
+
+A shimmering, multicolored plane of light forms a vertical opaque wall—up to 90 feet long, 30 feet high, and 1 inch thick—centered on a point you can see within range. Alternatively, you can shape the wall into a sphere up to 30 feet in diameter centered on a point you choose within range. The wall remains in place for the duration. If you position the wall so that it passes through a space occupied by a creature, the spell fails, and your action and the spell slot are wasted.
+
+The wall sheds bright light out to a range of 100 feet and dim light for an additional 100 feet. You and creatures you designate at the time you cast the spell can pass through and remain near the wall without harm. If another creature that can see the wall moves to within 20 feet of it or starts its turn there, the creature must succeed on a Constitution Saving Throw or become Blinded for 1 minute.
+
+The wall consists of seven layers, each with a different color. When a creature attempts to reach into or pass through the wall, it does so one layer at a time through all the wall's layers. As it passes or reaches through each layer, the creature must make a Dexterity Saving Throw or be affected by that layer's properties. A creature can only be affected by each layer once on a turn.
+
+The wall can be destroyed, also one layer at a time, in order from red to violet, by means specific to each layer. Once a layer is destroyed, it remains so for the duration of the spell. An antimagic field has no effect on a prismatic wall.
+
+*(Layer properties remain the same)*
+
+<!-- **Red.** The creature takes 10d6 Fire damage on a failed save, or half as much damage on a successful one. While this layer is in place, nonmagical ranged attacks can't pass through the wall. The layer can be destroyed by dealing at least 25 Cold damage to it.
+
+**Orange.** The creature takes 10d6 Acid damage on a failed save, or half as much damage on a successful one. While this layer is in place, magical ranged attacks can't pass through the wall. The layer is destroyed by a strong wind.
+
+**Yellow.** The creature takes 10d6 Lightning damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 60 force damage to it.
+
+**Green.** The creature takes 10d6 poison damage on a failed save, or half as much damage on a successful one. A passwall spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer.
+
+**Blue.** The creature takes 10d6 Cold damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 25 fire damage to it.
+
+**Indigo.** On a failed save, the creature is Restrained. It must then make a Constitution Saving Throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the petrified condition. The successes and failures don't need to be consecutive; keep track of both until the creature collects three of a kind.
+While this layer is in place, spells can't be cast through the wall. The layer is destroyed by bright light shed by a *Daylight* spell or a similar spell of equal or higher level.
+
+**Violet.** On a failed save, the creature is Blinded. It must then make a Wisdom Saving Throw at the start of your next turn. A successful save ends the Blindness. If it fails that save, the creature is transported to another plane of the DM's choosing and is no longer Blinded. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.) This layer is destroyed by a *Dispel Magic* spell or a similar spell of equal or higher level that can end spells and magical effects. -->
+
+{{pageNumber,auto}}
+{{footnote EXTRA | APPENDICES}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
+
+### Weird
+
+*Level 9 Illusion*
+**Casting Time:** :: Action
+**Range:**        :: 120 feet
+**Components:**   :: V, S
+**Duration:**     :: Concentration, up to 1 minute
+
+Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, visible only to them. Each creature of your choice in a 40-foot-radius sphere centered on a point of your choice within range must make a Wisdom saving Throw. On a failed save, a creature takes 6d10 Psychic damage and becomes Frightened for the duration. On a successful save, the target takes half as much damage and the is not Frightened. The illusion calls on the creature's deepest fears, manifesting its worst nightmares as an implacable threat. At the end of each of the Frightened creature's turns, it must succeed on a Wisdom Saving Throw or take 6d10 Psychic damage. On a successful save, the spell ends for that creature.
+
+:
+
+### Wish
+
+*Level 9 Illusion*
+**Casting Time:** :: Action
+**Range:**        :: Self
+**Components:**   :: V
+**Duration:**     :: Instantaneous
+
+Wish is the mightiest spell a mortal creature can cast. By simply speaking aloud, you can alter the very foundations of reality in accord with your desires.
+
+The basic use of this spell is to duplicate any other spell of 8th level or lower that has a casting time of one Action. You don't need to meet any requirements in that spell, including costly components. The spell simply takes effect. Alternatively, you can create one of the following effects of your choice:
+
+- You create one object of up to 25,000 gp in value that isn't a magic item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space you can see on the ground.
+- You allow up to twenty creatures that you can see to regain all hit points, and you end all effects on them described in the *Greater Restoration* spell.
+- You grant up to ten creatures that you can see resistance to a damage type you choose.
+- You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours.
+- You undo a single recent event by forcing a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result.
+
+You might be able to achieve something beyond the scope of the above examples. State your wish to the DM as precisely as possible. The DM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might only be partly achieved, or you might suffer some unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a legendary magic item or artifact might instantly transport you to the presence of the item's current owner.
+
+Using Wish in any way other than duplicating a spell causes any effects previously created by using Wish this way to end and any items or other physical evidence of the wish to disappear. Additionally, casting Wish this way weakens you. After enduring that stress, each time you cast a spell until you finish a long rest, you take 1d10 necrotic damage per level of that spell. This damage can't be reduced or prevented in any way. In addition, your Strength drops to 3, if it isn't 3 or lower already, for 2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days.
+
+{{pageNumber,auto}}
+{{footnote EXTRA | APPENDICES}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -6632,32 +7225,32 @@ While Dazed, you experience the following effect:
 
 ### Dying ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:105px,left:400px,width:375px,mix-blend-mode:normal}
 
-When you reach 0 Hit Points but are not instantly killed, you gain the Dying condition. When you take damage that reduces you to 0 Hit Points, if the remaining damage equals or exceeds your maximum Hit Points, you die.
+When you reach 0 Hit Points but are not instantly killed, you gain the Dying Condition. When you take damage that reduces you to 0 Hit Points, if the remaining damage equals or exceeds your maximum Hit Points, you die.
 
 :
 
 While Dying, you experience the following effects:
 
-**0 Hit Points.** You have 0 Hit Points. If you regain any Hit Points while Dying, this condition ends on you.
+**0 Hit Points.** You have 0 Hit Points. If you regain any Hit Points while Dying, this Condition ends on you.
 
-**Exhaustion.** When you gain the Dying condition, you also gain 1 level of Exhaustion.
+**Exhaustion.** When you gain the Dying Condition, you also gain 1 level of Exhaustion.
 
-**Struggle.** While you are Dying you are also under the effects of the Struggling condition. When the Dying condition ends, the Struggling condition also ends.
+**Struggle.** While you are Dying you are also under the effects of the Struggling Condition. When the Dying Condition ends, the Struggling Condition also ends.
 
-**Prone.** While you are Dying you are also under the effects of the Prone condition. When the Dying condition ends, you are still Prone.
+**Prone.** While you are Dying you are also under the effects of the Prone Condition. When the Dying Condition ends, you are still Prone.
 
-**Critical Hits.** Any attack that hits you is a critical hit if the attack is a Melee Attack, or if the attacker is within 5 feet of you.
+**Critical Hits.** Any attack that hits you is a Critical Hit if the attack is a Melee Attack, or if the attacker is within 5 feet of you.
 
 **Weakened.** You have Disadvantage on all d20 Tests.
 
-**Death Saving Throws.** At the start of each of your turns, you must make a Death Saving Throw. Roll a d20. If the roll is 10 or higher, you succeed. Otherwise you fail. (Nothing can modify this roll.) Keep rolling death saves until you have 3 successes or 3 failures, or until the Dying condition ends. When you make a death save and roll a 1, it counts as 2 failures. If you roll a 20, you regain 1 Hit Point and lose the Dying condition. If you ever get 3 failures you die, and if you ever get 3 successes you become stable (see Stabilising).
+**Death Saving Throws.** At the start of each of your turns, you must make a Death Saving Throw. Roll a d20. If the roll is 10 or higher, you succeed. Otherwise you fail. (Nothing can modify this roll.) Keep rolling death saves until you have 3 successes or 3 failures, or until the Dying Condition ends. When you make a death save and roll a 1, it counts as 2 failures. If you roll a 20, you regain 1 Hit Point and lose the Dying Condition. If you ever get 3 failures you die, and if you ever get 3 successes you become stable (see Stabilising).
 
-**Stabilising.** If you roll 3 successful Death Saving Throws, or another creature uses their Action to provide first aid and succeeds on a DC 10 Wisdom (Medicine) check, you become stable. You regain 1 Hit Point and lose the Dying condition, but you gain the Unconscious condition and begin a Short Rest. You can only recover from this Unconscious condition when you regain additional Hit Points, either from the Short Rest or through other means.
+**Stabilising.** If you roll 3 successful Death Saving Throws, or another creature uses their Action to provide first aid and succeeds on a DC 10 Wisdom (Medicine) check, you become stable. You regain 1 Hit Point and lose the Dying Condition, but you gain the Unconscious Condition and begin a Short Rest. You can only recover from this Unconscious Condition when you regain additional Hit Points, either from the Short Rest or through other means.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -6693,7 +7286,7 @@ While Grappled, you experience the following effects:
 
 While Paralyzed, you experience the following effect:
 
-**Struggle.** While you are Paralyzed you are also under the effects of the Struggling condition. If the Paralyzed condition ends, the Struggling condition also ends.
+**Struggle.** While you are Paralyzed you are also under the effects of the Struggling Condition. If the Paralyzed Condition ends, the Struggling Condition also ends.
 
 **Speed 0.** Your Speed is 0 and can't change.
 
@@ -6709,7 +7302,7 @@ While Paralyzed, you experience the following effect:
 
 While Prone, you experience the following effects:
 
-**Collapsed.** Your only movement option is to crawl, unless it stands up and thereby ends the condition. When crawling, every foot of movement costs 1 foot extra.
+**Collapsed.** Your only movement option is to crawl, unless it stands up and thereby ends the Condition. When crawling, every foot of movement costs 1 foot extra.
 
 **Inaccurate.** You have Disadvantage on Attack Rolls.
 
@@ -6725,7 +7318,7 @@ While Struggling, you experience the following effect:
 
 **Fail Str.** and Dex Saves. You automatically fail Strength and Dexterity Saving Throws.
 
-**Ending Effects.** Effects that end when you gain the Incapacitated condition also end when you gain the Struggling condition.
+**Ending Effects.** Effects that end when you gain the Incapacitated Condition also end when you gain the Struggling Condition.
 
 :
 
@@ -6733,7 +7326,7 @@ While Struggling, you experience the following effect:
 
 While Stunned, you experience the following effect:
 
-**Struggle.** While you are Stunned you are also under the effects of the Struggling condition. If the Stunned condition ends, the Struggling condition also ends.
+**Struggle.** While you are Stunned you are also under the effects of the Struggling Condition. If the Stunned Condition ends, the Struggling Condition also ends.
 
 **Attacks Affected.** Attack Rolls against you have Advantage.
 
@@ -6744,7 +7337,7 @@ While Stunned, you experience the following effect:
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -6800,11 +7393,11 @@ You can additionally attempt to High Jump, as part of your movement on your turn
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-&nbsp;When you land in Difficult Terrain, you must succeed on a DC 15 Strength (Athletics) or Dexterity (Acrobatics) check to land on your feet. Otherwise, you get the Prone condition as you land.
+&nbsp;When you land in Difficult Terrain, you must succeed on a DC 15 Strength (Athletics) or Dexterity (Acrobatics) check to land on your feet. Otherwise, you get the Prone Condition as you land.
 
 :
 
@@ -6832,18 +7425,18 @@ Features that require having a free hand, such as making Unarmed Strikes, can be
 
 Grappling or Shoving a target requires a free hand. You cannot use that hand for as long as the target is grappled. A grappled creature counts as being in melee range, or within 5 feet, of the grappler for the purposes of targeting.
 
-Grappling or Shoving can be done in place of an Unarmed Strike when taking the Attack Action. The target must succeed on a Strength or Dexterity Saving Throw (it choses) or it takes the effect of the Grapple or Shove, having the Grappled condition, being pushed 5 feet away, or having the Prone condition. The DC for this Saving Throw equals 8 + your Athletics modifier. These effects are only possible if the target is no more than one size larger than you.
+Grappling or Shoving can be done in place of an Unarmed Strike when taking the Attack Action. The target must succeed on a Strength or Dexterity Saving Throw (it choses) or it takes the effect of the Grapple or Shove, having the Grappled Condition, being pushed 5 feet away, or having the Prone Condition. The DC for this Saving Throw equals 8 + your Athletics modifier. These effects are only possible if the target is no more than one size larger than you.
 
 :
 
 ### Spellcasting Foci ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:710px,left:400px,width:375px,mix-blend-mode:normal}
 
-A Spellcasting Focus is an item that lets a spellcaster replace the need for individual components when casting a spell. If you are holding a Spellcasting Focus in either the main or off hand, you can ignore any Somatic or Material components required for the spell. The only exception to this is for spells where the Material components are consumed by the spell or have a gold cost. To cast spells with this condition you need to have the required components in either hand. If that spell also has Somatic components, the other hand needs to either hold a Spellcasting Focus or be free to perform said Somatic components.
+A Spellcasting Focus is an item that lets a spellcaster replace the need for individual components when casting a spell. If you are holding a Spellcasting Focus in either the main or off hand, you can ignore any Somatic or Material components required for the spell. The only exception to this is for spells where the Material components are consumed by the spell or have a gold cost. To cast spells with this Condition you need to have the required components in either hand. If that spell also has Somatic components, the other hand needs to either hold a Spellcasting Focus or be free to perform said Somatic components.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -6888,7 +7481,7 @@ You can never have more than one instance of Heroic Reroll. If something gives i
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -6924,7 +7517,7 @@ A Short Rest is stopped by rolling Initiative, casting a spell other than a cant
 
 ### Sleep ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:186px,left:400px,width:375px,mix-blend-mode:normal}
 
-Almost all characters need to sleep to fend off exhaustion. To gain the benefits of a sleep you must spend 6 hours fully asleep, during which you have the Unconscious condition. This sleep can be broken up by at most 2 hours of light activity, such as standing watch. For the duration of a Sleep you must have at least 1 Hit Point.
+Almost all characters need to sleep to fend off exhaustion. To gain the benefits of a sleep you must spend 6 hours fully asleep, during which you have the Unconscious Condition. This sleep can be broken up by at most 2 hours of light activity, such as standing watch. For the duration of a Sleep you must have at least 1 Hit Point.
 
 :
 
@@ -6943,7 +7536,7 @@ A Sleep is stopped by rolling Initiative, casting a spell other than a cantrip, 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -6964,7 +7557,7 @@ When you finish the Long Rest you gain the following benefits:
 
 **Special Features.** Some features are recharged by a Long Rest. If you have such a feature, it recharges in the way specified in its description.
 
-**Exhaustion Reduced.** If you have the Exhaustion condition, your level of exhaustion decreases by 1.
+**Exhaustion Reduced.** If you have the Exhaustion Condition, your level of exhaustion decreases by 1.
 
 **Sleep.** You gain all the benefits of a Sleep.
 
@@ -7007,7 +7600,7 @@ If your Attack Roll with this weapon misses a creature, you can deal damage to t
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -7066,13 +7659,13 @@ When you take the Attack Action on your turn and attack with a Light weapon, you
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
 ## Wild Shape and Transformations
 
-Some features in the game allow you to change your form, shifting from your humanoid being to something else entirely. Examples of features like this include the Druid's Wild Shape, the Obake's Shapeshifter trait, and the *Polymorph* Spell. You can only be under the effect of one transformation at any time, and you must return to your regular form before you can transform or be transformed again.
+Some features in the game allow you to change your form, shifting from your humanoid being to something else entirely. Examples of features like this include the Druid's Wild Shape, the Obake's Shapeshifter trait, and the *Polymorph* Spell.
 
 :
 
@@ -7088,14 +7681,16 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 
 \column
 
+**No Transforming.** While transformed you are unable to transform into a different form except by using the same feature you originally used to transform. You can only be under the effect of one transformation at any time, and you must return to your regular form before you can transform or be transformed again. Your original form is your humanoid form you have before doing any transformations.
+
 &nbsp;**Objects.** Your ability to handle objects is determined by the form's limbs, rather than your own. In addition, you choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's size and shape. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
 
-**Reverting.** You leave the form when you attempt to transform into another form, gain the Struggling condition, reach 0 Hit Points, or die. You can also revert from this form as a Bonus Action.
+**Reverting.** You leave the form when you attempt to transform into another form, gain the Struggling Condition, reach 0 Hit Points, or die. You can also revert from this form as a Bonus Action.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -7363,7 +7958,7 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -7424,7 +8019,7 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -7494,7 +8089,7 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -7503,6 +8098,13 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 ## Special Thanks
 
 Very special thanks to Raluca Patria for her incredible assistance with map creation, research, review, ideation, and being a constant source of support and encouragement. This never would have been possible without her.
+
+{{pageNumber,auto}}
+{{footnote EXTRA | APPENDICES}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
