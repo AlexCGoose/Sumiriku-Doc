@@ -14,6 +14,14 @@
 
 ![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:400px,left:175px,width:450px}
 
+{{wide,text-align:center
+{{footnote
+
+The contents of this document is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
+
+}}
+}}
+
 \page
 
 {{wide,text-align:center
@@ -173,7 +181,7 @@
 
 - ### [{{ CREDITS}}{{ 146}}](#p147) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:322px,left:515px,width:245px,mix-blend-mode:normal}
 
-  - ###### [{{ Special Thanks}}{{ 146}}](#147)
+  - ###### [{{ Special Thanks}}{{ 146}}](#p147)
 
 }}
 
@@ -187,7 +195,7 @@
 
 }}
 
-{{#fancy S}}<span class="after-fancy">UMIRIKU IS HEAVILY INSPIRED BY THE</span> history and traditions of Japan and of Japanese peoples, a culture that I am not a part of. It is clear that adaptation of existing cultures is frequently done inappropriately and disrespectfully, regardless of the intent of the work. Works such as those often treat real people, their religion, tradition, and history, as an aesthetic choice that can be overlaid on a narrative without much thought to meaning or execution. Worse are works that have a non-native protagonist, frequently a surrogate for a white author, who "discovers" the "strange" "exotic" land or any other gross descriptors, or even has to save said place from a threat the locals could not handle on their own.
+{{#fancy S}}{{#after-fancy umiriku is heavily inspired by the history}} and traditions of Japan and of Japanese peoples, a culture that I am not a part of. It is clear that adaptation of existing cultures is frequently done inappropriately and disrespectfully, regardless of the intent of the work. Works such as those often treat real people, their religion, tradition, and history, as an aesthetic choice that can be overlaid on a narrative without much thought to meaning or execution. Worse are works that have a non-native protagonist, frequently a surrogate for a white author, who "discovers" the "strange" "exotic" land or any other gross descriptors, or even has to save said place from a threat the locals could not handle on their own.
 
 I have deliberately taken care and used many genuine sources to try to present this setting as authentic, accurate, and free from fetishisation or stereotype, while also leaving room for adaptation to a magical fantasy setting. I also tried to guarantee that the content presented here is distinct to a Japanese setting, so as to not conflate East Asian countries into a homogenous group. Nearby locations are referenced but I chose to only explore them a small amount, to allow more space to flesh out this specific setting and to enable characters to feel more grounded and fully realised. Though there may be mistakes or inaccuracies, I hope you can see that this setting comes from an authentic place of good faith, that does not want to disparage or misappropriate. I also hope and ask that you extend the same good faith when creating a character and playing in this setting, in order to not disparage and avoid any harmful tropes. Thank you for reading, and enjoy!
 
@@ -268,7 +276,7 @@ Sumiriku is still a deeply spiritual place, despite the blood that may cover its
 
 The people of Sumiriku share belief in a polytheistic and animistic religion called Daidō (大道, 'The Great Way'), that states that the physical world is surrounded, joined, and tied together by spirits and their spiritual realm. Everyone and everything is created with some spiritual essence that exists alongside their physical being. This essence transcends form, identity, and even plane of existence; everything born to or formed by the world is alike in spirit. Some spirits can flow freely, while others may exist within people, objects, natural phenomena, landmarks, emotions, ideas, or worldly forces.
 
-<p style="text-indent: 1em"> When one of these spirits receives significant veneration, the spirit becomes a Kami (神, 'Deity' or 'Spirit'), a holy and blessed being. These Kami are only spiritual beings, but some are able to manifest for themselves a physical form, if they seek to have an audience with someone or to act in the physical world. The Kami are uncountable in their number and with infinite variation; people describe counting all of the Kami as "counting each grain of rice in a field", a saying for an impossible task. People will pray to and worship any number of Kami in their lifetime, whether through ritual at a shrine or within their day-to-day activity, and these worshipped Kami may be both of beings or places and of emotions or ideas. From the greatest Dragons and deities, to tiny saplings and drops of dew, to holy people, to even the spirits of passed nobles; If one is worthy of worship, they become Kami. </p>
+<p style="text-indent: 1em"> When one of these spirits receives significant veneration, the spirit becomes a Kami (神, 'Deity' or 'Spirit'), a holy and blessed being. These Kami are only spiritual beings, but some are able to manifest for themselves a physical form, if they seek to have an audience with someone or to act in the physical world. The Kami are uncountable in their number and with infinite variation; people describe counting all of the Kami as "counting each grain of rice in a field", a saying for an impossible task. People will pray to and worship any number of Kami in their lifetime, whether through ritual at a shrine or within their day-to-day activity, and these worshipped Kami may be both of beings or places and of emotions or ideas. From the greatest dragons and deities, to tiny saplings and drops of dew, to holy people, to even the spirits of passed nobles; If one is worthy of worship, they become Kami. </p>
 
 ## Shrines and Prayer
 
@@ -336,7 +344,7 @@ Kappa, Akki, Tanuki, Kawauso, Kitsune, Kisuru all have in part some Yōkai ances
 
 ## Oni
 
-Even at the outset of the world's creation and the beginning of the first age, the Kaika Jidai, conflict was seen as a law of reality. The Myōjin bickered and fought from their first words, and this nature was passed on to their creations and followers; strife became as natural as the winds and the tides. This conflict brought forth all sorts of negative emotions; fear, rage, hatred, and wrath. Unknown to all was that this simmering evil could manifest itself into reality, given form to those thoughts as foul creatures known as the Oni.
+Even at the outset of the world's creation and the beginning of the second age, the Kaika Jidai, conflict was seen as a law of reality. The Myōjin bickered and fought from their first words, and this nature was passed on to their creations and followers; strife became as natural as the winds and the tides. This conflict brought forth all sorts of negative emotions; fear, rage, hatred, and wrath. Unknown to all was that this simmering evil could manifest itself into reality, given form to those thoughts as foul creatures known as the Oni.
 
 Oni (鬼) are the pure embodiment of hatred, malevolence, and horror. They take a wide variety of forms, usually those that incite great fear in their victims, but they do share some commonalities; an Oni is typically horned, tusked, and with a third eye jutting out of their forehead. Oni are known for the most evil of acts: murder, rampage, possession, and cannibalism. Many people choose to believe that the presence of all evils in this world is due to the wiles of these manipulative creatures, sowing terror for their own ends. There are even some people of Sumiriku who have had their bloodline marked by the Oni, the demonic heritage that clings to them revealed by horns or coloured skin.
 
@@ -344,7 +352,7 @@ Oni (鬼) are the pure embodiment of hatred, malevolence, and horror. They take 
 
 Godaiyō (五大妖, 'Elemental Sprites') are beings formed wholly out of a single element, the base materials of creation. These creatures mainly dwell in their associated elemental planes, but they are also likely to be found in places where their corresponding element is prominently felt. Godaiyō typically take on emotions and personalities associated with how these elements are felt within the world; Earth Godaiyō are stoic and stable, Water Godaiyō are empathetic and adaptable, Fire Godaiyō are passionate and motivated, Wind Godaiyō are carefree and elusive, and Void Godaiyō seem beyond the need for emotions.
 
-Each of the elemental planes, or Godaikai, are believed to be controlled by a Godaiyō lord, the most powerful being of each element. These planes have a specific connection to different corners of the world; Sumiriku is most strongly associated with Hikai, the realm of fire, and the family line of the Emperor is said to have a specific connection to the Vermillion Bird, Suzaku (朱雀).
+Each of the elemental planes, or Godaikai, are believed to be controlled by a Godaiyō elder, the most powerful being of each element. These planes have a specific connection to different corners of the world; Sumiriku is most strongly associated with Hikai, the realm of fire, and the family line of the Emperor is said to have a specific connection to the Vermillion Bird, Suzaku (朱雀).
 
 {{imageMaskEdge7,--offset:10%,--rotation:270
   ![asmodeus](https://cdnb.artstation.com/p/assets/images/images/022/887/595/large/omu-rizer-oni-b-small.jpg?1577107001){position:absolute,right:-250px,bottom:-1px,height:110%}
@@ -576,7 +584,7 @@ Creatures that come from one of these realms are chaotic beings that reflect and
 
 :::::::::::::::::::::::::::::::::::::
 
-{{#fancy I}}<span class="after-fancy">N THE BEGINNING OF CREATION, THERE WAS SAID</span> to be nothing but Void, a sea of deep stillness, a place lacking in any contrast or duality. Magically, from this space the first spark and twinkle of starlight appeared. Eventually more and more of this starlight formed, danced together, and took shape as the first of the Ō-Hoshikuzushin (大星屑神, 'Great Stardust Deity'), Ō-Seiza-Ryū (大星座竜, 'Great Constellation Dragon'). In turn, 13 more Ō-Hoshikuzushin were born from the nothingness, and they brought with them emotion and conflict, passion and calm, into the realm that would become known as Hoshikuzuten (星屑天, 'Stardust Heaven').
+{{#fancy I}}{{#after-fancy n the beginning of creation, there was said}} to be nothing but Void, a sea of deep stillness, a place lacking in any contrast or duality. Magically, from this space the first spark and twinkle of starlight appeared. Eventually more and more of this starlight formed, danced together, and took shape as the first of the Ō-Hoshikuzushin (大星屑神, 'Great Stardust Deity'), Ō-Seiza-Ryū (大星座竜, 'Great Constellation Dragon'). In turn, 13 more Ō-Hoshikuzushin were born from the nothingness, and they brought with them emotion and conflict, passion and calm, into the realm that would become known as Hoshikuzuten (星屑天, 'Stardust Heaven').
 
 After spending many moments together, the Ō-Hoshikuzushin found themselves complacent, in a world that was falling back to stillness. This was when Ō-Seiza-Nezumi (大星座鼠, 'Great Constellation Mouse') had an ingenious idea to bring energy, life, and death back to the world, which she shared with her close friend Ō-Seiza-Ryū. Ō-Seiza-Ryū, delighted by the idea,
 
@@ -613,7 +621,7 @@ minds and the ability to take humanoid forms. They continued to see each other e
   ![kumonoue](https://assets.moxfield.net/cards/card-EZyw7-art_crop.jpg){position:aboslute,top:-1px,right:-140px,width:80%}
 }}
 
-{{position:absolute,top:330px,right:260px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:350px,right:260px,margin-bottom:-30px,text-align:right
 
 ##### A depiction of </br> Kumonoue, the holy </br> realm of the Myojin
 
@@ -680,7 +688,7 @@ minds and the ability to take humanoid forms. They continued to see each other e
 |:----------------------------------|:-----------------------------------------------------------------------------------|:--------------:|
 | Shōji-sama </br> (小地様 / </br> しょうじ様) | The Little-Earth-Shizen-Korpokkur-Deity. Shōji-sama and Hanumi-sama are known as the Shizen couple, partners split by the tide. Shōji-sama is the Korpokkur deity, and is responsible for the care of all the land of the isles of Sumiriku. In pursuit of this Shōji-sama has crossed all of Sumiriku's great mountains, valleys, forests, swamps, and plains. He is also responsible for the great many creatures that call all of these locations their home. Of particular fondness to Shōji-sama are all the different kinds of bugs, and the tiny worlds which they inhabit; he finds great inspiration in knowing that something can be that strong and courageous given its small stature. His personal hobby is documenting each different critter he comes across, and learning of each one's quirks and traits. Despite this, he also moves to action when the people pray for him to hold back the devastating earthquakes that hit Sumiriku, formed from the roiling chaos under the ground. He came to meet Hanumi-sama at an idyllic river bank, and from there their love bloomed. They now work together to help embrace the natural world around them. Some say one might happen upon these two deities sharing in each other's company, at a calming spring or beautiful waterfall. | Land |
 | Tamata-no-Orochi </br> (多岐大蛇 / </br> たまたのおろち) | The Chromatic-Many-Headed-Serpent. Tamata-no-Orochi was said to have been born as an egg at the conflux between each of the Godaikai planes. As an instinctual reaction, the universe brought forth a being to contain this power, which took the form of the greatest and most terrible of all the Dragon-Kami. Unlike her metallic Kinzoku Dragon brethren she was chromatically scaled, her many heads granting her domain over all the elemental forces. From birth she was filled with the belief that it was her right to rule the realms, a belief that twisted into a narcissistic desire for power and conquest. Once fully formed, Tamata-no-Orochi plunged the world into darkness and terror, forcing the people to pledge their fealty to her or suffer; she believed that through this she would be revered as a ruler more than any of the Myōjin. She was finally felled and sealed back in the earth by the latent deity Yūkan-sama, and her cast-off heads grew into what are now known as the Godai Dragon-Kami. | Tyranny |
-| Yūkan-sama </br> (勇敢様 / </br> ゆうかん様) | His-Brave-Noble-Foolish-Augustness. Born a child of little note during the Assei Jidai, Yūkan-sama became known as a great swordsman and warrior rōnin, but also a drunkard lacking in conviction. Living under the tyranny of Tamata-no-Orochi, he chose to make his living taking jobs to cut down threats both worldly and otherworldly, only as long as they paid the right price. This lasted until a duel went horribly wrong, and he had to be rescued and nursed back to health by a healer from a small village on Ryugenshima named Kushinada. She, despite everything, felt affection for Yūkan-sama and found his hidden kindness, and he in turn made his first connection worth protecting. She also confided in him a horrible truth; their village sat close to the dwelling place of Tamata-no-Orochi, and in order to sate her the village had begun to sacrifice their members to the great and terrible tyrant dragon. In this moment did Yūkan-sama's convictions change, feeling deep sympathy for the plight of the village, and he chose to go face the terror alone. For this bravery, and to help balance the darkens of the world, the Ō-Hoshikuzushin blessed Yūkan-sama's rusted sword, turning it into one of the three Starlight Regalia, Kūshokiri. Through many hours of great effort and danger, he was able to fell the horror, cutting off many of her heads and sealing her back within the earth. After this day Yūkan-sama was now known as a hero of incredible bravery, and later a leader of the people against darkness. At the end of his life, instead of his spirit travelling to Yomi, Yūkan-sama ascended to be among the other Myōjin. | Hope |
+| Yūkan-sama </br> (勇敢様 / </br> ゆうかん様) | His-Brave-Noble-Foolish-Augustness. Born a child of little note during the Assei Jidai, Yūkan-sama became known as a great swordsman and warrior rōnin, but also a drunkard lacking in conviction. Living under the tyranny of Tamata-no-Orochi, he chose to make his living taking jobs to cut down threats both worldly and otherworldly, only as long as they paid the right price. This lasted until a duel went horribly wrong, and he had to be rescued and nursed back to health by a healer from a small village on Ryugenshima named Kushinada. She, despite everything, felt affection for Yūkan-sama and found his hidden kindness, and he in turn made his first connection worth protecting. She also confided in him a horrible truth; their village sat close to the dwelling place of Tamata-no-Orochi, and in order to sate her the village had begun to sacrifice their members to the great and terrible tyrant dragon. In this moment did Yūkan-sama's convictions change, feeling deep sympathy for the plight of the village, and he chose to go face the terror alone. For this bravery, and to help balance the darkens of the world, the Ō-Hoshikuzushin blessed Yūkan-sama's rusted sword, turning it into one of the three Starlight Regalia, Kūshokiri. Through many hours of great effort and danger, he was able to fell the horror, cutting off many of her heads and sealing her back within the earth. After this day Yūkan-sama was now known as a hero of incredible bravery, and later a leader of the people against darkness. At the end of his life, instead of his spirit travelling to Yomi, Yūkan-sama ascended to be among the Myōjin. | Hope |
 
 }}
 
@@ -719,23 +727,61 @@ The Akegata Jidai is the first era as it begins at the earliest moment in all of
 
 ### Ended ~700 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:887px,left:55px,width:375px,mix-blend-mode:normal}
 
-After Yōzanagi-sama and Inzanami-sama had been placed as the highest Myōjin, the world began to flourish under their care. Together they brought life and death to the world, encouraged the presence of the great and mystical Kami, and grew all the creatures and peoples who dwelled within. They also brought up many new Myōjin to join their pantheon in Kumonoue, including their children, Netsu-sama and Mikazuki-sama. They, with the rest of their pantheon, often shared the land with their creations, descending into the world on Niji-no-ukihashi, the Floating Rainbow Bridge; they came to share their knowledge and skills, and left after them the Relics of Kumonoue, Sumiriku's most divine Sacred Treasures.
+After Yōzanagi-sama and Inzanami-sama had been placed as the highest Myōjin, the world began to flourish under their care. Together they brought life and death to the world, encouraged the presence of the great and mystical Kami, and grew all the creatures and peoples who dwelled within. They also brought up many new Myōjin to join their pantheon in Kumonoue, including their children, Netsu-sama and Mikazuki-sama. They, with the rest of their pantheon, often shared the land with their creations, descending into the world on Niji-no-Ukihashi, the Floating Rainbow Bridge; they came to share their knowledge and skills, as well as to protect Sumiriku, leading the people against supernatural threats that sought to pray on the fledgling world. After them they left the Relics of Kumonoue, items among Sumiriku's Sacred Treasures.
 
-After their creation, the many peoples of the world grew into their own, with the guidance and tutelage of their Myōjin creators. Starting from humble beginnings, the Kami helped teach the peoples ways both to survive and to thrive. They learned to hunt, to farm, to build homes, and to fight, but also to create art, pottery, and music - and through all of this was their reverence for the Kami shown. By the end of this era the peoples of Sumiriku had grown into desperate societies and clans, similar to those that we know today.
+After their creation, the many peoples of the world grew into their own, with the guidance and tutelage of their Myōjin creators. Starting from humble beginnings, the Kami helped teach the peoples ways both to survive and to thrive. They learned to hunt, to farm, to build homes, and to fight, but also to create art, pottery, and music - and through all of this was their reverence for the Kami shown. By the end of this era the peoples of Sumiriku had grown into disparate societies and clans, similar to those that we know today.
 
 Before the end of the Kaika Jidai, Yōzanagi-sama and Inzanami-sama decided that their role as the elders of the Myōjin, and so they decided to depart Kumonoue and go their separate ways; Inzanami-sama traveled to Yomi to become its guardian, and Yōzanagi-sama is believed to now stay in a humble home in Kimyōkai. They left the world in the care of their children and the rest of the pantheon, not anticipating the threat that would come to the world without them...
 
-#### The Blood War
+#### The Starlight Regalia
 
-Blood
+- Starlight Regalia Blade, Kūshokiri (空所切, 'Void Cutter')
+- Starlight Regalia Mirror, Tasogare-no-Kagami (黄昏の鏡, 'Mirror of Twilight')
+- Starlight Regalia Magatama, Ryūsei-Namida (流星涙, 'Meteor Tear')
+
+{{pageNumber,auto}}
+{{footnote PART 1 | HISTORY AND RELIGION}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+
+\page
+
+#### The Tale of the Blood War
+
+{{comment18,signature,bottom:910px,left:60px
+
+"Every being in Sumiriku is a storyteller, each family has a tale passed through generations. What matters not is which stories we choose to share, but that we tell them at all."
+:
+
+— Reiki, Lorekeeper
+
+}}
+
+::::::::
+
+{{quote
+
+Despite all the blessings of the Kaika Jidai, it was still a time of peril. The world was still adolescent, not yet fully formed out of chaos, and it was from this chaos that dangers arose. The greatest of these dangers were the Oni, infernal beings of malevolence and destruction, born of the hatred in people's minds. These unhallowed beings, horned, three-eyed, and fork-tongued, festered under the earth in the realm now known as Makoku, the place where fear and anger would manifest. From within their dark home they grew a deep resentment for the realm of the living, our home of Utsushiyo, and its parallel spiritual world, as the Oni in their depths were unable to receive the blessing of the suns and the stars. As this resentment grew, so to did a desire.
+
+On one fateful day the Oni shattered the thin barrier between the realms and arrived in Utsushiyo, starting the conflict known as the Blood War. The aim of their quest was to feast on spirits, to gorge themselves on the lifeblood of people and Kami alike. The Oni first arrived as a chaotic swarm, thought they quickly organised; lesser Oni following the leadership of their commanders and lords, such as the most fearsome Daimyō Asudeu (アスデウ).
+
+It took the combined might of Sumiriku's peoples, Kami, and Myōjin, along with the power of their Relics of Kumonoue, to force back the Oni on all fronts. This defence was led by Netsu-sama, who was able to cut down legions by himself, with his sacred blade Hakō. Once the force of the Oni had been sufficiently diminished the Myōjin were able to combine their divine power to seal them back within Makoku, ending the war for good. Thus is the tale of the Blood War.
+
+{{attribution *The History of Sumiriku*}}
+
+<!-- , and with a bloodlust unlike any other -->
+
+}}
+
+\column
 
 ## Assei Jidai
 
 ## (圧政時代, 'Tyrannical Era')
 
-### ~700 - 570 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:1050px,left:55px,width:375px,mix-blend-mode:normal}
+### ~700 - 570 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:400px,width:375px,mix-blend-mode:normal}
 
-TODO
+Tamata-no-Orochi destroys Niji-no-Ukihashi and plunges the world into darkness. She is defeated by the last Myōjin, Yūkan-sama, and sealed away.
 
 :
 
@@ -743,9 +789,9 @@ TODO
 
 ## (分裂時代, 'Divided Era')
 
-### ~570 - 1 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:1050px,left:55px,width:375px,mix-blend-mode:normal}
+### ~570 - 1 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:400px,width:375px,mix-blend-mode:normal}
 
-TODO
+The islands are divided into local lords after the defeat of Tamata-no-Orochi. Tokuzō-tenno collects the Starlight Regalia, defends Sumiriku from outside invaders, and becomes the first Emperor.
 
 :
 
@@ -755,17 +801,31 @@ TODO
 
 ## 'Unification Era')
 
-### 0 - 1851 AA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:1050px,left:55px,width:375px,mix-blend-mode:normal}
+### 0 - 1851 AA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:400px,width:375px,mix-blend-mode:normal}
+
+:
 
 TODO
 
 :
 
+#### The tale of Otoha-tenno's climb
+
+{{quote
+
+Test
+
+{{attribution *The History of Sumiriku*}}
+
+<!-- , and with a bloodlust unlike any other -->
+
+}}
+
 ## Guntai Jidai
 
 ## (軍隊時代, 'Military Era')
 
-### 1852 - 2127 AA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:1050px,left:55px,width:375px,mix-blend-mode:normal}
+### 1852 - 2127 AA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:400px,width:375px,mix-blend-mode:normal}
 
 TODO
 
@@ -777,16 +837,9 @@ TODO
 
 ## 'Shattered States Era')
 
-### Ongoing (2128 - 2254+ AA) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:1050px,left:400px,width:375px,mix-blend-mode:normal}
+### Ongoing (2128 - 2254+ AA) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:400px,width:375px,mix-blend-mode:normal}
 
 TODO
-
-{{pageNumber,auto}}
-{{footnote PART 1 | HISTORY AND RELIGION}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
-
-\page
 
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
@@ -794,6 +847,14 @@ TODO
 ![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
+
+{{comment18,signature,bottom:900px,left:60px
+
+"My favourite Stories show us that even the smallest embers can be the light we need in dark times"
+
+— Satsuki, Lorekeeper
+
+}}
 
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
@@ -923,7 +984,7 @@ As a Nekotaiyō, you gain these special traits:
 
 \page
 
-{{wide,#big-column-right
+{{#big-column-right
 
 ## 月人 - Tsukibito (Moonfolk)
 
@@ -988,7 +1049,7 @@ As a Tsukibito, you gain these special traits:
 
 :::::::::::::::::::::::::::::
 
-{{#moon-table,wide,classTable,frame
+{{#default-table,wide,classTable,frame
 
 ##### Moonfolk Lineage
 
@@ -1253,7 +1314,7 @@ As an Akki, you gain these special traits:
 
 ***Fury of the Small.*** When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your Proficiency Bonus. You can use this trait a number of times equal to your Proficiency Bonus, regaining all expended uses when you finish a Long Rest, and you can use it no more than once per turn.
 
-***Explosive Escape.*** You can take the Disengage or Hide Action as a Bonus Action on each of your turns. When you take the Disengage Action, you can choose to kick up a cloud of black smoke from your carapice, creating a 5-foot-radius Heavily Obscured area &nbsp;&nbsp;centred on you. This cloud lasts until the &nbsp;&nbsp;end of your next turn.
+***Explosive Escape.*** You can take the Disengage or Hide Action as a Bonus Action on each of your turns. When you take the Disengage Action, you can choose to kick up a cloud of black smoke from your carapace, creating a 5-foot-radius Heavily Obscured area &nbsp;&nbsp;centred on you. This cloud lasts until the &nbsp;&nbsp;end of your next turn.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -2207,7 +2268,7 @@ added text from android
 
 }}
 
-{{wide,#big-column-right
+{{#big-column-right
 
 # Classes and Subclasses
 
@@ -4448,7 +4509,7 @@ T  {{width:5px}} ext
 
 T {{width:5px}} he Sumiriku calendar is divided into 14 months, to match the 14 Zodiac animals, or Ō-Hoshikuzushin. The first and last months, Ichigatsu and Jūyogatsu, are two weeks long, and every other month is 4 weeks long. These months are as follows:
 
-{{#default-table,
+{{#default-table
 
 | Month               | Length  |
 |:--------------------|:--------|
@@ -4473,7 +4534,7 @@ T {{width:5px}} he Sumiriku calendar is divided into 14 months, to match the 14 
 
 Each week consists of 7 days, which are named after the suns, the moon, and the five elements. The days are as follows:
 
-{{#default-table,
+{{#default-table
 
 | Day               | Initial | Translation |
 |:------------------|:--------|:------------|
@@ -4597,6 +4658,13 @@ The third tag is Power, which indicates the strength of the item's abilities and
 There are a selection of additional tags that any item can have. Craftable is for items forged and transmuted by people's hands, which are also items that are easier to purchase or to have custom made. Mundane is for items that have no magical properties, and will continue to function under any anti-magic effects. Miracle is for items created by magical phenomena or rituals lost to time, such the item couldn't be created again. Sacred is for the Sacred Treasures of Sumiriku, items that have legendary tales told of them or have close ties to divinity.
 
 }}
+
+## Sacred Treasures
+
+Two groups of sacred treasures
+
+- Relics of Kumonoue
+- The Starlight Regalia
 
 {{pageNumber,auto}}
 {{footnote PART 3 | GEOGRAPHY AND CULTURE}}
@@ -6636,7 +6704,7 @@ You tap into the nightmares of a creature you can see within range and create an
 **Duration:**     :: Concentration, up to 1 hour
 When you learn this spell, choose 3 beasts whose challenge rating is equal to or less than your level to use with this spell. When you complete a Long Rest, you can replace one of these beasts with a different one.
 
-This spell transforms a creature that you can see within range into one of the beasts selected with this spell (See the rules on Transformations in Appendix D). An unwilling creature must make a Wisdom Saving Throw to avoid the effect. The spell has no effect on a Shapechangers or a creature with 0 Hit Points. An unwilling target has all their game statistics, including mental Ability Scores, replaced by the statistics of the chosen beast. It retains its alignment and personality. If the target was willing, they can gain Temporary Hit Points equal to your level.
+This spell transforms a creature that you can see within range into one of the beasts selected with this spell (See the rules on Transformations in Appendix D). An unwilling creature must make a Wisdom Saving Throw to avoid the effect. The spell has no effect on a Shapechangers or a creature with 0 Hit Points. An unwilling target has all their game statistics, including mental Ability Scores, languages, and ability to communicate, replaced by the statistics of the chosen beast. It retains its alignment and personality,. If the target was willing, they can gain Temporary Hit Points equal to your level.
 
 The transformation lasts for the duration. The target can choose to end the spell early when they take damage, and they can also choose to repeat the Wisdom Saving Throw at the end of each of its turns, ending the effect on a success.
 
@@ -7673,7 +7741,7 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 
 **Knowledge.** You retain your personality, memories, and knowledge.
 
-**Communication.** You keep your understanding of any languages you may know, but your ability to speak depends on the form. You can attempt to communicate through body language or other means.
+**Communication.** You keep your understanding of any languages you may know and your ability to speak them if you choose.
 
 **Game Statistics.** Your game statistics are replaced by the statistics of the Beast, but you retain your Hit Points; Hit Dice; Intelligence, Wisdom, and Charisma scores; class features; species traits; languages; and feats. You also retain your skill and Saving Throw proficiencies and use your Proficiency Bonus for them, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours. If the creature has any Legendary or Lair actions, you can't use them.
 

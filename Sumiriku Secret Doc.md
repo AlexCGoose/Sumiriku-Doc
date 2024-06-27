@@ -38,17 +38,20 @@
     - [{{ Kyōsei Claw}}{{ 5}}](#p6)
     - [{{ Prayer Beads to the Myōjin}}{{ 5}}](#p6)
     - [{{ Red Feather?}}{{ 5}}](#p6)
+    - [{{ Shinobi Prosthetic}}{{ 6}}](#p7)
+    - [{{ Shuko Claws}}{{ 6}}](#p7)
 
-  - ###### [{{ Villains and Monsters}}{{ 6}}](#p7)
+  - ###### [{{ Villains and Monsters}}{{ 8}}](#p9)
   
-    - [{{ The Hyakushima Bandits}}{{ 6}}](#p7)
-    - [{{ Masuzō}}{{ 7}}](#p8)
+    - [{{ The Hyakushima Bandits}}{{ 8}}](#p9)
+    - [{{ Masuzō}}{{ 9}}](#p10)
+    - [{{ Hatsumomo}}{{ 9}}](#p10)
 
-- ### [{{ PART 2 - The Living Lore}}{{ 8}}](#p9) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:336px,left:55px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 2 - The Living Lore}}{{ 10}}](#p11) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:336px,left:55px,width:245px,mix-blend-mode:normal}
 
-  - ###### [{{ Letters and Documents}}{{ 9}}](#p10)
+  - ###### [{{ Letters and Documents}}{{ 10}}](#p11)
   
-    - [{{ Sensei Kenzo’s Letter to the Students}}{{ 9}}](#p10)
+    - [{{ Sensei Kenzo’s Letter to the Students}}{{ 10}}](#p11)
 
 }}
 
@@ -197,7 +200,6 @@ This attachment grants you hidden hooked blades, designed after the claws of the
 #### Hookshot Hand
 
 *Wondrous Item (Shinobi Prosthetic Attachment), Very Rare, Minor, Mundane* </br>
-This attachment grants you hidden hooked blades, designed after the claws of the Nekotaiyō to help climb perilous heights. As a Bonus Action you can extend or retract these claws. While extended, you gain a Climb Speed equal to half of your Speed. In addition, if you take the Attack Action on your turn you can use your Bonus Action to make an attack with the claws. They are Martial Melee weapons that deal 1d4 + your Strength Modifier Slashing damage.
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
@@ -291,7 +293,7 @@ ___
 
 ***Multiattack.***
 :
-***Martial Arts Attack.*** +7 to hi
+***Martial Arts Attack.*** +7 to hit
 
 }}
 
@@ -309,6 +311,41 @@ Before each of your opponent's attacks you can make one of the following special
 - **Sidestep.** If the attack misses you you can make a Melee Weapon Attack against the opponent that attacked you.
 
 A hit, disarm, or other status condition counts as a point. Duels are typically played to 5 points, or until a combatant resigns.
+
+## Hatsumomo
+
+{{#creature,monster,frame
+
+## Hatsumomo
+
+*Medium Humanoid, Lawful Evil*
+___
+**Armor Class** :: 14
+**Hit Points**  :: 27 (5d8 + 5)
+**Speed**       :: 30 ft.
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|10 (+0)|18 (+4)|12 (+1)| 8 (-1)|14 (+2)| 9 (-1)|
+___
+**Saving Throws**        :: Dex +6
+**Challenge**            :: 5 {{width:80px}} **Proficiency Bonus** +3 (Level 5)
+___
+***Sneak Attack (1/Turn).*** Hatsumomo deals an extra 10 (3d6) damage when it hits a target with a Weapon Attack and has Advantage on the Attack Roll, or when the target is within 5 feet of an ally of Hatsumomo that isn't incapacitated and Hatsumomo doesn't have Disadvantage on the Attack Roll.
+
+### Actions
+
+***Shortsword.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 4) piercing damage.
+
+### Bonus Actions
+
+***Cunning Action.*** The cutthroat can take the Dash, Disengage, or Hide action.  
+
+### Reactions
+
+***Uncanny Dodge.*** The cutthroat halves the damage that it takes from an attack that hits it. The cutthroat must be able to see the attacker.
+
+}}
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
