@@ -416,7 +416,8 @@ Holy Manifestations can come in a number of different forms, each with different
 Across Sumiriku, stories and rumours tell of calamitous creatures, laying dormant but waiting for their chance to bring destruction to the world. Avatars of the earth's wrath, oceanic monsters, ominous Yōkai, even aberrations from beyond the stars; the only thing that unites these supposed creatures is their titanic size and power. Those who believe in these creatures claim they would dwarf even the great Ryū. Only time will tell if these rumours are true...
 
 {{imageMaskEdge5,--offset:7%,--rotation:-90
-  ![kirin](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f9104437-622c-475e-8209-69e7e7a41dc7/deqpxv9-35cfef21-8d58-4e28-be5e-a27fe700350a.png/v1/fit/w_828,h_1184,q_70,strp/kirin_by_duskyvel_deqpxv9-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgzMSIsInBhdGgiOiJcL2ZcL2Y5MTA0NDM3LTYyMmMtNDc1ZS04MjA5LTY5ZTdlN2E0MWRjN1wvZGVxcHh2OS0zNWNmZWYyMS04ZDU4LTRlMjgtYmU1ZS1hMjdmZTcwMDM1MGEucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.YXG-spnd8od9FxFUqRWvcTtaKBVZ3sRv3LtK6ZG1qRs){position:absolute,right:-175px,bottom:-1px,height:101%}
+  <!-- ![kirin](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f9104437-622c-475e-8209-69e7e7a41dc7/deqpxv9-35cfef21-8d58-4e28-be5e-a27fe700350a.png/v1/fit/w_828,h_1184,q_70,strp/kirin_by_duskyvel_deqpxv9-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgzMSIsInBhdGgiOiJcL2ZcL2Y5MTA0NDM3LTYyMmMtNDc1ZS04MjA5LTY5ZTdlN2E0MWRjN1wvZGVxcHh2OS0zNWNmZWYyMS04ZDU4LTRlMjgtYmU1ZS1hMjdmZTcwMDM1MGEucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.YXG-spnd8od9FxFUqRWvcTtaKBVZ3sRv3LtK6ZG1qRs){position:absolute,right:-175px,bottom:-1px,height:101%} -->
+  ![kirin](https://i.imgur.com/68wwRB8.jpeg){position:absolute,right:-175px,bottom:-1px,height:101%}
 }}
 
 {{position:absolute,bottom:120px,left:200px,margin-bottom:-30px,text-align:left
@@ -878,7 +879,8 @@ TODO
 ## Character Options
 
 {{imageMaskEdge7,--offset:10cm,--rotation:180
-  ![umezawa](https://www.coolstuffinc.com/s3_image.php?img=http://s3.gatheringmagic.com/uploads/2022/10/12/JA_1.jpg){position:absolute,top:0px,left:-400px,height:100%}
+  <!-- ![umezawa](https://www.coolstuffinc.com/s3_image.php?img=http://s3.gatheringmagic.com/uploads/2022/10/12/JA_1.jpg){position:absolute,top:0px,left:-400px,height:100%} -->
+  ![umezawa](https://i.imgur.com/1YSsqD5.png){position:absolute,top:0px,left:-400px,height:100%}
 }}
 
 {{position:absolute,bottom:125px,left:-120px,margin-bottom:-30px
@@ -1686,22 +1688,23 @@ Refer to Appendix A for creature stat blocks, and Appendix D for rules on Transf
 \page
 
 {{imageMaskCorner20,--offsetX:47.5%,--offsetY:-10%,--rotation:0
-  ![kisuru-2](https://64.media.tumblr.com/36701eef9f5daddf370f1639571327a5/tumblr_nu83hqQFsZ1sn8yxwo1_1280.jpg){position:absolute,bottom:-10px,right:-100px,height:60%,transform:scaleX(-1)}
-}}
-
-{{position:absolute,top:535px,left:100px,margin-bottom:-30px
-
-##### A Kisuru warrior monk
-
-}}
-
-{{imageMaskEdge6,--offset:10%,--rotation:180
-  ![kisuru-3](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d539de9a-5455-47fa-bd13-ddef61522719/dckhbfo-20706d5b-2451-4877-b386-5cccdb045bee.png/v1/fill/w_1063,h_752,q_70,strp/l5r_crane_samurai_by_wildjamdraws_dckhbfo-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEzMiIsInBhdGgiOiJcL2ZcL2Q1MzlkZTlhLTU0NTUtNDdmYS1iZDEzLWRkZWY2MTUyMjcxOVwvZGNraGJmby0yMDcwNmQ1Yi0yNDUxLTQ4NzctYjM4Ni01Y2NjZGIwNDViZWUucG5nIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.DxB9jp24SQemVfIPpUjYd62VLPD_KhzZrFdMigutl5c){position:absolute,top:-1px,left:-1px,width:101%}
+  ![kisuru-noble](https://64.media.tumblr.com/36701eef9f5daddf370f1639571327a5/tumblr_nu83hqQFsZ1sn8yxwo1_1280.jpg){position:absolute,bottom:-10px,right:-100px,height:60%,transform:scaleX(-1)}
 }}
 
 {{position:absolute,top:1000px,right:400px,margin-bottom:-30px,text-align:right
 
 ##### A Kisuru</br> noble
+
+}}
+
+{{imageMaskEdge6,--offset:10%,--rotation:180
+  <!-- ![kisuru-3](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d539de9a-5455-47fa-bd13-ddef61522719/dckhbfo-20706d5b-2451-4877-b386-5cccdb045bee.png/v1/fill/w_1063,h_752,q_70,strp/l5r_crane_samurai_by_wildjamdraws_dckhbfo-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEzMiIsInBhdGgiOiJcL2ZcL2Q1MzlkZTlhLTU0NTUtNDdmYS1iZDEzLWRkZWY2MTUyMjcxOVwvZGNraGJmby0yMDcwNmQ1Yi0yNDUxLTQ4NzctYjM4Ni01Y2NjZGIwNDViZWUucG5nIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.DxB9jp24SQemVfIPpUjYd62VLPD_KhzZrFdMigutl5c){position:absolute,top:-1px,left:-1px,width:101%} -->
+  ![kisuru-monk](https://i.imgur.com/eVluDsS.jpeg){position:absolute,top:-1px,left:-1px,width:101%}
+}}
+
+{{position:absolute,top:535px,left:100px,margin-bottom:-30px
+
+##### A Kisuru warrior monk
 
 }}
 
@@ -1835,7 +1838,7 @@ Ryūson frequently take up military positions, as warriors or bodyguards. Their 
 Ryūson are unique in that they lack representation from among the Myōjin. Tamata-No-Orochi, the God of Tyranny, was felled and imprisoned long ago, and no deity has replaced her. Only a few still worship her, and in her stead there are many Dragon-Kami that receive worship particularly from Ryūson.
 
 {{imageMaskCorner20,--offsetX:45%,--offsetY:-25%,--rotation:0
-  ![burning](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5246e0e3-fe8a-4fdb-9c31-4741f3509015/dcofkhc-6e104d21-806a-49a7-89fb-c462aefbcb4e.jpg/v1/fit/w_720,h_900,q_70,strp/honno_ji_burns_by_changinghand_dcofkhc-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvNTI0NmUwZTMtZmU4YS00ZmRiLTljMzEtNDc0MWYzNTA5MDE1XC9kY29ma2hjLTZlMTA0ZDIxLTgwNmEtNDlhNy04OWZiLWM0NjJhZWZiY2I0ZS5qcGciLCJ3aWR0aCI6Ijw9NzIwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.tWd8UeBCUaEI2G3faDrpNMDQpkzDIaDnkBvEB8T4eOo){position:absolute,bottom:-50px,right:-175px,width:90%,mix-blend-mode:multiply}
+  ![burning](https://cdnb.artstation.com/p/assets/images/images/013/237/305/large/matt-lara-honnoji2.jpg?1538679777){position:absolute,bottom:-50px,right:-175px,width:90%,mix-blend-mode:multiply}
 }}
 
 ![ryuson-shadow](https://i.imgur.com/iBLEISy.png) {position:absolute,bottom:-80px,right:-50px,width:400px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.3)skewX(-17deg),mix-blend-mode:multiply}
@@ -1856,7 +1859,7 @@ Ryūson are unique in that they lack representation from among the Myōjin. Tama
 \page
 
 {{imageMaskEdge7,--offset:38%,--rotation:180
-  ![ryuson-2](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cb39254c-c5b4-4c7a-aae6-fe636746b077/dd4wiz9-3127b90f-3a9b-497d-b2e2-86fd1f4c9e31.jpg/v1/fill/w_860,h_929,q_70,strp/dnd_shalin_the_eastern_dragonborn_by_phill_art_dd4wiz9-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTczIiwicGF0aCI6IlwvZlwvY2IzOTI1NGMtYzViNC00YzdhLWFhZTYtZmU2MzY3NDZiMDc3XC9kZDR3aXo5LTMxMjdiOTBmLTNhOWItNDk3ZC1iMmUyLTg2ZmQxZjRjOWUzMS5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.2lsUOkMNAodva-DgvIMerI9p2q9PllYFjhSdhDxgoAo){position:absolute,top:-100px,right:-1px,width:101%}
+  ![ryuson-2](https://cdna.artstation.com/p/assets/images/images/029/705/908/large/phill-berry-dnd-asian-dragonborn-copy.jpg?1598388901){position:absolute,top:-100px,right:-1px,width:101%}
 }}
 
 {{position:absolute,top:280px,right:110px,margin-bottom:-30px,text-align:right
@@ -3878,7 +3881,8 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 **Blast Off.** You have discovered that your explosiveness makes for effective transportation. As a Bonus Action on your turn you can launch yourself., flying up to 40 feet in a straight line before falling. This movement does not provoke opportunity attacks and does not use your Speed. You can choose to angle your takeoff upwards to avoid obstacles, letting you land anywhere on the ground within 40 feet of you. If you collide with a creature when moving in a straight line, the creature takes 4d6 Bludgeoning damage. If you launch yourself upwards, or you collide with a wall or another solid surface, you take 4d6 Bludgeoning damage on impact. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
 
 {{imageMaskCorner20,--offsetX:47.5%,--offsetY:-65%,--rotation:0
-  ![shell](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b3d08f41-3b20-4e72-891b-5dca0d934bb4/dclqy0j-81d42d28-3ba0-46e1-886f-2aac923087ac.jpg/v1/fill/w_1017,h_786,q_70,strp/kappa_by_lockdevil_dclqy0j-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTkwIiwicGF0aCI6IlwvZlwvYjNkMDhmNDEtM2IyMC00ZTcyLTg5MWItNWRjYTBkOTM0YmI0XC9kY2xxeTBqLTgxZDQyZDI4LTNiYTAtNDZlMS04ODZmLTJhYWM5MjMwODdhYy5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.1hXO8LMF0jTxJ0R6irMh-GfIuk1QmDQAa6ufG1ZQijw){position:absolute,bottom:-20px,right:-70px,width:70%,transform:scaleX(-1)}
+  <!-- ![shell](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b3d08f41-3b20-4e72-891b-5dca0d934bb4/dclqy0j-81d42d28-3ba0-46e1-886f-2aac923087ac.jpg/v1/fill/w_1017,h_786,q_70,strp/kappa_by_lockdevil_dclqy0j-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTkwIiwicGF0aCI6IlwvZlwvYjNkMDhmNDEtM2IyMC00ZTcyLTg5MWItNWRjYTBkOTM0YmI0XC9kY2xxeTBqLTgxZDQyZDI4LTNiYTAtNDZlMS04ODZmLTJhYWM5MjMwODdhYy5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.1hXO8LMF0jTxJ0R6irMh-GfIuk1QmDQAa6ufG1ZQijw){position:absolute,bottom:-20px,right:-70px,width:70%,transform:scaleX(-1)} -->
+  ![shell](https://i.imgur.com/8UuEbYt.jpeg){position:absolute,bottom:-20px,right:-70px,width:70%,transform:scaleX(-1)}
 }}
 
 {{position:absolute,top:1050px,right:400px,margin-bottom:-30px,text-align:right
@@ -4206,7 +4210,8 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 \page
 
 {{imageMaskEdge1,--offset:18%,--rotation:180
-  ![snowfall](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5246e0e3-fe8a-4fdb-9c31-4741f3509015/dcmq5wj-3112415c-4938-40d1-a91d-bb1f4461573f.jpg/v1/fit/w_786,h_900,q_70,strp/snowfall_by_changinghand_dcmq5wj-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvNTI0NmUwZTMtZmU4YS00ZmRiLTljMzEtNDc0MWYzNTA5MDE1XC9kY21xNXdqLTMxMTI0MTVjLTQ5MzgtNDBkMS1hOTFkLWJiMWY0NDYxNTczZi5qcGciLCJ3aWR0aCI6Ijw9Nzg2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Tb0eWRM6GwdQlyp-tVu4pqZj2P8O27b9ToXk-yNO_BY){position:aboslute,top:-250px,left:-1px,width:101%}
+  <!-- ![snowfall](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5246e0e3-fe8a-4fdb-9c31-4741f3509015/dcmq5wj-3112415c-4938-40d1-a91d-bb1f4461573f.jpg/v1/fit/w_786,h_900,q_70,strp/snowfall_by_changinghand_dcmq5wj-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvNTI0NmUwZTMtZmU4YS00ZmRiLTljMzEtNDc0MWYzNTA5MDE1XC9kY21xNXdqLTMxMTI0MTVjLTQ5MzgtNDBkMS1hOTFkLWJiMWY0NDYxNTczZi5qcGciLCJ3aWR0aCI6Ijw9Nzg2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Tb0eWRM6GwdQlyp-tVu4pqZj2P8O27b9ToXk-yNO_BY){position:aboslute,top:-250px,left:-1px,width:101%} -->
+  ![snowfall](https://i.imgur.com/GIFhyML.jpeg){position:aboslute,top:-250px,left:-1px,width:101%}
 }}
 
 {{position:absolute,top:440px,left:150px,margin-bottom:-30px
@@ -4369,7 +4374,8 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 \page
 
 {{imageMaskEdge1,--offset:3%,--rotation:90
-  ![death](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5246e0e3-fe8a-4fdb-9c31-4741f3509015/d870uiy-998dc2a8-50d7-4631-8a6d-149f7f928a4d.jpg/v1/fit/w_700,h_933,q_70,strp/nature_s_fortitude_by_changinghand_d870uiy-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTMzIiwicGF0aCI6IlwvZlwvNTI0NmUwZTMtZmU4YS00ZmRiLTljMzEtNDc0MWYzNTA5MDE1XC9kODcwdWl5LTk5OGRjMmE4LTUwZDctNDYzMS04YTZkLTE0OWY3ZjkyOGE0ZC5qcGciLCJ3aWR0aCI6Ijw9NzAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.fZ9SOoZKs0glNOxYaN0xQOCQI2hwVbiyIhXj90BoJHg){position:absolute,bottom:-50px,left:-200px,height:110%,mix-blend-mode:normal,transform:scaleX(1)}
+  <!-- ![death](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5246e0e3-fe8a-4fdb-9c31-4741f3509015/d870uiy-998dc2a8-50d7-4631-8a6d-149f7f928a4d.jpg/v1/fit/w_700,h_933,q_70,strp/nature_s_fortitude_by_changinghand_d870uiy-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTMzIiwicGF0aCI6IlwvZlwvNTI0NmUwZTMtZmU4YS00ZmRiLTljMzEtNDc0MWYzNTA5MDE1XC9kODcwdWl5LTk5OGRjMmE4LTUwZDctNDYzMS04YTZkLTE0OWY3ZjkyOGE0ZC5qcGciLCJ3aWR0aCI6Ijw9NzAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.fZ9SOoZKs0glNOxYaN0xQOCQI2hwVbiyIhXj90BoJHg){position:absolute,bottom:-50px,left:-200px,height:110%,mix-blend-mode:normal,transform:scaleX(1)} -->
+  ![death](https://i.imgur.com/Gn5MvKF.jpeg){position:absolute,bottom:-50px,left:-200px,height:110%,mix-blend-mode:normal,transform:scaleX(1)}
 }}
 
 {{position:absolute,top:960px,left:400px,margin-bottom:-30px,text-align:left
@@ -5026,7 +5032,8 @@ ___
 }}
 
 {{imageMaskCorner15,--offsetX:40%,--offsetY:-52%,--rotation:0
-  ![fox-2](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2a340938-3ed0-4ae4-8ef6-884f929e1d86/d8pfbwl-0be04192-6a2e-4083-bb9d-d4a9bd1a3e60.jpg/v1/fill/w_1095,h_730,q_70,strp/ninetales_by_bluekomadori_d8pfbwl-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA2NyIsInBhdGgiOiJcL2ZcLzJhMzQwOTM4LTNlZDAtNGFlNC04ZWY2LTg4NGY5MjllMWQ4NlwvZDhwZmJ3bC0wYmUwNDE5Mi02YTJlLTQwODMtYmI5ZC1kNGE5YmQxYTNlNjAuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.iGu8be9JhIiz3d1dXYBokYjVH3yCkhUlaQR32E6tWE4){position:absolute,bottom:-20px,right:-130px,width:80%,mix-blend-mode:multiply,transform:scaleX(-1)}
+  <!-- ![fox-2](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2a340938-3ed0-4ae4-8ef6-884f929e1d86/d8pfbwl-0be04192-6a2e-4083-bb9d-d4a9bd1a3e60.jpg/v1/fill/w_1095,h_730,q_70,strp/ninetales_by_bluekomadori_d8pfbwl-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA2NyIsInBhdGgiOiJcL2ZcLzJhMzQwOTM4LTNlZDAtNGFlNC04ZWY2LTg4NGY5MjllMWQ4NlwvZDhwZmJ3bC0wYmUwNDE5Mi02YTJlLTQwODMtYmI5ZC1kNGE5YmQxYTNlNjAuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.iGu8be9JhIiz3d1dXYBokYjVH3yCkhUlaQR32E6tWE4){position:absolute,bottom:-20px,right:-130px,width:80%,mix-blend-mode:multiply,transform:scaleX(-1)} -->
+  ![fox-2](https://i.imgur.com/n9CP2Vt.jpeg){position:absolute,bottom:-20px,right:-130px,width:80%,mix-blend-mode:multiply,transform:scaleX(-1)}
 }}
 
 {{pageNumber,auto}}
@@ -5591,7 +5598,8 @@ Spells you cast ignore resistance to damage of the chosen type, and treat immuni
 \page
 
 {{imageMaskCorner8,--offsetX:-52%,--offsetY:30%,--rotation:0
-  ![gunner](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8d19c0a1-4431-4882-bfcf-5111d3996cb7/db49fb7-0d6762ab-2826-4891-8def-1360df1be4fe.jpg/v1/fit/w_617,h_750,q_70,strp/ashigaru_2_by_kiabugboy_db49fb7-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzUwIiwicGF0aCI6IlwvZlwvOGQxOWMwYTEtNDQzMS00ODgyLWJmY2YtNTExMWQzOTk2Y2I3XC9kYjQ5ZmI3LTBkNjc2MmFiLTI4MjYtNDg5MS04ZGVmLTEzNjBkZjFiZTRmZS5qcGciLCJ3aWR0aCI6Ijw9NjE3In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.JWKPx5vXooCZuUZUQlVsfFvsDEtTWvTVof8WedUvX2Q){position:absolute,top:-50px,left:-50px,width:60%,mix-blend-mode:multiply,transform:scaleX(1)}
+  <!-- ![gunner](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8d19c0a1-4431-4882-bfcf-5111d3996cb7/db49fb7-0d6762ab-2826-4891-8def-1360df1be4fe.jpg/v1/fit/w_617,h_750,q_70,strp/ashigaru_2_by_kiabugboy_db49fb7-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzUwIiwicGF0aCI6IlwvZlwvOGQxOWMwYTEtNDQzMS00ODgyLWJmY2YtNTExMWQzOTk2Y2I3XC9kYjQ5ZmI3LTBkNjc2MmFiLTI4MjYtNDg5MS04ZGVmLTEzNjBkZjFiZTRmZS5qcGciLCJ3aWR0aCI6Ijw9NjE3In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.JWKPx5vXooCZuUZUQlVsfFvsDEtTWvTVof8WedUvX2Q){position:absolute,top:-50px,left:-50px,width:60%,mix-blend-mode:multiply,transform:scaleX(1)} -->
+  ![gunner](https://i.imgur.com/xBFzvM4.jpeg){position:absolute,top:-50px,left:-50px,width:60%,mix-blend-mode:multiply,transform:scaleX(1)}
 }}
 
 {{position:absolute,top:460px,left:300px,margin-bottom:-30px,text-align:left
@@ -5734,7 +5742,7 @@ Spells you cast ignore resistance to damage of the chosen type, and treat immuni
 **Guarded Mind.** If you fail an Intelligence, a Wisdom, or a Charisma Saving Throw, you can cause yourself to succeed instead. Once you use this benefit, you can't use it again until you finish a Long Rest.
 
 {{imageMaskCorner9,--offsetX:15%,--offsetY:-46%,--rotation:0
-  ![leadership](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5246e0e3-fe8a-4fdb-9c31-4741f3509015/dcnw01j-94e7348f-a923-4014-8bd6-bca90e98ec31.jpg/v1/fill/w_1235,h_647,q_70,strp/battle_of_nagashino_by_changinghand_dcnw01j-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvNTI0NmUwZTMtZmU4YS00ZmRiLTljMzEtNDc0MWYzNTA5MDE1XC9kY253MDFqLTk0ZTczNDhmLWE5MjMtNDAxNC04YmQ2LWJjYTkwZTk4ZWMzMS5qcGciLCJ3aWR0aCI6Ijw9MTUyNyJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.lcVJP2K75qrzsK2csTKOgudNTJh1Ysidb5dkqNNuZBY){position:absolute,bottom:-10px,right:-10px,width:100%,mix-blend-mode:multiply,transform:scaleX(1)}
+  ![leadership](https://cdna.artstation.com/p/assets/images/images/013/237/312/large/matt-lara-nagashino.jpg?1538679782){position:absolute,bottom:-10px,right:-10px,width:100%,mix-blend-mode:multiply,transform:scaleX(1)}
 }}
 
 {{position:absolute,top:780px,right:690px,margin-bottom:-30px,text-align:right
@@ -5872,7 +5880,7 @@ Spells you cast ignore resistance to damage of the chosen type, and treat immuni
 **Quick Search.** You can take the Search Action as a Bonus Action.
 
 {{imageMaskEdge1,--offset:5%,--rotation:270
-  ![horse](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5246e0e3-fe8a-4fdb-9c31-4741f3509015/dcmstgs-474d251d-dcde-481a-8bd3-bf3bfba15d5c.jpg/v1/fit/w_786,h_900,q_70,strp/mt__hiei_by_changinghand_dcmstgs-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvNTI0NmUwZTMtZmU4YS00ZmRiLTljMzEtNDc0MWYzNTA5MDE1XC9kY21zdGdzLTQ3NGQyNTFkLWRjZGUtNDgxYS04YmQzLWJmM2JmYmExNWQ1Yy5qcGciLCJ3aWR0aCI6Ijw9Nzg2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.0GRL7kJ8ua8m9OgNmIxblGumuCFfqchmOQZTbn0CWMY){position:absolute,bottom:-1px,right:-260px,height:101%}
+  ![horse](https://cdna.artstation.com/p/assets/images/images/013/237/310/large/matt-lara-mt-hiei.jpg?1538679780){position:absolute,bottom:-1px,right:-260px,height:101%}
 }}
 
 {{position:absolute,top:1000px,right:390px,margin-bottom:-30px,text-align:right
