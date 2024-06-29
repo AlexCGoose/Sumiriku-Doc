@@ -346,7 +346,9 @@ Kappa, Akki, Tanuki, Kawauso, Kitsune, Kisuru all have in part some Yōkai ances
 
 Even at the outset of the world's creation and the beginning of the second age, the Kaika Jidai, conflict was seen as a law of reality. The Myōjin bickered and fought from their first words, and this nature was passed on to their creations and followers; strife became as natural as the winds and the tides. This conflict brought forth all sorts of negative emotions; fear, rage, hatred, and wrath. Unknown to all was that this simmering evil could manifest itself into reality, given form to those thoughts as foul creatures known as the Oni.
 
-Oni (鬼) are the pure embodiment of hatred, malevolence, and horror. They take a wide variety of forms, usually those that incite great fear in their victims, but they do share some commonalities; an Oni is typically horned, tusked, and with a third eye jutting out of their forehead. Oni are known for the most evil of acts: murder, rampage, possession, and cannibalism. Many people choose to believe that the presence of all evils in this world is due to the wiles of these manipulative creatures, sowing terror for their own ends. There are even some people of Sumiriku who have had their bloodline marked by the Oni, the demonic heritage that clings to them revealed by horns or coloured skin.
+Oni (鬼) are the pure embodiment of hatred, malevolence, and horror, forged in the pits of Makoku. They take a wide variety of forms, usually those that incite great fear in their victims, but they do share some commonalities; an Oni is typically horned, tusked, and with a third eye jutting out of their forehead. Oni are known for the most evil of acts: murder, rampage, possession, and cannibalism. Many people choose to believe that the presence of all evils in this world is due to the wiles of these manipulative creatures, sowing terror for their own ends. There are even some people of Sumiriku who have had their bloodline marked by the Oni, the demonic heritage that clings to them revealed by horns or coloured skin.
+
+<!-- TODO - MAKE EXISTENCE OF ONI CAUSE OF MAKOKU'S PLACE IN THE REALMS - MAKOKU MADE TO TRAP NEGATIVITY? -->
 
 ## Godaiyō
 
@@ -753,7 +755,9 @@ Before the end of the Kaika Jidai, Yōzanagi-sama and Inzanami-sama decided that
 "Every being in Sumiriku is a storyteller, each family has a tale passed through generations. What matters not is which stories we choose to share, but that we tell them at all."
 :
 
-— Reiki, Lorekeeper
+— Reki, Lorekeeper
+
+<!-- TODO - INCORPORATE TEXT INTO TALES, REMoVE COOL FONT -->
 
 }}
 
@@ -768,6 +772,10 @@ On one fateful day the Oni shattered the thin barrier between the realms and arr
 It took the combined might of Sumiriku's peoples, Kami, and Myōjin, along with the power of their Relics of Kumonoue, to force back the Oni on all fronts. This defence was led by Netsu-sama, who was able to cut down legions by himself, with his sacred blade Hakō. Once the force of the Oni had been sufficiently diminished the Myōjin were able to combine their divine power to seal them back within Makoku, ending the war for good. Thus is the tale of the Blood War.
 
 {{attribution *The History of Sumiriku*}}
+
+<!-- TODO - MAKE A SPOKEN HISTORY - MAYBE TO A SCHOOL/GROUP OF CHILDREN -->
+
+<!-- TODO - THE ONI ALREADY FEARED THE SUNS - THEY BLOTTED OUT THE SUN FROM THE SKY - CAUSED ONE LONG NIGHT -->
 
 <!-- , and with a bloodlust unlike any other -->
 
@@ -2564,12 +2572,12 @@ To most people, Yokai seem like nothing more than curious miscreants, mischief m
 
 {{#default-table,classTable
 
-| Alt. Blood Hunter Level | Feature                                                     |
-|:------------------------|:------------------------------------------------------------|
-| 3rd                     | Mimic Weapon, Blade of Sinew, Otherworldly Senses           |
-| 7th                     | Illusionary Persona, Grafted Armament                       |
-| 13th                    | Repellant Aura                                              |
-| 18th                    | Devour Soul                                                 |
+| Alt. Blood Hunter Level | Feature                                           |
+|:------------------------|:--------------------------------------------------|
+| 3rd                     | Mimic Weapon, Blade of Sinew, Otherworldly Senses |
+| 7th                     | Illusionary Persona, Grafted Armament             |
+| 13th                    | Repellant Aura                                    |
+| 18th                    | Devour Soul                                       |
 
 }}
 
@@ -2636,7 +2644,7 @@ The bond with your Mimic Weapon grows closer. You can no longer be separated fro
 
 *13th level Order of the Shiftstalkers feature*
 </br>
-Your distrust of yokai allures empowers you and your allies. Whenever a creature attempts to charm you or an ally of you within 30 feet they must attempt a Wisdom Saving Throw against your Rite Save DC. If they fail the Saving Throw the charm attempt fails and they take Psychic damage equal to a two roles of your Rite Die.
+Your disgust to the allures of Yokai emboldens you and your allies. Whenever a creature attempts to Charm you or an ally of you within 30 feet they must attempt a Wisdom Saving Throw against your Rite Save DC. If they fail the Saving Throw the Charm attempt fails and they take Psychic damage equal to a two roles of your Rite Die.
 
 #### Devour Soul
 
@@ -4615,6 +4623,9 @@ The end of the current year and the beginning of the next.
 The Oni first poured out of their realm in Makoku, lead by their Oni Lords, during the Kaika Jidai, and threatened to bring untold darkness and horror to the world. The might of the Myōjin, still present in the world at the time, had to be assembled in order to push the Oni back and seal them deep beneath the earth, in a conflict now known as the Blood War. This entombment was not perfect however, and the Oni have discovered how to temporarily break their imprisonment and briefly bring chaos back to the real world.
 
 The escape of the Oni causes a night of terror, known as the Hyakki Chitsuki, where these demonic beings hunt for people and kami alike to prey and feast upon. The timing of this night is unpredictable as it only occurs around once in a generation or so, but, like an earthquake or a volcanic eruption, it always seems to come when the population of Utsushiyo is the most complacent, the most forgetful of their place in the hierarchy of realms. The Oni have been cursed by Netsu-sama to flee in fear when they witness the rising suns, but that still gives them one terrible night to do what they please. If one is ever out at night and sees the moon turn red and the sky rain blood then they should pray for safety, for the Oni are coming.
+
+<!-- TODO - MATCH WITH OTHER ONI WRITEUPS -->
+<!-- TODO - ONI AIM TO BLOT OUT THE SUN BEFORE THE NIGHT ENDS -->
 
 {{pageNumber,auto}}
 {{footnote PART 3 | GEOGRAPHY AND CULTURE}}
