@@ -344,11 +344,9 @@ Kappa, Akki, Tanuki, Kawauso, Kitsune, Kisuru all have in part some Yōkai ances
 
 ## Oni
 
-Even at the outset of the world's creation and the beginning of the second age, the Kaika Jidai, conflict was seen as a law of reality. The Myōjin bickered and fought from their first words, and this nature was passed on to their creations and followers; strife became as natural as the winds and the tides. This conflict brought forth all sorts of negative emotions; fear, rage, hatred, and wrath. Unknown to all was that this simmering evil could manifest itself into reality, given form to those thoughts as foul creatures known as the Oni.
+From the beginning of creation the world sought balance; all energies and forces required a reflection, a counterpart. To this end, the world's creators conceived of a realm buried deep within the earth, to be a prison for spirits of darkness. Unknown to the peoples of Sumiriku. their negative emotions descended to this realm, empowering the terror of the depths below. The nation's conflicts and strife, fear and hatred, only strengthened the growing threat of the Oni, searching for a way out.
 
-Oni (鬼) are the pure embodiment of hatred, malevolence, and horror, forged in the pits of Makoku. They take a wide variety of forms, usually those that incite great fear in their victims, but they do share some commonalities; an Oni is typically horned, tusked, and with a third eye jutting out of their forehead. Oni are known for the most evil of acts: murder, rampage, possession, and cannibalism. Many people choose to believe that the presence of all evils in this world is due to the wiles of these manipulative creatures, sowing terror for their own ends. There are even some people of Sumiriku who have had their bloodline marked by the Oni, the demonic heritage that clings to them revealed by horns or coloured skin.
-
-<!-- TODO - MAKE EXISTENCE OF ONI CAUSE OF MAKOKU'S PLACE IN THE REALMS - MAKOKU MADE TO TRAP NEGATIVITY? -->
+Oni (鬼) are the pure embodiment of hatred, malevolence, and horror, forged in the fiery pits of Makoku. They take a wide variety of forms, usually those that incite great fear in their victims, but they do share some commonalities; an Oni is typically horned, tusked, and with a third eye showing through a crack in their forehead. Oni are known for the most evil of acts: murder, rampage, possession, and cannibalism. Their only known weakness is the light of Sumiriku's holy suns; having not been born under the twin suns has cursed the Oni to burn away under their radiance. Many people choose to believe that the presence of all evils in this world is due to the wiles of these manipulative creatures, sowing terror for their own ends.
 
 ## Godaiyō
 
@@ -522,7 +520,7 @@ The place for the dead, for spirits who have expended the time they had. The dep
 
 ## Makoku (魔国, 'Devil Kingdom')
 
-The kingdom of the Oni, beings akin to Yokai but far more twisted and foul. It is believed that the demonic nature of the Oni came to be because Makoku is trapped at the centre of earth, locked away from seeing the clouds and the stars. This realm is a place of heat and pain, terrain formed of the harshest crags and chasms and with the most extreme weather one could imagine. No mortal who has happened to venture here has ever returned.
+The kingdom of the Oni, beings akin to Yokai but far more twisted and foul. It is believed that the demonic nature of the Oni came to be because Makoku is trapped at the centre of earth, locked away from seeing the suns and the stars. This realm is a place of heat and pain, terrain formed of the harshest crags and chasms and with the most extreme weather one could imagine. No mortal who has happened to venture here has ever returned.
 
 ## Godaikai (五大界, 'Five Realms')
 
@@ -735,6 +733,8 @@ After Yōzanagi-sama and Inzanami-sama had been placed as the highest Myōjin, t
 After their creation, the many peoples of the world grew into their own, with the guidance and tutelage of their Myōjin creators. Starting from humble beginnings, the Kami helped teach the peoples ways both to survive and to thrive. They learned to hunt, to farm, to build homes, and to fight, but also to create art, pottery, and music - and through all of this was their reverence for the Kami shown. By the end of this era the peoples of Sumiriku had grown into disparate societies and clans, similar to those that we know today.
 
 Before the end of the Kaika Jidai, Yōzanagi-sama and Inzanami-sama decided that their role as the elders of the Myōjin, and so they decided to depart Kumonoue and go their separate ways; Inzanami-sama traveled to Yomi to become its guardian, and Yōzanagi-sama is believed to now stay in a humble home in Kimyōkai. They left the world in the care of their children and the rest of the pantheon, not anticipating the threat that would come to the world without them...
+
+<!-- TODO - ADD MENTION OF REGALIA EVENTS - WORLD NEEDED DEFENDING BY MYOJIN -->
 
 #### The Starlight Regalia
 
@@ -2779,8 +2779,8 @@ test
 | Rogue Level | Feature                          |
 |:------------|:---------------------------------|
 | 3rd         | Dazzling Style, Flowing Movement |
-| 9th         | Nimble Step                      |
-| 13th        | Two to Tango                     |
+| 9th         | Disorienting Step                |
+| 13th        | Double Time                      |
 | 17th        | Rhythm of Battle                 |
 
 }}
@@ -2791,21 +2791,21 @@ test
 
 *3rd level Dagger Dancer feature*
 </br>
-While you aren't wearing Armour or wielding a Shield, your base Armour Class equals 10 + your Dexterity modifier + your Charisma modifier, and whenever you make a Performance check you can add a bonus to it equal to your Dexterity modifier (minimum of +1).
+Your dancing prowess impresses and protects. While you aren't wearing Armour or wielding a Shield, your base Armour Class equals 10 + your Dexterity modifier + your Charisma modifier, and whenever you make a Performance check you can add a bonus to it equal to your Dexterity modifier (minimum of +1).
 
 #### Flowing Movement
 
 *3rd level Dagger Dancer feature*
 </br>
-You are unaffected by the reduction to movement from being in an allied creature's space, and you can move through spaces occupied by any hostile creature, regardless of its size. When you reach 6th level in this class, you also are unaffected by the reduction to movement from being in a hostile creature's space.
+You can step gracefully through ballroom and battlefield. You are unaffected by the reduction to movement from being in an allied creature's space, and you can move through spaces occupied by any hostile creature, regardless of its size. When you reach 6th level in this class, you also are unaffected by the reduction to movement from being in a hostile creature's space.
 
 On your turn, if you travel through the space of a hostile creature you can use Sneak Attack against that creature without needing Advantage on the attack.
 
-#### Nimble Step
+#### Disorienting Step
 
 *9th level Dagger Dancer feature*
 </br>
-Your movement doesn't provoke Opportunity Attacks. If you take the Disengage Action, you can instead make the movement of a creature within 5 feet of you not provoke Opportunity Attacks until the end of their next turn.
+Your footwork keeps your enemies on their toes. Your movement no longer provokes Opportunity Attacks. Instead of the Disengage Action, you can use your Bonus Action to attempt to knock your opponent off their rhythm. A target creature within 5 feet of you must make a Dexterity Saving Throw (DC equal to 8 + your proficiency bonus + your Charisma modifier). If they fail, you have Advantage on all attacks against them until the start of your next turn.
 
 \column
 
@@ -2825,24 +2825,23 @@ Your movement doesn't provoke Opportunity Attacks. If you take the Disengage Act
 
 :::::::::::::::::::::::::::::::
 
-#### Two to Tango
+#### Double Time
 
 *13th level Dagger Dancer feature*
 </br>
-Whenever a creature misses you with an </br>Attack, you can use your Reaction to make a Melee Weapon Attack against that creature.
+Your motions become quicker and </br>sharper. You gain the ability to make an additional Reaction per round. In addition, whenever a creature misses you with an Attack, you can use your Reaction to make a Melee Weapon Attack against that creature.
 
 #### Rhythm of Battle
 
 *17th level Dagger Dancer feature*
 </br>
-You have become able to feel the rhythm around you and tap into it, moving with enhanced grace and precision. You can enter a Dancing State as a Bonus Action. While in this state, you gain the following benefits:
+You have become able to feel the rhythm around you and tap into it, moving with enhanced grace and precision. You can enter a Dancer's Flow as a Bonus Action. While in this state, you gain the following benefits:
 
-- Attacks against you are made </br>at Disadvantage.
-- You have Advantage against any </br>Dexterity Saving Throws.
+- Attacks against you are made at Disadvantage.
+- You have Advantage against any Dexterity Saving Throws.
 - You have Advantage on your Reaction Attacks.
-- You gain the ability to make two Reactions per round, as long as at least one of these Reactions is an Attack.
 
-This state lasts for 1 minute, or until you take damage. You cannot enter this state if you are wearing Armour or wielding a Shield. Once you use this feature, you cannot use it again until you finish a Short or Long Rest.
+This state lasts for 1 minute, or until you lose your concentration (as if you were concentrating on a spell). You cannot enter this state if you are wearing Armour or wielding a Shield. You can do so a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -4612,26 +4611,25 @@ The end of the current year and the beginning of the next.
 
 \page
 
-{{imageMaskCorner32,--offsetX:-55%,--offsetY:55%,--rotation:0
+{{imageMaskCorner32,--offsetX:-55%,--offsetY:57%,--rotation:0
   ![blood-moon](https://i.imgur.com/7r3AVoC.jpg){position:absolute,top:-1px,left:-125px,width:75%}
 }}
 
-{{position:absolute,top:350px,left:230px,margin-bottom:-30px,text-align:left
+{{position:absolute,top:330px,left:230px,margin-bottom:-30px,text-align:left
 
 ##### The Blood Moon
 
 }}
 
-::::::::::::::::::::::::::::
+::::::::::::::::::::::::::
 
-### Hyakki Chitsuki (百鬼血月, 'Hundred Oni Blood Moon') ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:484px,left:55px,width:375px,mix-blend-mode:normal}
+### Hyakki Chitsuki (百鬼血月, 'Hundred Oni Blood Moon') ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:455px,left:55px,width:375px,mix-blend-mode:normal}
 
-The Oni first poured out of their realm in Makoku, lead by their Oni Lords, during the Kaika Jidai, and threatened to bring untold darkness and horror to the world. The might of the Myōjin, still present in the world at the time, had to be assembled in order to push the Oni back and seal them deep beneath the earth, in a conflict now known as the Blood War. This entombment was not perfect however, and the Oni have discovered how to temporarily break their imprisonment and briefly bring chaos back to the real world.
+The Oni first poured out of their realm in Makoku, lead by their Oni Lords, during the Kaika Jidai, and plunged the world into darkness and horror. These Oni started a seemingly endless night by blotting out the sky, protecting themselves from the radiance of the twin suns during their assault. It took might of the Myōjin, still present in the world at the time, in order to return the suns and the stars to the sky, push the Oni back and seal them back within their realm, in a conflict now known as the Blood War. This entombment was not perfect however, and the Oni have discovered how to temporarily break their imprisonment and briefly bring chaos back to the real world.
 
-The escape of the Oni causes a night of terror, known as the Hyakki Chitsuki, where these demonic beings hunt for people and kami alike to prey and feast upon. The timing of this night is unpredictable as it only occurs around once in a generation or so, but, like an earthquake or a volcanic eruption, it always seems to come when the population of Utsushiyo is the most complacent, the most forgetful of their place in the hierarchy of realms. The Oni have been cursed by Netsu-sama to flee in fear when they witness the rising suns, but that still gives them one terrible night to do what they please. If one is ever out at night and sees the moon turn red and the sky rain blood then they should pray for safety, for the Oni are coming.
+The escape of the Oni causes a night of terror, known as the Hyakki Chitsuki, where these demonic beings hunt for people and kami alike to prey and feast upon. The timing of this night is unpredictable as it only occurs around once in a generation or so, but, like an earthquake or a volcanic eruption, it always seems to come when the population of Utsushiyo is the most complacent, the most forgetful of their place in the hierarchy of realms. The Oni still must flee in fear before the rising of the suns, at least until they can darken the sky again, but that still gives them one terrible night to do what they please. If one is ever out at night and sees the moon turn red and the sky rain blood then they should pray for safety, for the Oni are coming.
 
-<!-- TODO - MATCH WITH OTHER ONI WRITEUPS -->
-<!-- TODO - ONI AIM TO BLOT OUT THE SUN BEFORE THE NIGHT ENDS -->
+<!-- TODO - MATCH WITH OTHER ONI WRITEUPS - REMOVE MYOJIN REFERENCE? -->
 
 {{pageNumber,auto}}
 {{footnote PART 3 | GEOGRAPHY AND CULTURE}}
