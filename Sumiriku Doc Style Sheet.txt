@@ -22,13 +22,13 @@
 	font-size : 90%;
 }
 
-/* Reduces font size in notes and sets background colour to Sumiriku Light Orange*/
+/* Reduces font size in notes and sets background colour to Sumiriku Light Orange */
 .page .note{
 	font-size  : 95%;
-	background :#fbc98e;
+	background : #fbc98e;
 }
 
-/* Page footer image - Imgur line coloured in Sumiriku Orange*/
+/* Page footer image - Imgur line coloured in Sumiriku Orange */
 .page:after {
 	background-image   : none;
 	background-size    : cover;
@@ -56,19 +56,19 @@
 
 /* ----- TEXT SETTINGS ----- */
 
-/* Sets headings to Sumiriku Red*/
+/* Sets headings to Sumiriku Red */
 .page h1, .page h2, .page h3, .page h4, .page h5, .page h6 {
 	color : #c03436;
 }
 
-/*Heading settings for H1 - Sets font and size*/
+/*Heading settings for H1 - Sets font and size */
 .page h1 {
 	font-family : 'Noto Serif JP';
 	font-weight : 900;
 	font-size   : .9cm;
 }
 
-/*Heading settings for H2 - Sets font and size*/
+/*Heading settings for H2 - Sets font and size */
 .page h2 {
 	font-family    : 'Noto Serif JP', serif;
 	line-height    : 1.1;
@@ -77,7 +77,7 @@
 	padding-bottom : 0.2em;
 }
 
-/*Heading settings for H3 - Sets font and size - Bottom border colour set to Sumiriku Orange*/
+/* Heading settings for H3 - Sets font and size - Bottom border colour set to Sumiriku Orange */
 .page h3 {
 	font-family    : 'Noto Serif JP';
 	font-weight    : 800;
@@ -86,21 +86,21 @@
 	border-bottom  : 2px solid #f7931e;
 }
 
-/*Heading settings for H4 - Sets font and size*/
+/*Heading settings for H4 - Sets font and size */
 .page h4 {
 	font-family : 'Noto Serif JP';
 	font-weight : 700;
 	font-size   : .4cm;
 }
 
-/*Heading settings for H2 - Sets size, keeps default font*/
+/*Heading settings for H5 - Sets size, keeps default font */
 .page h5 {
 	font-weight    : 600;
 	padding-bottom : 0em;
 	font-size      : .4cm;
 }
 
-/*Heading settings for H6 - Sets font and size*/
+/*Heading settings for H6 - Sets font and size */
 .page h6 {
 	font-family    : 'Noto Serif JP';
 	font-weight    : 700;
@@ -109,12 +109,7 @@
 	padding-bottom : 0.2em;
 }
 
-/* Resets colours for headings inside creature statblocks */
-#creature h2, #creature h3{
-	color : #58180D;
-}
-
-/* Drop Cap letter settings - Sets font to handwriting and colour to black*/
+/* Drop Cap letter settings - Sets font to handwriting and colour to black */
 .page h1 + p::first-letter {
 	font-family    : 'Edo SZ';
 	font-size      : 2.5cm;
@@ -129,7 +124,7 @@
 	float          : left;
 }
 
-/* Fancy and After-Fancy classes recreate section beginning with drop cap letter and small caps after - for when section starts part way down page*/
+/* Fancy and After-Fancy classes recreate section beginning with drop cap letter and small caps after - for when section starts part way down page */
 #fancy {
 	font-family    : 'Edo SZ';
 	font-size      : 2.5cm;
@@ -145,7 +140,7 @@
 }
 
 #after-fancy {
-	font-variant	: small-caps;
+	font-variant : small-caps;
 }
 
 /* Quote without changed first line - for if it goes over multiple columns/pages */
@@ -177,7 +172,7 @@
 	text-indent    : 0;
 }
 
-/* Page Number settings - Sets text to white*/
+/* Page Number settings - Sets text to white */
 .page .pageNumber {
 	line-height : 16px;
 	color       : #ffffff;
@@ -351,8 +346,93 @@
 
 
 
-/* ----- COMMENTS ----- */
+/* ----- STATBLOCKS ----- */
 
+/* PHB 2024 Monster Frame Styling START */
+.page .monster.frame {
+  padding          : 5px 8px;
+  background-image : none;
+  background-color : #fde4c7; /* Sumiriku Extra Light Orange - 25% Opacity from Orange */
+  border-image     : none;
+  border           : 3px double #777;
+  border-radius    : 10px;
+  box-shadow       : 2px 2px 8px #888888;
+  h2 {
+    width          : 100%;
+    column-span    : all;
+    font-family    : Open Sans;
+    font-variant   : small-caps;
+    font-size      : 20px;
+    padding-bottom : 2px;
+    margin-bottom  : 4px;
+    border-bottom  : 1px solid #c03436; /* Sumiriku Red */
+    column-span    : all;
+  }
+  h2 + p {
+    color     : #000;
+    font-size : inherit;
+  }
+  h3 {
+    padding-bottom : 0px;
+    border-bottom  : 1px solid #c03436
+  }
+  .block {
+    margin-top : 0px;
+  }
+  .stats {
+    color      : #541718;
+    margin-top : 5px;
+    .vitals {
+      columns : 2;
+    }
+    .tables {
+      columns    : 3;
+      column-gap : 5px;
+      table {
+        border-collapse : separate;
+        border-spacing  : 0px 2px;
+        th {
+          color       : #000;
+          font-weight : normal;
+          font-size   : 8px;
+          position    : relative;
+          top         : 4px;
+        }
+        tr:nth-of-type(odd) {
+          td {
+            background-color : #f2aa70;
+            padding-top      : 2px;
+          }
+          td:nth-of-type(-n+2) {
+            background-color : #fac383;
+            font-weight      : bold;
+            font-variant     : small-caps;
+            padding-left     : 4px;
+          }
+        }
+        tr:nth-of-type(even) {
+          td {
+            background-color : #f09e5a;
+            padding-top      : 2px;
+          }
+          td:nth-of-type(-n+2) {
+            background-color : #f9b769;
+            font-weight      : bold;
+            font-variant     : small-caps;
+            padding-left     : 4px;
+          }
+        }
+      }
+    }
+  }
+}
+/* PHB 2024 Monster Frame Styling END */
+
+
+
+
+
+/* ----- COMMENTS ----- */
 
 /* Code for creating paper notes */
 /* Code taken from Xanathar's Guide template */
@@ -548,6 +628,8 @@
 
 
 
+
+/* Default Statblock Colour: #58180D */
 
 /* UNUSED BUT MIGHT BE INTERESTING */
 /* Creates a note at the bottom of the page */

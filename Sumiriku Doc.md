@@ -15,11 +15,13 @@
 ![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:400px,left:175px,width:450px}
 
 {{wide,text-align:center
+
 {{footnote
 
 The contents of this document is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
 
 }}
+
 }}
 
 \page
@@ -4719,24 +4721,51 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 
 :
 
-{{#creature,monster,frame
+{{monster,frame
 
 ## Raccoon-Dog
 
 *Tiny Beast, Unaligned*
-___
-**Armour Class** :: 12
-**Hit Points**  :: 2 (1d4)
-**Speed**       :: 30 ft., Climb 30ft., Burrow 10 ft.
-___
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|6 (-2) |14 (+2)|11 (+0)|3 (-4) |12 (+1)|6 (-2) |
-___
-**Skills**               :: Perception +3
-**Senses**               :: Darkvision 60 ft., passive Perception 13
-**Challenge**            :: 0 (0 XP) {{width:80px}} **Proficiency Bonus** +2
-___
+
+{{stats
+
+{{vitals
+
+**AC**         :: 12
+**HP**         :: 2 (1d4)
+**Speed**      :: 30 ft., Climb 30ft., Burrow 10 ft.
+\column
+**Initiative** :: +2 (12)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 6 | --2  | --2  |
+|Int| 3 | --4  | --4  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14|  +2  |  +2  |
+|Wis| 12|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 11|  +0  |  +0  |
+|Cha| 6 | --2  | --2  |
+
+}}
+
+**Skills**      :: Perception +3
+**Senses**      :: Darkvision 60 ft., Passive Perception 13
+**CR**          :: 0 (XP 0; PB +2)
+
+}}
+
+### Traits
+
 ***Keen Smell.*** The Raccoon-dog has Advantage on Wisdom (Perception) checks that rely on smell.
 
 ### Actions
@@ -4745,26 +4774,41 @@ ___
 
 }}
 
-:
-
-{{#creature,monster,frame
+{{monster,frame
 
 ## Tanuki Raccoon-Dog
 
 *Tiny Animal (Your Creature Type Does Not Change)*
-___
-**Armour Class** :: 12
-**Hit Points**  :: you continue to use your Hit Points and Hit Dice
-**Speed**       :: 30 ft., Climb 30ft., Burrow 10 ft.
-___
-**STR** :: 6 (-2)
-**DEX** :: 14 (+2)
-**CON, INT, WIS, CHA** :: use your scores
-___
+
+{{stats
+
+**AC**         :: 12
+**HP**         :: you continue to use your Hit Points and Hit Dice
+**Speed**      :: 30 ft., Climb 30ft., Burrow 10 ft.
+
+{{tables
+
+|   |   |  MOD |
+|:-:|:-:|:----:|
+|Str| 6 | --2  |
+
+|   |   |  MOD |
+|:-:|:-:|:----:|
+|Dex| 14|  +2  |
+
+}}
+
+**Con, Int, Wis, Cha**   :: use your scores
+**Saves**                :: add PB to Saving Throws you are proficient in
+**Skills**               :: use your Skills
 **Senses**               :: Darkvision 60 ft.
-**Languages**            :: understands the languages you know, cannot speak
+**Languages**            :: use your Languages
 **Proficiency Bonus**    :: equals your Proficiency Bonus
-___
+
+}}
+
+### Traits
+
 ***Keen Smell.*** You have Advantage on Wisdom (Perception) checks that rely on smell.
 
 ### Actions
@@ -4777,24 +4821,41 @@ ___
 
 :
 
-{{#creature,monster,frame
+{{monster,frame
 
 ## Tanuki Empowered Raccoon-Dog
 
 *Large Animal (Your Creature Type Doesn't Change)*
-___
-**Armour Class** :: 12 (Natural Armour)
-**Hit Points**  :: you continue to use your Hit Points and Hit Dice
-**Speed**       :: 40 ft., Climb 30ft., Burrow 20 ft.
-___
-**STR** :: 19 (+4)
-**DEX** :: 12 (+1)
-**CON, INT, WIS, CHA** :: use your scores
-___
-**Senses**               :: Darkvision 60 ft.
-**Languages**            :: understands the languages you know, cannot speak
-**Proficiency Bonus**    :: equals your Proficiency Bonus
-___
+
+{{stats
+
+**AC**         :: 13 (Natural Armour)
+**HP**         :: you continue to use your Hit Points and Hit Dice
+**Speed**      :: 40 ft., Climb 30ft., Burrow 20 ft.
+
+{{tables
+
+|   |   |  MOD |
+|:-:|:-:|:----:|
+|Str| 19| --2  |
+
+|   |   |  MOD |
+|:-:|:-:|:----:|
+|Dex| 12|  +1  |
+
+}}
+
+**Con, Int, Wis, Cha** :: use your scores
+**Saves**              :: add PB to Saving Throws you are proficient in
+**Skills**             :: use your Skills
+**Senses**             :: Darkvision 60 ft.
+**Languages**          :: use your Languages
+**Proficiency Bonus**  :: equals your Proficiency Bonus
+
+}}
+
+### Traits
+
 ***Keen Smell.*** You have Advantage on Wisdom (Perception) checks that rely on smell.
 
 ### Actions
@@ -4810,7 +4871,7 @@ ___
 }}
 
 {{imageMaskCorner15,--offsetX:45%,--offsetY:-50%,--rotation:0
-  ![raccoon-dog-2](https://i.imgur.com/LU0lIu4.jpg){position:absolute,bottom:-20px,right:-100px,width:75%,mix-blend-mode:multiply,transform:scaleX(1)}
+  ![raccoon-dog-2](https://i.imgur.com/LU0lIu4.jpg){position:absolute,bottom:-10px,right:-100px,width:75%,mix-blend-mode:multiply,transform:scaleX(1)}
 }}
 
 {{pageNumber,auto}}
@@ -4824,24 +4885,51 @@ ___
 
 :
 
-{{#creature,monster,frame
+{{monster,frame
 
 ## River Otter
 
 *Tiny Beast, Unaligned*
-___
-**Armour Class** :: 13
-**Hit Points**  :: 3 (1d4+1)
-**Speed**       :: 30 ft., Swim 40ft.
-___
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|4 (-3) |16 (+3)|12 (+1)|6 (-3) |10 (+0)|6 (-2) |
-___
-**Skills**               :: Perception +2, Investigation -1
-**Senses**               :: passive Perception 12
-**Challenge**            :: 0 (0 XP) {{width:80px}} **Proficiency Bonus** +2
-___
+
+{{stats
+
+{{vitals
+
+**AC**         :: 13
+**HP**         :: 3 (1d4+1)
+**Speed**      :: 30 ft., Swim 40ft.
+\column
+**Initiative** :: +3 (13)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 4 | --3  | --3  |
+|Int| 6 | --2  | --2  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 16|  +3  |  +3  |
+|Wis| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12|  +1  |  +1  |
+|Cha| 6 | --2  | --2  |
+
+}}
+
+**Skills**      :: Investigation -1, Perception +2
+**Senses**      :: Passive Perception 12
+**CR**          :: 0 (XP 0; PB +2)
+
+}}
+
+### Traits
+
 ***Shiny Hunter.*** The River Otter has Advantage on Intelligence (Investigation) checks to track down object
 :
 ***Aquatic Ability*** The River Otter can hold its breath for 6 minutes.
@@ -4852,25 +4940,39 @@ ___
 
 }}
 
-:
-
-{{#creature,monster,frame
+{{monster,frame
 
 ## Kawauso River Otter
 
 *Tiny Animal (Your Creature Type Does Not Change)*
-___
-**Armour Class** :: 13
-**Hit Points**  :: you continue to use your Hit Points and Hit Dice
-**Speed**       :: 30 ft., Swim 40ft.
-___
-**STR** :: 4 (-3)
-**DEX** :: 16 (+3)
-**CON, INT, WIS, CHA** :: use your scores
-___
-**Languages**            :: understands the languages you know, cannot speak
-**Proficiency Bonus**    :: equals your Proficiency Bonus
-___
+
+{{stats
+
+**AC**         :: 13
+**HP**         :: you continue to use your Hit Points and Hit Dice
+**Speed**      :: 30 ft., Swim 40ft.
+
+{{tables
+
+|   |   |  MOD |
+|:-:|:-:|:----:|
+|Str| 4 | --3  |
+
+|   |   |  MOD |
+|:-:|:-:|:----:|
+|Dex| 16|  +3  |
+
+}}
+
+**Con, Int, Wis, Cha** :: use your scores
+**Saves**              :: add PB to Saving Throws you are proficient in
+**Languages**          :: use your languages
+**Proficiency Bonus**  :: equals your Proficiency Bonus
+
+}}
+
+### Traits
+
 ***Shiny Hunter.*** You have Advantage on Intelligence (Investigation) checks to track down object
 :
 ***Aquatic Ability*** You can hold your breath for a number of minutes equal to 5 plus your Constitution modifier, minimum of 5.
@@ -4887,34 +4989,50 @@ ___
   ![river-otter-2](https://64.media.tumblr.com/4fad6acc34720d3ea0eb69eae1a3aba1/8579268e8b40cbe9-66/s1280x1920/1428c443b34f61e7d2cf03f6414469553aa135f6.jpg){position:absolute,top:-70px,right:-25px,width:55%,mix-blend-mode:multiply,transform:scaleX(1)}
 }}
 
-:::::::::::::::::::::::::::
+::::::::::::::::::::::::::::
 
 {{#creature,monster,frame
 
 ## Kawauso Empowered River Otter
 
 *Large Animal (Your Creature Type Doesn't Change)*
-___
-**Armour Class** :: 14
-**Hit Points**  :: you continue to use your Hit Points and Hit Dice
-**Speed**       :: 40 ft., Swim 60 ft.
-___
-**STR** :: 9 (-1)
-**DEX** :: 18 (+4)
-**CON, INT, WIS, CHA** :: use your scores
-___
-**Languages**            :: understands the languages you know, cannot speak
+
+{{stats
+
+**AC**         :: 14
+**HP**         :: you continue to use your Hit Points and Hit Dice
+**Speed**      :: 40 ft., Swim 60ft.
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:-:|:-:|:----:|:----:|
+|Str| 9 | --1  | --1  |
+
+|   |   |  MOD | SAVE |
+|:-:|:-:|:----:|:----:|
+|Dex| 16|  +4  |  +4  |
+
+}}
+
+**Con, Int, Wis, Cha**   :: use your scores
+**Saves**                :: add PB to Saving Throws you are proficient in
+**Languages**            :: use your languages
 **Proficiency Bonus**    :: equals your Proficiency Bonus
-___
+
+}}
+
+### Traits
+
 ***Shiny Hunter.*** You have Advantage on Intelligence (Investigation) checks to track down object
 :
 ***Aquatic Ability*** You can hold your breath for 8 hours.
 
 ### Actions
 
-**Multiattack.** You make three smacks.
+**Multiattack.** You make three Tail Smacks.
 :
-***Smack.*** *Melee Weapon Attack:* +4 + PB to hit, reach 5ft., one target. *Hit:* 8 (1d8 + 4) Bludgeoning damage. If all three attacks hit a single target, they must succeed at a DC 12 + PB Constitution Saving Throw or be Dazed until the end of their next turn.
+***Tail Smack.*** *Melee Weapon Attack:* +4 + PB to hit, reach 5ft., one target. *Hit:* 8 (1d8 + 4) Bludgeoning damage. If all three attacks hit a single target, they must succeed at a DC 12 + PB Constitution Saving Throw or be Dazed until the end of their next turn.
 :
 ***Great Wave (Recharge 5-6).*** You conjure forth a rushing torrent of water in a line that is 80 feet long and 10 feet wide. All creatures in the line must make a Dexterity Saving Throw with DC 12 + PB or take 18 (4d8) Bludgeoning damage and be pushed back 20 feet. If the creature collides with a wall, they take an additional 3 (1d6) damage for every 10 feet they moved. You can travel along the wave, moving to any point along the line without provoking opportunity attacks.
 
@@ -4936,19 +5054,46 @@ ___
 ## Fox
 
 *Tiny Beast, Unaligned*
-___
-**Armour Class** :: 13
-**Hit Points**  :: 2 (1d4)
-**Speed**       :: 40 ft., Burrow 5 ft.
-___
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|4 (-3) |16 (+3)|11 (+0)|3 (-4) |12 (+1)|6 (-2) |
-___
-**Skills**               :: Perception +3, Stealth +5
-**Senses**               :: Darkvision 60 ft., passive Perception 13
-**Challenge**            :: 0 (0 XP) {{width:80px}} **Proficiency Bonus** +2
-___
+
+{{stats
+
+{{vitals
+
+**AC**         :: 13
+**HP**         :: 2 (1d4)
+**Speed**      :: 40 ft., Burrow 5ft.
+\column
+**Initiative** :: +3 (13)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 4 | --3  | --3  |
+|Int| 3 | --4  | --4  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 16|  +3  |  +3  |
+|Wis| 12|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 11|  +0  |  +0  |
+|Cha| 6 | --2  | --2  |
+
+}}
+
+**Skills**      :: Perception +3, Stealth +5
+**Senses**      :: Darkvision 60 ft., Passive Perception 13
+**CR**          :: 0 (XP 0; PB +2)
+
+}}
+
+### Traits
+
 ***Keen Hearing.*** The Fox has Advantage on Wisdom (Perception) checks that rely on hearing.
 :
 ***Sly.*** The Fox has Advantage on Dexterity (Stealth) checks.
@@ -4959,26 +5104,40 @@ ___
 
 }}
 
-:
-
 {{#creature,monster,frame
 
 ## Kitsune Fox
 
 *Tiny Animal (Your Creature Type Does Not Change)*
-___
-**Armour Class** :: 13
-**Hit Points**  :: you continue to use your Hit Points and Hit Dice
-**Speed**       :: 40 ft., Burrow 5 ft.
-___
-**STR** :: 4 (-3)
-**DEX** :: 16 (+3)
-**CON, INT, WIS, CHA** :: use your scores
-___
+
+{{stats
+
+**AC**         :: 13
+**HP**         :: you continue to use your Hit Points and Hit Dice
+**Speed**      :: 40 ft., Burrow 5 ft.
+
+{{tables
+
+|   |   |  MOD |
+|:-:|:-:|:----:|
+|Str| 4 | --3  |
+
+|   |   |  MOD |
+|:-:|:-:|:----:|
+|Dex| 16|  +3  |
+
+}}
+
+**Con, Int, Wis, Cha**   :: use your scores
+**Saves**                :: add PB to Saving Throws you are proficient in
 **Senses**               :: Darkvision 60 ft.
-**Languages**            :: understands the languages you know, cannot speak
+**Languages**            :: use your languages
 **Proficiency Bonus**    :: equals your Proficiency Bonus
-___
+
+}}
+
+### Traits
+
 ***Keen Hearing.*** You have Advantage on Wisdom (Perception) checks that rely on hearing.
 :
 ***Sly.*** You have Advantage on Dexterity (Stealth) checks.
@@ -4991,26 +5150,40 @@ ___
 
 \column
 
-:
-
 {{#creature,monster,frame
 
 ## Kitsune Empowered Fox
 
 *Large Animal (Your Creature Type Doesn't Change)*
-___
-**Armour Class** :: 15 (Natural Armour)
-**Hit Points**  :: you continue to use your Hit Points and Hit Dice
-**Speed**       :: 50 ft., Burrow 20 ft.
-___
-**STR** :: 16 (+3)
-**DEX** :: 19 (+4)
-**CON, INT, WIS, CHA** :: use your scores
-___
+
+{{stats
+
+**AC**         :: 15 (Natural Armour)
+**HP**         :: you continue to use your Hit Points and Hit Dice
+**Speed**      :: 50 ft., Burrow 20 ft.
+
+{{tables
+
+|   |   |  MOD |
+|:-:|:-:|:----:|
+|Str| 16|  +3  |
+
+|   |   |  MOD |
+|:-:|:-:|:----:|
+|Dex| 19|  +4  |
+
+}}
+
+**Con, Int, Wis, Cha**   :: use your scores
+**Saves**                :: add PB to Saving Throws you are proficient in
 **Senses**               :: Darkvision 60 ft.
-**Languages**            :: understands the languages you know, cannot speak
+**Languages**            :: use your languages
 **Proficiency Bonus**    :: equals your Proficiency Bonus
-___
+
+}}
+
+### Traits
+
 ***Keen Hearing.*** You have Advantage on Wisdom (Perception) checks that rely on hearing.
 :
 ***Sly.*** You have Advantage on Dexterity (Stealth) checks.
@@ -5029,9 +5202,9 @@ ___
 
 }}
 
-{{imageMaskCorner15,--offsetX:40%,--offsetY:-52%,--rotation:0
+{{imageMaskCorner15,--offsetX:40%,--offsetY:-55%,--rotation:0
   <!-- ![fox-2](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2a340938-3ed0-4ae4-8ef6-884f929e1d86/d8pfbwl-0be04192-6a2e-4083-bb9d-d4a9bd1a3e60.jpg/v1/fill/w_1095,h_730,q_70,strp/ninetales_by_bluekomadori_d8pfbwl-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA2NyIsInBhdGgiOiJcL2ZcLzJhMzQwOTM4LTNlZDAtNGFlNC04ZWY2LTg4NGY5MjllMWQ4NlwvZDhwZmJ3bC0wYmUwNDE5Mi02YTJlLTQwODMtYmI5ZC1kNGE5YmQxYTNlNjAuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.iGu8be9JhIiz3d1dXYBokYjVH3yCkhUlaQR32E6tWE4){position:absolute,bottom:-20px,right:-130px,width:80%,mix-blend-mode:multiply,transform:scaleX(-1)} -->
-  ![fox-2](https://i.imgur.com/n9CP2Vt.jpeg){position:absolute,bottom:-20px,right:-130px,width:80%,mix-blend-mode:multiply,transform:scaleX(-1)}
+  ![fox-2](https://i.imgur.com/n9CP2Vt.jpeg){position:absolute,bottom:-15px,right:-130px,width:80%,mix-blend-mode:multiply,transform:scaleX(-1)}
 }}
 
 {{pageNumber,auto}}
@@ -5050,19 +5223,46 @@ ___
 ## Crane
 
 *Small Beast, Unaligned*
-___
-**Armour Class** :: 12
-**Hit Points**  :: 3 (1d6)
-**Speed**       :: 10 ft., Fly 50 ft.
-___
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|5 (-3) |14 (+2)|10 (+0)|3 (-4) |14 (+2)|6 (-2) |
-___
-**Skills**               :: Perception +4
-**Senses**               :: Darkvision 60 ft., passive Perception 14
-**Challenge**            :: 0 (0 XP) {{width:80px}} **Proficiency Bonus** +2
-___
+
+{{stats
+
+{{vitals
+
+**AC**         :: 12
+**HP**         :: 3 (1d6)
+**Speed**      :: 10 ft., Fly 50 ft.
+\column
+**Initiative** :: +2 (12)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 5 | --3  | --3  |
+|Int| 3 | --4  | --4  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14|  +2  |  +2  |
+|Wis| 14|  +2  |  +2  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 10|  +0  |  +0  |
+|Cha| 6 | --2  | --2  |
+
+}}
+
+**Skills**      :: Perception +4
+**Senses**      :: Darkvision 60 ft., Passive Perception 14
+**CR**          :: 0 (XP 0; PB +2)
+
+}}
+
+### Traits
+
 ***Keen Sight.*** The Crane has Advantage on Wisdom (Perception) checks that rely on sight.
 
 ### Actions
@@ -5071,25 +5271,40 @@ ___
 
 }}
 
-:
-
 {{#creature,monster,frame
 
 ## Kisuru Crane
 
 *Small Animal (Your Creature Type Does Not Change)*
-___
-**Armour Class** :: 12
-**Hit Points**  :: you continue to use your Hit Points and Hit Dice
-**Speed**       :: 10 ft., Fly 50 ft.
-___
-**STR** :: 5 (-3)
-**DEX** :: 14 (+2)
-**CON, INT, WIS, CHA** :: use your scores
-___
-**Languages**            :: understands the languages you know, cannot speak
+
+{{stats
+
+**AC**         :: 12
+**HP**         :: you continue to use your Hit Points and Hit Dice
+**Speed**      :: 10 ft., Fly 50 ft.
+
+{{tables
+
+|   |   |  MOD |
+|:-:|:-:|:----:|
+|Str| 5 | --3  |
+
+|   |   |  MOD |
+|:-:|:-:|:----:|
+|Dex| 14|  +2  |
+
+}}
+
+**Con, Int, Wis, Cha**   :: use your scores
+**Saves**                :: add PB to Saving Throws you are proficient in
+**Senses**               :: Darkvision 60 ft.
+**Languages**            :: use your languages
 **Proficiency Bonus**    :: equals your Proficiency Bonus
-___
+
+}}
+
+### Traits
+
 ***Keen Sight.*** You have Advantage on Wisdom (Perception) checks that rely on sight.
 
 ### Actions
@@ -5104,25 +5319,42 @@ ___
   ![big-crane](https://cdna.artstation.com/p/assets/images/images/003/050/470/large/yintion-j-18.jpg?1469007478){position:absolute,top:-60px,right:-75px,width:90%,mix-blend-mode:multiply,transform:scaleX(1)}
 }}
 
-:::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::
 
 {{#creature,monster,frame
 
 ## Kisuru Empowered Crane
 
 *Large Animal (Your Creature Type Doesn't Change)*
-___
-**Armour Class** :: 13
-**Hit Points**  :: you continue to use your Hit Points and Hit Dice
-**Speed**       :: 10 ft., Fly 60 ft.
-___
-**STR** :: 16 (+3)
-**DEX** :: 16 (+3)
-**CON, INT, WIS, CHA** :: use your scores
-___
-**Languages**            :: understands the languages you know, cannot speak
+
+{{stats
+
+**AC**         :: 13
+**HP**         :: you continue to use your Hit Points and Hit Dice
+**Speed**      :: 10 ft., Fly 60 ft.
+
+{{tables
+
+|   |   |  MOD |
+|:-:|:-:|:----:|
+|Str| 16|  +3  |
+
+|   |   |  MOD |
+|:-:|:-:|:----:|
+|Dex| 16|  +3  |
+
+}}
+
+**Con, Int, Wis, Cha**   :: use your scores
+**Saves**                :: add PB to Saving Throws you are proficient in
+**Senses**               :: Darkvision 60 ft.
+**Languages**            :: use your languages
 **Proficiency Bonus**    :: equals your Proficiency Bonus
-___
+
+}}
+
+### Traits
+
 ***Keen Sight.*** You have Advantage on Wisdom (Perception) checks that rely on sight.
 
 ### Actions
@@ -6763,20 +6995,38 @@ The creature is an ally to you and your companions. In combat, the creature shar
 ## Large Animated Object - TODO
 
 *Large Construct, Unaligned*
-___
-**Armour Class** :: 13 + the level of the spell (natural armor)
-**Hit Points**  :: 40 + 15 for each spell level above 4th
-**Speed**       :: 30 ft.
-___
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|18 (+4)|10 (+0)|18 (+4)|2 (-4) |12 (+1)|4 (-3) |
-___
+
+{{stats
+
+**AC**         :: 13 + the level of the spell (Natural Armor)
+**HP**         :: 40 + 15 for each spell level above 5th
+**Speed**      :: 30 ft.
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18|  +4  |  +4  |
+|Int| 2 | --4  | --4  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10|  +0  |  +0  |
+|Wis| 12|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 18|  +4  |  +4  |
+|Cha| 4 | --3  | --3  |
+
+}}
+
 **Damage Resistances**   :: Poison, Psychic
 **Condition Immunities** :: Charmed, Exhaustion, Frightened, Incapacitated, Paralyzed, Petrified, Poisoned
 **Senses**               :: Blindsight 60 ft., passive Perception 11
-**Challenge**            :: -
-___
+**CR**                   :: -
+
+}}
 
 ### Actions
 
@@ -6786,34 +7036,53 @@ ___
 
 }}
 
-:
-
 {{#creature,monster,frame
 
 ## Swarm of Animated Objects - TODO
 
-*Medium swarm of Tiny Construct, Unaligned*
-___
-**Armour Class** :: 13 + the level of the spell (natural armor)
-**Hit Points**  :: 40 + 15 for each spell level above 4th
-**Speed**       :: 0 ft., fly 30 ft.
-___
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|5 (-3) |18 (+4)|18 (+4)|2 (-4) |12 (+1)|4 (-3) |
-___
-**Damage Resistances**   :: Bludgeoning, Piercing, Poison, Psychic, Slashing,
+*Large swarm of Tiny Construct, Unaligned*
+
+{{stats
+
+**AC**         :: 13 + the level of the spell (Natural Armor)
+**HP**         :: 40 + 15 for each spell level above 5th
+**Speed**      :: 0 ft., fly 30 ft.
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 5 | --3  | --3  |
+|Int| 2 | --4  | --4  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 18|  +4  |  +4  |
+|Wis| 12|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 18|  +4  |  +4  |
+|Cha| 4 | --3  | --3  |
+
+}}
+
+**Damage Resistances**   :: Bludgeoning, Piercing, Poison, Psychic, Slashing
 **Condition Immunities** :: Charmed, Exhaustion, Frightened, Grappled, Incapacitated, Paralyzed, Petrified, Poisoned, Prone, Restrained, Stunned
 **Senses**               :: Blindsight 60 ft., passive Perception 11
-**Challenge**            :: -
-___
+**CR**                   :: -
+
+}}
+
+### Traits
+
 ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny book. The swarm can't regain Hit Points or gain temporary Hit Points.
 
 ### Actions
 
 ***Multiattack.*** The swarm makes a number of attacks equal to half this spell's level (rounded down).
 :
-***Slam.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 2d4 + 4 + the spell's level Bludgeoning damage., or 1d4 + 4 + the spell's level Bludgeoning damage if the swarm has half of its Hit Points or fewer.
+***Slash.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 2d4 + 4 + the spell's level Slashing damage, or 1d4 + 4 + the spell's level Slashing damage if the swarm has half of its Hit Points or fewer.
 
 }}
 

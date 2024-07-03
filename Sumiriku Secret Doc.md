@@ -1,7 +1,3 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@500&display=swap');
-</style>
-
 {{frontCover}}
 
 ![cover](https://i.ibb.co/X3VBnpD/Sumiriku-DMCover8.png){position:absolute,bottom:0,left:0,height:100.5%}
@@ -17,6 +13,16 @@
 ![line](https://i.imgur.com/iCxIyLL.png) {position:absolute,top:321px,left:175px,width:450px}
 
 ![mouse](https://i.imgur.com/p8d8ld4.png) {position:absolute,top:400px,left:175px,width:450px}
+
+{{wide,text-align:center
+
+{{footnote
+
+The contents of this document is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
+
+}}
+
+}}
 
 \page
 
@@ -47,7 +53,7 @@
     - [{{ Masuzō}}{{ 9}}](#p10)
     - [{{ Hatsumomo}}{{ 9}}](#p10)
 
-- ### [{{ PART 2 - The Living Lore}}{{ 10}}](#p11) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:336px,left:55px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 2 - The Living Lore}}{{ 10}}](#p11) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:382px,left:55px,width:245px,mix-blend-mode:normal}
 
   - ###### [{{ Letters and Documents}}{{ 10}}](#p11)
   
@@ -223,23 +229,50 @@ Many groups of bandits roam the roads and settlements of Sumiriku, who make thei
 ## Kanehisa
 
 *Medium Humanoid, Chaotic Evil*
-___
-**Armor Class** :: 13
-**Hit Points**  :: 35
-**Speed**       :: 30 ft.
-___
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|16 (+3)|14 (+2)|12 (+1)|12 (+1)| 8 (-1)|12 (+1)|
-___
-**Skills**               :: Intimidation +3, Persuasion +3
-**Senses**               :: darkvision 60 ft., passive Perception 15
-**Languages**            :: Common
-**Challenge**            :: 1 {{width:80px}} **Proficiency Bonus** +2 (Level 4)
-___
-***Legendary Resistance (1/Day).*** If Kanehisa fails a saving throw, he can choose to succeed instead.
+
+{{stats
+
+{{vitals
+
+**AC**         :: 13
+**HP**         :: 35 (?d? + ?)
+**Speed**      :: 30 ft.
+\column
+**Initiative** :: +3 (13)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 16|  +3  |  +3  |
+|Int| 12|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14|  +2  |  +2  |
+|Wis| 8 | --1  | --1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12|  +1  |  +1  |
+|Cha| 12| --2  | --2  |
+
+}}
+
+**Skills**      :: Perception +2, Investigation -1
+**Senses**      :: Passive Perception 9
+**Languages**   :: Common
+**CR**          :: 1 (XP ?; PB +2)
+
+}}
+
+### Traits
+
+***Legendary Resistance (1/Day).*** If Kanehisa fails a Saving Throw, he can choose to succeed instead.
 :
-***Exploit Opening (2/Day).*** When Kanehisa makes an attack, they have advantage on the attack roll
+***Exploit Opening (2/Day).*** When Kanehisa makes an attack, they can choose to have Advantage on the Attack Roll
 
 ### Actions
 
@@ -273,33 +306,56 @@ ___
 ## Masuzō
 
 *Medium Yama-Otoko (Giant), Lawful Neutral*
-___
-**Armor Class** :: 17
-**Hit Points**  :: 50
-**Speed**       :: 30 ft.
-___
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|14 (+2)|14 (+2)|18 (+4)|10 (+1)|16 (+3)| 8 (-1)|
-___
-**Languages**            :: Common, Ōgarugo
-**Challenge**            :: 5 {{width:80px}} **Proficiency Bonus** +3 (Level 5)
-___
-***Legendary Resistance (1/Day).*** If Kanehisa fails a saving throw, he can choose to succeed instead.
-:
-***Exploit Opening (2/Day).*** When Kanehisa makes an attack, they have advantage on the attack roll
+
+{{stats
+
+{{vitals
+
+**AC**         :: 17
+**HP**         :: 50 (?d? + ?)
+**Speed**      :: 30 ft.
+\column
+**Initiative** :: +2 (12)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 14|  +2  |  +2  |
+|Int| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14|  +2  |  +2  |
+|Wis| 16|  +3  |  +3  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 18|  +4  |  +4  |
+|Cha| 8 | --1  | --1  |
+
+}}
+
+**Skills**      :: Medicine +6
+**Senses**      :: Passive Perception 13
+**Languages**   :: Common, Ōgarugo
+**CR**          :: ? (XP ?; PB +3; Level 5)
+
+}}
 
 ### Actions
 
-***Multiattack.***
+***Multiattack.*** Masuzō makes two Martial Arts Attacks.
 :
-***Martial Arts Attack.*** +7 to hit
+***Martial Arts Attack.*** +7 to hit, reach 5ft., one target. *Hit:* 8 (1d8 + 4) Bludgeoning damage.
 
 }}
 
 :
 
-### Kettōdo Rules ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:514px,left:55px,width:375px,mix-blend-mode:normal}
+### Kettōdo Rules ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:448px,left:55px,width:375px,mix-blend-mode:normal}
 
 Movement Speed is halved. You can choose to reduce your Movement Speed by a further 10 feet to take the Disengage action.
 
@@ -312,38 +368,165 @@ Before each of your opponent's attacks you can make one of the following special
 
 A hit, disarm, or other status condition counts as a point. Duels are typically played to 5 points, or until a combatant resigns.
 
-## Hatsumomo
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+## Hoki Castle
 
 {{#creature,monster,frame
 
-## Hatsumomo
+## Hatsumomo, Wakasa Courtesan
 
 *Medium Humanoid, Lawful Evil*
-___
-**Armor Class** :: 14
-**Hit Points**  :: 27 (5d8 + 5)
-**Speed**       :: 30 ft.
-___
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|10 (+0)|18 (+4)|12 (+1)| 8 (-1)|14 (+2)| 9 (-1)|
-___
-**Saving Throws**        :: Dex +6
-**Challenge**            :: 5 {{width:80px}} **Proficiency Bonus** +3 (Level 5)
-___
+
+{{stats
+
+{{vitals
+
+**AC**         :: 15 (Protective Fan)
+**HP**         :: 29 (5d8 + 5)
+**Speed**      :: 30 ft.
+\column
+**Initiative** :: +3 (13)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 8 | --1  | --1  |
+|Int| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 16|  +3  |  +6  |
+|Wis| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12|  +1  |  +1  |
+|Cha| 18|  +4  |  +4  |
+
+}}
+
+**Skills**      :: Persuasion +7
+**Languages**   :: Formal, Common
+**CR**          :: 5 (XP ?; PB +3; Level 5)
+
+}}
+
+### Traits
+
 ***Sneak Attack (1/Turn).*** Hatsumomo deals an extra 10 (3d6) damage when it hits a target with a Weapon Attack and has Advantage on the Attack Roll, or when the target is within 5 feet of an ally of Hatsumomo that isn't incapacitated and Hatsumomo doesn't have Disadvantage on the Attack Roll.
+:
+***Protective Fan.*** When Hatsumomo attacks with her Tessen or as a Bonus Action she can change one of her Tessen from closed to open or vice versa. While open, her attack instead deals 1d4 Slashing damage, but grants her an additional +1 AC. She starts with one open and one closed fan.
 
 ### Actions
 
-***Shortsword.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 4) piercing damage.
+***Multiattack.*** Hatsumomo makes two Tessen attacks
+:
+***Open Tessen.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 5 (1d4 + 3) Slashing damage.
+:
+***Closed Tessen.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) Piercing damage.
 
 ### Bonus Actions
 
-***Cunning Action.*** The cutthroat can take the Dash, Disengage, or Hide action.  
+***Cunning Action.*** Hatsumomo can take the Dash, Disengage, or Hide Action.  
 
 ### Reactions
 
-***Uncanny Dodge.*** The cutthroat halves the damage that it takes from an attack that hits it. The cutthroat must be able to see the attacker.
+***Uncanny Dodge.*** Hatsumomo halves the damage that it takes from an attack that hits it. Hatsumomo must be able to see the attacker.
+
+### Legendary Actions
+
+Hatsumomo can use 1 Legendary Action per round.
+:
+***Vicious Mockery.*** Hatsumomo talks down to her victim. The target must succeed on a Wisdom Saving Throw or take 1d6 Psychic damage and have Disadvantage on the next attack roll it makes before the end of its next turn.
+:
+***Desperate Plea.*** Hatsumomo screams for help.
+
+}}
+
+\column
+
+{{monster,frame
+
+## Amazura, Emaciated Terror
+
+*Large Beast, Unaligned*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 12
+**HP**         :: 37 (5d10 + 10)
+**Speed**      :: 20 ft.
+\column
+**Initiative** :: +2 (12)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 17|  +3  |  +3  |
+|Int| 3 | --4  | --4  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 15|  +2  |  +2  |
+|Wis| 12|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +2  |  +2  |
+|Cha| 8 | --1  | --1  |
+
+}}
+
+**Skills**      :: Perception +3, Stealth +6
+**Senses**      :: Darkvision 60 ft., Passive Perception 13
+**CR**          :: 5 (XP ?; PB +2)
+
+}}
+
+### Traits
+
+***Keen Smell.*** Amazura has Advantage on Wisdom (Perception) checks that rely on smell.
+
+### Actions
+
+***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10 + 3) Piercing damage.
+:
+***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) Slashing damage, and the target must succeed on a DC 13 Strength Saving Throw or be knocked Prone.
+
+### Villain Actions
+
+Amazura has one Villain action, which she can take each action once during an encounter after an enemy's turn, once Hatsumomo has been killed.
+:
+***Dreambleed.*** The dark pigmentation begins to ooze out of Amazura's skin as she becomes a living nightmare. While in this state, her attacks deal an additional d4 damage, and the damage of her attacks can be Necrotic. In addition, any creature that starts their turn within 30 feet of Amazura and in line of sight to her must succeed on a DC 15 Wisdom Saving Throw or be Frightened by her until the start of their next turn.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
+{{monster,frame
+
+## Daimyō Hidemaro, Spiteful Warlord
+
+*Medium Humanoid, Lawful Evil*
 
 }}
 
@@ -391,7 +574,7 @@ Haruto Kenzo."
 
 \column
 
-{{#moon-table,classTable,frame
+{{#default-table,classTable,frame
 
 ##### Moonfolk Lineage
 
