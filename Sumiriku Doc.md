@@ -3879,7 +3879,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 **Detonate.** When you take the Disengage Action, instead of creating a cloud of black smoke, you can choose to set off a localised explosion. Everyone within a 10-foot radius centred on you, including yourself, must make a DC 15 Dexterity Saving Throw, taking 4d6 Fire damage on a failed save and half that on a successful save. You can only use this feature once per turn.
 
-**Blast Off.** You have discovered that your explosiveness makes for effective transportation. As a Bonus Action on your turn you can launch yourself., flying up to 40 feet in a straight line before falling. This movement does not provoke opportunity attacks and does not use your Speed. You can choose to angle your takeoff upwards to avoid obstacles, letting you land anywhere on the ground within 40 feet of you. If you collide with a creature when moving in a straight line, the creature takes 4d6 Bludgeoning damage. If you launch yourself upwards, or you collide with a wall or another solid surface, you take 4d6 Bludgeoning damage on impact. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
+**Blast Off.** You have discovered that your explosiveness makes for effective transportation. As a Bonus Action on your turn you can launch yourself., flying up to 40 feet in a straight line before falling. This movement does not provoke Opportunity Attacks and does not use your Speed. You can choose to angle your takeoff upwards to avoid obstacles, letting you land anywhere on the ground within 40 feet of you. If you collide with a creature when moving in a straight line, the creature takes 4d6 Bludgeoning damage. If you launch yourself upwards, or you collide with a wall or another solid surface, you take 4d6 Bludgeoning damage on impact. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
 
 {{imageMaskCorner20,--offsetX:47.5%,--offsetY:-65%,--rotation:0
   <!-- ![shell](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b3d08f41-3b20-4e72-891b-5dca0d934bb4/dclqy0j-81d42d28-3ba0-46e1-886f-2aac923087ac.jpg/v1/fill/w_1017,h_786,q_70,strp/kappa_by_lockdevil_dclqy0j-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTkwIiwicGF0aCI6IlwvZlwvYjNkMDhmNDEtM2IyMC00ZTcyLTg5MWItNWRjYTBkOTM0YmI0XC9kY2xxeTBqLTgxZDQyZDI4LTNiYTAtNDZlMS04ODZmLTJhYWM5MjMwODdhYy5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.1hXO8LMF0jTxJ0R6irMh-GfIuk1QmDQAa6ufG1ZQijw){position:absolute,bottom:-20px,right:-70px,width:70%,transform:scaleX(-1)} -->
@@ -5034,7 +5034,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 :
 ***Tail Smack.*** *Melee Weapon Attack:* +4 + PB to hit, reach 5ft., one target. *Hit:* 8 (1d8 + 4) Bludgeoning damage. If all three attacks hit a single target, they must succeed at a DC 12 + PB Constitution Saving Throw or be Dazed until the end of their next turn.
 :
-***Great Wave (Recharge 5-6).*** You conjure forth a rushing torrent of water in a line that is 80 feet long and 10 feet wide. All creatures in the line must make a Dexterity Saving Throw with DC 12 + PB or take 18 (4d8) Bludgeoning damage and be pushed back 20 feet. If the creature collides with a wall, they take an additional 3 (1d6) damage for every 10 feet they moved. You can travel along the wave, moving to any point along the line without provoking opportunity attacks.
+***Great Wave (Recharge 5-6).*** You conjure forth a rushing torrent of water in a line that is 80 feet long and 10 feet wide. All creatures in the line must make a Dexterity Saving Throw with DC 12 + PB or take 18 (4d8) Bludgeoning damage and be pushed back 20 feet. If the creature collides with a wall, they take an additional 3 (1d6) damage for every 10 feet they moved. You can travel along the wave, moving to any point along the line without provoking Opportunity Attacks.
 
 }}
 
@@ -6052,7 +6052,7 @@ Spells you cast ignore resistance to damage of the chosen type, and treat immuni
 
 **Dash Over Difficult Terrain.** When you take the Dash Action on your turn, Difficult Terrain doesn't cost you extra movement for the rest of that turn.
 
-**In A Blur.** When you make a Melee Attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.
+**In A Blur.** When you make a Melee Attack against a creature, you don't provoke Opportunity Attacks from that creature for the rest of the turn, whether you hit or not.
 
 {{imageMaskCorner9,--offsetX:57.5%,--offsetY:-45%,--rotation:0
   ![hacker](https://assets.echomtg.com/magic/cards/cropped/133810.hq.jpg){position:absolute,bottom:-35px,right:-40px,width:70%,mix-blend-mode:multiply,transform:scaleX(1)}
@@ -6238,7 +6238,7 @@ Spells you cast ignore resistance to damage of the chosen type, and treat immuni
 
 **Long Shots.** Attacking at Long Range doesn't impose Disadvantage on your Ranged Attack Rolls with Weapons.
 
-**Fancy Feet.** If you are the target of a Melee Attack from a hostile creature that misses while you are wielding a Ranged or Thrown weapon, you can use your Reaction to move up to 5 feet without provoking opportunity attacks. Once you have moved you can make a single </br>Ranged Weapon Attack as part of the </br>same Reaction.
+**Fancy Feet.** If you are the target of a Melee Attack from a hostile creature that misses while you are wielding a Ranged or Thrown weapon, you can use your Reaction to move up to 5 feet without provoking Opportunity Attacks. Once you have moved you can make a single </br>Ranged Weapon Attack as part of the </br>same Reaction.
 
 :
 
@@ -7941,7 +7941,7 @@ If you hit a creature with a Melee Attack using this weapon, you can deal damage
 
 *Prerequisite: Melee Weapon, Finesse or Versatile Property*
 </br>
-If you use the Attack Action and hit a creature with a Melee Attack using this weapon, you can move to the opposite side of the creature without expending movement and without provoking opportunity attacks. You can use this movement only once on your turn.
+If you use the Attack Action and hit a creature with a Melee Attack using this weapon, you can move to the opposite side of the creature without expending movement and without provoking Opportunity Attacks. You can use this movement only once on your turn.
 
 :
 
