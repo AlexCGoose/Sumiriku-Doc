@@ -1,6 +1,6 @@
 {{frontCover}}
 
-![cover](https://i.ibb.co/X3VBnpD/Sumiriku-DMCover8.png){position:absolute,bottom:0,left:0,height:100.5%}
+![cover](https://i.imgur.com/t6uDxEI.jpeg){position:absolute,bottom:0,left:0,height:100.5%}
 
 \page
 
@@ -36,28 +36,41 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 - ### [{{ PART 1 - The Infinite Library}}{{ 3}}](#p4) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:127px,left:55px,width:245px,mix-blend-mode:normal}
 
-  - ###### [{{ Magic Items}}{{ 4}}](#p5)
+  - ###### [{{ Items and Treasures}}{{ 4}}](#p5)
   
-    - [{{ Blossom-Blade Saya}}{{ 4}}](#p5)
-    - [{{ Kabuki Mask of the Noppera-bō}}{{ 8}}](#p9)
-    - [{{ Kenzo's Jitte}}{{ 4}}](#p5)
-    - [{{ Kyōsei Claw}}{{ 5}}](#p6)
-    - [{{ Prayer Beads to the Myōjin}}{{ 5}}](#p6)
-    - [{{ Red Feather?}}{{ 5}}](#p6)
-    - [{{ Shinobi Prosthetic}}{{ 6}}](#p7)
-    - [{{ Shuko Claws}}{{ 6}}](#p7)
+    - [{{ Magic Items}}{{ 4}}](#p5)
+      - [{{ Blossom-Blade Saya}}{{ 4}}](#p5)
+      - [{{ Kabuki Mask of the Noppera-bō}}{{ 4}}](#p5)
+      - [{{ Kyōsei Claw}}{{ 5}}](#p6)
+      - [{{ Prayer Beads to the Myōjin}}{{ 5}}](#p6)
+      - [{{ Red Feather?}}{{ 5}}](#p6)
+      - [{{ Shinobi Prosthetic Parts}}{{ 6}}](#p7)
+        - [{{ Shinobi Prosthetic}}{{ 6}}](#p7)
+        - [{{ Shuko Claws}}{{ 6}}](#p7)
+    - [{{ Unique Items}}{{ 7}}](#p8)
+      - [{{ Kakure-bi, the Concealed}}{{ 7}}](#p8)
+      - [{{ Kane-tsuki, Warcaller}}{{ 7}}](#p8)
+      - [{{ Kenzo's Jitte}}{{ 7}}](#p8)
+    - [{{ Sacred Treasures}}{{ 8}}](#p9)
+      - [{{ The Relics of Kumonoue}}{{ 8}}](#p9)
+      - [{{ The Starlight Regalia}}{{ 9}}](#p10)
 
-  - ###### [{{ Allies, Monsters, and Villains}}{{ 8}}](#p9)
+  - ###### [{{ Allies, Monsters, and Villains}}{{ 10}}](#p11)
   
-    - [{{ The Hyakushima Bandits}}{{ 8}}](#p9)
-    - [{{ Masuzō}}{{ 9}}](#p10)
-    - [{{ Hoki Castle}}{{ 10}}](#p11)
+    - [{{ Allies}}{{ 10}}](#p11)
+      - [{{ Masuzō}}{{ 11}}](#p12)
+      - [{{ Makoto}}{{ 12}}](#p13)
+    - [{{ The Hyakushima Bandits}}{{ 13}}](#p14)
+    - [{{ Hoki Castle}}{{ 14}}](#p15)
+      - [{{ Hatsumomo}}{{ 15}}](#p16)
+      - [{{ Daimyō Hidemaro}}{{ 16}}](#p17)
+    - [{{ Genji and Okamoto}}{{ 17}}](#p18)
 
-- ### [{{ PART 2 - The Living Lore}}{{ 12}}](#p13) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:396px,left:55px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 2 - The Living Lore}}{{ 19}}](#p20) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:610px,left:55px,width:245px,mix-blend-mode:normal}
 
-  - ###### [{{ Letters and Documents}}{{ 13}}](#p14)
+  - ###### [{{ Letters and Documents}}{{ 21}}](#p22)
   
-    - [{{ Sensei Kenzo’s Letter to the Students}}{{ 13}}](#p14)
+    - [{{ Sensei Kenzo’s Letter to the Students}}{{ 21}}](#p22)
 
 }}
 
@@ -86,7 +99,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 \page
 
-# Magic Items
+# Items And Treasures
 
 Some text
 
@@ -108,6 +121,8 @@ There are a selection of additional tags that any item can have. Craftable is fo
 
 \column
 
+## Magic Items
+
 #### Blossom-Blade Saya
 
 *Wondrous Item, Rare, Aesthetic* </br>
@@ -120,11 +135,6 @@ This saya, or katana scabbard, is light pink in colour, with silver detailing an
 This mask appears to be a traditional Kabuki theatre mask, depicting someone with closed eyes and small facial features, perhaps asleep or in quiet contemplation. The mask appears to have been imbued with some illusionary magic, though whether this is a blessing or a curse is unclear.
 
 When you put on the mask you can choose to cast the Disguise Self spell. The spell lasts until you take of the mask, and the DC of the Intelligence (Investigation) for discovering the illusion is 20. While wearing the mask you are unable to speak, or cast spells requiring verbal components.
-
-#### Kenzo's Jitte
-
-*Weapon (Jitte), Unique, Minor* </br>
-This Jitte was a treasured weapon of Dojo Sensei Kenzo, which he had by his side for much of his life and used to teach martial arts to his students. If you successfully use the Disarming feature to disarm a creature, you get advantage with all attacks with this jitte and with the disarmed weapon against that creature until the end of your next turn.
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
@@ -142,7 +152,9 @@ This prosthetic arm is actually a sentient ooze, attached to a host for protecti
 
 **Tether Lance.** Once per Long Rest, you can make a Ranged Unarmed Strike with the claw, with a Short Range of 15 feet and a Long Range of 30 feet. On hit the target takes damage as normal can also be pulled up to 15 feet towards you.
 
-**Parasitic Personality.** The Kyōsei Claw has a personality of its own, though of little intelligence. However, it has demands that need to be satiated, and it seems to have an influence over the personality of its host. If the claw has not received the taste of flesh, either by being fed by hand or by dealing necrotic damage to a humanoid creature, it may become uncooperative.
+**Parasitic Personality.** The Kyōsei Claw has a personality of its own, though of little intelligence. However, it has demands that need to be satiated, and it seems to have an influence over the personality of its host. If the claw has not received the taste of flesh, either by being fed by hand or by dealing damage to a creature, it may become uncooperative.
+
+:
 
 #### Prayer Beads to the Myōjin
 
@@ -178,6 +190,8 @@ This feather can instead be used to return the recently deceased back to life. W
 
 {{wide,#bigger-column-right
 
+### The Shinobi Prosthetic
+
 #### Shinobi Prosthetic
 
 *Prosthetic (Arm), Very Rare, Major (Requires Attunement)* </br>
@@ -203,9 +217,13 @@ This attachment grants you hidden hooked blades, designed after the claws of the
 
 \page
 
-#### Hookshot Hand
+<!-- #### Hookshot Hand
 
-*Wondrous Item (Shinobi Prosthetic Attachment), Very Rare, Minor, Mundane* </br>
+*Wondrous Item (Shinobi Prosthetic Attachment), Very Rare, Minor, Mundane* </br> -->
+
+## Unique Items
+
+Some Text
 
 #### Kakure-bi, the Concealed
 
@@ -223,6 +241,33 @@ It has long been the belief of Clan Wakasa that the role of the Daimyō is to le
 
 Kane-tsuki (鐘つき, 'Bell-Ringer') is a magical Kama Yari, gold-tipped and decorated with bells, that has been passed through the generations of Wakasa leaders. You gain a +1 bonus to Attack and Damage Rolls made with this magic weapon. Whenever a creature is hit by an attack with this weapon, they must succeed on a DC 15 Constitution Saving Throw or be Dazed and Deafened until the end of their next turn. Creatures immune to the Deafened Condition are immune to this effect. This ability can be used only once per turn.
 
+\column
+
+#### Kenzo's Jitte
+
+*Weapon (Jitte), Unique, Minor* </br>
+This Jitte was a treasured weapon of Dojo Sensei Kenzo, which he had by his side for much of his life and used to teach martial arts to his students. If you successfully use the Disarming feature to disarm a creature, you get advantage with all attacks with this jitte and with the disarmed weapon against that creature until the end of your next turn.
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+## Sacred Treasures
+
+### The Relics of Kumonoue
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
+### The Starlight Regalia
+
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
@@ -234,7 +279,7 @@ Kane-tsuki (鐘つき, 'Bell-Ringer') is a magical Kama Yari, gold-tipped and de
 
 Sumiriku is a dangerous place.
 
-:::::
+::::::
 
 {{note
 
@@ -242,88 +287,28 @@ Sumiriku is a dangerous place.
 
 Notable and powerful characters will likely have additional types of actions they can take when compared to a generic creature. Below is a list of these actions, along with an explanation of what they mean:
 
+**Extra Reactions.** Some creatures have the ability to take multiple Reactions per round. Only one of these Reactions can be taken per turn. Creatures with extra Reactions typically have a list of unique Reactions they can take, in addition to the ones any creature could take such as making an Opportunity Attack
+
 **Legendary Actions.** Creatures with Legendary Actions have a list of actions available, of which they can spend a certain number of action points on them per round. Only one Legendary Action can be used at a time and only at the end of another creature's turn, but an action can be used more than one in a turn. They regain spent Legendary Action points at the start of its turn. Some Legendary Actions cost 2 or more points to use.
 
 **Villain Actions.** Creatures with Villain Actions have a list of actions available, of which they can take each action once during an encounter after an enemy's turn. They can take these actions in any order but can only use one per round.
 
-**Antagonist Actions.** Some creatures have access to an Antagonist Trait, which brings them back to life or causes some other effect that prolongs an encounter if they are brought to 0 Hit Points. For 1 hour after this trait has been used, these creatures have access to additional Antagonist Actions, which may be treated as either Legendary Actions or Villain Actions depending on the statblock.
+**Antagonist Actions.** Some creatures have access to an Antagonist Trait, which brings them back to life or causes some other effect that prolongs an encounter if they are brought to 0 Hit Points. For 1 hour after this trait has been used, these creatures may gain access to additional Actions, Bonus Actions, Reactions, Legendary Actions, or Villain Actions, which are labelled as Antagonist Actions.
 
-**Lair Actions.** Creatures with Lair Actions have a list of effects, of which they can cause one of them to occur on initiative count 20 (losing initiative ties). They can't use the same effect two rounds in a row.
+**Lair Actions.** Creatures with Lair Actions have a list of effects, of which they can cause one of them to occur on initiative count 20 (losing initiative ties). They can't use the same effect two rounds in a row. These Actions can only be used if the creature is residing within its lair, a space which empowers its abilities.
 
 }}
-
-:
-
-## The Hyakushima Bandits
-
-Many groups of bandits roam the roads and settlements of Sumiriku, who make their living by preying on defenseless civilians and taking whatever food and valuables they can find. One such group is found in middle Sesujishima, lead by the fearsome Kanehisa and his second in command, Akitake. Though they appear to be targeting the humble village of Hyakushima to steal the result of their harvest, Kanehisa has kept secret some ulterior motives. He has been instructed by the Daimyō of Clan Wakasa to retrieve a girl, Hajime, and bring her back to him, though he doesn't know what the Daimyō wants with her.
 
 \column
 
-{{#creature,monster,frame
+## Allies
 
-## Kanehisa
+### Masuzō
 
-*Medium Humanoid, Chaotic Evil*
-
-{{stats
-
-{{vitals
-
-**AC**         :: 13
-**HP**         :: 35 (?d? + ?)
-**Speed**      :: 30 ft.
-\column
-**Initiative** :: +3 (13)
-
-}}
-
-{{tables
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16|  +3  |  +3  |
-|Int| 12|  +1  |  +1  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14|  +2  |  +2  |
-|Wis| 8 | --1  | --1  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12|  +1  |  +1  |
-|Cha| 12| --2  | --2  |
-
-}}
-
-**Skills**      :: Perception +2, Investigation -1
-**Senses**      :: Passive Perception 9
-**Languages**   :: Common
-**CR**          :: 1 (XP ?; PB +2)
-
-}}
-
-### Traits
-
-***Legendary Resistance (1/Day).*** If Kanehisa fails a Saving Throw, he can choose to succeed instead.
-:
-***Exploit Opening (2/Day).*** When Kanehisa makes an attack, they can choose to have Advantage on the Attack Roll
-
-### Actions
-
-***TODO.***
-
-}}
+Text about Masuzō
 
 {{imageMaskCorner20,--offsetX:50%,--offsetY:-40%,--rotation:0
-  ![kanehisa](https://i.imgur.com/rV5tLvC.jpeg){position:absolute,bottom:-10px,right:-300px,height:60%}
-}}
-
-{{position:absolute,top:1050px,left:350px
-
-##### Kanehisa
-
+  ![masuzo](https://i.imgur.com/6g3T16j.jpg){position:absolute,bottom:-100px,right:-300px,height:70%,transform:scaleX(1)}
 }}
 
 {{pageNumber,auto}}
@@ -332,10 +317,6 @@ Many groups of bandits roam the roads and settlements of Sumiriku, who make thei
 ![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
-
-## Masuzō
-
-:
 
 {{#creature,monster,frame
 
@@ -423,7 +404,405 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 \page
 
+### Makoto
+
+Text about Makoto
+
+{{monster,frame
+
+## Makoto, Wandering Rōnin
+
+*Medium Humanoid (Human), True Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 16 (Medium Armour)
+**HP**         :: 41 (6d8 + 10)
+\column
+**Initiative** :: +3 (13)
+
+}}
+
+**Speed**      :: 40 ft., Climb 40 ft., Swim 40 ft.
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 13|  +1  |  +4  |
+|Int| 11|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 16|  +3  |  +6  |
+|Wis| 16|  +3  |  +3  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +2  |  +2  |
+|Cha| 14|  +2  |  +2  |
+
+}}
+
+**Senses**               :: passive Perception 13
+**CR**                   :: 2 (XP 2,300; PB +3; Level 6)
+
+}}
+
+### Traits
+
+***Spellcaster.*** Makoto is a 6th Level Ranger, and has 6 spells prepared. Her Spell Save DC is 15.
+:
+***Man's Best Friend.*** Makoto fights alongside her blade-wielding companion Kentaro. Kentaro has a separate statblock, which improves alongside Makoto.
+
+### Actions
+
+***Multiattack.*** Makoto makes two Attacks.
+:
+***Katana.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (2d4 + 3) Slashing damage. **Cross.** If Makoto hits with this attack, she can move to the opposite side of the creature hit without expending movement and without provoking Opportunity Attacks. This feature can be used only once on her turn.
+:
+***Hankyū.*** *Ranged Weapon Attack:* +6 to hit, range 80/320 ft., one target. *Hit:* 7 (1d6 + 3) Piercing damage. **Graze.** If this attack hits, Makoto has Advantage on your next Attack Roll against that creature before the end of your next turn.
+
+### Bonus Actions
+
+***Hunter's Mark.*** Makoto marks a creature he can see within 60 feet of him, ending any marks Makoto has on other creatures. When Makoto or Kentaro hits the marked target with an attack, the target takes an additional 3 (1d6) damage
+
+}}
+
+\column
+
+{{monster,frame
+
+## Kentaro, Waddling Rōnin
+
+*Tiny Beast, Unaligned*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 16 (13 + Makoto's PB, Natural Armor)
+\column
+**Initiative** :: +4 (14)
+
+}}
+
+**HP**         :: 35 (5 + five times Makoto's Level)
+**Speed**      :: 40 ft.
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 14| --2  | --2  |
+|Int| 8 | --5  | --5  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14|  +1  |  +1  |
+|Wis| 14|  -1  |  -1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 15|  +1  |  +1  |
+|Cha| 11|  +0  |  +0  |
+
+}}
+
+**CR**                   :: -- (PB +3, equals Makoto's PB)
+
+}}
+
+### Traits
+
+***Charge.*** If Kentaro moves at least 20 feet straight toward a target and then hits it with a Slash attack on the same turn, the target takes an extra 1d6 slashing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+:
+***Minion.*** Kentaro gains +3 (Makoto's PB) to any ability check or saving throw that he makes.
+
+### Actions
+
+***Slash.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (1d8 + 5) Slashing damage. **Cross.** If Kentaro hits with this attack, she can move to the opposite side of the creature hit without expending movement and without provoking Opportunity Attacks. This feature can be used only once on her turn.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
+## The Hyakushima Bandits
+
+Many groups of bandits roam the roads and settlements of Sumiriku, who make their living by preying on defenseless civilians and taking whatever food and valuables they can find. One such group is found in middle Sesujishima, lead by the fearsome Kanehisa and his second in command, Akitake. Though they appear to be targeting the humble village of Hyakushima to steal the result of their harvest, Kanehisa has kept secret some ulterior motives. He has been instructed by the Daimyō of Clan Wakasa to retrieve a girl, Hajime, and bring her back to him, though he doesn't know what the Daimyō wants with her.
+
+\column
+
+{{#creature,monster,frame
+
+## Kanehisa
+
+*Medium Humanoid, Chaotic Evil*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 13
+**HP**         :: 35 (?d? + ?)
+**Speed**      :: 30 ft.
+\column
+**Initiative** :: +3 (13)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 16|  +3  |  +3  |
+|Int| 12|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14|  +2  |  +2  |
+|Wis| 8 | --1  | --1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12|  +1  |  +1  |
+|Cha| 12| --2  | --2  |
+
+}}
+
+**Skills**      :: Perception +2, Investigation -1
+**Senses**      :: Passive Perception 9
+**Languages**   :: Common
+**CR**          :: 1 (XP ?; PB +2)
+
+}}
+
+### Traits
+
+***Legendary Resistance (1/Day).*** If Kanehisa fails a Saving Throw, he can choose to succeed instead.
+:
+***Exploit Opening (2/Day).*** When Kanehisa makes an attack, they can choose to have Advantage on the Attack Roll
+
+### Actions
+
+***TODO.***
+
+}}
+
+{{imageMaskCorner20,--offsetX:50%,--offsetY:-40%,--rotation:0
+  ![kanehisa](https://i.imgur.com/rV5tLvC.jpeg){position:absolute,bottom:-10px,right:-300px,height:60%}
+}}
+
+{{position:absolute,top:1050px,left:350px
+
+##### Kanehisa
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
 ## Hoki Castle
+
+Text about the castle
+
+\column
+
+{{monster,frame
+
+## Guard
+
+*Medium Humanoid, Lawful Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 15 (Medium Armour)
+**HP**         :: 16 (3d8 + 3)
+**Speed**      :: 30 ft.
+\column
+**Initiative** :: +1 (11)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 13|  +1  |  +1  |
+|Int| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12|  +1  |  +1  |
+|Wis| 11|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12|  +1  |  +1  |
+|Cha| 10|  +0  |  +0  |
+
+}}
+
+**Skills**      :: Perception +2
+**Senses**      :: Passive Perception 12
+**CR**          :: 1/8 (XP 25; PB +2)
+
+}}
+
+### Actions
+
+***Hoko Yari.*** *Melee Weapon Attack:* +3 to hit, reach 10 ft., one target. *Hit:* 4 (1d6 + 1) Piercing damage, or 5 (1d8 + 1) Piercing damage if used with two hands.
+:
+***Jitte.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) Bludgeoning damage.
+
+### Reactions
+
+***Disarm.*** *Trigger:* While the Guard is holding a Jitte, a Large or smaller creature targets the guard with a Melee Weapon Attack and misses. *Response---Strength or Dexterity Saving Throw (target's choice):* DC 10, attacking creature. *Failure:* The attacker drops the Weapon used for the attack at a point of the guard's choice within 10 feet of them.
+
+}}
+
+{{monster,frame
+
+## Animated Armor
+
+*Medium Construct, Unaligned*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 17 (Heavy Armour)
+**HP**         :: 26 (5d8 + 5)
+**Speed**      :: 25 ft.
+\column
+**Initiative** :: +0 (10)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 14|  +2  |  +2  |
+|Int| 1 | --5  | --5  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10|  +0  |  +0  |
+|Wis| 3 | --4  | --4  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 13|  +1  |  +1  |
+|Cha| 1 | --5  | --5  |
+
+}}
+
+**Damage Immunities**    :: Poison, Psychic
+**Condition Immunities** :: Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+**Senses**               :: Blindsight 60 ft. (blind beyond this radius), passive Perception 6
+**CR**                   :: 1 (XP 200; PB +2)
+
+}}
+
+### Traits
+
+***Antimagic Susceptibility.*** The armor is incapacitated while in the area of an antimagic field. If targeted by *Dispel Magic*, the armor must succeed on a Constitution saving throw against the caster's Spell Save DC or fall unconscious for 1 minute.
+:
+***False Appearance.*** While the armor remains motionless, it is indistinguishable from a normal suit of armor.
+
+### Actions
+
+***Multiattack.*** The armor makes two melee attacks.
+:
+***Katana.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (2d4 + 2) Slashing damage.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
+### Hatsumomo
+
+Text about Hatsumomo
+
+{{monster,frame
+
+## Amazura, Emaciated Terror
+
+*Large Beast, Unaligned*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 12
+**HP**         :: 37 (5d10 + 10)
+**Speed**      :: 20 ft.
+\column
+**Initiative** :: +2 (12)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 17|  +3  |  +3  |
+|Int| 3 | --4  | --4  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 15|  +2  |  +2  |
+|Wis| 12|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +2  |  +2  |
+|Cha| 8 | --1  | --1  |
+
+}}
+
+**Skills**      :: Perception +3, Stealth +6
+**Senses**      :: Darkvision 60 ft., Passive Perception 13
+**CR**          :: 5 (XP ?; PB +2)
+
+}}
+
+### Traits
+
+***Keen Smell.*** Amazura has Advantage on Wisdom (Perception) checks that rely on smell.
+
+### Actions
+
+***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10 + 3) Piercing damage.
+:
+***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) Slashing damage. *Strength Saving Throw:* DC 13, when hit by this attack. *Failure:* The target is knocked Prone.
+
+### Villain Actions
+
+***Dreambleed (Requires Hatsumomo has been killed).*** The dark pigmentation begins to ooze out of Amazura's skin as she becomes a living nightmare. While in this state, her attacks deal an additional 1d4 damage, and the damage of her attacks can be Necrotic. In addition, any creature that starts their turn within 30 feet of Amazura and in line of sight to her must succeed on a DC 15 Wisdom Saving Throw or be Frightened by her until the start of their next turn.
+
+}}
+
+\column
 
 {{#creature,monster,frame
 
@@ -490,7 +869,7 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 :
 ***Tanto*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 5 (1d4 + 3) Piercing damage.
 :
-***Vicious Mockery.*** Hatsumomo talks down to her victim. The target must succeed on a Wisdom Saving Throw or take 1d6 Psychic damage and have Disadvantage on the next attack roll it makes before the end of its next turn.
+***Vicious Mockery.*** Hatsumomo talks down to her victim. *Wisdom Saving Throw:* DC 15, one creature Hatsumomo can see within 60 feet. *Failure:* 3 (1d6) Psychic damage and the target has Disadvantage on the next attack roll it makes before the end of its next turn.
 
 ### Reactions
 
@@ -498,73 +877,18 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 }}
 
-\column
-
-{{monster,frame
-
-## Amazura, Emaciated Terror
-
-*Large Beast, Unaligned*
-
-{{stats
-
-{{vitals
-
-**AC**         :: 12
-**HP**         :: 37 (5d10 + 10)
-**Speed**      :: 20 ft.
-\column
-**Initiative** :: +2 (12)
-
-}}
-
-{{tables
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 17|  +3  |  +3  |
-|Int| 3 | --4  | --4  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15|  +2  |  +2  |
-|Wis| 12|  +1  |  +1  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14|  +2  |  +2  |
-|Cha| 8 | --1  | --1  |
-
-}}
-
-**Skills**      :: Perception +3, Stealth +6
-**Senses**      :: Darkvision 60 ft., Passive Perception 13
-**CR**          :: 5 (XP ?; PB +2)
-
-}}
-
-### Traits
-
-***Keen Smell.*** Amazura has Advantage on Wisdom (Perception) checks that rely on smell.
-
-### Actions
-
-***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10 + 3) Piercing damage.
-:
-***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) Slashing damage, and the target must succeed on a DC 13 Strength Saving Throw or be knocked Prone.
-
-### Villain Actions
-
-***Dreambleed (Requires Hatsumomo has been killed).*** The dark pigmentation begins to ooze out of Amazura's skin as she becomes a living nightmare. While in this state, her attacks deal an additional 1d4 damage, and the damage of her attacks can be Necrotic. In addition, any creature that starts their turn within 30 feet of Amazura and in line of sight to her must succeed on a DC 15 Wisdom Saving Throw or be Frightened by her until the start of their next turn.
-
-}}
-
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
+
+### Daimyō Hidemaro
+
+Text about Hidemaro
+
+:::::::::::
 
 {{monster,wide,frame
 
@@ -578,7 +902,7 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 {{vitals
 
 **AC**         :: 17 (Heavy Armour) <!-- 19 (Extra Heavy Armour) -->
-**HP**         :: 76 (8d10 + 32)
+**HP**         :: 67 (7d10 + 29)
 **Speed**      :: 30 ft.
 \column
 **Initiative** :: +2 (12)
@@ -612,7 +936,7 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 ### Traits
 
-***Kane-tsuki.*** Hidemaro wields a magical Kama Yari called Kane-tsuki. Kane-tsuki is a +1 Kama Yari (included in Hidemaro's attacks). Whenever a creature is hit by an attack with Kane-tsuki, they must succeed on a DC 15 Constitution Saving Throw or be Dazed and Deafened until the end of their next turn. Creatures immune to the Deafened Condition are immune to this effect. This ability can be used only once per turn.
+***Kane-tsuki.*** Hidemaro wields a magical Kama Yari called Kane-tsuki. Kane-tsuki is a +1 Kama Yari (included in Hidemaro's attacks). *Constitution Saving Throw:* DC 15, when hit by Kane-tsuki. *Failure:* The target is Dazed and Deafened until the end of their next turn. Creatures immune to the Deafened Condition are immune to this effect. This ability can be used only once per turn.
 :
 ***Kōyō, Faithful Steed.*** At the start of initiative, Hidemaro summons and mounts his steed, the elk Kōyō. Kōyō is a Large Beast, with 13 AC and a 50 ft. Walk Speed. Hidemaro and Kōyō share Hit Points, but only one of them can take damage from a source at any one time. <!-- Some of Hidemaro's Villain Actions can only be used while mounted. -->
 :
@@ -622,7 +946,7 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 :
 <!-- ***Mounted Combatant.*** While mounted on Kōyō, Hidemaro has Advantage on Attack Rolls against any creature that is within 5 feet of Kōyō and at least one Size smaller than him. 
 : -->
-***Warlord's Wrath (Antagonist Trait, Recharges after a Short or Long Rest).*** If Hidemaro is reduced to 0 Hit Points while Kōyō is still summoned, he doesn't die or fall unconscious. Instead Hidemaro regains all of his Hit Points, removes any Conditions he may be under, and Kōyō disappears into mist. Hidemaro additionally regains any spent uses of Legendary Resistance, and he can use his Antagonist Actions as Villain Actions for 1 hour.
+***Warlord's Wrath (Antagonist Trait, Recharges after a Short or Long Rest).*** If Hidemaro is reduced to 0 Hit Points while Kōyō is still summoned, he doesn't die or fall unconscious. Instead Hidemaro regains all of his Hit Points, removes any Conditions he may be under, and Kōyō disappears into mist. Hidemaro additionally regains any spent uses of Legendary Resistance, and he can use any actions listed as Antagonist Actions for 1 hour.
 
 \column
 
@@ -630,141 +954,17 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 ***Multiattack.*** Hidemaro makes two attacks using Kane-tsuki.
 :
-***Kane-tsuki.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 10 (1d10 + 5) Piercing damage plus 9 (2d8) Radiant damage. If Hidemaro is mounted, the target can be pushed up to 10 feet away from him.
+***Kane-tsuki.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 10 (1d10 + 5) Piercing damage plus 5 (1d8) Radiant damage. If Hidemaro is mounted, the target can be pushed up to 10 feet away from him.
 
 ### Villain Actions
 
-The DC for Hidemaro's Villain Actions that use one is 13.
+***Steel Sweep.*** Hidemaro swings his Yari in front of him violently, empowered by holy energy. *Dexterity Saving Throw:* DC 13, each creature 60-foot cone. *Failure:* 4 (1d8) Radiant damage, and an additional 5 (1d10) Slashing damage if the target is within 10 feet of Hidemaro. *Success:* Half Damage.
 :
-***Steel Sweep.*** Hidemaro swings his Yari in front of him violently, empowered by holy energy. Each creature in a 60-foot cone in front of Hidemaro must make a Dexterity Saving Throw, taking 9 (2d8) Radiant damage on a failed save, or half as much damage on a successful one. Creatures within 10 feet of Hidemaro take an additional 5 (1d10) Slashing damage on a failed save, or half as much on a successful one.
+***Shimmering Leap.*** Kōyō jumps into the air, traveling up to 30 feet without provoking Opportunity Attacks. *Dexterity Saving Throw:* DC 13, each creature along the path of Kōyō's movement. *Failure:* The target shimmers in golden light for 1 minute, causing it to shed dim light in a 10-foot radius and be unable to benefit from the Invisible Condition.
 :
-***Shimmering Leap.*** Kōyō jumps into the air, traveling up to 30 feet without provoking Opportunity Attacks. Creatures in the path of Kōyō's movement must succeed on a Dexterity Saving Throw or they begin to shimmer in golden light for 1 minute. While shimmering in this way a creature sheds dim light in a 10-foot radius and is unable to benefit from the Invisible Condition.
-
-### Antagonist Actions
-
-***Fear The Conquerer.*** Hidemaro terrifies his foes. Each enemy within 30 feet of Hidemaro must succeed on a Wisdom Saving Throw or be Frightened of him for 1 minute. While Frightened in this way, a creature takes 3 (1d6) Psychic damage at the start of each of their turns. If a Frightened target ends its turn more than 30 feet away from Hidemaro, the target can repeat the Saving Throw, ending the effect on itself on a success.
+***Fear The Conquerer. (Antagonist Action)*** Hidemaro terrifies his foes. *Wisdom Saving Throw:* DC 13, each creature within 30 feet. *Failure:* The target is Frightened of Hidemaro for 1 minute. While Frightened in this way, a creature takes 3 (1d6) Psychic damage at the start of each of their turns. If a Frightened target ends its turn more than 30 feet away from Hidemaro, the target can repeat the Saving Throw, ending the effect on itself on a success.
 :
-***Reverberations.*** Hidemaro slams the ground, causing the sound of ringing to echo. Each creature within 30 feet of Hidemaro must make a Constitution Saving Throw. A target takes 18 (4d8) Thunder damage and is Dazed on a failed save, or half as much damage and is not Dazed on a successful one. Creatures immune to the Deafened ability are immune to this effect. A creature Dazed in this way can repeat the Saving Throw at the end of each of their turns, ending the effect on a success.
-
-}}
-
-{{pageNumber,auto}}
-{{footnote PART 1 | THE INFINITE LIBRARY}}
-
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
-
-\page
-
-{{monster,frame
-
-## Guard
-
-*Medium Humanoid, Lawful Neutral*
-
-{{stats
-
-{{vitals
-
-**AC**         :: 15 (Medium Armour)
-**HP**         :: 16 (3d8 + 3)
-**Speed**      :: 30 ft.
-\column
-**Initiative** :: +1 (11)
-
-}}
-
-{{tables
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 13|  +1  |  +1  |
-|Int| 10|  +0  |  +0  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12|  +1  |  +1  |
-|Wis| 11|  +1  |  +1  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12|  +1  |  +1  |
-|Cha| 10|  +0  |  +0  |
-
-}}
-
-**Skills**      :: Perception +2
-**Senses**      :: Passive Perception 12
-**CR**          :: 1/8 (XP 25; PB +2)
-
-}}
-
-### Actions
-
-***Hoko Yari.*** *Melee Weapon Attack:* +3 to hit, reach 10 ft., one target. *Hit:* 4 (1d6 + 1) Piercing damage, or 5 (1d8 + 1) Piercing damage if used with two hands.
-:
-***Jitte.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) Bludgeoning damage.
-
-### Reactions
-
-***Disarm.*** While holding a Jitte, if a Large or smaller creature targets the guard with a Melee Weapon Attack and misses, the guard can use their Reaction to attempt to disarm the attacker. The attacker must succeed on a DC 10 Strength or Dexterity Saving Throw (their choice) or they drop the Weapon used for the attack at a point of the guard's choice within 10 feet of them.
-
-}}
-
-{{monster,frame
-
-## Animated Armor
-
-*Medium Construct, Unaligned*
-
-{{stats
-
-{{vitals
-
-**AC**         :: 17 (Heavy Armour)
-**HP**         :: 33 (6d8 + 6)
-**Speed**      :: 25 ft.
-\column
-**Initiative** :: +0 (10)
-
-}}
-
-{{tables
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 14|  +2  |  +2  |
-|Int| 1 | --5  | --5  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10|  +0  |  +0  |
-|Wis| 3 | --4  | --4  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 13|  +1  |  +1  |
-|Cha| 1 | --5  | --5  |
-
-}}
-
-**Damage Immunities**    :: Poison, Psychic
-**Condition Immunities** :: Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-**Senses**               :: Blindsight 60 ft. (blind beyond this radius), passive Perception 6
-**CR**                   :: 1 (XP 200; PB +2)
-
-}}
-
-### Traits
-
-***Antimagic Susceptibility.*** The armor is incapacitated while in the area of an antimagic field. If targeted by *Dispel Magic*, the armor must succeed on a Constitution saving throw against the caster's Spell Save DC or fall unconscious for 1 minute.
-:
-***False Appearance.*** While the armor remains motionless, it is indistinguishable from a normal suit of armor.
-
-### Actions
-
-***Multiattack.*** The armor makes two melee attacks.
-:
-***Katana.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (2d4 + 2) Slashing damage.
+***Reverberations. (Antagonist Action)*** Hidemaro slams the ground, causing the sound of ringing to echo. *Constitution Saving Throw:* DC 13, each creature within 30feet. *Failure:* 18 (4d8) Thunder damage and the target is Dazed. A creature Dazed in this way can repeat the Saving Throw at the end of each of their turns, ending the effect on a success. *Success:* Half Damage. Creatures immune to the Deafened ability are immune to this effect.
 
 }}
 
@@ -775,10 +975,247 @@ The DC for Hidemaro's Villain Actions that use one is 13.
 
 \page
 
+## Genji and Okamoto
+
+Text about them
+
+{{monster,frame
+
+## Crab Minion
+
+*Tiny Beast, Unaligned*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 13 (Natural Armor)
+**HP**         :: 5 (2d4 + 1)
+**Speed**      :: 20 ft., Swim 20 ft.
+\column
+**Initiative** :: +4 (14)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 6 | --2  | --2  |
+|Int| 1 | --5  | --5  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12|  +1  |  +1  |
+|Wis| 8 |  -1  |  -1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12|  +1  |  +1  |
+|Cha| 2 | --4  | --4  |
+
+}}
+
+**CR**                   :: 1/8 (XP 5; PB +2)
+
+}}
+
+### Traits
+
+***Amphibious.*** The crab can breath air and water.
+:
+***Minion.*** If the crab takes damage from an attack or as the result of a failed saving throw, their hit points are reduced to 0. If the crab takes damage from another effect, they die if the damage equals or exceeds their hit point maximum; otherwise they take no damage.
+
+### Actions
+
+***Pinch (Group Attack).*** *Melee Weapon Attack:* +3 to hit, reach 50 ft., one target. *Hit:* 1 Piercing damage.
+
+}}
+
+\column
+
+{{monster,frame
+
+## Genji, Crab Rider
+
+*Medium Humanoid (Bunagaya), Chaotic Evil*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 16 (???)
+**HP**         :: 130 (20d8 + 40)
+**Speed**      :: 40 ft., Climb 40 ft., Swim 40 ft.
+\column
+**Initiative** :: +4 (14)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 15|  +2  |  +5  |
+|Int| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 18|  +4  |  +7  |
+|Wis| 16|  +3  |  +3  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +2  |  +2  |
+|Cha| 10|  +0  |  +0  |
+
+}}
+
+**Damage Immunities**    :: Poison, Psychic
+**Senses**               :: passive Perception 13
+**CR**                   :: 6 (XP 2,300; PB +3)
+
+}}
+
+### Actions
+
+***Multiattack.*** Genji makes two attacks.
+:
+***Daikyū.*** *Ranged Weapon Attack:* +7 to hit, range 80/320 ft., one target. *Hit:* 11 (1d8 + 7) Piercing damage. **Graze.** If the attack misses, Genji still deals 4 damage to the target.
+:
+***Tantō.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 5 (1d4 + 7) Piercing damage.
+
+### Bonus Actions
+
+***Hunter's Mark.*** Genji marks a creature he can see within 60 feet of him, ending any marks Genji has on other creatures. When Genji or one of his crabs hits the marked target with an attack, the target takes an additional 7 (2d6) damage
+
+### Reactions
+
+***Crab Rave.*** In Reaction to hitting a creature with an attack from his Daikyū, Genji can summon 4 Crab Minions surrounding the target, which immediately attack them. They act on Genji's initiative.
+
+}}
+
+::::::
+
+{{#small-text-table,classTable,frame,wide
+
+##### Okamoto Behaviours
+
+| Behaviour      | Trigger               | Effect |
+|:--------------:|:----------------------|:-------|
+| Rampage        | Okamoto's Chaos Threshold is reduced to 0, or Genji has been subdued or killed. | **Effect.** Okamoto aggressively targets the party.</br>**Gained Features.** Body Slam Villain Action.</br>**Lost Features.** Burrow Speed. |
+| Lonely         | Genji is separated from Okamoto. | **Effect.** Okamoto tries to protect Genji.</br>**Gained Features.** Unburrow Villain Action |
+| Blinded         | Okamoto's Eyestalks area is exploited. | **Effect.** Okamoto goes blind, and must see using Blindsight. |
+| Death Throws   | Okamoto has three exploited vulnerable areas. | **Effect.** Okamoto's shell splits, reducing his AC by 5.</br>**Finishing Blow.** Okamoto is destroyed when it takes damage equal to its Finishing Blow in a single turn |
+
+}}
+
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
 ![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+{{monster,wide,frame
+
+## Okamoto, Giant Enemy Crab
+
+*Huge Beast, Unaligned*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 17 (Natural Armour)
+**Chaos Threshold**         :: 30
+\column
+**Initiative** :: +2 (12)
+**Finishing Blow**         :: 20
+
+}}
+
+**Speed**      :: 30 ft., Burrow 30 ft., Swim 30 ft.
+**Vulnerable Area Identification**      :: DC 13
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 20|  +5  |  +5  |
+|Int| 1 | --5  | --5  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 15|  +2  |  +2  |
+|Wis| 9 | --1  | --1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 20|  +5  |  +9  |
+|Cha| 3 | --4  | --4  |
+
+}}
+
+**Skills**               :: Stealth +6
+**Senses**               :: Blindsight 30 ft., passive Perception 9
+**CR**                   :: 10 (XP ?; PB +4)
+
+}}
+
+### Traits
+
+***Amphibious.*** Okamoto can breath air and water.
+:
+***Close to the Ground.*** Medium creatures can move under Okamoto while Prone, but cannot move through him otherwise.
+:
+***Crusher.*** A creature that starts its turn grappled by Okamoto takes 10 Bludgeoning damage.
+:
+***Kaiju Fortitude.*** Okamoto is immune to any spell or effect that would alter its form or move it to another plane of existence against its will.
+:
+***Legendary Resistance (1/Day).*** If Okamoto fails a Saving Throw, it can choose to succeed instead.
+:
+***Shell Camouflage.*** While the crab remains motionless with its eyestalks and pincers tucked close to its body, it hides within the sand. A creature within 30 feet of it can discern its true nature with a successful DC 15 Intelligence (Nature) check.
+
+\column
+
+### Actions
+
+***Multiattack.*** Okamoto makes two attacks, each with a different limb.
+:
+***Big Meaty Claw.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 22 (3d10 + 6) Bludgeoning damage, and the target is Grappled (Escape DC 17). This claw can only grapple up to one creature at a time. If the target of this attack is already grappled by this claw, the attack is made at Advantage.
+:
+***Slightly Smaller Claw.*** *Melee Weapon Attack:* +0 to hit, reach 10 ft., one target. *Hit:* 19 (3d8 + 5) Bludgeoning damage, and the target is Grappled (Escape DC 16). This claw can only grapple up to one creature at a time. If the target of this attack is already grappled by this claw, the attack is made at Advantage.
+:
+**Itty Bitty Claws.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (3d6 + 2) Bludgeoning damage.
+
+### Villain Actions
+
+**Unburrow (While Lonely).** Okamoto enters the sand, travels up to 30 feet in a straight line, and then erupts out. *Dexterity Saving Throw:* DC 17, each creature within Okatomo's spaces after unburrowing. *Failure:* 21 (6d6) Bludgeoning damage and the target lands Prone in a nearby space. *Success:* The target can choose to land safely either on Okamoto's shell or in a nearby space.
+:
+**Body Slam (While Rampaging).** Okamoto raises up onto his hind legs and slams onto the ground. *Strength Saving Throw:* DC 19, each creature within 30 feet. *Failure:* 42 (12d6) Bludgeoning damage and the target is Dazed and is knocked Prone. *Success:* Half Damage. Medium creatures directly front of Okamoto are knocked Prone on a success or fail as they are forced underneath him. Creatures on Okamoto's back fall off of him when he uses this Action.
+
+}}
+
+:
+
+{{#small-text-table,classTable,frame,wide
+
+##### Okamoto Vulnerable Areas
+
+| Vulnerable Area       | Special Traits | AC | HP |
+|:---------------------:|:---------------|:--:|:--:|
+| Big Meaty Claw        | **Targeting.** The Big Meaty Claw can be targeted as normal.</br>**Exploitation.** Okamoto lets go of any creature grappled by the claw, can no longer Grapple with the claw, and makes attacks with the claw at disadvantage. | 17 | 55 |
+| Slightly Smaller Claw | **Targeting.** The Big Meaty Claw can be targeted as normal.</br>**Exploitation.** Okamoto lets go of any creature grappled by the claw, can no longer Grapple with the claw, and makes attacks with the claw at disadvantage. | 17 | 45 |
+| Eyestalks             | Okamoto's two Eyestalks share a pool of Hit Points. When the vulnerable area is reduced to half its Hit Points or fewer, one eyestalk is destroyed. If an eyestalk takes any amount of Slashing damage, it is destroyed.</br>**Targeting.** Okamoto's Eyestalks can be targeted as normal.</br>**Exploitation.** Okamoto goes blind, and must see using Blindsight.       | 20 | 30 |
+| Soft Underbelly       | **Targeting.** The Soft Underbelly vulnerable area can only be targeted by creatures underneath Okamoto, or while Okamoto is Prone.</br>**Exploitation.** Okamoto collapses, becoming permanently Prone. | 13 | 30 |
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -801,7 +1238,7 @@ The DC for Hidemaro's Villain Actions that use one is 13.
 {{pageNumber,auto}}
 {{footnote PART 2 | THE LIVING LORE}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
@@ -834,10 +1271,10 @@ Haruto Kenzo."
 {{pageNumber,auto}}
 {{footnote PART 2 | THE LIVING LORE}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
 {{frontCover}}
 
-![background image](https://i.ibb.co/FWrB1Cm/Sumiriku-DMBack-Cover7.png){position:absolute,bottom:0,left:0,height:100.5%}
+![background image](https://i.imgur.com/0EKIQqi.jpeg){position:absolute,bottom:0,left:0,height:100.5%}

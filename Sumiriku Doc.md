@@ -1,6 +1,6 @@
 {{frontCover}}
 
-![cover](https://i.ibb.co/wgqY341/Sumiriku-Cover6.png){position:absolute,bottom:0,left:0,height:100.5%}
+![cover](https://i.imgur.com/f0DTPJN.jpeg){position:absolute,bottom:0,left:0,height:100.5%}
 
 \page
 
@@ -577,7 +577,7 @@ Creatures that come from one of these realms are chaotic beings that reflect and
 
 # Zodiac and the Creation Myth
 
-![zodiac](https://i.imgur.com/KtiZaV1.png) {width:525px,position:absolute;left:50%;transform:translateX(-50%)}
+![zodiac](https://i.imgur.com/r2X5mqw.png) {width:525px,position:absolute;left:50%;transform:translateX(-50%)}
 
 {{position:absolute,top:565px,left:550px,margin-bottom:-30px,align:right
 
@@ -732,17 +732,19 @@ The Akegata Jidai is the first era as it begins at the earliest moment in all of
 
 After Yōzanagi-sama and Inzanami-sama had been placed as the highest Myōjin, the world began to flourish under their care. Together they brought life and death to the world, encouraged the presence of the great and mystical Kami, and grew all the creatures and peoples who dwelled within. They also brought up many new Myōjin to join their pantheon in Kumonoue, including their children, Netsu-sama and Mikazuki-sama. They, with the rest of their pantheon, often shared the land with their creations, descending into the world on Niji-no-Ukihashi, the Floating Rainbow Bridge; they came to share their knowledge and skills, as well as to protect Sumiriku, leading the people against supernatural threats that sought to pray on the fledgling world. After them they left the Relics of Kumonoue, items among Sumiriku's Sacred Treasures.
 
-After their creation, the many peoples of the world grew into their own, with the guidance and tutelage of their Myōjin creators. Starting from humble beginnings, the Kami helped teach the peoples ways both to survive and to thrive. They learned to hunt, to farm, to build homes, and to fight, but also to create art, pottery, and music - and through all of this was their reverence for the Kami shown. By the end of this era the peoples of Sumiriku had grown into disparate societies and clans, similar to those that we know today.
+After their creation, the many peoples of the world grew into their own, with the guidance and tutelage of their Myōjin creators. Starting from humble beginnings, the Kami helped teach the peoples ways both to survive and to thrive. They learned to hunt, to farm, to build homes, and to fight, but also to create art, pottery, and music - and through all of this was their reverence for the Kami shown. Though peril was a constant of the world, the threat of the world being dragged back into nothingness being ever present, the peoples, assisted by all the divine powers, learned to stand tall and fight for their existence. By the end of this era the peoples of Sumiriku had grown into disparate societies and clans, similar to those that we know today.
 
-Before the end of the Kaika Jidai, Yōzanagi-sama and Inzanami-sama decided that their role as the elders of the Myōjin, and so they decided to depart Kumonoue and go their separate ways; Inzanami-sama traveled to Yomi to become its guardian, and Yōzanagi-sama is believed to now stay in a humble home in Kimyōkai. They left the world in the care of their children and the rest of the pantheon, not anticipating the threat that would come to the world without them...
+Before the end of the Kaika Jidai, Yōzanagi-sama and Inzanami-sama decided that their role as the elders of the Myōjin, and so they decided to depart Kumonoue and go their separate ways; Inzanami-sama traveled to Yomi to become its guardian, and Yōzanagi-sama is believed to now stay in a humble home in Kimyōkai. They left the world in the care of their children and the rest of the pantheon, not anticipating the growing threat that would come to the world without them...
 
 <!-- TODO - ADD MENTION OF REGALIA EVENTS - WORLD NEEDED DEFENDING BY MYOJIN -->
 
 #### The Starlight Regalia
 
-- Starlight Regalia Blade, Kūshokiri (空所切, 'Void Cutter')
+During this era treasures were gifted to the world, treasures that would go on to be known as two parts of the Starlight Regalia. These are the most important of Sumiriku's treasures, and the only known earthly connection to the starlight realm of Hoshikuzuten; these treasures were directly sent by the Ō-Hoshikuzushin to protect the world in moments of calamity. Upcoming are stories of these items, and the people who were granted their blessing.
+
+<!-- Starlight Regalia Blade, Kūshokiri (空所切, 'Void Cutter')
 - Starlight Regalia Mirror, Tasogare-no-Kagami (黄昏の鏡, 'Mirror of Twilight')
-- Starlight Regalia Magatama, Ryūsei-Namida (流星涙, 'Meteor Tear')
+- Starlight Regalia Magatama, Ryūsei-Namida (流星涙, 'Meteor Tear') -->
 
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
@@ -753,24 +755,38 @@ Before the end of the Kaika Jidai, Yōzanagi-sama and Inzanami-sama decided that
 
 #### The Tale of the Blood War
 
-{{comment18,signature,bottom:910px,left:60px
+<!-- {{comment18,signature,bottom:910px,left:60px
 
 "Every being in Sumiriku is a storyteller, each family has a tale passed through generations. What matters not is which stories we choose to share, but that we tell them at all."
 :
 
 — Reki, Lorekeeper
 
-<!-- TODO - INCORPORATE TEXT INTO TALES, REMoVE COOL FONT -->
+<!-- TODO - INCORPORATE TEXT INTO TALES, REMoVE COOL FONT
 
 }}
 
-::::::::
+:::::::: -->
+
+The following is a passage from "The History of Kamigawa", a collection of tales collated by the Living Lorekeepers:
 
 {{quote
 
-Despite all the blessings of the Kaika Jidai, it was still a time of peril. The world was still adolescent, not yet fully formed out of chaos, and it was from this chaos that dangers arose. The greatest of these dangers were the Oni, infernal beings of malevolence and destruction, born of the hatred in people's minds. These unhallowed beings, horned, three-eyed, and fork-tongued, festered under the earth in the realm now known as Makoku, the place where fear and anger would manifest. From within their dark home they grew a deep resentment for the realm of the living, our home of Utsushiyo, and its parallel spiritual world, as the Oni in their depths were unable to receive the blessing of the suns and the stars. As this resentment grew, so to did a desire.
+At this time the world was still adolescent, not yet fully formed out of chaotic nothingness. It was from this chaos that dangers to the world arose, threats that oft wished to return existence to the darkness from whence it came. These threats came in many forms, from natural to supernatural. Our ancestors, though talented in their own right and perhaps more spiritually attuned than we are, relied on the talents of the Kami to protect themselves.
 
-On one fateful day the Oni shattered the thin barrier between the realms and arrived in Utsushiyo, starting the conflict known as the Blood War. The aim of their quest was to feast on spirits, to gorge themselves on the lifeblood of people and Kami alike. The Oni first arrived as a chaotic swarm, thought they quickly organised; lesser Oni following the leadership of their commanders and lords, such as the most fearsome Daimyō Asudeu (アスデウ).
+On one fateful day the the greatest of these dangers revealed themselves - the Oni. An Oni is an infernal beings of malevolence and destruction, horned, three-eyed, and fork-tongued. These creatures manifested from fear and anger in the realm of Makoku, to festering within the earth. Being trapped in a land without sky, unable to be blessed by the suns and the stars, caused these Oni to grow a deep resentment for our home and our parallel spiritual world. As this resentment grew, so did a desire, and so did a plan.
+
+The Blood War began the moment the Oni shattered the barrier between realms. No longer were we safe, safely separated from danger; the Oni were here, and they were coming. Using their dark magic they blotted out the sky, protecting them from the radiance of the twin suns and forcing the world into endless night. Their aim was to feast on spirits, to gorge themselves on our and the Kami's lifeblood alike. The Oni came as a chaotic swarm, but quickly organised; lesser Oni started to follow the leadership of commanders and lords, such as the fearsome Daimyō Asudeu (アスデウ).
+
+There are many stories to tell about the survivors of this horrific moment, but I shall recount just one. At this time there was Kitsune woman named Tomomi, a mother who lived in Ochinodojima, near Heain-kyō.
+
+During this time of great need, the desperation of the people was taken notice by the world's progenitors, the Ō-Hoshikuzushin
+
+}}
+
+\column
+
+{{#quotation,quote
 
 It took the combined might of Sumiriku's peoples, Kami, and Myōjin, along with the power of their Relics of Kumonoue, to force back the Oni on all fronts. This defence was led by Netsu-sama, who was able to cut down legions by himself, with his sacred blade Hakō. Once the force of the Oni had been sufficiently diminished the Myōjin were able to combine their divine power to seal them back within Makoku, ending the war for good. Thus is the tale of the Blood War.
 
@@ -1068,7 +1084,7 @@ As a Tsukibito, you gain these special traits:
 | Lineage  | 1st-Level Feature                                     | 5th-Level Feature                                          |
 |:---------|:------------------------------------------------------|:-----------------------------------------------------------|
 | Soratami | You can float about 1 foot above the ground, as long as you are above solid ground or the surface of a calm liquid. Your Floating Speed is equal to your Speed. You can float anywhere you could normally walk, and you ignore ground-based Difficult Terrain while floating. If you suffer a Condition that reduces your Speed to 0 or you gain the Prone Condition, you stop floating and begin to fall. | As a Reaction to falling, you can slow your rate of descent to 60 feet per round. This slow fall lasts for up to 1 minute. If you land while falling at this decreased rate you take no fall damage and begin floating above the ground. You must be able to float to use this feature. |
-| Moritami | As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be standing on or touching earth, dirt, or foliage to use this Tremorsense. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. | You can spend 10 minutes surveying the ground around you to sense past travellers in the area. You get to know how many creatures have passed through here in the past day, what creature types they are, which directions they have travelled, and who was here most recently. You can also learn of the local geography, such as terrain, bodies of water, and local flora and fauna. This feature doesn't work in man-made spaces such as buildings, roads, and cities. Once you use this feature you must take a Long Rest before you can use it again. |
+| Moritami | As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be standing on or touching earth, dirt, or foliage to use this Tremorsense. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. | You can spend 10 minutes surveying the ground around you to sense past travellers in the area. You get to know how many creatures have passed through here in the past day, what creature types they are, which directions they have travelled, and who was here most recently. You can also learn of the local geography, such as terrain, bodies of water, and local flora and fauna. This feature doesn't work in man-made spaces such as buildings, roads, and cities. Once you use this feature, you must finish a Long Rest before you can use it again. |
 | Maigomin | The range of your Darkvision increases to 120 feet. | You gain Advantage on Wisdom (Perception) checks that rely on sight while in dim light or darkness and you can make out details of even extremely distant creatures and objects as small as 2 feet across. |
 
 }}
@@ -1581,7 +1597,7 @@ You also gain the Obake (Shapechanger) creature type.
 
 ***Morphing Appearance.*** While in your regular form, your appearance is a hybrid between that of a human and of a fox. As an Action you can adjust your features, changing from being more human-like, to being more fox-like, or something in between. Your human and fox forms have their own unique appearance, and you cannot use this feature to disguise as someone else. You can also use this feature to show or hide your tails. To discern that you are not actually human, a creature can use its Action to inspect your appearance and must succeed on an Intelligence (Investigation) check with a DC of 8 + your Charisma modifier + your Proficiency Bonus.
 
-***Majestic Tails.*** At 4th level you grow a second tail, signifying your personal growth and enlightenment. At every second level from then, you grow another tail, to a maximum of 9. As a Reaction to yourself failing a d20 Test, you can add a bonus to your roll equal to the number of tails you have, potentially changing the result from a fail to a success. Once you use this feature you must take a Short or Long Rest before you can use it again. When you grow your 9th tail, you also gain the Kami (Celestial) creature type.
+***Majestic Tails.*** At 4th level you grow a second tail, signifying your personal growth and enlightenment. At every second level from then, you grow another tail, to a maximum of 9. As a Reaction to yourself failing a d20 Test, you can add a bonus to your roll equal to the number of tails you have, potentially changing the result from a fail to a success. Once you use this feature, you must finish a Short Rest or Long Rest before you can use it again. When you grow your 9th tail, you also gain the Kami (Celestial) creature type.
 
 ***Divine Messenger.*** You know the *Dancing Lights* and *Message* cantrips. You can cast these while in your Animal form. When you use the *Dancing Lights* cantrip from this feature, they have the appearance of floating flames called Kitsunebi.
 
@@ -2322,14 +2338,14 @@ The intersection of skills between Barbarians and Monks are Sumōtori (相撲取
 </br>
 Those who walk the Path of the Kaijū are living proof of the existence of Sumiriku's most destructive creatures. Though it is unknown how they forged this bond with beings of myth, in their veins flows the same blood as these mysterious titans of destruction, wrath, and carnage. Rumours still swirl about the Kaijū's status, their power, and their intentions, but one trait is agreed upon; their driving force is rage.
 
-{{#default-table,classTable
+{{#subclass-table,classTable
 
 | Alt. Barbarian Level | Feature                      |
 |:---------------------|:-----------------------------|
 | 3rd                  | Rip and Tear, Kaijū Exploits |
 | 6th                  | Titan's Slumber |
 | 10th                 | Anti-Magic Scales |
-| 14th                 | ??? |
+| 14th                 | Alpha and Omega |
 
 }}
 
@@ -2339,7 +2355,7 @@ Those who walk the Path of the Kaijū are living proof of the existence of Sumir
 </br>
 You have grown the weapons of the Kaijū, vicious claws and a barbed tail. Your Unarmed Strikes deal Bludgeoning or Slashing damage, your choice, equal to one roll of your Exploit Die + your Strength Modifier. <!-- Should these be natural weapons??? -->
 
-As a Bonus Action you can swing your tail around to trip your foes. As a Bonus Action you can force all creatures your size or smaller within 5 feet of you to make a Strength Saving Throw against your Exploit Save DC. Each creature that fails takes damage equal to one roll of your Exploit Die and is knocked Prone.
+As a Bonus Action you can swing your tail around to trip your foes, forcing all creatures your size or smaller within 5 feet of you to make a Strength Saving Throw against your Exploit Save DC. Each creature that fails takes Bludgeoning damage equal to one roll of your Exploit Die and is knocked Prone.
 
 #### Kaijū Exploits
 
@@ -2347,15 +2363,18 @@ As a Bonus Action you can swing your tail around to trip your foes. As a Bonus A
 </br>
 You learn certain Exploits at the Alternate Barbarian levels in the table below. These don't count against your number of Exploits Known and can't be switched upon gaining a level.
 
-{{#default-table,classTable
+{{#subclass-table,classTable
 
 | Alt. Barbarian Level | Exploit                            |
 |:---------------------|:-----------------------------------|
-| 3rd                  | ??? |
-| 5th                  | ??? |
-| 9th                  | ??? |
+| 3rd                  | *Crushing Grip, Trampling Rush*    |
+| 5th                  | *Greater Hurl, Menacing Shout*     |
+| 9th                  | *Destructive Slam*  |
+<!-- | 9th                  | Destructive Slam, Roar of Triumph  | -->
 
 }}
+
+:
 
 #### Titan's Slumber
 
@@ -2363,29 +2382,31 @@ You learn certain Exploits at the Alternate Barbarian levels in the table below.
 </br>
 While you rest your power grows; those that disrupt this hibernation should beware. When you complete a Long Rest, you gain Temporary Hit Points equal to your Constitution Modifier + your level. While you have these Temporary Hit Points, your Unarmored Defense increased to 13 + your Dexterity Modifier + your Constitution modifier, as your armoured scales build themselves around you.
 
-In addition, you are quick to strike from your slumber. You are able to make passive Wisdom (Perception) checks to listen for threats while Sleeping, you cannot have Disadvantage on your Initiative rolls while Sleeping, and if you enter a combat while resting you are able to begin the combat by entering your Rage, before any other creatures get the chance to act.
+\column
+
+{{imageMaskCorner16,--offsetX:57%,--offsetY:38%,--rotation:0
+  ![waves](https://i.imgur.com/xWqkAcd.jpeg){position:aboslute,top:-50px,right:-160px,height:70%,transform:scaleX(1),filter:opacity(66%)}
+}}
+
+![godzillaman-shadow](https://i.imgur.com/UXS6ohJ.png) {position:absolute,top:220px,right:-210px,width:435px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.2)skewX(-25deg),mix-blend-mode:multiply}
+
+![godzillaman](https://i.imgur.com/UXS6ohJ.png) {position:absolute,right:-80px,top:30px,width:435px,margin-bottom:-25px,filter:brightness(95%),opacity:100%,mix-blend-mode:normal,transform:scaleX(1)}
+
+{{position:absolute,top:400px,right:300px,margin-bottom:-30px,text-align:right
+
+##### A Barbarian </br> with Kaiju </br> blood
+
+}}
+
+:::::::::::::::::::::::::::::::::::::::::
+
+&nbsp;In addition, you are quick to strike from your slumber. You are able to make passive Wisdom (Perception) checks to listen for threats while Sleeping, you cannot have Disadvantage on your Initiative rolls while resting, and if you enter a combat while resting you are able to begin the combat by entering your Rage, before any other creatures get the chance to act.
 
 #### Anti-Magic Scales
 
 *10th level Path of the Kaijū feature*
 </br>
 Your carapace armour has developed a protection against magical threats. While Raging, if you are targeted by a *Magic Missile* spell, a line spell, or a spell that requires a Ranged Attack Roll, you may use your Reaction to make a Constitution Saving Throw against the caster's Spell Save DC. If you succeed the spell has no effect against you. If you roll a 20 on the Saving Throw, you are unaffected and and the effect is reflected back at the caster as though it originated from you, turning the caster into the target.
-
-#### Nuclear Breath / Arcane Eruption?
-
-*14th level Path of the Kaijū feature*
-</br>
-???
-
-:
-
-{{note
-
-##### Note: Adapting to 2024 D&D Barbarian
-
-test
-
-}}
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -2394,72 +2415,39 @@ test
 
 \page
 
-### Path of the Brute
+#### Alpha and Omega
 
-While most Barbarians hail from the wild places of the world, Brutes discovered their Rage in the underbelly of civilization. Their abilities stem from a combination of street smarts and pure grit. All those who follow this Path share one thing in common, they prefer to solve their problems with their fists.
-
-#### The Wrong Crowd
-
-*3rd-level Path of the Brute feature*
+*14th level Path of the Kaijū feature*
 </br>
-You have a way of falling in with the roughest crowd in any town you find yourself in. When you spend a night carousing in a settlement of any size, you have Advantage on all ability checks to gather information on that settlement, its culture, factions, and any important, infamous, or influential figures.
+You have become the pure embodiment of gigantic, destructive power. When you enter a Rage, you can choose to titanically empower your rage. When you do so, you grow to Huge if you were not already, and you gain Temporary Hit Points as if you used your *Titan's Slumber* feature. While your Rage persists, your Speed increases to 50 feet, you cannot be moved, knocked Prone, or have your Speed reduced against your will, and your Unarmed Strikes deal additional damage equal to one roll of your Exploit Die. At the end of this Rage you return to your original size. Once you use this feature, you must finish a Long Rest before you can use it again.
 
-#### Brutish Exploits
+While in this empowered Rage, you use your Bonus Action to end it early, letting out a beam of suppressed energy from inside you. Every creature in a 100 foot long and 10 foot wide line must make a Dexterity Saving Throw against your Exploit Save DC. On a failed save, a creature takes Fire, Force, or Radiant damage (your choice) equal to 5 rolls of your Exploit Die and is Dazed. On a successful save, a creature takes half as much damage and is not Dazed.
 
-*3rd-level Path of the Brute feature*
-</br>
-You learn certain Exploits at the Barbarian levels in the table below. These don't count against your number of Exploits Known and can't be switched upon gaining a level.
+:
 
-{{#default-table,classTable
+{{note
 
-| Alt. Barbarian Level | Exploit                            |
-|:---------------------|:-----------------------------------|
-| 3rd                  | commanding presence, crushing grip |
-| 5th                  | concussive blow, greater hurl      |
-| 9th                  | confounding critical               |
+##### Note: Adapting to 2024 D&D Barbarian
+
+To adapt this subclass to fuction with the 2024 D&D Barbarian, change the following:
+
+- You no longer have the *Kaijū Exploits* feature.
+- Any ability that requires an Exploit Save DC instead has a DC that equals 8 + your proficiency bonus + your Strength modifier.
+- Any ability that uses an Exploit Die instead replaces that die with 1d8.
 
 }}
 
-#### Unarmed & Dangerous
+:
 
-*3rd-level Path of the Brute feature*
-</br>
-Your body is a deadly weapon. Your Unarmed Strikes deal Bludgeoning damage equal to one roll of your Exploit Die.
+{{note
 
-In addition, whenever you take the Attack Action while you are Raging and you make only Unarmed Strikes, grapples, or shove attacks, you can make one additional unarmed strike, grapple, or shove attack as a Bonus Action on that turn.
+##### Note: Where are the Artificers?
 
-#### Brutal Strikes
+Artificer as a Class is not presented here, as it is not assumed to be available within the setting of Sumiriku; their inventor archetype does not fit well within the pre-industrial setting. Talk with your DM if you wish to play as an Artificer, to create a character concept that would fit within Sumiriku.
 
-*6th-level Path of the Brute feature*
-</br>
-While Raging, your Unarmed Strikes count as magical for the purposes of overcoming resistance to nonmagical attacks.
+}}
 
-Also, when you hit a creature with an unarmed strike, you can use concussive blow without expending an Exploit Die.
-
-You can use concussive blow in this way a number of times equal to your Constitution modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
-
-#### Iron Grip
-
-*10th-level Path of the Brute feature*
-</br>
-Once you have a hold of something it is nearly impossible for it to escape. While you are Raging, you can grapple creatures up to two sizes larger than you, and your speed is no longer halved when you are dragging a grappled creature.
-
-You also gain a climb speed equal to your speed.
-
-#### Brutish Determination
-
-*14th-level Path of the Brute feature*
-</br>
-You can shrug off physical blows that would devastate lesser warriors. When you make a Strength, Dexterity, Constitution, or Death Saving Throw, you roll a d4 and add it to your roll.
-
-Should you roll a 20 or higher on a Death Saving Throw, you instantly regain consciousness and stand up with 1 hit point.
-
-{{pageNumber,auto}}
-{{footnote PART 2 | CHARACTER OPTIONS}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
-
-\page
+\column
 
 ## Bard
 
@@ -2475,11 +2463,11 @@ In the Equipment section later in this part is a list of instruments specific to
 
 }}
 
-{{imageMaskCorner20,--offsetX:47%,--offsetY:56%,--rotation:0
-  ![shamisen](https://i.imgur.com/X7WZbjd.png){position:aboslute,top:-250px,right:-140px,height:70%,transform:scaleX(1)}
+{{imageMaskCorner20,--offsetX:47%,--offsetY:-42%,--rotation:0
+  ![shamisen](https://i.imgur.com/X7WZbjd.png){position:aboslute,bottom:-1px,right:-140px,height:70%,transform:scaleX(1)}
 }}
 
-{{position:absolute,top:420px,right:320px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:1020px,right:385px,margin-bottom:-30px,text-align:right
 
 ##### A Shamisen </br>player
 
@@ -2488,7 +2476,7 @@ In the Equipment section later in this part is a list of instruments specific to
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -2496,9 +2484,9 @@ In the Equipment section later in this part is a list of instruments specific to
 
 *Bard Subclass*
 </br>
-The name Sumiriku translates to 'Land of Ink', in reference to the cosmic ink used by the Ō-Hoshikuzushin to draw the islands' shores. Brushwork on canvas, in all its many forms, has always been a sacred and greatly appreciated art, from the elite classes to the common folk. Those that learn of the College of Ink turn their talent with the brush to pure, artistic magic.
+The name Sumiriku translates to 'Land of Ink', in reference to the cosmic ink used by the </br>Ō-Hoshikuzushin to draw the islands' shores. Brushwork on canvas, in all its many forms, has always been a sacred and greatly appreciated art, from the elite classes to the common folk. Those that learn of the College of Ink turn their talent with the brush to pure, artistic magic.
 
-{{#default-table,classTable
+{{#subclass-table,classTable
 
 | Bard Level | Feature                      |
 |:-----------|:-----------------------------|
@@ -2508,11 +2496,23 @@ The name Sumiriku translates to 'Land of Ink', in reference to the cosmic ink us
 
 }}
 
-#### Casting with a Brush
+#### Professional Specialisation
 
 *3rd level College of Ink feature*
 </br>
-Painter's Supplies / Calligrapher's Supplies???
+You are able to choose the medium of your artistry and your magic. Choose either Painting or Writing, to be your medium of choice. If you choose Painting, you gain Painter's Supplies. If you choose Writing, you gain Calligrapher's Supplies. Either way, you gain Proficiency in the tool you gained and can use that type of tool as a Spellcasting Focus.
+
+#### Brushstroke Magic
+
+*3rd level College of Ink feature*
+</br>
+The ink of your brush enhances your spellcasting. When you use your medium's tool to cast a spell, you can replace the Verbal components that spell may have with writing or drawing with your brush.
+
+In addition, if you target a creature with a spell, you can expend one use of your Bardic Inspiration to create an Ink Path between yourself and the creature that lasts for 1 minute. If your medium is Writing, the path is Difficult Terrain, and every creature other than you in contact with the path when it appears must make a Dexterity Saving Throw against your
+
+\column
+
+Spell Save DC or fall Prone. If your medium is Painting, creatures can travel 10 feet along the path only using 5 feet of movement, and any creature in contact with the path when it appears gains 1d6 temporary hit points. If you have already made an Ink Path, it disappears when you make a new one.
 
 #### ???
 
@@ -2526,16 +2526,24 @@ Painter's Supplies / Calligrapher's Supplies???
 </br>
 ???
 
+{{position:absolute,top:780px,left:450px,margin-bottom:-30px,align:right
+
+##### A Master Ink Painter
+
+}}
+
+{{imageMaskEdge8,--offset:34%,--rotation:0
+  ![ink](https://i.imgur.com/6OpYszC.jpeg){position:aboslute,bottom:-120px,left:-120px,width:130%}
+}}
+
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-\column
-
-{{imageMaskCorner20,--offsetX:-47.5%,--offsetY:-42.5%,--rotation:0
+{{imageMaskCorner27,--offsetX:-50%,--offsetY:-46%,--rotation:0
   ![yokai-hunter](https://i.hireillo.com/wp-content/uploads/2023/03/22231049/yokai-hunter-v1-rgb-699x1080.jpg){position:absolute,left:-120px,bottom:-50px,height:75%,transform:scaleX(-1)}
 }}
 
@@ -2546,36 +2554,19 @@ Painter's Supplies / Calligrapher's Supplies???
 
 }}
 
-:::::::::::::::::::::::::::::
-
 ## Blood Hunter
 
 In the shadowy corners of the world there exist a select few, who have taken a most dark and solemn vow: to be the unseen shield against threats unimaginable. Those who take this vow brand themselves with the power of blood magic, a power they use to thwart their foes at the cost of their own life force. Yōkai deceivers, demonic Oni, vengeful spirits, aberrations from beyond space; if the marked ones are successful then the world at large will never even learn of these dangers. Becoming one of these hunters is often a family tradition, the mark of the vow passed from parent to child, but there are also those who find their way into this mysterious life. Those who follow this path often wander the land alone tracking their prey, or they may walk amongst regular folk in major towns and cities, keeping their secret existence close to their chest. It is believed by some that organisations of these hunters exist in some of the larger settlements, and they share their knowledge and skills under cover of darkness.
 
-:
+\column
 
-{{note
-
-##### Note: Where are the Artificers?
-
-Artificer as a Class is not presented here, as it is not assumed to be available within the setting of Sumiriku; their inventor archetype does not fit well within the pre-industrial setting. Speak with your DM if you wish to play as an Artificer, to create a character concept that would fit within Sumiriku.
-
-}}
-
-{{pageNumber,auto}}
-{{footnote PART 2 | CHARACTER OPTIONS}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
-
-\page
-
-### Order of the Shiftstalkers ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Order of the Shiftstalkers ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Alternate Blood Hunter Subclass*
 </br>
 To most people, Yokai seem like nothing more than curious miscreants, mischief makers - few recognise the true danger these otherworldly beings can bring. Dwelling  within Kimyōkai, creatures of great power plot and scheme at the downfall of the manifest world and their control over both realms. The world's protection comes from Yokai hunters calling themselves the Shiftstalkers, who have mastered using the Yokai's techniques of disguise, trickery, and manipulation against them.
 
-{{#default-table,classTable
+{{#subclass-table,classTable
 
 | Alt. Blood Hunter Level | Feature                                           |
 |:------------------------|:--------------------------------------------------|
@@ -2596,23 +2587,12 @@ Your Mimic Weapon is a sentient weapon, with an Intelligence of 8, a Wisdom of 1
 
 Your Mimic Weapon is also able to eat other weapons to gain their abilities. Over a Short Rest you can give your weapon another magical Melee Weapon to consume, permanently granting it the effects of the weapons it consumes. If the weapons consumed have +1 to Attack and Damage Rolls, your Mimic Weapon gets the sum of those bonuses, to a maximum of +3. If the magical Melee Weapons consumed require attunement, you must attune to each one individually.
 
-\column
+{{pageNumber,auto}}
+{{footnote PART 2 | CHARACTER OPTIONS}}
 
-{{imageMaskCorner16,--offsetX:57%,--offsetY:45%,--rotation:0
-  ![swamp](https://www.originalmagicart.store/cdn/shop/products/AOJIMaiko_003_Swampcopy_5000x.jpg?v=1645691827){position:aboslute,top:-50px,right:-240px,height:70%,transform:scaleX(1),filter:opacity(66%)}
-}}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
 
-![oni-girl-shadow](https://i.imgur.com/VWlzFnV.png) {position:absolute,top:155px,right:-120px,width:390px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.2)skewX(-25deg),mix-blend-mode:multiply}
-
-![oni-girl](https://i.imgur.com/VWlzFnV.png) {position:absolute,right:0px,top:-35px,width:390px,margin-bottom:-25px,filter:brightness(95%),opacity:100%,mix-blend-mode:normal,transform:scaleX(1)}
-
-{{position:absolute,top:330px,right:305px,margin-bottom:-30px,text-align:right
-
-##### A Oni-cursed </br>Human with a </br>Tsukumogami </br>weapon
-
-}}
-
-::::::::::::::::::::::::::::::::
+\page
 
 #### Blade of Sinew
 
@@ -2632,13 +2612,6 @@ Your bond with your Mimic Weapon increases your awareness of your surroundings. 
 </br>
 You learn the Yokai magic of disguise and infiltration. You can use your Mimic Weapon to cast the *Alter Self* spell once per Long Rest. When you cast the spell this way you can any number of the options at once, not just one, and the duration of the spell is 8 hours. While taking the appearance of a specific creature, you have Advantage on Charisma (Deception) checks when interacting with said creature and on Wisdom (Survival) checks to track said creature.
 
-{{pageNumber,auto}}
-{{footnote PART 2 | CHARACTER OPTIONS}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
-
-\page
-
 #### Grafted Armament
 
 *7th level Order of the Shiftstalkers feature*
@@ -2649,15 +2622,31 @@ The bond with your Mimic Weapon grows closer. You can no longer be separated fro
 
 *13th level Order of the Shiftstalkers feature*
 </br>
-Your disgust to the allures of Yokai emboldens you and your allies. Whenever a creature attempts to Charm you or an ally of you within 30 feet they must attempt a Wisdom Saving Throw against your Rite Save DC. If they fail the Saving Throw the Charm attempt fails and they take Psychic damage equal to a two roles of your Rite Die.
+Your disgust to the allures of Yokai emboldens you and your allies. Whenever a creature attempts to Charm you or an ally of you within 30 feet they must make a Wisdom Saving Throw against your Rite Save DC. If they fail the Saving Throw the Charm attempt fails and they take Psychic damage equal to a two roles of your Rite Die.
+
+\column
+
+{{imageMaskCorner16,--offsetX:57%,--offsetY:45%,--rotation:0
+  ![swamp](https://www.originalmagicart.store/cdn/shop/products/AOJIMaiko_003_Swampcopy_5000x.jpg?v=1645691827){position:aboslute,top:-50px,right:-240px,height:70%,transform:scaleX(1),filter:opacity(66%)}
+}}
+
+![oni-girl-shadow](https://i.imgur.com/VWlzFnV.png) {position:absolute,top:155px,right:-120px,width:390px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.2)skewX(-25deg),mix-blend-mode:multiply}
+
+![oni-girl](https://i.imgur.com/VWlzFnV.png) {position:absolute,right:0px,top:-35px,width:390px,margin-bottom:-25px,filter:brightness(95%),opacity:100%,mix-blend-mode:normal,transform:scaleX(1)}
+
+{{position:absolute,top:330px,right:305px,margin-bottom:-30px,text-align:right
+
+##### A Oni-cursed </br>Human with a </br>Tsukumogami </br>weapon
+
+}}
+
+:::::::::::::::::::::::::::::::::
 
 #### Devour Soul
 
 *18th level Order of the Shiftstalkers feature*
 </br>
 You have learned the most foul of Yokai powers; the ability to feast on a foe's soul. Whenever you deal Fire, Necrotic or Psychic damage with a Crimson Offering on your Mimic Weapon, you restore a number of Hit Points equal to the damage dealt.
-
-:
 
 {{note
 
@@ -2667,21 +2656,141 @@ test
 
 }}
 
-\column
+{{pageNumber,auto}}
+{{footnote PART 2 | CHARACTER OPTIONS}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
 
 ## Cleric
 
 test
 
-![miko](https://i.imgur.com/LV1E25m.png) {position:absolute,bottom:-200px,right:-120px,width:450px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.2)skewX(-25deg),mix-blend-mode:multiply}
+{{imageMaskCorner28,--offsetX:-52%,--offsetY:-50%,--rotation:0
+  ![shrine](https://data.ukiyo-e.org/jaodb/images/Kawase_Hasui-Shinto_and_its_Architecture-Yasukuni_Shrine_Tokyo-00043700-120311-F12.jpg){position:absolute,left:-200px,bottom:-250px,height:90%,transform:scaleX(1)}
+}}
 
-![miko-girl](https://i.imgur.com/LV1E25m.png) {position:absolute,right:0px,bottom:45px,width:450px,margin-bottom:-25px,filter:brightness(95%),opacity:100%,mix-blend-mode:normal,transform:scaleX(1)}
+![miko-shadow](https://i.imgur.com/LV1E25m.png) {position:absolute,bottom:-190px,left:-125px,width:450px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(-1)scaleY(0.2)skewX(-25deg),mix-blend-mode:multiply}
 
-{{position:absolute,top:970px,left:400px,margin-bottom:-30px
+![miko](https://i.imgur.com/LV1E25m.png) {position:absolute,left:-10px,bottom:60px,width:450px,margin-bottom:-25px,filter:brightness(95%),opacity:100%,mix-blend-mode:normal,transform:scaleX(-1)}
+
+{{position:absolute,top:1050px,left:400px,margin-bottom:-30px
 
 ##### A Miko
 
 }}
+
+\column
+
+### Duality Domain ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+
+*Cleric Subclass*
+</br>
+Dualness
+{{#subclass-table,classTable
+
+| Cleric Level | Feature                 |
+|:-------------|:------------------------|
+| 3rd          | Domain Spells, ???, ??? |
+| 6th          | ???                     |
+| 17th         | ???                     |
+
+}}
+
+#### Domain Spells
+
+*3rd level Duality Domain feature*
+</br>
+Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in table below, you thereafter always have the listed spells prepared.
+
+{{#subclass-table,classTable
+
+| Cleric Level | Prepared Spells      |
+|:-------------|:---------------------|
+| 3rd          | *???, ???, ???, ???* |
+| 5th          | *???, ???*           |
+| 7th          | *???, ???*           |
+| 9th          | *???, ???*           |
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 2 | CHARACTER OPTIONS}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+
+\page
+
+### Sea Domain ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+
+*Cleric Subclass*
+</br>
+Ocean
+
+{{#subclass-table,classTable
+
+| Cleric Level | Feature                 |
+|:-------------|:------------------------|
+| 3rd          | Domain Spells, ???, ??? |
+| 6th          | ???                     |
+| 17th         | ???                     |
+
+}}
+
+#### Domain Spells
+
+*3rd level Sea Domain feature*
+</br>
+Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in table below, you thereafter always have the listed spells prepared.
+
+{{#subclass-table,classTable
+
+| Cleric Level | Prepared Spells                                       |
+|:-------------|:------------------------------------------------------|
+| 3rd          | *Blur, Create of Destroy Water, Shield, Mirror Image* |
+| 5th          | *Wall of Water, Water Walk*                           |
+| 7th          | *Control Water, Watery Sphere<sup>XGE</sup>*          |
+| 9th          | *Maelstrom<sup>XGE</sup>, Mislead*                    |
+
+}}
+
+\column
+
+### Sky Domain ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+
+*Cleric Subclass*
+</br>
+Soaring
+
+{{#subclass-table,classTable
+
+| Cleric Level | Feature                 |
+|:-------------|:------------------------|
+| 3rd          | Domain Spells, ???, ??? |
+| 6th          | ???                     |
+| 17th         | ???                     |
+
+}}
+
+#### Domain Spells
+
+*3rd level Sky Domain feature*
+</br>
+Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in table below, you thereafter always have the listed spells prepared.
+
+{{#subclass-table,classTable
+
+| Cleric Level | Prepared Spells                                                  |
+|:-------------|:-----------------------------------------------------------------|
+| 3rd          | *Fog Cloud, Gust of Wind, Skywrite<sup>XGE</sup>, Zephyr Strike* |
+| 5th          | *Fly, Wind Wall*                                                 |
+| 7th          | *Banishment, Freedom of Movement*                                |
+| 9th          | *Control Winds, Steel Wind Strike<sup>XGE</sup>*                 |
+
+}}
+
+Can cast Wind Walk?
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -2708,6 +2817,75 @@ test
 
 \column
 
+### Circle of Blossoms ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+
+*Druid Subclass*
+</br>
+Flowers
+
+{{#subclass-table,classTable
+
+| Druid Level | Feature                      |
+|:------------|:-----------------------------|
+| 3rd         | Circle Spells, Healing Bloom |
+| 6th         | ???                          |
+| 10th        | ???                          |
+| 14th        | ???                          |
+
+}}
+
+#### Circle Spells
+
+*3rd level Circle of Blossoms feature*
+</br>
+Your connection to this circle ensures that you always have certain spells ready. When you reach a Druid level specified in the table below, you thereafter always have the listed spells prepared.
+
+{{#subclass-table,classTable
+
+| Druid Level | Prepared Spells                                                     |
+|:------------|:--------------------------------------------------------------------|
+| 3rd         | *Thorn Whip, Shield of Faith, Bless, Misty Step, Prayer of Healing* |
+| 5th         | *Beacon of Hope, Mass Healing Word*                                 |
+| 7th         | *Aura of Life, Death Ward*                                          |
+| 9th         | *Dawn, Hold Monster*                                                |
+
+}}
+
+#### Healing Bloom
+
+*3rd level Circle of Blossoms feature*
+</br>
+You have leared how to connect with the healing power of flowers. As a Bonus Action, you can expend a use of your Wild Shape and choose a point within 30 feet of yourself, creating a Petal Bloom in a 10-foot-radius sphere centered on that point for 1 minute. Then roll a number of d4s equal to your Wisdom modifier plus your Proficiency Bonus, and add the dice together. The total is the number of Hit Points you can distribute to creatures in that sphere. You decide the number of Hit Points that are restored to each of those creatures, deducting the healing from the total.
+
+Whenever you would normally roll one or more dice to restore Hit Points to a creature within your Petal Bloom with a spell, don't roll those dice for the healing; instead use the highest number possible for each die.
+<!-- You have leared how to connect with the healing power of blooming flowers. As a Bonus Action, you can expend a use of your Wild Shape channel to create a Bloom. Choose a point within 30 feet of yourself, and flowers appear in a 10-foot-radius sphere centered on that point. Then roll a number of d4s equal to your Wisdom modifier plus your Proficiency Bonus, and add the dice together. The total is the number of Hit Points you can distribute to creatures in that sphere. You decide the number of Hit Points that are restored to each of those creatures, deducting the healing from the total. -->
+<!-- You have leared how to connect with the healing power of blooming flowers. As a Bonus Action, you can expend a use of your Wild Shape channel to create a Bloom. Choose a point within 30 feet of yourself, and flowers appear in a 10-foot-radius sphere centered on that point for 1 minute. If a creature starts its turn within your Bloom, it regains a number of Hit Points equal to 1d4 plus your Spellcasting Modifier. -->
+
+#### Petals on the Wind
+
+*6th level Circle of Blossoms feature*
+</br>
+You are surrounded by flowing petals that give swiftness to your steps. While the petals surround you your Speed increases by 10 feet and nonmagical Difficult Terrain costs you no extra movement. When you restore Hit Points to a creature, you can use your Reaction to move the petals to surround them, granting them the benefits instead.
+
+{{pageNumber,auto}}
+{{footnote PART 2 | CHARACTER OPTIONS}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+
+\page
+
+#### Rose and Thorn
+
+*10th level Circle of Blossoms feature*
+</br>
+Blooms can instead make Difficult Terrain.
+
+#### Season of Growth
+
+*14th level Circle of Blossoms feature*
+</br>
+You have perfected your ability to nurture your magical garden. Whenever you use your Healing Bloom feature, you create two Blooms instead of one. A creature can only be affected by one bloom at a time.
+
 ## Fighter
 
 test
@@ -2716,7 +2894,7 @@ test
 
 test
 
-### Way of the Raging Demon ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:297px,left:400px,width:375px,mix-blend-mode:normal}
+### Way of the Raging Demon ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:297px,left:55px,width:375px,mix-blend-mode:normal}
 
 test
 
@@ -2751,13 +2929,6 @@ test
 ## Ranger
 
 test
-
-{{pageNumber,auto}}
-{{footnote PART 2 | CHARACTER OPTIONS}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
-
-\page
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -3879,7 +4050,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 **Detonate.** When you take the Disengage Action, instead of creating a cloud of black smoke, you can choose to set off a localised explosion. Everyone within a 10-foot radius centred on you, including yourself, must make a DC 15 Dexterity Saving Throw, taking 4d6 Fire damage on a failed save and half that on a successful save. You can only use this feature once per turn.
 
-**Blast Off.** You have discovered that your explosiveness makes for effective transportation. As a Bonus Action on your turn you can launch yourself., flying up to 40 feet in a straight line before falling. This movement does not provoke Opportunity Attacks and does not use your Speed. You can choose to angle your takeoff upwards to avoid obstacles, letting you land anywhere on the ground within 40 feet of you. If you collide with a creature when moving in a straight line, the creature takes 4d6 Bludgeoning damage. If you launch yourself upwards, or you collide with a wall or another solid surface, you take 4d6 Bludgeoning damage on impact. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
+**Blast Off.** You have discovered that your explosiveness makes for effective transportation. As a Bonus Action on your turn you can launch yourself, flying up to 40 feet in a straight line before falling. This movement does not provoke Opportunity Attacks and does not use your Speed. You can choose to angle your takeoff upwards to avoid obstacles, letting you land anywhere on the ground within 40 feet of you. If you collide with a creature when moving in a straight line, the creature takes 4d6 Bludgeoning damage. If you launch yourself upwards, or you collide with a wall or another solid surface, you take 4d6 Bludgeoning damage on impact. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
 
 {{imageMaskCorner20,--offsetX:47.5%,--offsetY:-65%,--rotation:0
   <!-- ![shell](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b3d08f41-3b20-4e72-891b-5dca0d934bb4/dclqy0j-81d42d28-3ba0-46e1-886f-2aac923087ac.jpg/v1/fill/w_1017,h_786,q_70,strp/kappa_by_lockdevil_dclqy0j-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTkwIiwicGF0aCI6IlwvZlwvYjNkMDhmNDEtM2IyMC00ZTcyLTg5MWItNWRjYTBkOTM0YmI0XC9kY2xxeTBqLTgxZDQyZDI4LTNiYTAtNDZlMS04ODZmLTJhYWM5MjMwODdhYy5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.1hXO8LMF0jTxJ0R6irMh-GfIuk1QmDQAa6ufG1ZQijw){position:absolute,bottom:-20px,right:-70px,width:70%,transform:scaleX(-1)} -->
@@ -6369,7 +6540,7 @@ Below is an alphabetised list of the spells added or changed in the 2024 D&D ver
 - Conjure Minor Elemental - Now increases damage you deal with attacks rather than summoning
 - Conjure Volley - Works with Melee Weapons, only effects creatures of your choice, deals Force damage
 - Conjure Woodland Beings - Now deals damage to creatures that get close to you rather than summoning
-- Counterspell - Target must attempt a Constitution Saving Throw, the target's Spell Slot isn't expended if the spell is countered, no benefit for upcasting
+- Counterspell - Target must make a Constitution Saving Throw, the target's Spell Slot isn't expended if the spell is countered, no benefit for upcasting
 - Cure Wounds - Die increased to 2d8 per Spell Slot
 - Find Steed - Uses a new stat block, scales with Spell Slot level
 - Find Familiar - Uses a new stat block, scales with Spell Slot level

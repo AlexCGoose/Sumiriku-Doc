@@ -287,7 +287,7 @@ ___
 
 ### Actions
 
-***Multiattack.*** Basso makes two(?) attacks with Arco
+***Multiattack.*** Basso makes two(?) attacks with Martellato
 :
 ***Martellato.*** *Melee Weapon Attack:* +? to hit, reach 5 ft., one target. *Hit:* ? (2d10 + ?) bludgeoning damage.
 

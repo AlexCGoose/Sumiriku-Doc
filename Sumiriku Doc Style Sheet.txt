@@ -310,6 +310,23 @@
 	max-width : 30px;
 }
 
+/* Subclass Table Settings */
+/* Sets colour of each other row to Sumiriku Light Orange */
+#subclass-table tbody tr:nth-child(odd) {
+	background : #fbc98e;
+}
+
+/* Increases font size of text in table headings and body */
+#subclass-table tbody {
+	font-size   : 110%;
+	line-height : 1.3em;
+}
+
+#subclass-table thead {
+	font-size   : 110%;
+	line-height : 1.3em;
+}
+
 
 
 
