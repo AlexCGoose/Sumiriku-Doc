@@ -8,15 +8,19 @@
 
 {{#fancy T}} {{width:5px}} {{#after-fancy his document reprints all feats available to characters in games within Sumiriku. These feats}} are collated from the Sumiriku Player's Guide, the 2024 D&D Player's Handbook, and other official D&D sources. Some of the feats from official sources have been updated or revised, to improve their balance when compared to other options, to fix minor issues with them, or to make them fit better within the setting. These feats have renamed to include 'Updated' or 'Revised' for clarity.
 
-}}
-
 :
 
 ## List of Feats
 
-:
+}}
 
-<!--  - [{{ Soul Illuminate}}{{ 2}}](#p2)
+{{toc
+
+- ### [{{ New Feats}}{{ 2}}](#p2)
+
+- ###### [{{ Species Feats}}{{ 2}}](#p2)
+
+  - [{{ Soul Illuminate}}{{ 2}}](#p2)
   - [{{ Lunar Enlightenment}}{{ 2}}](#p2)
   - [{{ A Grand Tail}}{{ 3}}](#p3)
   - [{{ Might's Pinnacle}}{{ 3}}](#p3)
@@ -32,9 +36,11 @@
   - [{{ Oni Embraced - TODO}}{{ 8}}](#p8)
   - [{{ Yūrei of the Haunt}}{{ 9}}](#p9)
   - [{{ Yūrei of the Vengeant}}{{ 9}}](#p9)
-  - [{{ Supreme Shifter}}{{ 10}}](#p10) -->
+  - [{{ Supreme Shifter}}{{ 10}}](#p10)
 
-<!--  - [{{ Bōjutsu Master}}{{ 10}}](#p10)
+- ###### [{{ General Feats}}{{ 10}}](#p10)
+
+  - [{{ Bōjutsu Master}}{{ 10}}](#p10)
   - [{{ Iaijutsu Master}}{{ 11}}](#p11)
   - [{{ Kimyōkai Touched}}{{ 11}}](#p11)
   - [{{ Kunai Expert}}{{ 12}}](#p12)
@@ -42,20 +48,7 @@
   - [{{ Okizeme Expert}}{{ 13}}](#p13)
   - [{{ Shurikenjutsu Master}}{{ 13}}](#p13)
   - [{{ Traditionalist}}{{ 14}}](#p14)
-  - [{{ Yomi Touched}}{{ 14}}](#p14) -->
-
-<!--  - [{{ Actor Updated}}{{ 15}}](#p15)
-  - [{{ Alert}}{{ 15}}](#p15)
-  - [{{ Athlete Updated}}{{ 15}}](#p15)
-  - [{{ Chef Updated}}{{ 15}}](#p15) -->
-
-{{toc
-
-- ### [{{ New Feats}}{{ 2}}](#p2)
-
-- ###### [{{ Species Feats}}{{ 2}}](#p2)
-
-- ###### [{{ General Feats}}{{ 10}}](#p10)
+  - [{{ Yomi Touched}}{{ 14}}](#p14)
 
 - ### [{{ Updated and Existing Feats}}{{ 15}}](#p15)
 
@@ -64,71 +57,65 @@
 - ###### [{{ Updated Feats List}}{{ 15}}](#p15)
 
 - ###### [{{ Origin Feats}}{{ 15}}](#p15)
+  
+  - [{{ Actor Updated}}{{ 15}}](#p15)
+  - [{{ Alert}}{{ 15}}](#p15)
+  - [{{ Athlete Updated}}{{ 16}}](#p16)
+  - [{{ Chef Updated}}{{ 16}}](#p16)
+  - [{{ Crafter Updated}}{{ 16}}](#p16)
+  - [{{ Dungeon Delver Updated}}{{ 16}}](#p16)
+  - [{{ Healer}}{{ 16}}](#p16)
+  - [{{ Lucky Updated}}{{ 17}}](#p17)
+  - [{{ Magic Initiate}}{{ 17}}](#p17)
+  - [{{ Musician}}{{ 17}}](#p17)
+  - [{{ Savage Attacker Updated}}{{ 17}}](#p17)
+  - [{{ Skilled}}{{ 17}}](#p17)
+  - [{{ Tavern Brawler}}{{ 17}}](#p17)
+  - [{{ Tough}}{{ 17}}](#p17)
+
+}}
+
+{{toc
 
 - ###### [{{ General Feats}}{{ 18}}](#p18)
 
-}}
-
-{{#default-table
-
-## Feats printed in this doc
-
-:
-
-##### New Feats
-
-| Feat                            |                                 |
-|:--------------------------------|:--------------------------------|
-| Soul Illuminate                 | Oni Embraced - TODO             |
-| Lunar Enlightenment             | Yūrei of the Haunt              |
-| A Grand Tail                    | Yūrei of the Vengeant           |
-| Might's Pinnacle                | Supreme Shifter                 |
-| Aura of the Shell               | Bōjutsu Master                  |
-| Cannon Ball Run                 | Iaijutsu Master                 |
-| Shapeshifting Trickster         | Kimyōkai Touched                |
-| Wild Shapeshifting              | Kunai Expert                    |
-| Bountiful Luck                  | Kusarigamajutsu Master          |
-| Shelter under the Fuki          | Okizeme Expert                  |
-| Ryū Install                     | Shurikenjutsu Master            |
-| Determined                      | Traditionalist                  |
-| Oni Purified                    | Yomi Touched                    |
-
-}}
-
-\column
-
-{{#default-table
-
-##### Reprinted Feats
-
-| Feat                            |                                 |
-|:--------------------------------|:--------------------------------|
-| Actor Updated                   | Moderately Armoured             |
-| Alert                           | Mounted Combatant               |
-| Athlete Updated                 | Musician                        |
-| Charger                         | Observant                       |
-| Crusher                         | Piercer                         |
-| Chef Updated                    | Poisoner                        |
-| Crafter Updated                 | Polearm Master (Sumiriku)       |
-| Defensive Duelist               | Resilient                       |
-| Dual Wielder Revised            | Ritual Caster                   |
-| Durable                         | Savage Attacker Updated         |
-| Dungeon Delver Updated          | Sentinel                        |
-| Elemental Adept Updated         | Sharpshooter Updated            |
-| Grappler                        | Shield Master                   |
-| Great Weapon Master             | Skill Expert                    |
-| Gunner Revised                  | Skilled                         |
-| Healer                          | Skulker                         |
-| Heavily Armoured                | Slasher                         |
-| Heavy Armour Master             | Speedy                          |
-| Inspiring Leader                | Spell Sniper Updated            |
-| Keen Mind                       | Tavern Brawler                  |
-| Lucky Updated                   | Telekinetic                     |
-| Mage Slayer                     | Telepathic                      |
-| Magic Initiate                  | Tough                           |
-| Martial Weapon Training         | War Caster                      |
-| Medium Armour Master            | Weapon Master                   |
-| Metamagic Adept                 |                                 |
+  - [{{ Charger}}{{ 18}}](#p18)
+  - [{{ Crusher}}{{ 18}}](#p18)
+  - [{{ Defensive Duelist}}{{ 18}}](#p18)
+  - [{{ Dual Wielder Revised}}{{ 18}}](#p18)
+  - [{{ Durable}}{{ 18}}](#p18)
+  - [{{ Elemental Adept Updated}}{{ 18}}](#p18)
+  - [{{ Grappler}}{{ 19}}](#p19)
+  - [{{ Great Weapon Master}}{{ 19}}](#p19)
+  - [{{ Gunner Revised}}{{ 19}}](#p19)
+  - [{{ Heavily Armoured}}{{ 19}}](#p19)
+  - [{{ Heavy Armour Master}}{{ 19}}](#p19)
+  - [{{ Inspiring Leader}}{{ 20}}](#p20)
+  - [{{ Keen Mind}}{{ 20}}](#p20)
+  - [{{ Mage Slayer}}{{ 20}}](#p20)
+  - [{{ Martial Weapon Training}}{{ 20}}](#p20)
+  - [{{ Medium Armour Master}}{{ 20}}](#p20)
+  - [{{ Metamagic Adept}}{{ 20}}](#p20)
+  - [{{ Moderately Armoured}}{{ 21}}](#p21)
+  - [{{ Mounted Combatant}}{{ 21}}](#p21)
+  - [{{ Observant}}{{ 21}}](#p21)
+  - [{{ Piercer}}{{ 21}}](#p21)
+  - [{{ Poisoner}}{{ 21}}](#p21)
+  - [{{ Polearm Master (Sumiriku)}}{{ 22}}](#p22)
+  - [{{ Resilient}}{{ 22}}](#p22)
+  - [{{ Ritual Caster}}{{ 22}}](#p22)
+  - [{{ Sentinel}}{{ 22}}](#p22)
+  - [{{ Sharpshooter Updated}}{{ 22}}](#p22)
+  - [{{ Shield Master}}{{ 23}}](#p23)
+  - [{{ Skill Expert}}{{ 23}}](#p23)
+  - [{{ Skulker}}{{ 23}}](#p23)
+  - [{{ Slasher}}{{ 23}}](#p23)
+  - [{{ Speedy}}{{ 23}}](#p23)
+  - [{{ Spell Sniper Updated}}{{ 24}}](#p24)
+  - [{{ Telekinetic}}{{ 24}}](#p24)
+  - [{{ Telepathic}}{{ 24}}](#p24)
+  - [{{ War Caster}}{{ 24}}](#p24)
+  - [{{ Weapon Master}}{{ 24}}](#p24)
 
 }}
 
