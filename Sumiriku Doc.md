@@ -8,7 +8,7 @@
 
 # The Shattered States of Sumiriku
 
-## Player's Guide v0.75
+## Player's Guide v0.769
 
 ![line](https://i.imgur.com/FN4VAkw.png) {position:absolute,top:321px,left:175px,width:450px}
 
