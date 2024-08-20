@@ -16,28 +16,88 @@
 
 :
 
+<!--  - [{{ Soul Illuminate}}{{ 2}}](#p2)
+  - [{{ Lunar Enlightenment}}{{ 2}}](#p2)
+  - [{{ A Grand Tail}}{{ 3}}](#p3)
+  - [{{ Might's Pinnacle}}{{ 3}}](#p3)
+  - [{{ Aura of the Shell}}{{ 4}}](#p4)
+  - [{{ Cannon Ball Run}}{{ 4}}](#p4)
+  - [{{ Shapeshifting Trickster}}{{ 5}}](#p5)
+  - [{{ Wild Shapeshifting}}{{ 5}}](#p5)
+  - [{{ Bountiful Luck}}{{ 6}}](#p6)
+  - [{{ Shelter under the Fuki}}{{ 6}}](#p6)
+  - [{{ Ryū Install}}{{ 6}}](#p6)
+  - [{{ Determined}}{{ 7}}](#p7)
+  - [{{ Oni Purified}}{{ 7}}](#p7)
+  - [{{ Oni Embraced - TODO}}{{ 8}}](#p8)
+  - [{{ Yūrei of the Haunt}}{{ 9}}](#p9)
+  - [{{ Yūrei of the Vengeant}}{{ 9}}](#p9)
+  - [{{ Supreme Shifter}}{{ 10}}](#p10) -->
+
+<!--  - [{{ Bōjutsu Master}}{{ 10}}](#p10)
+  - [{{ Iaijutsu Master}}{{ 11}}](#p11)
+  - [{{ Kimyōkai Touched}}{{ 11}}](#p11)
+  - [{{ Kunai Expert}}{{ 12}}](#p12)
+  - [{{ Kusarigamajutsu Master}}{{ 12}}](#p12)
+  - [{{ Okizeme Expert}}{{ 13}}](#p13)
+  - [{{ Shurikenjutsu Master}}{{ 13}}](#p13)
+  - [{{ Traditionalist}}{{ 14}}](#p14)
+  - [{{ Yomi Touched}}{{ 14}}](#p14) -->
+
+<!--  - [{{ Actor Updated}}{{ 15}}](#p15)
+  - [{{ Alert}}{{ 15}}](#p15)
+  - [{{ Athlete Updated}}{{ 15}}](#p15)
+  - [{{ Chef Updated}}{{ 15}}](#p15) -->
+
 {{toc
 
 - ### [{{ New Feats}}{{ 2}}](#p2)
 
 - ###### [{{ Species Feats}}{{ 2}}](#p2)
 
-  - [{{ Soul Illuminate}}{{ 2}}](#p2)
-  - [{{ Lunar Enlightenment}}{{ 2}}](#p2)
-
 - ###### [{{ General Feats}}{{ 10}}](#p10)
 
 - ### [{{ Updated and Existing Feats}}{{ 15}}](#p15)
 
-}}
+- ###### [{{ Removed Feats List}}{{ 15}}](#p15)
 
-\column
+- ###### [{{ Updated Feats List}}{{ 15}}](#p15)
+
+- ###### [{{ Origin Feats}}{{ 15}}](#p15)
+
+- ###### [{{ General Feats}}{{ 18}}](#p18)
+
+}}
 
 {{#default-table
 
 ## Feats printed in this doc
 
 :
+
+##### Reprinted Feats
+
+| Feat                            |                                 |
+|:--------------------------------|:--------------------------------|
+| Soul Illuminate                 | Oni Embraced - TODO             |
+| Lunar Enlightenment             | Yūrei of the Haunt              |
+| A Grand Tail                    | Yūrei of the Vengeant           |
+| Might's Pinnacle                | Supreme Shifter                 |
+| Aura of the Shell               | Bōjutsu Master                  |
+| Cannon Ball Run                 | Iaijutsu Master                 |
+| Shapeshifting Trickster         | Kimyōkai Touched                |
+| Wild Shapeshifting              | Kunai Expert                    |
+| Bountiful Luck                  | Kusarigamajutsu Master          |
+| Shelter under the Fuki          | Okizeme Expert                  |
+| Ryū Install                     | Shurikenjutsu Master            |
+| Determined                      | Traditionalist                  |
+| Oni Purified                    | Yomi Touched                    |
+
+}}
+
+\column
+
+{{#default-table
 
 ##### Reprinted Feats
 
@@ -453,7 +513,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 \column
 
-## New General Feats
+## General Feats
 
 ### Bōjutsu Master ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:99px,left:400px,width:375px,mix-blend-mode:normal}
 
