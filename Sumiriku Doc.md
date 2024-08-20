@@ -34,156 +34,164 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 {{toc
 
-- ### [{{ Foreword - On Culture, Adaptation, and Appropriation}}{{ 3}}](#p4) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:140px,left:55px,width:245px,mix-blend-mode:normal}
+- ### [{{ Foreword - On Culture, Adaptation, and Appropriation}}{{ 3}}](#p4) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:139px,left:55px,width:245px,mix-blend-mode:normal}
 
-  - ###### [{{ Language and Translation}}{{ 3}}](#p4)
+- ###### [{{ Language and Translation}}{{ 3}}](#p4)
 
-- ### [{{ PART 1 - History and Religion}}{{ 4}}](#p5) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:201px,left:55px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 1 - History and Religion}}{{ 4}}](#p5) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:200px,left:55px,width:245px,mix-blend-mode:normal}
 
-  - ###### [{{ The Land of Ink and Blood}}{{ 5}}](#p6)
+- ###### [{{ The Land of Ink and Blood}}{{ 5}}](#p6)
 
-  - ###### [{{ Spiritualism and the Kami}}{{ 6}}](#p7)
+- ###### [{{ Spiritualism and the Kami}}{{ 6}}](#p7)
 
-    - [{{ Daidō and Kami}}{{ 6}}](#p7)
-    - [{{ Shrines and Prayer}}{{ 6}}](#p7)
+  - [{{ Daidō and Kami}}{{ 6}}](#p7)
+  - [{{ Shrines and Prayer}}{{ 6}}](#p7)
 
-  - ###### [{{ Creatures of Legend}}{{ 7}}](#p8)
+- ###### [{{ Creatures of Legend}}{{ 7}}](#p8)
 
-    - [{{ Yōkai}}{{ 7}}](#p8)
-    - [{{ Oni}}{{ 8}}](#p9)
-    - [{{ Godaiyō}}{{ 8}}](#p9)
-    - [{{ Ryū}}{{ 9}}](#p10)
-    - [{{ Holy Manifestations}}{{ 10}}](#p11)
-    - [{{ Kaijū}}{{ 10}}](#p11)
+  - [{{ Yōkai}}{{ 7}}](#p8)
+  - [{{ Oni}}{{ 8}}](#p9)
+  - [{{ Godaiyō}}{{ 8}}](#p9)
+  - [{{ Ryū}}{{ 9}}](#p10)
+  - [{{ Holy Manifestations}}{{ 10}}](#p11)
+  - [{{ Kaijū}}{{ 10}}](#p11)
 
-  - ###### [{{ Realms}}{{ 11}}](#p12)
+- ###### [{{ Realms}}{{ 11}}](#p12)
 
-    - [{{ Hoshikuzuten}}{{ 11}}](#p12)
-    - [{{ Kumonoue}}{{ 11}}](#p12)
-    - [{{ Utsushiyo}}{{ 11}}](#p12)
-    - [{{ Kimyōkai}}{{ 12}}](#p13)
-    - [{{ Yomi}}{{ 12}}](#p13)
-    - [{{ Makoku}}{{ 13}}](#p14)
-    - [{{ Godaikai}}{{ 13}}](#p14)
+  - [{{ Hoshikuzuten}}{{ 11}}](#p12)
+  - [{{ Kumonoue}}{{ 11}}](#p12)
+  - [{{ Utsushiyo}}{{ 11}}](#p12)
+  - [{{ Kimyōkai}}{{ 12}}](#p13)
+  - [{{ Yomi}}{{ 12}}](#p13)
+  - [{{ Makoku}}{{ 13}}](#p14)
+  - [{{ Godaikai}}{{ 13}}](#p14)
 
-  - ###### [{{ Zodiac and the Creation Myth}}{{ 14}}](#p15)
+- ###### [{{ Zodiac and the Creation Myth}}{{ 14}}](#p15)
 
-  - ###### [{{ Major Deities}}{{ 15}}](#p16)
+- ###### [{{ Major Deities}}{{ 15}}](#p16)
 
-  - ###### [{{ Historical Periods}}{{ 19}}](#p20)
+- ###### [{{ Historical Periods - TODO}}{{ 19}}](#p20)
 
-    - [{{ Akegata Jidai (Dawning Era)}}{{ 19}}](#p20)
-    - [{{ Kaika Jidai (Blooming Era)}}{{ 19}}](#p20)
-      - [{{ The Blood War}}{{ 19}}](#p20)
-    - [{{ Assei Jidai (Tyrannical Era)}}{{ 19}}](#p20)
-    - [{{ Bunretsu Jidai (Divided Era)}}{{ 19}}](#p20)
-    - [{{ Tōgō Jidai (Unification Era)}}{{ 19}}](#p20)
-    - [{{ Guntai Jidai (Military Era)}}{{ 19}}](#p20)
-    - [{{ Koware Jidai (Shattered States Era)}}{{ 19}}](#p20)
-
-- ### [{{ PART 2 - Character Options}}{{ 22}}](#p23) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:837px,left:55px,width:245px,mix-blend-mode:normal}
-
-  - ###### [{{ Character Species}}{{ 23}}](#p24)
-
-    - [{{ Nekotaiyō (Sunfolk)}}{{ 23}}](#p24)
-    - [{{ Tsukibito (Moonfolk)}}{{ 25}}](#p26)
-    - [{{ Masaru (Macaque)}}{{ 27}}](#p28)
-    - [{{ Ōgaru (Ogre)}}{{ 28}}](#p29)
-    - [{{ Kappa (Tortle)}}{{ 30}}](#p31)
-    - [{{ Akki (Goblin)}}{{ 31}}](#p32)
-    - [{{ Tanuki (Raccoon-Dog)}}{{ 32}}](#p33)
-    - [{{ Kawauso (Otter)}}{{ 34}}](#p35)
-    - [{{ Kitsune (Fox)}}{{ 35}}](#p36)
-    - [{{ Kisuru (Crane)}}{{ 37}}](#p38)
-    - [{{ Bunagaya (Halfling)}}{{ 39}}](#p40)
-    - [{{ Korpokkur (Dwarf)}}{{ 40}}](#p41)
-    - [{{ Ryūson (Dragonborn)}}{{ 41}}](#p42)
-    - [{{ Human}}{{ 44}}](#p45)
+  - [{{ Akegata Jidai (Dawning Era)}}{{ 19}}](#p20)
+  - [{{ Kaika Jidai (Blooming Era)}}{{ 19}}](#p20)
+    - [{{ The Starlight Regalia}}{{ 19}}](#p20)
+    - [{{ The Tale of the Blood War - TODO}}{{ 20}}](#p21)
+  - [{{ Assei Jidai (Tyrannical Era) - TODO}}{{ 21}}](#p22)
+  - [{{ Bunretsu Jidai (Divided Era) - TODO}}{{ 21}}](#p22)
+  - [{{ Tōgō Jidai (Unification Era) - TODO}}{{ 21}}](#p22)
+    - [{{ The Tale of Otoha-tenno's Climb - TODO}}{{ 21}}](#p22)
+  - [{{ Guntai Jidai (Military Era) - TODO}}{{ 21}}](#p22)
+  - [{{ Koware Jidai (Shattered States Era) - TODO}}{{ 21}}](#p22)
 
 }}
 
 {{toc
 
-  - ###### [{{ Aberrant Forms}}{{ 45}}](#p46)
+- ### [{{ PART 2 - Character Options}}{{ 22}}](#p23) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:127px,left:285px,width:245px,mix-blend-mode:normal}
 
-    - [{{ Oni Bloodline Form}}{{ 45}}](#p46)
-    - [{{ Yūrei Manifest Form}}{{ 47}}](#p48)
-    - [{{ Yūrei Manifest Form}}{{ 47}}](#p48)
+- ###### [{{ Character Species}}{{ 23}}](#p24)
 
-  - ###### [{{ Classes and Subclasses}}{{ 49}}](#p50)
+  - [{{ Nekotaiyō (Sunfolk)}}{{ 23}}](#p24)
+  - [{{ Tsukibito (Moonfolk)}}{{ 25}}](#p26)
+  - [{{ Masaru (Macaque)}}{{ 27}}](#p28)
+  - [{{ Ōgaru (Ogre)}}{{ 28}}](#p29)
+  - [{{ Kappa (Tortle)}}{{ 30}}](#p31)
+  - [{{ Akki (Goblin)}}{{ 31}}](#p32)
+  - [{{ Tanuki (Raccoon-Dog)}}{{ 32}}](#p33)
+  - [{{ Kawauso (Otter)}}{{ 34}}](#p35)
+  - [{{ Kitsune (Fox)}}{{ 35}}](#p36)
+  - [{{ Kisuru (Crane)}}{{ 37}}](#p38)
+  - [{{ Bunagaya (Halfling) - TODO}}{{ 39}}](#p40)
+  - [{{ Korpokkur (Dwarf) - TODO}}{{ 40}}](#p41)
+  - [{{ Ryūson (Dragonborn)}}{{ 41}}](#p42)
+  - [{{ Human - TODO}}{{ 44}}](#p45)
 
-    - [{{ Barbarian}}{{ 49}}](#p50)
-      - [{{ Path of the Kaijū}}{{ 50}}](#p51)
-    - [{{ Bard}}{{ 52}}](#p53)
-    - [{{ Blood Hunter}}{{ 54}}](#p55)
-      - [{{ Order of the Shifthunters}}{{ 55}}](#p56)
-    - [{{ Cleric - TODO}}{{ 56}}](#p57)
-    - [{{ Druid - TODO}}{{ 57}}](#p58)
-    - [{{ Fighter - TODO}}{{ 57}}](#p58)
-    - [{{ Monk - TODO}}{{ 57}}](#p58)
-      - [{{ Way of the Raging Demon}}{{ 57}}](#p8)
-    - [{{ Paladin - TODO}}{{ 57}}](#p58)
-    - [{{ Ranger - TODO}}{{ 57}}](#p58)
-    - [{{ Rogue - TODO}}{{ 59}}](#p60)
-      - [{{ Dagger Dancer Archetype}}{{ 59}}](#p60)
-    - [{{ Sorcerer - TODO}}{{ 60}}](#p61)
-    - [{{ Warlock - TODO}}{{ 60}}](#p61)
-    - [{{ Wizard - TODO}}{{ 60}}](#p61)
+- ###### [{{ Aberrant Forms}}{{ 45}}](#p46)
 
-  - ###### [{{ Backgrounds}}{{ 61}}](#p62)
+  - [{{ Oni Bloodline Form}}{{ 45}}](#p46)
+  - [{{ Yūrei Manifest Form}}{{ 47}}](#p48)
+  - [{{ Noppera-bō Changeling Form}}{{ 48}}](#p49)
 
-    - [{{ Languages}}{{ 61}}](#p62)
-    - [{{ Sample Backgrounds - TODO}}{{ 63}}](#p64)
+- ###### [{{ Classes and Subclasses}}{{ 49}}](#p50)
 
-  - ###### [{{ Weapons, Armour, and Equipment}}{{ 65}}](#p66)
-
-    - [{{ Weapons - TODO}}{{ 65}}](#p66)
-    - [{{ Armour}}{{ 71}}](#p72)
-    - [{{ Equipment - TODO}}{{ 72}}](#p73)
-
-  - ###### [{{ Feats}}{{ 73}}](#p74)
-
-    - [{{ Species and Aberrant Form Feats - TODO}}{{ 73}}](#p74)
-    - [{{ Generic Feats}}{{ 81}}](#p82)
-
-  - ### [{{ PART 3 - Geography and Culture}}{{ 86}}](#p87) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:706px,left:285px,width:245px,mix-blend-mode:normal}
-
-  - ###### [{{ Maps of Sumiriku and the World - TODO}}{{ 87}}](#p88)
-
-  - ###### [{{ Landscapes and Landmarks - TODO}}{{ 89}}](#p90)
-
-  - ###### [{{ Calendar and Notable Events - TODO}}{{ 92}}](#p93)
-
-    - [{{ Seasons}}{{ 92}}](#p93)
-    - [{{ Important Days}}{{ 92}}](#p93)
-      - [{{ Shōtenbi (Ascension Day)}}{{ 92}}](#p93)
-      - [{{ Tanabata (Seventh Evening)}}{{ 92}}](#p93)
-      - [{{ Ganjitsu (New Year's Day)}}{{ 92}}](#p93)
-      - [{{ Hyakki Chitsuki (Hundred Oni Blood Moon)}}{{ 93}}](#p94)
-
-  - ###### [{{ Important People and Groups - TODO}}{{ 94}}](#p95)
-
-  - ###### [{{ Sacred Treasures and other Magic Items - TODO}}{{ 96}}](#p97)
+  - [{{ Barbarian}}{{ 49}}](#p50)
+    - [{{ Path of the Kaijū - TODO}}{{ 50}}](#p51)
+  - [{{ Bard}}{{ 51}}](#p52)
+    - [{{ College of Ink - TODO}}{{ 52}}](#p53)
+  - [{{ Blood Hunter}}{{ 53}}](#p54)
+    - [{{ Order of the Shifthunters}}{{ 53}}](#p54)
+  - [{{ Cleric - TODO}}{{ 55}}](#p56)
+    - [{{ Duality Domain - TODO}}{{ 55}}](#p56)
+    - [{{ Sea Domain - TODO}}{{ 56}}](#p57)
+    - [{{ Sky Domain - TODO}}{{ 56}}](#p57)
+  - [{{ Druid - TODO}}{{ 57}}](#p58)
+    - [{{ Circle of Blossoms - TODO}}{{ 57}}](#p58)
+    - [{{ Circle of Disaster - TODO}}{{ 58}}](#p59)
+  - [{{ Fighter - TODO}}{{ 59}}](#p60)
+  - [{{ Monk - TODO}}{{ 59}}](#p60)
+    - [{{ Way of the Raging Demon - TODO}}{{ 59}}](#p60)
+  - [{{ Paladin - TODO}}{{ 59}}](#p60)
+  - [{{ Ranger - TODO}}{{ 59}}](#p60)
+  - [{{ Rogue - TODO}}{{ 60}}](#p61)
+    - [{{ Dagger Dancer Archetype}}{{ 60}}](#p61)
+  - [{{ Sorcerer - TODO}}{{ 62}}](#p63)
+  - [{{ Warlock - TODO}}{{ 62}}](#p63)
+  - [{{ Wizard - TODO}}{{ 62}}](#p63)
 
 }}
 
 {{toc
 
-- ### [{{ EXTRA - Appendices}}{{ 97}}](#p98) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:115px,left:515px,width:245px,mix-blend-mode:normal}
+- ###### [{{ Backgrounds}}{{ 63}}](#p64)
 
-  - ###### [{{ Appendix A - Creature Stat Blocks}}{{ 98}}](#p99)
+  - [{{ Languages}}{{ 63}}](#p64)
+  - [{{ Background Options - TODO}}{{ 65}}](#p66)
 
-  - ###### [{{ Appendix B - Available Feats}}{{ 102}}](#p103)
+- ###### [{{ Weapons, Armour, and Equipment}}{{ 65}}](#p66)
 
-  - ###### [{{ Appendix C - Spell Changes - TODO}}{{ 114}}](#p115)
+  - [{{ Weapons - TODO}}{{ 67}}](#p68)
+  - [{{ Armour}}{{ 73}}](#p74)
+  - [{{ Equipment - TODO}}{{ 74}}](#p75)
 
-  - ###### [{{ Appendix D - Rule Change Glossary}}{{ 132}}](#p133)
+- ###### [{{ Feats}}{{ 75}}](#p76)
 
-  - ###### [{{ Appendix E - Reference Images - TODO}}{{ 141}}](#p142)
+  - [{{ Species Feats - TODO}}{{ 75}}](#p76)
+  - [{{ General Feats}}{{ 83}}](#p84)
 
-- ### [{{ CREDITS}}{{ 146}}](#p147) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:322px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 3 - Geography and Culture}}{{ 88}}](#p89) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:324px,left:515px,width:245px,mix-blend-mode:normal}
 
-  - ###### [{{ Special Thanks}}{{ 146}}](#p147)
+- ###### [{{ Maps of Sumiriku and the World - TODO}}{{ 89}}](#p90)
+
+- ###### [{{ Landscapes and Landmarks - TODO}}{{ 91}}](#p92)
+
+- ###### [{{ Calendar and Notable Events - TODO}}{{ 94}}](#p95)
+
+  - [{{ Seasons}}{{ 94}}](#p95)
+  - [{{ Important Days}}{{ 94}}](#p95)
+    - [{{ Ganjitsu (New Year's Day)}}{{ 94}}](#p95)
+    - [{{ Hyakki Chitsuki (Hundred Oni Blood Moon)}}{{ 95}}](#p96)
+    - [{{ Shōtenbi (Ascension Day)}}{{ 95}}](#p96)
+    - [{{ Tanabata (Seventh Evening) - TODO}}{{ 95}}](#p96)
+
+- ###### [{{ Important People and Groups - TODO}}{{ 96}}](#p97)
+
+- ###### [{{ Sacred Treasures and other Magic Items - TODO}}{{ 98}}](#p99)
+
+- ### [{{ EXTRA - Appendices}}{{ 90}}](#p100) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:654px,left:515px,width:245px,mix-blend-mode:normal}
+
+- ###### [{{ Appendix A - Creature Stat Blocks}}{{ 100}}](#p101)
+
+- ###### [{{ Appendix B - Available Feats}}{{ 104}}](#p105)
+
+- ###### [{{ Appendix C - Spell Changes - TODO}}{{ 108}}](#p109)
+
+- ###### [{{ Appendix D - Rule Change Glossary}}{{ 126}}](#p127)
+
+- ###### [{{ Appendix E - Reference Images - TODO}}{{ 135}}](#p136)
+
+- ### [{{ CREDITS - TODO}}{{ 140}}](#p141) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:861px,left:515px,width:245px,mix-blend-mode:normal}
+
+- ###### [{{ Special Thanks}}{{ 140}}](#p141)
 
 }}
 
@@ -251,7 +259,7 @@ From the outside it seemed like the islands were ruled by an emperor, who sat on
 
 were good soldiers could aim to become great leaders. To an outsider it would appear that this arrangement, where a centralised government kept local leadership in check, had resulted in success and stability for the nation. Few could know how fragile this arrangement truly was.
 
-The Daimyō were steadily becoming more unimpressed with the current shogunate, especially those furthest from Heain-kyō, as they came to feel that they lacked the local autonomy they deserved and that they were being unfairly exploited by the ruling caste. Even farmers, devastated by famines and natural disasters, began to take up arms and lead uprisings, forming their own armies. This all came to a head during a succession crisis within the Shogunate, when a neighbouring clan with a claim to leadership built up an army and led a march on Heain-kyō. The result of this conflict was catastrophic, burning down much of Heain-kyō's perimeter settlements and decimating the army loyal to the Shōgun. Those that returned to the Shōgun were in for a greater shock however, as they discovered that he had been assassinated in their absence, a declaration of war tied to the Kunai in his back. This caused the instantaneous collapse of the shogunate, which coincided with the mysterious disappearance of the emperor with no clear successor. The land to descend into martial chaos, into a time now known as the Koware Jidai (壊れ時代, 'Shattered States Era'). Each Daimyō and their clans believes that they should be given authority to rule over Sumiriku, and they have attempted to prove that right on the battlefield. For over a century since that fateful day in Heain-kyō, war is all there has been. </p>
+The Daimyō were steadily becoming more unimpressed with the current shogunate, especially those furthest from Heain-kyō, as they came to feel that they lacked the local autonomy they deserved and that they were being unfairly exploited by the ruling caste. Even farmers, devastated by famines and natural disasters, began to take up arms and lead uprisings, forming their own armies. This all came to a head during a succession crisis within the Shogunate, when a neighbouring clan with a claim to leadership built up an army and led a march on Heain-kyō. The result of this conflict was catastrophic, burning down much of Heain-kyō's perimeter settlements and decimating the army loyal to the Shōgun. Those that returned to the Shōgun were in for a greater shock however, as they discovered that he had been assassinated in their absence, a declaration of war tied to the Kunai in his back. This caused the instantaneous collapse of the shogunate, which coincided with the mysterious disappearance of the emperor with no clear successor. The land descend into martial chaos, into a time now known as the Koware Jidai (壊れ時代, 'Shattered States Era'). Each Daimyō and their clans believes that they should be given authority to rule over Sumiriku, and they have attempted to prove that right on the battlefield. For over a century since that fateful day in Heain-kyō, war is all there has been.
 
 {{position:relative,top:-10px,left:100px,margin-bottom:-30px
 
@@ -534,7 +542,7 @@ Within Sumiriku there are five elements called the Godai, which are considered t
 - Fūkai (風界, 'Wind Realm') - Almost alike Kumonoue in appearance, a plane of clouds and storms, ever expanding.
 - Kūshokai (空所界, 'Void Realm') - The realm of the purest essence of creation. Hoshikuzuten is believed to be surrounded by Kūshokai, as the stars are surrounded by the void of the night sky. The first of all realms to enter existence.
 
-Creatures that come from one of these realms are chaotic beings that reflect and represent these elements in their truest form, and are known as Godaiyō. These beings often become Kami through veneration of the populace, particularly in places of raw elemental power. The great and tyrannical deity Tamata-no-Orochi was born from here, at the confluence between each of these realms, so all of the Godai Ryū have lineage that connects them to &nbsp;the Godaiyō.
+Creatures that come from one of these realms are chaotic beings that reflect and represent these elements in their truest form, and are known as Godaiyō. These beings often become Kami through veneration of the populace, particularly in places of raw elemental power. The great and tyrannical deity Tamata-no-Orochi was born from here, at the confluence between each of these realms, so all of the Godai Ryū have lineage that connects them to the Godaiyō.
 }}
 
 {{imageMaskCenter12,--offsetX:-50%,--offsetY:8%,--rotation:0
@@ -545,8 +553,8 @@ Creatures that come from one of these realms are chaotic beings that reflect and
   ![makoku](https://images.fineartamerica.com/images-medium-large/lair-of-the-ashen-idol-philip-straub.jpg){position:aboslute,top:0px,left:-130px,width:80%,transform:scaleX(-1)}
 }}
 
-{{imageMaskCorner30,--offsetX:-69%,--offsetY:-50%,--rotation:0
-  ![fukai](https://i.redd.it/dixyox14yel31.jpg){position:aboslute,bottom:-200px,left:-200px,width:120%,transform:scaleX(-1)}
+{{imageMaskCorner30,--offsetX:-69%,--offsetY:-51%,--rotation:0
+  ![fukai](https://i.redd.it/dixyox14yel31.jpg){position:aboslute,bottom:-190px,left:-200px,width:120%,transform:scaleX(-1)}
 }}
 
 {{position:absolute,top:360px,left:310px,margin-bottom:-30px,align:right
@@ -561,7 +569,7 @@ Creatures that come from one of these realms are chaotic beings that reflect and
 
 }}
 
-{{position:absolute,top:1030px,left:390px,margin-bottom:-30px,align:right
+{{position:absolute,top:1040px,left:390px,margin-bottom:-30px,align:right
 
 <!-- ##### Fūkai -->
 ##### Fukai
@@ -630,7 +638,9 @@ minds and the ability to take humanoid forms. They continued to see each other e
 
 }}
 
-{{#god-table,classTable,frame,wide
+{{#god-table,wide
+
+##### The 14 Myojin
 
 | Name                              | Description                                                                        | Primary Domain |
 |:----------------------------------|:-----------------------------------------------------------------------------------|:--------------:|
@@ -648,7 +658,7 @@ minds and the ability to take humanoid forms. They continued to see each other e
 
 \page
 
-{{#god-table,classTable,frame,wide
+{{#god-table,wide
 
 | Name                              | Description                                                                        | Primary Domain |
 |:----------------------------------|:-----------------------------------------------------------------------------------|:--------------:|
@@ -668,7 +678,7 @@ minds and the ability to take humanoid forms. They continued to see each other e
 
 \page
 
-{{#god-table,classTable,frame,wide
+{{#god-table,wide
 
 | Name                              | Description                                                                        | Primary Domain |
 |:----------------------------------|:-----------------------------------------------------------------------------------|:--------------:|
@@ -685,7 +695,7 @@ minds and the ability to take humanoid forms. They continued to see each other e
 
 \page
 
-{{#god-table,classTable,frame,wide
+{{#god-table,wide
 
 | Name                              | Description                                                                        | Primary Domain |
 |:----------------------------------|:-----------------------------------------------------------------------------------|:--------------:|
@@ -753,7 +763,7 @@ During this era treasures were gifted to the world, treasures that would go on t
 
 \page
 
-#### The Tale of the Blood War
+#### The Tale of the Blood War - TODO
 
 <!-- {{comment18,signature,bottom:910px,left:60px
 
@@ -800,74 +810,6 @@ It took the combined might of Sumiriku's peoples, Kami, and Myōjin, along with 
 
 }}
 
-\column
-
-## Assei Jidai
-
-## (圧政時代, 'Tyrannical Era')
-
-### ~700 - 570 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:400px,width:375px,mix-blend-mode:normal}
-
-Tamata-no-Orochi destroys Niji-no-Ukihashi and plunges the world into darkness. She is defeated by the last Myōjin, Yūkan-sama, and sealed away.
-
-:
-
-## Bunretsu Jidai
-
-## (分裂時代, 'Divided Era')
-
-### ~570 - 1 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:400px,width:375px,mix-blend-mode:normal}
-
-The islands are divided into local lords after the defeat of Tamata-no-Orochi. Tokuzō-tenno collects the Starlight Regalia, defends Sumiriku from outside invaders, and becomes the first Emperor.
-
-:
-
-## Tōgō Jidai
-
-## (統合時代,</br>
-
-## 'Unification Era')
-
-### 0 - 1851 AA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:400px,width:375px,mix-blend-mode:normal}
-
-:
-
-TODO
-
-:
-
-#### The tale of Otoha-tenno's climb
-
-{{quote
-
-Test
-
-{{attribution *The History of Sumiriku*}}
-
-<!-- , and with a bloodlust unlike any other -->
-
-}}
-
-## Guntai Jidai
-
-## (軍隊時代, 'Military Era')
-
-### 1852 - 2127 AA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:400px,width:375px,mix-blend-mode:normal}
-
-TODO
-
-:
-
-## Koware Jidai
-
-## (壊れ時代,</br>
-
-## 'Shattered States Era')
-
-### Ongoing (2128 - 2254+ AA) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:400px,width:375px,mix-blend-mode:normal}
-
-TODO
-
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
 
@@ -875,13 +817,79 @@ TODO
 
 \page
 
-{{comment18,signature,bottom:900px,left:60px
+## Assei Jidai - TODO
+
+## (圧政時代, 'Tyrannical Era')
+
+### ~700 - 570 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:55px,width:375px,mix-blend-mode:normal}
+
+Tamata-no-Orochi destroys Niji-no-Ukihashi and plunges the world into darkness. She is defeated by the last Myōjin, Yūkan-sama, and sealed away.
+
+:
+
+## Bunretsu Jidai - TODO
+
+## (分裂時代, 'Divided Era')
+
+### ~570 - 1 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:55px,width:375px,mix-blend-mode:normal}
+
+The islands are divided into local lords after the defeat of Tamata-no-Orochi. Tokuzō-tenno collects the Starlight Regalia, defends Sumiriku from outside invaders, and becomes the first Emperor.
+
+:
+
+## Tōgō Jidai - TODO
+
+## (統合時代,</br>
+
+## 'Unification Era')
+
+### 0 - 1851 AA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:55px,width:375px,mix-blend-mode:normal}
+
+:
+
+TODO
+
+:
+
+#### The Tale of Otoha-tenno's Climb - TODO
+
+{{quote
+
+Test - TODO
+
+{{attribution *The History of Sumiriku*}}
+
+<!-- , and with a bloodlust unlike any other -->
+
+}}
+
+## Guntai Jidai - TODO
+
+## (軍隊時代, 'Military Era')
+
+### 1852 - 2127 AA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:55px,width:375px,mix-blend-mode:normal}
+
+TODO
+
+:
+
+## Koware Jidai - TODO
+
+## (壊れ時代,</br>
+
+## 'Shattered States Era')
+
+### Ongoing (2128 - 2254+ AA) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:55px,width:375px,mix-blend-mode:normal}
+
+TODO
+
+<!-- {{comment18,signature,bottom:900px,left:60px
 
 "My favourite Stories show us that even the smallest embers can be the light we need in dark times"
 
 — Satsuki, Lorekeeper
 
-}}
+}} -->
 
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
@@ -972,15 +980,14 @@ The Myōjin Netsu-sama is a Nekotaiyō, and the God of the Suns.
 
 ### Nekotaiyō Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
-**Creature Type:** Humanoid
-</br> **Size:** Small or Medium (About 3-5 feet tall), chosen when you select this Species
-</br> **Speed:** 30 feet, Climb Speed equal to your Speed
-</br> **Life Span:** Nekotaiyō reach adulthood in their late teens and live for an average of 80 to 90 years.
-:
+**Creature Type:** :: Humanoid
+**Size:**          :: Small or Medium (About 3-5 feet tall), chosen when you select this species
+**Speed:**         :: 30 feet, Climb Speed equal to your Speed
+**Life Span:**     :: Nekotaiyō reach adulthood in their late teens and live for an average of 80 to 90 years
 
 As a Nekotaiyō, you gain these special traits:
 
-***Cat's Claws.*** You can use your claws to make Unarmed Strikes. When you hit with them, the strike deals 1d4 + your Strength Modifier Slashing damage, instead of the Bludgeoning damage normal for an Unarmed Strike.
+***Cat's Claws.*** You can use your claws to make Unarmed Strikes. When you hit with them, the strike deals 1d4 plus your Strength modifier Slashing damage, instead of the Bludgeoning damage normal for an Unarmed Strike.
 
 ***Empowered Vision.*** While in direct sunlight you have Advantage on Wisdom (Perception) checks that rely on sight and you can make out details of even extremely distant creatures and objects as small as 2 feet across.
 
@@ -988,7 +995,7 @@ As a Nekotaiyō, you gain these special traits:
 
 ***Graceful Landing.*** You do not take damage from falling 20 feet or less.
 
-***Twin Sun Blessing.*** At 3rd level you gain one of the following two features, depending on which of Sumiriku's twin suns you have a stronger affinity for:
+***Twin Sun Blessing.*** At Character Level 3 you gain one of the following two features, depending on which of Sumiriku's twin suns you have a stronger affinity for:
 
 *Ikariōna's Fury.* You have the ability to gain incredible agility gifted from the Rage Mother, allowing you to move with a burst of speed. When you move on your turn in combat, you can double your Speed. While your Speed is doubled this way, you can move through the spaces of hostile creatures, and you do not count the spaces of creatures as Difficult Terrain. Any creature you walk through the space of while this is active takes 1d6 Fire damage. Once you use this trait, you can't use it again until you finish a Short or Long Rest.
 
@@ -1051,25 +1058,24 @@ The deity Mikazuki-sama is a Soratami, and the God of the Moon.
 
 ### Tsukibito Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
-**Creature Type:** Humanoid
-</br> **Size:** Medium (About 5 feet tall)
-</br> **Speed:** 30 feet
-</br> **Life Span:** Tsukibito reach maturity in their 20s, and can live anywhere from 200 to 250 years.
-:
+**Creature Type:** :: Humanoid
+**Size:**          :: Medium (About 5 feet tall)
+**Speed:**         :: 30 feet
+**Life Span:**     :: Tsukibito reach maturity in their 20s, and can live anywhere from 200 to 250 years
 
 As a Tsukibito, you gain these special traits:
 
 ***Darkvision.*** You have Darkvision with a range of 60 feet.
 
-***Moon's Blessing.*** You are part of a Moonfolk lineage, and the moon has given you specific gifts as part of that lineage. Choose a lineage from the Moonfolk Lineage table: Soratami, the lineage of the soaring cities; Moritami, the lineage of the forest floor; or Maigomin, the lost Moonfolk. You gain the 1st level benefits of that lineage, and when you reach 5th level you also gain an additional lineage benefit.
+***Moon's Blessing.*** You are part of a Moonfolk lineage, and the moon has given you specific gifts as part of that lineage. Choose a lineage from the Moonfolk Lineage table: Soratami, the lineage of the soaring cities; Moritami, the lineage of the forest floor; or Maigomin, the lost Moonfolk. You gain the Level 1 benefits of that lineage, and when you reach Character Level 5 you also gain an additional lineage benefit.
 
-***Enlightened Mind.*** You gain proficiency in Investigation, as well as one of the following skills; Arcana, History, Nature, or Religion.
+***Enlightened Mind.*** You gain Proficiency in Investigation, as well as one of the following skills; Arcana, History, Nature, or Religion.
 
 {{imageMaskCorner19,--offsetX:47%,--offsetY:55%,--rotation:0
   ![tsukibito-2](https://i.imgur.com/pKVi0wU.jpg){position:aboslute,top:-30px,right:-200px,width:110%}
 }}
 
-{{position:relative,top:-20px,left:430px,margin-bottom:-30px
+{{position:absolute,top:435px,left:475px,margin-bottom:-30px
 
 ##### Tsukibito guards
 
@@ -1077,12 +1083,12 @@ As a Tsukibito, you gain these special traits:
 
 :::::::::::::::::::::::::::::
 
-{{#default-table,wide,classTable,frame
+{{#default-table,wide
 
 ##### Moonfolk Lineage
 
-| Lineage  | 1st-Level Feature                                     | 5th-Level Feature                                          |
-|:---------|:------------------------------------------------------|:-----------------------------------------------------------|
+| Lineage  | Level 1 | Level 5 |
+|:---------|:--------|:--------|
 | Soratami | You can float about 1 foot above the ground, as long as you are above solid ground or the surface of a calm liquid. Your Floating Speed is equal to your Speed. You can float anywhere you could normally walk, and you ignore ground-based Difficult Terrain while floating. If you suffer a Condition that reduces your Speed to 0 or you gain the Prone Condition, you stop floating and begin to fall. | As a Reaction to falling, you can slow your rate of descent to 60 feet per round. This slow fall lasts for up to 1 minute. If you land while falling at this decreased rate you take no fall damage and begin floating above the ground. You must be able to float to use this feature. |
 | Moritami | As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be standing on or touching earth, dirt, or foliage to use this Tremorsense. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. | You can spend 10 minutes surveying the ground around you to sense past travellers in the area. You get to know how many creatures have passed through here in the past day, what creature types they are, which directions they have travelled, and who was here most recently. You can also learn of the local geography, such as terrain, bodies of water, and local flora and fauna. This feature doesn't work in man-made spaces such as buildings, roads, and cities. Once you use this feature, you must finish a Long Rest before you can use it again. |
 | Maigomin | The range of your Darkvision increases to 120 feet. | You gain Advantage on Wisdom (Perception) checks that rely on sight while in dim light or darkness and you can make out details of even extremely distant creatures and objects as small as 2 feet across. |
@@ -1126,11 +1132,10 @@ The Myōjin Sonsora-sama is a Masaru, and the God of the Sky.
 
 ### Masaru Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
-**Creature Type:** Humanoid
-</br> **Size:** Small (About 2-3 feet tall)
-</br> **Speed:** 25 feet, Climb Speed equal to your Speed
-</br> **Life Span:** Masaru reach adulthood at age 8 and typically live up to 60 years old.
-:
+**Creature Type:** :: Humanoid
+**Size:**          :: Small (About 2-3 feet tall)
+**Speed:**         :: 25 feet, Climb Speed equal to your Speed
+**Life Span:**     :: Masaru reach adulthood at age 8 and typically live up to 60 years old
 
 As a Masaru, you gain these special traits:
 
@@ -1206,11 +1211,10 @@ The deities of Bōfū-sama and Sekirai-sama are conjoined Ōgaru twins, and are 
 
 ### Ōgaru Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
-**Creature Type:** Humanoid, Yama-Otoko (Giant)
-</br> **Size:** Large (About 8-10 feet tall)
-</br> **Speed:** 35 feet
-</br> **Life Span:** Ōgaru are fully grown at around 30 years old and live for an average of 120 to 130 years.
-:
+**Creature Type:** :: Humanoid, Yama-Otoko (Giant)
+**Size:**          :: Large (About 8-10 feet tall)
+**Speed:**         :: 35 feet
+**Life Span:**     :: Ōgaru are fully grown at around 30 years old and live for an average of 120 to 130 years
 
 As an Ōgaru, you gain these special traits:
 
@@ -1218,9 +1222,9 @@ As an Ōgaru, you gain these special traits:
 
 ***Imposing Build.*** You are a Large creature. You also gain the Yama-Otoko (Giant) creature type.
 
-***Additional Ability Score.*** Ōgaru get an additional +2 to either Strength or Constitution, but they must take a -2 in one of Dexterity, Intelligence, Wisdom, or Charisma. The +2 must be in a different ability than their regular Ability Score.
+***Additional Ability Score.*** Ōgaru get an additional +2 to the Ability Score of either Strength or Constitution, but they must take a -2 in one of Dexterity, Intelligence, Wisdom, or Charisma. The +2 must be in a different ability than their background Ability Scores.
 
-***Large and In Charge.*** You are capable of wielding weapons sized for Large creatures. These weapons are Melee Weapons with the Heavy or Two-Handed property, as well as Thrown weapons without the Light or Finesse properties. The damage you deal with these weapons, as well as with Unarmed Strikes, is increased by 1d4. You have Disadvantage on Attack Rolls made with weapons that have the Finesse property, the Light property, or with Ranged weapons that lack the Heavy or Thrown property.
+***Large and In Charge.*** You are capable of wielding weapons sized for Large creatures. These weapons are Melee weapons with the Heavy or Two-Handed property, as well as Thrown weapons without the Light or Finesse properties. The damage you deal with these weapons, as well as with Unarmed Strikes, is increased by 1d4. You have Disadvantage on Attack Rolls made with weapons that have the Finesse property, the Light property, or with Ranged weapons that lack the Heavy or Thrown property.
 
 ***Indomitable.*** You can tap into your own vitality in order to draw out greater power. You can spend a Hit Die and roll it, taking Necrotic damage equal to the amount rolled, to allow you to reroll any Attack Roll or Saving Throw. You can use this trait after you roll, but before you know whether or not it was a success. You can decide which roll to take.
 
@@ -1243,7 +1247,7 @@ You can use this trait a number of times equal to your Proficiency Bonus, and yo
 
 ![kappa](https://i.imgur.com/nVOvBl0.png) {position:absolute,left:80px,top:40px,width:225px,margin-bottom:0px,filter:brightness(100%),opacity:100%,transform:scaleX(-1)}
 
-{{position:absolute,top:310px,left:290px,text-align:left
+{{position:absolute,top:310px,left:300px,text-align:left
 
 ##### A peaceful </br> Kappa
 
@@ -1263,11 +1267,10 @@ Kahei-sama is a Kappa Myōjin, the God of Peace.
 
 ### Kappa Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
-**Creature Type:** Humanoid
-</br> **Size:** Small or Medium (About 3-5 feet tall), chosen when you select this Species
-</br> **Speed:** 25 feet, Swim Speed equal to your Speed
-</br> **Life Span:** Kappa reach adulthood in their early teens, and typically reach 150 to 200 years old.
-:
+**Creature Type:** :: Humanoid
+**Size:**          :: Small or Medium (About 3-5 feet tall), chosen when you select this species
+**Speed:**         :: 25 feet, Swim Speed equal to your Speed
+**Life Span:**     :: Kappa reach adulthood in their early teens, and typically reach 150 to 200 years old
 
 As a Kappa, you gain these special traits:
 
@@ -1277,9 +1280,9 @@ As a Kappa, you gain these special traits:
 
 ***Natural Armour.*** Due to your shell and the shape of your body, you are ill-suited to wearing Armour. Your shell provides ample protection, however; it gives you a base AC of 18 (your Dexterity modifier doesn't affect this number). You gain no benefit from wearing Armour, but if you are using a shield, you can apply the Shield's bonus as normal.
 
-***Wellbeing.*** Kappa have an intuitive knowledge of medicine, particularly the skill of setting broken bones. You have proficiency in the Medicine skill, and can attempt to stabilise an Unconscious creature as a Bonus Action rather than an Action.
+***Wellbeing.*** Kappa have an intuitive knowledge of medicine, particularly the skill of setting broken bones. You have Proficiency in the Medicine skill, and can attempt to stabilise an Unconscious creature as a Bonus Action rather than an Action.
 
-***Peace Magic.*** Starting at 5th level, you can cast the *Calm Emotions* spell with this trait. Once you cast *Calm Emotions* with this trait, you can't cast that spell with it again until you finish a Long Rest. You can also cast this spell using any Spell Slots you have of the appropriate level.
+***Peace Magic.*** Starting at Character Level 5, you can cast the *Calm Emotions* spell with this trait. Once you cast *Calm Emotions* with this trait, you can't cast that spell with it again until you finish a Long Rest. You can also cast this spell using any Spell Slots you have of the appropriate Spell Slot Level.
 
 Intelligence, Wisdom, or Charisma is your Spellcasting Ability for these spells when you cast them with this trait (choose when you select this species).
 
@@ -1328,11 +1331,10 @@ Gobo-Gobo-sama is an Akki deity, the God of War. Almost every Akki gathering cla
 
 ### Akki Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:438px,left:400px,width:375px,mix-blend-mode:normal}
 
-**Creature Type:** Humanoid
-</br> **Size:** Small (About 2-3 feet tall)
-</br> **Speed:** 30 feet
-</br> **Life Span:** Akki reach adulthood at age 8 and typically reach up to 70 years old.
-:
+**Creature Type:** :: Humanoid
+**Size:**          :: Small (About 2-3 feet tall)
+**Speed:**         :: 30 feet
+**Life Span:**     :: Akki reach adulthood at age 8 and typically reach up to 70 years old
 
 As an Akki, you gain these special traits:
 
@@ -1342,7 +1344,7 @@ As an Akki, you gain these special traits:
 
 ***Fury of the Small.*** When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your Proficiency Bonus. You can use this trait a number of times equal to your Proficiency Bonus, regaining all expended uses when you finish a Long Rest, and you can use it no more than once per turn.
 
-***Explosive Escape.*** You can take the Disengage or Hide Action as a Bonus Action on each of your turns. When you take the Disengage Action, you can choose to kick up a cloud of black smoke from your carapace, creating a 5-foot-radius Heavily Obscured area &nbsp;&nbsp;centred on you. This cloud lasts until the &nbsp;&nbsp;end of your next turn.
+***Explosive Escape.*** You can take the Disengage or Hide action as a Bonus Action on each of your turns. When you take the Disengage action, you can choose to kick up a cloud of black smoke from your carapace, creating a 5-foot-radius Heavily Obscured area &nbsp;centred on you. This cloud lasts until the &nbsp;&nbsp;end of your next turn.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -1404,11 +1406,10 @@ The deity Hanamai-sama is a Tanuki, and the God of Rice.
 
 ### Tanuki Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
-**Creature Type:** Humanoid, Obake (Shapechanger)
-</br> **Size:** Small (About 2-3 feet tall)
-</br> **Speed:** 30 feet, Climb Speed equal to your Speed, 5 feet Burrow Speed
-</br> **Life Span:** All Obake either reach maturity or ascend from their animal existence after 15 years, and Tanuki commonly live for around 100 years.
-:
+**Creature Type:** :: Humanoid, Obake (Shapechanger)
+**Size:**          :: Small (About 2-3 feet tall)
+**Speed:**         :: 30 feet, Climb Speed equal to your Speed, 5 feet Burrow Speed
+**Life Span:**     :: All Obake either reach maturity or ascend from their animal existence after 15 years, and Tanuki commonly live for around 100 years
 
 As a Tanuki, you gain these special traits:
 
@@ -1420,7 +1421,7 @@ You also gain the Obake (Shapechanger) creature type.
 
 ***Keen Smell.*** You have Advantage on Wisdom (Perception) checks that rely on smell.
 
-🍙 ***Onigiri!*** You know how to prepare Onigiri, rice balls with filling that are perfect for long journeys. When you finish a Long Rest, you prepare a number of Onigiri equal to your Proficiency Bonus. A creature can consume an Onigiri like a potion except they cannot be fed to an Unconscious creature, which heal 2d4+2 Hit Points. These Onigiri last until you prepare another batch. At 5th level, the healing is increased to 3d4+3.
+🍙 ***Onigiri!*** You know how to prepare Onigiri, rice balls with filling that are perfect for long journeys. When you finish a Long Rest, you prepare a number of Onigiri equal to your Proficiency Bonus. A creature can consume an Onigiri like a potion except they cannot be fed to an Unconscious creature, which heal 2d4 + 2 Hit Points. These Onigiri last until you prepare another batch. At Character Level 5, the healing is increased to 3d4 + 3.
 
 \column
 
@@ -1495,7 +1496,7 @@ Zaikawa-sama is a Kawauso Myōjin, the God of Riches.
 
 ![kawauso](https://i.imgur.com/geNGo02.png) {position:absolute,bottom:50px,left:-10px,width:445px,mix-blend-mode:normal}
 
-{{position:absolute,top:500px,left:165px,margin-bottom:-30px
+{{position:absolute,top:490px,left:165px,margin-bottom:-30px
 
 ##### A Kawauso in their</br> humanoid form
 
@@ -1511,11 +1512,10 @@ Zaikawa-sama is a Kawauso Myōjin, the God of Riches.
 
 ### Kawauso Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
-**Creature Type:** Humanoid, Obake (Shapechanger)
-</br>**Size:** Small (About 2-3 feet tall)
-</br>**Speed:** 30 feet, Swim Speed equal to your Speed
-</br>**Life Span:** All Obake either reach maturity or ascend from their animal existence after 15 years, and Kawauso commonly live for around 100 years.
-:
+**Creature Type:** :: Humanoid, Obake (Shapechanger)
+**Size:**          :: Small (About 2-3 feet tall)
+**Speed:**         :: 30 feet, Swim Speed equal to your Speed
+**Life Span:**     :: All Obake either reach maturity or ascend from their animal existence after 15 years, and Kawauso commonly live for around 100 years.
 
 As a Kawauso, you gain these special traits:
 
@@ -1523,7 +1523,7 @@ As a Kawauso, you gain these special traits:
 
 You also gain the Obake (Shapechanger) creature type.
 
-***Aquatic Ability.*** You have a Swim Speed equal to your Speed. You can also hold your breath for a number of minutes equal to 5 + your Constitution modifier (minimum of 5 minutes).
+***Aquatic Ability.*** You have a Swim Speed equal to your Speed. You can also hold your breath for a number of minutes equal to 5 plus your Constitution modifier (minimum of 5 minutes).
 
 ***Favourite Stone.*** You are in possession of a special pebble that you call your own. Whenever this pebble is separated from you, you may have the pebble quickly return to you or to whoever was previously holding it. You can choose any stone, gem, or equivalent object you possess to be your Favourite Stone.
 
@@ -1556,9 +1556,9 @@ Kajin-sama is a Kitsune Myōjin, the God of Revelry. Kajin-sama was chosen from 
 
 }}
 
-![fox-shadow](https://i.imgur.com/iBLEISy.png) {position:absolute,bottom:-120px,left:550px,width:400px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.3)skewX(-17deg),mix-blend-mode:multiply}
+![fox-shadow](https://i.imgur.com/iBLEISy.png) {position:absolute,bottom:-120px,left:535px,width:400px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.3)skewX(-17deg),mix-blend-mode:multiply}
 
-![fox](https://i.imgur.com/wrqG8GM.png) {position:absolute,bottom:-50px,right:-100px,width:400px,transform:scaleX(-1),mix-blend-mode:normal,filter:brightness(100%),mix-blend-mode:normal}
+![fox](https://i.imgur.com/wrqG8GM.png) {position:absolute,bottom:-50px,right:-85px,width:400px,transform:scaleX(-1),mix-blend-mode:normal,filter:brightness(100%),mix-blend-mode:normal}
 
 {{position:absolute,top:820px,left:370px,margin-bottom:-30px
 
@@ -1566,7 +1566,7 @@ Kajin-sama is a Kitsune Myōjin, the God of Revelry. Kajin-sama was chosen from 
 
 }}
 
-{{position:absolute,top:980px,right:260px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:980px,right:270px,margin-bottom:-30px,text-align:right
 
 ##### A Kitsune in</br> their fox form
 
@@ -1583,11 +1583,10 @@ Kajin-sama is a Kitsune Myōjin, the God of Revelry. Kajin-sama was chosen from 
 
 {{#less-big-column
 
-**Creature Type:** Humanoid, Obake (Shapechanger)
-</br>**Size:** Medium (About 4-6 feet tall)
-</br>**Speed:** 30 feet
-</br>**Life Span:** All Obake either reach maturity or ascend from their animal existence after 15 years. Kitsune typically live for around 100 to 150 years, but some can potentially live for over 1000 years.
-:
+**Creature Type:** :: Humanoid, Obake (Shapechanger)
+**Size:**          :: Medium (About 4-6 feet tall)
+**Speed:**         :: 30 feet
+**Life Span:**     :: All Obake either reach maturity or ascend from their animal existence after 15 years, and Kitsune typically live for around 100 to 150 years, but some can potentially live for over 1000 years
 
 As a Kitsune, you gain these special traits:
 
@@ -1595,11 +1594,11 @@ As a Kitsune, you gain these special traits:
 
 You also gain the Obake (Shapechanger) creature type.
 
-***Morphing Appearance.*** While in your regular form, your appearance is a hybrid between that of a human and of a fox. As an Action you can adjust your features, changing from being more human-like, to being more fox-like, or something in between. Your human and fox forms have their own unique appearance, and you cannot use this feature to disguise as someone else. You can also use this feature to show or hide your tails. To discern that you are not actually human, a creature can use its Action to inspect your appearance and must succeed on an Intelligence (Investigation) check with a DC of 8 + your Charisma modifier + your Proficiency Bonus.
+***Morphing Appearance.*** While in your regular form, your appearance is a hybrid between that of a human and of a fox. As an Action you can adjust your features, changing from being more human-like, to being more fox-like, or something in between. Your human and fox forms have their own unique appearance, and you cannot use this feature to disguise as someone else. You can also use this feature to show or hide your tails. To discern that you are not actually human, a creature can use its Action to inspect your appearance and must succeed on an Intelligence (Investigation) check (DC 8 plus your Charisma modifier and Proficiency Bonus).
 
-***Majestic Tails.*** At 4th level you grow a second tail, signifying your personal growth and enlightenment. At every second level from then, you grow another tail, to a maximum of 9. As a Reaction to yourself failing a d20 Test, you can add a bonus to your roll equal to the number of tails you have, potentially changing the result from a fail to a success. Once you use this feature, you must finish a Short Rest or Long Rest before you can use it again. When you grow your 9th tail, you also gain the Kami (Celestial) creature type.
+***Majestic Tails.*** At Character Level 4 you grow a second tail, signifying your personal growth and enlightenment. After every second level you gain from then, you grow another tail, to a maximum of 9. As a Reaction to yourself failing a D20 Test, you can add a bonus to your roll equal to the number of tails you have, potentially changing the result from a fail to a success. Once you use this feature, you must finish a Short Rest or Long Rest before you can use it again. When you grow your 9th tail, you also gain the Kami (Celestial) creature type.
 
-***Divine Messenger.*** You know the *Dancing Lights* and *Message* cantrips. You can cast these while in your Animal form. When you use the *Dancing Lights* cantrip from this feature, they have the appearance of floating flames called Kitsunebi.
+***Divine Messenger.*** You know the *Dancing Lights* and *Message* cantrips. You can cast these while in your Animal form. When you use the *Dancing Lights* cantrip from this feature, they have the appearance </br>of floating flames called Kitsunebi.
 
 }}
 
@@ -1615,9 +1614,9 @@ Refer to Appendix A for creature stat blocks, and Appendix D for rules on Transf
 
 }}
 
-![fox-shadow](https://i.imgur.com/iBLEISy.png) {position:absolute,bottom:-120px,left:-250px,width:400px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.3)skewX(-17deg),mix-blend-mode:multiply}
+![fox-shadow](https://i.imgur.com/iBLEISy.png) {position:absolute,bottom:-120px,left:-265px,width:400px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.3)skewX(-17deg),mix-blend-mode:multiply}
 
-![fox](https://i.imgur.com/H5UanUI.png) {position:absolute,bottom:-50px,left:-300px,width:400px,transform:scaleX(-1),mix-blend-mode:normal,filter:brightness(100%),mix-blend-mode:normal}
+![fox](https://i.imgur.com/H5UanUI.png) {position:absolute,bottom:-50px,left:-315px,width:400px,transform:scaleX(-1),mix-blend-mode:normal,filter:brightness(100%),mix-blend-mode:normal}
 
 {{imageMaskEdge1,--offset:6%,--rotation:270
   ![lightpaws](https://i.imgur.com/dJuS9ow.png){position:absolute,bottom:-1px,left:-100px,height:101%}
@@ -1676,11 +1675,10 @@ The deity Ochiwa-sama is a Kisuru, and the God of Mourning.
 
 ### Kisuru Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:568px,left:400px,width:375px,mix-blend-mode:normal}
 
-**Creature Type:** Humanoid, Obake (Shapechanger)
-</br>**Size:** Medium (about 6-8 feet tall)
-</br>**Speed:** 30 feet
-</br>**Life Span:** All Obake either reach maturity or ascend from their animal existence after 15 years, and Kisuru commonly live for around 130 years.
-:
+**Creature Type:** :: Humanoid, Obake (Shapechanger)
+**Size:**          :: Medium (about 6-8 feet tall)
+**Speed:**         :: 30 feet
+**Life Span:**     :: All Obake either reach maturity or ascend from their animal existence after 15 years, and Kisuru commonly live for around 130 years
 
 As a Kisuru, you gain these special traits:
 
@@ -1730,7 +1728,7 @@ Refer to Appendix A for creature stat blocks, and Appendix D for rules on Transf
 
 &nbsp;***Glide.*** When you are in a fall of 10 feet or more, you can use your Reaction to extend your wings and slow your fall to 60 feet per round, for up to 1 minute. While falling in this way you can glide a number of feet equal to your Speed per turn, and you take 0 damage from the fall when you land. You determine the direction of the glide, and you can act as normal while slowly falling.
 
-***Protection Magic.*** You know the Spare the Dying cantrip. Starting at 3rd level, you can cast the Ceremony spell with this trait. Starting at 5th level, you can also cast the Gentle Repose spell with this trait. Once you cast Ceremony or Gentle Repose with this trait, you can't cast that spell with it again until you finish a Long Rest. You can also cast either of those spells using any Spell Slots you have of the appropriate level.
+***Protection Magic.*** You know the *Spare the Dying* cantrip. Starting at Character Level 3, you can cast the *Ceremony* spell with this trait. Starting at Character Level 5, you can also cast the *Gentle Repose* spell with this trait. Once you cast *Ceremony* or *Gentle Repose* with this trait, you can't cast that spell with it again until you finish a Long Rest. You can also cast either of those spells using any Spell Slots you have of the appropriate Spell Slot Level.
 
 Intelligence, Wisdom, or Charisma is your Spellcasting Ability for these spells when you cast them with this trait (choose when you select this species).
 
@@ -1749,7 +1747,7 @@ Intelligence, Wisdom, or Charisma is your Spellcasting Ability for these spells 
 
 :::::::::::::::::::::
 
-## ぶながや - Bunagaya (Halfling)
+## ぶながや - Bunagaya (Halfling) - TODO
 
 Text - TODO
 
@@ -1763,15 +1761,14 @@ There's a common Sumirikugo saying that goes "When playing cards, the shark at t
 
 ### Bunagaya Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:366px,left:400px,width:375px,mix-blend-mode:normal}
 
-**Creature Type:** Humanoid
-</br>**Size:** Small (About 3 feet tall)
-</br>**Speed:** 25 feet, Climb and Swim Speeds equal to your Speed
-</br>**Life Span:** Bunagaya reach adulthood in their late teens and typically reach up to 70 years old.
-:
+**Creature Type:** :: Humanoid
+**Size:**          :: Small (About 3 feet tall)
+**Speed:**         :: 25 feet, Climb and Swim Speeds equal to your Speed
+**Life Span:**     :: Bunagaya reach adulthood in their late teens and typically reach up to 70 years old
 
 As a Bunagaya, you gain these special traits:
 
-***Lucky.*** When you roll a 1 on a d20 Test, you can reroll the die and must use the new roll.
+***Lucky.*** When you roll a 1 on a D20 Test, you can reroll the die and must use the new roll.
 
 ***Brave.*** You have Advantage on Saving Throws against being Frightened.
 
@@ -1779,11 +1776,9 @@ As a Bunagaya, you gain these special traits:
 
 ***Limber.*** You gain a Climb and Swim Speed equal to your Speed.
 
-***Aquatic Ambusher.*** You have Advantage on Stealth checks while underwater. You also know the direction towards the closest river or body of water.
+***Aquatic Ambusher.*** You have Advantage on Dexterity (Stealth) checks while underwater. You also know the direction towards the closest river or body of water.
 
-***Net Positive.*** You can attempt to use a Net on a creature of up to 30 feet away, instead of 15 feet, and you can choose for the DC of the Dexterity Saving Throw to be 8 + your Proficiency Bonus + your Strength modifier rather than your Dexterity modifier. When you use a Net on a creature within 15 feet, they have Disadvantage on the Dexterity Saving Throw. All creatures have Disadvantage on the Strength (Athletics) check required to escape a Net you throw.
-
-:
+***Net Positive.*** You can attempt to use a Net on a creature of up to 30 feet away, instead of 15 feet, and you can choose for the DC of the Dexterity Saving Throw to be 8 plus your Strength modifier and Proficiency Bonus rather than your Dexterity modifier. When you use a Net on a creature within 15 feet, they have Disadvantage on the Dexterity Saving Throw. All creatures have Disadvantage on the Strength (Athletics) checks required to escape a Net you throw.
 
 {{note
 
@@ -1808,7 +1803,7 @@ Refer to the Appendix D for updated rules on Nets, an Adventuring Gear rather th
 
 :::::::::::::::::::::
 
-## ころぽっくる - Korpokkur (Dwarf)
+## ころぽっくる - Korpokkur (Dwarf) - TODO
 
 Text - TODO
 
@@ -1818,11 +1813,10 @@ Text - TODO
 
 ### Korpokkur Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:367px,left:400px,width:375px,mix-blend-mode:normal}
 
-**Creature Type:** Humanoid
-</br>**Size:** Small (about 2-4 feet tall)
-</br>**Speed:** 25 feet
-</br>**Life Span:** Korpokkur reach adulthood in their late teens and typically reach up to 150 years old.
-:
+**Creature Type:** :: Humanoid
+**Size:**          :: Small (about 2-4 feet tall)
+**Speed:**         :: 25 feet
+**Life Span:**     :: Korpokkur reach adulthood in their late teens and typically reach up to 150 years old
 
 As a Korpokkur, you gain these special traits:
 
@@ -1830,13 +1824,13 @@ As a Korpokkur, you gain these special traits:
 
 ***Dwarven Resilience.*** You have Resistance to Poison damage. You also have Advantage on Saving Throws you make to avoid or end the Poisoned Condition on yourself.
 
-***Dwarven Toughness.*** Your Hit Point Maximum increases by 1, and it increases by 1 again whenever you gain a level.
+***Dwarven Toughness.*** Your Hit Point maximum increases by 1, and it increases by 1 again whenever you gain a level.
 
 ***Earth Sense.*** As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be standing on or touching an earth or stone surface to use this Tremorsense. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
-***Home Is Where The Hearth Is.*** You know the Mould Earth cantrip. In addition, you can spend an hour crafting a Korpokkur home large enough for 10 Medium creatures, provided the ground is earth. A creature who completes a Sleep inside this home regains a number of Hit Dice and a combined level of Spell Slots equal to their Proficiency Bonus. You can spend another hour to unmake the home, leaving no trace of you having been there.
+***Home Is Where The Hearth Is.*** You know the *Mould Earth* cantrip. In addition, you can spend an hour crafting a Korpokkur home large enough for 10 Medium creatures, provided the ground is earth. A creature who completes a Sleep inside this home regains a number of Hit Dice and a combined Level of Spell Slots equal to their Proficiency Bonus. You can spend another hour to unmake the home, leaving no trace of you having been there.
 
-***Skilled Potter.*** You have proficiency with Potter's tools.
+***Skilled Potter.*** You have Proficiency with Potter's tools.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -1890,11 +1884,10 @@ Ryūson are unique in that they lack representation from among the Myōjin. Tama
 
 ### Ryūson Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:294px,left:55px,width:375px,mix-blend-mode:normal}
 
-**Creature Type:** Humanoid
-</br>**Size:** Medium (About 5-7 feet tall)
-</br>**Speed:** 30 feet, Swim Speed equal to your Speed.
-</br>**Life Span:** Ryūson reach adulthood in their late teens and live an average of 150 years.
-:
+**Creature Type:** :: Humanoid
+**Size:**          :: Medium (About 5-7 feet tall)
+**Speed:**         :: 30 feet, Swim Speed equal to your Speed
+**Life Span:**     :: Ryūson reach adulthood in their late teens and live an average of 150 years
 
 As a Ryūson, you gain these special traits:
 
@@ -1904,15 +1897,15 @@ As a Ryūson, you gain these special traits:
 
 ***Dragon-Kami Ancestry.*** Your lineage stems from a Dragon progenitor. Choose the kind of Dragon from the Dragon-Kami Ancestor tables. Your choice affects your Breath Weapon, Damage Resistance, and Orochi Ascendant traits. If there are multiple associated damage types for the specific Ancestor, choose one of those damage types when you select this species. The chosen Dragon also affects your appearance, with you displaying coloration and other features reminiscent of that Dragon.
 
-***Breath Weapon.*** When you take the Attack Action on your turn, you can replace one of your attacks with an exhalation of magical energy in a 30-foot line that is 5 feet wide. Each creature in that area must make a Dexterity Saving Throw against a DC equal to 8 + your Constitution modifier + your Proficiency Bonus. On a failed save, a creature takes 1d10 damage of the type determined by your Dragon-Kami Ancestry trait. On a successful save, a creature takes half as much damage. This damage increases by 1d10 when you reach the following character levels: 5th level (2d10), 11th level (3d10), and 17th level (4d10).
+***Breath Weapon.*** When you take the Attack action on your turn, you can replace one of your attacks with an exhalation of magical energy in a 30-foot line that is 5 feet wide. Each creature in that area must make a Dexterity Saving Throw (DC 8 plus your Constitution modifier and Proficiency Bonus). On a failed save, a creature takes 1d10 damage of the type determined by your Dragon-Kami Ancestry trait. On a successful save, a creature takes half as much damage. This damage increases by 1d10 when you reach Character Levels 5 (2d10), 11 (3d10), and 17 (4d10).
 
 You can use this Breath Weapon a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 \column
 
-::::::::::::::::::
+:::::::::::::::::
 
-{{#dragon-table,classTable
+{{#dragon-table
 
 ##### Dragon-Kami Ancestor
 
@@ -1938,7 +1931,7 @@ You can use this Breath Weapon a number of times equal to your Proficiency Bonus
 
 &nbsp***Draconic Resistance.*** You have resistance to the damage type associated with your Dragon-Kami Ancestry.
 
-***Orochi Ascendant.*** When you reach 5th level, you become able to tap into some of the power of your great Dragon ancestors. As an Action you can channel this power, becoming immune to the damage type associated with your Dragon-Kami Ancestry trait for 1 minute, or until you end the channelling with a Bonus Action. While you are channelling this power, once on your turn when you hit with an Attack Roll or deal damage with your Breath Weapon, you can have the attack or Breath Weapon deal an additional 1d6 damage of the type determined by your Dragon-Kami Ancestry trait. Once you use this trait, you can't do so again until you finish a Long Rest.
+***Orochi Ascendant.*** When you reach Character Level 5, you become able to tap into some of the power of your great Dragon ancestors. As an Action you can channel this power, becoming immune to the damage type associated with your Dragon-Kami Ancestry trait for 1 minute, or until you end the channelling with a Bonus Action. While you are channelling this power, once on your turn when you hit with an Attack Roll or deal damage with your Breath Weapon, you can have the attack or Breath Weapon deal an additional 1d6 damage of the type determined by your Dragon-Kami Ancestry trait. Once you use this trait, you can't do so again until you finish a Long Rest.
 
 ![splotch](https://i.imgur.com/UPUX4zG.png) {position:absolute,right:120px,bottom:50px,width:180px,mix-blend-mode:multiply,filter:hue-rotate(45deg)brightness(200%),opacity:50%,rotate:90deg,transform:scaleY(1.5)}
 
@@ -1988,7 +1981,7 @@ You can use this Breath Weapon a number of times equal to your Proficiency Bonus
 
 ::::::::::::::::::::::::::::::::
 
-## 人 - Human
+## 人 - Human - TODO
 
 Text - TODO
 
@@ -1998,11 +1991,10 @@ Text - TODO
 
 ### Human Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:525px,left:400px,width:375px,mix-blend-mode:normal}
 
-**Creature Type:** Humanoid
-</br>**Size:** Medium (about 4-7 feet tall) or Small (about 3-4 feet tall), chosen when you select this Species
-</br>**Speed:** 30 feet
-</br>**Life Span:** Humans reach adulthood in their late teens and live for an average of 80 to 90 years.
-:
+**Creature Type:** :: Humanoid
+**Size:**          :: Medium (about 4-7 feet tall) or Small (about 3-4 feet tall), chosen when you select this species
+**Speed:**         :: 30 feet
+**Life Span:**     :: Humans reach adulthood in their late teens and live for an average of 80 to 90 years
 
 As a Human, you gain these special traits:
 
@@ -2010,7 +2002,7 @@ As a Human, you gain these special traits:
 
 ***Skillful.*** You gain Proficiency in one Skill of your choice.
 
-***Versatile.*** You gain the Skilled Feat or another 1st-Level Feat of your choice.
+***Versatile.*** You gain the Skilled feat or another Origin Feat of your choice.
 
 :
 
@@ -2018,7 +2010,7 @@ As a Human, you gain these special traits:
 
 ##### Note: Modified Rules
 
-Refer to Appendix B for the available 1st-Level Feats and Appendix D for rules on Heroic Rerolls.
+Refer to Appendix B for the updated Origin Feats and Appendix D for rules on Heroic Rerolls.
 
 }}
 
@@ -2059,7 +2051,7 @@ Refer to Appendix B for the available 1st-Level Feats and Appendix D for rules o
 
 Some people have had their physiology magically shifted, making them something beyond the species typically found in Sumiriku. These may be those who have bonded with a malevolent being, those who have something otherworldly within their bloodline, or even those who have escaped Yomi to return to the land of the living. Humans seem to be the most likely of all the species to pick up these mutations, but it is presumed that any species could go through a similar transformation.
 
-When creating an Aberrant Form character, first pick an initial base Species. You inherit Size and Speeds from this Species, as well as some appearance, but all other Species Traits are replaced with the traits of the chosen Aberrant Form.
+When creating an Aberrant Form character, first pick an initial base species. You inherit Size and Speeds from this species, as well as some appearance, but all other species traits are replaced with the traits of the chosen Aberrant Form.
 
 ## 鬼 - Oni Bloodline Form
 
@@ -2078,21 +2070,20 @@ This infernal bloodline gives the people cursed with it enhanced strength and an
 
 ### Oni Bloodline Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
-**Creature Type:** Inherited from base Species, Oni (Fiend)
-</br>**Size:** Inherited from base Species
-</br>**Speed:** Inherited from base Species
-</br>**Life Span:** Unknown
-:
+**Creature Type:** :: Inherited from base species, Oni (Fiend)
+**Size:**          :: Inherited from base species
+**Speed:**         :: Inherited from base species
+**Life Span:**     :: Unknown
 
 As an Oni Bloodline, you gain these special traits:
 
 ***Brimstone Blood.*** You gain the Oni (Fiend) creature type.
 
-***Ferocity.*** As an Oni you have a burning passion inside you that needs to be kept in check. Whenever you fail a d20 test you roll 1d4 and add that amount to your total Ferocity. Additionally, if you start your turn in combat while not Incapacitated, you increase your Ferocity by 1d4 + the number of hostile creatures within 5 feet. If you are made Unconscious against your will, such as being reduced to 0 Hit Points, your Ferocity resets.
+***Ferocity.*** As an Oni you have a burning passion inside you that needs to be kept in check. Whenever you fail a D20 test you roll 1d4 and add that amount to your total Ferocity. Additionally, if you start your turn in combat while not Incapacitated, you increase your Ferocity by 1d4 plus the number of hostile creatures within 5 feet. If you are made Unconscious against your will, such as being reduced to 0 Hit Points, your Ferocity resets.
 
-***Rampage.*** If you start your turn with 15 or more Ferocity, you must make a Wisdom Saving Throw, with DC equal to your current Ferocity, or else you will be overcome with bloodlust. You must spend your turn moving up to your movement towards the nearest target and then attack them with Demon Fangs, expending all of your Ferocity to deal damage. If at least one ally and one enemy are both the closest creatures, roll a die for odd or even to decide whether to attack an ally or an enemy. If no target is within range, you must take the Dash Action and move as close as possible to the nearest target.
+***Rampage.*** If you start your turn with 15 or more Ferocity, you must succeed on a Wisdom Saving Throw (DC equal to your current Ferocity), or else you will be overcome with bloodlust. You must spend your turn moving up to your movement towards the nearest target and then attack them with Demon Fangs, expending all of your Ferocity to deal damage. If at least one ally and one enemy are both the closest creatures, roll a die for odd or even to decide whether to attack an ally or an enemy. If no target is within range, you must take the Dash action and move as close as possible to the nearest target.
 
-***Demon Fangs.*** You have grown fangs that show your demonic association. Your fanged bite is a natural weapon, which counts as a Simple Melee Weapon with which you are proficient. While above 10 Ferocity, you have Advantage on attacks with this bite. It deals 1d4 Piercing damage on a hit. When you attack with this weapon and hit a creature, you can expend any amount of Ferocity to deal an equal amount of additional damage with the attack.
+***Demon Fangs.*** You have grown fangs that show your demonic association. Your fanged bite is a Natural weapon, which counts as a Simple Melee weapon with which you are proficient. While above 10 Ferocity, you have Advantage on attacks with this bite. It deals 1d4 Piercing damage on a hit. When you attack with this weapon and hit a creature, you can expend any amount of Ferocity to deal an equal amount of additional damage with the attack.
 
 :
 
@@ -2108,7 +2099,7 @@ You are only able to gain Ferocity when you fail d20 tests that you had a reason
 
 &nbsp;***Imposing Power.*** You can spend 5 Ferocity whenever you make a Charisma (Intimidation) or Strength (Athletics) check to grant yourself Advantage on the roll.
 
-***Frightful Presence.*** As an Action, you can spend 5 Ferocity to terrify the creatures around you. All creatures of your choice in a 30-foot-radius centred on you must make a Wisdom Saving Throw, or be Frightened of you until the start of your next turn. The DC is equal to 5 + your Proficiency Bonus + your current Ferocity.
+***Frightful Presence.*** As an Action, you can spend 5 Ferocity to terrify the creatures around you. All creatures of your choice in a 30-foot-radius centred on you must succeed on a Wisdom Saving Throw (DC 5 plus your current Ferocity and Proficiency Bonus), or be Frightened of you until the start of your next turn.
 
 {{position:absolute,top:1035px,right:410px,margin-bottom:-30px,text-align:right
 
@@ -2153,11 +2144,10 @@ A Yūrei is a ghost or spirit that lingers in the worlds of the living, rather t
 
 ### Yūrei Manifest Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
-**Creature Type:** Inherited from base Species, Fushisha (Undead)
-</br>**Size:** Inherited from base Species
-</br>**Speed:** Inherited from base Species
-</br>**Life Span:** Unknown
-:
+**Creature Type:** :: Inherited from base species, Fushisha (Undead)
+**Size:**          :: Inherited from base species
+**Speed:**         :: Inherited from base species
+**Life Span:**     :: Unknown
 
 As a Yūrei Manifest, you gain these special traits:
 
@@ -2167,7 +2157,7 @@ As a Yūrei Manifest, you gain these special traits:
 
 ***Under a Dark Sky.*** You have vulnerability to Radiant damage.
 
-***Cling to Life.*** You roll a d12 in place of a d20 for Death Saving Throws. On a roll of 1 to 4 you get one failed save, on a roll of 5 to 8 you get one successful save, and on a roll of 9 to 12 you regain 1 hit point and become conscious. You cannot add any additional bonuses to this Saving Throw.
+***Cling to Life.*** You roll a d12 in place of a d20 for Death Saving Throws. On a roll of 1 to 4 you get one failed save, on a roll of 5 to 8 you get one successful save, and on a roll of 9 to 12 you regain 1 Hit Point and become conscious. You cannot add any additional bonuses to this Saving Throw.
 
 ***Pass Through Reality.*** You can use a Bonus Action to phase, allowing you to bypass the real and tangible. This phasing lasts until the end of your turn. While phasing, you can move through solid objects and creatures as if they were Difficult Terrain. If you stop phasing inside a creature or object, you are instantly shunted to the nearest unoccupied space and take 1d10 Force damage for every 5 feet you were forced to travel. You can phase a number of times equal to your Proficiency Bonus, and you regain all uses after you finish a Long Rest.
 
@@ -2192,17 +2182,16 @@ There is a growing paranoia and animosity about the existence of foreign-realm b
 
 ### Noppera-bō Changeling Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:708px,left:55px,width:375px,mix-blend-mode:normal}
 
-**Creature Type:** Inherited from base Species, Yōkai (Fey), Obake (Shapechanger)
-</br>**Size:** Small or Medium
-</br>**Speed:** Inherited from base Species
-</br>**Life Span:** Unknown
-:
+**Creature Type:** :: Inherited from base species, Yōkai (Fey), Obake (Shapechanger)
+**Size:**          :: Inherited from base species
+**Speed:**         :: Inherited from base species
+**Life Span:**     :: Unknown
 
 As a Noppera-bō Changeling, you gain these special traits:
 
 ***Yokai Shifter.*** You gain the Yōkai (Fey) and Obake (Shapechanger) creature type in addition to any other creature types.
 
-***Many Faces.*** Thanks to your connection to the Kimyōkai realm, you gain proficiency with two of the following skills of your choice: Deception, Insight, Intimidation, Performance, or Persuasion.
+***Many Faces.*** Thanks to your connection to the Kimyōkai realm, you gain Proficiency with two of the following skills of your choice: Deception, Insight, Intimidation, Performance, or Persuasion.
 
 \column
 
@@ -2272,7 +2261,7 @@ survival ranger?
 ainu ranger?
 
 ninja rogue?
-dagger dancer rouge
+dagger dancer rogue
 
 spirit soul sorcerer?
 yokai sorcerer?
@@ -2311,9 +2300,17 @@ This section describes all the classes available, explains groups that would ass
 
 ##### Note: Versions of Classes
 
-This book assumes, and would suggest, use of the 2024 D&D versions of the existing Classes over their 5e counterparts where possible. These versions of the Classes can be found within the 2024 D&D playtest documents.
+<!-- TODO - CHANGE FROM PLAYTEST - REPLACE WITH THIS TEXT WHEN POSSIBLE
 
-The Alternate versions of Classes by LaserLlama are suggested for players who want additional complexity, as these versions add more options and tactical choices to these Classes. All rules within this book are either compatible with, or specify how to convert to, all three versions of the classes.
+This book assumes, and would suggest, use of the 2024 D&D versions of the existing classes over their 2014 counterparts where possible.
+
+The Alternate versions of classes by LaserLlama are suggested for players who want additional complexity, as these versions add more options and tactical choices to these classes. All rules within this book are either compatible with, or specify how to convert to, both versions of the classes.
+
+-->
+
+This book assumes, and would suggest, use of the 2024 D&D versions of the existing classes over their 2014 counterparts where possible. These versions of the classes can be found within the 2024 D&D playtest documents.
+
+The Alternate versions of classes by LaserLlama are suggested for players who want additional complexity, as these versions add more options and tactical choices to these classes. All rules within this book are either compatible with, or specify how to convert to, all three versions of the classes.
 
 }}
 
@@ -2332,38 +2329,23 @@ The intersection of skills between Barbarians and Monks are Sumōtori (相撲取
 
 \page
 
-### Path of the Kaijū ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Path of the Kaijū - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Alternate Barbarian Subclass*
 </br>
 Those who walk the Path of the Kaijū are living proof of the existence of Sumiriku's most destructive creatures. Though it is unknown how they forged this bond with beings of myth, in their veins flows the same blood as these mysterious titans of destruction, wrath, and carnage. Rumours still swirl about the Kaijū's status, their power, and their intentions, but one trait is agreed upon; their driving force is rage.
 
-{{#subclass-table,classTable
+#### Level 3: Rip and Tear
 
-| Alt. Barbarian Level | Feature                      |
-|:---------------------|:-----------------------------|
-| 3rd                  | Rip and Tear, Kaijū Exploits |
-| 6th                  | Titan's Slumber |
-| 10th                 | Anti-Magic Scales |
-| 14th                 | Alpha and Omega |
+You have grown the weapons of the Kaijū, vicious claws and a barbed tail. Your Unarmed Strikes deal Bludgeoning or Slashing damage, your choice, equal to one roll of your Exploit Die plus your Strength modifier. <!-- Should these be natural weapons??? -->
 
-}}
+As a Bonus Action you can swing your tail around to trip your foes. Each creature your size or smaller within 5 feet of you must succeed on a Strength Saving Throw against your Exploit Save DC, or they take Bludgeoning damage equal to one roll of your Exploit Die and are knocked Prone.
 
-#### Rip and Tear
+#### Level 3: Kaijū Exploits
 
-*3rd level Path of the Kaijū feature*
-</br>
-You have grown the weapons of the Kaijū, vicious claws and a barbed tail. Your Unarmed Strikes deal Bludgeoning or Slashing damage, your choice, equal to one roll of your Exploit Die + your Strength Modifier. <!-- Should these be natural weapons??? -->
-
-As a Bonus Action you can swing your tail around to trip your foes, forcing all creatures your size or smaller within 5 feet of you to make a Strength Saving Throw against your Exploit Save DC. Each creature that fails takes Bludgeoning damage equal to one roll of your Exploit Die and is knocked Prone.
-
-#### Kaijū Exploits
-
-*3rd level Path of the Kaijū feature*
-</br>
 You learn certain Exploits at the Alternate Barbarian levels in the table below. These don't count against your number of Exploits Known and can't be switched upon gaining a level.
 
-{{#subclass-table,classTable
+{{#subclass-table
 
 | Alt. Barbarian Level | Exploit                            |
 |:---------------------|:-----------------------------------|
@@ -2376,11 +2358,11 @@ You learn certain Exploits at the Alternate Barbarian levels in the table below.
 
 :
 
-#### Titan's Slumber
+#### Level 6: Titan's Slumber - TODO
 
-*6th level Path of the Kaijū feature*
-</br>
-While you rest your power grows; those that disrupt this hibernation should beware. When you complete a Long Rest, you gain Temporary Hit Points equal to your Constitution Modifier + your level. While you have these Temporary Hit Points, your Unarmored Defense increased to 13 + your Dexterity Modifier + your Constitution modifier, as your armoured scales build themselves around you.
+While you rest your power grows; those that disrupt this hibernation should beware. When you complete a Long Rest, you gain Temporary Hit Points equal to your Constitution modifier plus your level. While you have these Temporary Hit Points, your Unarmoured Defense increased to 13 plus your Dexterity and Constitution modifiers, as your armoured scales build themselves around you.
+
+In addition, you are quick to strike from your slumber. You are able to make passive Wisdom (Perception) checks to listen for threats while Sleeping, you cannot have Disadvantage on your Initiative rolls while resting, and if you enter a combat while resting you are able to begin the combat by entering your Rage, before any other creatures get the chance to act.
 
 \column
 
@@ -2400,13 +2382,9 @@ While you rest your power grows; those that disrupt this hibernation should bewa
 
 :::::::::::::::::::::::::::::::::::::::::
 
-&nbsp;In addition, you are quick to strike from your slumber. You are able to make passive Wisdom (Perception) checks to listen for threats while Sleeping, you cannot have Disadvantage on your Initiative rolls while resting, and if you enter a combat while resting you are able to begin the combat by entering your Rage, before any other creatures get the chance to act.
+#### Level 10: Anti-Magic Scales
 
-#### Anti-Magic Scales
-
-*10th level Path of the Kaijū feature*
-</br>
-Your carapace armour has developed a protection against magical threats. While Raging, if you are targeted by a *Magic Missile* spell, a line spell, or a spell that requires a Ranged Attack Roll, you may use your Reaction to make a Constitution Saving Throw against the caster's Spell Save DC. If you succeed the spell has no effect against you. If you roll a 20 on the Saving Throw, you are unaffected and and the effect is reflected back at the caster as though it originated from you, turning the caster into the target.
+Your carapace armour has developed a protection against magical threats. While Raging, if you are targeted by a *Magic Missile* spell, a line spell, or a spell that requires a Ranged Spell Attack, you may use your Reaction to make a Constitution Saving Throw against the caster's Spell Save DC. If you succeed the spell has no effect against you. If you roll a 20 on the Saving Throw, you are unaffected and and the effect is reflected back at the caster as though it originated from you, turning the caster into the target.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -2415,11 +2393,9 @@ Your carapace armour has developed a protection against magical threats. While R
 
 \page
 
-#### Alpha and Omega
+#### Level 14: Alpha and Omega
 
-*14th level Path of the Kaijū feature*
-</br>
-You have become the pure embodiment of gigantic, destructive power. When you enter a Rage, you can choose to titanically empower your rage. When you do so, you grow to Huge if you were not already, and you gain Temporary Hit Points as if you used your *Titan's Slumber* feature. While your Rage persists, your Speed increases to 50 feet, you cannot be moved, knocked Prone, or have your Speed reduced against your will, and your Unarmed Strikes deal additional damage equal to one roll of your Exploit Die. At the end of this Rage you return to your original size. Once you use this feature, you must finish a Long Rest before you can use it again.
+You have become the pure embodiment of gigantic, destructive power. When you enter a Rage, you can choose to titanically empower your rage. When you do so, you grow to Huge if you were not already, and you gain Temporary Hit Points as if you used your Titan's Slumber feature. While your Rage persists, your Speed increases to 50 feet, you cannot be moved, knocked Prone, or have your Speed reduced against your will, and your Unarmed Strikes deal additional damage equal to one roll of your Exploit Die. At the end of this Rage you return to your original size. Once you use this feature, you must finish a Long Rest before you can use it again.
 
 While in this empowered Rage, you use your Bonus Action to end it early, letting out a beam of suppressed energy from inside you. Every creature in a 100 foot long and 10 foot wide line must make a Dexterity Saving Throw against your Exploit Save DC. On a failed save, a creature takes Fire, Force, or Radiant damage (your choice) equal to 5 rolls of your Exploit Die and is Dazed. On a successful save, a creature takes half as much damage and is not Dazed.
 
@@ -2429,10 +2405,10 @@ While in this empowered Rage, you use your Bonus Action to end it early, letting
 
 ##### Note: Adapting to 2024 D&D Barbarian
 
-To adapt this subclass to fuction with the 2024 D&D Barbarian, change the following:
+To adapt this subclass to function with the 2024 D&D Barbarian, change the following:
 
-- You no longer have the *Kaijū Exploits* feature.
-- Any ability that requires an Exploit Save DC instead has a DC that equals 8 + your proficiency bonus + your Strength modifier.
+- You no longer have the Kaijū Exploits feature.
+- Any ability that requires an Exploit Save DC instead has DC 8 plus your Strength modifier and Proficiency Bonus.
 - Any ability that uses an Exploit Die instead replaces that die with 1d8.
 
 }}
@@ -2443,7 +2419,7 @@ To adapt this subclass to fuction with the 2024 D&D Barbarian, change the follow
 
 ##### Note: Where are the Artificers?
 
-Artificer as a Class is not presented here, as it is not assumed to be available within the setting of Sumiriku; their inventor archetype does not fit well within the pre-industrial setting. Talk with your DM if you wish to play as an Artificer, to create a character concept that would fit within Sumiriku.
+Artificer as a class is not presented here, as it is not assumed to be available within the setting of Sumiriku; their inventor archetype does not fit well within the pre-industrial setting. Talk with your DM if you wish to play as an Artificer, to create a character concept that would fit within Sumiriku.
 
 }}
 
@@ -2480,51 +2456,31 @@ In the Equipment section later in this part is a list of instruments specific to
 
 \page
 
-### College of Ink ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### College of Ink - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Bard Subclass*
 </br>
 The name Sumiriku translates to 'Land of Ink', in reference to the cosmic ink used by the </br>Ō-Hoshikuzushin to draw the islands' shores. Brushwork on canvas, in all its many forms, has always been a sacred and greatly appreciated art, from the elite classes to the common folk. Those that learn of the College of Ink turn their talent with the brush to pure, artistic magic.
 
-{{#subclass-table,classTable
+#### Level 3: Professional Specialisation
 
-| Bard Level | Feature                      |
-|:-----------|:-----------------------------|
-| 3rd        | ??? |
-| 6th        | ??? |
-| 14th       | ??? |
-
-}}
-
-#### Professional Specialisation
-
-*3rd level College of Ink feature*
-</br>
 You are able to choose the medium of your artistry and your magic. Choose either Painting or Writing, to be your medium of choice. If you choose Painting, you gain Painter's Supplies. If you choose Writing, you gain Calligrapher's Supplies. Either way, you gain Proficiency in the tool you gained and can use that type of tool as a Spellcasting Focus.
 
-#### Brushstroke Magic
+#### Level 3: Brushstroke Magic
 
-*3rd level College of Ink feature*
-</br>
 The ink of your brush enhances your spellcasting. When you use your medium's tool to cast a spell, you can replace the Verbal components that spell may have with writing or drawing with your brush.
 
-In addition, if you target a creature with a spell, you can expend one use of your Bardic Inspiration to create an Ink Path between yourself and the creature that lasts for 1 minute. If your medium is Writing, the path is Difficult Terrain, and every creature other than you in contact with the path when it appears must make a Dexterity Saving Throw against your
+In addition, if you target a creature with a spell, you can expend one use of your Bardic Inspiration to create an Ink Path between yourself and the creature that lasts for 1 minute. If your medium is Writing, the path is Difficult Terrain, and every creature other than you in contact with the path when it appears must make a Dexterity Saving Throw against your Spell Save DC or fall Prone. If your medium is Painting, creatures can travel 10 feet along the path only using 5 feet of movement, and any creature in contact with the path when it appears gains 1d6 Temporary Hit Points. If you have already made an Ink Path, it disappears when you make a new one.
 
 \column
 
-Spell Save DC or fall Prone. If your medium is Painting, creatures can travel 10 feet along the path only using 5 feet of movement, and any creature in contact with the path when it appears gains 1d6 temporary hit points. If you have already made an Ink Path, it disappears when you make a new one.
+#### Level 6: ??? - TODO
 
-#### ???
+Text - TODO
 
-*6th level College of Ink feature*
-</br>
-???
+#### Level 14: ??? - TODO
 
-#### ???
-
-*14th level College of Ink feature*
-</br>
-???
+Text - TODO
 
 {{position:absolute,top:780px,left:450px,margin-bottom:-30px,align:right
 
@@ -2566,7 +2522,7 @@ In the shadowy corners of the world there exist a select few, who have taken a m
 </br>
 To most people, Yokai seem like nothing more than curious miscreants, mischief makers - few recognise the true danger these otherworldly beings can bring. Dwelling  within Kimyōkai, creatures of great power plot and scheme at the downfall of the manifest world and their control over both realms. The world's protection comes from Yokai hunters calling themselves the Shiftstalkers, who have mastered using the Yokai's techniques of disguise, trickery, and manipulation against them.
 
-{{#subclass-table,classTable
+<!-- {{#subclass-table
 
 | Alt. Blood Hunter Level | Feature                                           |
 |:------------------------|:--------------------------------------------------|
@@ -2575,17 +2531,19 @@ To most people, Yokai seem like nothing more than curious miscreants, mischief m
 | 13th                    | Repellant Aura                                    |
 | 18th                    | Devour Soul                                       |
 
-}}
+}} -->
 
-#### Mimic Weapon
+#### Level 3: Mimic Weapon
 
-*3rd level Order of the Shiftstalkers feature*
-</br>
-One of your weapons has awoken to reveal itself as a Tsukumogami, a Yokai that disguises itself as an inanimate object. Choose a Melee Weapon that you own with which you are proficient. This weapon becomes your Mimic Weapon.
+One of your weapons has awoken to reveal itself as a Tsukumogami, a Yokai that disguises itself as an inanimate object. Choose a Melee weapon that you own with which you are proficient. This weapon becomes your Mimic Weapon.
 
 Your Mimic Weapon is a sentient weapon, with an Intelligence of 8, a Wisdom of 14, and a Charisma of 11. It has your alignment and shares your goals, but also wishes to devour other weapons to prove its power. It has signs of being a living weapon, such as eyes or teeth, but it can disguise those features to make them unnoticeable. It has hearing and normal vision out to a range of 60 feet, understands your speech, and can communicate through animalistic grunts and vocalisations. As an Action you can transform your weapon, changing it into any other Melee Weapon with which you are proficient.
 
-Your Mimic Weapon is also able to eat other weapons to gain their abilities. Over a Short Rest you can give your weapon another magical Melee Weapon to consume, permanently granting it the effects of the weapons it consumes. If the weapons consumed have +1 to Attack and Damage Rolls, your Mimic Weapon gets the sum of those bonuses, to a maximum of +3. If the magical Melee Weapons consumed require attunement, you must attune to each one individually.
+Your Mimic Weapon is also able to eat other weapons to gain their abilities. Over a Short Rest you can give your weapon another magical Melee weapon to consume, permanently granting it the effects of the weapons it consumes. If the weapons consumed have +1 to Attack and Damage Rolls, your Mimic Weapon gets the sum of those bonuses, to a maximum of +3. If the magical Melee weapons consumed require attunement, you must attune to each one individually.
+
+#### Level 3: Blade of Sinew
+
+You can draw power from your Mimic Weapon's blood rather than your own. Once per Long Rest you can make a Vital Sacrifice without reducing your current or maximum Hit Points. You cannot use this feature in the same turn you make an attack with your Mimic Weapon.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -2594,35 +2552,25 @@ Your Mimic Weapon is also able to eat other weapons to gain their abilities. Ove
 
 \page
 
-#### Blade of Sinew
+#### Level 3: Otherworldly Senses
 
-*3rd level Order of the Shiftstalkers feature*
-</br>
-You can draw power from your Mimic Weapon's blood rather than your own. Once per Long Rest you can make a Vital Sacrifice without reducing your current or maximum Hit Points. You cannot use this feature in the same turn you make an Attack with your Mimic Weapon.
-
-#### Otherworldly Senses
-
-*3rd level Order of the Shiftstalkers feature*
-</br>
 Your bond with your Mimic Weapon increases your awareness of your surroundings. While wielding your Mimic Weapon you can detect the presence of Illusion magic and Obake (Shapechangers) within 60 feet of you, and you have Advantage on saves against magic you detect this way.
 
-#### Illusionary Persona
+#### Level 7: Illusionary Persona
 
-*7th level Order of the Shiftstalkers feature*
-</br>
 You learn the Yokai magic of disguise and infiltration. You can use your Mimic Weapon to cast the *Alter Self* spell once per Long Rest. When you cast the spell this way you can any number of the options at once, not just one, and the duration of the spell is 8 hours. While taking the appearance of a specific creature, you have Advantage on Charisma (Deception) checks when interacting with said creature and on Wisdom (Survival) checks to track said creature.
 
-#### Grafted Armament
+#### Level 7: Grafted Armament
 
-*7th level Order of the Shiftstalkers feature*
-</br>
 The bond with your Mimic Weapon grows closer. You can no longer be separated from your Mimic Weapon by any means. As a Bonus Action you can have your Mimic Weapon retreat into your body or have it emerge from you in your hand.
 
-#### Repellant Aura
+#### Level 13: Repellant Aura
 
-*13th level Order of the Shiftstalkers feature*
-</br>
 Your disgust to the allures of Yokai emboldens you and your allies. Whenever a creature attempts to Charm you or an ally of you within 30 feet they must make a Wisdom Saving Throw against your Rite Save DC. If they fail the Saving Throw the Charm attempt fails and they take Psychic damage equal to a two roles of your Rite Die.
+
+#### Level 18: Devour Soul
+
+You have learned the most foul of Yokai powers; the ability to feast on a foe's soul. Whenever you deal Fire, Necrotic or Psychic damage with a Crimson Offering on your Mimic Weapon, you restore a number of Hit Points equal to the damage dealt.
 
 \column
 
@@ -2640,13 +2588,7 @@ Your disgust to the allures of Yokai emboldens you and your allies. Whenever a c
 
 }}
 
-:::::::::::::::::::::::::::::::::
-
-#### Devour Soul
-
-*18th level Order of the Shiftstalkers feature*
-</br>
-You have learned the most foul of Yokai powers; the ability to feast on a foe's soul. Whenever you deal Fire, Necrotic or Psychic damage with a Crimson Offering on your Mimic Weapon, you restore a number of Hit Points equal to the damage dealt.
+:::::::::::::::::::::::::::::::::::
 
 {{note
 
@@ -2663,9 +2605,9 @@ test
 
 \page
 
-## Cleric
+## Cleric - TODO
 
-test
+Text - TODO
 
 {{imageMaskCorner28,--offsetX:-52%,--offsetY:-50%,--rotation:0
   ![shrine](https://data.ukiyo-e.org/jaodb/images/Kawase_Hasui-Shinto_and_its_Architecture-Yasukuni_Shrine_Tokyo-00043700-120311-F12.jpg){position:absolute,left:-200px,bottom:-250px,height:90%,transform:scaleX(1)}
@@ -2683,37 +2625,42 @@ test
 
 \column
 
-### Duality Domain ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Duality Domain - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Cleric Subclass*
 </br>
-Dualness
-{{#subclass-table,classTable
+Dualness - Text - TODO
 
-| Cleric Level | Feature                 |
-|:-------------|:------------------------|
-| 3rd          | Domain Spells, ???, ??? |
-| 6th          | ???                     |
-| 17th         | ???                     |
+#### Level 3: Domain Spells
 
-}}
-
-#### Domain Spells
-
-*3rd level Duality Domain feature*
-</br>
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in table below, you thereafter always have the listed spells prepared.
 
-{{#subclass-table,classTable
+{{#subclass-table
 
 | Cleric Level | Prepared Spells      |
-|:-------------|:---------------------|
-| 3rd          | *???, ???, ???, ???* |
-| 5th          | *???, ???*           |
-| 7th          | *???, ???*           |
-| 9th          | *???, ???*           |
+|:------------:|:---------------------|
+| 3            | *???, ???, ???, ???* |
+| 5            | *???, ???*           |
+| 7            | *???, ???*           |
+| 9            | *???, ???*           |
 
 }}
+
+#### Level 3: ??? - TODO
+
+Text - TODO
+
+#### Level 3: ??? - TODO
+
+Text - TODO
+
+#### Level 6: ??? - TODO
+
+Text - TODO
+
+#### Level 17: ??? - TODO
+
+Text - TODO
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -2722,75 +2669,81 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 \page
 
-### Sea Domain ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Sea Domain - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Cleric Subclass*
 </br>
-Ocean
+Ocean - Text - TODO
 
-{{#subclass-table,classTable
+#### Level 3: Domain Spells
 
-| Cleric Level | Feature                 |
-|:-------------|:------------------------|
-| 3rd          | Domain Spells, ???, ??? |
-| 6th          | ???                     |
-| 17th         | ???                     |
-
-}}
-
-#### Domain Spells
-
-*3rd level Sea Domain feature*
-</br>
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in table below, you thereafter always have the listed spells prepared.
 
-{{#subclass-table,classTable
+{{#subclass-table
 
 | Cleric Level | Prepared Spells                                       |
-|:-------------|:------------------------------------------------------|
-| 3rd          | *Blur, Create of Destroy Water, Shield, Mirror Image* |
-| 5th          | *Wall of Water, Water Walk*                           |
-| 7th          | *Control Water, Watery Sphere<sup>XGE</sup>*          |
-| 9th          | *Maelstrom<sup>XGE</sup>, Mislead*                    |
+|:------------:|:------------------------------------------------------|
+| 3            | *Blur, Create of Destroy Water, Shield, Mirror Image* |
+| 5            | *Wall of Water, Water Walk*                           |
+| 7            | *Control Water, Watery Sphere<sup>XGE</sup>*          |
+| 9            | *Maelstrom<sup>XGE</sup>, Mislead*                    |
 
 }}
+
+#### Level 3: ??? - TODO
+
+Text - TODO
+
+#### Level 3: ??? - TODO
+
+Text - TODO
+
+#### Level 6: ??? - TODO
+
+Text - TODO
+
+#### Level 17: ??? - TODO
+
+Text - TODO
 
 \column
 
-### Sky Domain ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Sky Domain - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Cleric Subclass*
 </br>
-Soaring
+Soaring - Text - TODO
 
-{{#subclass-table,classTable
+#### Level 3: Domain Spells
 
-| Cleric Level | Feature                 |
-|:-------------|:------------------------|
-| 3rd          | Domain Spells, ???, ??? |
-| 6th          | ???                     |
-| 17th         | ???                     |
-
-}}
-
-#### Domain Spells
-
-*3rd level Sky Domain feature*
-</br>
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in table below, you thereafter always have the listed spells prepared.
 
-{{#subclass-table,classTable
+{{#subclass-table
 
 | Cleric Level | Prepared Spells                                                  |
-|:-------------|:-----------------------------------------------------------------|
-| 3rd          | *Fog Cloud, Gust of Wind, Skywrite<sup>XGE</sup>, Zephyr Strike* |
-| 5th          | *Fly, Wind Wall*                                                 |
-| 7th          | *Banishment, Freedom of Movement*                                |
-| 9th          | *Control Winds, Steel Wind Strike<sup>XGE</sup>*                 |
+|:------------:|:-----------------------------------------------------------------|
+| 3            | *Fog Cloud, Gust of Wind, Skywrite<sup>XGE</sup>, Zephyr Strike* |
+| 5            | *Fly, Wind Wall*                                                 |
+| 7            | *Banishment, Freedom of Movement*                                |
+| 9            | *Control Winds, Steel Wind Strike<sup>XGE</sup>*                 |
 
 }}
 
-Can cast Wind Walk?
+#### Level 3: ??? - TODO
+
+Text - TODO
+
+#### Level 3: ??? - TODO
+
+Text - TODO
+
+#### Level 6: ??? - TODO
+
+Text - TODO
+
+#### Level 17: ??? - TODO
+
+Can cast Wind Walk? Text - TODO
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -2811,61 +2764,48 @@ Can cast Wind Walk?
 
 ::::::::::::::::::::::::::::::::::::
 
-## Druid
+## Druid - TODO
 
-test
+Text - TODO
 
 \column
 
-### Circle of Blossoms ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Circle of Blossoms  - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Druid Subclass*
 </br>
-Flowers
+Flowers - Text - TODO
 
-{{#subclass-table,classTable
+#### Level 3: Circle Spells
 
-| Druid Level | Feature                      |
-|:------------|:-----------------------------|
-| 3rd         | Circle Spells, Healing Bloom |
-| 6th         | ???                          |
-| 10th        | ???                          |
-| 14th        | ???                          |
-
-}}
-
-#### Circle Spells
-
-*3rd level Circle of Blossoms feature*
-</br>
 Your connection to this circle ensures that you always have certain spells ready. When you reach a Druid level specified in the table below, you thereafter always have the listed spells prepared.
 
-{{#subclass-table,classTable
+{{#subclass-table
 
 | Druid Level | Prepared Spells                                                     |
-|:------------|:--------------------------------------------------------------------|
-| 3rd         | *Thorn Whip, Shield of Faith, Bless, Misty Step, Prayer of Healing* |
-| 5th         | *Beacon of Hope, Mass Healing Word*                                 |
-| 7th         | *Aura of Life, Death Ward*                                          |
-| 9th         | *Dawn, Hold Monster*                                                |
+|:-----------:|:--------------------------------------------------------------------|
+| 3           | *Thorn Whip, Shield of Faith, Bless, Misty Step, Prayer of Healing* |
+| 5           | *Beacon of Hope, Mass Healing Word*                                 |
+| 7           | *Aura of Life, Death Ward*                                          |
+| 9           | *Dawn, Hold Monster*                                                |
 
 }}
 
-#### Healing Bloom
+#### Level 3: Healing Bloom
 
-*3rd level Circle of Blossoms feature*
-</br>
-You have leared how to connect with the healing power of flowers. As a Bonus Action, you can expend a use of your Wild Shape and choose a point within 30 feet of yourself, creating a Petal Bloom in a 10-foot-radius sphere centered on that point for 1 minute. Then roll a number of d4s equal to your Wisdom modifier plus your Proficiency Bonus, and add the dice together. The total is the number of Hit Points you can distribute to creatures in that sphere. You decide the number of Hit Points that are restored to each of those creatures, deducting the healing from the total.
+You have learned how to connect with the healing power of flowers. As a Bonus Action, you can expend a use of your Wild Shape and choose a point within 30 feet of yourself, creating a Petal Bloom in a 10-foot-radius sphere centered on that point for 1 minute. Then roll a number of d4s equal to your Wisdom modifier plus your Proficiency Bonus, and add the dice together. The total is the number of Hit Points you can distribute to creatures in that sphere. You decide the number of Hit Points that are restored to each of those creatures, deducting the healing from the total.
 
 Whenever you would normally roll one or more dice to restore Hit Points to a creature within your Petal Bloom with a spell, don't roll those dice for the healing; instead use the highest number possible for each die.
-<!-- You have leared how to connect with the healing power of blooming flowers. As a Bonus Action, you can expend a use of your Wild Shape channel to create a Bloom. Choose a point within 30 feet of yourself, and flowers appear in a 10-foot-radius sphere centered on that point. Then roll a number of d4s equal to your Wisdom modifier plus your Proficiency Bonus, and add the dice together. The total is the number of Hit Points you can distribute to creatures in that sphere. You decide the number of Hit Points that are restored to each of those creatures, deducting the healing from the total. -->
-<!-- You have leared how to connect with the healing power of blooming flowers. As a Bonus Action, you can expend a use of your Wild Shape channel to create a Bloom. Choose a point within 30 feet of yourself, and flowers appear in a 10-foot-radius sphere centered on that point for 1 minute. If a creature starts its turn within your Bloom, it regains a number of Hit Points equal to 1d4 plus your Spellcasting Modifier. -->
+<!-- You have learned how to connect with the healing power of blooming flowers. As a Bonus Action, you can expend a use of your Wild Shape channel to create a Bloom. Choose a point within 30 feet of yourself, and flowers appear in a 10-foot-radius sphere centered on that point. Then roll a number of d4s equal to your Wisdom modifier plus your Proficiency Bonus, and add the dice together. The total is the number of Hit Points you can distribute to creatures in that sphere. You decide the number of Hit Points that are restored to each of those creatures, deducting the healing from the total. -->
+<!-- You have learned how to connect with the healing power of blooming flowers. As a Bonus Action, you can expend a use of your Wild Shape channel to create a Bloom. Choose a point within 30 feet of yourself, and flowers appear in a 10-foot-radius sphere centered on that point for 1 minute. If a creature starts its turn within your Bloom, it regains a number of Hit Points equal to 1d4 plus your Spellcasting Modifier. -->
 
-#### Petals on the Wind
+#### Level 6: Petals on the Wind
 
-*6th level Circle of Blossoms feature*
-</br>
-You are surrounded by flowing petals that give swiftness to your steps. While the petals surround you your Speed increases by 10 feet and nonmagical Difficult Terrain costs you no extra movement. When you restore Hit Points to a creature, you can use your Reaction to move the petals to surround them, granting them the benefits instead.
+You are surrounded by flowing petals that give swiftness to your steps. While the petals surround you, your Speed increases by 10 feet and nonmagical Difficult Terrain costs you no extra movement. When you restore Hit Points to a creature, you can use your Reaction to move the petals to surround them, granting them the benefits instead.
+
+#### Level 10: Rose and Thorn - TODO
+
+Blooms can instead make Difficult Terrain. Text - TODO
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -2874,61 +2814,99 @@ You are surrounded by flowing petals that give swiftness to your steps. While th
 
 \page
 
-#### Rose and Thorn
+#### Level 14: Season of Growth
 
-*10th level Circle of Blossoms feature*
-</br>
-Blooms can instead make Difficult Terrain.
-
-#### Season of Growth
-
-*14th level Circle of Blossoms feature*
-</br>
 You have perfected your ability to nurture your magical garden. Whenever you use your Healing Bloom feature, you create two Blooms instead of one. A creature can only be affected by one bloom at a time.
 
-## Fighter
+### Circle of Disaster  - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:177px,left:55px,width:375px,mix-blend-mode:normal}
 
-test
-
-## Monk
-
-test
-
-### Way of the Raging Demon ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:297px,left:55px,width:375px,mix-blend-mode:normal}
-
-test
-
-#### Living Weapon
-
-*3rd level Way of the Raging Demon feature*
+*Druid Subclass*
 </br>
-test
+Natural Disasters
 
-#### Living Weapon
+#### Level 3: Circle of Disaster Spells
 
-*6th level Way of the Raging Demon feature*
-</br>
-test
+Whenever you finish a Long Rest, choose one type of disaster: earthquake, eruption, tsunami, or typhoon. Consult the table below that corresponds to the chosen type; you have the spells listed for your Druid level and lower prepared.
 
-#### Living Weapon
+{{#subclass-list-table
 
-*11th level Way of the Raging Demon feature*
-</br>
-test
+##### Earthquake
 
-#### Living Weapon
+| Druid Level | Prepared Spells |
+|:-----------:|:----------------|
+| 3           | *Earth Tremor<sup>XGE</sup>, Mold Earth<sup>XGE</sup>, Shatter* |
+| 5           | *Erupting Earth<sup>XGE</sup>*           |
+| 7           | *Stoneskin*           |
+| 9           | *Transmute Rock<sup>XGE</sup>*           |
 
-*17th level Way of the Raging Demon feature*
-</br>
-test
+}}
 
-## Paladin
+{{#subclass-list-table
 
-test
+##### Eruption
 
-## Ranger
+| Druid Level | Prepared Spells |
+|:-----------:|:----------------|
+| 3           | *Burning Hands, Fire Bolt, Scorching Ray* |
+| 5           | *Melf's Minute Meteors<sup>XGE</sup>*           |
+| 7           | *Fire Shield*           |
+| 9           | *Immolation<sup>XGE</sup>*           |
 
-test
+}}
+
+{{#subclass-list-table
+
+##### Tsunami <!-- None of these deal cold damage reeeeeeeeeee -->
+
+| Druid Level | Prepared Spells |
+|:-----------:|:----------------|
+| 3           | *Create or Destroy Water, Mirror Image, Shape Water* |
+| 5           | *Tidal Wave<sup>XGE</sup>* |
+| 7           | *Control Water*            |
+| 9           | *Maelstrom<sup>XGE</sup>*  |
+
+}}
+
+{{#subclass-list-table
+
+##### Typhoon
+
+| Druid Level | Prepared Spells |
+|:-----------:|:----------------|
+| 3           | *Dust Devil<sup>XGE</sup>, Gust<sup>XGE</sup>, Gust of Wind* |
+| 5           | *Wind Wall*           |
+| 7           | *Confusion*           |
+| 9           | *Control Winds<sup>XGE</sup>* |
+
+}}
+
+#### Level 3: ??? - TODO
+
+Text - TODO
+
+#### Level 6: ??? - TODO
+
+Text - TODO
+
+#### Level 10: ??? - TODO
+
+Summon Elemental - Text - TODO
+
+:::::::::::::::::::::::::::::::::::::::::
+
+#### Level 14: ??? - TODO
+
+Earthquake, Incendiary Cloud, Tsunami, Whirlwind<sup>XGE</sup> - Text - TODO
+
+{{imageMaskCorner18,--offsetX:62%,--offsetY:45%,--rotation:0
+  ![pyromancy](https://i.imgur.com/MxTTme9.jpg){position:absolute,top:-1px,right:-250px,width:100%}
+}}
+
+{{position:absolute,top:510px,left:420px,margin-bottom:-30px,text-align:left
+
+##### A Circle of </br>Disaster Druid </br>channels volcanic energy
+
+}}
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -2937,48 +2915,79 @@ test
 
 \page
 
-## Rogue
+## Fighter - TODO
 
-test
+Text - TODO
 
-### Dagger Dancer ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:117px,left:55px,width:375px,mix-blend-mode:normal}
+## Monk - TODO
+
+Text - TODO
+
+### Way of the Raging Demon  - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:177px,left:55px,width:375px,mix-blend-mode:normal}
+
+Text - TODO
+
+#### Level 3: Satsui no Hado - TODO
+
+Text - TODO
+
+#### Level 6: Satsui no Hado - TODO
+
+Text - TODO
+
+#### Level 11: Satsui no Hado - TODO
+
+Text - TODO
+
+#### Level 17: Satsui no Hado - TODO
+
+Text - TODO
+
+## Paladin - TODO
+
+Text - TODO
+
+## Ranger - TODO
+
+Text - TODO
+
+{{pageNumber,auto}}
+{{footnote PART 2 | CHARACTER OPTIONS}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+
+\page
+
+{{pageNumber,auto}}
+{{footnote PART 2 | CHARACTER OPTIONS}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
+
+## Rogue - TODO
+
+Text - TODO
+
+### Dagger Dancer - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:117px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Rogue Subclass*
 </br>
-test
+Text - TODO
 
-{{#default-table,classTable
+#### Level 3: Dazzling Style
 
-| Rogue Level | Feature                          |
-|:------------|:---------------------------------|
-| 3rd         | Dazzling Style, Flowing Movement |
-| 9th         | Disorienting Step                |
-| 13th        | Double Time                      |
-| 17th        | Rhythm of Battle                 |
+Your dancing prowess impresses and protects. While you aren't wearing Armour or wielding a Shield, your base Armour Class equals 10 plus your Dexterity modifier plus your Charisma modifier, and whenever you make a Charisma (Performance) check you can add a bonus to it equal to your Dexterity modifier (minimum of +1).
 
-}}
+#### Level 3: Flowing Movement
 
-:
-
-#### Dazzling Style
-
-*3rd level Dagger Dancer feature*
-</br>
-Your dancing prowess impresses and protects. While you aren't wearing Armour or wielding a Shield, your base Armour Class equals 10 + your Dexterity modifier + your Charisma modifier, and whenever you make a Performance check you can add a bonus to it equal to your Dexterity modifier (minimum of +1).
-
-#### Flowing Movement
-
-*3rd level Dagger Dancer feature*
-</br>
-You can step gracefully through ballroom and battlefield. You are unaffected by the reduction to movement from being in an allied creature's space, and you can move through spaces occupied by any hostile creature, regardless of its size. When you reach 6th level in this class, you also are unaffected by the reduction to movement from being in a hostile creature's space.
+You can step gracefully through ballroom and battlefield. You can move through spaces occupied by any hostile creature, regardless of its size. When you reach Rogue level 6, you also are unaffected by the reduction to movement from being in a hostile creature's space.
 
 On your turn, if you travel through the space of a hostile creature you can use Sneak Attack against that creature without needing Advantage on the attack.
 
-#### Disorienting Step
+#### Level 9: Disorienting Step
 
-*9th level Dagger Dancer feature*
-</br>
-Your footwork keeps your enemies on their toes. Your movement no longer provokes Opportunity Attacks. Instead of the Disengage Action, you can use your Bonus Action to attempt to knock your opponent off their rhythm. A target creature within 5 feet of you must make a Dexterity Saving Throw (DC equal to 8 + your proficiency bonus + your Charisma modifier). If they fail, you have Advantage on all attacks against them until the start of your next turn.
+Your footwork keeps your enemies on their toes. Your movement no longer provokes Opportunity Attacks. Instead of the Disengage action, you can use your Bonus Action to attempt to knock your opponent off their rhythm. A target creature within 5 feet of you must make a Dexterity Saving Throw (DC 8 plus your Charisma modifier and Proficiency Bonus). If they fail, you have Advantage on all attacks against them until the start of your next turn.
 
 \column
 
@@ -2998,21 +3007,17 @@ Your footwork keeps your enemies on their toes. Your movement no longer provokes
 
 :::::::::::::::::::::::::::::::
 
-#### Double Time
+#### Level 13: Double Time
 
-*13th level Dagger Dancer feature*
-</br>
 Your motions become quicker and </br>sharper. You gain the ability to make an additional Reaction per round. In addition, whenever a creature misses you with an Attack, you can use your Reaction to make a Melee Weapon Attack against that creature.
 
-#### Rhythm of Battle
+#### Level 17: Rhythm of Battle
 
-*17th level Dagger Dancer feature*
-</br>
-You have become able to feel the rhythm around you and tap into it, moving with enhanced grace and precision. You can enter a Dancer's Flow as a Bonus Action. While in this state, you gain the following benefits:
+You have become able to feel the rhythm around you and tap into it, moving with enhanced grace and precision. You can enter a Dancer's Flow as a Bonus Action. While in this state, you gain the following benefits.
 
 - Attacks against you are made at Disadvantage.
 - You have Advantage against any Dexterity Saving Throws.
-- You have Advantage on your Reaction Attacks.
+- You have Advantage on your Reaction attacks.
 
 This state lasts for 1 minute, or until you lose your concentration (as if you were concentrating on a spell). You cannot enter this state if you are wearing Armour or wielding a Shield. You can do so a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
@@ -3023,17 +3028,17 @@ This state lasts for 1 minute, or until you lose your concentration (as if you w
 
 \page
 
-## Sorcerer
+## Sorcerer - TODO
 
-test
+Text - TODO
 
-## Warlock
+## Warlock - TODO
 
-test
+Text - TODO
 
-## Wizard
+## Wizard - TODO
 
-test
+Text - TODO
 
 {{position:absolute,text-align:right,top:350px,right:305px,margin-bottom:-30px
 
@@ -3062,23 +3067,19 @@ Adventurers come from a great variety of walks of life before they embark on the
 
 ##### Note: Rules for Backgrounds
 
-This book presents options for a number of sample background made to fit within the world of Sumiriku. These sample backgrounds may be picked for a character, or used as inspiration for creating a fully custom background. These backgrounds use the 2024 D&D rules for custom background creation. These rules are reprinted here for convenience:
+Your character's Background is a collection of characteristics that represent the place and occupation that were most formative for the character before they embarked on a life of adventure. This book presents options for a number of unique background made to fit within the world of Sumiriku. These backgrounds, made using the 2024 D&D rules for backgrounds, may be picked for a character, or used as inspiration for creating a fully custom background. These rules have been here for convenience. Your background grants you the following benefits.
 
-:
+**Ability Scores.** From the three Ability Scores listed, choose one Ability Score to increase by 2 and another to increase by 1 OR increase all three Ability Scores by 1.
 
-Your character's Background is a collection of characteristics that represent the place and occupation that were most formative for the character before they embarked on a life of adventure. When creating a custom background, choose an option for  Your background grants you the following benefits:
+**Skill Proficiency.** You gain Proficiency in the two listed Skills.
 
-**Ability Scores.** One Ability Score increases by 2 and another increases by 1 OR three Ability Scores increase by 1.
+**Tool Proficiency.** You gain Proficiency in the listed Tool.
 
-**Skill Proficiency.** You gain proficiency in two Skills.
+**Feat.** You gain the listed Origin Feat.
 
-**Tool Proficiency.** You gain proficiency in one Tool.
+**Equipment.** You get 50 GP worth of starting equipment and money.
 
-**Language.** You can know up to one language from the Languages table.
-
-**Feat.** You gain one 1st-Level Feat. Refer to the Appendix for the available 1st-Level Feats.
-
-**Equipment.** You get 50 GP worth of starting equipment and money. Refer to the next section for details on weapons and equipment specific to Sumiriku
+To create a custom background, make your own choice of three Ability Scores, two Skills, one Tool, one Origin Feat, and 50 GP worth of equipment and money. Refer to Appendix B for the updated Origin Feats. Refer to the next section for details on weapons and equipment specific to Sumiriku.
 
 }}
 
@@ -3086,7 +3087,7 @@ Your character's Background is a collection of characteristics that represent th
   ![writing](https://orientalsouls.com/wp-content/uploads/2018/09/Famous01.jpg){position:absolute,bottom:-0px,left:-1px,width:101%}
 }}
 
-{{position:absolute,top:800px,left:610px,margin-bottom:-30px
+{{position:absolute,top:790px,left:610px,margin-bottom:-30px
 
 ##### An example of</br> Sumirikugo writing
 
@@ -3098,9 +3099,9 @@ Your character's Background is a collection of characteristics that represent th
 
 The Sumiriku language, Sumirikugo, is the language that most people of the islands speak, and is considered the equivalent to Common for this setting. This language is a modernised form of a root language first spoken by the world's deities, known as Shingo. Some species and groups of people speak their own languages alongside Sumirikugo. For example, Shīsāgo is a language spoken typically by the Bunagaya and the other citizens of Sairikudō, and similarly Anagumago is a language spoken by the Korpokkur and the other peoples of the Ryugenshima. Some beings of great power speak their own, more mystical languages, such as the Ryūgo, spoken by the Dragon-Kami, or Shingo, the language of the gods. Arrivals from lands beyond Sumiriku speak their own unique languages, and are unlikely to know much Sumirikugo.
 
-Sumiriku Sign Language is a language that characters can start with or learn, and is intended to allow for deaf, mute, or hard of hearing characters to communicate. Look at the rules for spellcasting foci for how Sign Language interacts with Verbal and Somatic components of spells. It is recommended that party members learn sign language to accommodate characters that want to be dependent on it. Sign language confers benefits for characters even if they are able to speak and hear, such as silent communication, so time is required to develop proficiency in it if it does not come from your background.
+Sumiriku Sign Language is a language that characters can start with or learn, and is intended to allow for deaf, mute, or hard of hearing characters to communicate. Look at the rules for Spellcasting Foci for how Sign Language interacts with Verbal and Somatic components of spells. It is recommended that party members learn sign language to accommodate characters that want to be dependent on it. Sign language confers benefits for characters even if they are able to speak and hear, such as silent communication, so time is required to develop proficiency in it if it does not come from your background.
 
-On the next page is a table with all Languages known across Sumiriku. Sumirikugo (Common) is known by all characters regardless of Background, and any others can be selected as part of a Background.
+On the next page is a table with all Languages known across Sumiriku. Sumirikugo (Common) is known by all characters, and each character gets one additional language.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -3109,7 +3110,7 @@ On the next page is a table with all Languages known across Sumiriku. Sumirikugo
 
 \page
 
-{{#default-table,classTable,frame
+{{#default-table
 
 ##### Language Table
 
@@ -3119,7 +3120,7 @@ On the next page is a table with all Languages known across Sumiriku. Sumirikugo
 | Eiseigo                |  A unique script and dialect developed by the Soratami, intended to gatekeep their knowledge of the arcane. Speakers of Sumirikugo can reasonably communicate with speakers of Eiseigo, but most of the spell scrolls and texts found in a Soratami library would be unreadable unless one has studied Eiseigo. |
 | Formal Sumirikugo      | A version of Sumiriku spoken and written with specific intonation and word choices, intended to communicate a high level of status and intelligence. Members of high society would likely look down on those who do not know the specifics of speaking in the formal style. |
 | Ōgarugo                | A unique dialect of Sumirikugo spoken by isolated communities of Ōgaru, developed enough to become mostly unintelligible by Sumirikugo speakers. Ancient ritual tablets made by Oni cults were likely written in Ōgarugo. |
-| Kimyōkaigo             | A language learned by the creatures from Kimyōkai, the spirit realm. The Obake, Kappa, and Akki are likely to be taught this language from birth, given their connection to said realm. |
+| Kimyōkaigo             | A language learned by the creatures from Kimyōkai, the Yōkai realm. The Obake, Kappa, and Akki are likely to be taught this language from birth, given their connection to said realm. |
 | Ryūgo                  | The language that was introduced to Sumiriku by the Dragon-Kami. Often the first language learned by the Ryūson. |
 | Saruruigo              | A language developed by the Masaru people, utilising cries and other sounds specific to their unique vocal chords. It's believed that this language helps them communicate with other, not-sapient simians. |
 | Shingo                 | The first language of Sumiriku, taught by the deities and known by other holy beings. Devout followers may also come to learn this language. |
@@ -3136,9 +3137,9 @@ On the next page is a table with all Languages known across Sumiriku. Sumirikugo
 
 }}
 
-::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::
 
-{{#default-table,classTable,frame
+{{#default-table
 
 | Language               | Description             |
 |:-----------------------|:------------------------|
@@ -3157,58 +3158,53 @@ On the next page is a table with all Languages known across Sumiriku. Sumirikugo
 
 \page
 
-## Sample Backgrounds
+## Background Options
 
-### Acolyte ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:99px,left:55px,width:375px,mix-blend-mode:normal}
+### Carpenter ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:99px,left:55px,width:375px,mix-blend-mode:normal}
 
-**Ability Scores:** +2 Wisdom, +1 Constitution
-</br>**Skill Proficiency:** Insight, Religion
-</br>**Tool Proficiency:** Musical Instrument (one of your choice)
-</br>**Language:** Shingo
-</br>**Feat:** Magic Initiate
-
-:
-
-**Equipment**
-</br>Bedroll{{width:97px}}Musical Instrument
-</br>Bo{{width:126px}}Philosophy Book
-</br>Holy Symbol{{width:62px}}Robe
-</br>Merchant's Scale{{width:33px}}25 GP
-</br>Lamp
+**Ability Scores:**    :: Strength, Wisdom, Intelligence
+**Feat:**              :: Crafter
+**Skill Proficiency:** :: Athletics, Sleight of Hand
+**Tool Proficiency:**  :: Carpenter's Tools
+**Equipment:**         :: *Choose A or B;* (A) Carpenter's Tools <!-- TODO - ADD THESE TO EQUIPMENT SECTION - (with Ryoba (両刃, 'Dual Edge') and Kanna (鉋, 'Plane')) -->, Ono, 2 Pouches, Traveler's Clothes, 25 GP; or (B) 50 GP
 
 :
 
-### Artisan ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:374px,left:55px,width:375px,mix-blend-mode:normal}
-
-**Ability Scores:** +2 Wisdom, +1 Constitution
-</br>**Skill Proficiency:** Investigation, Sleight of Hand
-</br>**Tool Proficiency:** Artisan's Tools (one of your choice)
-</br>**Language:** Anagumago
-</br>**Feat:** Crafter
+You are practiced in the art of Sumiriku woodworking, which involves the use of intricate joinery and minimal nails. Whether you have been creating Yosegi-zaiku mosaics, Kumiko panels, furniture, or even houses, you have shown yourself to to have a dedication to the craft, a precise hand, and an eye for detail.
 
 :
 
-**Equipment**
-</br>Abacus{{width:98px}}Pouch (2)
-</br>Artisan's Tools{{width:48px}}Traveler's Clothes
-</br>Merchant's Scale{{width:33px}}25 GP
+{{note
+
+##### Note: A Craftperson's weapon
+
+A Ono is a hand axe used for carpentry, but is useful in a pinch as a weapon. See the next section on equipment for more details about the unique weapons of Sumiriku.
+
+}}
 
 :
 
-### Diplomat ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:612px,left:55px,width:375px,mix-blend-mode:normal}
+### Diplomat ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:536px,left:55px,width:375px,mix-blend-mode:normal}
 
-**Ability Scores:** +2 Charisma, +1 Intelligence
-</br>**Skill Proficiency:** History, Persuasion
-</br>**Tool Proficiency:** Calligrapher's Tools
-</br>**Language:** Formal Sumirikugo
-</br>**Feat:** Skilled
+**Ability Scores:**    :: Dexterity, Intelligence, Charisma
+**Feat:**              :: Skilled
+**Skill Proficiency:** :: History, Persuasion
+**Tool Proficiency:**  :: Calligrapher's Supplies
+**Equipment:**         :: *Choose A or B;* (A) Calligrapher's Supplies, Kimono (Fine Clothes), Hanko, Igo Set, 26 GP; or (B) 50 GP
 
 :
 
-**Equipment**
-</br>Calligrapher's Tools{{width:15px}}Signet Ring
-</br>Fine Clothes{{width:63px}}Igo Set
-</br>Perfume{{width:89px}}10 GP
+Some believe that the best way to win a war is not with armies but with negotiators. You have risen the ranks, either through talent or through birthright, to be of political influence, making deals and alliances to secure a future for your clan.
+
+:
+
+{{note
+
+##### Note: Seal of approval
+
+A Hanko (判子) is a carved wooden stamp that creates a personalised signature to prove authenticity.
+
+}}
 
 :
 
@@ -3222,79 +3218,41 @@ Igo (囲碁) is a board game about surrounding territory played with black and w
 
 \column
 
-### Farmer ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Geisha ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
-**Ability Scores:** +2 Constitution, +1 Wisdom
-</br>**Skill Proficiency:** Animal Handling, Nature
-</br>**Tool Proficiency:** Carpenter's Tools
-</br>**Language:** Sumiriku Sign Language
-</br>**Feat:** Tough
+**Ability Scores:**    :: Dexterity, Intelligence, Charisma
+**Feat:**              :: Musician
+**Skill Proficiency:** :: Performance, Insight
+**Tool Proficiency:**  :: *Choose A or B;* (A) *Choose one kind of Musical Instrument*; or (B) Disguise Kit
+**Equipment:**         :: *Choose A or B;* (A) Musical Instrument (same as above), Disguise Kit, Kanzashi, Kimono (Fine Clothes), Mirror, Perfume; or (B) 50 GP
 
 :
 
-**Equipment**
-</br>Carpenter's Tools{{width:30px}}Shovel
-</br>Healer's Kit{{width:68px}}Traveler's Clothes
-</br>Iron Pot{{width:91px}}23 GP
-</br>Kama
+As a Geisha you are one of Sumiriku's most talented performers, trained in a variety of traditional performing arts as well as in hosting and conversing. Holding parties for the most elite and wealthy of clientele, you've learned to maintain a polite and entertaining persona at all times.
 
 :
 
 {{note
 
-##### Note: A Farmer's Weapon
+##### Note: Geisha dress
 
-A Kama is a tool farmers use for reaping crops, but is also useful in a pinch as a weapon. See the next section on equipment for more details about the unique weapons of Sumiriku.
-
-}}
-
-:
-
-### Geisha ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:427px,left:400px,width:375px,mix-blend-mode:normal}
-
-**Ability Scores:** +2 Charisma, +1 Dexterity
-</br>**Skill Proficiency:** Performance, Insight
-</br>**Tool Proficiency:** Musical Instrument (one of your choice) or Disguise Kit
-</br>**Language:** Formal Sumirikugo
-</br>**Feat:** Musician
-
-:
-
-**Equipment**
-</br>Disguise Kit{{width:66px}}Musical Instrument
-</br>Kanzashi{{width:85px}}Perfume
-</br>Kimono
-
-:
-
-{{note
-
-##### Note: Geisha Dress
-
-A Kimono is a type of traditional dress often worn by Geisha, and Kanzashi are hair ornaments made in the appearance of flowers. Geisha use a disguise kit to do their makeup, which they apply before performances.
+A Kimono is a type of traditional garment worn by many people, of which Geisha wear a stylish, trailing variety. Kanzashi are hair pins and ornaments made in the appearance of flowers. Geisha use a disguise kit to do their makeup, which they apply before performances.
 
 }}
 
 :
 
-### Labourer ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:808px,left:400px,width:375px,mix-blend-mode:normal}
+### Rōnin ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:569px,left:400px,width:375px,mix-blend-mode:normal}
 
-**Ability Scores:** +2 Constitution, +1 Strength
-</br>**Skill Proficiency:** Athletics, Survival
-</br>**Tool Proficiency:** Mason's Tools
-</br>**Language:** Saruruigo
-</br>**Feat:** Tough
-
-:
-
-**Equipment**
-</br>Bullseye Lantern{{width:35px}}Oil (1 flask)
-</br>Common Clothes{{width:33px}}Ono
-</br>Hammer{{width:87px}}Shovel
-</br>Mason's Tools{{width:52px}}Waterskin
-</br>Mess Kit{{width:88px}}15 GP
+**Ability Scores:**    :: Strength, Dexterity, Wisdom
+**Feat:**              :: Tavern Brawler
+**Skill Proficiency:** :: Athletics, Deception
+**Tool Proficiency:**  :: Weaver's Tools
+**Equipment:**         :: *Choose A or B;* (A) Katana, Weaver's Tools, Bedroll, Gourd Flask, Straw Hat, Tent, Traveler's Clothes, 14 GP; or (B) 50 GP
 
 :
+
+A former Samurai now with no master, you have taken to a life of wandering the lands of Sumiriku. Disgraced by abandoning your former code, you drift through the world looking for purpose, perhaps searching for those in need or selling your services as a mercenary.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -3303,57 +3261,17 @@ A Kimono is a type of traditional dress often worn by Geisha, and Kanzashi are h
 
 \page
 
-### Naturalist ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Samurai
 
-**Ability Scores:** +2 Wisdom, +1 Constitution
-</br>**Skill Proficiency:** Nature, Medicine
-</br>**Tool Proficiency:** Herbalism Kit
-</br>**Language:** Kimyōkaigo
-</br>**Feat:** Magic Initiate
-
-:
-
-**Equipment**
-</br>Bedroll{{width:97px}}Oil (3 flasks)
-</br>Bo{{width:126px}}Philosophy Book
-</br>Fishing Tackle{{width:49px}}Traveler's Clothes
-</br>Herbalism Kit{{width:54px}}15 GP
-</br>Lamp
+**Ability Scores:**    :: Strength, Constitution, Charisma
+**Feat:**              :: Savage Attacker Updated
+**Skill Proficiency:** :: Athletics, Perception
+**Tool Proficiency:**  :: Healer's Kit
+**Equipment:**         :: *Choose A or B;* (A) Daishō (Katana and Wakizashi), Healer's Kit, Gourd Flask, Gunbai (Fan), Traveler's Clothes, War Banner, 14 GP; or (B) 50 GP
 
 :
 
-### Rōnin ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:320px,left:55px,width:375px,mix-blend-mode:normal}
-
-**Ability Scores:** +2 Strength, +1 Dexterity
-</br>**Skill Proficiency:** Athletics, Deception
-</br>**Tool Proficiency:** Weaver's Tools
-</br>**Language:** Ōgarugo
-</br>**Feat:** Tavern Brawler
-
-:
-
-**Equipment**
-</br>Bedroll{{width:97px}}Straw Hat
-</br>Gourd Flask{{width:65px}}Traveler's Clothes
-</br>Katana{{width:98px}}Weaver's Tools
-</br>Rations (2 days)
-
-:
-
-### Samurai ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:558px,left:55px,width:375px,mix-blend-mode:normal}
-
-**Ability Scores:** +2 Strength, +1 Constitution
-</br>**Skill Proficiency:** Athletics, Perception
-</br>**Tool Proficiency:** Smith's Tools
-</br>**Language:** Ryūgo
-</br>**Feat:** Savage Attacker Updated
-
-:
-
-**Equipment**
-</br>Daishō (Katana{{width:46px}}Healer's Kit
-</br>and Wakizashi){{width:46px}}Traveler's Clothes
-</br>Gourd Flask{{width:65px}}War Banner
+You are the hand through which the will of your Daimyō is done. Being among the elite classes of Sumiriku, either by birth or by dedication, grants you great privilege, but also an expectation that you uphold the image of your clan. In all ways you follow the code of Bushidō, in the palace and on the battlefield.
 
 :
 
@@ -3365,65 +3283,65 @@ Refer to Appendix B for updated Feats, changed for this book.
 
 }}
 
+### Shinobi - TODO
+
+**Ability Scores:**    :: Dexterity, Intelligence, Wisdom
+**Feat:**              :: Dungeon Delver Updated
+**Skill Proficiency:** :: Acrobatics, Stealth
+**Tool Proficiency:**  :: Thieves' Tools
+**Equipment:**         :: *Choose A or B;* (A) 3 Kunai, Fukiya, 20 Shuriken, Thieves' Tools, Caltrops (bag of 20), Shinobi Garb (Traveler's Clothes), 2 GP; or (B) 50 GP
+
+:
+
+Text - TODO
+
 \column
 
-### Scholar ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Shrine Keeper - TODO
 
-**Ability Scores:** +2 Intelligence, +1 Wisdom
-</br>**Skill Proficiency:** Arcana, History
-</br>**Tool Proficiency:** Calligrapher's Supplies
-</br>**Language:** Eiseigo
-</br>**Feat:** Magic Initiate
-
-:
-
-**Equipment**
-</br>Calligrapher's Tools{{width:15px}}Robe
-</br>History Book{{width:60px}}Musical Instrument
-</br>Parchment{{width:73px}}8 GP
-</br>(8 sheets)
+**Ability Scores:**    :: Dexterity, Wisdom, Charisma
+**Feat:**              :: Magic Initiate (Cleric)
+**Skill Proficiency:** :: Performance, Religion
+**Tool Proficiency:**  :: Calligrapher's Supplies
+**Equipment:**         :: *Choose A or B;* (A) Calligrapher's Supplies, Ceremonial Wand (Holy Symbol), Ofuda (Parchment, 10 sheets), Robe, Sensu (Fan), Tamagashi, 8 GP; or (B) 50 GP
 
 :
 
-### Shinobi ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:302px,left:400px,width:375px,mix-blend-mode:normal}
-
-**Ability Scores:** +2 Dexterity, +1 Wisdom
-</br>**Skill Proficiency:** Acrobatics, Stealth
-</br>**Tool Proficiency:** Thieves' Tools
-</br>**Language:** Shīsāgo
-</br>**Feat:** Dungeon Delver Updated
-
-:
-
-**Equipment**
-</br>Caltrops (bag of 20){{width:18px}}Shinobi Garb
-</br>Fukiya{{width:101px}}Shuriken (20)
-</br>Kunai (3){{width:85px}}Thieves' Tools
-
-:
-
-### Yakuza ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:522px,left:400px,width:375px,mix-blend-mode:normal}
-
-**Ability Scores:** +2 Dexterity, +1 Charisma
-</br>**Skill Proficiency:** Intimidation, Sleight of Hand
-</br>**Tool Proficiency:** Hanafuda Cards
-</br>**Language:** Thieves' Cant
-</br>**Feat:** Lucky
-
-:
-
-**Equipment**
-</br>Hanafuda Cards
+Text - TODO
 
 :
 
 {{note
 
-##### Note: Hanafuda Cards
+##### Note: Daido Practices
 
-Hanafuda are a type of playing card deck, used to play a variety of games, but are commonly associated with gambling and criminal organisations.
+At a shrine the responsibility of maintenance and of hosting ceremonies falls on an officiant called a Kannushi (神主, 'Kami Master'), alongside the assistance of Miko (巫女, 'Shrine Maiden'). See the next section for information about the items used for these ceremonies.
 
 }}
+
+### Swordsmith - TODO
+
+:
+
+Text - TODO
+
+### Theatre Performer - TODO
+
+:
+
+Text - TODO
+
+### Yakuza - TODO
+
+:
+
+Text - TODO
+
+### Yamabushi - TODO
+
+:
+
+Text - TODO
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -3466,13 +3384,13 @@ As Sumiriku is a nation beset with conflict, it is understandable that it is a p
 
 ##### Note: Weapon Properties and Masteries
 
-New Weapon Properties are explained on the next page. Some of the other weapon properties have been updated, which are explained in Appendix D.
+New weapon properties are explained on the next page. Some of the other weapon properties have been updated, which are explained in Appendix D.
 
 Weapon Masteries are new to 2024 D&D, which add additional features to weapons for some classes. If you play a class with access to Weapon Masteries, each weapon has an associated mastery. All Weapon Masteries, including and adjusted Masteries and one new Mastery, can be found in Appendix D.
 
 }}
 
-{{#weapon-table,wide,classTable,frame
+{{#weapon-table,wide
 
 ##### Simple Weapons: Melee
 
@@ -3505,7 +3423,7 @@ Weapon Masteries are new to 2024 D&D, which add additional features to weapons f
 
 \page
 
-{{#weapon-table,wide,classTable,frame
+{{#weapon-table,wide
 
 ##### Martial Weapons: Melee
 
@@ -3516,7 +3434,7 @@ Weapon Masteries are new to 2024 D&D, which add additional features to weapons f
 | Katana     | 1d8 Slashing     | Finesse, Versatile (2d4)              | Cross   |
 | Kusarigama | 1d8 Slashing </br> 1d6 Bludgeoning | Chain Weapon, Light </br> Chain Weapon, Light, Reach | Graze |
 | Naginata   | 1d10 Slashing    | Heavy, Reach, Two-Handed              | Cleave  |
-| Nunchaku   | 1d8 Bludgeoning  | —                                     | Sap     |
+| Nunchaku   | 1d8 Bludgeoning  | Disarming, Two-Handed                 | Sap     |
 | Ōdachi     | 2d6 Slashing     | Heavy, Two-Handed                     | Cleave  |
 | Ōtsuchi    | 1d12 Bludgeoning | Heavy, Two-Handed                     | Topple  |
 | Sai        | 1d4 Piercing     | Disarming, Light                      | Vex     |
@@ -3535,17 +3453,17 @@ Weapon Masteries are new to 2024 D&D, which add additional features to weapons f
 
 }}
 
-### Weapon Properties ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:558px,left:55px,width:375px,mix-blend-mode:normal}
+### Weapon Properties ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:525px,left:55px,width:375px,mix-blend-mode:normal}
 
 :
 
 #### Chain Weapon
 
-A Weapon with the Chain Weapon property is made of two Weapons connected together via a chain, one held in each hand, each with the Light property. These Weapons cannot be used separately, and they share a Weapon Mastery property. Both parts of the Weapon are listed together in the Weapon table.
+A weapon with the Chain Weapon property is made of two weapons connected together via a chain, one held in each hand, each with the Light property. These weapons cannot be used separately, and they share a Weapon Mastery property. Both parts of the weapon are listed together in the weapon table.
 
 #### Disarming
 
-If a creature at most one size larger than you targets you with a Melee Weapon Attack and misses while you are wielding a Weapon with the Disarming property, you can use your Reaction to attempt to disarm the attacker. They must succeed on a Strength or Dexterity Saving Throw, or they drop the Weapon used for the attack at a point of your choice within 10 feet of them. The DC for this Saving Throw equals 8 + your Athletics modifier.
+If a creature at most one size larger than you targets you with a Melee Weapon Attack and misses while you are wielding a weapon with the Disarming property, you can use your Reaction to attempt to disarm the attacker. They must succeed on a Strength or Dexterity Saving Throw (DC 8 plus your Athletics modifier), or they drop the weapon used for the attack at a point of your choice within 10 feet of them.
 
 \column
 
@@ -3555,11 +3473,11 @@ You are required to gain a separate proficiency in Firearms in addition to a pro
 
 #### Protective Fan
 
-When you attack with a Weapon with the Protective Fan property, or as a Bonus Action while using a Weapon with said property, you can change the Weapon from closed to open or vice versa. While open, the Weapon instead deals 1d4 Slashing damage, but grants you an additional +1 AC. You must be proficient in this Weapon to gain this bonus.
+When you attack with a weapon with the Protective Fan property, or as a Bonus Action while using a weapon with said property, you can change the weapon from closed to open or vice versa. While open, the weapon instead deals 1d4 Slashing damage, but grants you an additional +1 AC. You must be proficient in this weapon to gain this bonus.
 
 #### Strong-Draw
 
-When you hit with a Weapon that has the Strong-Draw property, you can add 1 + half your Strength modifier (rounded down) to the damage.
+When you hit with a weapon that has the Strong-Draw property, you can add 1 plus half your Strength modifier (rounded down) to the damage.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -3607,8 +3525,6 @@ A woodcutter's or carpenter's handaxe, repurposed into a weapon. Not a tradition
 Axe can be translated to 'Ono' (斧) or 'Fuetsu' (斧鉞)
 
 }}
-
-:
 
 #### Tantō (短刀)
 
@@ -3659,8 +3575,6 @@ Appendix E contains real-world photos and reference images for each of the weapo
 
 }}
 
-:
-
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
@@ -3668,33 +3582,33 @@ Appendix E contains real-world photos and reference images for each of the weapo
 
 \page
 
-#### Kusarigama (鎖鎌)
+#### Kusarigama (鎖鎌) - TODO
 
-TODO
+Text - TODO
 
-#### Naginata (長刀術)
+#### Naginata (長刀術) - TODO
 
-TODO - A very similar weapon is the Nagamaki (長巻). A Nagamaki is an Ōdachi, or greatsword, where more of the blade is covered by the handle, giving it equivalent reach and slashing power as the Naginata.
+Text - TODO - A very similar weapon is the Nagamaki (長巻). A Nagamaki is an Ōdachi, or greatsword, where more of the blade is covered by the handle, giving it equivalent reach and slashing power as the Naginata.
 
-#### Nunchaku (ヌンチャク)
+#### Nunchaku (ヌンチャク) - TODO
 
-TODO
+Text - TODO
 
-#### Ōdachi (大太刀)
+#### Ōdachi (大太刀) - TODO
 
-TODO - Also known as Nodachi (野太刀), or Field Sword.
+Text - TODO - Also known as Nodachi (野太刀), or Field Sword.
 
-#### Ōtsuchi (大槌)
+#### Ōtsuchi (大槌) - TODO
 
-TODO
+Text - TODO
 
-#### Sai (釵)
+#### Sai (釵) - TODO
 
-TODO
+Text - TODO
 
-#### Sentōno (戦闘斧)
+#### Sentōno (戦闘斧) - TODO
 
-TODO
+Text - TODO
 
 :
 
@@ -3706,31 +3620,29 @@ Sentōno is an invented term for a Greataxe equivalent, from 'Sentō' (戦闘, '
 
 }}
 
-:
+#### Su Yari (素槍) - TODO
 
-#### Su Yari (素槍)
+Text - TODO
 
-TODO
+#### Tessen (鉄扇) - TODO
 
-#### Tessen (鉄扇)
+Text - TODO
 
-TODO
+#### Tetsubō (鉄棒) - TODO
 
-#### Tetsubō (鉄棒)
+Text - TODO
 
-TODO
+#### Wakizashi (脇差) - TODO
 
-#### Wakizashi (脇差)
+Text - TODO
 
-TODO
+#### Daikyū (大弓) - TODO
 
-#### Daikyū (大弓)
+Text - TODO
 
-TODO
+#### Hinawajū (火縄銃) - TODO
 
-#### Hinawajū (火縄銃)
-
-TODO
+Text - TODO
 
 :
 
@@ -3762,7 +3674,7 @@ It is a common sight, though often an unnerving one, to see units of Samurai mov
 
 In recent developments in Sumiriku, warriors have moved away from using shields in favour of using heavier and more protective armour. Samurai require protection from all angles from arrows, and more recently from bullets, and also prefer to have access to two-handed weapons while on the battlefield. This preference has led to great development in armour that is fully protective yet also flexible, whereas the shield has become an antiquated tool.
 
-This preference for full armour is shown mechanically; Medium and Heavy Armours each have and extra **+1** to AC, but in exchange Wooden Shield has **-1** to AC and all classes but Cleric and Druid lack the required proficiency.
+This preference for full armour is shown mechanically; Medium and Heavy Armours each have and extra **+1** to Armour Class, but in exchange Wooden Shield has **-1** to Armour Class and all classes but Cleric and Druid lack the required proficiency.
 
 \column
 
@@ -3780,22 +3692,20 @@ Details for each Armour have been moved into their own Armour Properties, such a
 
 }}
 
-:
-
-{{#default-table,wide,classTable,frame
+{{#default-table,wide
 
 ##### Armour and Shields
 
 | Type          | Armour                   | AC                  | Properties        |
 |:--------------|:-------------------------|:--------------------|:------------------|
 | Shield        | Wooden Shield            | +1 AC               | Traditional       |
-| Light Armour  | Light Armour             | AC 11 + Dex         |                   |
-| Light Armour  | Improved Light Armour    | AC 12 + Dex         |                   |
-| Medium Armour | Medium Armour            | AC 14 + Dex (max 2) |                   |
-| Medium Armour | Improved Medium Armour   | AC 15 + Dex (max 2) |                   |
-| Medium Armour | Cumbersome Medium Armour | AC 16 + Dex (max 2) | Loud              |
-| Heavy Armour  | Heavy Armour             | AC 17               | Loud, Bulky       |
-| Heavy Armour  | Extra Heavy Armour       | AC 19               | Loud, Extra Bulky |
+| Light armour  | Basic Light Armour       | AC 11 + Dex         |                   |
+| Light armour  | Improved Light Armour    | AC 12 + Dex         |                   |
+| Medium armour | Basic Medium Armour      | AC 14 + Dex (max 2) |                   |
+| Medium armour | Improved Medium Armour   | AC 15 + Dex (max 2) |                   |
+| Medium armour | Cumbersome Medium Armour | AC 16 + Dex (max 2) | Loud              |
+| Heavy armour  | Basic Heavy Armour       | AC 17               | Loud, Bulky       |
+| Heavy armour  | Extra Heavy Armour       | AC 19               | Loud, Extra Bulky |
 
 }}
 
@@ -3811,7 +3721,9 @@ Details for each Armour have been moved into their own Armour Properties, such a
 
 \column
 
-### Armour Properties ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:710px,left:400px,width:375px,mix-blend-mode:normal}
+:
+
+### Armour Properties ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:679px,left:400px,width:375px,mix-blend-mode:normal}
 
 #### Bulky
 
@@ -3842,23 +3754,29 @@ You require training in Traditional items in addition to Armour and Shield Train
 
 Despite the violence that rages all around, Sumiriku is still also known for its many great artisans and craftspeople. Much of the equipment an adventurer may find or use on their journey was likely custom made by delicate hands.
 
-### Gaming Sets ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:207px,left:55px,width:375px,mix-blend-mode:normal}
+### Ceremonial Items - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:207px,left:55px,width:375px,mix-blend-mode:normal}
 
-#### Hanafuda
+Kannushi and Miko each have special dress and tools, and are involved in the performances and blessings that occur at the shrine. They use a ceremonial wooden wand decorated with paper streamers called Shide as part of these rituals; with two streamers the wand is called a Gohei and with many it is called an Ōnusa. Plucking a sacred Shortbow is involved in many ceremonies, as it is believed that the sound of the string is enough to scare away Oni. Tamagashi are bundles of tree branches used as offerings. Ofuda are paper talismans, used to write down people's prayers to the Kami or for storing spells.
 
-:
+Text - TODO
+
+### Gaming Sets ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:512px,left:55px,width:375px,mix-blend-mode:normal}
+
+#### Hanafuda - TODO
+
+Text - TODO
 
 #### Igo
 
 Igo (囲碁) is a traditional board game, brought to Sumiriku from the foreign nation of Zāngkē. Igo is played on a 19 by 19 grid, where players take turns placing black and white stones onto points on the grid in order to capture their opponents pieces and secure territory; the winner is determined by the player with a greater combined territory and number of captured stones. The game is a beloved  part of the imperial courts, as the game is thought to be a demonstration of a player's intellect and high-level thinking, as well as connecting them to the sacred belief of In'yō. A full Igo set is made of many hand-made and luxury components; a large wooden board with table feet called a Goban (碁盤), two rounded wooden bowls, and a full set of black and white double-convex stones, called Goishi (碁石), typically made of clamshell and slate. The luxury of this production makes Igo a game for only the most affluent of citizens.
 
-#### Shōkettō
+#### Shōkettō - TODO
 
-General's duel
+General's duel - Text - TODO
 
-### Instruments ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:697px,left:55px,width:375px,mix-blend-mode:normal}
+### Instruments - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:1018px,left:55px,width:375px,mix-blend-mode:normal}
 
-:
+Text - TODO
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -3871,37 +3789,28 @@ General's duel
 
 People across Sumiriku are capable of incredible things. These skills may be as a result of great training, dedicating oneself to a martial art or other talent, or they may be an enhanced manifestation of some innate power.
 
-The following are a set of Feats designed for the setting of Sumiriku. These Feats are divided into two sections. The first section is Species and Aberrant Form Feats, with options available to enhance every Sumiriku Species. The second section is Generic Feats, Feats available to any character which are often associated with specific weapons or martial arts.
+The following are a set of feats designed for the setting of Sumiriku. These feats are divided into two sections. The first section is Species Feats, with options available to enhance every Sumiriku species and Aberrant Form. The second section is Generic Feats, feats available to any character which are often associated with specific weapons or martial arts.
 
 :
 
 {{note
 
-##### Note: Feat Levels
+##### Note: Feat Types
 
-A Feat's level is the level a character must be in order to take said feat. All the feats shown here are 4th-Level feats or higher.
+Feats are divided into multiple types. Origin Feats are chosen as part of a Background when creating a character. General Feats can be chosen once a character reaches level 4. Species Feats require a character be a specific species to choose. Fighting Style Feats are feats that grant different fighting styles, which some classes gain for free at certain levels. Epic Boon feats are feats character can gain once they reach level 20 in a class. Some feats have additional prerequisites of character level, class feature, or another requirement.
 
 }}
 
-:
+## Species Feats
 
-## Species and Aberrant
+### Soul Illuminate ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:633px,left:55px,width:375px,mix-blend-mode:normal}
 
-## Form Feats
+*Species Feat (Prerequisite: Level 4+, Nekotaiyō*)
+</br>You have developed an increasing connection to the power of the twin suns. You gain the following benefits.
 
-### Soul Illuminate ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:545px,left:55px,width:375px,mix-blend-mode:normal}
+***Ability Score Increase.*** Increase your Charisma or Constitution score by 1, to a maximum of 20.
 
-*4th-Level Feat*
-</br>**Prerequisite:** Nekotaiyō
-</br>**Repeatable:** No
-
-</br>You have developed an increasing connection to the power of the twin suns. You gain the following benefits:
-
-:
-
-&nbsp;**Ability Score Increase.** Increase your Charisma or Constitution Score by 1, to a maximum of 20.
-
-**Dual Blessings.** You receive the Sun's Blessing you did not pick at 3rd level, either Ikariōna's Fury or Hikariōna's Luminance. In addition, each of these blessings gains an additional feature when you take this feat:
+***Dual Blessings.*** You receive the Sun's Blessing you did not pick at Character Level 3, either Ikariōna's Fury or Hikariōna's Luminance. In addition, each of these blessings gains an additional feature when you take this feat:
 
 *Ikariōna's Fury.* If you move 0 feet on one of your turns, you regain use of this trait.
 
@@ -3913,25 +3822,20 @@ A Feat's level is the level a character must be in order to take said feat. All 
 
 ##### Note: Available Feats
 
-Appendix B reprints all Feats available for use within this setting, some of which have had redesigns to make them more interesting or more balanced.
+All Feats found in the 2024 D&D Player's Handbook are available to use within this setting unless specified otherwise within Appendix B. Appendix B also contains additional preexisting Feats and redesigns to make them more interesting or balanced.
 
 }}
 
 :
 
-### Lunar Enlightenment ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:231px,left:400px,width:375px,mix-blend-mode:normal}
+### Lunar Enlightenment ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:264px,left:400px,width:375px,mix-blend-mode:normal}
 
-*4th-Level Feat*
-</br>**Prerequisite:** Tsukibito
-</br>**Repeatable:** No
+*Species Feat (Prerequisite: Level 4+, Tsukibito)*
+</br>The pale moon has blessed you with an expanded and enhanced mind. You gain the following benefits.
 
-</br>The pale moon has blessed you with an expanded and enhanced mind. You gain the following benefits:
+***Ability Score Increase.*** Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
 
-:
-
-&nbsp;**Ability Score Increase.** Increase your Intelligence or Wisdom Score by 1, to a maximum of 20.
-
-**Arcane Senses.** You always have the *Detect Magic* and *Detect Thoughts* spells prepared, and can cast them using any Spell Slots you have. You can also cast these spells once each without expending a Spell Slot or requiring Verbal, Somatic, or Material components, and you regain the ability to do so when you finish a Long Rest. Your Spellcasting Ability for these spells is the ability increased by this feat. Detect Thoughts also gain a bonus depending on your lineage:
+***Arcane Senses.*** You always have the *Detect Magic* and *Detect Thoughts* spells prepared, and can cast them using any Spell Slots you have. You can also cast these spells once each without expending a Spell Slot or requiring Verbal, Somatic, or Material components, and you regain the ability to do so when you finish a Long Rest. Your Spellcasting Ability for these spells is the ability increased by this feat. Detect Thoughts also gain a bonus depending on your lineage:
 
 *Soratami.* When you cast *Detect Thoughts* for free with this feat, the creature you target will not know their thoughts are being read if you probe deeper, even if they succeed on the Saving Throw.
 
@@ -3948,17 +3852,12 @@ Appendix B reprints all Feats available for use within this setting, some of whi
 
 ### A Grand Tail ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
-*4th-Level Feat*
-</br>**Prerequisite:** Masaru
-</br>**Repeatable:** No
+*Species Feat (Prerequisite: Level 4+, Masaru)*
+</br>You have discovered your potential for growth, becoming able to adapt to all situations. You gain the following benefits.
 
-</br>You have discovered your potential for growth, becoming able to adapt to all situations. You gain the following benefits:
+***Ability Score Increase.*** Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
-:
-
-&nbsp;**Ability Score Increase.** Increase your Strength or Dexterity Score by 1, to a maximum of 20.
-
-**Anatomise.** As a Bonus Action you can adjust your tail to meet the current challenge. You choose one of the forms listed below, and gain the benefits associated with said form for one minute, or until you go Unconscious. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
+***Anatomise.*** As a Bonus Action you can adjust your tail to meet the current challenge. You choose one of the forms listed below, and gain the benefits associated with said form for one minute, or until you go Unconscious. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 *Copter Tail.* You can spin your tail rapidly in order to take off. You gain a Fly Speed equal to your Speed. If you end your turn in the air without anything holding you aloft, you fall and do not have a Fly Speed until you reach the ground.
 
@@ -3968,25 +3867,20 @@ Appendix B reprints all Feats available for use within this setting, some of whi
 
 *Spring Tail.* You can coil up your tail to bounce across the battlefield. Your Speed increases by 5 feet, you have Advantage on Dexterity Saving Throws, and when you move you do so in 10-foot jumps.
 
-*Strong Tail.* Your tail can now be used to hold larger items, such as Weapons that lack the Heavy or Two-Handed property. When you make a Bonus Action attack with the Light Weapon Property, you can make an additional attack as part of the Bonus Action, one with a Light Weapon in your off-hand and another with a Light Weapon in your tail.
+*Strong Tail.* Your tail can now be used to hold larger items, such as weapons that lack the Heavy or Two-Handed property. When you make a Bonus Action attack with the Light weapon Property, you can make an additional attack as part of the Bonus Action, one with a Light weapon in your off-hand and another with a Light weapon in your tail.
 
 \column
 
 ### Might's Pinnacle ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
-*4th-Level Feat*
-</br>**Prerequisite:** Ōgaru
-</br>**Repeatable:** No
+*Species Feat (Prerequisite: Level 4+, Ōgaru)*
+</br>You have tapped into the innate toughness, force, and power that roils inside you. You gain the following benefits.
 
-</br>You have tapped into the innate toughness, force, and power that roils inside you. You gain the following benefits:
+***Ability Score Increase.*** Increase your Strength or Constitution score by 1, to a maximum of 20.
 
-:
+***Ichor Blooded.*** You gain an additional Hit Die, the same size of Hit Die you got when you levelled up to gain this feat. When you gain this feat, you increase your maximum health by the maximum value of the Hit Die gained (you do not add your Constitution modifier to this amount).
 
-&nbsp;**Ability Score Increase.** Increase your Strength or Constitution Score by 1, to a maximum of 20.
-
-**Ichor Blooded.** You gain an additional Hit Die, the same size of Hit Die you got when you levelled up to gain this feat. When you gain this feat, you increase your maximum health by the maximum value of the Hit Die gained (you do not add your Constitution modifier to this amount).
-
-**Relentless.** When you use your Unkillable Overlord trait, you can use your Reaction to make one Weapon Attack. You can also choose to spend one Hit Die to heal, regaining a number of Hit Points equal to a roll of the die plus your Constitution modifier
+***Relentless.*** When you use your Unkillable Overlord trait, you can use your Reaction to make one Weapon Attack. You can also choose to spend one Hit Die to heal, regaining a number of Hit Points equal to a roll of the die plus your Constitution modifier
 
 {{imageMaskCorner30,--offsetX:66%,--offsetY:-47%,--rotation:0
   ![mighty](https://i.imgur.com/VdF8cf1.jpg){position:absolute,bottom:-70px,right:-200px,width:120%,transform:scaleX(-1)}
@@ -4020,17 +3914,12 @@ Appendix B reprints all Feats available for use within this setting, some of whi
 
 ### Aura of the Shell ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:439px,left:55px,width:375px,mix-blend-mode:normal}
 
-*4th-Level Feat*
-</br>**Prerequisite:** Kappa
-</br>**Repeatable:** No
+*Species Feat (Prerequisite: Level 4+, Kappa)*
+</br>You have learned how to conjure up innate shielding magic to protect yourself and those closest to you. You gain the following benefits.
 
-</br>You have learned how to conjure up innate shielding magic to protect yourself and those closest to you. You gain the following benefits:
+***Ability Score Increase.*** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 
-:
-
-&nbsp;**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma Score by 1, to a maximum of 20.
-
-**Protective Aura.** You always have the *Shield of Faith* spell prepared, and can cast it using any Spell Slots you have. You can also cast this spell once without expending a Spell Slot or requiring Material components, and you regain the ability to do so when you finish a Long Rest. Your Spellcasting Ability for these spells is the ability increased by this feat.
+***Protective Aura.*** You always have the *Shield of Faith* spell prepared, and can cast it using any Spell Slots you have. You can also cast this spell once without expending a Spell Slot or requiring Material components, and you regain the ability to do so when you finish a Long Rest. Your Spellcasting Ability for these spells is the ability increased by this feat.
 
 When you cast *Shield of Faith* for free using this feat, you can instead turn this shield into a large shell barrier. When you cast the spell targeting yourself, or as a Bonus Action while concentrating on the spell cast on yourself, you can choose to replace the effect of the spell with a 15-foot-radius sphere barrier centred on yourself and that emanates from you. Creatures inside of the barrier are considered to have Half Cover, which means that they have +2 to AC and to Dexterity Saving Throws when targeted from outside the barrier. You can turn this barrier back into Shield of Faith cast on yourself as a Bonus Action.
 
@@ -4038,21 +3927,16 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 ### Cannon Ball Run ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
-*4th-Level Feat*
-</br>**Prerequisite:** Akki
-</br>**Repeatable:** No
+*Species Feat (Prerequisite: Level 4+, Akki)*
+</br>You have learned how to harness the power of the strange powder coating your carapace. You gain the following benefits.
 
-</br>You have learned how to harness the power of the strange powder coating your carapace. You gain the following benefits:
+***Ability Score Increase.*** Increase your Dexterity or Constitution score by 1, to a maximum of 20.
 
-:
+***Detonate.*** When you take the Disengage action, instead of creating a cloud of black smoke, you can choose to set off a localised explosion. Everyone within a 10-foot radius centred on you, including yourself, must make a DC 15 Dexterity Saving Throw, taking 4d6 Fire damage on a failed save and half that on a successful save. You can only use this feature once per turn.
 
-&nbsp;**Ability Score Increase.** Increase your Dexterity or Constitution Score by 1, to a maximum of 20.
+***Blast Off.*** You have discovered that your explosiveness makes for effective transportation. As a Bonus Action on your turn you can launch yourself, flying up to 40 feet in a straight line before falling. This movement does not provoke Opportunity Attacks and does not use your Speed. You can choose to angle your takeoff upwards to avoid obstacles, letting you land anywhere on the ground within 40 feet of you. If you collide with a creature when moving in a straight line, the creature takes 4d6 Bludgeoning damage. If you launch yourself upwards, or you collide with a wall or another solid surface, you take 4d6 Bludgeoning damage on impact. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
-**Detonate.** When you take the Disengage Action, instead of creating a cloud of black smoke, you can choose to set off a localised explosion. Everyone within a 10-foot radius centred on you, including yourself, must make a DC 15 Dexterity Saving Throw, taking 4d6 Fire damage on a failed save and half that on a successful save. You can only use this feature once per turn.
-
-**Blast Off.** You have discovered that your explosiveness makes for effective transportation. As a Bonus Action on your turn you can launch yourself, flying up to 40 feet in a straight line before falling. This movement does not provoke Opportunity Attacks and does not use your Speed. You can choose to angle your takeoff upwards to avoid obstacles, letting you land anywhere on the ground within 40 feet of you. If you collide with a creature when moving in a straight line, the creature takes 4d6 Bludgeoning damage. If you launch yourself upwards, or you collide with a wall or another solid surface, you take 4d6 Bludgeoning damage on impact. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
-
-{{imageMaskCorner20,--offsetX:47.5%,--offsetY:-65%,--rotation:0
+{{imageMaskCorner20,--offsetX:47.5%,--offsetY:-62%,--rotation:0
   <!-- ![shell](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b3d08f41-3b20-4e72-891b-5dca0d934bb4/dclqy0j-81d42d28-3ba0-46e1-886f-2aac923087ac.jpg/v1/fill/w_1017,h_786,q_70,strp/kappa_by_lockdevil_dclqy0j-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTkwIiwicGF0aCI6IlwvZlwvYjNkMDhmNDEtM2IyMC00ZTcyLTg5MWItNWRjYTBkOTM0YmI0XC9kY2xxeTBqLTgxZDQyZDI4LTNiYTAtNDZlMS04ODZmLTJhYWM5MjMwODdhYy5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.1hXO8LMF0jTxJ0R6irMh-GfIuk1QmDQAa6ufG1ZQijw){position:absolute,bottom:-20px,right:-70px,width:70%,transform:scaleX(-1)} -->
   ![shell](https://i.imgur.com/8UuEbYt.jpeg){position:absolute,bottom:-20px,right:-70px,width:70%,transform:scaleX(-1)}
 }}
@@ -4072,37 +3956,27 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 ### Shapeshifting Trickster ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
-*4th-Level Feat*
-</br>**Prerequisite:** Tanuki, Kawauso, Kitsune, Kisuru, not having the Wild Shapeshifting feat
-</br>**Repeatable:** No
+*Species Feat (Prerequisite: Level 4+, Tanuki, Kawauso, Kitsune, or Kisuru, not having the Wild Shapeshifting Feat)*
+</br>You have become more adept in using your shape-changing ability to pull pranks and tricks, deceiving people about your true form. You gain the following benefits.
 
-</br>You have become more adept in using your shape changing ability to pull pranks and tricks, deceiving people about your true form. You gain the following benefits:
+***Yokai Heritage.*** Your connection to the mischievous spirit world gives you the Yokai (Fey) creature type in addition to your other types. You also have Advantage on Saving Throws you make to avoid or end the Charmed Condition on yourself.
 
-:
+***Morphing Disguise.*** If you do not already, you gain the ability to change your appearance from your regular form to a human visage. As an Action you can change forms, changing your size and height as well. You can also adjust your features, taking any appearance between your regular and your human form. Additionally, you can use this feature to disguise yourself, taking the appearance of any human you have seen before. To discern that you are not actually human, a creature can use its Action to inspect your appearance and must succeed on an Intelligence (Investigation) check (DC 8 plus your Charisma modifier and Proficiency Bonus).
 
-&nbsp;**Yokai Heritage.** Your connection to the mischievous spirit world gives you the Yokai (Fey) creature type in addition to your other types. You also have Advantage on Saving Throws you make to avoid or end the Charmed Condition on yourself.
-
-**Morphing Disguise.** If you do not already, you gain the ability to change your appearance from your regular form to a human visage. As an Action you can change forms, changing your size and height as well. You can also adjust your features, taking any appearance between your regular and your human form. Additionally, you can use this feature to disguise yourself, taking the appearance of any human you have seen before. To discern that you are not actually human, a creature can use its Action to inspect your appearance and must succeed on an Intelligence (Investigation) check with a DC of 8 + your Charisma modifier + your Proficiency Bonus.
-
-**Animal Cunning.** You gain proficiency in Deception. If you are already proficient in Deception, you instead gain expertise.
+***Animal Cunning.*** You gain Proficiency in Deception. If you are already proficient in Deception, you instead gain Expertise.
 
 \column
 
 ### Wild Shapeshifting ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
-*4th-Level Feat*
-</br>**Prerequisite:** Tanuki, Kawauso, Kitsune, Kisuru, not having the Shapeshifting Trickster feat
-</br>**Repeatable:** No
+*Species Feat (Prerequisite: Level 4+, Tanuki, Kawauso, Kitsune, or Kisuru, not having the Shapeshifting Trickster Feat)*
+</br>You have become able to tap into the wild magic you originate from, and harness it to release the beast within. You gain the following benefits.
 
-</br>You have become able to tap into the wild magic you originate from, and harness it to release the beast within. You gain the following benefits:
+***Yokai Heritage.*** Your connection to the wild spirit world gives you the Yokai (Fey) creature type in addition to your other types. You also have Advantage on Saving Throws you make to avoid or end the Charmed Condition on yourself.
 
-:
+***Primal Spirit.*** When you use your shapeshift feature, you can choose to transform into the empowered version of your Animal Form. The stat blocks for these forms, Empowered Kitsune Fox, Empowered Tanuki Raccoon-Dog, etc., can be found with their regular counterparts in Appendix A. These forms are considered Large creatures, have improved stats and attacks, and each have a unique ability on Recharge 5-6. When you transform into this empowered form you gain Temporary Hit Points equal to 4 times your level, which last for 1 hour. Once you lose these Temporary Hit Points you revert back to your regular, un-empowered Animal Form. You can also revert to your regular form as a Bonus Action, but you lose the Temporary Hit Points if you do. Once you use this feature, you cannot use it again until you finish a Long Rest.
 
-&nbsp;**Yokai Heritage.** Your connection to the wild spirit world gives you the Yokai (Fey) creature type in addition to your other types. You also have Advantage on Saving Throws you make to avoid or end the Charmed Condition on yourself.
-
-**Primal Spirit.** When you use your shapeshift feature, you can choose to transform into the empowered version of your Animal Form. The stat blocks for these forms, Empowered Kitsune Fox, Empowered Tanuki Raccoon-Dog, etc., can be found with their regular counterparts in Appendix A. These forms are considered Large creatures, have improved stats and attacks, and each have a unique ability on Recharge 5-6. When you transform into this empowered form you gain Temporary Hit Points equal to 4 times your level, which last for 1 hour. Once you lose these Temporary Hit Points you revert back to your regular, un-empowered Animal Form. You can also revert to your regular form as a Bonus Action, but you lose the Temporary Hit Points if you do. Once you use this feature, you cannot use it again until you finish a Long Rest.
-
-**Beast Whisperer.** You gain proficiency in Animal Handling. If you are already proficient in Animal Handling, you instead gain expertise.
+***Beast Whisperer.*** You gain Proficiency in Animal Handling. If you are already proficient in Animal Handling, you instead gain Expertise.
 
 {{imageMaskEdge1,--offset:25%,--rotation:0
   ![big-fox](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Prince_Hanzoku_terrorised_by_a_nine-_tailed_fox.jpg/800px-Prince_Hanzoku_terrorised_by_a_nine-_tailed_fox.jpg){position:aboslute,top:700px,left:-1px,width:125%}
@@ -4123,56 +3997,40 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 ### Bountiful Luck ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
-*4th-Level Feat*
-</br>**Prerequisite:** Bunagaya
-</br>**Repeatable:** No
+*Species Feat (Prerequisite: Level 4+, Bunagaya)*
+</br>Your people have extraordinary luck, which you have learned to mystically lend to your companions when you see them falter. You're not sure how you do it; you just wish it, and it happens. Surely a sign of fortune's favour! You gain the following benefits.
 
-</br>Your people have extraordinary luck, which you have learned to mystically lend to your companions when you see them falter. You're not sure how you do it; you just wish it, and it happens. Surely a sign of fortune's favour! You gain the following benefits:
-
-:
-
-&nbsp;**Share the Luck.** When an ally you can see within 30 feet of you rolls a 1 on the d20 for a d20 Test, you can use your Reaction to let the ally reroll the die. The ally must use the new roll.
-When you use this ability, you can't use your Lucky racial trait before the end of your next turn.
+***Share the Luck.*** When an ally you can see within 30 feet of you rolls a 1 on the d20 for a D20 Test, you can use your Reaction to let the ally reroll the die. The ally must use the new roll. When you use this ability, you can't use your Lucky racial trait before the end of your next turn.
 
 :
 
-### Shelter under the Fuki ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:429px,left:55px,width:375px,mix-blend-mode:normal}
+### Shelter under the Fuki ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:360px,left:55px,width:375px,mix-blend-mode:normal}
 
-*4th-Level Feat*
-</br>**Prerequisite:** Korpokkur
-</br>**Repeatable:** No
+*Species Feat (Prerequisite: Level 4+, Korpokkur)*
+</br>You have found a Giant Fuki Leaf, a symbol of your people's heritage. While you hold it, no matter where you are, you feel a little bit closer to home. You gain the following benefits.
 
-</br>You have found a Giant Fuki Leaf, a symbol of your people's heritage. While you hold it, no matter where you are, you feel a little bit closer to home. You gain the following benefits:
-
-:
-
-&nbsp;**Fuki Leaf.** You gain a Giant Fuki Leaf, a special piece of magical equipment. If you ever lose it, you can recover it after a Long Rest.
+***Fuki Leaf.*** You gain a Giant Fuki Leaf, a special piece of magical equipment. If you ever lose it, you can recover it after a Long Rest.
 
 *Giant Fuki Leaf:* You can choose to either wear this leaf over your head, or hold it in two hands. You can swap between either one at will, and gain the following benefits depending on which form the leaf is in;
 
-*Headgear:* You do not suffer any negative effects from weather conditions. When you take the Dodge Action in combat, you can choose to spend one Hit Die to heal, regaining a number of Hit Points equal to a roll of the die plus your Constitution modifier.
+*Headgear:* You do not suffer any negative effects from weather conditions. When you take the Dodge action in combat, you can choose to spend one Hit Die to heal, regaining a number of Hit Points equal to a roll of the die plus your Constitution modifier.
 
-*Held Item:* When you take the Attack Action on your turn, you can replace any number of your attacks with use of the *Gust* cantrip. Once per Long Rest, you can also use this leaf to cast Feather Fall, using the leaf as a parachute. If you let go of the leaf, Feather Fall ends.
+*Held Item:* When you take the Attack action on your turn, you can replace any number of your attacks with use of the *Gust* cantrip. Once per Long Rest, you can also use this leaf to cast the *Feather Fall* spell, using the leaf as a parachute. If you let go of the leaf, *Feather Fall* ends.
 
 \column
 
 ### Ryū Install ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
-*8th-Level Feat*
-</br>**Prerequisite:** Ryūson
-</br>**Repeatable:** No
+*Species Feat (Prerequisite: Level 4+, Ryūson, Orochi Ascendant Species Trait)*
+</br>You have strengthened your connection to the progenitor Dragon-Kami, improving your ability to channel their power. You gain the following benefits.
 
-</br>You have strengthened your connection to the progenitor Dragon-Kami, improving your ability to channel their power. You gain the following benefits:
+***Improved Orochi Ascendant.*** You are now able to connect with the power of flight while in the Orochi Ascendant state. You gain a Fly Speed equal to your Speed and you can hover, as you propel yourself with Draconic magic. You also increase the additional damage you can deal on each of your turns to 2d6 of your associated damage type. Additionally, you regain a charge of your Breath Weapon when you enter the Orochi Ascendant state.
 
-:
+***Ultra Finisher.*** You have learned of a Draconic martial art, and have implemented it as a finisher for your channelling. While in your Orochi Ascendant state, you can use one of the following abilities, ending the state after use;
 
-&nbsp;**Improved Orochi Ascendant.** You are now able to connect with the power of flight while in the Orochi Ascendant state. You gain a Fly Speed equal to your Speed and you can hover, as you propel yourself with Draconic magic. You also increase the additional damage you can deal on each of your turns to 2d6 of your associated damage type. Additionally, you regain a charge of your Breath Weapon when you enter the Orochi Ascendant state.
+*Rising Dragon Fist.* When you take the Attack action on your turn, you can replace one of your attacks with an elementally empowered uppercut. Make an Unarmed Strike against a target within range. This attack deals an additional 1d6 of your associated damage type, and the target must succeed on a Strength Saving Throw (DC 8 plus your Strength or Dexterity Modifier and Proficiency Bonus) or be knocked Prone. Additionally, creatures within 5 feet of the target take half damage from the attack.
 
-**Ultra Finisher.** You have learned of a Draconic martial art, and have implemented it as a finisher for your channelling. While in your Orochi Ascendant state, you can use one of the following abilities, ending the state after use;
-
-*Rising Dragon Fist.* When you take the Attack Action on your turn, you can replace one of your attacks with an elementally empowered uppercut. Make an Unarmed Strike against a target within range. This attack deals an additional 1d6 of your associated damage type, and the target must succeed on a Strength Saving Throw with DC equal to 12 + your Proficiency Bonus or be knocked Prone. Additionally, creatures within 5 feet of the target take half damage from the attack.
-
-*Elemental Spirit Explosion.* As an Action on your turn, you call forth a sphere of magical energy and unleash it on your enemies. Each creature in a 20-foot-radius sphere centred on a point of your choice within 60 feet must make a Constitution Saving Throw, with a DC equal to your spell save DC. If you do not have a spell save DC, treat Wisdom as your Spellcasting Ability for this. On a failed save, creatures within the sphere take damage equal to and of the same damage type as your breath weapon. When you use this ability, a number of creatures equal to your Proficiency Bonus that can see you within 60 feet of you can use their Reaction to lend you their energy, increasing the damage dealt by this ability by 1d6 per Reaction used. This ability is considered a 5th-Level spell.
+*Elemental Spirit Explosion.* As an Action on your turn, you call forth a sphere of magical energy and unleash it on your enemies. Each creature in a 20-foot-radius sphere centred on a point of your choice within 60 feet must make a Constitution Saving Throw (DC 8 plus your Constitution Modifier and Proficiency Bonus). On a failed save, creatures within the sphere take damage equal to and of the same damage type as your breath weapon. When you use this ability, a number of creatures equal to your Proficiency Bonus that can see you within 60 feet of you can use their Reaction to lend you their energy, increasing the damage dealt by this ability by 1d6 per Reaction used.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -4191,45 +4049,35 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 }}
 
-:::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::
 
-### Determined ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:625px,left:55px,width:375px,mix-blend-mode:normal}
+### Determined ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:596px,left:55px,width:375px,mix-blend-mode:normal}
 
-*4th-Level Feat*
-</br>**Prerequisite:** Human
-</br>**Repeatable:** No
+*Species Feat (Prerequisite: Level 4+, Human)*
+</br>You have found an innate power within you, to be able to stand strong where others may falter. You gain the following benefits.
 
-</br>You have found an innate power within you, to be able to stand strong where others may falter. You gain the following benefits:
+***Ability Score Increase.*** Choose any Ability Score. Increase that score by 1, to a maximum of 20.
 
-:
+***Heroism.*** You can have up to two Heroic Rerolls at once, rather than just one, and you gain two whenever you finish a Long Rest.
 
-&nbsp;**Ability Score Increase.** Increase any of your Ability Scores by 1, to a maximum of 20.
-
-**Heroism.** You can have up to two Heroic Rerolls at once, rather than just one, and you gain two whenever you finish a Long Rest.
-
-**Unwavering.** If you fail a Saving Throw, you can use a Heroic Reroll to succeed instead. Once you use this feature, you cannot use it again until you finish a Long Rest.
+***Unwavering.*** If you fail a Saving Throw, you can use a Heroic Reroll to succeed instead. Once you use this feature, you cannot use it again until you finish a Long Rest.
 
 \column
 
 ### Oni Purified ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
-*8th-Level Feat*
-</br>**Prerequisite:** Oni Bloodline Form, not having the Oni Embraced Feat
-</br>**Repeatable:** No
+*Species Feat (Prerequisite: Level 8+, Oni Bloodline, not having the Oni Embraced feat)*
+</br>You've managed to find inner tranquillity and balance, and have suppressed the evil that had tied itself to you. You may manifest some physical changes as a part of this, as some of your demonic features fade, but you accept that your past will always be a part of you. You also gain the following benefits.
 
-</br>You've managed to find inner tranquillity and balance, and have suppressed the evil that had tied itself to you. You may manifest some physical changes as a part of this, as some of your demonic features fade, but you accept that your past will always be a part of you. You also gain the following benefits:
+***Third Eye of Insight.*** You open a third eye to see into the spirit realm; the calming, pastel plane of the Kami. You can see into the Ethereal Plane with this third eye. You also gain Advantage on Wisdom (Insight) checks and can tell whether someone is lying when looking at them with your third eye.
 
-:
+***Tranquility.*** You have replaced your Ferocity with Tranquility, the ability to grow from failure. You still gain Tranquility when you fail a D20 test, but you now gain 1 Tranquility for each ally within 30 feet of you at the start of your turn in combat while not Incapacitated, rather than gaining Ferocity for creatures adjacent to you. You no longer have an features that rely on your Ferocity.
 
-&nbsp;**Third Eye of Insight.** You open a third eye to see into the spirit realm; the calming, pastel plane of the Kami. You can see into the Ethereal Plane with this third eye. You also gain Advantage on Wisdom (Insight) checks and can tell whether someone is lying when looking at them with your third eye.
+***Refocus.*** You no longer have the desire to rampage, and instead learn to focus yourself and others in the heat of battle. If you start your turn with 15 or more Ferocity, you must make a Wisdom Saving Throw (DC equal to your current Tranquility). If you fail you must spend your Action to create a healing wave, expending all of your Tranquility to restore a number of Hit Points equal to the Tranquility spent to yourself and all allies within 30 feet. You can choose to fail this Saving Throw.
 
-**Tranquility.** You have replaced your Ferocity with Tranquility, the ability to grow from failure. You still gain Tranquility when you fail a d20 test, but you now gain 1 Tranquility for each ally within 30 feet of you at the start of your turn in combat while not Incapacitated, rather than gaining Ferocity for creatures adjacent to you. You no longer have an features that rely on your Ferocity.
+***Strength of Will.*** You can spend 5 Tranquility whenever you make a Charisma (Persuasion) check, Strength (Athletics) check, or Wisdom Saving Throw to grant yourself Advantage on the Roll.
 
-**Refocus.** You no longer have the desire to rampage, and instead learn to focus yourself and others in the heat of battle. If you start your turn with 15 or more Ferocity, you must make a Wisdom Saving Throw, with DC equal to your current Tranquility. If you fail you must spend your Action to create a healing wave, expending all of your Tranquility to restore a number of Hit Points equal to the Tranquility spent to yourself and all allies within 30 feet. You can choose to fail this Saving Throw.
-
-**Strength of Will.** You can spend 5 Tranquility whenever you make a Charisma (Persuasion) check, Strength (Athletics) check, or Wisdom Saving Throw to grant yourself Advantage on the Roll.
-
-**Calming Presence.** As an Action, you can spend 5 Tranquility to cast the *Calm Emotions* spell.
+***Calming Presence.*** As an Action, you can spend 5 Tranquility to cast the *Calm Emotions* spell.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -4252,17 +4100,12 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 ### Oni Embraced - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
-*8th-Level Feat*
-</br>**Prerequisite:** Oni Bloodline Form, not having the Oni Purified Feat
-</br>**Repeatable:** No
+*Species Feat (Prerequisite: Level 8+, Oni Bloodline, not having the Oni Purified feat)*
+</br>You've fully taken on the demonic part of yourself. You may believe that you can suppress the Oni and use its power, or the spirit inside you may have co-opted your body for its own ends. Either way, your physical demonic characteristics become more prominent, and you also gain the following benefits.
 
-</br>You've fully taken on the demonic part of yourself. You may believe that you can suppress the Oni and use its power, or the spirit inside you may have co-opted your body for its own ends. Either way, your physical demonic characteristics become more prominent, and you also gain the following benefits:
+***Third Eye of Predation.*** You open a third eye to see into the spirit realm; a blood-red abyss full of Kami ready to be devoured. You can see into the Ethereal Plane with this third eye. While looking into the Ethereal Plane you can also see the beating life force of all creatures within 100 feet of you on the same plane as you, even if they are behind full cover. You can also tell from this sense the creature's levels of stress and fear.
 
-:
-
-&nbsp;**Third Eye of Predation.** You open a third eye to see into the spirit realm; a blood-red abyss full of Kami ready to be devoured. You can see into the Ethereal Plane with this third eye. While looking into the Ethereal Plane you can also see the beating life force of all creatures within 100 feet of you on the same plane as you, even if they are behind full cover. You can also tell from this sense the creature's levels of stress and fear.
-
-**Onslaught.**
+***Onslaught.*** Text - TODO
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -4273,49 +4116,39 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 ### Yūrei of the Haunt ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
-*4th-Level Feat*
-</br>**Prerequisite:** Yūrei Manifest Form, not having the Yūrei of the Hunt Feat
-</br>**Repeatable:** No
+*Species Feat (Prerequisite: Level 4+, Yūrei Manifest, not having the Yūrei of the Hunt feat)*
+</br>You remain in the physical world as a haunting, to terrorise someone who wronged you or to bring bad omens wherever you stay. You gain the following benefits.
 
-</br>You remain in the physical world as a haunting, to terrorise someone who wronged you or to bring bad omens wherever you stay. You gain the following benefits:
+***Marked for Haunting.*** You are able to make a creature your mark, the individual that is the target of your haunt. As a Bonus Action you can mark a target you can see. You always know the direction between you and the marked target. Your mark persists indefinitely, or until you mark a different target. Once you have used this feature you cannot use it again until you have finished a Long Rest.
 
-:
+***Prop Hunt.*** You gain the ability to possess and disguise yourself inside inanimate objects. As an Action you can enter an object next to you that is tiny, small, or medium. You can only be found possessing a stationary object by magical means, or by a creature succeeding on a Intelligence (Investigation) check (DC 20). While possessing an object you have an AC of 10, 5 maximum Hit Points, a Speed of 5 feet (provided that the object is not fixed in place), and all attacks against you have Advantage. You preserve your senses while possessing an object. The only actions you can take while possessing an object are to manipulate it, such as opening and closing a lid or lighting and extinguishing a candle, to leave the object as a Bonus Action, or to use Terrify. If you Hit Points reach 0 while you are an object or if you chose to leave, you return to the number of Hit Points you had before you possessed the object.
 
-&nbsp;**Marked for Haunting.** You are able to make a creature your mark, the individual that is the target of your haunt. As a Bonus Action you can mark a target you can see. You always know the direction between you and the marked target. Your mark persists indefinitely, or until you mark a different target. Once you have used this feature you cannot use it again until you have finished a Long Rest.
-
-**Prop Hunt.** You gain the ability to possess and disguise yourself inside inanimate objects. As an Action you can enter an object next to you that is tiny, small, or medium. You can only be found possessing a stationary object by magical means, or by a creature succeeding on a Intelligence (Investigation) check with a DC of 20. While possessing an object you have an AC of 10, 5 Hit Points, a Speed of 5 feet (provided that the object is not fixed in place), and all attacks against you have Advantage. You preserve your senses while possessing an object. The only Actions you can take while possessing an object are to manipulate it, such as opening and closing a lid or lighting and extinguishing a candle, to leave the object as a Bonus Action, or to use Terrify. If you Hit Points reach 0 while you are an object or if you chose to leave, you return to the number of Hit Points you had before you possessed the object.
-
-**Terrify.** As a Bonus Action, you can force a creature within 30 feet that can see or hear you to make a DC 16 Wisdom Saving Throw. If that creature is your mark they have Disadvantage on this save. On a failed save, it is frightened of you for one minute. The creature can repeat the Saving Throw at the end of each of its turns, ending the effect on a success. The fear effect ends early for the target if the frightened creature sees you take damage of any kind. If you are in your Tsukumogami form when you use this feature, you return to your physical form next to the object you were possessing. Once you use this feature, you can't use it again until you finish a Long Rest.
+***Terrify.*** As a Bonus Action, you can force a creature within 30 feet that can see or hear you to make a Wisdom Saving Throw (DC 16). If that creature is your mark they have Disadvantage on this save. On a failed save, it is frightened of you for one minute. The creature can repeat the Saving Throw at the end of each of its turns, ending the effect on a success. The fear effect ends early for the target if the frightened creature sees you take damage of any kind. If you are in your object form when you use this feature, you return to your physical form next to the object you were possessing. Once you use this feature, you can't use it again until you finish a Long Rest.
 
 \column
 
 ### Yūrei of the Vengeant ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
-*4th-Level Feat*
-</br>**Prerequisite:** Yūrei Manifest Form, not having the Yūrei of the Haunt feat
-</br>**Repeatable:** No
+*Species Feat (Prerequisite: Level 4+, Yūrei Manifest, not having the Yūrei of the Haunt feat)*
+</br>The purpose of your existence is as a revenant, to get revenge or justice on those that brought you harm. You gain the following benefits.
 
-</br>The purpose of your existence is as a revenant, to get revenge or justice on those that brought you harm. You gain the following benefits:
+***Marked for Hunting.*** You are able to make a creature your mark, the individual that is the target of your haunt. As a Bonus Action you can mark a target you can see. You always know the direction between you and the marked target. Your mark persists indefinitely, or until you mark a different target. Once you have used this feature you cannot use it again until you have finished a Long Rest.
 
-:
+***Invisible Stalker.*** If you are hidden and hit a creature with an attack, you remain hidden. If you hit your mark with an attack while hidden, the attack deals an additional 1d8 Necrotic damage.
 
-&nbsp;**Marked for Hunting.** You are able to make a creature your mark, the individual that is the target of your haunt. As a Bonus Action you can mark a target you can see. You always know the direction between you and the marked target. Your mark persists indefinitely, or until you mark a different target. Once you have used this feature you cannot use it again until you have finished a Long Rest.
+***Life from Unlife.*** Whenever you </br>deal damage to a creature, you </br>can use your Reaction to regain </br>a number of Hit Points equal </br>to the damage dealt to that </br>creature. You can use this </br>feature a number of times </br>equal to your Proficiency </br>Bonus, and you regain all </br>expended uses when you </br>finish a Long Rest.
 
-**Invisible Stalker.** If you are hidden and hit a creature with an attack, you remain hidden. If you hit your mark with an attack while hidden, the attack deals an additional 1d8 Necrotic damage.
-
-**Life from Unlife.** Whenever you </br>deal damage to a creature, you can </br>use your Reaction to regain a </br>number of Hit Points equal to the </br>damage dealt to that creature. </br>You can use this feature a </br>number of times equal to your </br>proficiency bonus, and you </br>regain all expended uses when </br>you finish a Long Rest.
-
-{{position:absolute,top:700px,right:240px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:700px,right:250px,margin-bottom:-30px,text-align:right
 
 ##### A haunting </br> Yurei
 
 }}
 
-{{imageMaskCorner9,--offsetX:54%,--offsetY:-45%,--rotation:0
+{{imageMaskCorner9,--offsetX:56%,--offsetY:-45%,--rotation:0
   ![grave](https://cdnb.artstation.com/p/assets/images/images/031/415/347/large/sara-savi-japanese-graveyard.jpg?1603557906){position:absolute,bottom:-1px,right:-250px,width:800px}
 }}
 
-![yurei-2](https://i.imgur.com/gF5Hq27.png) {position:absolute,right:-115px,bottom:10px,width:425px,margin-bottom:-25px,filter:opacity:100%,mix-blend-mode:normal,transform:scaleX(-1)}
+![yurei-2](https://i.imgur.com/gF5Hq27.png) {position:absolute,right:-125px,bottom:10px,width:450px,margin-bottom:-25px,filter:opacity:100%,mix-blend-mode:normal,transform:scaleX(-1)}
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -4326,49 +4159,39 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 ### Supreme Shifter ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
-*4th-Level Feat*
-</br>**Prerequisite:** Noppera-bō Changeling Form
-</br>**Repeatable:** No
+*Species Feat (Prerequisite: Level 4+, </br>Noppera-bō Changeling)*
+</br>Your ability to disguise yourself for another extends to your whole physiology. You gain the following benefits.
 
-</br>Your ability to disguise yourself for another extends to your whole physiology. You gain the following benefits:
+***Ability Score Increase.*** Increase your Charisma or Constitution score by 1, to a maximum of 20.
 
-:
-
-&nbsp;**Ability Score Increase.** Increase your Charisma or Constitution Ability Score by 1, to a maximum of 20.
-
-**Form and Function.** You gain the ability to grow tails or wings as additional limbs when you use Shapechanger. In addition, when you use Shapechanger to take on the form of another species you can gain one of the following benefits, provided that the species has the required attributes for said benefit. You can only have one benefit at any time, and you must use Shapechanger to change form in order to change your current benefit.
+***Form and Function.*** You gain the ability to grow tails or wings as additional limbs when you use Shapechanger. In addition, when you use Shapechanger to take a different form you can gain one of the following benefits, provided that the form you take has the required attributes for said benefit. You can only have one benefit at any time, and you must use Shapechanger to change form in order to change your current benefit.
 
 *Aquatic.* You can breathe underwater and have a Swimming Speed equal to your Speed.
 
-*Claws.* Your Unarmed Strikes deal 1d6 + your Strength modifier Slashing damage, and you gain a Climbing Speed equal to your Speed.
+*Claws.* Your Unarmed Strikes deal 1d6 plus your Strength modifier Slashing damage, and you gain a Climbing Speed equal to your Speed.
 
 *Wings.* When you are in a fall of 10 feet or more, you can use your Reaction to extend your wings and slow your fall to 60 feet per round, for up to 1 minute. While falling in this way you can glide a number of feet equal to your Speed per turn, and you take 0 damage from the fall when you land. You determine the direction of the glide, and you can act as normal while slowly falling.
 
 \column
 
-## Generic Feats
+## General Feats
 
 ### Bōjutsu Master ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:99px,left:400px,width:375px,mix-blend-mode:normal}
 
-*4th-Level Feat*
-</br>**Prerequisite:** Proficiency with a Bō
-</br>**Repeatable:** No
+*General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+, Proficiency with Bō)*
+</br>You have honed the art of combat with your Bō, gaining the following benefits.
 
-</br>You have honed the art of combat with your Bō, gaining the following benefits:
+***Ability Score Increase.*** Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
-:
+***Pole Vault.*** Once per turn you can Vault off of your Bō. You can travel 15 feet either horizontally or vertically, being able to reach higher ledges or positions. This movement is considered equivalent to a jump, and ignores Difficult Terrain. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
-&nbsp;**Ability Score Increase.** Increase your Strength or Dexterity Score by 1, to a maximum of 20.
+***Positional Awareness.*** Once per turn when you hit a creature with an attack with a Bō, you can immediately make an additional Bō attack against a different creature within 5 feet of you. You are also unable to be flanked while wielding a Bō.
 
-**Pole Vault.** Once per turn you can Vault off of your Bō. You can travel 15 feet either horizontally or vertically, being able to reach higher ledges or positions. This movement is considered equivalent to a jump, and ignores Difficult Terrain. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
-
-**Positional Awareness.** Once per turn when you hit a creature with an attack with a Bō, you can immediately make an additional Bō attack against a different creature within 5 feet of you. You are also unable to be flanked while wielding a Bō.
-
-{{imageMaskEdge1,--offset:20%,--rotation:0
-  ![narset](https://cdna.artstation.com/p/assets/images/images/024/748/762/large/livia-prima-img-20200305-181700-084.jpg?1583407638){position:aboslute,top:600px,left:-1px,width:101%}
+{{imageMaskEdge1,--offset:15%,--rotation:0
+  ![narset](https://cdna.artstation.com/p/assets/images/images/024/748/762/large/livia-prima-img-20200305-181700-084.jpg?1583407638){position:aboslute,top:575px,left:-1px,width:101%}
 }}
 
-{{position:absolute,top:685px,left:550px,margin-bottom:-30px
+{{position:absolute,top:640px,left:550px,margin-bottom:-30px
 
 ##### A Bojutsu master
 
@@ -4381,50 +4204,42 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 \page
 
-{{imageMaskEdge1,--offset:18%,--rotation:180
+{{imageMaskEdge1,--offset:12%,--rotation:180
   <!-- ![snowfall](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5246e0e3-fe8a-4fdb-9c31-4741f3509015/dcmq5wj-3112415c-4938-40d1-a91d-bb1f4461573f.jpg/v1/fit/w_786,h_900,q_70,strp/snowfall_by_changinghand_dcmq5wj-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvNTI0NmUwZTMtZmU4YS00ZmRiLTljMzEtNDc0MWYzNTA5MDE1XC9kY21xNXdqLTMxMTI0MTVjLTQ5MzgtNDBkMS1hOTFkLWJiMWY0NDYxNTczZi5qcGciLCJ3aWR0aCI6Ijw9Nzg2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Tb0eWRM6GwdQlyp-tVu4pqZj2P8O27b9ToXk-yNO_BY){position:aboslute,top:-250px,left:-1px,width:101%} -->
   ![snowfall](https://i.imgur.com/GIFhyML.jpeg){position:aboslute,top:-250px,left:-1px,width:101%}
 }}
 
-{{position:absolute,top:440px,left:150px,margin-bottom:-30px
+{{position:absolute,top:495px,left:150px,margin-bottom:-30px
 
 ##### A warrior monk delivers a quick slash
 
 }}
 
-:::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::
 
-### Iaijutsu Master ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:481px,left:55px,width:375px,mix-blend-mode:normal}
+### Iaijutsu Master ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:538px,left:55px,width:375px,mix-blend-mode:normal}
 
-*4th-Level Feat*
-</br>**Prerequisite:** Proficiency with Katana
-</br>**Repeatable:** No
+*General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+, Proficiency with Katana)*
+</br>You have learned the art of Iaijutsu, being able to draw your sword and attack in one clean motion. You gaining the following benefits.
 
-</br>You have learned the art of Iaijutsu, being able to draw your sword and attack in one clean motion. You gaining the following benefits:
+***Ability Score Increase.*** Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
-:
+***Patient Stance.*** If you are wielding a Katana and nothing else, you can use your Bonus Action to sheathe it and enter a Patient Stance, with one hand on the scabbard and another on the grip. While in this Stance, your Reaction attacks deal an additional 1d8 Slashing damage, as you unsheathe your Katana and attack in one fluid motion. This Stance ends if you take the Attack action, use the Magic action, let go of your Katana, or take the Dash action. You can also choose to start combat in this Stance, provided your Katana is not already drawn.
 
-&nbsp;**Ability Score Increase.** Increase your Strength or Dexterity Score by 1, to a maximum of 20.
-
-**Patient Stance.** If you are wielding a Katana and nothing else, you can use your Bonus Action to sheathe it and enter a Patient Stance, with one hand on the scabbard and another on the handle. While in this Stance, your Reaction Attacks deal an additional 1d8 Slashing damage, as you unsheathe your Katana and attack in one fluid motion. This Stance ends if you Attack, use the Magic Action, let go of your Katana, or take the Dash Action. You can also choose to start combat in this Stance, provided your Katana is not already drawn.
-
-**Quick Slash.** While in your Patient Stance, as a Reaction to a creature you can see within 10 feet of you attempting to make an Attack Roll, you can attempt to make a Quick Slash against the target, moving up to 5 feet towards them and making an Attack with your Katana at Advantage.
+***Quick Slash.*** While in your Patient Stance, as a Reaction to a creature you can see within 10 feet of you attempting to make an Attack Roll, you can attempt to make a Quick Slash against the target, moving up to 5 feet towards them and making an Attack with your Katana at Advantage.
 
 \column
 
-:::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::
 
-### Kimyōkai Touched ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:481px,left:400px,width:375px,mix-blend-mode:normal}
+### Kimyōkai Touched ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:538px,left:400px,width:375px,mix-blend-mode:normal}
 
-*4th-Level Feat*
-</br>**Prerequisite:** None
-</br>**Repeatable:** No
+*General Feat (Prerequisite: Level 4+)*
+</br>Your exposure to the mystical world of Kimyōkai has changed you, granting you the following benefits.
 
-</br>Your exposure to the mystical world of Kimyōkai has changed you, granting you the following benefits:
-:
-&nbsp;**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma Score by 1, to a maximum of 20.
+***Ability Score Increase.*** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 
-**Otherworldly Casting.** You always have the *Misty Step* spell and one 1st-Level spell of your choice prepared, and can cast these spells using any Spell Slots you have. The 1st-Level spell must be from the Enchantment or Illusion schools of magic. You can also cast these spells once without expending a Spell Slot or requiring Material components, and you regain the ability to do so when you finish a Long Rest. Your Spellcasting Ability for these spells is the ability increased by this feat.
+***Otherworldly Casting.*** You always have the *Misty Step* spell and one Level 1 spell of your choice prepared, and can cast these spells using any Spell Slots you have. The Level 1 spell must be from the Enchantment or Illusion schools of magic. You can also cast these spells once without expending a Spell Slot or requiring Material components, and you regain the ability to do so when you finish a Long Rest. Your Spellcasting Ability for these spells is the ability increased by this feat.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -4435,19 +4250,14 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 ### Kunai Expert ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
-*4th-Level Feat*
-</br>**Prerequisite:** Proficiency with Kunai
-</br>**Repeatable:** No
+*General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+, Proficiency with Kunai)*
+</br>You have learned how to turn a Kunai, a simple farming implement, into a honed tool of infiltration and assassination. You gaining the following benefits.
 
-</br>You have learned how to turn a Kunai, a simple farming implement, into a honed tool of infiltration and assassination. You gaining the following benefits:
+***Ability Score Increase.*** Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
-:
+***Infiltrator.*** While wielding two Kunai, you gain a Climb Speed equal to your Speed by using the Kunai as climbing implements.
 
-&nbsp;**Ability Score Increase.** Increase your Strength or Dexterity Score by 1, to a maximum of 20.
-
-**Infiltrator.** While wielding two Kunai, you gain a Climb Speed equal to your Speed by using the Kunai as climbing implements.
-
-**Adaptable Weapon.** You learn how you change the form of your Kunai to suit your needs. If you have the required component, as an Action you can change a Kunai into a Kunai Yari or a Kunai Rope Dart, listed below. You can revert these changes with an Action.
+***Adaptable Weapon.*** You learn how you change the form of your Kunai to suit your needs. If you have the required component, as an Action you can change a Kunai into a Kunai Yari or a Kunai Rope Dart, listed below. You can revert these changes with an Action.
 
 *Kunai Yari.* 1d4 Piercing - Finesse, Reach, Thrown (20/60 ft.) - Requires a Bō or other Staff
 
@@ -4459,21 +4269,16 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 ### Kusarigamajutsu Master ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
-*4th-Level Feat*
-</br>**Prerequisite:** Proficiency with Kusarigama
-</br>**Repeatable:** No
+*General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+, Proficiency with Kusarigama)*
+</br>You have honed the art of combat with your Kusarigama, gaining the following benefits.
 
-</br>You have honed the art of combat with your Kusarigama, gaining the following benefits:
+***Ability Score Increase.*** Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
-:
+***Flail.*** The Slashing part of any Kusarigama you wield gains the Reach property.
 
-&nbsp;**Ability Score Increase.** Increase your Strength or Dexterity Score by 1, to a maximum of 20.
+***Ensnaring Chain.*** When you hit with the Bludgeoning part of a Kusarigama, you can forgo dealing damage to instead Disarm the target or Restrain them until the start of your next turn. While the target is  Restrained in this way you can only attack with the Slashing part of a Kusarigama, and it loses the Reach property.
 
-**Flail.** The Slashing part of any Kusarigama you wield gains the Reach property.
-
-**Ensnaring Chain.** When you hit with the Bludgeoning part of a Kusarigama, you can forgo dealing damage to instead Disarm the target or Restrain them until the start of your next turn. While the target is  Restrained in this way you can only attack with the Slashing part of a Kusarigama, and it loses the Reach property.
-
-**Swing Hook.** You are able to use the weight at the end of the Kusarigama chain as a grappling hook to reach higher places. You can throw the weight around beams, tree branches, into windows, and to other places of your DM's discretion within 15 feet. Creatures can climb the chain as if it were a rope, or they can swing from the chain to make Long Jumps of up to 20 feet as part of their movement.
+***Swing Hook.*** You are able to use the weight at the end of the Kusarigama chain as a grappling hook to reach higher places. You can throw the weight around beams, tree branches, into windows, and to other places of your DM's discretion within 15 feet. Creatures can climb the chain as if it were a rope, or they can swing from the chain to make Long Jumps of up to 20 feet as part of their movement.
 
 {{imageMaskEdge1,--offset:13%,--rotation:0
   ![kusarigamajutsu](https://cdna.artstation.com/p/assets/images/images/018/900/544/large/angevere-ona-kristensen-cdc-cat-ninja.jpg?1561151808){position:absolute,bottom:-1px,right:-1px,width:101%,mix-blend-mode:normal}
@@ -4494,39 +4299,29 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 ### Okizeme Expert ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
-*4th-Level Feat*
-</br>**Prerequisite:** None
-</br>**Repeatable:** No
+*General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+)*
+</br>You have practised at getting the upper hand in a fight by knocking your opponent to the floor, gaining the following benefits.
 
-</br>You have practised at getting the upper hand in a fight by knocking your opponent to the floor, gaining the following benefits:
+***Ability Score Increase.*** Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
-:
+***Reactive Strike.*** When a creature gets up from Prone while within your Melee Attack range, you can use your Reaction to make one Melee Attack against the creature.
 
-&nbsp;**Ability Score Increase.** Increase your Strength or Dexterity Score by 1, to a maximum of 20.
-
-**Reactive Strike.** When a creature gets up from Prone while within your Melee Attack range, you can use your Reaction to make one Melee Attack against the creature.
-
-**Sweep the Leg.** When you hit a creature with an Unarmed Strike as part of the Attack Action on your turn, you can deal damage to the target and also knock them Prone if the creature is no more than one size larger than you. You can use this benefit only once per turn.
+***Sweep the Leg.*** When you hit a creature with an Unarmed Strike as part of the Attack action on your turn, you can deal damage to the target and also knock them Prone if the creature is no more than one size larger than you. You can use this benefit only once per turn.
 
 :
 
-### Shurikenjutsu Master ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:465px,left:55px,width:375px,mix-blend-mode:normal}
+### Shurikenjutsu Master ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:432px,left:55px,width:375px,mix-blend-mode:normal}
 
-*4th-Level Feat*
-</br>**Prerequisite:** Proficiency with Shuriken
-</br>**Repeatable:** No
+*General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+, Proficiency with Shuriken)*
+</br>You have honed the art of combat with your Shuriken, gaining the following benefits.
 
-</br>You have honed the art of combat with your Shuriken, gaining the following benefits:
+***Ability Score Increase.*** Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
-:
+***Precision Throwing.*** In the place of an Attack, you can throw a Shuriken to interact with an object within 40 feet of you. This interaction can be to break a rope, put out a candle, hold a door open, or some other form of object interaction deemed appropriate by a DM.
 
-&nbsp;**Ability Score Increase.** Increase your Strength or Dexterity Score by 1, to a maximum of 20.
+***Sharp Flourish.*** When you take the Attack action, you can replace an attack with a Shuriken with instead drawing and attacking with three Shuriken at once. These attacks must either be all to the same target or to three different targets. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
-**Precision Throwing.** In the place of an Attack, you can throw a Shuriken to interact with an object within 40 feet of you. This interaction can be to break a rope, put out a candle, hold a door open, or some other form of object interaction deemed appropriate by a DM.
-
-**Sharp Flourish.** When you take the Attack Action, you can replace an attack with a Shuriken with instead drawing and attacking with three Shuriken at once. These attacks must either be all to the same target or to three different targets. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
-
-**Retrieval.** At the end of a battle you can now spend 1 minute to recover all thrown weapons and ammunition used during said battle, rather than half, as long as those items are not missing or destroyed.
+***Retrieval.*** At the end of a combat you can now spend 1 minute to recover all thrown weapons and ammunition used during said combat, rather than half, as long as those items are not missing or destroyed.
 
 {{imageMaskEdge1,--offset:3%,--rotation:270
   ![hadoken](https://i.imgur.com/zhQpREA.png){position:absolute,bottom:-1px,right:-350px,height:101%,mix-blend-mode:normal,transform:scaleX(-1)}
@@ -4560,35 +4355,25 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 ### Traditionalist ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
-*4th-Level Feat*
-</br>**Prerequisite:** None
-</br>**Repeatable:** No
+*General Feat (Prerequisite: Level 4+)*
+</br>You have versed yourself in ancient practices and culture, gaining the following benefits.
 
-</br>You have versed yourself in ancient practices and culture, gaining the following benefits:
+***Ability Score Increase.*** Increase your Wisdom or Constitution score by 1, to a maximum of 20.
 
-:
+***Traditional Training.*** You gain training with Light Armour and Shields, as well as  Traditional training.
 
-&nbsp;**Ability Score Increase.** Increase your Wisdom or Constitution Score by 1, to a maximum of 20.
-
-**Traditional Training.** You gain the following Armour Training: Light Armour, Medium Armour, Shield, and Traditional.
-
-**Natural Magic.** You learn the Shillelagh cantrip, and another Cantrip of your choice from the Druid or Cleric Spell List. Wisdom is your Spellcasting Ability for these Cantrips.
+***Natural Magic.*** You learn the *Shillelagh* cantrip, and another cantrip of your choice from the Druid or Cleric Spell List. Wisdom is your Spellcasting Ability for these cantrips.
 
 :
 
-### Yomi Touched ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:392px,left:400px,width:375px,mix-blend-mode:normal}
+### Yomi Touched ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:324px,left:400px,width:375px,mix-blend-mode:normal}
 
-*4th-Level Feat*
-</br>**Prerequisite:** None
-</br>**Repeatable:** No
+*General Feat (Prerequisite: Level 4+)*
+</br>Your exposure to the afterlife realm of Yomi has changed you, granting you the following benefits.
 
-</br>Your exposure to the afterlife realm of Yomi has changed you, granting you the following benefits:
+***Ability Score Increase.*** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 
-:
-
-&nbsp;**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma Score by 1, to a maximum of 20.
-
-**Underworldly Casting.** You always have the *Invisibility* spell and one 1st-Level spell of your choice prepared, and can cast these spells using any Spell Slots you have. The 1st-Level spell must be from the Conjuration or Necromancy schools of magic. You can also cast these spells once without expending a Spell Slot or requiring Material components, and you regain the ability to do so when you finish a Long Rest. Your Spellcasting Ability for these spells is the ability increased by this feat.
+***Underworldly Casting.*** You always have the *Invisibility* spell and one Level 1 spell of your choice prepared, and can cast these spells using any Spell Slots you have. The Level 1 spell must be from the Conjuration or Necromancy schools of magic. You can also cast these spells once without expending a Spell Slot or requiring Material components, and you regain the ability to do so when you finish a Long Rest. Your Spellcasting Ability for these spells is the ability increased by this feat.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -4626,7 +4411,7 @@ When you use this ability, you can't use your Lucky racial trait before the end 
 
 # Maps of Sumiriku and the World - TODO
 
-T  {{width:5px}} ext
+T  {{width:5px}} ext - TODO
 
 ![island-map](https://i.imgur.com/v4wZLoX.png) {position:absolute,top:200px,left:74px,width:1440px,opacity:85%}
 
@@ -4648,7 +4433,7 @@ T  {{width:5px}} ext
 
 # Landscapes and Landmarks - TODO
 
-T  {{width:5px}} ext
+T  {{width:5px}} ext - TODO
 
 {{pageNumber,auto}}
 {{footnote PART 3 | GEOGRAPHY AND CULTURE}}
@@ -4693,9 +4478,11 @@ T  {{width:5px}} ext
 
 # Calendar and Notable Events - TODO
 
-T {{width:5px}} he Sumiriku calendar is divided into 14 months, to match the 14 Zodiac animals, or Ō-Hoshikuzushin. The first and last months, Ichigatsu and Jūyogatsu, are two weeks long, and every other month is 4 weeks long. These months are as follows:
+T {{width:5px}} he Sumiriku calendar is divided into 14 months, to match the 14 Zodiac animals, or Ō-Hoshikuzushin. The first and last months, Ichigatsu and Jūyogatsu, are two weeks long, and every other month is 4 weeks long. The 'Months' table shows the name and length of each month.
 
 {{#default-table
+
+##### Months
 
 | Month               | Length  |
 |:--------------------|:--------|
@@ -4718,9 +4505,11 @@ T {{width:5px}} he Sumiriku calendar is divided into 14 months, to match the 14 
 
 :
 
-Each week consists of 7 days, which are named after the suns, the moon, and the five elements. The days are as follows:
+Each week consists of 7 days, which are named after the suns, the moon, and the five elements, as shown in the 'Days' table.
 
 {{#default-table
+
+##### Days
 
 | Day               | Initial | Translation |
 |:------------------|:--------|:------------|
@@ -4740,9 +4529,13 @@ The last day of the year, Ganjitsu (元日), is considered separate, and is not 
 
 ## Seasons
 
-The new year begins on the first day of Spring, or Haru (春). Below are the seasons, alongside the dates when they start:
+The new year begins on the first day of Spring, or Haru (春). The 'Seasons' table lists each season, alongside the dates when they start.
+
+\column
 
 {{#default-table
+
+##### Seasons
 
 | Season     | Translation | Date           |
 |:-----------|:------------|:---------------|
@@ -4753,7 +4546,7 @@ The new year begins on the first day of Spring, or Haru (春). Below are the sea
 
 }}
 
-\column
+:
 
 ## Important Days
 
@@ -4761,21 +4554,15 @@ There are many days of the year that have a significant religious or cultural co
 
 :
 
-### Shōtenbi (昇天日, 'Ascension Day') </br> - 5th of Rokugatsu ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:309px,left:400px,width:375px,mix-blend-mode:normal}
+### Shōtenbi (昇天日, 'Ascension Day') </br> - 5th of Rokugatsu ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:442px,left:400px,width:375px,mix-blend-mode:normal}
 
 The day of the Summer Solstice, the longest day of the year. It is said that the first Emperor, Tokuzō-tennō, was crowned on this day over 2000 years ago, under the zenith of the twin suns. This day is treated as a day of reverence, to remember the great and noble deeds Tokuzō-tennō and every Emperor since has accomplished. In honour of the first Emperor, every Emperor since has also been crowned on this day, as part of a ceremony known as the 'Shōten Gishiki' (昇天儀式, 'Ascension Rite'); it is believed by some that the position of the twin suns grants a blessing required for this ceremony. Currently it has been the longest time in history since the previous Shōten Gishiki, over 150 years, due to the disappearance of the current Emperor.
 
 :
 
-### Tanabata </br> - 7th of Shichigatsu - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:676px,left:400px,width:375px,mix-blend-mode:normal}
+### Tanabata (七夕, 'Evening of the </br>Seventh') - 7th of Shichigatsu - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:826px,left:400px,width:375px,mix-blend-mode:normal}
 
-A day of wish-making.
-
-:
-
-### Ganjitsu (元日, 'New Year's Day') - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:755px,left:400px,width:375px,mix-blend-mode:normal}
-
-The end of the current year and the beginning of the next.
+A day of wish-making. Text - TODO
 
 {{pageNumber,auto}}
 {{footnote PART 3 | GEOGRAPHY AND CULTURE}}
@@ -4784,19 +4571,35 @@ The end of the current year and the beginning of the next.
 
 \page
 
-{{imageMaskCorner32,--offsetX:-55%,--offsetY:57%,--rotation:0
-  ![blood-moon](https://i.imgur.com/7r3AVoC.jpg){position:absolute,top:-1px,left:-125px,width:75%}
+### Ganjitsu (元日, 'New Year's Day') ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+
+The end of the current year and the beginning of the next. Ganjitsu also falls on the changing of the season, marking the end of winter and beckoning the arrival of a new spring. It is believed that the Myōjin first entered the world during a harsh, endless winter, but their presence warmed the world and new life bloomed around them. Because of this some find a greater connection to the Myōjin on this day, and treat it as a day of worship to them. Others however treat the day as a time for family, to feel present in each other's company, to share in good food, to reminisce on the year past and have hope for the year to come.
+
+<!-- {{position:absolute,bottom:300px,right:290px,margin-bottom:-30px,text-align:right
+
+##### Foxes gather </br>at a tree </br>on Ganjitsu
+
+}} 
+
+{{imageMaskCorner16,--offsetX:55%,--offsetY:-55%,--rotation:0
+  ![newyear](https://collectionapi.metmuseum.org/api/collection/v1/iiif/55553/149434/main-image){position:absolute,bottom:-100px,right:-60px,width:66%,transform:scaleX(-1)}
+}} -->
+
+\column
+
+{{imageMaskCorner32,--offsetX:55%,--offsetY:57.6%,--rotation:0
+  ![blood-moon](https://i.imgur.com/7r3AVoC.jpg){position:absolute,top:-1px,right:-130px,width:75%,transform:scaleX(-1)}
 }}
 
-{{position:absolute,top:330px,left:230px,margin-bottom:-30px,text-align:left
+{{position:absolute,top:330px,left:440px,margin-bottom:-30px,text-align:left
 
 ##### The Blood Moon
 
 }}
 
-::::::::::::::::::::::::::
+::::::::::::::::::::::::
 
-### Hyakki Chitsuki (百鬼血月, 'Hundred Oni Blood Moon') ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:455px,left:55px,width:375px,mix-blend-mode:normal}
+### Hyakki Chitsuki (百鬼血月, 'Hundred Oni Blood Moon') - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:427px,left:400px,width:375px,mix-blend-mode:normal}
 
 The Oni first poured out of their realm in Makoku, lead by their Oni Lords, during the Kaika Jidai, and plunged the world into darkness and horror. These Oni started a seemingly endless night by blotting out the sky, protecting themselves from the radiance of the twin suns during their assault. It took might of the Myōjin, still present in the world at the time, in order to return the suns and the stars to the sky, push the Oni back and seal them back within their realm, in a conflict now known as the Blood War. This entombment was not perfect however, and the Oni have discovered how to temporarily break their imprisonment and briefly bring chaos back to the real world.
 
@@ -4813,7 +4616,7 @@ The escape of the Oni causes a night of terror, known as the Hyakki Chitsuki, wh
 
 # Important People and Groups - TODO
 
-T  {{width:5px}} ext
+T  {{width:5px}} ext - TODO
 
 {{pageNumber,auto}}
 {{footnote PART 3 | GEOGRAPHY AND CULTURE}}
@@ -4821,6 +4624,16 @@ T  {{width:5px}} ext
 ![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
+
+{{imageMaskEdge1,--offset:5%,--rotation:270
+  ![horse](https://cdna.artstation.com/p/assets/images/images/013/237/310/large/matt-lara-mt-hiei.jpg?1538679780){position:absolute,bottom:-1px,right:-260px,height:101%}
+}}
+
+{{position:absolute,top:1000px,right:390px,margin-bottom:-30px,text-align:right
+
+##### A Daimyo on</br> horseback
+
+}}
 
 {{pageNumber,auto}}
 {{footnote PART 3 | GEOGRAPHY AND CULTURE}}
@@ -4831,7 +4644,7 @@ T  {{width:5px}} ext
 
 # Sacred Treasures and other Magic Items - TODO
 
-T  {{width:5px}} ext
+T  {{width:5px}} ext - TODO
 
 {{note
 
@@ -4839,7 +4652,7 @@ T  {{width:5px}} ext
 
 All Magic Items listed here and in Stories & Secrets have a selection of keyword tags associated with them, which describe some of the qualities of the item. The first tag is the Type. The Types for Magic Items are Ammunition, Armour, Instrument, Potion, Prosthetic, Ring, Scroll, Spellcasting Focus, Tattoo, Weapon, or Wondrous Item for items that don't fit any of the other categories (there exist other item types for non-magical items). An item may have multiple of these types.
 
-The second tag is Rarity, which indicates how plentiful an item is and how likely it is to come across the item. The five tiers of Rarity are Common, Uncommon, Rare, Very Rare, and Unique. Common items are often small, simple magical items or consumable items, such as Potions and low level Spell Scrolls. There should only be one copy of each Unique item in existence, but this does not necessarily mean the item is more powerful or valuable; an item can be Unique for its provenance even if it has the same traits as more common items.
+The second tag is Rarity, which indicates how plentiful an item is and how likely it is to come across the item. The five tiers of Rarity are Common, Uncommon, Rare, Very Rare, and Unique. Common items are often small, simple magical items or consumable items, such as Potions and low-level Spell Scrolls. There should only be one copy of each Unique item in existence, but this does not necessarily mean the item is more powerful or valuable; an item can be Unique for its provenance even if it has the same traits as more common items.
 
 The third tag is Power, which indicates the strength of the item's abilities and the impact it would have on a character's potential. The tiers of Power are Aesthetic, for items that do not confer any mechanical bonuses, Minor, Major, Epic, and Ultimate.
 
@@ -5037,7 +4850,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 :
 ***Claws.*** *Melee Weapon Attack:* +4 + PB to hit, reach 5ft., one target. *Hit:* 11 (2d6 + 4) Slashing damage.
 :
-***Ground Pound (Recharge 5-6).*** Choose a point on the ground within 10 feet of you. You leap 10 feet into the air and then land forcefully at that point, sending shockwaves through the ground around you. Each creature on the ground within 30 feet of that point must succeed on a Dexterity Saving Throw with DC 12 + PB or take 18 (4d8) Bludgeoning damage and be knocked Prone. If you land on top of a creature they take an extra 9 (2d8) Bludgeoning damage, have Disadvantage on the Dexterity Saving Throw, and are pushed away from you in any direction.
+***Ground Pound (Recharge 5-6).*** Choose a point on the ground within 10 feet of you. You leap 10 feet into the air and then land forcefully at that point, sending shockwaves through the ground around you. *Dexterity Saving Throw:* DC 12 + PB, each creature on the ground within 30 feet of the chosen point. *Failure:* 18 (4d8) Bludgeoning damage and be knocked Prone. If you land on top of a creature they take an extra 9 (2d8) Bludgeoning damage, have Disadvantage on the Dexterity Saving Throw, and are pushed away from you in any direction.
 
 }}
 
@@ -5067,7 +4880,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 {{vitals
 
 **AC**         :: 13
-**HP**         :: 3 (1d4+1)
+**HP**         :: 3 (1d4 + 1)
 **Speed**      :: 30 ft., Swim 40ft.
 \column
 **Initiative** :: +3 (13)
@@ -5162,7 +4975,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 
 ::::::::::::::::::::::::::::
 
-{{#creature,monster,frame
+{{monster,frame
 
 ## Kawauso Empowered River Otter
 
@@ -5203,9 +5016,9 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 
 **Multiattack.** You make three Tail Smacks.
 :
-***Tail Smack.*** *Melee Weapon Attack:* +4 + PB to hit, reach 5ft., one target. *Hit:* 8 (1d8 + 4) Bludgeoning damage. If all three attacks hit a single target, they must succeed at a DC 12 + PB Constitution Saving Throw or be Dazed until the end of their next turn.
+***Tail Smack.*** *Melee Weapon Attack:* +4 + PB to hit, reach 5ft., one target. *Hit:* 8 (1d8 + 4) Bludgeoning damage. If all three attacks hit a single target they must succeed on a Constitution Saving Throw (DC 12 + PB), or be Dazed until the end of their next turn.
 :
-***Great Wave (Recharge 5-6).*** You conjure forth a rushing torrent of water in a line that is 80 feet long and 10 feet wide. All creatures in the line must make a Dexterity Saving Throw with DC 12 + PB or take 18 (4d8) Bludgeoning damage and be pushed back 20 feet. If the creature collides with a wall, they take an additional 3 (1d6) damage for every 10 feet they moved. You can travel along the wave, moving to any point along the line without provoking Opportunity Attacks.
+***Great Wave (Recharge 5-6).*** You conjure forth a rushing torrent of water in a line that is 80 feet long and 10 feet wide. *Dexterity Saving Throw:* DC 12 + PB, each creature in the line. *Failure:* 18 (4d8) Bludgeoning damage and be pushed back 20 feet. If the creature collides with a wall, they take an additional 3 (1d6) damage for every 10 feet they were moved. You can travel along the wave, moving to any point along the line without provoking Opportunity Attacks.
 
 }}
 
@@ -5220,7 +5033,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 
 :
 
-{{#creature,monster,frame
+{{monster,frame
 
 ## Fox
 
@@ -5275,7 +5088,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 
 }}
 
-{{#creature,monster,frame
+{{monster,frame
 
 ## Kitsune Fox
 
@@ -5321,7 +5134,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 
 \column
 
-{{#creature,monster,frame
+{{monster,frame
 
 ## Kitsune Empowered Fox
 
@@ -5369,7 +5182,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 :
 ***Bite.*** *Melee Weapon Attack:* +3 + PB to hit, reach 5ft., one target. *Hit:* 10 (2d6 + 3) Piercing damage.
 :
-***Kitsunebi Flame (Recharge 5-6).*** Blue orbs of soulfire fly out from you to burn at the souls of your enemies. Choose up to 3 creatures within 60 ft. of you. Each target must make a Dexterity Saving Throw with DC 11 + PB. A target takes 18 (4d8) Fire damage and is Dazed until the end of their next turn on a failed save, or takes half as much damage and is not Dazed on a successful save. The targets gain no benefit from cover for this Saving Throw.
+***Kitsunebi Flame (Recharge 5-6).*** Blue orbs of soulfire fly out from you to burn at the souls of your enemies. *Dexterity Saving Throw:* DC 11 + PB, three creatures within 60 feet of you. *Failure:* 18 (4d8) Fire damage and the target is Dazed until the end of their next turn. *Success:* Half damage. The targets gain no benefit from cover for this Saving Throw.
 
 }}
 
@@ -5389,7 +5202,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 
 :
 
-{{#creature,monster,frame
+{{monster,frame
 
 ## Crane
 
@@ -5442,7 +5255,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 
 }}
 
-{{#creature,monster,frame
+{{monster,frame
 
 ## Kisuru Crane
 
@@ -5492,7 +5305,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 
 :::::::::::::::::::::::::::
 
-{{#creature,monster,frame
+{{monster,frame
 
 ## Kisuru Empowered Crane
 
@@ -5536,7 +5349,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 :
 ***Talons.*** *Melee Weapon Attack:* +3 + PB to hit, reach 5ft., one target. *Hit:* 10 (2d6 + 3) Slashing damage.
 :
-***Soaring Winds (Recharge 5-6).*** You call forth a howling cyclone from your wings. All creatures within 5 feet of you must make a Strength Saving Throw with DC 11 + PB. On a failed save a creature takes 14 (4d6) Slashing damage and, if they are Large or smaller, is lifted 10 feet into the air before they begin to fall at the start of their turn. On a successful save a creature takes half damage and is not lifted.
+***Soaring Winds (Recharge 5-6).*** You call forth a howling cyclone from your wings. *Strength Saving Throw:* DC 11 + PB, each creature within 5 feet of you. *Failure:* 14 (4d6) Slashing damage and, if the target are Large or smaller, the target is lifted 10 feet into the air before they begin to fall at the start of their turn. *Success:* Half damage and the target is not lifted.
 
 }}
 
@@ -5547,194 +5360,177 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 
 \page
 
-# Appendix B - Available Feats
+# Appendix B - Updated Feats
 
-T {{width:5px}} his section is a list of all available Feats for use in games in this setting, sorted by level prerequisite and then alphabetically. Some of these Feats have been redesigned or rebalanced; these feats have been renamed to include 'Updated' for clarity.
+T {{width:5px}} his section is a list of all changed feats for use in this setting, separated between Origin and General Feats and sorted alphabetically. These feats have been changed for rebalancing, to make the feats more interesting, or to make them fit better within this setting.
 
-## 1st-Level Feats
+## Removed Feats List
 
-### Actor Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:278px,left:55px,width:375px,mix-blend-mode:normal}
+The following is a list of feats that have been removed from this setting, along with justifications as to why.
 
-*1st-Level Feat*
-</br>**Prerequisite:** None
-</br>**Repeatable:** No
+{{#default-table
 
-</br>Skilled at mimicry and dramatics, you gain the following benefits:
+##### Removed Feats
 
-:
+| Removed Feat            | Reason                                                                                  |
+|:------------------------|:----------------------------------------------------------------------------------------|
+| Crossbow Expert         | Crossbows are very uncommon in the setting                                              |
+| Fey Touched             | Replaced with Kimyōkai Touched to be more thematic to the setting                       |
+| Lightly Armoured        | Features added as a part of Traditionalist to fit with how shields work in this setting |
+| Shadow Touched          | Replaced with Yomi Touched to be more thematic to the setting                           |
 
-&nbsp;**Impersonation.** While you're disguised as a fictional person or a real person other than yourself, you have Advantage on Charisma (Performance) checks to convince others you are that person.
-
-**Mimicry.** You can mimic the sounds of other creatures, including speech. To mimic a sound or a way of speaking, you must listen to it for at least 1 minute. Any time thereafter, you can make a DC 15 Charisma (Performance) check to perform the mimicry; on a success, you perform it convincingly for up to 1 hour.
-
-:
-
-### Alert ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:660px,left:55px,width:375px,mix-blend-mode:normal}
-
-*1st-Level Feat*
-</br>**Prerequisite:** None
-</br>**Repeatable:** No
-
-</br>Always on the lookout for danger, you gain the following benefits:
+}}
 
 :
 
-&nbsp;**Initiative Proficiency.** When you roll Initiative, you can add your Proficiency Bonus to the roll.
+## Updated Feats List
 
-**Initiative Swap.** Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally is Incapacitated.
+The following is a list of feats that have been updated from their original version, and a summary of the change.
+
+{{#default-table
+
+##### Updated Feats
+
+| Updated Feat              | Change                                                                                                                            |
+|:--------------------------|:----------------------------------------------------------------------------------------------------------------------------------|
+| Actor Updated             | Moved to be an Origin Feat                                                                                                        |
+| Athlete Updated           | Moved to be an Origin Feat, Jumping feature changed to fit with new jumping mechanics                                             |
+| Chef Updated              | Moved to Origin Feat, snacks give Temporary Hit Points equal to twice Proficiency Bonus                                           |
+| Crafter Updated           | Added reduction to crafting time, discount increased to 25%                                                                       |
+| Dual Wielder Revised      | Doesn't give an additional attack, instead allows for dual wielding larger weapons and can give bonus AC                          |
+| Dungeon Delver Updated    | Moved to Origin Feat, replaced Advantage to detect secret doors with Proficiency plus minimum roll                                |
+
+}}
+
+\column
+
+{{#default-table
+
+| Updated Feat              | Change                                                                                                                            |
+|:--------------------------|:----------------------------------------------------------------------------------------------------------------------------------|
+| Elemental Adept Updated   | Treats Immunity to the chosen damage type as Resistance                                                                           |
+| Gunner Revised            | Doesn't ignore Loading property or Disadvantage in melee, instead can perform one empowered attack and can attack from Long Range |
+| Lucky Updated             | Advantage is given before d20 is rolled                                                                                           |
+| Polearm Master (Sumiriku) | List of weapons changed to match setting                                                                                          |
+| Savage Attacker Updated   | Increases damage of Critical Hits                                                                                                 |
+| Sharpshooter Updated      | Replaces Firing in Melee with Reaction dodge and attack                                                                           |
+| Spell Sniper Updated      | Replaces Casting in Melee with ability to set target's AC to 10                                                                   |
+
+}}
+
+:
+
+## Origin Feats
+
+### Actor Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:515px,left:400px,width:375px,mix-blend-mode:normal}
+
+*Origin Feat*
+</br>Skilled at mimicry and dramatics, you gain the following benefits.
+
+***Impersonation.*** While you're disguised as a fictional person or a real person other than yourself, you have Advantage on Charisma (Deception or Performance) checks to convince others you are that person.
+
+***Mimicry.*** You can mimic the sounds of other creatures, including speech. A creature that hears the mimicry must succeed on a Wisdom (Insight) check to determine the effect is faked (DC 8 plus your Charisma modifier and Proficiency Bonus).
 
 ::
 
 {{note
 
-##### Note: 1st-level Feats
+##### Note: Origin Feats
 
-1st-Level Feats can be taken at levels after 1st. If they are, you also gain a +1 to any Ability Score.
-
-}}
-
-\column
-
-:
-
-{{note
-
-##### Note: Available Feats and Homebrew Feats
-
-The Feats presented here are most feats shown in the 2024 D&D playtest documents as well as Feats from Tasha's Cauldron of Everything, excluding any Feats with Species prerequisites and Crossbow Expert. Crossbow Expert has been removed as Crossbows are extremely uncommon in this setting, but they and the feat could be allowed with DM approval.
-
-Homebrew Feats, such as those found alongside the recommended Alternate version of classes, are available on request and review. Any Feats that do not specify should be considered 4th-level Feats.
+Origin Feats can be taken whenever you could take a General Feat, rather than just with a Background. When taken this way, you also gain a +1 to any Ability Score.
 
 }}
 
+<!-- {{note
+
+##### Note: Homebrew Feats
+
+Homebrew feats, such as those found alongside the recommended Alternate version of classes, are available on request and review. Any feats that do not specify should be considered General Feats.
+
+}} -->
+
+{{pageNumber,auto}}
+{{footnote EXTRA | APPENDICES}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
+
+### Athlete Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+
+*Origin Feat*
+</br>You have undergone extensive physical training to gain the following benefits.
+
+***Climb Speed.*** You gain a Climb Speed equal to your Speed.
+
+***Hop Up.*** When you are Prone, you can right yourself with only 5 feet of movement.
+
+***Jumping.*** You have Advantage on any Ability Check you make for the Jump action, and the minimum distance for your Long Jumps is increased by 5 feet.
+
 :
 
-### Crafter ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:376px,left:400px,width:375px,mix-blend-mode:normal}
+### Crafter Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:306px,left:55px,width:375px,mix-blend-mode:normal}
 
-*1st-Level Feat*
-</br>**Prerequisite:** None
-</br>**Repeatable:** No
+*Origin Feat*
+</br>You are adept at crafting things and bargaining with merchants, granting you the following benefits.
 
-</br>You are adept at crafting things and bargaining with merchants, granting you the following benefits:
+***Tool Proficiency.*** You gain Tool Proficiency with three different Artisan's Tools of your choice.
 
-:
+***Discount.*** Whenever you buy a nonmagical item, you receive a 25 percent discount on it.
 
-&nbsp;**Tool Proficiency.** You gain Tool Proficiency with three different Artisan's Tools of your choice.
-
-**Discount.** Whenever you buy a nonmagical item, you receive a 20 percent discount on it.
-
-**Faster Crafting.** When you craft an item using a tool with which you have Tool Proficiency, the required crafting time is reduced by 20 percent.
+***Fast Crafting.*** When you craft an item using a tool with which you have Tool Proficiency, the required crafting time is reduced by 25 percent. In addition, when you finish a Long Rest, you can craft one piece of gear from the Fast Crafting table, provided you have the Artisan's Tools associated with that item and have proficiency with those tools. The item lasts until you finish another Long Rest, at which point the item falls apart.
 
 :
 
-### Chef Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:704px,left:400px,width:375px,mix-blend-mode:normal}
+### Chef Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:692px,left:55px,width:375px,mix-blend-mode:normal}
 
-*1st-Level Feat*
-</br>**Prerequisite:** None
-</br>**Repeatable:** No
-
+*Origin Feat*
 </br>You have spent time to master the culinary arts, gaining benefits listed below:
 
+***Kitchen Tools.*** You gain Tool Proficiency with Cook's Utensils.
+
+***Replenishing Meal.*** As part of a Short Rest, you can cook special food if you have ingredients and Cook's Utensils on hand. You can prepare enough of this food for a number of creature equal to 4 plus your Proficiency Bonus. At the end of the Short Rest, any creature who eats the food and spends one or more Hit Dice to regain Hit Points regains an extra 1d8 Hit Points.
+
+\column
+
+&nbsp;***Bolstering Treats.*** With one hour of work or when you finish a Long Rest, you can cook a number of Treats equal to your Proficiency Bonus, provided that you have ingredients and Cook's Utensils. These Treats last for 8 hours, and a creature can eat a Treat as a Bonus Action to gain Temporary Hit Points equal to double your Proficiency Bonus.
+
 :
 
-&nbsp;**Kitchen Tools.** You gain Tool Proficiency with Cook's Utensils.
+### Dungeon Delver Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:222px,left:400px,width:375px,mix-blend-mode:normal}
 
-**Snacks.** With one hour of work or when you finish a Long Rest, you can cook a number of Treats equal to your Proficiency Bonus, provided that you have ingredients and Cook's Utensils. These Treats last for 8 hours, and a creature can eat a Treat as a Bonus Action to gain Temporary Hit Points equal to double your Proficiency Bonus.
-
-{{pageNumber,auto}}
-{{footnote EXTRA | APPENDICES}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
-
-\page
-
-### Dungeon Delver Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-*1st-Level Feat*
-</br>**Prerequisite:** None
-</br>**Repeatable:** No
-
+*Origin Feat*
 </br>You are as skilled as one can be at exploring dungeons and disarming deadly traps. You gain the benefits listed below:
 
-:
+***Spotter.*** You gain Proficiency in your choice of either Perception, Investigation, or Thieves' Tools. Moreover, when you make an Ability Check using this Proficiency, you can treat a roll of 7 or lower on the d20 as an 8.
 
-&nbsp;**Spotter.** You gain proficiency in your choice of either Perception, Investigation, or Thieves' Tools. Moreover, when you make an Ability Check using this proficiency, you can treat a roll of 7 or lower on the d20 as an 8.
+***Reflexes.*** You have Advantage on Saving Throws to avoid or resist traps and are resistant to the damage dealt by traps.
 
-**Reflexes.** You have Advantage on Saving Throws to avoid or resist traps and are resistant to the damage dealt by traps.
-
-**On The Move.** Travelling at a fast pace does not impose the usual -5 penalty on your passive Investigation or Perception scores.
+***On The Move.*** Travelling at a fast pace does not impose the usual -5 penalty on your passive Investigation or Perception scores.
 
 :
 
-### Fighting Initiate Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:447px,left:55px,width:375px,mix-blend-mode:normal}
+### Lucky Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:536px,left:400px,width:375px,mix-blend-mode:normal}
 
-*1st-Level Feat*
-</br>**Prerequisite:** None
-</br>**Repeatable:** No
+*Origin Feat*
+</br>You have inexplicable luck that can kick in at just the right moment, granting you the following benefits.
 
-</br>You have practised the basics of martial combat, granting you the following benefits:
+***Luck Points.*** You have a number of Luck Points equal to your Proficiency Bonus. You can spend the points on the benefits below, and you regain your expended Luck Points when you finish a Long Rest.
 
-:
+***Advantage.*** Immediately before you roll a d20 for a D20 Test, you can spend 1 Luck Point to give yourself Advantage on the roll.
 
-&nbsp;**Weapon Mastery.** You gain proficiency in two weapons of your choice. You are also able to use the Weapon Mastery property of these weapons. Whenever you finish a Long Rest, you can change your choice of weapons.  
-
-**Fighting Style.** You learn one Fighting Style from the Fighter class. If you already have a style, the one you choose must be different.You can change this Feat's Fighting Style whenever you gain an Ability Score Improvement.
-
-{{imageMaskCorner9,--offsetX:-57%,--offsetY:-48%,--rotation:0
-  ![trainee](https://www.originalmagicart.store/cdn/shop/products/FranciscoMiyara-JukaiTrainee_1200x.jpg?v=1657084982){position:absolute,bottom:-130px,left:-50px,width:70%,mix-blend-mode:multiply,transform:scaleX(-1)}
-}}
-
-{{position:absolute,top:790px,left:275px,margin-bottom:-30px
-
-##### A martial</br> initiate
-
-}}
-
-\column
-
-{{position:absolute,top:220px,right:325px,margin-bottom:-30px,text-align:right
-
-##### A cleric</br> casts a</br> healing spell
-
-}}
-
-{{imageMaskCorner8,--offsetX:50%,--offsetY:50%,--rotation:0
-  ![healer](https://i.imgur.com/fop6zXO.png){position:absolute,top:25px,right:-135px,width:80%,mix-blend-mode:multiply,transform:scaleX(1),rotate:270deg}
-}}
-
-::::::::::::::::
-
-### Healer ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:295px,left:400px,width:375px,mix-blend-mode:normal}
-
-*1st-Level Feat*
-</br>**Prerequisite:** None
-</br>**Repeatable:** No
-
-</br>You have the training and intuition to administer first aid and other care effectively, granting you the following benefits:
+***Disadvantage.*** When a creature rolls a d20 for an Attack Roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll.
 
 :
 
-&nbsp;**Battle Medic.** If you have a Healer's Kit, you can expend one use of it and tend to a creature within 5 feet of you as an Action. That creature can expend one its Hit Dice, and you then roll that die. The creature regains a number of Hit Points equal to the roll plus your Proficiency Bonus.
+### Savage Attacker Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:850px,left:400px,width:375px,mix-blend-mode:normal}
 
-**Healing Rerolls.** Whenever you roll a die to determine the number of Hit Points you restore with a spell of with this feat's Battle Medic benefit, you can reroll the die if it rolls a 1, and you must use the new roll.
+*Origin Feat*
+</br>You have trained to deal particularly damaging strikes, gaining the following benefits.
 
-:
+***Consistent Strikes.*** Once per turn when you roll damage for a Melee Weapon Attack, you can reroll the damage dice and use either total.
 
-### Lucky Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:695px,left:400px,width:375px,mix-blend-mode:normal}
-
-*1st-Level Feat*
-</br>**Prerequisite:** None
-</br>**Repeatable:** No
-
-</br>You have inexplicable luck that can kick in at just the right moment, granting you the following benefits:
-
-:
-
-&nbsp;**Luck Points.** You have a number of Luck Points equal to your Proficiency Bonus. You can spend the points on the benefits below, and you regain your expended Luck Points when you finish a Long Rest.
-
-**Advantage.** Immediately before you roll a d10 for a d20 Test, you can spend 1 Luck Point to give yourself Advantage on the roll.
-
-**Disadvantage.** When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll.
+***Improved Critical.*** When you score a Critical Hit with a Melee Weapon Attack you can roll one additional weapon damage die.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -5743,412 +5539,67 @@ Homebrew Feats, such as those found alongside the recommended Alternate version 
 
 \page
 
-{{imageMaskCorner8,--offsetX:-52%,--offsetY:40%,--rotation:0
-  ![musician](https://i.imgur.com/cYvhEkZ.jpg){position:absolute,top:-30px,left:-275px,width:90%,mix-blend-mode:multiply,transform:scaleX(-1)}
+:::::::::::::::
+
+## General Feats
+
+{{imageMaskCorner9,--offsetX:-57%,--offsetY:55%,--rotation:0
+  ![dual-wield](https://i.imgur.com/LzRaRmC.jpeg){position:absolute,top:-50px,left:-100px,width:66%}
 }}
 
-{{position:absolute,top:360px,left:300px,margin-bottom:-30px,text-align:left
+{{position:absolute,top:235px,left:300px,margin-bottom:-30px,text-align:left
 
-##### A musician</br> with a</br> Shamisen
+##### A Kitsune </br>practitioner of </br>Niten Ichi-ryu
 
 }}
 
-:::::::::::::::::::::::::::
+### Dual Wielder Revised ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:315px,left:55px,width:375px,mix-blend-mode:normal}
 
-### Magic Initiate Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:453px,left:55px,width:375px,mix-blend-mode:normal}
+*General Feat (Prerequisite: Level 4+, Proficiency with any Martial weapon)*
+</br>You master fighting with two weapons, gaining the following benefits.
 
-*1st-Level Feat*
-</br>**Prerequisite:** None
-</br>**Repeatable:** Yes, but you must choose a different class each time.
+***Ability Score Increase.*** Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
-</br>You have learned the basics of magic of a specific style of magic. Choose a class from Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard. You gain the following benefits based on your choice:
+***Twin Weapons.*** Weapons you are holding can be treated as having the Light property, as long as those weapons lack the Heavy or Two-Handed properties. Each weapon you hold that already has the Light property gives you a +1 bonus to AC.
+
+***Quick Draw.*** You can draw or stow two weapons that lack the Two-Handed property when you would normally be able to draw or stow only one.
 
 :
 
-&nbsp;**Two Cantrips.** You learn two Cantrips of your choice from the class' Spell List.
+### Elemental Adept Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:665px,left:55px,width:375px,mix-blend-mode:normal}
 
-**1st-Level Spell.** Choose one 1st-Level Spell from the class' Spell List. You always have that Spell prepared. You can cast it once without a Spell Slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the Spell using any Spell Slots you have.
+*General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic feature)*
+</br>You have developed an affinity for a specific element and have gained greater control over it. You the following benefits.
 
-Your Spellcasting Ability for these spells depends on the class you chose: Charisma for Bard, Sorcerer, or Warlock; Wisdom for Cleric or Druid; or Intelligence for Wizard.
+***Ability Score Increase.*** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 
-Whenever you gain a new level, you can replace one of the Spells you chose for this Feat with a different Spell of the same level from the Spell List of the class you chose.
+***Energy Master.*** When you gain this feat, choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. Spells you cast ignore Resistance to damage of the chosen type, and treat Immunity to the damage of the chosen type as Resistance instead. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.
+
+***Repeatable.*** You can take this feat more than once, but you must choose a different damage type each time for Energy Mastery.
 
 \column
 
-### Musician ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Gunner Revised ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
-*1st-Level Feat*
-</br>**Prerequisite:** None
-</br>**Repeatable:** No
+*General Feat (Prerequisite: Level 4+, Dexterity 13+)*
+</br>You have a keen eye when employing firearms, being able to take extremely precise and damaging shots. You gain the following benefits.
 
-</br>You are a practised musician, granting you the following benefits:
+***Ability Score Increase.*** Increase your Dexterity score by 1, to a maximum of 20.
 
-:
+***Firearm Proficiency.*** You gain Proficiency in Firearms
 
-&nbsp;**Instrument Training.** You gain Tool Proficiency with three Musical Instruments of your choice.
+***Power Shot.*** If you can make multiple attacks as part of the Attack action, you can instead expend the extra attacks to make one, more powerful attack when you Attack with a Firearm. If you hit with this attack, you can roll additional weapon damage die equal to the number of attacks expended and add their results to the damage of the attack.
 
-**Inspiring Song.** As you finish a Short Rest or a Long Rest, you can play a song on a Musical Instrument with which you have Tool Proficiency and give a Heroic Reroll to allies who hear the song. The number of allies you can affect in this way equals your Proficiency Bonus.
+***Sniper.*** You do not have Disadvantage on Ranged Attack Rolls with a Firearm when you attack at Long Range, or while Prone.
 
-:
-
-### Savage Attacker Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:392px,left:400px,width:375px,mix-blend-mode:normal}
-
-*1st-Level Feat*
-</br>**Prerequisite:** None
-</br>**Repeatable:** No
-
-</br>You have trained to deal particularly damaging strikes, gaining the following benefits:
-
-:
-
-&nbsp;**Consistent Strikes.** Once per turn when you roll damage for a Melee Weapon Attack, you can reroll the damage dice and use either total.
-
-**Improved Critical.** When you score a Critical Hit with a Melee Weapon Attack you can roll one additional weapon damage die.
-
-:
-
-### Skilled Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:667px,left:400px,width:375px,mix-blend-mode:normal}
-
-*1st-Level Feat*
-</br>**Prerequisite:** None
-</br>**Repeatable:** Yes
-
-</br>You have exceptionally broad or deep learning. Choose one of the following options to gain as a benefit:
-
-*Broad Learning.* Choose three Skills in which you lack Proficiency. You gain Proficiency in those Skills.
-
-*Deep Learning.* Choose one Skill in which you lack Proficiency. You gain Proficiency and Expertise in that Skill.
-
-{{pageNumber,auto}}
-{{footnote EXTRA | APPENDICES}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
-
-\page
-
-### Tavern Brawler Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-*1st-Level Feat*
-</br>**Prerequisite:** None
-</br>**Repeatable:** No
-
-</br>Accustomed to brawling, you gain the following benefits:
-
-:
-
-&nbsp;**Enhanced Unarmed Strikes.** When you hit with your Unarmed Strike, you can deal Bludgeoning Damage equal to 1d4 + your Strength modifier instead of the normal damage of the Unarmed Strike.
-
-**Damage Rerolls.** Whenever you roll a damage die for your Unarmed Strikes, you can reroll the die if it rolls a 1, and you must use the new roll.
-
-**Shove.** When you hit a creature with an Unarmed Strike as part of the Attack Action on your turn, you can deal damage to the target and also push it 5 feet away. You can use this benefit only once per turn.
-
-**Furniture as Weapons.** You can wield furniture as a Weapon, using the rules of the Ōtsuchi for Small or Medium furniture and the rules of the Hanbō for Tiny furniture.
-
-:
-
-### Tough ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:536px,left:55px,width:375px,mix-blend-mode:normal}
-
-*1st-Level Feat*
-</br>**Prerequisite:** None
-</br>**Repeatable:** No
-
-</br>Your Hit Point Maximum increases by an amount equal to twice your character level when you gain this Feat. Whenever you gain a level thereafter, your Hit Point Maximum increases by an additional 2 Hit Points.
-
-{{imageMaskCorner20,--offsetX:-45%,--offsetY:-63%,--rotation:0
-  ![sumo](https://cdnb.artstation.com/p/assets/images/images/024/970/861/large/will-murai-sffa-e-honda.jpg?1584126993){position:absolute,bottom:-70px,left:-30px,width:60%,mix-blend-mode:multiply,transform:scaleX(1)}
+{{imageMaskCorner15,--offsetX:50%,--offsetY:-39%,--rotation:0
+  ![gunner](https://i.imgur.com/xBFzvM4.jpeg){position:absolute,bottom:-1px,right:-80px,width:60%,mix-blend-mode:multiply,transform:scaleX(-1)}
 }}
 
-\column
+{{position:absolute,top:585px,right:325px,margin-bottom:-30px,text-align:right
 
-## 4th-Level+ Feats
-
-### Athlete Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:100px,left:400px,width:375px,mix-blend-mode:normal}
-
-*4th-Level Feat*
-</br>**Prerequisite:** Strength, Dexterity, or Constitution 13+
-</br>**Repeatable:** No
-
-</br>You have undergone extensive physical training to gain the following benefits:
-
-:
-
-&nbsp;**Ability Score Increase.** Increase your Strength, Dexterity, or Constitution Score by 1, to a maximum of 20.
-
-**Climb Speed.** You gain a Climb Speed equal to your Speed.
-
-**Hop Up.** When you are Prone, you can right yourself with only 5 feet of movement.
-
-**Jumping.** You have Advantage on any Ability Check you make for the Jump Action, and the minimum distance for your Long Jumps is increased by 5 feet.
-
-:
-
-### Charger ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:482px,left:400px,width:375px,mix-blend-mode:normal}
-
-*4th-Level Feat*
-</br>**Prerequisite:** Proficiency with Any Martial Weapon
-</br>**Repeatable:** No
-
-</br>You have trained to charge headlong into battle, gaining the following benefits:
-
-:
-
-&nbsp;**Ability Score Increase.** Increase your Strength or Dexterity Score by 1, to a maximum of 20.
-
-**Improved Dash.** When you take the Dash Action, your Speed increases by 10 feet for that Action.
-
-**Charge Attack.** If you move at least 10 feet in a straight line immediately before hitting with an Attack as part of the Attack Action on your turn, choose one of the following effects: gain a +1d8 bonus to the Attack's damage roll, or push the target up to 10 feet, provided the target you want to push is no more than one Size larger than you. You can use this benefit only once on each of your turns.
-
-{{position:absolute,top:950px,left:420px,margin-bottom:-30px,text-align:left
-
-##### A tough,</br> charging</br> sumo</br> wrestler
-
-}}
-
-{{pageNumber,auto}}
-{{footnote EXTRA | APPENDICES}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
-
-\page
-
-### Defensive Duelist ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-*4th-Level Feat*
-</br>**Prerequisite:** Dexterity 13+
-</br>**Repeatable:** No
-
-</br>You've learned to deftly parry attacks, granting you the following benefits:
-
-:
-
-&nbsp;**Ability Score Increase.** Increase your Dexterity Score by 1, to a maximum of 20.
-
-**Parry.** If you are holding a Finesse Weapon and another creature hits you with a Melee Attack, you can use your Reaction to add your Proficiency Bonus to your Armour Class for that attack, potentially causing the attack to miss you.
-
-:
-
-### Dual Wielder Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:374px,left:55px,width:375px,mix-blend-mode:normal}
-
-*4th-Level Feat*
-</br>**Prerequisite:** Proficiency with Any Martial Weapon
-</br>**Repeatable:** No
-
-</br>You master fighting with two weapons, gaining the following benefits:
-
-:
-
-&nbsp;**Ability Score Increase.** Increase your Strength or Dexterity Score by 1, to a maximum of 20.
-
-**Enhanced Dual Wielding.** Weapons you are holding can be treated as having the Light property, as long as those Weapons lack the Heavy or Two-Handed properties. Each Weapon you hold that already has the Light property gives you a +1 bonus to AC.
-
-**Quick Draw.** You can draw or stow two Weapons that lack the Two-Handed property when you would normally be able to draw or stow only one.
-
-:
-
-### Durable ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:774px,left:55px,width:375px,mix-blend-mode:normal}
-
-*4th-Level Feat*
-</br>**Prerequisite:** Constitution 13+
-</br>**Repeatable:** No
-
-</br>Hardy and resilient, you the following benefits:
-
-:
-
-&nbsp;**Ability Score Increase.** Increase your Constitution Score by 1, to a maximum of 20.
-
-**Defy Death.** You have Advantage on Death Saving Throws.
-
-**Speedy Recovery.** As a Bonus Action, you can expend one of your Hit Dice, roll the die, and regain a number of Hit Points equal to the roll.
-
-\column
-
-{{imageMaskCorner18,--offsetX:62%,--offsetY:45%,--rotation:0
-  ![pyromancy](https://i.imgur.com/MxTTme9.jpg){position:absolute,top:-1px,right:-250px,width:100%}
-}}
-
-{{position:absolute,top:500px,left:420px,margin-bottom:-30px,text-align:left
-
-##### A pyromancer</br>elementalist
-
-}}
-
-:::::::::::::::::::::::::::::::::::
-
-### Elemental Adept Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:567px,left:400px,width:375px,mix-blend-mode:normal}
-
-*4th-Level Feat*
-</br>**Prerequisite:** Spellcasting or Pact Magic feature
-</br>**Repeatable:** No
-
-</br>You have developed an affinity for a specific element and have gained greater control over it. You the following benefits:
-
-:
-
-&nbsp;**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma Score by 1, to a maximum of 20.
-
-**Elementalist.** When you gain this feat, choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder.
-
-Spells you cast ignore resistance to damage of the chosen type, and treat immunity to the damage of the chosen type as resistance instead. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2. Each time you choose this feat, you must choose a different damage type
-
-{{pageNumber,auto}}
-{{footnote EXTRA | APPENDICES}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
-
-\page
-
-{{imageMaskCorner8,--offsetX:-52%,--offsetY:30%,--rotation:0
-  <!-- ![gunner](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8d19c0a1-4431-4882-bfcf-5111d3996cb7/db49fb7-0d6762ab-2826-4891-8def-1360df1be4fe.jpg/v1/fit/w_617,h_750,q_70,strp/ashigaru_2_by_kiabugboy_db49fb7-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzUwIiwicGF0aCI6IlwvZlwvOGQxOWMwYTEtNDQzMS00ODgyLWJmY2YtNTExMWQzOTk2Y2I3XC9kYjQ5ZmI3LTBkNjc2MmFiLTI4MjYtNDg5MS04ZGVmLTEzNjBkZjFiZTRmZS5qcGciLCJ3aWR0aCI6Ijw9NjE3In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.JWKPx5vXooCZuUZUQlVsfFvsDEtTWvTVof8WedUvX2Q){position:absolute,top:-50px,left:-50px,width:60%,mix-blend-mode:multiply,transform:scaleX(1)} -->
-  ![gunner](https://i.imgur.com/xBFzvM4.jpeg){position:absolute,top:-50px,left:-50px,width:60%,mix-blend-mode:multiply,transform:scaleX(1)}
-}}
-
-{{position:absolute,top:460px,left:300px,margin-bottom:-30px,text-align:left
-
-##### An ashigaru </br> gunner with</br>a Hinawajū
-
-}}
-
-::::::::::::::::::::::::::::::::::
-
-### Grappler ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:554px,left:55px,width:375px,mix-blend-mode:normal}
-
-*4th-Level Feat*
-</br>**Prerequisite:** Strength or Dexterity 13+
-</br>**Repeatable:** No
-
-</br>You're an accomplished wrestler, granting you the following benefits:
-
-:
-
-&nbsp;**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma Score by 1, to a maximum of 20.
-
-**Attack Advantage.** You have Advantage on Attack Rolls against a creature Grappled by you.
-
-**Fast Wrestler.** You aren't Slowed when you move a creature Grappled by you, provided the creature is your Size or smaller.
-
-**Punch and Grab.** When you hit a creature with an Unarmed Strike as part of the Attack Action on your turn, you can deal damage to the target and also grapple it. You can use this benefit only once per turn.
-
-\column
-
-### Great Weapon Master ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
-
-*4th-Level Feat*
-</br>**Prerequisite:** Proficiency with Any Martial Weapon
-</br>**Repeatable:** No
-
-</br>You've learned to use the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
-
-:
-
-&nbsp;**Ability Score Increase.** Increase your Strength Score by 1, to a maximum of 20.
-
-**Cleave.** Immediately after you score a Critical Hit with a Melee Weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a Bonus Action.
-
-**Heavy Weapon Mastery.** When you hit a creature with a Heavy Weapon as part of the Attack Action on your turn, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus, and you can deal it only once per turn.
-
-:
-
-### Gunner Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:483px,left:400px,width:375px,mix-blend-mode:normal}
-
-*4th-Level Feat*
-</br>**Prerequisite:** Proficiency with Any Martial Weapon
-</br>**Repeatable:** No
-
-</br>You have a keen eye when employing firearms, being able to take extremely precise and damaging shots. You gain the following benefits:
-
-:
-
-&nbsp;**Ability Score Increase.** Increase your Strength or Dexterity Score by 1, to a maximum of 20.
-
-**Firearm Proficiency.** You gain proficiency in Firearms
-
-**Power Shot.** If you can make multiple attacks as part of the Attack Action, you can instead expend the extra attacks to make one, more powerful attack when you Attack with a Firearm. If you hit with this Attack, you can roll additional weapon damage die equal to the number of attacks expended and add their results to the damage of the Attack.
-
-**Sniper.** You do not have Disadvantage on Ranged Attack Rolls with a Firearm when you Attack at Long Range, or while Prone.
-
-{{pageNumber,auto}}
-{{footnote EXTRA | APPENDICES}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
-
-\page
-
-### Heavily Armoured Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-*4th-Level Feat*
-</br>**Prerequisite:** Medium Armour Training
-</br>**Repeatable:** No
-
-</br>You have trained to use Heavy Armour effectively, gaining the following benefits:
-
-:
-
-&nbsp;**Ability Score Increase.** Increase your Strength or Constitution Score by 1, to a maximum of 20.
-
-**Armour Training.** You gain Heavy Armour Training.
-
-**Damage Reduction.** When you're hit by an attack while you're wearing Heavy Armour, any Bludgeoning, Piercing, or Slashing Damage dealt to you by that attack is reduced by an amount equal to your Proficiency Bonus.
-
-:
-
-### Inspiring Leader ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:392px,left:55px,width:375px,mix-blend-mode:normal}
-
-*4th-Level Feat*
-</br>**Prerequisite:** Wisdom or Charisma 13+
-</br>**Repeatable:** No
-
-</br>You are adept at encouraging other, granting you the following benefits:
-
-:
-
-&nbsp;**Ability Score Increase.** Increase your Wisdom or Charisma Score by 1, to a maximum of 20.
-
-**Encouraging Performance.** At the end of a Short Rest or a Long Rest, you can give an inspiring performance: a speech, a song, or a dance. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who witness the performance. The chosen creatures each gain Temporary Hit Points equal to 2d4 + your Proficiency Bonus.
-
-\column
-
-### Keen Mind ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
-
-*4th-Level Feat*
-</br>**Prerequisite:** Intelligence 13+
-</br>**Repeatable:** No
-
-</br>You have trained to rapidly recall or discover vital details, granting you the following benefits:
-
-:
-
-&nbsp;**Ability Score Increase.** Increase your Intelligence Score by 1, to a maximum of 20.
-
-**Lore Knowledge.** Choose one of the following Skills: Arcana, History, Investigation, Nature, or Religion. If you lack Proficiency in the chosen Skill, you gain Proficiency in it, you gain Expertise in it.
-
-**Quick Study.** You can take the Study Action as a Bonus Action.
-
-:
-
-### Mage Slayer ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:392px,left:400px,width:375px,mix-blend-mode:normal}
-
-*4th-Level Feat*
-</br>**Prerequisite:** Proficiency with Any Martial Weapon
-</br>**Repeatable:** No
-
-</br>You have practised techniques useful in battling magic-users, granting you the following benefits:
-
-:
-
-&nbsp;**Ability Score Increase.** Increase your Strength or Dexterity Score by 1, to a maximum of 20.
-
-**Concentration Breaker.** When you damage a creature that is concentrating, it has Disadvantage on the Saving Throw it makes to maintain Concentration.
-
-**Guarded Mind.** If you fail an Intelligence, a Wisdom, or a Charisma Saving Throw, you can cause yourself to succeed instead. Once you use this benefit, you can't use it again until you finish a Long Rest.
-
-{{imageMaskCorner9,--offsetX:15%,--offsetY:-46%,--rotation:0
-  ![leadership](https://cdna.artstation.com/p/assets/images/images/013/237/312/large/matt-lara-nagashino.jpg?1538679782){position:absolute,bottom:-10px,right:-10px,width:100%,mix-blend-mode:multiply,transform:scaleX(1)}
-}}
-
-{{position:absolute,top:780px,right:690px,margin-bottom:-30px,text-align:right
-
-##### Inspiring </br> leadership
+<!-- ##### An ashigaru </br> gunner with</br>a Hinawajū -->
+##### An ashigaru </br> gunner with</br>a Hinawaju
 
 }}
 
@@ -6159,352 +5610,69 @@ Spells you cast ignore resistance to damage of the chosen type, and treat immuni
 
 \page
 
-{{imageMaskCorner9,--offsetX:-15%,--offsetY:53%,--rotation:0
-  ![kick](https://i.imgur.com/hbXziX5.jpg){position:absolute,top:-125px,left:-125px,width:125%,mix-blend-mode:multiply,transform:scaleX(-1)}
+{{imageMaskCorner27,--offsetX:-47.5%,--offsetY:45%,--rotation:0
+  ![archer](https://artfiles.alphacoders.com/128/128179.jpg){position:absolute,top:-1px,left:-50px,height:60%,transform:scaleX(-1)}
 }}
 
-:::::::::::::::::
-
-### Medium Armour Master ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:308px,left:55px,width:375px,mix-blend-mode:normal}
-
-*4th-Level Feat*
-</br>**Prerequisite:** Medium Armour Training
-</br>**Repeatable:** No
-
-</br>You have practised moving in medium armour to gain the following benefits:
-
-:
-
-&nbsp;**Ability Score Increase.** Increase your Strength or Dexterity Score by 1, to a maximum of 20.
-
-**Dexterous Wearer.** While you are wearing Medium Armour, you can add 3, rather than 2, to your AC if you have a Dexterity Score of 16 or higher.
-
-:
-
-### Metamagic Adept ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:583px,left:55px,width:375px,mix-blend-mode:normal}
-
-*4th-Level Feat*
-</br>**Prerequisite:** Spellcasting or Pact Magic feature
-</br>**Repeatable:** No
-
-</br>You've learned how to exert your will on your spells to alter how they function, gaining the following benefits:
-
-:
-
-&nbsp;**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma Score by 1, to a maximum of 20.
-
-**Metamagics.** You learn two Metamagic options of your choice from the Sorcerer Class. You can use only one Metamagic option on a spell when you cast it, unless the option says otherwise. Whenever you reach a level that grants the Ability Score Improvement feature, you can replace one of these Metamagic options with another one from the Sorcerer Class.
-
-**Sorcery Points.** You gain 2 Sorcery Points to spend on Metamagic. These points are added to any Sorcery Points you have from another source but can be used only on Metamagic. You regain all spent Sorcery Points when you finish a Long Rest.
-
-\column
-
-{{position:absolute,top:260px,left:625px,margin-bottom:-30px,text-align:left
-
-##### A mobile monk
-
-}}
-
-:::::::::::::::::
-
-### Mobile Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:308px,left:400px,width:375px,mix-blend-mode:normal}
-
-*4th-Level Feat*
-</br>**Prerequisite:** Dexterity or Constitution 13+
-</br>**Repeatable:** No
-
-</br>You possess exceptional speed and stamina, granting you the following benefits:
-
-:
-
-&nbsp;**Ability Score Increase.** Increase your Dexterity or Constitution Score by 1, to a maximum of 20.
-
-**Speed Increase.** Your Speed increases by 10 feet while you aren't wearing Heavy Armour.
-
-**Dash Over Difficult Terrain.** When you take the Dash Action on your turn, Difficult Terrain doesn't cost you extra movement for the rest of that turn.
-
-**In A Blur.** When you make a Melee Attack against a creature, you don't provoke Opportunity Attacks from that creature for the rest of the turn, whether you hit or not.
-
-{{imageMaskCorner9,--offsetX:57.5%,--offsetY:-45%,--rotation:0
-  ![hacker](https://assets.echomtg.com/magic/cards/cropped/133810.hq.jpg){position:absolute,bottom:-35px,right:-40px,width:70%,mix-blend-mode:multiply,transform:scaleX(1)}
-}}
-
-{{position:absolute,top:760px,left:400px,margin-bottom:-30px,text-align:left
-
-##### A subtle spell
-
-}}
-
-{{pageNumber,auto}}
-{{footnote EXTRA | APPENDICES}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
-
-\page
-
-### Mounted Combatant ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-*4th-Level Feat*
-</br>**Prerequisite:** Proficiency with Any Martial Weapon
-</br>**Repeatable:** No
-
-</br>You have developed a bond with your mounts, granting you the following benefits:
-
-:
-
-&nbsp;**Ability Score Increase.** Increase your Strength, Dexterity, or Wisdom Score by 1, to a maximum of 20.
-
-**Mount Handler.** You have Advantage on Wisdom (Animal Handling) checks made to handle or train horses and other Beasts employed as mounts.
-
-**Mounted Strike.** While mounted, you have Advantage on Attack Rolls against any creature that is within 5 feet of your mount and at least one Size smaller than it.
-
-**Leap Aside.** If your mount is subjected to an effect that allows it to make a Dexterity Saving Throw to take only half damage, it instead takes no damage if it succeeds on the Saving Throw, and only half damage if it fails. For your mount to gain this benefit, you must be riding it, and neither of you can be Incapacitated.
-
-**Veer.** While mounted, you can use your Reaction to force an attack that hits your mount to hit you instead.
-
-:
-
-### Observant ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:626px,left:55px,width:375px,mix-blend-mode:normal}
-
-*4th-Level Feat*
-</br>**Prerequisite:** Intelligence or Wisdom 13+
-</br>**Repeatable:** No
-
-</br>Quick to notice details around you, you gain the following benefits:
-
-:
-
-&nbsp;**Ability Score Increase.** Increase your Intelligence or Wisdom Score by 1, to a maximum of 20.
-
-**Keen Observer.** Choose one of the following Skills: Insight, Investigation, or Perception. If you lack Proficiency with the chosen Skill, you gain Proficiency in it, and if you have Proficiency in it, you gain Expertise in it.
-
-**Quick Search.** You can take the Search Action as a Bonus Action.
-
-{{imageMaskEdge1,--offset:5%,--rotation:270
-  ![horse](https://cdna.artstation.com/p/assets/images/images/013/237/310/large/matt-lara-mt-hiei.jpg?1538679780){position:absolute,bottom:-1px,right:-260px,height:101%}
-}}
-
-{{position:absolute,top:1000px,right:390px,margin-bottom:-30px,text-align:right
-
-##### A mounted </br> warlord
-
-}}
-
-{{pageNumber,auto}}
-{{footnote EXTRA | APPENDICES}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
-
-\page
-
-### Polearm Master Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-*4th-Level Feat*
-</br>**Prerequisite:** Proficiency with Any Martial Weapon
-</br>**Repeatable:** No
-
-</br>You have trained extensively with pole weapons, granting you the following benefits:
-
-:
-
-&nbsp;**Ability Score Increase.** Increase your Strength or Dexterity Score by 1, to a maximum of 20.
-
-**Pole Strike.** Immediately after you take the Attack Action and attack with a Bō, Hoko Yari, Kama Yari, Naginata, or Su Yari, you can use a Bonus Action to make a Melee Attack with the opposite end of the Weapon. The weapon's damage die for this attack is a d4, and it deals Bludgeoning Damage.
-
-**Reactive Strike.** While you are holding a Bō, Hoko Yari, Kama Yari, Naginata, or Su Yari, you can use your Reaction to make one Melee Attack against a creature that enters your attack range with that Weapon.
-
-:
-
-### Resilient ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:501px,left:55px,width:375px,mix-blend-mode:normal}
-
-*4th-Level Feat*
-</br>**Prerequisite:** None
-</br>**Repeatable:** No
-
-</br>You have developed the resilience to better withstand certain dangers, granting you the following benefits:
-
-:
-
-&nbsp;**Ability Score Increase.** Choose one Ability in which you lack Saving Throw Proficiency. Increase the chosen Ability Score by 1, to a maximum of 20.
-
-**Saving Throw Proficiency.** You gain Saving Throw Proficiency with the chosen </br>Ability.
-
-\column
-
-### Ritual Caster ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
-
-*4th-Level Feat*
-</br>**Prerequisite:** Intelligence, Wisdom, or Charisma 13+
-</br>**Repeatable:** No
-
-</br>You have studied ritual magic, granting you the following benefits:
-
-:
-
-&nbsp;**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma Score by 1, to a maximum of 20.
-
-**Ritual Spells.** Choose two 1st-Level Spells that have the Ritual tag. You always have those two Spells prepared, and you can cast them with any Spell Slots you have. The Spells' Spellcasting Ability is the ability increased by this Feat.
-
-**Quick Ritual.** With this benefit, you can cast a Ritual Spell that you have prepared using its regular casting time, rather than the extended time for a Ritual. Doing so doesn't require a Spell Slot. Once you cast the Spell in this way, you can't use this benefit again until you finish a Long Rest.
-
-{{imageMaskCorner27,--offsetX:47.5%,--offsetY:-45%,--rotation:0
-  ![ritual](https://i.imgur.com/QbpnM40.jpg){position:absolute,bottom:-1px,right:-375px,height:60%,transform:scaleX(-1)}
-}}
-
-{{position:absolute,top:1050px,right:390px,margin-bottom:-30px,text-align:right
-
-##### A ritual </br> caster
-
-}}
-
-{{pageNumber,auto}}
-{{footnote EXTRA | APPENDICES}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
-
-\page
-
-### Sentinel ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-*4th-Level Feat*
-</br>**Prerequisite:** Proficiency with Any Martial Weapon
-</br>**Repeatable:** No
-
-</br>You have mastered techniques to take advantage of every drop in any enemy's guard, gaining the following benefits:
-
-:
-
-&nbsp;**Ability Score Increase.** Increase your Strength or Dexterity Score by 1, to a maximum of 20.
-
-**Guardian.** Immediately after a creature within 5 feet of you takes the Disengage Action or hits a target other than you with an attack, you can make an Opportunity Attack against that creature.
-
-**Halt.** When you hit a creature with an Opportunity Attack, the creature's Speed becomes 0 for the rest of the turn.
-
-{{imageMaskCorner27,--offsetX:-47.5%,--offsetY:-45%,--rotation:0
-  ![archer](https://artfiles.alphacoders.com/128/128179.jpg){position:absolute,bottom:-50px,left:-50px,height:60%,transform:scaleX(-1)}
-}}
-
-{{position:absolute,top:1050px,left:390px,margin-bottom:-30px,text-align:left
+{{position:absolute,top:620px,left:280px,margin-bottom:-30px,text-align:left
 
 <!-- ##### A sharpshooter </br> with a Daikyū -->
 ##### A sharpshooter </br> with a Daikyu
 
 }}
 
+:::::::::::::::::::::::::::::::::::::::::::
+
+### Polearm Master (Sumiriku) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:683px,left:55px,width:375px,mix-blend-mode:normal}
+
+*General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+)*
+</br>You have trained extensively with pole weapons, granting you the following benefits.
+
+***Ability Score Increase.*** Increase your Strength or Dexterity score by 1, to a maximum of 20.
+
+***Pole Strike.*** Immediately after you take the Attack action and attack with a Bō, Hoko Yari, Kama Yari, Naginata, or Su Yari, you can use a Bonus Action to make a Melee Attack with the opposite end of the weapon. The weapon's damage die for this attack is a d4, and it deals Bludgeoning Damage.
+
+***Reactive Strike.*** While you are holding a Bō, Hoko Yari, Kama Yari, Naginata, or Su Yari, you can use your Reaction to make one Melee Attack against a creature that enters your attack range with that weapon.
+
 \column
 
 ### Sharpshooter Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
-*4th-Level Feat*
-</br>**Prerequisite:** Proficiency with Any Martial Weapon
-</br>**Repeatable:** No
+*General Feat (Prerequisite: Level 4+, Dexterity 13+)*
+</br>You can make shots that others find impossible, gaining the following benefits.
 
-</br>You can make shots that others find impossible, gaining the following benefits:
+***Ability Score Increase.*** Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
-:
+***Bypass Cover.*** Your Ranged Attacks with weapons ignore Half Cover and Three-Quarters Cover.
 
-&nbsp;**Ability Score Increase.** Increase your Strength or Dexterity Score by 1, to a maximum of 20.
+***Long Shots.*** Attacking at Long Range doesn't impose Disadvantage on your Ranged Attack Rolls with weapons.
 
-**Bypass Cover.** Your Ranged Attacks with Weapons ignore Half Cover and Three-Quarters Cover.
-
-**Long Shots.** Attacking at Long Range doesn't impose Disadvantage on your Ranged Attack Rolls with Weapons.
-
-**Fancy Feet.** If you are the target of a Melee Attack from a hostile creature that misses while you are wielding a Ranged or Thrown weapon, you can use your Reaction to move up to 5 feet without provoking Opportunity Attacks. Once you have moved you can make a single </br>Ranged Weapon Attack as part of the </br>same Reaction.
+***Fancy Feet.*** If you are the target of a Melee Attack from a hostile creature that misses while you are wielding a Ranged or Thrown weapon, you can use your Reaction to move up to 5 feet without provoking Opportunity Attacks. Once you have moved you can make a single Ranged Weapon Attack as part of the same Reaction.
 
 :
 
-### Shield Master Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:536px,left:400px,width:375px,mix-blend-mode:normal}
+### Spell Sniper Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:468px,left:400px,width:375px,mix-blend-mode:normal}
 
-*4th-Level Feat*
-</br>**Prerequisite:** Shield Training
-</br>**Repeatable:** No
+*General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic feature)*
+</br>You have learned techniques to enhance your attacks with certain kinds of spells, gaining the following benefits.
 
-</br>You've trained to use shields not just for protection, but also for offence, granting you the following benefits:
+***Ability Score Increase.*** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 
-:
+***Bypass Cover.*** Your Attack Rolls for spells ignore Half Cover and Three-Quarters Cover.
 
-&nbsp;**Ability Score Increase.** Increase your Strength or Constitution Score by 1, to a maximum of 20.
+***Increased Range.*** When you cast a spell that has a range of at least 10 feet and that requires you to make an Attack Roll, you can increase the spell's range by 60 feet.
 
-**Shield Bash.** If you attack a creature within 5 feet of you as part of the Attack Action and hit with a Melee Weapon, you can immediately bash the target with your Shield if it's equipped, forcing the target to make a Strength Saving Throw against a DC equal to 8 + your Strength Modifier + your Proficiency Bonus. On a failed save, you know the target Prone or push it 5 feet away. You can use this benefit only once on each of your turns.
+***Magic Lock-On.*** When you make a Ranged Spell Attack, you can use your Reaction to set the target's AC for that Attack to 10, rather than their regular AC. You can use this feature only if you haven't moved during this turn, and after you use this feature, your Speed is 0 until the end of the current turn.
 
-**Interpose Shield.** If you are subjected to an effect that allows you to make a Dexterity Saving Throw to take only half damage, you can use your Reaction to take no damage if you succeed on the Saving Throw and are wielding a Shield, interposing your Shield between yourself and the source of the effect.
+::
 
-{{pageNumber,auto}}
-{{footnote EXTRA | APPENDICES}}
+{{note
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+##### Note: Homebrew Feats
 
-\page
-
-{{imageMaskCorner17,--offsetX:-57%,--offsetY:36%,--rotation:0
-  ![skulker](https://cdna.artstation.com/p/assets/images/images/029/815/082/4k/greg-opalinski-33-umbral-ninja.jpg?1598726562){position:absolute,top:-1px,left:-350px,width:100%}
-}}
-
-{{position:absolute,top:575px,left:75px,margin-bottom:-30px,text-align:left
-
-##### A skulking ninja
+Homebrew feats, such as those found alongside the recommended Alternate version of classes, are available on request and review. Any feats that do not specify should be considered General Feats.
 
 }}
-
-:::::::::::::::::::::::::::::::::::::::::
-
-### Skulker ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:654px,left:55px,width:375px,mix-blend-mode:normal}
-
-*4th-Level Feat*
-</br>**Prerequisite:** Dexterity 13+
-</br>**Repeatable:** No
-
-</br>You are an expert at slinking through shadows, granting you the following benefits:
-
-:
-
-&nbsp;**Ability Score Increase.** Increase your Dexterity Score by 1, to a maximum of 20.
-
-**Blindsight.** You have Blindsight with a range of 10 feet.
-
-**Fog of War.** Exploiting the distractions of battle, you have Advantage on any Dexterity (Stealth) Check you make as part of the Hide Action during combat.
-
-**Shadow Strike.** If you make an Attack while Hidden and the Attack misses, making the Attack doesn't end the Hidden Condition on you.
-
-\column
-
-### Spell Sniper Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
-
-*4th-Level Feat*
-</br>**Prerequisite:** Spellcasting or Pact Magic Feature
-</br>**Repeatable:** No
-
-</br>You have learned techniques to enhance your attacks with certain kinds of spells, gaining the following benefits:
-
-:
-
-&nbsp;**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma Score by 1, to a maximum of 20.
-
-**Bypass Cover.** Your Attack Rolls for Spells ignore Half Cover and Three-Quarters Cover.
-
-**Increased Range.** When you cast a Spell that has a range of at least 10 feet and that requires you to make an Attack Roll, you can increase the Spell's range by 60 feet.
-
-**Magic Lock-On.** When you make a Ranged Spell Attack, you can use your Reaction to set the target's AC for that Attack to 10, rather than their regular AC. You can use this feature only if you haven't moved during this turn, and after you use this feature, your Speed is 0 until the end of the current turn.
-
-:
-
-### War Caster ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:554px,left:400px,width:375px,mix-blend-mode:normal}
-
-*4th-Level Feat*
-</br>**Prerequisite:** Spellcasting or Pact Magic Feature
-</br>**Repeatable:** No
-
-</br>You have practised casting spells in the midst of combat, granting you the following benefits:
-
-:
-
-&nbsp;**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma Score by 1, to a maximum of 20.
-
-**Concentration.** You have Advantage on Constitution Saving Throws that you make to maintain your Concentration.
-
-**Increased Range.** When a creature provokes an Opportunity Attack from you by moving out of your Reach, you can use your Reaction to cast a Spell at the creature, rather than making an Opportunity Attack. The Spell must have a casting time of one Action and must target only that creature.
-
-**Somatic Components.** You can perform the Somatic Components of Spells even when you have Weapons or a Shield in one or both hands.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -6515,71 +5683,64 @@ Spells you cast ignore resistance to damage of the chosen type, and treat immuni
 
 # Appendix C - Spell Changes
 
-:
+## 2024 Spell Changed List
 
-{{note
-
-##### Note: Spells in D&D 2024 pt. 1
+{{#spell-table,wide
 
 Below is an alphabetised list of the spells added or changed in the 2024 D&D version, with a brief description of the change. Refer to these over instead of their 5e counterparts.
 
-- Acid Splash - Now effects a 5-foot-radius sphere
-- Aid - Grants Temporary Hit Points, increased number of creatures
-- Arcane Eruption - New Level 4 Sorcerer spell, deals AoE damage and gives an extra Condition
-- Banishing Smite - Changed casting time, requires Charisma Saving Throw to banish
-- Banishment - Reduced Range, target can repeat the Saving Throw
-- Barkskin - Replaces AC increase with Temporary Hit Points
-- Blade Ward - Replaces resistance with Disadvantage on attacks
-- Blinding Smite - New Level 3 Paladin smite spell, gives Blinded Condition
-- Chill Touch - Damage die increased to d10, now Touch range
-- Conjure Animals - Now creates a spectral swarm that deals damage in an area rather than summoning
-- Conjure Barrage - Increased damage, deals Force damage, increases damage when upcast
-- Conjure Celestial - Now creates a healing and damaging cylinder of light rather than summoning
-- Conjure Elemental - Now creates an elemental that attacks enemies that approach rather than summoning
-- Conjure Fey - Now creates an fey that makes attacks and Frightens that approach rather than summoning
-- Conjure Minor Elemental - Now increases damage you deal with attacks rather than summoning
-- Conjure Volley - Works with Melee Weapons, only effects creatures of your choice, deals Force damage
-- Conjure Woodland Beings - Now deals damage to creatures that get close to you rather than summoning
-- Counterspell - Target must make a Constitution Saving Throw, the target's Spell Slot isn't expended if the spell is countered, no benefit for upcasting
-- Cure Wounds - Die increased to 2d8 per Spell Slot
-- Find Steed - Uses a new stat block, scales with Spell Slot level
-- Find Familiar - Uses a new stat block, scales with Spell Slot level
+##### 2024 Spell Changes
 
-}}
+<!-- TODO - UPDATE WITH MORE NEW SPELLS -->
 
-\column
-
-:
-
-{{note
-
-##### Note: Spells in D&D 2024 pt. 2
-
-- Fount of Moonlight - New Level 4 Bard/Druid spell that improves attack damage and can Blind
-- Friends - Forces a Saving Throw, applies the Charmed Condition
-- Guidance - Cast as a Reaction to a failed Ability Check
-- Healing Word - Die increased for 1d4 to 2d4 per Spell Slot
-- Hunter's Mark - Deals Force damage, increases damage when upcast
-- Mass Cure Wounds - Healing increased by 2d8
-- Mass Healing Word - Healing increased by 1d4
-- Poison Spray - Now an Attack Roll, increased range
-- Produce Flame - Increased range and light range, spell no longer ends after attacking
-- Power Word Fortify - New Lever 7 Bard/Cleric spell that gives 120 Temporary Hit Points split between up to six creatures
-- Power Word Heal - Range increased to 60 feet, removes Dazed Condition
-- Power Word Kill - Now deals damage if the creature is not below 100 Hit Points
-- Resistance - Cast as a Reaction to a failed Saving Throw
-- Searing Smite - Changed casting time, damage happens before Saving Throw, fire can't be put out with an Action
-- Shining Smite - New Level 2 Paladin smite spell, grants Advantage on attacks and prevents Invisibility
-- Shocking Grasp - Replaces preventing Reactions with preventing Opportunity Attacks, damage up
-- Sorcerous Burst - New Sorcerer Cantrip, adds an extra damage die each time you roll maximum
-- Spare the Dying - Increased range, can't self target, increases range with level
-- Spiritual Weapon - Now requires Concentration
-- Staggering Smite - Changed casting time, no longer uses Concentration, can be upcast
-- Starry Wisp - New Bard/Druid Ranged Attack Cantrip, prevents Invisibility
-- Thunderous Smite - Changed casting time, no longer uses Concentration, can be upcast
-- True Strike - Now makes a weapon attack using Spellcasting Ability, scales with level
-- Vicious Mockery - Damage die increased from d4 to d6
-- Wrathful Smite - Changed casting time, no longer uses Concentration, can be upcast, deals Necrotic Damage, target now repeats Saving Throw at the end of it's turn
+| Updated Spell             | Change                                                                                                                                   |
+|:--------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
+| Acid Splash               | Now effects a 5-foot-radius sphere                                                                                                       |
+| Aid                       | Grants Temporary Hit Points, increased number of creatures                                                                               |
+| Arcane Eruption           | New Level 4 Sorcerer spell, deals AoE damage and gives an extra Condition                                                                |
+| Banishing Smite           | Changed casting time, requires Charisma Saving Throw to banish                                                                           |
+| Banishment                | Reduced Range, target can repeat the Saving Throw                                                                                        |
+| Barkskin                  | Replaces AC increase with Temporary Hit Points                                                                                           |
+| Blade Ward                | Replaces Resistance with Disadvantage on attacks                                                                                         |
+| Blinding Smite            | New Level 3 Paladin smite spell, gives Blinded Condition                                                                                 |
+| Chill Touch               | Damage die increased to d10, now Touch range                                                                                             |
+| Conjure Animals           | Now creates a spectral swarm that deals damage in an area rather than summoning                                                          |
+| Conjure Barrage           | Increased damage, deals Force damage, increases damage when upcast                                                                       |
+| Conjure Celestial         | Now creates a healing and damaging cylinder of light rather than summoning                                                               |
+| Conjure Elemental         | Now creates an elemental that attacks enemies that approach rather than summoning                                                        |
+| Conjure Fey               | Now creates an fey that makes attacks and Frightens that approach rather than summoning                                                  |
+| Conjure Minor Elemental   | Now increases damage you deal with attacks rather than summoning                                                                         |
+| Conjure Volley            | Works with Melee weapons, only effects creatures of your choice, deals Force damage                                                      |
+| Conjure Woodland Beings   | Now deals damage to creatures that get close to you rather than summoning                                                                |
+| Counterspell              | Target must make a Constitution Saving Throw, the target's Spell Slot isn't expended if the spell is countered, no benefit for upcasting |
+| Cure Wounds               | Die increased to 2d8 per Spell Slot Level                                                                                                |
+| Find Steed                | Uses a new stat block, scales with Spell Slot Level                    |
+| Find Familiar             | Uses a new stat block, scales with Spell Slot Level                    |
+| Fount of Moonlight        | New Level 4 Bard/Druid spell that improves attack damage and can Blind |
+| Friends                   | Forces a Saving Throw, applies the Charmed Condition                   |
+| Guidance                  | Cast as a Reaction to a failed Ability Check                           |
+| Healing Word              | Die increased for 1d4 to 2d4 per Spell Slot      |
+| Hunter's Mark             | Deals Force damage, increases damage when upcast |
+| Mass Cure Wounds          | Healing increased by 2d8                         |
+| Mass Healing Word         | Healing increased by 1d4                         |
+| Poison Spray              | Now an Attack Roll, increased range              |
+| Produce Flame             | Increased range and light range, spell no longer ends after attacking |
+| Power Word Fortify        | New Lever 7 Bard/Cleric spell that gives 120 Temporary Hit Points split between up to six creatures |
+| Power Word Heal           | Range increased to 60 feet, removes Dazed Condition |
+| Power Word Kill           | Now deals damage if the creature is not below 100 Hit Points |
+| Resistance                | Cast as a Reaction to a failed Saving Throw |
+| Searing Smite             | Changed casting time, damage happens before Saving Throw, fire can't be put out with an Action |
+| Shining Smite             | New Level 2 Paladin smite spell, grants Advantage on attacks and prevents Invisibility |
+| Shocking Grasp            | Replaces preventing Reactions with preventing Opportunity Attacks, damage up |
+| Sorcerous Burst           | New Sorcerer cantrip, adds an extra damage die each time you roll maximum |
+| Spare the Dying           | Increased range, can't self target, increases range with Level |
+| Spiritual Weapon          | Now requires Concentration |
+| Staggering Smite          | Changed casting time, no longer uses Concentration, can be upcast |
+| Starry Wisp               | New Bard/Druid Ranged Attack cantrip, prevents Invisibility |
+| Thunderous Smite          | Changed casting time, no longer uses Concentration, can be upcast |
+| True Strike               | Now makes a Weapon Attack using Spellcasting Ability, scales with Level |
+| Vicious Mockery           | Damage die increased from d4 to d6 |
+| Wrathful Smite            | Changed casting time, no longer uses Concentration, can be upcast, deals Necrotic Damage, target now repeats Saving Throw at the end of it's turn |
 
 }}
 
@@ -6590,11 +5751,79 @@ Below is an alphabetised list of the spells added or changed in the 2024 D&D ver
 
 \page
 
+{{#spell-table,wide
+
+## Custom Spell Changed List
+
+Below is an list, sorted by Spell Level and then alphabetically, of the spells changed in this document, with a brief description of the change.
+
+##### Custom Spell Changes
+
+<!-- TODO - REMOVE OTHER SPELLS CHANGED IN 2024 RULES -->
+
+| Updated Spell             | Change                                                                                                                                     |
+|:--------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
+| Shillelagh                | Extended duration, deals Force damage                                                                                                      |
+| Color Spray               | Constitution Save instead of HP threshold, upcasting increases range                                                                       |
+| Compelled Duel            | Target can't move away from you, you can attack other creatures, upcast for more targets                                                   |
+| Goodberry                 | Consumes a component when cast                                                                                                             |
+| Hail of Thorns            | Changed casting time to after hitting a target, no longer uses Concentration                                                               |
+| Ray of Sickness           | Increased damage by 1d8                                                                                                                    |
+| Sleep                     | Constitution Save instead of HP threshold, save repeats at end of target's turn, upcast for more targets                                   |
+| Witch Bolt                | Applies the Dazed Condition                                                                                                                |
+| Alter Self                | No longer uses concentration, natural weapons can you Spellcasting Ability modifier                                                        |
+| Crown of Madness          | Charmed target can attack self                                                                                                             |
+| Find Traps                | Reveals location of traps                                                                                                                  |
+| Flame Blade               | Damage increased from 3d6 to 3d10, upcast damage increased to 1d10 per Level                                                               |
+| Heat Metal                | No more Saving Throw or Disadvantage, damage happens to contacting creature at the start of their turn                                     |
+| Melf's Acid Arrow         | Deals an extra 2d4 damage on hit and miss                                                                                                  |
+| Pass Without Trace        | Stealth bonus reduced to +5, must be near caster to keep bonus                                                                             |
+| Prayer of Healing         | Grants a Short Rest, cast time reduced to 1 minute                                                                                         |
+| Ray of Enfeeblement       | Replaces half damage with Disadvantage on Strength checks and Saving Throws and attacks, no repeating save                                 |
+| Spike Growth              | Damage per turn capped                                                                                                                     |
+| Web                       | Clarified positioning, only restrains at start of targets' turns, clarified fire interaction                                               |
+| Fear                      | Save repeats at end of targets' turns                                                                                                      |
+| Hypnotic Pattern          | Save repeats at end of targets' turns                                                                                                      |
+| Leomund's Tiny Hut        | No longer a ritual, dome has an AC and HP                                                                                                  |
+| Lightning Arrow           | Changed casting time to after hitting a target, no longer uses concentration                                                               |
+| Spirit Guardians          | Replaces Speed reduction with increased movement cost, damage reduced by 1d8                                                               |
+| Stinking Cloud            | Applies the Poison Condition, creature must waste Action while poisoned, save repeats at end of targets' turns                             |
+| Evard's Black Tentacles   | Save repeats at end of targets' turns, no Action to escape                                                                                 |
+| Grasping Vine             | Grapples and knocks creature Prone                                                                                                         |
+| Leomund's Secret Chest    | No random chance of losing chest                                                                                                           |
+| Phantasmal Killer         | Deals 6d10 damage immediately or half on successful save, increased repeating damage by 2d10                                               |
+| Polymorph                 | Beast stat blocks chosen when learning the spell, uses target's Hit Points, unwilling creatures can repeat the save at end of turn         |
+| Stoneskin                 | No Material cost                                                                                                                           |
+| Animate Object            | Now uses stat blocks like Summon spells                                                                                                    |
+| Dream                     | Now a ritual                                                                                                                               |
+| Geas                      | Time between damage reduced to one hour                                                                                                    |
+| Legend Lore               | Works on any person, place, or object                                                                                                      |
+| Swift Quiver              | Makes two attacks when you cast the spell                                                                                                  |
+| Wall of Force             | The wall now has an AC and HP                                                                                                              |
+| Magic Jar                 | Clears up wording and prevents exploits                                                                                                    |
+| Planar Ally               | Ally now works without bargaining, CR of ally set, duration reduced to 24 hours                                                            |
+| Forcecage                 | The cage now has an AC and HP                                                                                                              |
+| Mordenkainen's Sword      | Damage significantly increased, Critical Hit ratio increased, movement increased, can pass through barriers, upcast to get an extra attack |
+| Prismatic Spray           | Creatures are affected by two rays minimum                                                                                                 |
+| Simulacrum                | Prevents exploits by not letting the simulacrum cast, rest, or heal                                                                        |
+| Control Weather           | Weather changes happen quicker                                                                                                             |
+| Feeblemind                | Spell can be ended with *Dispel Magic*                                                                                                     |
+| Incendiary Cloud          | No Saving Throw for damage on a creature entering the cloud or ending their turn there                                                     |
+| True Polymorph            | Prevents exploits by preventing casting and shapechanging, uses Temporary Hit Points as Polymorph health                                   |
+| Shapechange               | Prevents exploits by preventing casting and shapechanging                                                                                  |
+| Prismatic Wall            | Creatures cannot be affected by the same layer multiple times a turn                                                                       |
+| Weird                     | Deals 6d10 damage on failed save, increased repeating damage by 2d10                                                                       |
+| Wish                      | Only can recreate spells with Action casting time, can't have multiple bonuses at once, removed chance of losing ability to cast           |
+
+}}
+
+<!--
+
 {{note
 
 ##### Note: Spells in this document pt. 1
 
-Below is list sorted by level and alphabetically of the spells changed in this document, with a brief description of the change. Refer to these over instead of their 5e counterparts.
+Below is list sorted by Spell Level and alphabetically of the spells changed in this document, with a brief description of the change. Refer to these over instead of their 5e counterparts.
 
 - Shillelagh - Extended duration, deals Force damage
 - Color Spray - Constitution Save instead of HP threshold, upcasting increases range
@@ -6604,23 +5833,23 @@ Below is list sorted by level and alphabetically of the spells changed in this d
 - Ray of Sickness - Increased damage by 1d8
 - Sleep - Constitution Save instead of HP threshold, save repeats at end of target's turn, upcast for more targets
 - Witch Bolt - Applies the Dazed Condition
-- Alter Self - No longer uses concentration, natural weapons can you Spellcasting Ability Modifier
+- Alter Self - No longer uses concentration, natural weapons can you Spellcasting Ability modifier
 - Crown of Madness - Charmed target can attack self
 - Find Traps - Reveals location of traps
-- Flame Blade - Damage increased from 3d6 to 3d10, upcast damage increased to 1d10 per level
+- Flame Blade - Damage increased from 3d6 to 3d10, upcast damage increased to 1d10 per Level
 - Heat Metal - No more Saving Throw or Disadvantage, damage happens to contacting creature at the start of their turn
 - Melf's Acid Arrow - Deals an extra 2d4 damage on hit and miss
 - Pass Without Trace - Stealth bonus reduced to +5, must be near caster to keep bonus
 - Prayer of Healing - Grants a Short Rest, cast time reduced to 1 minute
-- Ray of Enfeeblement - Replaces half damage with disadvantage on Strength checks and Saving Throws and attacks, no repeating save
+- Ray of Enfeeblement - Replaces half damage with Disadvantage on Strength checks and Saving Throws and attacks, no repeating save
 - Spike Growth - Damage per turn capped
 - Web - Clarified positioning, only restrains at start of targets' turns, clarified fire interaction
 - Fear - Save repeats at end of targets' turns
 - Hypnotic Pattern - Save repeats at end of targets' turns
 - Leomund's Tiny Hut - No longer a ritual, dome has an AC and HP
 - Lightning Arrow - Changed casting time to after hitting a target, no longer uses concentration
-- Spirit Guardians - Replaces speed reduction with increased movement cost, damage reduced by 1d8
-- Stinking Cloud - Applies the Poison Condition, creature must waste action while poisoned, save repeats at end of targets' turns
+- Spirit Guardians - Replaces Speed reduction with increased movement cost, damage reduced by 1d8
+- Stinking Cloud - Applies the Poison Condition, creature must waste Action while poisoned, save repeats at end of targets' turns
 - Evard's Black Tentacles - Save repeats at end of targets' turns, no Action to escape
 
 }}
@@ -6632,7 +5861,7 @@ Below is list sorted by level and alphabetically of the spells changed in this d
 - Grasping Vine - Grapples and knocks creature Prone
 - Leomund's Secret Chest - No random chance of losing chest
 - Phantasmal Killer - Deals 6d10 damage immediately or half on successful save, increased repeating damage by 2d10
-- Polymorph - Beast stat blocks chosen when learning the spell, uses target's hit points, unwilling creatures can repeat the save at end of turn
+- Polymorph - Beast stat blocks chosen when learning the spell, uses target's Hit Points, unwilling creatures can repeat the save at end of turn
 - Stoneskin - No Material cost
 - Animate Object - Now uses stat blocks like Summon spells
 - Dream - Now a ritual
@@ -6643,19 +5872,19 @@ Below is list sorted by level and alphabetically of the spells changed in this d
 - Magic Jar - Clears up wording and prevents exploits
 - Planar Ally - Ally now works without bargaining, CR of ally set, duration reduced to 24 hours
 - Forcecage - The cage now has an AC and HP
-- Mordenkainen's Sword - Damage significantly increased, Critical Hit ratio increased, movement speed increased, can pass through barriers, upcast to get an extra attack
+- Mordenkainen's Sword - Damage significantly increased, Critical Hit ratio increased, movement increased, can pass through barriers, upcast to get an extra attack
 - Prismatic Spray - Creatures are affected by two rays minimum
 - Simulacrum - Prevents exploits by not letting the simulacrum cast, rest, or heal
 - Control Weather - Weather changes happen quicker
 - Feeblemind - Spell can be ended with *Dispel Magic*
-- Incendiary Cloud - No saving throw for damage on a creature entering the cloud or ending their turn there
+- Incendiary Cloud - No Saving Throw for damage on a creature entering the cloud or ending their turn there
 - True Polymorph - Prevents exploits by preventing casting and shapechanging, uses Temporary Hit Points as Polymorph health
 - Shapechange - Prevents exploits by preventing casting and shapechanging
 - Prismatic Wall - Creatures cannot be affected by the same layer multiple times a turn
 - Weird - Deals 6d10 damage on failed save, increased repeating damage by 2d10
 - Wish - Only can recreate spells with Action casting time, can't have multiple bonuses at once, removed chance of losing ability to cast
 
-}}
+}} -->
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -6673,7 +5902,7 @@ Below is list sorted by level and alphabetically of the spells changed in this d
 **Range:**        :: Self
 **Components:**   :: V, S, M (mistletoe, a shamrock leaf, and a Club or Quarterstaff)
 **Duration:**     :: 10 minutes
-A Club (Bokken) or Quarterstaff (Bō) you are holding is imbued with nature’s power. For the duration, you can use your Spellcasting Ability instead of Strength for the attack and damage rolls of Melee Attacks using that weapon, and the weapon’s damage die becomes a d8. If the attack deals damage, it can be Force damage or the weapon’s normal damage type (your choice).
+A Club (Bokken) or Quarterstaff (Bō) you are holding is imbued with nature’s power. For the duration, you can use your Spellcasting Ability instead of Strength for the Attack and Damage Rolls of Melee Attacks using that weapon, and the weapon’s damage die becomes a d8. If the attack deals damage, it can be Force damage or the weapon’s normal damage type (your choice).
 
 The spell ends early if you cast it again or if you let go of the weapon.
 
@@ -6688,7 +5917,7 @@ The spell ends early if you cast it again or if you let go of the weapon.
 **Duration:**     :: 1 round
 A dazzling array of flashing, colored light springs from your hand. Each creature in a 15-foot cone must succeed on a Constitution Saving Throw be Blinded until the end of your next turn.
 
-**At Higher Levels.** When you cast this spell using a Spell Slot of 2nd level or higher, the size of the cone increases by 5 feet for each slot level above 1st.
+**Using a Higher-Level Spell Slot.** The size of the cone increases by 5 feet for each Spell Slot Level above 1.
 
 \column
 
@@ -6699,11 +5928,11 @@ A dazzling array of flashing, colored light springs from your hand. Each creatur
 **Range:**        :: Self (15-foot cone)
 **Components:**   :: V
 **Duration:**     :: Concentration, up to 1 minute
-You attempt to compel a creature into a duel. One creature that you can see within range must make a Wisdom Saving Throw. On a failed save, the creature is drawn to you, compelled by your divine demand. For the duration, you both have disadvantage on attack rolls against creatures other than each other, and the target must make a Wisdom Saving Throw each time it attempts to move away from you; if it succeeds on this Saving Throw, this spell doesn't restrict the target's movement for that turn.
+You attempt to compel a creature into a duel. One creature that you can see within range must make a Wisdom Saving Throw. On a failed save, the creature is drawn to you, compelled by your divine demand. For the duration, you both have Disadvantage on Attack Rolls against creatures other than each other, and the target must make a Wisdom Saving Throw each time it attempts to move away from you; if it succeeds on this Saving Throw, this spell doesn't restrict the target's movement for that turn.
 
 The spell ends if a creature friendly to you damages the target or casts a harmful spell on it, or if you end your turn more than 30 feet away from the target.
 
-**At Higher Levels.** When you cast this spell using a Spell Slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
+**Using a Higher-Level Spell Slot.**You can target one additional creature for each Spell Slot Level above 1. The creatures must be within 30 feet of each other when you target them.
 
 :
 
@@ -6714,11 +5943,11 @@ The spell ends if a creature friendly to you damages the target or casts a harmf
 **Range:**        :: Touch
 **Components:**   :: V, S, M (a fresh sprig of a berry-sprouting plant, which the spell consumes)
 **Duration:**     :: Instantaneous
-Up to ten berries appear in your hand and are infused with magic for the duration. A creature can use its Action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day.
+Up to ten berries appear in your hand and are infused with magic for the duration. A creature can use its Action to eat one berry. Eating a berry restores 1 Hit Point, and the berry provides enough nourishment to sustain a creature for one day.
 
 The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
 
-**At Higher Levels.** When you cast this spell using a Spell Slot of level 2 or higher, five additional berries appear for each slot level above 1.
+**Using a Higher-Level Spell Slot.** Five additional berries appear for each Spell Slot Level above 1.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -6730,13 +5959,13 @@ The berries lose their potency if they have not been consumed within 24 hours of
 ### Hail of Thorns
 
 *Level 1 Conjuration*
-**Casting Time:** :: Bonus Action, which you take immediately after hitting a target with an attack with a Ranged Weapon
+**Casting Time:** :: Bonus Action, which you take immediately after hitting a target with an attack with a Ranged weapon
 **Range:**        :: Self
 **Components:**   :: V
 **Duration:**     :: Instantaneous
 As you hit the target, the projectile splits into a rain of thorns. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity Saving Throw. A creature takes 1d10 Piercing damage on a failed save, or half as much damage on a successful one.
 
-**At Higher Levels.** If you cast this spell using a Spell Slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st (to a maximum of 6d10).
+**Using a Higher-Level Spell Slot.** The damage increases by 1d10 for each Spell Slot Level above 1 (to a maximum of 6d10).
 
 :
 
@@ -6749,7 +5978,7 @@ As you hit the target, the projectile splits into a rain of thorns. In addition 
 **Duration:**     :: Instantaneous
 A ray of sickening greenish energy lashes out toward a creature within range. Make a Ranged Spell Attack against the target. On a hit, the target takes 3d8 Poison damage and must make a Constitution Saving Throw. On a failed save, it is also Poisoned until the end of your next turn.
 
-**At Higher Levels.** When you cast this spell using a Spell Slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+**Using a Higher-Level Spell Slot.** The damage increases by 1d8 for each Spell Slot Level above 1st.
 
 :
 
@@ -6762,7 +5991,7 @@ A ray of sickening greenish energy lashes out toward a creature within range. Ma
 **Duration:**     :: 1 Round
 An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from magic missile. This AC bonus cannot increase your AC to more than 20.
 
-:
+\column
 
 ### Sleep
 
@@ -6773,7 +6002,7 @@ An invisible barrier of magical force appears and protects you. Until the start 
 **Duration:**     :: 1 minute
 Choose a creature that you can see within range. The target must succeed on a Constitution Saving Throw or fall Unconscious until the spell ends, the sleeper takes damage, or someone uses an Action to shake or slap the sleeper awake. At the end of each of its turns, the target can repeat the Saving Throw. On a success, the spell ends on the target.
 
-**At Higher Levels.** When you cast this spell using a Spell Slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
+**Using a Higher-Level Spell Slot.** You can target one additional creature for each Spell Slot Level above 1. The creatures must be within 30 feet of each other when you target them.
 
 :
 
@@ -6786,7 +6015,7 @@ Choose a creature that you can see within range. The target must succeed on a Co
 **Duration:**     :: Concentration, up to 1 minute
 A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target. The target must succeed on a Dexterity Saving Throw or they take 1d12 Lightning damage are Dazed for the duration of the spell. On each of your turns for the duration, you can use your Action to deal 1d12 Lightning damage to the target automatically. The spell ends if you do not use your Action in this. The spell also ends if the target is ever outside the spell's range or if it has total cover from you.
 
-**At Higher Levels.** When you cast this spell using a Spell Slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
+**Using a Higher-Level Spell Slot.** You can target one additional creature for each Spell Slot Level above 1. The creatures must be within 30 feet of each other when you target them.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -6804,13 +6033,13 @@ A beam of crackling, blue energy lances out toward a creature within range, form
 **Range:**        :: Self
 **Components:**   :: V, S
 **Duration:**     :: 1 hour
-You assume a different form. When you cast the spell, choose one of the following options, the effects of which last for the duration of the spell. While the spell lasts, you can end one option as an action to gain the benefits of a different one.
+You assume a different form. When you cast the spell, choose one of the following options, the effects of which last for the duration of the spell. While the spell lasts, you can end one option as an Action to gain the benefits of a different one.
 
-**Aquatic Adaptation.** You adapt your body to an aquatic environment, sprouting gills and growing webbing between your fingers. You can breathe underwater and gain a Swimming Speed equal to your Speed.
+**Aquatic Adaptation.** You adapt your body to an aquatic environment, sprouting gills and growing webbing between your fingers. You can breathe underwater and gain a Swim Speed equal to your Speed.
 
-**Change Appearance.** You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. You also can't appear as a creature of a different size than you, and your basic shape stays the same; if you're bipedal, you can't use this spell to become quadrupedal, for instance. At any time for the duration of the spell, you can use your action to change your appearance in this way again.
+**Change Appearance.** You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. You also can't appear as a creature of a different size than you, and your basic shape stays the same; if you're bipedal, you can't use this spell to become quadrupedal, for instance. At any time for the duration of the spell, you can use your Action to change your appearance in this way again.
 
-**Natural Weapons.** You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your Unarmed Strikes deal 1d6 Bludgeoning, Piercing, or Slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your Unarmed Strikes. You can choose to use your Spellcasting Ability for the attack and damage rolls with your natural weapon instead of using Strength. Finally, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it.
+**Natural Weapons.** You grow claws, fangs, spines, horns, or a different Natural weapon of your choice. Your Unarmed Strikes deal 1d6 Bludgeoning, Piercing, or Slashing damage, as appropriate to the Natural weapon you chose, and you are proficient with your Unarmed Strikes. You can choose to use your Spellcasting Ability for the Attack and Damage Rolls with your Natural weapon instead of using Strength. Finally, the Natural weapon is magic and you have a +1 bonus to the Attack and Damage Rolls you make using it.
 
 \column
 
@@ -6836,7 +6065,7 @@ On your subsequent turns, you must use your Action to maintain control over the 
 **Range:**        :: 120 feet
 **Components:**   :: V, S
 **Duration:**     :: Instantaneous
-You sense the presence of any trap within range that is within line of sight. A trap, for the purpose of this spell, includes anything that would inflict a sudden or unexpected effect you consider harmful or undesirable, which was specifically intended as such by its creator. Thus, the spell would sense an area affected by the alarm spell, a glyph of warding, or a mechanical pit trap, but it would not reveal a natural weakness in the floor, an unstable ceiling, or a hidden sinkhole. You learn the location of each trap, and the general nature of the danger posed by a trap you sense.
+You sense the presence of any trap within range that is within line of sight. A trap, for the purpose of this spell, includes anything that would inflict a sudden or unexpected effect you consider harmful or undesirable, which was specifically intended as such by its creator. Thus, the spell would sense an area affected by the *Alarm* spell, a glyph of warding, or a mechanical pit trap, but it would not reveal a natural weakness in the floor, an unstable ceiling, or a hidden sinkhole. You learn the location of each trap, and the general nature of the danger posed by a trap you sense.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -6858,7 +6087,7 @@ You can use your Action to make a Melee Spell Attack with the fiery blade. On a 
 
 The flaming blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
-**At Higher Levels.** When you cast this spell using a Spell Slot of 4th level or higher, the damage increases by 1d10 for every two slot levels above 2nd.
+**Using a Higher-Level Spell Slot.** The damage increases by 1d10 for every two Spell Slot Levels above 2.
 
 :
 
@@ -6871,7 +6100,7 @@ The flaming blade sheds bright light in a 10-foot radius and dim light for an ad
 **Duration:**     :: Concentration, up to 1 minute
 Choose a metal object that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object at the start of their turn takes 2d8 Fire damage.
 
-**At Higher Levels.** When you cast this spell using a Spell Slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
+**Using a Higher-Level Spell Slot.** The damage increases by 1d8 for each Spell Slot Level above 2.
 
 :
 
@@ -6884,7 +6113,7 @@ Choose a metal object that you can see within range. You cause the object to glo
 **Duration:**     :: Instantaneous
 A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a Ranged Spell Attack against the target. On a hit, the target takes 4d4 Acid damage immediately and 4d4 Acid damage at the end of its next turn. On a miss, the arrow splashes the target, dealing all the initial damage but no damage at the end of its next turn.
 
-**At Higher Levels.** When you cast this spell using a Spell Slot of 3rd level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd.
+**Using a Higher-Level Spell Slot.** The damage (both initial and later) increases by 1d4 for each Spell Slot Level above 2nd.
 
 :
 
@@ -6897,7 +6126,7 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 **Duration:**     :: Concentration, up to 1 hour
 A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose (including you) has a +5 bonus to Dexterity (Stealth) checks and can't be tracked except by magical means while they stay within 30 feet of you. While a creature has this bonus they leaves behind no tracks or other traces of its passage.
 
-**At Higher Levels.** When you cast this spell using a Spell Slot of 3rd level or higher, the Dexterity (Stealth) bonus increases by +1 for each slot level above 2nd.
+**Using a Higher-Level Spell Slot.** The Dexterity (Stealth) bonus increases by +1 for each Spell Slot Level above 2nd.
 
 :
 
@@ -6908,9 +6137,9 @@ A veil of shadows and silence radiates from you, masking you and your companions
 **Range:**        :: 30 feet
 **Components:**   :: V
 **Duration:**     :: Instantaneous
-You utter an extended prayer of restoration. Choose a number of willing creatures equal to your Spellcasting Ability Modifier (minimum of 1). Each of those creatures who remains within range for the Spell’s entire casting gains the benefits of a Short Rest and also regains 2d8 Hit Points, and a creature can’t be affected by this Spell again until that creature finishes a Long Rest.
+You utter an extended prayer of restoration. Choose a number of willing creatures equal to your Spellcasting Ability modifier (minimum of 1). Each of those creatures who remains within range for the spell’s entire casting gains the benefits of a Short Rest and also regains 2d8 Hit Points, and a creature can’t be affected by this spell again until that creature finishes a Long Rest.
 
-**At Higher Levels.** When you cast this Spell using a Spell Slot of 3rd level or higher, the healing increases by 1d8 for each slot above 2nd.
+**Using a Higher-Level Spell Slot.** The healing increases by 1d8 for each Spell Slot Level above 2.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -6926,7 +6155,7 @@ You utter an extended prayer of restoration. Choose a number of willing creature
 **Range:**        :: 60 feet
 **Components:**   :: V, S
 **Duration:**     :: Concentration, up to 1 minute
-A black beam of enervating energy springs from your finger toward a creature within range. Make a Ranged Spell Attack against the target. On a hit, the target has disadvantage on Strength checks, Strength Saving Throws, and attacks for the duration of the spell.
+A black beam of enervating energy springs from your finger toward a creature within range. Make a Ranged Spell Attack against the target. On a hit, the target has Disadvantage on Strength checks, Strength Saving Throws, and attacks for the duration of the spell.
 
 :
 
@@ -6937,11 +6166,11 @@ A black beam of enervating energy springs from your finger toward a creature wit
 **Range:**        :: 150 feet
 **Components:**   :: V, S, M (seven sharp thorns or seven small twigs, each sharpened to a point)
 **Duration:**     :: Concentration, up to 10 minutes
-The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes Difficult Terrain for the duration. When a creature uses its movement, Action, or Reaction to move into or through the area and is effected by the Difficult Terrain, it takes 2d4 Piercing damage for every 5 feet it travels.
+The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes Difficult Terrain for the duration. When a creature uses its Move, Action, or Reaction to move into or through the area and is effected by the Difficult Terrain, it takes 2d4 Piercing damage for every 5 feet it travels.
 
-The transformation of the ground is camouflaged to look natural. Any creature that can't see the area at the time the spell is cast must make a Wisdom (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it.
+The transformation of the ground is camouflaged to look natural. Any creature that can't see the area at the time the spell is cast must make a Wisdom (Perception) check against your Spell Save DC to recognize the terrain as hazardous before entering it.
 
-**At Higher Levels.** When you cast this spell using a Spell Slot of 3rd level or higher, the damage increases by 1d4 for each slot level above 2nd.
+**Using a Higher-Level Spell Slot.** The damage increases by 1d4 for each Spell Slot Level above 2.
 
 \column
 
@@ -6969,7 +6198,7 @@ The webs are flammable. If the webs are exposed to fire they burn away in 1 roun
 **Duration:**     :: Concentration, up to 1 minute
 You project a phantasmal image of a creature's worst fears. Each creature in a 30-foot cone must succeed on a Wisdom Saving Throw or drop whatever it is holding and become frightened for the duration.
 
-While frightened by this spell, a creature must take the Dash Action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn't have line of sight to you, the creature can repeat the Saving Throw. On a successful save, the spell ends for that creature. An affected creature can also repeat this Saving Throw at the end of each of its turns.
+While frightened by this spell, a creature must take the Dash action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn't have line of sight to you, the creature can repeat the Saving Throw. On a successful save, the spell ends for that creature. An affected creature can also repeat this Saving Throw at the end of each of its turns.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -6985,7 +6214,7 @@ While frightened by this spell, a creature must take the Dash Action and move aw
 **Range:**        :: 120 feet
 **Components:**   :: S, M (a glowing stick of incense or a crystal vial filled with phosphorescent material)
 **Duration:**     :: Concentration, up to 1 minute
-You create a twisting pattern of colors that weaves through the air inside a 30-foot cube within range. The pattern appears for a moment and vanishes. Each creature in the area who sees the pattern must make a Wisdom Saving Throw. On a failed save, the creature becomes Charmed for the duration. While Charmed by this spell, the creature is incapacitated and has a speed of 0.
+You create a twisting pattern of colors that weaves through the air inside a 30-foot cube within range. The pattern appears for a moment and vanishes. Each creature in the area who sees the pattern must make a Wisdom Saving Throw. On a failed save, the creature becomes Charmed for the duration. While Charmed by this spell, the creature is Incapacitated and has a Speed of 0.
 
 An affected creature can repeat this Saving Throw at the end of each of its turns, ending the effect on a success. The spell also ends for an affected creature if it takes any damage or if someone else uses an Action to shake it out of its stupor.
 
@@ -7009,7 +6238,7 @@ Until the spell ends, you can command the interior to become dimly lit or dark. 
 ### Lightning Arrow
 
 *Level 3 Transmutation*
-**Casting Time:** :: Bonus Action, which you take immediately after hitting a target with an attack with a Ranged Weapon
+**Casting Time:** :: Bonus Action, which you take immediately after hitting a target with an attack with a Ranged weapon
 **Range:**        :: Self
 **Components:**   :: V, S, M (a small crystal bead)
 **Duration:**     :: 8 hours
@@ -7017,7 +6246,7 @@ As you hit the target, the weapon's ammunition, or the weapon itself if it's a t
 
 The piece of ammunition or weapon then returns to its normal form.
 
-**At Higher Levels.** When you cast this spell using a Spell Slot of 4th level or higher, the damage for both effects of the spell increases by 1d8 for each slot level above 3rd.
+**Using a Higher-Level Spell Slot.** The damage for both effects of the spell increases by 1d8 for each Spell Slot Level above 3rd.
 
 :
 
@@ -7032,7 +6261,7 @@ You call forth spirits to protect you. They flit around you to a distance of 15 
 
 When you cast this spell, you can designate any number of creatures you can see to be unaffected by it. When an affected creature moves through the area, every 5 feet traveled through the area costs an additional 5 feet of movement, and when the creature enters the area for the first time on a turn or starts its turn there, it must make a Wisdom Saving Throw. On a failed save, the creature takes 2d8 Radiant damage. On a successful save, the creature takes half as much damage.
 
-**At Higher Levels.** When you cast this spell using a Spell Slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
+**Using a Higher-Level Spell Slot.** The damage increases by 1d8 for each Spell Slot Level above 3.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -7050,7 +6279,7 @@ When you cast this spell, you can designate any number of creatures you can see 
 **Duration:**     :: Concentration, up to 1 minute
 You create a 20-foot-radius sphere of yellow, nauseating gas centered on a point within range. The cloud spreads around corners, and its area is Heavily Obscured. The cloud lingers in the air for the duration.
 
-Each creature that is completely within the cloud at the start of its turn must make a Constitution Saving Throw. On a failed save, the creature is Poisoned, and must spend its action while Poisoned turn retching and reeling. The Poisoned Condition persists even after the creature leaves the cloud. Creatures that don't need to breathe or are immune to the Poisoned Condition automatically succeed on this Saving Throw. A Poisoned creature can repeat this Saving Throw at the end of each of its turns, ending the effect on a success.
+Each creature that is completely within the cloud at the start of its turn must make a Constitution Saving Throw. On a failed save, the creature is Poisoned, and must spend its Action while Poisoned turn retching and reeling. The Poisoned Condition persists even after the creature leaves the cloud. Creatures that don't need to breathe or are immune to the Poisoned Condition automatically succeed on this Saving Throw. A Poisoned creature can repeat this Saving Throw at the end of each of its turns, ending the effect on a success.
 
 A moderate wind disperses the cloud after 4 rounds. A strong wind disperses it after 1 round.
 
@@ -7089,11 +6318,11 @@ Until the spell ends, you can direct the vine to lash out at the same creature o
 **Range:**        :: Touch
 **Components:**   :: V, S, M (an exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth at least 5,000 gp, and a Tiny replica made from the same materials worth at least 50 gp)
 **Duration:**     :: Concentration, up to 1 minute
-You hide a chest, and all its contents, on the Ethereal Plane. You must touch the chest and the miniature replica that serves as a material component for the spell. The chest can contain up to 12 cubic feet of nonliving material (3 feet by 2 feet by 2 feet).
+You hide a chest, and all its contents, on the Ethereal Plane. You must touch the chest and the miniature replica that serves as a Material component for the spell. The chest can contain up to 12 cubic feet of nonliving material (3 feet by 2 feet by 2 feet).
 
-While the chest remains on the Ethereal Plane, you can use an action and touch the replica to recall the chest. It appears in an unoccupied space on the ground within 5 feet of you. You can send the chest back to the Ethereal Plane by using an action and touching both the chest and the replica.
+While the chest remains on the Ethereal Plane, you can use an Action and touch the replica to recall the chest. It appears in an unoccupied space on the ground within 5 feet of you. You can send the chest back to the Ethereal Plane by using an Action and touching both the chest and the replica.
 
-This effect ends if you cast this spell again, if the smaller replica chest is destroyed, or if you choose to end the spell as an action. If the spell ends and the larger chest is on the Ethereal Plane, it is irretrievably lost.
+This effect ends if you cast this spell again, if the smaller replica chest is destroyed, or if you choose to end the spell as an Action. If the spell ends and the larger chest is on the Ethereal Plane, it is irretrievably lost.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -7111,7 +6340,7 @@ This effect ends if you cast this spell again, if the smaller replica chest is d
 **Duration:**     :: Concentration, up to 1 minute
 You tap into the nightmares of a creature you can see within range and create an illusory manifestation of its deepest fears, visible only to that creature. The target must make a Wisdom Saving Throw. On a failed save, the target takes 6d10 Psychic damage and becomes frightened for the duration. On a successful save, the target takes half as much damage and the spell ends. At the end of each of the target's turns before the spell ends, the target must succeed on a Wisdom Saving Throw or take 6d10 Psychic damage. On a successful save, the spell ends.
 
-**At Higher Levels.** When you cast this spell using a Spell Slot of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.
+**Using a Higher-Level Spell Slot.** The damage increases by 1d10 for each Spell Slot Level above 4.
 
 :
 
@@ -7122,9 +6351,9 @@ You tap into the nightmares of a creature you can see within range and create an
 **Range:**        :: 60 feet
 **Components:**   :: V, S, M (a caterpillar cocoon)
 **Duration:**     :: Concentration, up to 1 hour
-When you learn this spell, choose 3 beasts whose challenge rating is equal to or less than your level to use with this spell. When you complete a Long Rest, you can replace one of these beasts with a different one.
+When you learn this spell, choose 3 beasts whose challenge rating is equal to or less than your Level to use with this spell. When you complete a Long Rest, you can replace one of these beasts with a different one.
 
-This spell transforms a creature that you can see within range into one of the beasts selected with this spell (See the rules on Transformations in Appendix D). An unwilling creature must make a Wisdom Saving Throw to avoid the effect. The spell has no effect on a Shapechangers or a creature with 0 Hit Points. An unwilling target has all their game statistics, including mental Ability Scores, languages, and ability to communicate, replaced by the statistics of the chosen beast. It retains its alignment and personality,. If the target was willing, they can gain Temporary Hit Points equal to your level.
+This spell transforms a creature that you can see within range into one of the beasts selected with this spell (See the rules on Transformations in Appendix D). An unwilling creature must make a Wisdom Saving Throw to avoid the effect. The spell has no effect on a Shapechangers or a creature with 0 Hit Points. An unwilling target has all their game statistics, including mental Ability Scores, languages, and ability to communicate, replaced by the statistics of the chosen beast. It retains its alignment and personality,. If the target was willing, they can gain Temporary Hit Points equal to your Level.
 
 The transformation lasts for the duration. The target can choose to end the spell early when they take damage, and they can also choose to repeat the Wisdom Saving Throw at the end of each of its turns, ending the effect on a success.
 
@@ -7150,9 +6379,9 @@ This spell turns the flesh of a willing creature you touch as hard as stone. Unt
 **Duration:**     :: Concentration, up to 1 hour
 Objects come to life at your command. Target an appropriate object or set of objects within range to turn them into either the Large Animated Object or the Swarm of Animated Objects stat block.
 
-The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
+The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its Move to avoid danger.
 
-**At Higher Levels.** When you cast this spell using a Spell Slot of 6th level or higher, use the higher level wherever the spell's level appears in the stat block.
+**Using a Higher-Level Spell Slot.** Use the higher level wherever the spell's level appears in the stat block.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -7161,7 +6390,7 @@ The creature is an ally to you and your companions. In combat, the creature shar
 
 \page
 
-{{#creature,monster,frame
+{{monster,frame
 
 ## Large Animated Object - TODO
 
@@ -7169,8 +6398,8 @@ The creature is an ally to you and your companions. In combat, the creature shar
 
 {{stats
 
-**AC**         :: 13 + the level of the spell (Natural Armor)
-**HP**         :: 40 + 15 for each spell level above 5th
+**AC**         :: 13 + Spell Level (Natural Armour)
+**HP**         :: 40 + 15 for each Spell Level above 5
 **Speed**      :: 30 ft.
 
 {{tables
@@ -7201,13 +6430,13 @@ The creature is an ally to you and your companions. In combat, the creature shar
 
 ### Actions
 
-***Multiattack.*** The construct makes a number of attacks equal to half this spell's level (rounded down).
+***Multiattack.*** The construct makes a number of attacks equal to half the Spell Level (rounded down).
 :
-***Slam.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target. *Hit:* 1d8 + 4 + the spell's level Bludgeoning damage.
+***Slam.*** *Melee Weapon Attack:* your Spell Attack modifier to hit, reach 5 ft., one target. *Hit:* 1d8 + 4 + Spell Level Bludgeoning damage.
 
 }}
 
-{{#creature,monster,frame
+{{monster,frame
 
 ## Swarm of Animated Objects - TODO
 
@@ -7215,9 +6444,9 @@ The creature is an ally to you and your companions. In combat, the creature shar
 
 {{stats
 
-**AC**         :: 13 + the level of the spell (Natural Armor)
-**HP**         :: 40 + 15 for each spell level above 5th
-**Speed**      :: 0 ft., fly 30 ft.
+**AC**         :: 13 + Spell Level (Natural Armour)
+**HP**         :: 40 + 15 for each Spell Level above 5
+**Speed**      :: 0 ft., Fly 30 ft.
 
 {{tables
 
@@ -7247,13 +6476,13 @@ The creature is an ally to you and your companions. In combat, the creature shar
 
 ### Traits
 
-***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny book. The swarm can't regain Hit Points or gain temporary Hit Points.
+***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny book. The swarm can't regain Hit Points or gain Temporary Hit Points.
 
 ### Actions
 
-***Multiattack.*** The swarm makes a number of attacks equal to half this spell's level (rounded down).
+***Multiattack.*** The swarm makes a number of attacks equal to half Spell Level (rounded down).
 :
-***Slash.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 2d4 + 4 + the spell's level Slashing damage, or 1d4 + 4 + the spell's level Slashing damage if the swarm has half of its Hit Points or fewer.
+***Slash.*** *Melee Weapon Attack:* your Spell Attack modifier to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 2d4 + 4 + Spell Level Slashing damage, or 1d4 + 4 + Spell Level Slashing damage if the swarm has half of its Hit Points or fewer.
 
 }}
 
@@ -7270,9 +6499,9 @@ This spell shapes a creature's dreams. Choose a creature known to you as the tar
 
 If the target is asleep, the messenger appears in the target's dreams and can converse with the target as long as it remains asleep, through the duration of the spell. The messenger can also shape the environment of the dream, creating landscapes, objects, and other images. The messenger can emerge from the trance at any time, ending the effect of the spell early. The target recalls the dream perfectly upon waking. If the target is awake when you cast the spell, the messenger knows it, and can either end the trance (and the spell) or wait for the target to fall asleep, at which point the messenger appears in the target's dreams.
 
-You can make the messenger appear monstrous and terrifying to the target. If you do, the messenger can deliver a message of no more than ten words and then the target must make a Wisdom Saving Throw. On a failed save, echoes of the phantasmal monstrosity spawn a nightmare that lasts the duration of the target's sleep and prevents the target from gaining any benefit from that rest. In addition, when the target wakes up, it takes 3d6 psychic damage.
+You can make the messenger appear monstrous and terrifying to the target. If you do, the messenger can deliver a message of no more than ten words and then the target must make a Wisdom Saving Throw. On a failed save, echoes of the phantasmal monstrosity spawn a nightmare that lasts the duration of the target's sleep and prevents the target from gaining any benefit from that Rest. In addition, when the target wakes up, it takes 3d6 psychic damage.
 
-If you have a body part, lock of hair, clipping from a nail, or similar portion of the target's body, the target makes its Saving Throw with disadvantage.
+If you have a body part, lock of hair, clipping from a nail, or similar portion of the target's body, the target makes its Saving Throw with Disadvantage.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -7292,9 +6521,9 @@ You place a magical command on a creature that you can see within range, forcing
 
 You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the spell ends.
 
-You can end the spell early by using an action to dismiss it. A *Remove Curse*, *Greater Restoration*, or *Wish* spell also ends it.
+You can end the spell early by using an Action to dismiss it. A *Remove Curse*, *Greater Restoration*, or *Wish* spell also ends it.
 
-**At Higher Levels.** When you cast this spell using a Spell Slot of 7th or 8th level, the duration is 1 year. When you cast this spell using a Spell Slot of 9th level, the spell lasts until it is ended by one of the spells mentioned above.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a Level 7 or 8 Spell Slot, the duration is 1 year. When you cast this spell using a Level 9 Spell Slot, the spell lasts until it is ended by one of the spells mentioned above.
 
 :
 
@@ -7318,7 +6547,7 @@ Name or describe a person, place, or object. The spell brings to your mind a bri
 **Duration:**     :: Concentration, up to 1 minute
 You transmute your quiver so it produces an endless supply of nonmagical ammunition, which seems to leap into your hand when you reach for it.
 
-On each of your turns until the spell ends, you can use a Bonus Action (including the Bonus Action used to cast this spell) to make two attacks with a Ranged Weapon that uses ammunition from this quiver. When you make such a Ranged Attack, your quiver magically replaces the ammunition you used with a nonmagical copy of that ammunition. Pieces of ammunition created by this spell disintegrate when the spell ends. If the quiver leaves your possession, the spell ends.
+On each of your turns until the spell ends, you can use a Bonus Action (including the Bonus Action used to cast this spell) to make two attacks with a Ranged weapon that uses ammunition from this quiver. When you make such a Ranged Attack, your quiver magically replaces the ammunition you used with a nonmagical copy of that ammunition. Pieces of ammunition created by this spell disintegrate when the spell ends. If the quiver leaves your possession, the spell ends.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -7338,9 +6567,9 @@ A shimmering opaque wall of force springs into existence at a point you choose w
 
 **Orientation & Shape.** The wall appears in any orientation you choose, as a horizontal or vertical barrier or an angle. It can be free floating or rest on a solid surface. You can form it into a hemispherical dome, a sphere with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-by-10-foot panels. Each panel must be contiguous with another. In any form, the wall is 1/4 inch thick. Nothing can pass through the wall physically, and anything viewed through it is lightly obscured. The wall extends into the Ethereal Plane, blocking ethereal travel through the wall. If it cuts through a creature's space when it appears, the creatures must make a Dexterity Saving Throw. On a success, it chooses which side of the wall it moves to. On a failure, you choose the side it moves to.
 
-**Statistics.** The wall's Armor Class equal to your Spell save DC and it has 125 Hit Points. It is immune to Poison and Psychic damage. It cannot be dispelled by a *Dispel Magic* spell, but a *Disintegrate* spell destroys the wall it instantly.
+**Statistics.** The wall's Armour Class equal to your Spell Save DC and it has 125 Hit Points. It is immune to Poison and Psychic damage. It cannot be dispelled by a *Dispel Magic* spell, but a *Disintegrate* spell destroys the wall it instantly.
 
-**At Higher Levels.** When you cast this spell using a Spell Slot of 6th-level or higher, the Hit Points of the wall created by this spell increase by 25 for each Spell Slot level above 5th.
+**Using a Higher-Level Spell Slot.** The Hit Points of the wall created by this spell increase by 25 for each Spell Slot Level above 5.
 
 \column
 
@@ -7353,15 +6582,14 @@ A shimmering opaque wall of force springs into existence at a point you choose w
 **Range:**        :: Self
 **Components:**   :: V, S, M (an ornamental container worth at least 500 gp)
 **Duration:**     :: Until dispelled
-Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell's material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container's space. You can't move or use Reactions. The only actions you can take are to end the spell (returning to your living body) or attempt to possess a humanoid's body by projecting your soul.
+Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell's Material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container's space. You can't move or use Reactions. The only actions you can take are to end the spell (returning to your living body) or attempt to possess a humanoid's body by projecting your soul.
 
-You can attempt to possess any humanoid within 100 feet of you that you can see (creatures warded by a *Protection from Evil and Good* or *Magic Circle* spell can't be possessed). The target must make a Charisma Saving Throw. On a failure, your soul moves into the target's body, and the target's soul becomes trapped in the container. On a success, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours.
+As an Action you can attempt to possess any humanoid within 100 feet of you that you can see (creatures warded by a *Protection from Evil and Good* or *Magic Circle* spell can't be possessed). The target must make a Charisma Saving Throw. On a failure, your soul moves into the target's body, and the target's soul becomes trapped in the container. On a success, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours.
 
 While you possess a creature, this spell ends, returning your soul to your body and your host's soul to their body, if any of the following occur:
 
-- If the host body dies
+- If the host body dies or is successfully possessed by another creature
 - If the container is destroyed
-- If the host body is successfully possessed by another creature
 - If the body ceases to be a humanoid
 - If you use your Action to end the spell
 - If the spell ends for any reason
@@ -7407,9 +6635,9 @@ A shimmering, immobile, cube-shaped prison composed of magical force springs int
 
 &nbsp;A creature inside the cage cannot leave it by non-magical means. If the creature tries to use teleportation or interplanar travel to leave the cage, it must first make a Charisma Saving Throw. The spell or effect is wasted on a failed save, but on a success the creature uses the spell or effect to escape.
 
-**Statistics.** The cage's Armor Class equals your Spell save DC and it has 250 Hit Points. It is immune to Poison and Psychic damage. It cannot be dispelled by a *Dispel Magic* spell, but a *Disintegrate* spell destroys the wall it instantly.
+**Statistics.** The cage's Armour Class equals your Spell Save DC and it has 250 Hit Points. It is immune to Poison and Psychic damage. It cannot be dispelled by a *Dispel Magic* spell, but a *Disintegrate* spell destroys the wall it instantly.
 
-**At Higher Levels.** When you cast this spell using a Spell Slot of 8th-level or higher, the Hit Points of the cage created by this spell increase by 25 for each Spell Slot level above 7th.
+**Using a Higher-Level Spell Slot.** The Hit Points of the cage created by this spell increase by 25 for each Spell Slot Level above 7.
 
 :
 
@@ -7422,11 +6650,11 @@ A shimmering, immobile, cube-shaped prison composed of magical force springs int
 **Duration:**     :: Concentration, up to 1 minute
 You create a sword-shaped planar rift about 3 feet long in an unoccupied space you can see within range. This floating rift-sword lasts for the duration. When you cast this spell, you can make a Melee Spell Attack with the sword against a creature, loose object, or structure within 5 feet of the sword. On a hit, the target takes 4d12 Force damage. This attack scores a Critical Hit if the number on the d20 is 18 or higher. On a Critical Hit, the sword deals an extra 8d12 force damage (for a total of 12d12 force damage).
 
-As a bonus action on your turn, you can move the sword up to 30 feet to an unoccupied space you can see and then make a Melee Spell Attack with it again.
+As a Bonus Action on your turn, you can move the sword up to 30 feet to an unoccupied space you can see and then make a Melee Spell Attack with it again.
 
 The sword can harmlessly pass through any barrier, including a wall of force.
 
-**At Higher Levels.** When you cast this spell using a 9th-level Spell Slot, when you make an attack with the sword you may attack twice.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a Level 9 Spell Slot, when you make an attack with the sword you may attack twice.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -7472,13 +6700,13 @@ Eight multicolored rays of light flash from your hand. Each ray is a different c
 **Duration:**     :: Until dispelled
 You attempt to shape an illusory duplicate of one beast or humanoid in its original form that is within range for the entire casting time of the spell. If the creature being duplicated is unwilling it An unwilling creature must make a Wisdom Saving Throw to avoid being duplicated. The duplicate is a creature, partially real and formed from ice or snow, and it can take actions and otherwise be affected as a normal creature. The creature appears to be identical to the original, aside from being formed without any equipment.
 
-The simulacrum uses the same statistics as the creature it duplicates, except for the following differences; It is a construct, has half the original creature's Hit Point maximum, it cannot cast spells or change its shape, it cannot benefit from a Short Rest, Long Rest, or a Sleep, it cannot gain Exhaustion, and it cannot be healed in any way other than being repaired in an alchemical laboratory.
+The simulacrum uses the same statistics as the creature it duplicates, except for the following differences; It is a construct, has half the original creature's Hit Point maximum, it cannot cast spells or change its shape, it cannot benefit from a Short Rest, Long Rest, or a Sleep, it cannot gain *Exhaustion*, and it cannot be healed in any way other than being repaired in an alchemical laboratory.
 
 \column
 
-The simulacrum is friendly to you and creatures you designate. It obeys your spoken commands, moving and acting in accordance with your wishes and acting on your turn in combat. The simulacrum lacks the ability to learn or become more powerful, so it never increases its level or other abilities, nor can it regain expended spell slots.
+The simulacrum is friendly to you and creatures you designate. It obeys your spoken commands, moving and acting in accordance with your wishes and acting on your turn in combat. The simulacrum lacks the ability to learn or become more powerful, so it never increases its level or other abilities, nor can it regain expended Spell Slots.
 
-If the simulacrum is damaged, you can repair it in an alchemical laboratory, using rare herbs and minerals worth 100 gp per hit point it regains. The simulacrum lasts until it drops to 0 Hit Points, at which point it reverts to snow and melts instantly.
+If the simulacrum is damaged, you can repair it in an alchemical laboratory, using rare herbs and minerals worth 100 GP per Hit Point it regains. The simulacrum lasts until it drops to 0 Hit Points, at which point it reverts to snow and melts instantly.
 
 If you cast this spell again, any currently active duplicates you created with this spell are instantly destroyed.
 
@@ -7499,7 +6727,7 @@ When you change the weather conditions, find a current condition on the followin
 
 *(Condition Tables remain the same)*
 
-<!-- {{#default-table,classTable
+<!-- {{#default-table
 
 ##### Precipitation
 
@@ -7586,7 +6814,7 @@ Choose one creature or nonmagical object that you can see within range. You tran
 
 This spell has no effect on a Shapechanger or a creature with 0 Hit Points. An unwilling creature can make a Wisdom Saving Throw, and if it succeeds, it isn't affected by this spell.
 
-**Creature into Creature.** If you turn a creature into another kind of creature, the new form can be any kind you choose whose challenge rating is equal to or less than the target's (or its level, if the target doesn't have a challenge rating). The target's game statistics, including mental Ability Scores, are replaced by the statistics of the new form. It retains its alignment and personality.
+**Creature into Creature.** If you turn a creature into another kind of creature, the new form can be any kind you choose whose Challenge Rating is equal to or less than the target's (or its level, if the target doesn't have a Challenge Rating). The target's game statistics, including mental Ability Scores, are replaced by the statistics of the new form. It retains its alignment and personality.
 
 The target gains Temporary Hit Points equal to the Hit Points of the creature being transformed into. Once these Temporary Hit Points are gone the creature reverts to its original form.
 
@@ -7619,17 +6847,17 @@ If the spell becomes permanent, you no longer control the creature. It might rem
 
 You assume the form of a different creature for the duration. The new form can be of any creature with a challenge rating equal to your level or lower. The creature can't be a construct or an undead, and you must have seen the sort of creature at least once. You transform into an average example of that creature, one without any class levels or the Spellcasting trait.
 
-Your game statistics are replaced by the statistics of the chosen creature, though you retain your alignment and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and Saving Throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus listed in its statistics is higher than yours, use the creature's bonus in place of yours. You can't use any legendary actions or lair actions of the new form.
+Your game statistics are replaced by the statistics of the chosen creature, though you retain your alignment and Intelligence, Wisdom, and Charisma scores. You also retain all of your Skill and Saving Throw Proficiencies, in addition to gaining those of the creature. If the creature has the same Proficiency as you and the bonus listed in its statistics is higher than yours, use the creature's bonus in place of yours. You can't use any Legendary Actions or Lair Actions of the new form.
 
 You gain Temporary Hit Points equal to the Hit Points of the creature being transformed into. Once these Temporary Hit Points are gone the you reverts to your original form.
 
-You retain the benefit of any features from your class, race, or other source and can use them, provided that your new form is physically capable of doing so, except you cannot cast spells. You can't use any special senses you have (for example, darkvision) unless your new form also has that sense. You can only speak if the creature can normally speak. Until this spell ends, any shapechanging you do can only be through this spell.
+You retain the benefit of any features from your class, species, or other source and can use them, provided that your new form is physically capable of doing so, except you cannot cast spells. You can't use any special senses you have (for example, Darkvision) unless your new form also has that sense. You can only speak if the creature can normally speak. Until this spell ends, any shapechanging you do can only be through this spell.
 
 When you transform, you choose whether your equipment falls to the ground, merges into the new form, or is worn by it. Worn equipment functions as normal. The DM determines whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change shape or size to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge into your new form. Equipment that merges has no effect in that state.
 
 \column
 
-During this spell's duration, you can use your action to assume a different form following the same restrictions and rules for the original form, with one exception: if your new form has more hit points than your current one, your hit points remain at their current value.
+During this spell's duration, you can use your Action to assume a different form following the same restrictions and rules for the original form, with one exception: if your new form has more Hit Points than your current one, your Hit Points remain at their current value.
 
 :
 
@@ -7641,7 +6869,7 @@ During this spell's duration, you can use your action to assume a different form
 **Components:**   :: V, S, M (a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell)
 **Duration:**     :: Concentration, up to 1 hour
 
-A shimmering, multicolored plane of light forms a vertical opaque wall—up to 90 feet long, 30 feet high, and 1 inch thick—centered on a point you can see within range. Alternatively, you can shape the wall into a sphere up to 30 feet in diameter centered on a point you choose within range. The wall remains in place for the duration. If you position the wall so that it passes through a space occupied by a creature, the spell fails, and your action and the spell slot are wasted.
+A shimmering, multicolored plane of light forms a vertical opaque wall—up to 90 feet long, 30 feet high, and 1 inch thick—centered on a point you can see within range. Alternatively, you can shape the wall into a sphere up to 30 feet in diameter centered on a point you choose within range. The wall remains in place for the duration. If you position the wall so that it passes through a space occupied by a creature, the spell fails, and your Action and the Spell Slot are wasted.
 
 The wall sheds bright light out to a range of 100 feet and dim light for an additional 100 feet. You and creatures you designate at the time you cast the spell can pass through and remain near the wall without harm. If another creature that can see the wall moves to within 20 feet of it or starts its turn there, the creature must succeed on a Constitution Saving Throw or become Blinded for 1 minute.
 
@@ -7681,7 +6909,7 @@ While this layer is in place, spells can't be cast through the wall. The layer i
 **Components:**   :: V, S
 **Duration:**     :: Concentration, up to 1 minute
 
-Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, visible only to them. Each creature of your choice in a 40-foot-radius sphere centered on a point of your choice within range must make a Wisdom saving Throw. On a failed save, a creature takes 6d10 Psychic damage and becomes Frightened for the duration. On a successful save, the target takes half as much damage and the is not Frightened. The illusion calls on the creature's deepest fears, manifesting its worst nightmares as an implacable threat. At the end of each of the Frightened creature's turns, it must succeed on a Wisdom Saving Throw or take 6d10 Psychic damage. On a successful save, the spell ends for that creature.
+Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, visible only to them. Each creature of your choice in a 40-foot-radius sphere centered on a point of your choice within range must make a Wisdom Saving Throw. On a failed save, a creature takes 6d10 Psychic damage and becomes Frightened for the duration. On a successful save, the target takes half as much damage and the is not Frightened. The illusion calls on the creature's deepest fears, manifesting its worst nightmares as an implacable threat. At the end of each of the Frightened creature's turns, it must succeed on a Wisdom Saving Throw or take 6d10 Psychic damage. On a successful save, the spell ends for that creature.
 
 :
 
@@ -7695,17 +6923,17 @@ Drawing on the deepest fears of a group of creatures, you create illusory creatu
 
 Wish is the mightiest spell a mortal creature can cast. By simply speaking aloud, you can alter the very foundations of reality in accord with your desires.
 
-The basic use of this spell is to duplicate any other spell of 8th level or lower that has a casting time of one Action. You don't need to meet any requirements in that spell, including costly components. The spell simply takes effect. Alternatively, you can create one of the following effects of your choice:
+The basic use of this spell is to duplicate any other spell of Level 8 or lower that has a casting time of one Action. You don't need to meet any requirements in that spell, including costly components. The spell simply takes effect. Alternatively, you can create one of the following effects of your choice:
 
 - You create one object of up to 25,000 gp in value that isn't a magic item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space you can see on the ground.
-- You allow up to twenty creatures that you can see to regain all hit points, and you end all effects on them described in the *Greater Restoration* spell.
+- You allow up to twenty creatures that you can see to regain all Hit Points, and you end all effects on them described in the *Greater Restoration* spell.
 - You grant up to ten creatures that you can see resistance to a damage type you choose.
 - You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours.
 - You undo a single recent event by forcing a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result.
 
 You might be able to achieve something beyond the scope of the above examples. State your wish to the DM as precisely as possible. The DM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might only be partly achieved, or you might suffer some unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a legendary magic item or artifact might instantly transport you to the presence of the item's current owner.
 
-Using Wish in any way other than duplicating a spell causes any effects previously created by using Wish this way to end and any items or other physical evidence of the wish to disappear. Additionally, casting Wish this way weakens you. After enduring that stress, each time you cast a spell until you finish a long rest, you take 1d10 necrotic damage per level of that spell. This damage can't be reduced or prevented in any way. In addition, your Strength drops to 3, if it isn't 3 or lower already, for 2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days.
+Using Wish in any way other than duplicating a spell causes any effects previously created by using Wish this way to end and any items or other physical evidence of the wish to disappear. Additionally, casting Wish this way weakens you. After enduring that stress, each time you cast a spell until you finish a Long Rest, you take 1d10 necrotic damage per Spell Level. This damage can't be reduced or prevented in any way. In addition, your Strength drops to 3, if it isn't 3 or lower already, for 2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -7724,7 +6952,7 @@ Areas of Effect impact all of the 5-foot by 5-foot squares that the area covers 
 
 Auras and other effects that are measured as a radius from a target emanate from the centre of that target. This means that an aura that emanates from a large creature is at the midpoint of four 5-foot by 5-foot squares, and 5 feet of the radius of the aura is encompassed by the creature.
 
-Any effect that is measured in terms of distance away from the creature, such as Paladin's *Aura of Protection* or the spell *Pass Without Trace*, should instead be measured as an aura that emanates from the creature that causes the effect. The radius of these effects is 5 feet plus the distance specified by the effect. For example, a 6th level Paladin's *Aura of Protection* should be a 15-foot radius sphere centred on the Paladin.
+Any effect that is measured in terms of distance away from the creature, such as Paladin's *Aura of Protection* or the spell *Pass Without Trace*, should instead be measured as an aura that emanates from the creature that causes the effect. The radius of these effects is 5 feet plus the distance specified by the effect. For example, a level 6 Paladin's *Aura of Protection* should be a 15-foot radius sphere centred on the Paladin.
 
 ## Armour Class
 
@@ -7758,7 +6986,7 @@ While Dying, you experience the following effects:
 
 **0 Hit Points.** You have 0 Hit Points. If you regain any Hit Points while Dying, this Condition ends on you.
 
-**Exhaustion.** When you gain the Dying Condition, you also gain 1 level of Exhaustion.
+**Exhaustion.** When you gain the Dying Condition, you also gain 1 point of Exhaustion.
 
 **Struggle.** While you are Dying you are also under the effects of the Struggling Condition. When the Dying Condition ends, the Struggling Condition also ends.
 
@@ -7766,11 +6994,11 @@ While Dying, you experience the following effects:
 
 **Critical Hits.** Any attack that hits you is a Critical Hit if the attack is a Melee Attack, or if the attacker is within 5 feet of you.
 
-**Weakened.** You have Disadvantage on all d20 Tests.
+**Weakened.** You have Disadvantage on all D20 Tests.
 
 **Death Saving Throws.** At the start of each of your turns, you must make a Death Saving Throw. Roll a d20. If the roll is 10 or higher, you succeed. Otherwise you fail. (Nothing can modify this roll.) Keep rolling death saves until you have 3 successes or 3 failures, or until the Dying Condition ends. When you make a death save and roll a 1, it counts as 2 failures. If you roll a 20, you regain 1 Hit Point and lose the Dying Condition. If you ever get 3 failures you die, and if you ever get 3 successes you become stable (see Stabilising).
 
-**Stabilising.** If you roll 3 successful Death Saving Throws, or another creature uses their Action to provide first aid and succeeds on a DC 10 Wisdom (Medicine) check, you become stable. You regain 1 Hit Point and lose the Dying Condition, but you gain the Unconscious Condition and begin a Short Rest. You can only recover from this Unconscious Condition when you regain additional Hit Points, either from the Short Rest or through other means.
+**Stabilising.** If you roll 3 successful Death Saving Throws, or another creature uses their Action to provide first aid and succeeds on a Wisdom (Medicine) check (DC 10), you become stable. You regain 1 Hit Point and lose the Dying Condition, but you gain the Unconscious Condition and begin a Short Rest. You can only recover from this Unconscious Condition when you regain additional Hit Points, either from the Short Rest or through other means.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -7783,13 +7011,13 @@ While Dying, you experience the following effects:
 
 While Exhausted, you experience the following effects:
 
-**Levels of Exhaustion.** This Condition is cumulative. Each time you receive it, you gain 1 level of Exhaustion. You die if your Exhaustion exceeds 10.
+**Points of Exhaustion.** This Condition is cumulative. Each time you receive it, you gain 1 point of Exhaustion. You die if your Exhaustion exceeds 10.
 
-**d20 Rolls Affected.** When you make a d20 Test, you subtract your Exhaustion level from the d20 roll.
+**d20 Rolls Affected.** When you make a D20 Test, you subtract your Exhaustion points from the d20 roll.
 
-**Spell Save DCs Affected.** Subtract your Exhaustion level from the Spell Save DC of any Spell you cast.
+**Spell Save DCs Affected.** Subtract your Exhaustion points from the Spell Save DC of any spell you cast.
 
-**Ending the Condition.** Finishing a Sleep removes 1 of your levels of Exhaustion. When your Exhaustion level reaches 0, you are no longer Exhausted.
+**Ending the Condition.** Finishing a Sleep removes 1 of your points of Exhaustion. When your Exhaustion points reaches 0, you are no longer Exhausted.
 
 :
 
@@ -7839,7 +7067,7 @@ While Prone, you experience the following effects:
 
 While Struggling, you experience the following effect:
 
-**Exerted Activity.** You can move, take an Action, or take a Bonus Action on your turn, but only one. When you perform one of these, you gain a number of levels of Exhaustion before the effect takes place. Before an Action you gain 3 levels of Exhaustion, before a Bonus Action you gain 2 levels of Exhaustion, and before you move or use a Reaction you gain 1 level of Exhaustion.
+**Exerted Activity.** You can Move, take an Action, or take a Bonus Action on your turn, but only one. When you perform one of these, you gain a number of points of Exhaustion before the effect takes place. Before an Action you gain 3 points of Exhaustion, before a Bonus Action you gain 2 points of Exhaustion, and before you Move or use a Reaction you gain 1 point of Exhaustion.
 
 **Fail Str.** and Dex Saves. You automatically fail Strength and Dexterity Saving Throws.
 
@@ -7871,6 +7099,9 @@ While Stunned, you experience the following effect:
 Below is a table of all existing creature types in D&D, alongside the equivalent terms in Sumiriku. Features in this document that reference creature types have both terms listed. The most relevant types here are the types that are the most distinct from their D&D counterparts, such as Kami, Yōkai, and Oni.
 
 {{#default-table
+
+##### Creature Types
+
 | Creature Type | Sumiriku Equivalent           |
 |:--------------|:------------------------------|
 | Aberration    | Ijō (異状) or Uchujin (宇宙人) |
@@ -7893,15 +7124,15 @@ Below is a table of all existing creature types in D&D, alongside the equivalent
 
 ## Eyes
 
-### Invisibility ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:565px,left:55px,width:375px,mix-blend-mode:normal}
+### Invisibility ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:575px,left:55px,width:375px,mix-blend-mode:normal}
 
 If a creature can somehow see a creature with Invisibility, as with Blindsight or Tremorsense, they don't gain the benefits of Invisibility against that creature.
 
 ## Feet
 
-If you have more than one Speed, such as your Walk Speed and a Fly Speed, you can switch back and forth between your Speeds during your move. Whenever you switch, subtract the distance you've already moved from the new Speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new Speed during the current move.
+If you have more than one Speed, such as your Walk Speed and a Fly Speed, you can switch back and forth between your Speeds during your Move. Whenever you switch, subtract the distance you've already moved from the new Speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new Speed during the current Move.
 
-For example, if you have a Speed of 30 and a Fly Speed of 60 because a Wizard cast the *Fly* Spell on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
+For example, if you have a Speed of 30 and a Fly Speed of 60 because a Wizard cast the *Fly* spell on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
 
 \column
 
@@ -7909,11 +7140,11 @@ For example, if you have a Speed of 30 and a Fly Speed of 60 because a Wizard ca
 
 Most long jumps, particularly those that happen in combat or while exploring a dungeon, are measured in increments of 5 feet. A 10 foot long jump is considered a jump that is able to clear a 5 foot gap, for example. Long jumping distance is rolled up to the nearest multiple of 5; a 6 foot long jump is considered equivalent to a 10 foot long jump.
 
-You can Long Jump once as part of your movement on your turn, as long as you have a Walk Speed. When you do, you can Long Jump a distance up to 5 feet plus your Athletics modifier, rounded up to the nearest multiple of 5, minimum of 5 feet. If you do not move at least 10 feet on foot before jumping the distance of the Long Jump is reduced by 10 feet, again to a minimum of 5 feet. This distance is counted as part of your walking movement, and the jump distance must be equal to or less than your remaining Walk Speed. You must land before the end of your turn, and you cannot make any Actions, Bonus Actions, or Reactions while jumping.
+You can Long Jump once as part of your Move on your turn, as long as you have a Walk Speed. When you do, you can Long Jump a distance up to 5 feet plus your Athletics modifier, rounded up to the nearest multiple of 5, minimum of 5 feet. If you do not move at least 10 feet on foot before jumping the distance of the Long Jump is reduced by 10 feet, again to a minimum of 5 feet. This distance is counted as part of your walking movement, and the jump distance must be equal to or less than your remaining Walk Speed. You must land before the end of your turn, and you cannot take actions while jumping.
 
-You can also Long Jump as an Action. If you have moved at least 10 feet on foot, you can attempt a Long Jump using your Action by making an Athletics check. The distance of your jump is equal to the result of the Athletics check, rounded up to the nearest 5. The minimum distance for the jump is the distance you could jump as part of your movement. The distance you travel when you Long Jump with your Action is not considered part of your movement. You cannot make Bonus Actions, or Reactions while jumping.
+You can also Long Jump as an Action. If you have moved at least 10 feet on foot, you can attempt a Long Jump using your Action by making an Strength (Athletics) check. The distance of your jump is equal to the result of the Strength (Athletics) check, rounded up to the nearest 5. The minimum distance for the jump is the distance you could jump as part of your Move. The distance you travel when you Long Jump with your Action is not considered part of your Move. You cannot take actions while jumping.
 
-You can additionally attempt to High Jump, as part of your movement on your turn. When you High Jump, you leap into the air a number of feet equal to your half your Athletics modifier. If you do not move at least 10 feet on foot before jumping, the distance you can High Jump is halved. The minimum height you can High Jump is 1 foot. A High Jump uses movement equal to the number of feet cleared, rounded up to the nearest 5. When appropriate, you can make a Strength (Athletics) check to grab onto or climb an adjacent platform or surface, but you cannot make any Actions, Bonus Actions, or Reactions while jumping. You can High Jump as an Action, clearing the same height as you would normally but not having any distance covered being considered part of your movement.
+You can additionally attempt to High Jump as part of your Move on your turn. When you High Jump, you leap into the air a number of feet equal to your half your Athletics modifier. If you do not move at least 10 feet on foot before jumping, the distance you can High Jump is halved. The minimum height you can High Jump is 1 foot. A High Jump uses movement equal to the number of feet cleared, rounded up to the nearest 5. When appropriate, you can make a Strength (Athletics) check to grab onto or climb an adjacent platform or surface, but you cannot take actions while jumping. You can High Jump as an Action, clearing the same height as you would normally but not having any distance covered being considered part of your movement.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -7922,15 +7153,15 @@ You can additionally attempt to High Jump, as part of your movement on your turn
 
 \page
 
-&nbsp;When you land in Difficult Terrain, you must succeed on a DC 15 Strength (Athletics) or Dexterity (Acrobatics) check to land on your feet. Otherwise, you get the Prone Condition as you land.
+&nbsp;When you land in Difficult Terrain, you must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check (DC 15) to land on your feet. Otherwise, you get the Prone Condition as you land.
 
 :
 
 ### Difficult Terrain ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:168px,left:55px,width:375px,mix-blend-mode:normal}
 
-Any Spell, terrain, or other effect that creates an area on the ground that reduces movement is considered Difficult Terrain. By default Difficult Terrain makes it so that every 5 feet travelled through it uses 10 feet of movement, but some effects may specify a different amount of movement that is required to travel 5 feet. If the Difficult Terrain has some additional effect, such as damage, this only applies while the creature is affected by the Difficult Terrain. Different sources of Difficult Terrain do not stack.
+Any spell, terrain, or other effect that creates an area on the ground that reduces movement is considered Difficult Terrain. By default Difficult Terrain makes it so that every 5 feet travelled through it uses 10 feet of movement, but some effects may specify a different amount of movement that is required to travel 5 feet. If the Difficult Terrain has some additional effect, such as damage, this only applies while the creature is affected by the Difficult Terrain. Different sources of Difficult Terrain do not stack.
 
-Areas that reduce movement but are not specifically on the ground are not considered Difficult Terrain. This means that these effects can stack with Difficult Terrain and do not interact with features that refer to Difficult Terrain, such as Ranger's *Land Stride*. For example, travelling 5 feet through another creature's space costs 10 feet of movement, but this is not considered Difficult Terrain. The *Web* spell is only considered Difficult Terrain when laid on a floor.
+Areas that reduce movement but are not specifically on the ground are not considered Difficult Terrain. This means that these effects can stack with Difficult Terrain and do not interact with features that refer to Difficult Terrain, such as Ranger's *Land Stride* feature. For example, travelling 5 feet through another creature's space costs 10 feet of movement, but this is not considered Difficult Terrain. The *Web* spell is only considered Difficult Terrain when laid on a floor.
 
 ## Flanking
 
@@ -7940,7 +7171,7 @@ When a creature and at least one of its allies are adjacent to an enemy and on o
 
 ## Hands
 
-Unless specified otherwise you have two hands with which to hold and wield items, a main hand and an off-hand. On your turn you can attack with a weapon that is in your main or off-hand. Once per turn as a Free Action you can change out what you are holding in one hand; you can draw an item, stow an item, or replace an item with another one. All weapons count as being held in one hand, but weapons with the two-handed property require a free off-hand to attack with them and versatile weapons can benefit from having a free off hand.
+Unless specified otherwise you have two hands with which to hold and wield items, a main hand and an off-hand. On your turn you can attack with a weapon that is in your main or off-hand. Once per turn as a free object interaction you can change out what you are holding in one hand; you can draw an item, stow an item, or replace an item with another one. All weapons count as being held in one hand, but weapons with the two-handed property require a free off-hand to attack with them and versatile weapons can benefit from having a free off hand.
 
 Features that require having a free hand, such as making Unarmed Strikes, can be flavoured in different ways by the player but they must have a free hand to be able to use these features.
 
@@ -7950,7 +7181,7 @@ Features that require having a free hand, such as making Unarmed Strikes, can be
 
 Grappling or Shoving a target requires a free hand. You cannot use that hand for as long as the target is grappled. A grappled creature counts as being in melee range, or within 5 feet, of the grappler for the purposes of targeting.
 
-Grappling or Shoving can be done in place of an Unarmed Strike when taking the Attack Action. The target must succeed on a Strength or Dexterity Saving Throw (it choses) or it takes the effect of the Grapple or Shove, having the Grappled Condition, being pushed 5 feet away, or having the Prone Condition. The DC for this Saving Throw equals 8 + your Athletics modifier. These effects are only possible if the target is no more than one size larger than you.
+Grappling or Shoving can be done in place of an Unarmed Strike when taking the Attack action. The target must succeed on a Strength or Dexterity Saving Throw (it choses, DC 8 plus your Athletics modifier) or it takes the effect of the Grapple or Shove, having the Grappled Condition, being pushed 5 feet away, or having the Prone Condition. These effects are only possible if the target is no more than one size larger than you.
 
 :
 
@@ -7987,13 +7218,13 @@ Sign Language is a universal method of non-verbal communication, achieved by usi
 
 ### Versatile Weapons ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:288px,left:400px,width:375px,mix-blend-mode:normal}
 
-When an attack is made with a Versatile Weapon and your off-hand is free, you can choose to make the Weapon Attack with both hands, using the Versatile damage die for the damage.
+When an attack is made with a Versatile weapon and your off-hand is free, you can choose to make the Weapon Attack with both hands, using the Versatile damage die for the damage.
 
 :
 
 ### Two-Handed Weapons ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:422px,left:400px,width:375px,mix-blend-mode:normal}
 
-Two-Handed Weapons count as being held only in one hand, which allows you to have a free off-hand for holding items or making Unarmed Strikes. However, you are required to have a free off-hand to be able to make attacks with this weapon.
+Two-Handed weapons count as being held only in one hand, which allows you to have a free off-hand for holding items or making Unarmed Strikes. However, you are required to have a free off-hand to be able to make attacks with this weapon.
 
 ## Heroic Reroll
 
@@ -8012,7 +7243,7 @@ You can never have more than one instance of Heroic Reroll. If something gives i
 
 ## Potions
 
-Potions of Healing that you have on you can be consumed either as a Bonus Action or an Action, and do not count as an object interaction so long as you have a free hand to grab one with. If a Potions of Healing is consumed as an Action, you regain Hit Points equal to the maximum Hit Points that potion could restore. Administering a Potion of Healing to another creature can only be done as an Action, and they are required to roll for the Hit Points recovered rather than getting the maximum.
+Potions of Healing that you have on you can be consumed either as a Bonus Action or as an Action, and do not count as an object interaction so long as you have a free hand to grab one with. If a Potions of Healing is consumed as an Action, you regain Hit Points equal to the maximum Hit Points that potion could restore. Administering a Potion of Healing to another creature can only be done as an Action, and they are required to roll for the Hit Points recovered rather than getting the maximum.
 
 ## Rerolling with Advantage/Disadvantage
 
@@ -8028,7 +7259,7 @@ A Short Rest is a 10 minute period of downtime, an opportunity for characters to
 
 :
 
-When you finish the Short Rest, you gain the following benefits:
+When you finish the Short Rest, you gain the following benefits.
 
 **Spend Hit Dice.** You can spend one or more of your Hit Dice to regain Hit Points. For each Hit Die you spend in this way, roll the die, and add your Constitution modifier to it. You regain Hit Points equal to the total (minimum of 1 Hit Point). You can decide to spend an additional Hit Die after each roll.
 
@@ -8040,15 +7271,15 @@ A Short Rest is stopped by rolling Initiative, casting a spell other than a cant
 
 :
 
-### Sleep ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:186px,left:400px,width:375px,mix-blend-mode:normal}
+### Sleep ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:187px,left:400px,width:375px,mix-blend-mode:normal}
 
 Almost all characters need to sleep to fend off exhaustion. To gain the benefits of a sleep you must spend 6 hours fully asleep, during which you have the Unconscious Condition. This sleep can be broken up by at most 2 hours of light activity, such as standing watch. For the duration of a Sleep you must have at least 1 Hit Point.
 
 :
 
-When you finish the Sleep, you gain the following benefits:
+When you finish the Sleep, you gain the following benefits.
 
-**Stave Off Exhaustion.** You will not gain a level of Exhaustion due to tiredness unless you have not slept again 24 hours from now.
+**Stave Off Exhaustion.** You will not gain a point of Exhaustion due to tiredness unless you have not slept again 24 hours from now.
 
 **Preparing Spells.** If you can change your list of prepared spells after you finish a Long Rest, you can also change your list of prepared spells after you finish a Sleep.
 
@@ -8070,7 +7301,7 @@ A Sleep is stopped by rolling Initiative, casting a spell other than a cantrip, 
 A Long Rest is a Sleep completed in a location of relative safety, such as a town or city. For the duration of a Long Rest you must have at least 1 Hit Point.
 
 :
-When you finish the Long Rest you gain the following benefits:
+When you finish the Long Rest you gain the following benefits.
 
 **Regain All HP.** You regain all lost Hit Points.
 
@@ -8082,7 +7313,7 @@ When you finish the Long Rest you gain the following benefits:
 
 **Special Features.** Some features are recharged by a Long Rest. If you have such a feature, it recharges in the way specified in its description.
 
-**Exhaustion Reduced.** If you have the Exhaustion Condition, your level of exhaustion decreases by 1.
+**Exhaustion Reduced.** If you have the Exhaustion Condition, your point of exhaustion decreases by 1.
 
 **Sleep.** You gain all the benefits of a Sleep.
 
@@ -8092,13 +7323,13 @@ A Long Rest is stopped if the Sleep is stopped. If a Long Rest is interrupted it
 
 ## Spell Scrolls
 
-After a spell from a Spell Scroll has been cast, the casting has failed, or it has been copied into a Wizard's spellbook, the Scroll becomes an inert, non-magical item and the text on it begins to slowly fade. For 24 hours after this, the Spell can be copied into a spellbook once, or be attempted to be cast a single time if it has not already, before all of the text disappears. There is no check involved with a Wizard copying a Spell from a Scroll into their spellbook, only the time and cost typically involved with copying a Spell from any other source.
+After a spell from a Spell Scroll has been cast, the casting has failed, or it has been copied into a Wizard's spellbook, the Scroll becomes an inert, non-magical item and the text on it begins to slowly fade. For 24 hours after this, the spell can be copied into a spellbook once, or be attempted to be cast a single time if it has not already, before all of the text disappears. There is no check involved with a Wizard copying a spell from a Scroll into their spellbook, only the time and cost typically involved with copying a spell from any other source.
 
-You can attempt to cast the spell on a Spell Scroll if you know the spell, the spell is on the Spell List of your Class or Subclass, or if you have Spell Slots of the Level of the spell, provided that you know the language that the Scroll is written in. If the spell is on your class's or subclass's spell list but of a higher level than you have Spell Slots for, or if the spell is not on your class's or subclass's spell list but is of a level of which you can cast, you must make an ability check using your Spellcasting Ability to determine whether you cast it successfully. The DC for this check is determined by the Spell Scroll.
+You can attempt to cast the spell on a Spell Scroll if you know the spell, the spell is on the Spell List of your class or subclass, or if you have Spell Slots of the level of the spell, provided that you know the language that the Scroll is written in. If the spell is on your class's or subclass's spell list but of a higher Spell Level than you have Spell Slots for, or if the spell is not on your class's or subclass's spell list but is of a Spell Level of which you can cast, you must make an Ability Check using your Spellcasting Ability to determine whether you cast it successfully. The DC for this check is determined by the Spell Scroll.
 
 ## Weapon Masteries
 
-Some classes, subclasses, and feats let characters gain access to Weapon Masteries with weapons of their choice, allowing them to use the Weapon Mastery property when they attack with that weapon. Below is the list of all the Mastery properties, some of which are new and some of which have been modified from the 2024 D&D playtest documents.
+Some classes, subclasses, and feats let characters gain access to Weapon Masteries with weapons of their choice, allowing them to use the Weapon Mastery property when they attack with that weapon. Below is the list of all the Mastery properties, some of which are new and some of which have been modified from the 2024 D&D Player's Handbook.
 
 The Weapon Mastery prerequisites show which Masteries are applicable to which weapons. If a game feature lets you replace a weapon's Mastery property with another one, that weapon must meet any prerequisite specified for the new property.
 
@@ -8112,7 +7343,7 @@ If you hit a creature with a Melee Attack using this weapon, you can deal damage
 
 *Prerequisite: Melee Weapon, Finesse or Versatile Property*
 </br>
-If you use the Attack Action and hit a creature with a Melee Attack using this weapon, you can move to the opposite side of the creature without expending movement and without provoking Opportunity Attacks. You can use this movement only once on your turn.
+If you use the Attack action and hit a creature with a Melee Attack using this weapon, you can move to the opposite side of the creature without expending movement and without provoking Opportunity Attacks. You can use this movement only once on your turn.
 
 :
 
@@ -8133,7 +7364,7 @@ If your Attack Roll with this weapon misses a creature, you can deal damage to t
 
 *Prerequisite: Light Property*
 </br>
-When you make the extra attack of the Light property, you can make it as part of the Attack Action, instead of as a Bonus Action. You can still make this extra attack only once per turn, and this extra attack still does not apply any Weapon Mastery properties.
+When you make the extra attack of the Light property, you can make it as part of the Attack action, instead of as a Bonus Action. You can still make this extra attack only once per turn, and this extra attack still does not apply any Weapon Mastery properties.
 
 :
 
@@ -8173,13 +7404,13 @@ The following Weapon Properties have been updated:
 
 ### Heavy ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:911px,left:55px,width:375px,mix-blend-mode:normal}
 
-Creatures that are Medium or Larger must have a Strength of 13 or higher or they have Disadvantage on Attack Rolls when attacking with a Heavy Weapon. Creatures that are Small need a Strength of 15 or higher to not attack at Disadvantage, and Tiny creatures can't attack with this Weapon.
+Creatures that are Medium or Larger must have a Strength of 13 or higher or they have Disadvantage on Attack Rolls when attacking with a Heavy weapon. Creatures that are Small need a Strength of 15 or higher to not attack at Disadvantage, and Tiny creatures can't attack with this weapon.
 
 \column
 
 ### Light ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
-When you take the Attack Action on your turn and attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light Weapon you hold in your other hand, you must be holding both Weapons when you make these attacks, and you don't add your Ability Modifier to the extra attack's damage, unless that modifier is negative. This Bonus Action attack cannot apply any Weapon Mastery properties.
+When you take the Attack action on your turn and attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon you hold in your other hand, you must be holding both weapons when you make these attacks, and you don't add your Ability Modifier to the extra attack's damage, unless that modifier is negative. This Bonus Action attack cannot apply any Weapon Mastery properties.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -8190,7 +7421,7 @@ When you take the Attack Action on your turn and attack with a Light weapon, you
 
 ## Wild Shape and Transformations
 
-Some features in the game allow you to change your form, shifting from your humanoid being to something else entirely. Examples of features like this include the Druid's Wild Shape, the Obake's Shapeshifter trait, and the *Polymorph* Spell.
+Some features in the game allow you to change your form, shifting from your humanoid being to something else entirely. Examples of features like this include the Druid's Wild Shape, the Obake's Shapeshifter trait, and the *Polymorph* spell.
 
 :
 
@@ -8200,9 +7431,9 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 
 **Communication.** You keep your understanding of any languages you may know and your ability to speak them if you choose.
 
-**Game Statistics.** Your game statistics are replaced by the statistics of the Beast, but you retain your Hit Points; Hit Dice; Intelligence, Wisdom, and Charisma scores; class features; species traits; languages; and feats. You also retain your skill and Saving Throw proficiencies and use your Proficiency Bonus for them, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours. If the creature has any Legendary or Lair actions, you can't use them.
+**Game Statistics.** Your game statistics are replaced by the statistics of the Beast, but you retain your Hit Points; Hit Dice; Intelligence, Wisdom, and Charisma scores; class features; species traits; languages; and feats. You also retain your skill and Saving Throw Proficiencies and use your Proficiency Bonus for them, in addition to gaining those of the creature. If the creature has the same Proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours. If the creature has any Legendary or Lair Actions, you can't use them.
 
-**No Spellcasting.** You can't cast spells, but transforming doesn't break your Concentration on a spell you've already cast or prevent you from taking Actions or Bonus Actions that are part of a spell, such as Call Lightning, that you've already cast, so long as those Actions or Bonus Actions do not require you to speak or do anything your form cannot do.
+**No Spellcasting.** You can't cast spells, but transforming doesn't break your Concentration on a spell you've already cast or prevent you from taking Actions or Bonus Actions that are part of a spell, such as with the *Call Lightning* spell, that you've already cast, so long as those Actions or Bonus Actions do not require you to speak or do anything your form cannot do.
 
 \column
 

@@ -1,3 +1,5 @@
+<!-- ----- TODO - CHECK IF DOCUMENT MATCHES LAYOUT AND CAPITALISATION RULES - TODO ----- -->
+
 {{frontCover}}
 
 ![cover](https://i.imgur.com/t6uDxEI.jpeg){position:absolute,bottom:0,left:0,height:100.5%}

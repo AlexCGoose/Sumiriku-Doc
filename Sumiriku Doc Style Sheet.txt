@@ -204,7 +204,16 @@
 /* ----- TABLE SETTINGS ----- */
 
 /* Default Table Settings */
-/* Sets colour of each other row to Sumiriku Light Orange */
+/* Sets colour of each even row to Sumiriku Extra Light Orange */
+#default-table thead {
+  background : #fde4c7;
+}
+
+#default-table tbody tr:nth-child(even) {
+	background : #fde4c7;
+}
+
+/* Sets colour of each odd row to Sumiriku Light Orange */
 #default-table tbody tr:nth-child(odd) {
 	background : #fbc98e;
 }
@@ -220,8 +229,23 @@
 	line-height : 1.3em;
 }
 
+/* Reduces spacing around table */
+#default-table {
+	margin-top     : 0.5em;
+  margin-bottom  : -0.3em;
+}
+
 /* Deity table settings*/
-/* Sets colour of each other row to Sumiriku Light Orange */
+/* Sets colour of each even row to Sumiriku Extra Light Orange */
+#god-table thead {
+  background : #fde4c7;
+}
+
+#god-table tbody tr:nth-child(even) {
+	background : #fde4c7;
+}
+
+/* Sets colour of each odd row to Sumiriku Light Orange */
 #god-table tbody tr:nth-child(odd) {
 	background : #fbc98e;
 }
@@ -246,8 +270,23 @@
   min-width : 55px;
 }
 
+/* Reduces spacing around table */
+#god-table {
+	margin-top     : 0.5em;
+  margin-bottom  : -0.5em;
+}
+
 /* Dragonborn table settings*/
-/* Sets colour of each other row to Sumiriku Light Orange */
+/* Sets colour of each even row to Sumiriku Extra Light Orange */
+#dragon-table thead {
+  background : #fde4c7;
+}
+
+#dragon-table tbody tr:nth-child(even) {
+	background : #fde4c7;
+}
+
+/* Sets colour of each odd row to Sumiriku Light Orange */
 #dragon-table tbody tr:nth-child(odd) {
 	background : #fbc98e;
 }
@@ -272,8 +311,23 @@
 	min-width : 175px;
 }
 
+/* Reduces spacing around table */
+#dragon-table {
+	margin-top     : 0.5em;
+  margin-bottom  : -0.5em;
+}
+
 /* Weapon table settings*/
-/* Sets colour of each other row to Sumiriku Light Orange */
+/* Sets colour of each even row to Sumiriku Extra Light Orange */
+#weapon-table thead {
+  background : #fde4c7;
+}
+
+#weapon-table tbody tr:nth-child(even) {
+	background : #fde4c7;
+}
+
+/* Sets colour of each odd row to Sumiriku Light Orange */
 #weapon-table tbody tr:nth-child(odd) {
 	background : #fbc98e;
 }
@@ -311,7 +365,16 @@
 }
 
 /* Subclass Table Settings */
-/* Sets colour of each other row to Sumiriku Light Orange */
+/* Sets colour of each even row to Sumiriku Extra Light Orange */
+#subclass-table thead {
+  background : #fde4c7;
+}
+
+#subclass-table tbody tr:nth-child(even) {
+	background : #fde4c7;
+}
+
+/* Sets colour of each odd row to Sumiriku Light Orange */
 #subclass-table tbody tr:nth-child(odd) {
 	background : #fbc98e;
 }
@@ -325,6 +388,76 @@
 #subclass-table thead {
 	font-size   : 110%;
 	line-height : 1.3em;
+}
+
+/* Reduces spacing around table */
+#subclass-table {
+	margin-top     : 0.5em;
+  margin-bottom  : -0.3em;
+}
+
+/* Subclass List Table Settings */
+/* Sets colour of each even row to Sumiriku Extra Light Orange */
+#subclass-list-table thead {
+  background : #fde4c7;
+}
+
+#subclass-list-table tbody tr:nth-child(even) {
+	background : #fde4c7;
+}
+
+/* Sets colour of each odd row to Sumiriku Light Orange */
+#subclass-list-table tbody tr:nth-child(odd) {
+	background : #fbc98e;
+}
+
+/* Increases font size of text in table headings and body */
+#subclass-list-table tbody {
+	font-size   : 110%;
+	line-height : 1.3em;
+}
+
+#subclass-list-table thead {
+	font-size   : 110%;
+	line-height : 1.3em;
+}
+
+/* Reduces spacing around table */
+#subclass-list-table {
+	margin-top     : 0.5em;
+  margin-bottom  : -0em;
+}
+
+/* Spell Table Settings */
+/* Sets colour of each even row to Sumiriku Extra Light Orange */
+#spell-table thead {
+  background : #fde4c7;
+}
+
+#spell-table tbody tr:nth-child(even) {
+	background : #fde4c7;
+}
+
+/* Sets colour of each odd row to Sumiriku Light Orange */
+#spell-table tbody tr:nth-child(odd) {
+	background : #fbc98e;
+}
+
+/* Increases font size of text in table headings and body */
+#spell-table tbody {
+	font-size   : 110%;
+	line-height : 1.2em;
+}
+
+#spell-table thead {
+	font-size   : 110%;
+	line-height : 1.2em;
+}
+
+/* Reduces spacing around table */
+#spell-table {
+	margin-top     : 0.5em;
+  margin-bottom  : -0.3em;
 }
 
 
