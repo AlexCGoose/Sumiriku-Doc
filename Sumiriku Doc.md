@@ -3166,7 +3166,7 @@ On the next page is a table with all Languages known across Sumiriku. Sumirikugo
 **Feat:**              :: Crafter
 **Skill Proficiency:** :: Athletics, Sleight of Hand
 **Tool Proficiency:**  :: Carpenter's Tools
-**Equipment:**         :: *Choose A or B;* (A) Carpenter's Tools <!-- TODO - ADD THESE TO EQUIPMENT SECTION - (with Ryoba (両刃, 'Dual Edge') and Kanna (鉋, 'Plane')) -->, Ono, 2 Pouches, Traveler's Clothes, 25 GP; or (B) 50 GP
+**Equipment:**         :: *Choose A or B;* (A) Carpenter's Tools, <!-- TODO - ADD THESE TO EQUIPMENT SECTION - (with Ryoba (両刃, 'Dual Edge') and Kanna (鉋, 'Plane')) --> Ono, 2 Pouches, Traveler's Clothes, 25 GP; or (B) 50 GP
 
 :
 
@@ -3196,7 +3196,7 @@ A Ono is a hand axe used for carpentry, but is useful in a pinch as a weapon. Se
 
 Some believe that the best way to win a war is not with armies but with negotiators. You have risen the ranks, either through talent or through birthright, to be of political influence, making deals and alliances to secure a future for your clan.
 
-:
+\column
 
 {{note
 
@@ -3216,9 +3216,9 @@ Igo (囲碁) is a board game about surrounding territory played with black and w
 
 }}
 
-\column
+:
 
-### Geisha ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Geisha ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:300px,left:400px,width:375px,mix-blend-mode:normal}
 
 **Ability Scores:**    :: Dexterity, Intelligence, Charisma
 **Feat:**              :: Musician
@@ -3240,9 +3240,26 @@ A Kimono is a type of traditional garment worn by many people, of which Geisha w
 
 }}
 
-:
+{{imageMaskEdge1,--offset:32%,--rotation:0
+  ![geisha](https://cdn.myportfolio.com/146258a1-c5b4-4a64-a44a-93bc9a102f02/7e4fb85e-dc3a-4835-8d3f-041bff0974a9_rw_1920.jpg?h=164f3a46e8d2295915e706538a409d6e){position:absolute,bottom:-1px,width:101%}
+}}
 
-### Rōnin ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:569px,left:400px,width:375px,mix-blend-mode:normal}
+{{position:absolute,top:805px,left:300px,margin-bottom:-30px
+
+##### A Geisha walks city streets
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 2 | CHARACTER OPTIONS}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+
+\page
+
+:::::::::::::::::::::::::
+
+### Rōnin ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:422px,left:55px,width:375px,mix-blend-mode:normal}
 
 **Ability Scores:**    :: Strength, Dexterity, Wisdom
 **Feat:**              :: Tavern Brawler
@@ -3254,14 +3271,9 @@ A Kimono is a type of traditional garment worn by many people, of which Geisha w
 
 A former Samurai now with no master, you have taken to a life of wandering the lands of Sumiriku. Disgraced by abandoning your former code, you drift through the world looking for purpose, perhaps searching for those in need or selling your services as a mercenary.
 
-{{pageNumber,auto}}
-{{footnote PART 2 | CHARACTER OPTIONS}}
+:
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
-
-\page
-
-### Samurai
+### Samurai  ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:734px,left:55px,width:375px,mix-blend-mode:normal}
 
 **Ability Scores:**    :: Strength, Constitution, Charisma
 **Feat:**              :: Savage Attacker Updated
@@ -3273,7 +3285,19 @@ A former Samurai now with no master, you have taken to a life of wandering the l
 
 You are the hand through which the will of your Daimyō is done. Being among the elite classes of Sumiriku, either by birth or by dedication, grants you great privilege, but also an expectation that you uphold the image of your clan. In all ways you follow the code of Bushidō, in the palace and on the battlefield.
 
-:
+\column
+
+{{imageMaskEdge1,--offset:26%,--rotation:180
+  ![geisha](https://cdnb.artstation.com/p/assets/images/images/069/171/367/4k/jason-scheier-14d.jpg?1699490193){position:absolute,top:-80px,width:101%}
+}}
+
+{{position:absolute,top:375px,left:300px,margin-bottom:-30px
+
+##### A Ronin wanders a forest alone
+
+}}
+
+:::::::::::::::::::::::::
 
 {{note
 
@@ -3283,7 +3307,9 @@ Refer to Appendix B for updated Feats, changed for this book.
 
 }}
 
-### Shinobi - TODO
+:
+
+### Shinobi ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:517px,left:400px,width:375px,mix-blend-mode:normal}
 
 **Ability Scores:**    :: Dexterity, Intelligence, Wisdom
 **Feat:**              :: Dungeon Delver Updated
@@ -3293,11 +3319,26 @@ Refer to Appendix B for updated Feats, changed for this book.
 
 :
 
-Text - TODO
+Your life exists within the shadows, over rooftops, through back alleys, at the dead of night. As a Shinobi you have been trained in the physical, mental, and spiritual art of infiltration and assassination. Your targets should think of you as nothing more than a gentle breeze.
 
-\column
+::
 
-### Shrine Keeper - TODO
+{{note
+
+##### Note: Shinobi garb
+
+Shinobi typically wear many layers of wraps, often in earthen tones, to help them disappear into the darkness and hide their variety of tools.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 2 | CHARACTER OPTIONS}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
+
+<!-- ### Shrine Keeper - TODO
 
 **Ability Scores:**    :: Dexterity, Wisdom, Charisma
 **Feat:**              :: Magic Initiate (Cleric)
@@ -3318,6 +3359,8 @@ Text - TODO
 At a shrine the responsibility of maintenance and of hosting ceremonies falls on an officiant called a Kannushi (神主, 'Kami Master'), alongside the assistance of Miko (巫女, 'Shrine Maiden'). See the next section for information about the items used for these ceremonies.
 
 }}
+
+:
 
 ### Swordsmith - TODO
 
@@ -3346,9 +3389,16 @@ Text - TODO
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+
+\pa\ge
+
+{{pageNumber,auto}}
+{{footnote PART 2 | CHARACTER OPTIONS}}
+
 ![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
-\page
+\pa\ge -->
 
 {{imageMaskCorner18,--offsetX:-62%,--offsetY:40%,--rotation:0
   ![katana](https://www.hipstersofthecoast.com/wp-content/uploads/2022/03/MV-Scan.jpg){position:absolute,top:-1px,left:-320px,width:100%}
@@ -4138,7 +4188,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 ***Life from Unlife.*** Whenever you </br>deal damage to a creature, you </br>can use your Reaction to regain </br>a number of Hit Points equal </br>to the damage dealt to that </br>creature. You can use this </br>feature a number of times </br>equal to your Proficiency </br>Bonus, and you regain all </br>expended uses when you </br>finish a Long Rest.
 
-{{position:absolute,top:700px,right:250px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:700px,right:270px,margin-bottom:-30px,text-align:right
 
 ##### A haunting </br> Yurei
 
@@ -4148,7 +4198,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
   ![grave](https://cdnb.artstation.com/p/assets/images/images/031/415/347/large/sara-savi-japanese-graveyard.jpg?1603557906){position:absolute,bottom:-1px,right:-250px,width:800px}
 }}
 
-![yurei-2](https://i.imgur.com/gF5Hq27.png) {position:absolute,right:-125px,bottom:10px,width:450px,margin-bottom:-25px,filter:opacity:100%,mix-blend-mode:normal,transform:scaleX(-1)}
+![yurei-2](https://i.imgur.com/gF5Hq27.png) {position:absolute,right:-110px,bottom:10px,width:455px,margin-bottom:-25px,filter:opacity:100%,mix-blend-mode:normal,transform:scaleX(-1)}
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
