@@ -3164,7 +3164,7 @@ On the next page is a table with all Languages known across Sumiriku. Sumirikugo
 
 **Ability Scores:**    :: Strength, Wisdom, Intelligence
 **Feat:**              :: Crafter
-**Skill Proficiency:** :: Athletics, Sleight of Hand
+**Skill Proficiency:** :: Athletics, Nature
 **Tool Proficiency:**  :: Carpenter's Tools
 **Equipment:**         :: *Choose A or B;* (A) Carpenter's Tools, <!-- TODO - ADD THESE TO EQUIPMENT SECTION - (with Ryoba (両刃, 'Dual Edge') and Kanna (鉋, 'Plane')) --> Ono, 2 Pouches, Traveler's Clothes, 25 GP; or (B) 50 GP
 
@@ -3188,9 +3188,9 @@ A Ono is a hand axe used for carpentry, but is useful in a pinch as a weapon. Se
 
 **Ability Scores:**    :: Dexterity, Intelligence, Charisma
 **Feat:**              :: Skilled
-**Skill Proficiency:** :: History, Persuasion
+**Skill Proficiency:** :: History and Persuasion
 **Tool Proficiency:**  :: Calligrapher's Supplies
-**Equipment:**         :: *Choose A or B;* (A) Calligrapher's Supplies, Kimono (Fine Clothes), Hanko, Igo Set, 26 GP; or (B) 50 GP
+**Equipment:**         :: *Choose A or B;* (A) Calligrapher's Supplies, Kimono (Fine Clothes), Hanko, Igo Set (Gaming Set), 26 GP; or (B) 50 GP
 
 :
 
@@ -3222,7 +3222,7 @@ Igo (囲碁) is a board game about surrounding territory played with black and w
 
 **Ability Scores:**    :: Dexterity, Intelligence, Charisma
 **Feat:**              :: Musician
-**Skill Proficiency:** :: Performance, Insight
+**Skill Proficiency:** :: Insight and Performance
 **Tool Proficiency:**  :: *Choose A or B;* (A) *Choose one kind of Musical Instrument*; or (B) Disguise Kit
 **Equipment:**         :: *Choose A or B;* (A) Musical Instrument (same as above), Disguise Kit, Kanzashi, Kimono (Fine Clothes), Mirror, Perfume; or (B) 50 GP
 
@@ -3246,7 +3246,7 @@ A Kimono is a type of traditional garment worn by many people, of which Geisha w
 
 {{position:absolute,top:805px,left:300px,margin-bottom:-30px
 
-##### A Geisha walks city streets
+##### A Geisha walks a city street
 
 }}
 
@@ -3263,7 +3263,7 @@ A Kimono is a type of traditional garment worn by many people, of which Geisha w
 
 **Ability Scores:**    :: Strength, Dexterity, Wisdom
 **Feat:**              :: Tavern Brawler
-**Skill Proficiency:** :: Athletics, Deception
+**Skill Proficiency:** :: Athletics and Deception
 **Tool Proficiency:**  :: Weaver's Tools
 **Equipment:**         :: *Choose A or B;* (A) Katana, Weaver's Tools, Bedroll, Gourd Flask, Straw Hat, Tent, Traveler's Clothes, 14 GP; or (B) 50 GP
 
@@ -3277,7 +3277,7 @@ A former Samurai now with no master, you have taken to a life of wandering the l
 
 **Ability Scores:**    :: Strength, Constitution, Charisma
 **Feat:**              :: Savage Attacker Updated
-**Skill Proficiency:** :: Athletics, Perception
+**Skill Proficiency:** :: Athletics and Perception
 **Tool Proficiency:**  :: Healer's Kit
 **Equipment:**         :: *Choose A or B;* (A) Daishō (Katana and Wakizashi), Healer's Kit, Gourd Flask, Gunbai (Fan), Traveler's Clothes, War Banner, 14 GP; or (B) 50 GP
 
@@ -3288,7 +3288,7 @@ You are the hand through which the will of your Daimyō is done. Being among the
 \column
 
 {{imageMaskEdge1,--offset:26%,--rotation:180
-  ![geisha](https://cdnb.artstation.com/p/assets/images/images/069/171/367/4k/jason-scheier-14d.jpg?1699490193){position:absolute,top:-80px,width:101%}
+  ![ronin](https://cdnb.artstation.com/p/assets/images/images/069/171/367/4k/jason-scheier-14d.jpg?1699490193){position:absolute,top:-80px,width:101%}
 }}
 
 {{position:absolute,top:375px,left:300px,margin-bottom:-30px
@@ -3313,13 +3313,13 @@ Refer to Appendix B for updated Feats, changed for this book.
 
 **Ability Scores:**    :: Dexterity, Intelligence, Wisdom
 **Feat:**              :: Dungeon Delver Updated
-**Skill Proficiency:** :: Acrobatics, Stealth
+**Skill Proficiency:** :: Acrobatics and Stealth
 **Tool Proficiency:**  :: Thieves' Tools
 **Equipment:**         :: *Choose A or B;* (A) 3 Kunai, Fukiya, 20 Shuriken, Thieves' Tools, Caltrops (bag of 20), Shinobi Garb (Traveler's Clothes), 2 GP; or (B) 50 GP
 
 :
 
-Your life exists within the shadows, over rooftops, through back alleys, at the dead of night. As a Shinobi you have been trained in the physical, mental, and spiritual art of infiltration and assassination. Your targets should think of you as nothing more than a gentle breeze.
+Your life exists within the shadows, over rooftops, through back alleys, at the dead of night. As a Shinobi you have been trained in the physical, mental, and spiritual talent of infiltration and assassination. Your targets should think of you as nothing more than a gentle breeze.
 
 ::
 
@@ -3338,11 +3338,11 @@ Shinobi typically wear many layers of wraps, often in earthen tones, to help the
 
 \page
 
-<!-- ### Shrine Keeper - TODO
+### Shrine Keeper - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 **Ability Scores:**    :: Dexterity, Wisdom, Charisma
 **Feat:**              :: Magic Initiate (Cleric)
-**Skill Proficiency:** :: Performance, Religion
+**Skill Proficiency:** :: Performance and Religion
 **Tool Proficiency:**  :: Calligrapher's Supplies
 **Equipment:**         :: *Choose A or B;* (A) Calligrapher's Supplies, Ceremonial Wand (Holy Symbol), Ofuda (Parchment, 10 sheets), Robe, Sensu (Fan), Tamagashi, 8 GP; or (B) 50 GP
 
@@ -3360,27 +3360,37 @@ At a shrine the responsibility of maintenance and of hosting ceremonies falls on
 
 }}
 
-:
+{{imageMaskEdge1,--offset:32%,--rotation:0
+  ![daido](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/77994871-b0ec-4e58-9593-7f996138184e/deccjod-70da74a1-8075-4d4f-b230-42310fdad680.jpg/v1/fill/w_1219,h_656,q_70,strp/shinto_shrine_by_sanyulmi_deccjod-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAzMyIsInBhdGgiOiJcL2ZcLzc3OTk0ODcxLWIwZWMtNGU1OC05NTkzLTdmOTk2MTM4MTg0ZVwvZGVjY2pvZC03MGRhNzRhMS04MDc1LTRkNGYtYjIzMC00MjMxMGZkYWQ2ODAuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.P-Hw8LGArrXswnRs3cyaYqYJKHYjKj-3zgF0Fr6MkRk){position:absolute,bottom:-100px,width:101%}
+}}
 
-### Swordsmith - TODO
+{{position:absolute,top:800px,left:360px,margin-bottom:-30px
+
+##### A Daido shrine
+
+}}
+
+\column
+
+### Swordsmith - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+
+**Ability Scores:**    :: Strength, Wisdom, Intelligence
+**Feat:**              :: Crafter
+**Skill Proficiency:** :: Athletics and Investigation
+**Tool Proficiency:**  :: Smith's Tools
+**Equipment:**         :: *Choose A or B;* (A) Katana, Smith's Tools, Gourd Flask, Traveler's Clothes, 12 GP; or (B) 50 GP
 
 :
 
 Text - TODO
 
-### Theatre Performer - TODO
+### Theatre Performer - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:258px,left:400px,width:375px,mix-blend-mode:normal}
 
-:
-
-Text - TODO
-
-### Yakuza - TODO
-
-:
-
-Text - TODO
-
-### Yamabushi - TODO
+**Ability Scores:**    :: Dexterity, Wisdom, Charisma
+**Feat:**              :: Actor Updated
+**Skill Proficiency:** :: Performance and Persuasion
+**Tool Proficiency:**  :: Disguise Kit
+**Equipment:**         :: *Choose A or B;* (A) Disguise Kit, 2 Costumes, Kimono (Fine Clothes), Mirror, Perfume, 11 GP; or (B) 50 GP
 
 :
 
@@ -3391,14 +3401,84 @@ Text - TODO
 
 ![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
 
-\pa\ge
+\page
+
+{{imageMaskEdge1,--offset:26%,--rotation:180
+  ![mountain-path](https://i.imgur.com/uzOHbmP.jpeg){position:absolute,top:-70px,width:101%}
+}}
+
+{{position:absolute,top:375px,left:320px,margin-bottom:-30px
+
+##### The path of a Yamabushi
+
+}}
+
+:::::::::::::::::::::::::
+
+### Yakuza - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:424px,left:55px,width:375px,mix-blend-mode:normal}
+
+**Ability Scores:**    :: Dexterity, Constitution, Charisma
+**Feat:**              :: Lucky Updated
+**Skill Proficiency:** :: Intimidation and Sleight of Hand
+**Tool Proficiency:**  :: Hanafuda Cards (Gaming Set)
+**Equipment:**         :: *Choose A or B;* (A) 2 Tantō, Hanafuda Cards (Gaming Set), Thieves' Tools, Kimono (Fine Clothes), 5 GP; or (B) 50 GP
+
+:
+
+Text - TODO
+
+:
+
+{{note
+
+##### Note: Criminal cards
+
+Hanafuda (花札, 'Flower Cards') are a type of playing cards used for a variety of games. Typically used for illegal gambling, possession of one of these decks is for those not intending to be on the good side of the law. More details on games can be found in the next section
+
+}}
+
+\column
+
+:::::::::::::::::::::::::
+
+### Yamabushi - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:424px,left:400px,width:375px,mix-blend-mode:normal}
+
+**Ability Scores:**    :: Dexterity, Constitution, Wisdom
+**Feat:**              :: Tough
+**Skill Proficiency:** :: Religion and Survival
+**Tool Proficiency:**  :: Horagai (Musical Instrument)
+**Equipment:**         :: *Choose A or B;* (A) Shakujō (Bō), Wakizashi, Horagai (Musical Instrument), Bedroll, Gourd Flask, Robe, Tent, 26 GP; or (B) 50 GP
+
+:
+
+Text - TODO
+
+:
+
+{{note
+
+##### Note: Horagai trumpet
+
+A Horagai (法螺貝) is a trumpet made from a large conch shell, often carried by Yamabushi during their hikes. They use the sound of these horns echoing through the mountains to signal their presence to each other. More details on instruments can be found in the next section
+
+}}
+
+:
+
+{{note
+
+##### Note: Shakujo
+
+A Shakujō (錫杖) is a staff topped with a metal loop, with smaller metal rings attached. They are carried by Yamabushi and other monks, as a tool for prayer, a hiking aid, and a weapon.
+
+}}
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
 ![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
-\pa\ge -->
+\page
 
 {{imageMaskCorner18,--offsetX:-62%,--offsetY:40%,--rotation:0
   ![katana](https://www.hipstersofthecoast.com/wp-content/uploads/2022/03/MV-Scan.jpg){position:absolute,top:-1px,left:-320px,width:100%}
@@ -3540,7 +3620,7 @@ When you hit with a weapon that has the Strong-Draw property, you can add 1 plus
 
 #### Bō (棒)
 
-A long wooden staff weapon, typically around 1.8 metres or 6 shaku long. Most often used in traditional martial arts such as Bōjutsu, where it is seen to be an extension of one's limbs and thus is used in forms similar to those in empty hand martial arts. It can also be used for stabbing or upward Slashing motions, similar to a sword or spear.
+A long wooden staff weapon, typically around 1.8 metres or 6 shaku long. Most often used in traditional martial arts such as Bōjutsu, where it is seen to be an extension of one's limbs and thus is used in forms similar to those in empty hand martial arts. It can also be used for stabbing or upward slashing motions, similar to a sword or spear. A variant of the Bō is the Shakujō; it features a metal loop on one end with smaller metal rings attached, and it is used by monks as a hiking aid and religious tool.
 
 #### Bokken (木剣)
 
