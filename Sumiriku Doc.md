@@ -3403,19 +3403,19 @@ You have been trained in one of Sumiriku's theatre traditions, a historic yet ev
 
 \page
 
-{{imageMaskEdge1,--offset:26%,--rotation:180
+{{imageMaskEdge1,--offset:21%,--rotation:180
   ![mountain-path](https://i.imgur.com/uzOHbmP.jpeg){position:absolute,top:-70px,width:101%}
 }}
 
-{{position:absolute,top:375px,left:320px,margin-bottom:-30px
+{{position:absolute,top:400px,left:320px,margin-bottom:-30px
 
 ##### The path of a Yamabushi
 
 }}
 
-:::::::::::::::::::::::::
+::::::::::::::::::::::::::
 
-### Yakuza - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:424px,left:55px,width:375px,mix-blend-mode:normal}
+### Yakuza ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:438px,left:55px,width:375px,mix-blend-mode:normal}
 
 **Ability Scores:**    :: Dexterity, Constitution, Charisma
 **Feat:**              :: Lucky Updated
@@ -3439,9 +3439,9 @@ Hanafuda (花札, 'Flower Cards') are a type of playing cards used for a variety
 
 \column
 
-:::::::::::::::::::::::::
+::::::::::::::::::::::::::
 
-### Yamabushi - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:424px,left:400px,width:375px,mix-blend-mode:normal}
+### Yamabushi ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:438px,left:400px,width:375px,mix-blend-mode:normal}
 
 **Ability Scores:**    :: Dexterity, Constitution, Wisdom
 **Feat:**              :: Tough
