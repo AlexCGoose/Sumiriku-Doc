@@ -3433,7 +3433,7 @@ The Koware Jidai has caused clans and governments to be preoccupied, leaving an 
 
 ##### Note: Criminal cards
 
-Hanafuda (花札, 'Flower Cards') are a type of playing cards used for a variety of games. Typically used for illegal gambling, possession of one of these decks is for those not intending to be on the good side of the law. More details on games can be found in the next section
+Hanafuda (花札, 'Flower Cards') are a type of playing cards used for a variety of games. Typically used for illegal gambling, possession of one of these decks is for those not intending to be on the good side of the law. More details on games can be found in the next section.
 
 }}
 
@@ -3459,7 +3459,7 @@ Many in this world believe that strength is forged in the fires of adversity. As
 
 ##### Note: Horagai trumpet
 
-A Horagai (法螺貝) is a trumpet made from a large conch shell, often carried by Yamabushi during their hikes. They use the sound of these horns echoing through the mountains to signal their presence to each other. More details on instruments can be found in the next section
+A Horagai (法螺貝) is a trumpet made from a large conch shell, often carried by Yamabushi during their hikes. They use the sound of these horns echoing through the mountains to signal their presence to each other. More details on instruments can be found in the next section.
 
 }}
 
