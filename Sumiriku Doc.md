@@ -145,53 +145,53 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 - ###### [{{ Backgrounds}}{{ 63}}](#p64)
 
   - [{{ Languages}}{{ 63}}](#p64)
-  - [{{ Background Options - TODO}}{{ 65}}](#p66)
+  - [{{ Background Options}}{{ 65}}](#p66)
 
-- ###### [{{ Weapons, Armour, and Equipment}}{{ 65}}](#p66)
+- ###### [{{ Weapons, Armour, and Equipment}}{{ 69}}](#p70)
 
-  - [{{ Weapons - TODO}}{{ 67}}](#p68)
-  - [{{ Armour}}{{ 73}}](#p74)
-  - [{{ Equipment - TODO}}{{ 74}}](#p75)
+  - [{{ Weapons - TODO}}{{ 69}}](#p70)
+  - [{{ Armour}}{{ 75}}](#p76)
+  - [{{ Equipment - TODO}}{{ 76}}](#p77)
 
-- ###### [{{ Feats}}{{ 75}}](#p76)
+- ###### [{{ Feats}}{{ 77}}](#p78)
 
-  - [{{ Species Feats - TODO}}{{ 75}}](#p76)
-  - [{{ General Feats}}{{ 83}}](#p84)
+  - [{{ Species Feats - TODO}}{{ 77}}](#p78)
+  - [{{ General Feats}}{{ 85}}](#p86)
 
-- ### [{{ PART 3 - Geography and Culture}}{{ 88}}](#p89) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:324px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 3 - Geography and Culture}}{{ 90}}](#p91) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:324px,left:515px,width:245px,mix-blend-mode:normal}
 
-- ###### [{{ Maps of Sumiriku and the World - TODO}}{{ 89}}](#p90)
+- ###### [{{ Maps of Sumiriku and the World - TODO}}{{ 91}}](#p92)
 
-- ###### [{{ Landscapes and Landmarks - TODO}}{{ 91}}](#p92)
+- ###### [{{ Landscapes and Landmarks - TODO}}{{ 93}}](#p94)
 
-- ###### [{{ Calendar and Notable Events - TODO}}{{ 94}}](#p95)
+- ###### [{{ Calendar and Notable Events - TODO}}{{ 96}}](#p97)
 
-  - [{{ Seasons}}{{ 94}}](#p95)
-  - [{{ Important Days}}{{ 94}}](#p95)
-    - [{{ Ganjitsu (New Year's Day)}}{{ 94}}](#p95)
-    - [{{ Hyakki Chitsuki (Hundred Oni Blood Moon)}}{{ 95}}](#p96)
-    - [{{ Shōtenbi (Ascension Day)}}{{ 95}}](#p96)
-    - [{{ Tanabata (Seventh Evening) - TODO}}{{ 95}}](#p96)
+  - [{{ Seasons}}{{ 96}}](#p97)
+  - [{{ Important Days}}{{ 96}}](#p97)
+    - [{{ Shōtenbi (Ascension Day)}}{{ 96}}](#p97)
+    - [{{ Tanabata (Seventh Evening) - TODO}}{{ 96}}](#p97)
+    - [{{ Ganjitsu (New Year's Day)}}{{ 97}}](#p98)
+    - [{{ Hyakki Chitsuki (Hundred Oni Blood Moon)}}{{ 97}}](#p98)
 
-- ###### [{{ Important People and Groups - TODO}}{{ 96}}](#p97)
+- ###### [{{ Important People and Groups - TODO}}{{ 99}}](#p100)
 
-- ###### [{{ Sacred Treasures and other Magic Items - TODO}}{{ 98}}](#p99)
+- ###### [{{ Sacred Treasures and other Magic Items - TODO}}{{ 100}}](#p101)
 
-- ### [{{ EXTRA - Appendices}}{{ 90}}](#p100) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:654px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ EXTRA - Appendices}}{{ 101}}](#p101) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:654px,left:515px,width:245px,mix-blend-mode:normal}
 
-- ###### [{{ Appendix A - Creature Stat Blocks}}{{ 100}}](#p101)
+- ###### [{{ Appendix A - Creature Stat Blocks}}{{ 102}}](#p103)
 
-- ###### [{{ Appendix B - Available Feats}}{{ 104}}](#p105)
+- ###### [{{ Appendix B - Updated Feats}}{{ 106}}](#p107)
 
-- ###### [{{ Appendix C - Spell Changes - TODO}}{{ 108}}](#p109)
+- ###### [{{ Appendix C - Spell Changes - TODO}}{{ 110}}](#p111)
 
-- ###### [{{ Appendix D - Rule Change Glossary}}{{ 126}}](#p127)
+- ###### [{{ Appendix D - Rule Change Glossary}}{{ 128}}](#p129)
 
-- ###### [{{ Appendix E - Reference Images - TODO}}{{ 135}}](#p136)
+- ###### [{{ Appendix E - Reference Images - TODO}}{{ 137}}](#p138)
 
-- ### [{{ CREDITS - TODO}}{{ 140}}](#p141) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:861px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ CREDITS - TODO}}{{ 142}}](#p143) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:847px,left:515px,width:245px,mix-blend-mode:normal}
 
-- ###### [{{ Special Thanks}}{{ 140}}](#p141)
+- ###### [{{ Special Thanks}}{{ 142}}](#p143)
 
 }}
 
