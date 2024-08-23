@@ -3384,7 +3384,7 @@ At a shrine the responsibility of maintenance and of hosting ceremonies falls on
 
 For war to continue raging clans need armies, armies need soldiers, and soldiers need swords. You have been trained in the skill of forging blades of steel, elegant yet dangerous weapons. Perhaps you have decided to leave the forging of weapons behind to pick up one of your own, or maybe you seek forgiveness for creating the tools to take life.
 
-### Theatre Performer - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:384px,left:400px,width:375px,mix-blend-mode:normal}
+### Theatre Performer ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:384px,left:400px,width:375px,mix-blend-mode:normal}
 
 **Ability Scores:**    :: Dexterity, Wisdom, Charisma
 **Feat:**              :: Actor Updated
