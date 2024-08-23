@@ -280,30 +280,30 @@ The Daimyō were steadily becoming more unimpressed with the current shogunate, 
 
 # Spiritualism and the Kami
 
-Sumiriku is still a deeply spiritual place, despite the blood that may cover its soil. In the saga of creation it is said that Sumiriku was created by the stardust deities first, being drawn at the centre of the great cosmic map, and so it is the place where the spiritual and the tangible intersect the most. The drawing of this map is the foundation of the belief of In'yō, cosmic balance and duality, as the ink on the page gives form and meaning to the blank paper, and the blank page gives contrast to the ink. The outbreak of the Koware Jidai has caused a variety of responses in those that feel a deep religious connection; Some have stuck to pacifist beliefs, trying to protect and care for a shrine or monastery while remaining isolated from the wider world, whereas others have decided to take up arms in the name of what they believe.
+Sumiriku is still a deeply spiritual place, despite the blood that may cover its soil. In the saga of creation it is said that Sumiriku was created by the stardust deities first, being drawn at the centre of the great cosmic map, and so it is the place where the spiritual and the tangible intersect the most. The drawing of this map is the foundation of the belief of In'yō, cosmic balance and duality, as the ink on the page gives form and meaning to the blank paper, and the blank page gives contrast to the ink. The outbreak of the Koware Jidai has caused a variety of responses in those that feel a deep religious connection; some have stuck to pacifist beliefs, trying to protect and care for a shrine or monastery while remaining isolated from the wider world, whereas others have decided to take up arms in the name of what they believe.
 
 ## Daidō and Kami
 
 The people of Sumiriku share belief in a polytheistic and animistic religion called Daidō (大道, 'The Great Way'), that states that the physical world is surrounded, joined, and tied together by spirits and their spiritual realm. Everyone and everything is created with some spiritual essence that exists alongside their physical being. This essence transcends form, identity, and even plane of existence; everything born to or formed by the world is alike in spirit. Some spirits can flow freely, while others may exist within people, objects, natural phenomena, landmarks, emotions, ideas, or worldly forces.
 
-<p style="text-indent: 1em"> When one of these spirits receives significant veneration, the spirit becomes a Kami (神, 'Deity' or 'Spirit'), a holy and blessed being. These Kami are only spiritual beings, but some are able to manifest for themselves a physical form, if they seek to have an audience with someone or to act in the physical world. The Kami are uncountable in their number and with infinite variation; people describe counting all of the Kami as "counting each grain of rice in a field", a saying for an impossible task. People will pray to and worship any number of Kami in their lifetime, whether through ritual at a shrine or within their day-to-day activity, and these worshipped Kami may be both of beings or places and of emotions or ideas. From the greatest dragons and deities, to tiny saplings and drops of dew, to holy people, to even the spirits of passed nobles; If one is worthy of worship, they become Kami. </p>
+When one of these spirits receives significant veneration, the spirit becomes a Kami (神, 'Deity' or 'Spirit'), a holy and blessed being. These Kami are only spiritual beings, but some are able to manifest for themselves a physical form, if they seek to have an audience with someone or to act in the physical world. The Kami are uncountable in their number and with infinite variation; people describe counting all of the Kami as "counting each grain of rice in a field", a saying for an impossible task. People will pray to and worship any number of Kami in their lifetime, whether through ritual at a shrine or within their day-to-day activity, and these worshipped Kami may be both of beings or places and of emotions or ideas. From the greatest dragons and deities, to tiny saplings and drops of dew, to holy people, to even the spirits of passed nobles; If one is worthy of worship, they become Kami.
 
 ## Shrines and Prayer
 
-Shrines are built across the worlds to worship Kami, and to be tethers for the Kami's connection to the physical world. These shrines, and their commonly associated Torii gates, are physical reminders of places of heightened spiritual energy. They differ greatly in scale and grandeur.
+Shrines are built across the worlds to worship Kami, and to be tethers for the Kami's connection to the physical world. These shrines are physical reminders of places of heightened spiritual energy; passing under a shrine's  red Torii gate is the crossing of a threshold into a place of incredible connection to the spiritual plane.
 
-The grandest among them are vast structures that become sites of pilgrimages for worshippers of the Myōjin, the fourteen greatest Kami. The smallest can be quaint household shrines used to pray to the family Kami that protect a dwelling. Still others are themselves natural landmarks, or house divine objects called Go-Shintai (御神体, 'Sacred body of the Kami'), that are the dwelling place of a Kami; natural dwelling places are often marked with a Shimenawa (標縄, 'Enclosing rope'). The most worshipped of the Kami have many shrines across the realms, as their incredible spirits have been split by their worshippers in a process called Bunrei (分霊, 'Dividing the spirit').
+These shrines can differ greatly in scale and grandeur. The grandest among them are vast structures that become sites of pilgrimages for worshippers of the Myōjin, the fourteen greatest Kami. The smallest can be quaint household shrines used to pray to the family Kami that protect a dwelling. Still others are themselves natural landmarks, or house divine objects called Go-Shintai (御神体, 'Sacred body of the Kami'), that are the dwelling place of a Kami; natural dwelling places are often marked with a Shimenawa (標縄, 'Enclosing rope'). The most worshipped of the Kami have many shrines across the realms, as their incredible spirits have been split by their worshippers in a process called Bunrei (分霊, 'Dividing the spirit').
 
 No matter their size or shape, shrines are typically always at a raised position, with stairs leading up to them. It is believed that this brings them, and the worshippers who visit them, closer to Kumonoue, the realm of the Myōjin.
 
-{{position:relative,top:5px,left:30px,margin-bottom:-30px,text-align:right
+{{position:relative,top:-1px,left:30px,margin-bottom:-30px,text-align:right
 
 ##### A Shrine to a Kami, raised out of the water
 
 }}
 
-{{imageMaskCorner20,--offsetX:46%,--offsetY:-61%,--rotation:0
-  ![shrine](https://i.imgur.com/EgyNG9i.png){position:aboslute,bottom:-0px,right:-130px,width:80%}
+{{imageMaskCorner20,--offsetX:45%,--offsetY:-64%,--rotation:0
+  ![shrine](https://i.imgur.com/EgyNG9i.png){position:aboslute,bottom:-10px,right:-130px,width:80%}
 }}
 
 {{pageNumber,auto}}
@@ -356,7 +356,7 @@ Kappa, Akki, Tanuki, Kawauso, Kitsune, Kisuru all have in part some Yōkai ances
 
 From the beginning of creation the world sought balance; all energies and forces required a reflection, a counterpart. To this end, the world's creators conceived of a realm buried deep within the earth, to be a prison for spirits of darkness. Unknown to the peoples of Sumiriku. their negative emotions descended to this realm, empowering the terror of the depths below. The nation's conflicts and strife, fear and hatred, only strengthened the growing threat of the Oni, searching for a way out.
 
-Oni (鬼) are the pure embodiment of hatred, malevolence, and horror, forged in the fiery pits of Makoku. They take a wide variety of forms, usually those that incite great fear in their victims, but they do share some commonalities; an Oni is typically horned, tusked, and with a third eye showing through a crack in their forehead. Oni are known for the most evil of acts: murder, rampage, possession, and cannibalism. Their only known weakness is the light of Sumiriku's holy suns; having not been born under the twin suns has cursed the Oni to burn away under their radiance. Many people choose to believe that the presence of all evils in this world is due to the wiles of these manipulative creatures, sowing terror for their own ends.
+Oni (鬼) are the pure embodiment of hatred, malevolence, and horror, forged in the fiery pits of Makoku. They take a wide variety of forms, usually those that incite great fear in their victims, but they do share some commonalities. Oni are typically horned, tusked, and with a third eye showing through a crack in their forehead. Oni are known for the most evil of acts; murder, rampage, possession, and cannibalism. Their only known weakness is the light of Sumiriku's holy suns; having not been born under the twin suns has cursed the Oni to burn away under their radiance. Many people choose to believe that the presence of all evils in this world is due to the wiles of these manipulative creatures, sowing terror for their own ends.
 
 ## Godaiyō
 
@@ -451,13 +451,13 @@ Below are the list of the Realms connected to Sumiriku:
 
 The dwelling place of the 14 Ō-Hoshikuzushin, progenitors of all else that is. This is the realm where the events of creation took place, with the unfurling of the great cosmic map. This realm lies far beyond the clouds, among the stars in the sky. This place is so distant from the tangible world as to be fully abstract, so no one can truly know what it would be like to exist within it. The presence of this realm is not understood but is instead felt, in the glow of the constellations in the night sky and in the Starlight Regalia, the most sacred of treasures, under strict ownership of the Emperor.
 
-{{position:relative,top:35px,left:-30px,margin-bottom:-30px,align:right
+{{position:relative,top:50px,left:20px,margin-bottom:-30px
 
 ##### A bustling city street in Utsushiyo
 
 }}
 
-{{imageMaskEdge1,--offset:25%,--rotation:0
+{{imageMaskEdge1,--offset:26%,--rotation:0
   ![utsushiyo](https://cdnb.artstation.com/p/assets/images/images/005/992/331/large/derek-weselake-gionfestivalderek.jpg?1495230579){position:aboslute,top:680px,left:-1px,width:101%}
 }}
 
@@ -469,7 +469,7 @@ The realm of most of the Myōjin, the primary deities and greatest Kami of Sumir
 
 ## Utsushiyo  (現し世, </br> 'The Manifest World')
 
-The world of the real and tangible, of the living and breathing, of ink and blood. Considered to be the locus around which all other Realms pivot. Alongside Sumiriku and the lands beyond, the twin suns, Hikariōna (光嫗, 'Light Mother') and Ikariōna (怒り嫗, 'Rage Mother'), as well as the moon, Eisei (衛星, 'Satellite'), are considered part of Utsushiyo. The primary species of Sumiriku all dwell here, as well as a number of Kami, of all types and varieties. This realm contains the majority of shrines for prayer to the Kami, which can be found by the presence of bright red Torii gates. In the present day the appreciation of this great landscape has diminished, as Utsushiyo has just become a battlefield for the Shattered States War.
+The world of the real and tangible, of the living and breathing, of ink and blood. Considered to be the locus around which all other Realms pivot. Alongside Sumiriku and the lands beyond, the twin suns, Hikariōna (光嫗, 'Light Mother') and Ikariōna (怒り嫗, 'Rage Mother'), as well as the moon, Eisei (衛星, 'Satellite'), are considered part of Utsushiyo. The primary species of Sumiriku all dwell here. Many of the Kami, of all types and varieties, dwell within Utsushiyo's parallel spirit plane; the heightened presence of this plane is often marked by shrines and Torii gates. In the present day the appreciation of this great landscape has diminished, as Utsushiyo has just become a battlefield for the nation-wide War.
 
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
@@ -499,23 +499,23 @@ The world of the real and tangible, of the living and breathing, of ink and bloo
 
 ## Kimyōkai </br> (奇妙界, 'Weird World')
 
-The true home of many of the Yōkai, Kimyōkai can be seen as a surreal reflection of Utsushiyo. The name Kimyōkai comes from stories citizens of Sumiriku would tell about the creatures from another land; Yōkai do not have a specific name for their realm other than home. Kimyōkai overlaps and intersects with Utsushiyo the most of any other plane, and the two almost merge with each other at points of great nature, such as forests, mountains, and rivers. Both the environment and the civilization of Kimyōkai are a heightened parallel of the manifest world; many Yōkai stay within the mystical forests and spiralling rivers, but other Yōkai of all shapes and sizes gather in giant community buildings like bathhouses.
+The true home of many of the Yōkai, Kimyōkai can be seen as a surreal reflection of Utsushiyo. The name Kimyōkai comes from stories citizens of Sumiriku would tell about the creatures from another land; Yōkai do not have a specific name for their realm other than home. Passages between Kimyōkai and Utsushiyo are typically shrouded and disorienting, and they are most often found at points of great nature, such as forests, mountains, and rivers. Both the environment and the civilization of Kimyōkai are a heightened, more mystical version of the manifest world; many Yōkai stay within the majestic forests and spiralling rivers, but other Yōkai of all shapes and sizes gather in giant community buildings like bathhouses.
 
 \column
 
-&nbsp;Most of the Yōkai who emerge from here are curious, mischievous tricksters, and frequently take on forms of beings found in nature, such as animals and trees. More recently it has been seen the influence the physical world is having on the beings of Kimyōkai, as Yōkai known as Tsukumogami, which take the form of crafted objects, have started being found crossing the gap between the realms. Some of the Sumiriku species, namely the four Obake, the Kappa, and the Akki, have one foot forever kept in the pool that is Kimyōkai.</p>
+&nbsp;Most of the Yōkai who emerge from here are curious, mischievous tricksters, and frequently take on forms of beings found in nature, such as animals and trees. More recently it has been seen the influence the physical world is having on the beings of Kimyōkai, as Yōkai known as Tsukumogami, which take the form of crafted objects, have started being found crossing the gap between the realms. Some of the Sumiriku species, namely the four Obake, the Kappa, and the Akki, have one foot forever kept in the pool that is Kimyōkai.
 
 ## Yomi (黄泉, 'Dying Land')
 
-The place for the dead, for spirits who have expended the time they had. The depths of this realm extend beneath Utsushiyo and Kimyōkai, as a macabre reflection of the worlds above. The God Yōzanagi-sama attempted to seal away the path to Yomi with a massive boulder, but the connection still seeps through at places associated with death, such as swamps, crypts, and graves. People often avoid these places for fear that they might be dragged down to the depths of Yomi themselves, so they have been reclaimed by the moss and decay. The dead find their afterlife here a meditative purgatory, with no judgement taken on the actions of one's life, but travellers who find themselves here might consider Yomi as a place of disorienting horrors. A select few Yōkai are native to Yomi, and they are charged with preserving and protecting the realm, though some take it upon themselves to sneak away to Utsushiyo and bring fear to the living. The Goddess Inzanami-sama descended here from Kumonoue after she decided that her work was done.
+The place for the dead, for spirits who have expended the time they had. The depths of this realm extend beneath Utsushiyo and Kimyōkai, as a macabre, decaying version of the worlds above. The Myōjin Yōzanagi-sama attempted to seal away the path to Yomi with a massive boulder, but the connection still seeps through at places associated with death, such as swamps, crypts, and graves. People often avoid these places for fear that they might be dragged down to the depths of Yomi themselves, so they have been reclaimed by the moss and decay. The dead find their afterlife here a meditative purgatory, with no judgement taken on the actions of one's life, but travellers who find themselves here might consider Yomi as a place of disorienting horrors. A select few Yōkai are native to Yomi, and they are charged with preserving and protecting the realm, though some take it upon themselves to sneak away to Utsushiyo and bring fear to the living. The Myōjin Inzanami-sama descended here from Kumonoue after she decided that her work was done.
 
-{{position:relative,top:60px,left:110px,margin-bottom:-30px,align:right
+{{position:relative,top:35px,left:100px,margin-bottom:-30px
 
 ##### A river in Yomi
 
 }}
 
-{{imageMaskEdge5,--offset:33%,--rotation:0
+{{imageMaskEdge5,--offset:34%,--rotation:0
   ![yomi](https://cdna.artstation.com/p/media_assets/images/images/000/304/018/large/Yomi_River_Scene.jpg?1539545470){position:aboslute,top:740px,left:-1px,width:101%}
 }}
 
@@ -3338,7 +3338,7 @@ Shinobi typically wear many layers of wraps, often in earthen tones, to help the
 
 \page
 
-### Shrine Keeper - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Shrine Keeper ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 **Ability Scores:**    :: Dexterity, Wisdom, Charisma
 **Feat:**              :: Magic Initiate (Cleric)
@@ -3348,7 +3348,7 @@ Shinobi typically wear many layers of wraps, often in earthen tones, to help the
 
 :
 
-Text - TODO
+Shrines dedicated to the praise and worship of their Kami can be found all across Sumiriku. You have dedicated your life to the care and maintenance of one of these shrines, and to hosting ceremonies of worship to the Kami enshrined there. Sometimes you may even be able to hear the words of the Kami you serve.
 
 :
 
@@ -3360,11 +3360,11 @@ At a shrine the responsibility of maintenance and of hosting ceremonies falls on
 
 }}
 
-{{imageMaskEdge1,--offset:32%,--rotation:0
-  ![daido](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/77994871-b0ec-4e58-9593-7f996138184e/deccjod-70da74a1-8075-4d4f-b230-42310fdad680.jpg/v1/fill/w_1219,h_656,q_70,strp/shinto_shrine_by_sanyulmi_deccjod-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAzMyIsInBhdGgiOiJcL2ZcLzc3OTk0ODcxLWIwZWMtNGU1OC05NTkzLTdmOTk2MTM4MTg0ZVwvZGVjY2pvZC03MGRhNzRhMS04MDc1LTRkNGYtYjIzMC00MjMxMGZkYWQ2ODAuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.P-Hw8LGArrXswnRs3cyaYqYJKHYjKj-3zgF0Fr6MkRk){position:absolute,bottom:-100px,width:101%}
+{{imageMaskEdge1,--offset:18.5%,--rotation:0
+  ![daido](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/77994871-b0ec-4e58-9593-7f996138184e/deccjod-70da74a1-8075-4d4f-b230-42310fdad680.jpg/v1/fill/w_1219,h_656,q_70,strp/shinto_shrine_by_sanyulmi_deccjod-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAzMyIsInBhdGgiOiJcL2ZcLzc3OTk0ODcxLWIwZWMtNGU1OC05NTkzLTdmOTk2MTM4MTg0ZVwvZGVjY2pvZC03MGRhNzRhMS04MDc1LTRkNGYtYjIzMC00MjMxMGZkYWQ2ODAuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.P-Hw8LGArrXswnRs3cyaYqYJKHYjKj-3zgF0Fr6MkRk){position:absolute,bottom:-1px,width:101%}
 }}
 
-{{position:absolute,top:800px,left:360px,margin-bottom:-30px
+{{position:absolute,top:680px,left:360px,margin-bottom:-30px
 
 ##### A Daido shrine
 
@@ -3372,7 +3372,7 @@ At a shrine the responsibility of maintenance and of hosting ceremonies falls on
 
 \column
 
-### Swordsmith - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Swordsmith ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 **Ability Scores:**    :: Strength, Wisdom, Intelligence
 **Feat:**              :: Crafter
@@ -3382,9 +3382,9 @@ At a shrine the responsibility of maintenance and of hosting ceremonies falls on
 
 :
 
-Text - TODO
+For war to continue raging clans need armies, armies need soldiers, and soldiers need swords. You have been trained in the skill of forging blades of steel, elegant yet dangerous weapons. Perhaps you have decided to leave the forging of weapons behind to pick up one of your own, or maybe you seek forgiveness for creating the tools to take life.
 
-### Theatre Performer - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:258px,left:400px,width:375px,mix-blend-mode:normal}
+### Theatre Performer - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:384px,left:400px,width:375px,mix-blend-mode:normal}
 
 **Ability Scores:**    :: Dexterity, Wisdom, Charisma
 **Feat:**              :: Actor Updated
@@ -3394,7 +3394,7 @@ Text - TODO
 
 :
 
-Text - TODO
+You have been trained in one of Sumiriku's theatre traditions, a historic yet ever-changing art form. Noh, Kabuki, Bunraku, or Yose; whatever your chosen style of performance, you know how to entertain, educate, and enlighten an audience.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -3425,7 +3425,7 @@ Text - TODO
 
 :
 
-Text - TODO
+The Koware Jidai has caused clans and governments to be preoccupied, leaving an opening for those who seek to avoid the eye of the law. As a Yakuza you are part of a large criminal organisation, who aim to use the turmoil of the war for their own profit-seeking ends. Perhaps you intend to rise the ranks of your organisation and gain notoriety in the criminal world, or perhaps you merely are looking for a chance to rebel or to make some quick coin gambling.
 
 :
 
@@ -3451,7 +3451,7 @@ Hanafuda (花札, 'Flower Cards') are a type of playing cards used for a variety
 
 :
 
-Text - TODO
+Many in this world believe that strength is forged in the fires of adversity. As a Yamabushi you tread across Sumiriku's perilous mountain ranges in pilgrimage, seeking supernatural power for overcoming the mental and physical challenge of your hikes. You trust that in conquering the mountain you will also conquer oneself, and in doing so be reborn in spiritual wholeness.
 
 :
 
