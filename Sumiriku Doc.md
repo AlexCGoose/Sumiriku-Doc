@@ -3520,6 +3520,16 @@ Weapon Masteries are new to 2024 D&D, which add additional features to weapons f
 
 }}
 
+<!-- TODO - UPDATE TO FOLLOWING AFTER CHANGE
+
+##### Note: Weapon Properties and Masteries
+
+New weapon properties are explained on the next page. Some of the other weapon properties have been updated, which are explained in Appendix D.
+
+Weapon Masteries are new to 2024 D&D, which add additional features to weapons for some classes. If you play a class with access to Weapon Masteries, each weapon has an associated mastery. Adjusted Masteries and one new Mastery can be found in Appendix D.
+
+-->
+
 {{#weapon-table,wide
 
 ##### Simple Weapons: Melee
@@ -4985,7 +4995,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 }}
 
 {{imageMaskCorner15,--offsetX:45%,--offsetY:-50%,--rotation:0
-  ![raccoon-dog-2](https://i.imgur.com/LU0lIu4.jpg){position:absolute,bottom:-10px,right:-100px,width:75%,mix-blend-mode:multiply,transform:scaleX(1)}
+  ![raccoon-dog-2](https://i.imgur.com/LU0lIu4.jpg){position:absolute,bottom:-12px,right:-100px,width:75%,mix-blend-mode:multiply,transform:scaleX(1)}
 }}
 
 {{pageNumber,auto}}
@@ -7788,7 +7798,7 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 \page
 
 {{text-align:center
-![naginata](https://www.martialartswords.com/cdn/shop/articles/Samurai_wearing_kusari_katabira__chain_armor_22.jpg?v=1516103015){position:absolute,bottom:620px,left:20px,width:360px}
+![naginata](https://www.martialartswords.com/cdn/shop/articles/Samurai_wearing_kusari_katabira__chain_armor_22.jpg?v=1516103015){position:absolute,bottom:620px,left:25px,width:360px}
 }}
 
 {{position:absolute,bottom:620px,left:160px,margin-bottom:-20px,text-align:left
@@ -7798,7 +7808,7 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 }}
 
 {{text-align:center
-![nunchaku](https://upload.wikimedia.org/wikipedia/commons/7/7c/Nunchaku.JPG){position:absolute,bottom:405px,left:20px,width:360px}
+![nunchaku](https://upload.wikimedia.org/wikipedia/commons/7/7c/Nunchaku.JPG){position:absolute,bottom:405px,left:25px,width:360px}
 }}
 
 {{position:absolute,bottom:405px,left:160px,margin-bottom:-20px,text-align:left
@@ -7808,7 +7818,7 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 }}
 
 {{text-align:center
-![odachi](https://upload.wikimedia.org/wikipedia/commons/3/36/Nodachi.jpg){position:absolute,bottom:105px,left:20px,width:360px}
+![odachi](https://upload.wikimedia.org/wikipedia/commons/3/36/Nodachi.jpg){position:absolute,bottom:105px,left:25px,width:360px}
 }}
 
 {{position:absolute,bottom:105px,left:180px,margin-bottom:-20px,text-align:left
