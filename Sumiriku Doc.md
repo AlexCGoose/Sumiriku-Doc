@@ -1745,7 +1745,7 @@ Intelligence, Wisdom, or Charisma is your Spellcasting Ability for these spells 
 
 ![bunagaya](https://i.imgur.com/a1qOUbm.png) {position:absolute,top:20px,left:200px,width:300px,mix-blend-mode:normal}
 
-:::::::::::::::::::::
+::::::::::::::::::::
 
 ## ぶながや - Bunagaya (Halfling) - TODO
 
@@ -1757,9 +1757,9 @@ There's a common Sumirikugo saying that goes "When playing cards, the shark at t
 
 \column
 
-:::::::::::::::::::::
+::::::::::::::::::::
 
-### Bunagaya Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:366px,left:400px,width:375px,mix-blend-mode:normal}
+### Bunagaya Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:352px,left:400px,width:375px,mix-blend-mode:normal}
 
 **Creature Type:** :: Humanoid
 **Size:**          :: Small (About 3 feet tall)
@@ -1801,7 +1801,7 @@ Refer to the Appendix D for updated rules on Nets, an Adventuring Gear rather th
 
 ![korpokkur](https://i.imgur.com/H1Pu2fU.png) {position:absolute,top:10px,left:250px,width:250px,mix-blend-mode:normal}
 
-:::::::::::::::::::::
+::::::::::::::::::::
 
 ## ころぽっくる - Korpokkur (Dwarf) - TODO
 
@@ -1809,9 +1809,9 @@ Text - TODO
 
 \column
 
-:::::::::::::::::::::
+::::::::::::::::::::
 
-### Korpokkur Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:367px,left:400px,width:375px,mix-blend-mode:normal}
+### Korpokkur Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:352px,left:400px,width:375px,mix-blend-mode:normal}
 
 **Creature Type:** :: Humanoid
 **Size:**          :: Small (about 2-4 feet tall)
@@ -3194,7 +3194,7 @@ A Ono is a hand axe used for carpentry, but is useful in a pinch as a weapon. Se
 
 :
 
-Some believe that the best way to win a war is not with armies but with negotiators. You have risen the ranks, either through talent or through birthright, to be of political influence, making deals and alliances to secure a future for your clan.
+Some believe that the best way to win a war is not with armies but with negotiators. You have risen through the ranks, either through talent or through birthright, to be of political influence, making deals and alliances to secure a future for your clan.
 
 \column
 
@@ -3382,7 +3382,7 @@ At a shrine the responsibility of maintenance and of hosting ceremonies falls on
 
 :
 
-For war to continue raging clans need armies, armies need soldiers, and soldiers need swords. You have been trained in the skill of forging blades of steel, elegant yet dangerous weapons. Perhaps you have decided to leave the forging of weapons behind to pick up one of your own, or maybe you seek forgiveness for creating the tools to take life.
+For war to continue raging clans need armies, armies need soldiers, and soldiers need swords. You have been trained in the skill of forging blades of steel, elegant yet dangerous weapons. Perhaps you have decided to leave the forging of weapons behind to take up one of your own, or maybe you seek forgiveness for creating the tools to take life.
 
 ### Theatre Performer ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:384px,left:400px,width:375px,mix-blend-mode:normal}
 
@@ -7801,7 +7801,7 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 ![naginata](https://www.martialartswords.com/cdn/shop/articles/Samurai_wearing_kusari_katabira__chain_armor_22.jpg?v=1516103015){position:absolute,bottom:620px,left:25px,width:360px}
 }}
 
-{{position:absolute,bottom:620px,left:160px,margin-bottom:-20px,text-align:left
+{{position:absolute,bottom:620px,left:170px,margin-bottom:-20px,text-align:left
 
 ##### Naginata
 
@@ -7811,7 +7811,7 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 ![nunchaku](https://upload.wikimedia.org/wikipedia/commons/7/7c/Nunchaku.JPG){position:absolute,bottom:405px,left:25px,width:360px}
 }}
 
-{{position:absolute,bottom:405px,left:160px,margin-bottom:-20px,text-align:left
+{{position:absolute,bottom:405px,left:165px,margin-bottom:-20px,text-align:left
 
 ##### Nunchaku
 
