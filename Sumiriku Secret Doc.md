@@ -60,19 +60,24 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
   - ###### [{{ Allies, Monsters, and Villains}}{{ 10}}](#p11)
   
     - [{{ Allies}}{{ 10}}](#p11)
-      - [{{ Masuzō}}{{ 11}}](#p12)
+      - [{{ Masuzō}}{{ 10}}](#p11)
       - [{{ Makoto}}{{ 12}}](#p13)
-    - [{{ The Hyakushima Bandits}}{{ 13}}](#p14)
-    - [{{ Hoki Castle}}{{ 14}}](#p15)
-      - [{{ Hatsumomo}}{{ 15}}](#p16)
-      - [{{ Daimyō Hidemaro}}{{ 16}}](#p17)
-    - [{{ Genji and Okamoto}}{{ 17}}](#p18)
+      - [{{ Atsuki}}{{ 13}}](#p14)
+    - [{{ The Hyakushima Bandits}}{{ 15}}](#p16)
+    - [{{ Hoki Castle}}{{ 16}}](#p17)
+      - [{{ Hatsumomo}}{{ 17}}](#p18)
+      - [{{ Daimyō Hidemaro}}{{ 18}}](#p19)
+    - [{{ Genji and Okamoto}}{{ 19}}](#p20)
+    - [{{ Godaiyō}}{{ 21}}](#p22)
+      - [{{ Raiju}}{{ 21}}](#p22)
 
-- ### [{{ PART 2 - The Living Lore}}{{ 19}}](#p20) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:610px,left:55px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 2 - The Living Lore}}{{ 23}}](#p24) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:656px,left:55px,width:245px,mix-blend-mode:normal}
 
-  - ###### [{{ Letters and Documents}}{{ 21}}](#p22)
+  - ###### [{{ Letters and Documents}}{{ 24}}](#p25)
   
-    - [{{ Sensei Kenzo’s Letter to the Students}}{{ 21}}](#p22)
+    - [{{ Sensei Kenzo’s Letter to the Students}}{{ 24}}](#p25)
+    - [{{ The Usagi’s Letter to Jun}}{{ 24}}](#p25)
+    - [{{ Haiku of the Fading Mire}}{{ 25}}](#p26)
 
 }}
 
@@ -199,7 +204,7 @@ This feather can instead be used to return the recently deceased back to life. W
 *Prosthetic (Arm), Very Rare, Major (Requires Attunement)* </br>
 This highly advanced prosthetic, created by esteemed craftsperson Rumiko, combines stone, rope, steel, and bone into a form that mimics a normal arm. A combination of engineering and magic allows the wielder to command the prosthetic as they would their missing arm, though they receive no sensation from it and the precision they can get is never quite the same. The magic incorporated into the prosthetic is confounding; the mechanics of the limb are mundane but the embed magic is required to control it. Specially for the new owner, the tips of the fingers have been filed down into small claws.
 
-Despite the impressive feat of engineering, a device as complex as this is likely to encounter issues. You can use this prosthetic as a regular arm, able to perform all actions that you would normally. Whenever you attempt a d20 test requiring use of this prosthetic, such as lifting a heavy object or making an Attack Roll, and you roll a 1 you fail the action and the prosthetic jams, and is unusable until it is fixed. You also must attempt a d20 test to see if the prosthetic jams if you attempt an action with your prosthetic that does not require a d20 test, such as casting a spell with Somatic components. While your prosthetic is jammed you can use your Action to make a DC 15 Dexterity (Sleight of Hand) check to fix the arm. You can add proficiency to this roll if you have proficiency with Carpenter's tools, Tinker's tools, or Thieves' tools and you use them to help fix the arm. Another creature can also attempt this fix as an action. If this check is failed, the arm is broken and will need repairs.
+Despite the impressive feat of engineering, a device as complex as this is likely to encounter issues. You can use this prosthetic as a regular arm, able to perform all actions that you would normally. Whenever you attempt a D20 test requiring use of this prosthetic, such as lifting a heavy object or making an Attack Roll, and you roll a 1 you fail the action and the prosthetic jams, and is unusable until it is fixed. You also must attempt a D20 test to see if the prosthetic jams if you attempt an action with your prosthetic that does not require a D20 test, such as casting a spell with Somatic components. While your prosthetic is jammed you can use your Action to make a DC 15 Dexterity (Sleight of Hand) check to fix the arm. You can add proficiency to this roll if you have proficiency with Carpenter's tools, Tinker's tools, or Thieves' tools and you use them to help fix the arm. Another creature can also attempt this fix as an action. If this check is failed, the arm is broken and will need repairs.
 
 You can repair the arm over a Short or Long Rest. You can attempt the same check once per rest, this time at DC 10, to repair an arm or to remove a jam. If you have proficiency with Carpenter's tools, Tinker's tools, or Thieves' tools and use them in the repairs you succeed without needing to make a check.
 
@@ -449,7 +454,7 @@ Text about Makoto
 }}
 
 **Senses**               :: passive Perception 13
-**CR**                   :: 2 (XP 2,300; PB +3; Level 6)
+**CR**                   :: 3 (XP 700; PB +3; Level 6)
 
 }}
 
@@ -528,6 +533,101 @@ Text about Makoto
 ***Slash.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (1d8 + 5) Slashing damage. **Cross.** If Kentaro hits with this attack, she can move to the opposite side of the creature hit without expending movement and without provoking Opportunity Attacks. This feature can be used only once on her turn.
 
 }}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
+### Atsuki
+
+Text about Atsuki
+
+\column
+
+{{monster,frame
+
+## Atsuki of the Crescent Guard
+
+*Medium Humanoid (Tsukibito), True Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 17 (Improved Medium Armour)
+\column
+**HP**         :: 45 (6d10 + 12)
+**Initiative** :: +3 (13)
+**Speed**      :: 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 10|  +0  |  +3  |
+|Int| 16|  +3  |  +3  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 16|  +3  |  +3  |
+|Wis| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +2  |  +5  |
+|Cha| 10|  +0  |  +0  |
+
+}}
+
+**Skills**               :: Acrobatics +6, Arcana +6, Athletics +3, History +6, Investigation +6, Persuasion +3,
+**Senses**               :: passive Perception 10
+**CR**                   :: 3 (XP 700; PB +3; Level 6)
+
+}}
+
+### Traits
+
+***Moon's Blessing.*** Atsuki floats above the ground while moving, ignoring ground-based Difficult Terrain.
+:
+***Psionics (6/Day).*** Atsuki's psionic dice are 1d8, which they must use to activate their psionic abilities. Each psionic ability can be used once per day without expending a die. ☐☐☐☐☐☐
+:
+***Psionic Strike (1/Turn).*** When Atsuki hits with a weapon attack, they can choose to deal an additional 7 (1d8 + 3) Force damage. ☐
+
+### Actions
+
+***Multiattack.*** Atsuki makes two Moonflare Blade attacks.
+:
+***Moonflare Blade.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 3) Force damage. **Cross.** If Atsuki hits with this attack, she can move to the opposite side of the creature hit without expending movement and without provoking Opportunity Attacks. This feature can be used only once on their turn.
+:
+***Psionic Repositioning.*** Atsuki telekinetically moves a Large or smaller object (or willing ally) within 30 feet of them up to 30 feet to an unoccupied space it can see. They can also move an unsecured Tiny object or an unsecured simple or martial weapon to or from their hand. ☐
+
+### Bonus Actions
+
+***Patient Stance.*** Atsuki enters the patient stance. While in this stance, Atsuki's Reaction attacks deal an addtional 4 (1d8) damage. This stance ends after Atsuki attacks.
+:
+***Second Wind (1/Day).*** Atsuki regains 11 (1d10 + 6) hit points and can move up to half their speed without provoking opportunity attacks.
+
+### Reactions
+
+***Psionic Field.*** *Trigger:* Atsuki (or an ally it can see within 30 feet) takes damage. *Response:* Atsuki reduces the damage by 7 (1d8 + 3). ☐
+:
+***Slowfall.*** *Trigger:* Atsuki is falling. *Response:* Their rate of descent is reduced to 60 feet per round  for 1 minute. Atsuki takes no fall damage if they land while falling at this rate.
+:
+***Quick Slash.*** *Trigger:* A creature within 10 feet of Atsuki attempts an Attack Roll. *Response:* Atsuki can move up to 5 feet before making a Moonflare Blade attack against the triggering creature at Advantage.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
@@ -1221,6 +1321,103 @@ Text about them
 
 \page
 
+## Godaiyō
+
+### Raijū
+
+{{monster,frame,wide
+
+## Raijū, Raging Bolt
+
+*Huge Godaiyō (Air), Chaotic Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 16 (Natural Armour)
+**HP**         :: 156 (15d12 + 60)
+\column
+**Speed**      :: 50 ft., Fly 50 ft. (hover)
+**Initiative** :: +4 (14)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 21|  +5  |  +5  |
+|Int| 3 | --4  | --4  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 18|  +4  |  +4  |
+|Wis| 18|  +4  |  +4  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16|  +3  |  +3  |
+|Cha| 7 | --2  | --2  |
+
+}}
+
+**Skills**               :: Acrobatics +8, Perception +8, Stealth +8
+**Damage Resistances**   :: Cold, Poison, Thunder
+**Damage Immunities**    :: Lightning
+**Condition Immunities** :: Dazed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Restrained
+**Senses**               :: Darkvision 60 ft., Passive Perception 18
+**Languages**            :: Ryūgo
+**CR**                   :: 10 (XP 5000; PB +4)
+
+}}
+
+### Traits
+
+***Keen Hearing and Smell.*** The Raijū has Advantage on Wisdom (Perception) checks that rely on hearing or smell.
+:
+***Legendary Resistance (1/Day).*** If the Raijū fails a saving throw, they can choose to succeed instead. Once their Legendary Resistance feature is used, they lose access to their Static Charge feature.
+:
+***Spark Path.*** The Raijū leaves behind streaks of lightning as they move, which are 5 foot wide, shed dim light in a 20-foot radius, and last until the start of their next turn. When this path first appears in a creature's space or a creature enters the path or ends their turn there, they must succeed on a DC 16 Dexterity Saving Throw or take 7 (2d6) Lightning damage.
+:
+***Static Charge.*** The Raijū's attacks and abilities can charge creatures with static electricity. When a charged creature takes Lightning damage, another charged creature within 15 feet of the first also takes 7 (2d6) Lightning damage.
+
+### Actions
+
+***Multiattack.*** The Raijū makes three Lightning Claws attacks. They can replace one of these with a use of Tail Bolt.
+:
+***Lightning Claws.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:*  12 (2d6 + 5) Slashing damage plus 7 (2d6) Lightning damage, and the target must succeed on a DC 16 Constitution Saving Throw or become charged.
+:
+***Tail Bolt.*** *Dexterity Saving Throw:* DC 16, each creature within 5 feet of a point within 60 feet. *Failure:* 21 (6d6) Lightning damage, and the target is Dazed and is charged. *Success:* Half damage, and the target is not Dazed or is charged.
+:
+***Volt Vortex (Recharge 5-6).*** The Raijū spins wildling, kicking up a swirling storm. *Dexterity Saving Throw:* DC 17, all creatures within 10 feet of Raijū. *Failure:* 14 (4d6) Slashing damage and 14 (4d6) Lightning damage. *Success:* Half damage. A 15 foot radius storm centered on the Raijū is created which lasts for 1 minute. The area of the storm is Heavily Obscured to any creatures outside of the storm, and any creature that ends their turn inside the storm takes 7 (2d6) Slashing damage and 7 (2d6) Lightning damage.
+
+### Reactions
+
+The Raijū can take up to two Reactions per round but only one per turn.
+:
+***Galvanic Return.*** *Trigger:* The Raijū takes damage from a Melee Attack. *Response---Constitution Saving Throw:* DC 16, the target who triggered the reaction. *Failure:* The target becomes charged if they are not already, or if they are they take 7 (2d6) Lightning damage.
+:
+***Bolt Dash.*** *Trigger:* The Raijū takes damage from a Ranged Attack. *Response:* The Raijū dashes up to 50 feet towards the creature that triggered the reaction without provoking Opportunity Attacks.
+:
+***Abosrb Energy.*** *Trigger:* A creature the Raijū sees ends their turn. *Response---Constitution Saving Throw:* DC 16, each charged creature within 120 feet. *Failure:* 7 (2d6) Lightning damage, the Raijū is healed for that amount, and the target loses charge. *Success:* The target loses charge.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
 {{partCover}}
 
 # PART 2
@@ -1258,7 +1455,21 @@ Haruto Kenzo."
 
 \column
 
-{{#default-table,classTable,frame
+#### The Usagi's Letter to Jun
+
+Hello Juni-chan! The elder helped us pass on this letter to you, so we hope it finds you very well. We've been told of all the amazing things you've been up to; it sounds like you've had quite an incredible journey so far! Apparently you've grown your third tail just a few weeks ago, which is just so wonderful. To think that when you left you were just our sweet little baby. And we've been told that you've made some new friends, which is great news - Dad thought that you would stick by yourself the whole trip, but I knew that you'd meet so many amazing new people to adventure with. You better promise that when you get back you'll tell us all the stories of what you've been up to, okay?
+
+We've been very well at home, we hope you haven't been worrying about us too much while you've been traveling. I'm sure you've had enough to be worrying about as is. I've been helping Dad tend to his garden as much as he lets me; we've got lots of beautiful spider lilies growing but our hydrangeas never want to live very long, but we keep on trying anyway. The house has been a bit quieter without all your enthusiasm and energy, but we've been sure to keep busy. We'll make sure the home is extra nice for when you get back, and maybe we'll have some stories to tell you.
+
+The seers informed many of us villagers that war is picking up again, particularly in Sesujishima. Apparently there's been some inter clan conflict that's getting everyone riled up. Please be sensible and stay safe, for us? Both Dad and I are incredibly proud of you, no matter what. You've been so brave to go on this journey so far from home. We've been putting in our prayers for you, but we know that it'll all work out. We'll always be here for you if you need us, and please know that there's never any shame in needing our help.
+
+We can't wait to see you again.
+
+Lots of love,
+
+Mum and Dad Usagi."
+
+<!-- {{#default-table,classTable,frame
 
 ##### Moonfolk Lineage
 
@@ -1268,7 +1479,39 @@ Haruto Kenzo."
 | Moritami | 1 | 2 |
 | Maigomin | 1 | 2 |
 
-}}
+}} -->
+
+{{pageNumber,auto}}
+{{footnote PART 2 | THE LIVING LORE}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
+#### Haiku of the Fading Mire
+
+Grief is a sixth sense,\
+Never heard nor touched nor seen,\
+But felt in spirit.
+:
+We will all feel loss.\
+To become tethered to life,\
+We must know our grief.
+:
+Sorrow is deceit,\
+Eating away weakened minds.\
+Nothing will remain.
+:
+Be blind to sorrow,\
+Let it not lead you astray.\
+A hand will guide you.
+
+{{pageNumber,auto}}
+{{footnote PART 2 | THE LIVING LORE}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
 
 {{pageNumber,auto}}
 {{footnote PART 2 | THE LIVING LORE}}

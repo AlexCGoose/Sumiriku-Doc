@@ -790,25 +790,21 @@ The Blood War began the moment the Oni shattered the barrier between realms. No 
 
 There are many stories to tell about the survivors of this horrific moment, but I shall recount just one. At this time there was Kitsune woman named Tomomi, a mother who lived in Ochinodojima, near Heain-kyō.
 
-During this time of great need, the desperation of the people was taken notice by the world's progenitors, the Ō-Hoshikuzushin
+<!-- During this time of great need, the desperation of the people was taken notice by the world's progenitors, the Ō-Hoshikuzushin
+
+It took the combined might of Sumiriku's peoples, Kami, and Myōjin, along with the power of their Relics of Kumonoue, to force back the Oni on all fronts. This defence was led by Netsu-sama, who was able to cut down legions by himself, with his sacred blade Hakō. Once the force of the Oni had been sufficiently diminished the Myōjin were able to combine their divine power to seal them back within Makoku, ending the war for good. Thus is the tale of the Blood War. -->
+
+{{attribution *The History of Sumiriku*}}
 
 }}
 
 \column
-
-{{#quotation,quote
-
-It took the combined might of Sumiriku's peoples, Kami, and Myōjin, along with the power of their Relics of Kumonoue, to force back the Oni on all fronts. This defence was led by Netsu-sama, who was able to cut down legions by himself, with his sacred blade Hakō. Once the force of the Oni had been sufficiently diminished the Myōjin were able to combine their divine power to seal them back within Makoku, ending the war for good. Thus is the tale of the Blood War.
-
-{{attribution *The History of Sumiriku*}}
 
 <!-- TODO - MAKE A SPOKEN HISTORY - MAYBE TO A SCHOOL/GROUP OF CHILDREN -->
 
 <!-- TODO - THE ONI ALREADY FEARED THE SUNS - THEY BLOTTED OUT THE SUN FROM THE SKY - CAUSED ONE LONG NIGHT -->
 
 <!-- , and with a bloodlust unlike any other -->
-
-}}
 
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
@@ -2981,7 +2977,7 @@ Your dancing prowess impresses and protects. While you aren't wearing Armour or 
 
 #### Level 3: Flowing Movement
 
-You can step gracefully through ballroom and battlefield. You can move through spaces occupied by any hostile creature, regardless of its size. When you reach Rogue level 6, you also are unaffected by the reduction to movement from being in a hostile creature's space.
+You can step gracefully through ballroom and battlefield. You can move through spaces occupied by any hostile creature, regardless of its size, and you are also unaffected by the reduction to movement from being in a hostile creature's space.
 
 On your turn, if you travel through the space of a hostile creature you can use Sneak Attack against that creature without needing Advantage on the attack.
 
@@ -3814,7 +3810,7 @@ It is a common sight, though often an unnerving one, to see units of Samurai mov
 
 In recent developments in Sumiriku, warriors have moved away from using shields in favour of using heavier and more protective armour. Samurai require protection from all angles from arrows, and more recently from bullets, and also prefer to have access to two-handed weapons while on the battlefield. This preference has led to great development in armour that is fully protective yet also flexible, whereas the shield has become an antiquated tool.
 
-This preference for full armour is shown mechanically; Medium and Heavy Armours each have and extra **+1** to Armour Class, but in exchange Wooden Shield has **-1** to Armour Class and all classes but Cleric and Druid lack the required proficiency.
+This preference for full armour is shown mechanically; Medium and Heavy Armours each have an extra **+1** to Armour Class, but in exchange Wooden Shield has **-1** to Armour Class and all classes but Cleric and Druid lack the required proficiency.
 
 \column
 
@@ -4072,7 +4068,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 ***Ability Score Increase.*** Increase your Dexterity or Constitution score by 1, to a maximum of 20.
 
-***Detonate.*** When you take the Disengage action, instead of creating a cloud of black smoke, you can choose to set off a localised explosion. Everyone within a 10-foot radius centred on you, including yourself, must make a DC 15 Dexterity Saving Throw, taking 4d6 Fire damage on a failed save and half that on a successful save. You can only use this feature once per turn.
+***Detonate.*** When you take the Disengage action, instead of creating a cloud of black smoke, you can choose to set off a localised explosion. Everyone within a 10-foot radius centred on you, including yourself, must succeed on a DC 15 Dexterity Saving Throw, taking 4d6 Fire damage on a failed save and half that on a successful save. You can only use this feature once per turn.
 
 ***Blast Off.*** You have discovered that your explosiveness makes for effective transportation. As a Bonus Action on your turn you can launch yourself, flying up to 40 feet in a straight line before falling. This movement does not provoke Opportunity Attacks and does not use your Speed. You can choose to angle your takeoff upwards to avoid obstacles, letting you land anywhere on the ground within 40 feet of you. If you collide with a creature when moving in a straight line, the creature takes 4d6 Bludgeoning damage. If you launch yourself upwards, or you collide with a wall or another solid surface, you take 4d6 Bludgeoning damage on impact. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
@@ -4364,7 +4360,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 ***Ability Score Increase.*** Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
-***Patient Stance.*** If you are wielding a Katana and nothing else, you can use your Bonus Action to sheathe it and enter a Patient Stance, with one hand on the scabbard and another on the grip. While in this Stance, your Reaction attacks deal an additional 1d8 Slashing damage, as you unsheathe your Katana and attack in one fluid motion. This Stance ends if you take the Attack action, use the Magic action, let go of your Katana, or take the Dash action. You can also choose to start combat in this Stance, provided your Katana is not already drawn.
+***Patient Stance.*** If you are wielding a Katana and nothing else, you can use your Bonus Action to sheathe it and enter a Patient Stance, with one hand on the scabbard and another on the grip. While in this Stance, your Reaction attacks deal an additional 1d8 Slashing damage, as you unsheathe your Katana and attack in one fluid motion. This Stance ends if you make an attack, use the Magic action, let go of your Katana, or take the Dash action. You can also choose to start combat in this Stance, provided your Katana is not already drawn.
 
 ***Quick Slash.*** While in your Patient Stance, as a Reaction to a creature you can see within 10 feet of you attempting to make an Attack Roll, you can attempt to make a Quick Slash against the target, moving up to 5 feet towards them and making an Attack with your Katana at Advantage.
 

@@ -867,7 +867,7 @@ The following is a list of feats that have been updated from their original vers
 
 ***Battle Medic.*** If you have a Healer's Kit, you can expend one use of it and tend to a creature within 5 feet of you as an Action. That creature can expend one its Hit Die, and you then roll that die. The creature regains a number of Hit Points equal to the roll plus your Proficiency Bonus.
 
-***Healing Rerolls.*** Whenever you roll a die to determine the number of Hit Points you restore with a spell of with this feat's Battle Medic benefit, you can reroll the die if it rolls a 1, and you must use the new roll.
+***Healing Rerolls.*** Whenever you roll a die to determine the number of Hit Points you restore with a spell or with this feat's Battle Medic benefit, you can reroll the die if it rolls a 1, and you must use the new roll.
 
 ::
 
