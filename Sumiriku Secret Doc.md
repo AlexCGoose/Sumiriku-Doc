@@ -46,7 +46,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
       - [{{ Kyōsei Claw}}{{ 5}}](#p6)
       - [{{ Prayer Beads to the Myōjin}}{{ 5}}](#p6)
       - [{{ Red Feather?}}{{ 5}}](#p6)
-      - [{{ Shinobi Prosthetic Parts}}{{ 6}}](#p7)
+      - [{{ Prostheses}}{{ 6}}](#p7)
         - [{{ Shinobi Prosthetic}}{{ 6}}](#p7)
         - [{{ Shuko Claws}}{{ 6}}](#p7)
     - [{{ Unique Items}}{{ 7}}](#p8)
@@ -197,7 +197,7 @@ This feather can instead be used to return the recently deceased back to life. W
 
 {{wide,#bigger-column-right
 
-### The Shinobi Prosthetic
+### Prostheses
 
 #### Shinobi Prosthetic
 
@@ -216,6 +216,8 @@ Your prosthetic has space for an attachment under the bone. You can manually swa
 This attachment grants you hidden hooked blades, designed after the claws of the Nekotaiyō to help climb perilous heights. As a Bonus Action you can extend or retract these claws. While extended, you gain a Climb Speed equal to half of your Speed. In addition, you can use these claws to make Unarmed Strikes, which deal 1d4 + your Strength Modifier Slashing damage, instead of the Bludgeoning damage normal for an Unarmed Strike, and you can reduce the target's Speed 10 feet until the start of your next turn. This ability can only be used once per creature per round.
 
 }}
+
+![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:61px,left:325px,width:460px,mix-blend-mode:normal}
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}

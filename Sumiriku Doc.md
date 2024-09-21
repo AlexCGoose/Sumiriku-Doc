@@ -750,7 +750,7 @@ Before the end of the Kaika Jidai, Yōzanagi-sama and Inzanami-sama decided that
 
 #### The Starlight Regalia
 
-During this era treasures were gifted to the world, treasures that would go on to be known as two parts of the Starlight Regalia. These are the most important of Sumiriku's treasures, and the only known earthly connection to the starlight realm of Hoshikuzuten; these treasures were directly sent by the Ō-Hoshikuzushin to protect the world in moments of calamity. Upcoming are stories of these items, and the people who were granted their blessing.
+During this era treasures were gifted to the world, treasures that would go on to be known as two parts of the Starlight Regalia. These are the most important of Sumiriku's treasures, and the only known earthly connection to the starlight realm of Hoshikuzuten; these treasures were directly sent by the Ō-Hoshikuzushin to protect the world in moments of calamity. Upcoming are stories of these items, the virtues they represent, and the people who were granted their blessing.
 
 <!-- Starlight Regalia Blade, Kūshokiri (空所切, 'Void Cutter')
 - Starlight Regalia Mirror, Tasogare-no-Kagami (黄昏の鏡, 'Mirror of Twilight')
@@ -763,7 +763,7 @@ During this era treasures were gifted to the world, treasures that would go on t
 
 \page
 
-#### The Tale of the Blood War - TODO
+#### The Tale of the Blood War
 
 <!-- {{comment18,signature,bottom:910px,left:60px
 
@@ -778,7 +778,7 @@ During this era treasures were gifted to the world, treasures that would go on t
 
 :::::::: -->
 
-The following is a passage from "The History of Kamigawa", a collection of tales collated by the Living Lorekeepers:
+The following is a passage from "The History of Kamigawa", a set of tales recorded and collated by the Living Lorekeepers:
 
 {{quote
 
@@ -788,17 +788,29 @@ On one fateful day the the greatest of these dangers revealed themselves - the O
 
 The Blood War began the moment the Oni shattered the barrier between realms. No longer were we safe, safely separated from danger; the Oni were here, and they were coming. Using their dark magic they blotted out the sky, protecting them from the radiance of the twin suns and forcing the world into endless night. Their aim was to feast on spirits, to gorge themselves on our and the Kami's lifeblood alike. The Oni came as a chaotic swarm, but quickly organised; lesser Oni started to follow the leadership of commanders and lords, such as the fearsome Daimyō Asudeu (アスデウ).
 
-There are many stories to tell about the survivors of this horrific moment, but I shall recount just one. At this time there was Kitsune woman named Tomomi, a mother who lived in Ochinodojima, near Heain-kyō.
+At this time there was Kitsune woman named Tomomi-sama, an oracle and mother who lived in Ochinodojima, in a place that would become the great capital, Heain-kyō. In her quaint home she alone cared for her two children, as her husband was fighting in the brutal war against the Oni. By foxfire and candlelight she tried to brighten the lives of her children and calm their fears — but the darkness could not be held back
 
-<!-- During this time of great need, the desperation of the people was taken notice by the world's progenitors, the Ō-Hoshikuzushin
+<!-- There are many stories to tell about the survivors of this horrific moment, but I shall recount just one.
+
+During this time of great need, the desperation of the people was taken notice by the world's progenitors, the Ō-Hoshikuzushin
 
 It took the combined might of Sumiriku's peoples, Kami, and Myōjin, along with the power of their Relics of Kumonoue, to force back the Oni on all fronts. This defence was led by Netsu-sama, who was able to cut down legions by himself, with his sacred blade Hakō. Once the force of the Oni had been sufficiently diminished the Myōjin were able to combine their divine power to seal them back within Makoku, ending the war for good. Thus is the tale of the Blood War. -->
-
-{{attribution *The History of Sumiriku*}}
 
 }}
 
 \column
+
+{{#quotation,quote
+
+forever. Through her scrying she saw the armies of Makoku approaching, ready to descend on her home.
+
+Tomomi-sama found the time to hide her children, to tell them bedtime stories, to sing lullabies, and to calm their nerves — she knew the Oni hunted by sensing fear. After she believed they were safe and hidden she attempted to come up with some sort of plan, but her mind only came up blank. It was at this moment that a spirit of starlight revealed itself to her, in the form of a small fox. She did not know as the time but this spirit was Ō-Seiza-Kistune, who had snuck into the world in a time of great need. Out of desperation she followed the little herald through her home, which led her to an antique heirloom mirror. Curious, she lifted up the mirror and dusted it of, causing it to begin to shine with sparkling starlight. Inside the refection of the mirror Tomomi-sama saw something she recognised as an oracle; she saw truth, the divined understanding of her past and future revealed to her. What she witnessed in the mirror was a manifestation of what she had feared most, that her husband had been lost in the Oni rampage. However she also received a premonition of hope, that the horde would be pushed back, light would return to the sky, and that somehow she would bring about this future. Seeing this she set into action.
+
+When the Oni arrived Tomomi-sama was ready to face them head on. Wielding the mirror, she forced the approaching monsters to stare into its preordaining reflection. She anticipated that this would cause the Oni to flee in terror, but what she did not expect was a ray of radiant sunlight to emit from the mirror, burning away the army where they stood. She came to understand that this mirror was a blessing from Hoshikuzuten, a unique and sacred artifact, which she named Tasogare-no-Kagami. With her wits and the gift of Tasogare-no-Kagami she was able to help push back the Oni from the land, end the endless night the world was under, and seal away the demons back in the pit they crawled out of. Thus, under the light of the Twin Suns, ends the Tale of the Blood War, and of the sagacious Tomomi-sama.
+
+{{attribution *The History of Sumiriku*}}
+
+}}
 
 <!-- TODO - MAKE A SPOKEN HISTORY - MAYBE TO A SCHOOL/GROUP OF CHILDREN -->
 
