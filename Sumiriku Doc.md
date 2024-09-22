@@ -75,7 +75,8 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
   - [{{ Akegata Jidai (Dawning Era)}}{{ 19}}](#p20)
   - [{{ Kaika Jidai (Blooming Era)}}{{ 19}}](#p20)
     - [{{ The Starlight Regalia}}{{ 19}}](#p20)
-    - [{{ The Tale of the Blood War - TODO}}{{ 20}}](#p21)
+    - [{{ The Tale of the Blood War}}{{ 20}}](#p21)
+    - [{{ The Tale of the Compassionate Princess}}{{ 21}}](#p22)
   - [{{ Assei Jidai (Tyrannical Era) - TODO}}{{ 21}}](#p22)
   - [{{ Bunretsu Jidai (Divided Era) - TODO}}{{ 21}}](#p22)
   - [{{ Tōgō Jidai (Unification Era) - TODO}}{{ 21}}](#p22)
@@ -786,15 +787,19 @@ At this time the world was still adolescent, not yet fully formed out of chaotic
 
 On one fateful day the the greatest of these dangers revealed themselves - the Oni. An Oni is an infernal beings of malevolence and destruction, horned, three-eyed, and fork-tongued. These creatures manifested from fear and anger in the realm of Makoku, to festering within the earth. Being trapped in a land without sky, unable to be blessed by the suns and the stars, caused these Oni to grow a deep resentment for our home and our parallel spiritual world. As this resentment grew, so did a desire, and so did a plan.
 
-The Blood War began the moment the Oni shattered the barrier between realms. No longer were we safe, safely separated from danger; the Oni were here, and they were coming. Using their dark magic they blotted out the sky, protecting them from the radiance of the twin suns and forcing the world into endless night. Their aim was to feast on spirits, to gorge themselves on our and the Kami's lifeblood alike. The Oni came as a chaotic swarm, but quickly organised; lesser Oni started to follow the leadership of commanders and lords, such as the fearsome Daimyō Asudeu (アスデウ).
+The Blood War began the moment the Oni shattered the barrier between realms. No longer were we safe, safely separated from danger; the Oni were here, and they were coming. Using their dark magic they blotted out the sky, protecting them from the radiance of the twin suns and forcing the world into endless night. Their aim was to feast on spirits, to gorge themselves on our and the Kami's lifeblood alike. The Oni came as a chaotic swarm, but quickly organised; lesser Oni started to follow the leadership of commanders and lords, such as the fearsome Daimyō Asudeu.
 
-At this time there was Kitsune woman named Tomomi-sama, an oracle and mother who lived in Ochinodojima, in a place that would become the great capital, Heain-kyō. In her quaint home she alone cared for her two children, as her husband was fighting in the brutal war against the Oni. By foxfire and candlelight she tried to brighten the lives of her children and calm their fears — but the darkness could not be held back
+At this time there was a Kitsune woman named Tomomi-sama, an oracle and mother who lived in Ochinodojima, in a place that would become the great capital, Heain-kyō. In her quaint home she alone cared for her two children, as her husband was fighting in the brutal war against the Oni. By foxfire and candlelight she tried to brighten the lives of her children and calm their fears — but the
 
-<!-- There are many stories to tell about the survivors of this horrific moment, but I shall recount just one.
+<!-- Asudeu - (アスデウ)
+
+There are many stories to tell about the survivors of this horrific moment, but I shall recount just one.
 
 During this time of great need, the desperation of the people was taken notice by the world's progenitors, the Ō-Hoshikuzushin
 
-It took the combined might of Sumiriku's peoples, Kami, and Myōjin, along with the power of their Relics of Kumonoue, to force back the Oni on all fronts. This defence was led by Netsu-sama, who was able to cut down legions by himself, with his sacred blade Hakō. Once the force of the Oni had been sufficiently diminished the Myōjin were able to combine their divine power to seal them back within Makoku, ending the war for good. Thus is the tale of the Blood War. -->
+It took the combined might of Sumiriku's peoples, Kami, and Myōjin, along with the power of their Relics of Kumonoue, to force back the Oni on all fronts. This defence was led by Netsu-sama, who was able to cut down legions by himself, with his sacred blade Hakō. Once the force of the Oni had been sufficiently diminished the Myōjin were able to combine their divine power to seal them back within Makoku, ending the war for good. Thus is the tale of the Blood War. 
+
+-->
 
 }}
 
@@ -802,9 +807,9 @@ It took the combined might of Sumiriku's peoples, Kami, and Myōjin, along with 
 
 {{#quotation,quote
 
-forever. Through her scrying she saw the armies of Makoku approaching, ready to descend on her home.
+darkness could not be held back forever. Through her scrying she saw the armies of Makoku approaching, ready to assault her home.
 
-Tomomi-sama found the time to hide her children, to tell them bedtime stories, to sing lullabies, and to calm their nerves — she knew the Oni hunted by sensing fear. After she believed they were safe and hidden she attempted to come up with some sort of plan, but her mind only came up blank. It was at this moment that a spirit of starlight revealed itself to her, in the form of a small fox. She did not know as the time but this spirit was Ō-Seiza-Kistune, who had snuck into the world in a time of great need. Out of desperation she followed the little herald through her home, which led her to an antique heirloom mirror. Curious, she lifted up the mirror and dusted it of, causing it to begin to shine with sparkling starlight. Inside the refection of the mirror Tomomi-sama saw something she recognised as an oracle; she saw truth, the divined understanding of her past and future revealed to her. What she witnessed in the mirror was a manifestation of what she had feared most, that her husband had been lost in the Oni rampage. However she also received a premonition of hope, that the horde would be pushed back, light would return to the sky, and that somehow she would bring about this future. Seeing this she set into action.
+Tomomi-sama found the time to hide her children, to tell them bedtime stories, to sing lullabies, and to calm their nerves — she knew the Oni hunted by sensing fear. After she believed they were safe and hidden she attempted to come up with some sort of plan, but her mind only came up blank. It was at this moment that a spirit of starlight revealed itself to her, in the form of a small fox. Out of desperation she followed the little herald through her home, which led her to an antique heirloom mirror. Curious, she lifted up the mirror and dusted it of, causing it to begin to shine with sparkling starlight. Inside the refection of the mirror Tomomi-sama saw something she recognised as an oracle; she saw truth, the divined understanding of her past and future revealed to her. What she witnessed in the mirror was a manifestation of what she had feared most, that her husband had been lost in the Oni rampage. However she also received a premonition of hope, that the horde would be pushed back, light would return to the sky, and that somehow she would bring about this future. Seeing this she set into action.
 
 When the Oni arrived Tomomi-sama was ready to face them head on. Wielding the mirror, she forced the approaching monsters to stare into its preordaining reflection. She anticipated that this would cause the Oni to flee in terror, but what she did not expect was a ray of radiant sunlight to emit from the mirror, burning away the army where they stood. She came to understand that this mirror was a blessing from Hoshikuzuten, a unique and sacred artifact, which she named Tasogare-no-Kagami. With her wits and the gift of Tasogare-no-Kagami she was able to help push back the Oni from the land, end the endless night the world was under, and seal away the demons back in the pit they crawled out of. Thus, under the light of the Twin Suns, ends the Tale of the Blood War, and of the sagacious Tomomi-sama.
 
@@ -825,11 +830,44 @@ When the Oni arrived Tomomi-sama was ready to face them head on. Wielding the mi
 
 \page
 
+#### The Tale of the Compassionate Princess
+
+{{quote
+
+In this Era, on a tropical northern island, there was an island lord who lived with his daughter, Princess Kazuko-sama. Though her father was seen as a selfish leader, Kazuko-sama was beloved by the people of her island; from an early age she was an active part of the community, seeking to lend a hand to people whenever she could. When she was just a young child she was very eager to help anyone she could find, though she lacked some of the skills she needed given her age. When she grew she kept this habit up, particularly involving herself in caring for the very young and the elderly of her island.
+
+Despite being peaceful times, a dark tide was approaching their island. The shamans, farmers, and fishers all sensed it — the world around them was breaking at the seams. The fishers noticed the fish clearing out from the sea, before finding the waves crashing into the shore getting taller and taller, getting increasingly violent. The farmers found the ground unusable, as it became beset with more and more frequent quakes. The shamans, with their naturalistic connection, felt this as an augury, an omen, that a calamity was coming.
+
+Their words of warning, of the destruction that may come to their land, soon reached the lord of the island. Though he acted as if he was greatly mournful about the news, secretly he made quick plans to flee from the island with his family. Upon learning of this Kazuko-sama was distraught; her father was so heartless to abandon his people, people who did not have the resources he did to evacuate from the coming danger, and leave them to the whims of nature. She decided to refuse her father's instructions, and chose to stay with her people until the end came. Until then she helped as many as she could, and wondered if there was a way to prevent this imminent threat. She had a feeling that whatever was causing this must be alive in some way, and so perhaps kindness could be key to her island's survival. When the time cane, when waves tall as mountains towered over the land, Kazuko-sama was waiting at the shore.
+
+}}
+
+\column
+
+{{#quotation,quote
+
+&nbsp;&nbsp;Witness to these events was the eldest starlight Kami, Ō-Seiza-Ryū. The dragon watched the destruction of the world unfurl beneath him, the shattering of islands on his perfect map. He also saw this princess' great kindness, her selflessness in the face of despair. Seeing this contrast, this light in a moment of darkness, touched at Ō-Seiza-Ryū's heart, and for the first time he shed a single tear, which fell onto the map.
+
+From where Kazuko-sama stood, she saw a shooting star descend through the sky towards her, a trail of light blue streaking through the sky behind it. Instinctually she reached out her hand, and the meteor landed gently in her palm. Upon landing, a sphere of blue energy emanated out from the meteor to protect the island, pushing back the incoming tsunami. After the light and noise had subsided, Kazuko-sama adjusted her eyes to see in her hand a magatama, a sacred jewel made from the tear of the constellation dragon. She also saw her island, unscathed from the expected disaster, and something beginning to rise out of the water.
+
+What appeared before her was a kaijū, a bestial titan awoken from its underwater slumber. Within the creature's eyes Kazuko-sama say rage, but she also saw confusion, and pain. In that moment she chose to reach out to the creature, stretching out a hand to it and singing to it a traditional tune she learned as a child. The creature, initially set on a path of destruction, became receptive to her, and the hatred in its eyes began to fade. She touched the head of the massive creature as it knelt down and blessed it, and she felt it thank her in its own way. After it turned back into the ocean, leaving their island in safety. From then Princess Kazuko-sama was the new lord of the island, and she always kept with her the magatama she was gifted that day, that became known as Ryūsei-Namida. Thus ends the tale of the Compassionate Princess.
+
+{{attribution *The History of Sumiriku*}}
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | HISTORY AND RELIGION}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+
+\page
+
 ## Assei Jidai - TODO
 
 ## (圧政時代, 'Tyrannical Era')
 
-### ~700 - 570 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:55px,width:375px,mix-blend-mode:normal}
+### ~700 - 570 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:400px,width:375px,mix-blend-mode:normal}
 
 Tamata-no-Orochi destroys Niji-no-Ukihashi and plunges the world into darkness. She is defeated by the last Myōjin, Yūkan-sama, and sealed away.
 
@@ -839,7 +877,7 @@ Tamata-no-Orochi destroys Niji-no-Ukihashi and plunges the world into darkness. 
 
 ## (分裂時代, 'Divided Era')
 
-### ~570 - 1 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:55px,width:375px,mix-blend-mode:normal}
+### ~570 - 1 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:400px,width:375px,mix-blend-mode:normal}
 
 The islands are divided into local lords after the defeat of Tamata-no-Orochi. Tokuzō-tenno collects the Starlight Regalia, defends Sumiriku from outside invaders, and becomes the first Emperor.
 
@@ -851,7 +889,7 @@ The islands are divided into local lords after the defeat of Tamata-no-Orochi. T
 
 ## 'Unification Era')
 
-### 0 - 1851 AA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:55px,width:375px,mix-blend-mode:normal}
+### 0 - 1851 AA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:400px,width:375px,mix-blend-mode:normal}
 
 :
 
@@ -859,9 +897,11 @@ TODO
 
 :
 
-#### The Tale of Otoha-tenno's Climb - TODO
+#### The Tale of the Emperor's Climb - TODO
 
 {{quote
+
+Otoha-tenno
 
 Test - TODO
 
@@ -875,7 +915,7 @@ Test - TODO
 
 ## (軍隊時代, 'Military Era')
 
-### 1852 - 2127 AA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:55px,width:375px,mix-blend-mode:normal}
+### 1852 - 2127 AA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:400px,width:375px,mix-blend-mode:normal}
 
 TODO
 
@@ -887,7 +927,7 @@ TODO
 
 ## 'Shattered States Era')
 
-### Ongoing (2128 - 2254+ AA) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:55px,width:375px,mix-blend-mode:normal}
+### Ongoing (2128 - 2254+ AA) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:400px,width:375px,mix-blend-mode:normal}
 
 TODO
 
@@ -898,6 +938,13 @@ TODO
 — Satsuki, Lorekeeper
 
 }} -->
+
+{{pageNumber,auto}}
+{{footnote PART 1 | HISTORY AND RELIGION}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
 
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}

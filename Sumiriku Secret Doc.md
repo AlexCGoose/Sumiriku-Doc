@@ -137,8 +137,7 @@ This saya, or katana scabbard, is light pink in colour, with silver detailing an
 
 #### Kabuki Mask of the Noppera-bō
 
-*Wondrous Item, Uncommon, Minor*
-
+*Wondrous Item, Uncommon, Minor* </br>
 This mask appears to be a traditional Kabuki theatre mask, depicting someone with closed eyes and small facial features, perhaps asleep or in quiet contemplation. The mask appears to have been imbued with some illusionary magic, though whether this is a blessing or a curse is unclear.
 
 When you put on the mask you can choose to cast the Disguise Self spell. The spell lasts until you take of the mask, and the DC of the Intelligence (Investigation) for discovering the illusion is 20. While wearing the mask you are unable to speak, or cast spells requiring verbal components.
@@ -237,7 +236,6 @@ Some Text
 #### Kakure-bi, the Concealed
 
 *Weapon (Tessen), Unique, Major (Requires Attunement)* </br>
-
 Sensu fans, handheld fans with intricate patterns or styles, are a common sight to see during Sumiriku's summer months. However, they do provide an additional purpose; for people among important circles, hiding behind appearance, behind etiquette, behind a fan, can be a way to hide one's true intentions.
 
 Kakure-bi (隠れ美, 'Hidden Beauty') appears to be a regular sensu fan with a beautiful pattern drawn across it, but is instead a Tessen, or war fan. You gain a +1 bonus to Attack and Damage Rolls made with this magic weapon, and this weapon also has the Finesse property. Kakure-bi contains blades hidden within the fan guard; when you Attack with this weapon while it is closed, you can change the Bludgeoning damage it deals into Piercing damage. As a Bonus Action, the fan can be flashed closed and open, revealing on it a new design and pattern of your choice; you can choose for this pattern to appear on any item of clothing you are wearing until the item is removed or the pattern is replaced. A DC 15 Investigation check is required to reveal that this is a weapon rather than a folding fan.
@@ -245,7 +243,6 @@ Kakure-bi (隠れ美, 'Hidden Beauty') appears to be a regular sensu fan with a 
 #### Kane-tsuki, Warcaller
 
 *Weapon (Kama Yari), Unique, Major (Requires Attunement)* </br>
-
 It has long been the belief of Clan Wakasa that the role of the Daimyō is to lead from the front, to go first into battle with their army behind. To them it is decisiveness, not tactics, that makes a great leader. To this end, one need only to listen for Kane-tsuki's bells to know which direction to charge.
 
 Kane-tsuki (鐘つき, 'Bell-Ringer') is a magical Kama Yari, gold-tipped and decorated with bells, that has been passed through the generations of Wakasa leaders. You gain a +1 bonus to Attack and Damage Rolls made with this magic weapon. Whenever a creature is hit by an attack with this weapon, they must succeed on a DC 15 Constitution Saving Throw or be Dazed and Deafened until the end of their next turn. Creatures immune to the Deafened Condition are immune to this effect. This ability can be used only once per turn.
