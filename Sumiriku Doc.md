@@ -77,122 +77,122 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
     - [{{ The Starlight Regalia}}{{ 19}}](#p20)
     - [{{ The Tale of the Blood War}}{{ 20}}](#p21)
     - [{{ The Tale of the Compassionate Princess}}{{ 21}}](#p22)
-  - [{{ Assei Jidai (Tyrannical Era) - TODO}}{{ 21}}](#p22)
-  - [{{ Bunretsu Jidai (Divided Era) - TODO}}{{ 21}}](#p22)
-  - [{{ Tōgō Jidai (Unification Era) - TODO}}{{ 21}}](#p22)
-    - [{{ The Tale of Otoha-tenno's Climb - TODO}}{{ 21}}](#p22)
-  - [{{ Guntai Jidai (Military Era) - TODO}}{{ 21}}](#p22)
-  - [{{ Koware Jidai (Shattered States Era) - TODO}}{{ 21}}](#p22)
+  - [{{ Assei Jidai (Tyrannical Era) - TODO}}{{ 22}}](#p23)
+  - [{{ Bunretsu Jidai (Divided Era) - TODO}}{{ 22}}](#p23)
+  - [{{ Tōgō Jidai (Unification Era) - TODO}}{{ 22}}](#p23)
+    - [{{ The Tale of Otoha-tenno's Climb - TODO}}{{ 22}}](#p23)
+  - [{{ Guntai Jidai (Military Era) - TODO}}{{ 22}}](#p23)
+  - [{{ Koware Jidai (Shattered States Era) - TODO}}{{ 22}}](#p23)
 
 }}
 
 {{toc
 
-- ### [{{ PART 2 - Character Options}}{{ 22}}](#p23) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:127px,left:285px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 2 - Character Options}}{{ 24}}](#p25) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:127px,left:285px,width:245px,mix-blend-mode:normal}
 
-- ###### [{{ Character Species}}{{ 23}}](#p24)
+- ###### [{{ Character Species}}{{ 25}}](#p26)
 
-  - [{{ Nekotaiyō (Sunfolk)}}{{ 23}}](#p24)
-  - [{{ Tsukibito (Moonfolk)}}{{ 25}}](#p26)
-  - [{{ Masaru (Macaque)}}{{ 27}}](#p28)
-  - [{{ Ōgaru (Ogre)}}{{ 28}}](#p29)
-  - [{{ Kappa (Tortle)}}{{ 30}}](#p31)
-  - [{{ Akki (Goblin)}}{{ 31}}](#p32)
-  - [{{ Tanuki (Raccoon-Dog)}}{{ 32}}](#p33)
-  - [{{ Kawauso (Otter)}}{{ 34}}](#p35)
-  - [{{ Kitsune (Fox)}}{{ 35}}](#p36)
-  - [{{ Kisuru (Crane)}}{{ 37}}](#p38)
-  - [{{ Bunagaya (Halfling) - TODO}}{{ 39}}](#p40)
-  - [{{ Korpokkur (Dwarf) - TODO}}{{ 40}}](#p41)
-  - [{{ Ryūson (Dragonborn)}}{{ 41}}](#p42)
-  - [{{ Human - TODO}}{{ 44}}](#p45)
+  - [{{ Nekotaiyō (Sunfolk)}}{{ 25}}](#p26)
+  - [{{ Tsukibito (Moonfolk)}}{{ 27}}](#p28)
+  - [{{ Masaru (Macaque)}}{{ 29}}](#p30)
+  - [{{ Ōgaru (Ogre)}}{{ 30}}](#p31)
+  - [{{ Kappa (Tortle)}}{{ 32}}](#p33)
+  - [{{ Akki (Goblin)}}{{ 33}}](#p34)
+  - [{{ Tanuki (Raccoon-Dog)}}{{ 34}}](#p35)
+  - [{{ Kawauso (Otter)}}{{ 36}}](#p37)
+  - [{{ Kitsune (Fox)}}{{ 37}}](#p38)
+  - [{{ Kisuru (Crane)}}{{ 39}}](#p41)
+  - [{{ Bunagaya (Halfling) - TODO}}{{ 41}}](#p42)
+  - [{{ Korpokkur (Dwarf) - TODO}}{{ 42}}](#p43)
+  - [{{ Ryūson (Dragonborn)}}{{ 43}}](#p44)
+  - [{{ Human - TODO}}{{ 46}}](#p47)
 
-- ###### [{{ Aberrant Forms}}{{ 45}}](#p46)
+- ###### [{{ Aberrant Forms}}{{ 47}}](#p48)
 
-  - [{{ Oni Bloodline Form}}{{ 45}}](#p46)
-  - [{{ Yūrei Manifest Form}}{{ 47}}](#p48)
-  - [{{ Noppera-bō Changeling Form}}{{ 48}}](#p49)
+  - [{{ Oni Bloodline Form}}{{ 47}}](#p48)
+  - [{{ Yūrei Manifest Form}}{{ 49}}](#p50)
+  - [{{ Noppera-bō Changeling Form}}{{ 50}}](#p51)
 
-- ###### [{{ Classes and Subclasses}}{{ 49}}](#p50)
+- ###### [{{ Classes and Subclasses}}{{ 51}}](#p52)
 
-  - [{{ Barbarian}}{{ 49}}](#p50)
-    - [{{ Path of the Kaijū - TODO}}{{ 50}}](#p51)
-  - [{{ Bard}}{{ 51}}](#p52)
-    - [{{ College of Ink - TODO}}{{ 52}}](#p53)
-  - [{{ Blood Hunter}}{{ 53}}](#p54)
-    - [{{ Order of the Shifthunters}}{{ 53}}](#p54)
-  - [{{ Cleric - TODO}}{{ 55}}](#p56)
-    - [{{ Duality Domain - TODO}}{{ 55}}](#p56)
-    - [{{ Sea Domain - TODO}}{{ 56}}](#p57)
-    - [{{ Sky Domain - TODO}}{{ 56}}](#p57)
-  - [{{ Druid - TODO}}{{ 57}}](#p58)
-    - [{{ Circle of Blossoms - TODO}}{{ 57}}](#p58)
-    - [{{ Circle of Disaster - TODO}}{{ 58}}](#p59)
-  - [{{ Fighter - TODO}}{{ 59}}](#p60)
-  - [{{ Monk - TODO}}{{ 59}}](#p60)
-    - [{{ Way of the Raging Demon - TODO}}{{ 59}}](#p60)
-  - [{{ Paladin - TODO}}{{ 59}}](#p60)
-  - [{{ Ranger - TODO}}{{ 59}}](#p60)
-  - [{{ Rogue - TODO}}{{ 60}}](#p61)
-    - [{{ Dagger Dancer Archetype}}{{ 60}}](#p61)
-  - [{{ Sorcerer - TODO}}{{ 62}}](#p63)
-  - [{{ Warlock - TODO}}{{ 62}}](#p63)
-  - [{{ Wizard - TODO}}{{ 62}}](#p63)
+  - [{{ Barbarian}}{{ 51}}](#p52)
+    - [{{ Path of the Kaijū - TODO}}{{ 52}}](#p53)
+  - [{{ Bard}}{{ 53}}](#p54)
+    - [{{ College of Ink - TODO}}{{ 54}}](#p55)
+  - [{{ Blood Hunter}}{{ 55}}](#p56)
+    - [{{ Order of the Shifthunters}}{{ 55}}](#p56)
+  - [{{ Cleric - TODO}}{{ 57}}](#p58)
+    - [{{ Duality Domain - TODO}}{{ 57}}](#p58)
+    - [{{ Sea Domain - TODO}}{{ 58}}](#p59)
+    - [{{ Sky Domain - TODO}}{{ 58}}](#p59)
+  - [{{ Druid - TODO}}{{ 59}}](#p60)
+    - [{{ Circle of Blossoms - TODO}}{{ 59}}](#p60)
+    - [{{ Circle of Disaster - TODO}}{{ 60}}](#p61)
+  - [{{ Fighter - TODO}}{{ 61}}](#p62)
+  - [{{ Monk - TODO}}{{ 61}}](#p62)
+    - [{{ Way of the Raging Demon - TODO}}{{ 61}}](#p62)
+  - [{{ Paladin - TODO}}{{ 61}}](#p62)
+  - [{{ Ranger - TODO}}{{ 61}}](#p62)
+  - [{{ Rogue - TODO}}{{ 63}}](#p64)
+    - [{{ Dagger Dancer Archetype}}{{ 63}}](#p64)
+  - [{{ Sorcerer - TODO}}{{ 64}}](#p65)
+  - [{{ Warlock - TODO}}{{ 64}}](#p65)
+  - [{{ Wizard - TODO}}{{ 64}}](#p65)
 
 }}
 
 {{toc
 
-- ###### [{{ Backgrounds}}{{ 63}}](#p64)
+- ###### [{{ Backgrounds}}{{ 65}}](#p66)
 
-  - [{{ Languages}}{{ 63}}](#p64)
-  - [{{ Background Options}}{{ 65}}](#p66)
+  - [{{ Languages}}{{ 65}}](#p66)
+  - [{{ Background Options}}{{ 67}}](#p68)
 
-- ###### [{{ Weapons, Armour, and Equipment}}{{ 69}}](#p70)
+- ###### [{{ Weapons, Armour, and Equipment}}{{ 71}}](#p72)
 
-  - [{{ Weapons - TODO}}{{ 69}}](#p70)
-  - [{{ Armour}}{{ 75}}](#p76)
-  - [{{ Equipment - TODO}}{{ 76}}](#p77)
+  - [{{ Weapons - TODO}}{{ 71}}](#p72)
+  - [{{ Armour}}{{ 77}}](#p78)
+  - [{{ Equipment - TODO}}{{ 78}}](#p79)
 
-- ###### [{{ Feats}}{{ 77}}](#p78)
+- ###### [{{ Feats}}{{ 79}}](#p80)
 
-  - [{{ Species Feats - TODO}}{{ 77}}](#p78)
-  - [{{ General Feats}}{{ 85}}](#p86)
+  - [{{ Species Feats - TODO}}{{ 79}}](#p80)
+  - [{{ General Feats}}{{ 87}}](#p88)
 
-- ### [{{ PART 3 - Geography and Culture}}{{ 90}}](#p91) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:324px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 3 - Geography and Culture}}{{ 92}}](#p93) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:324px,left:515px,width:245px,mix-blend-mode:normal}
 
-- ###### [{{ Maps of Sumiriku and the World - TODO}}{{ 91}}](#p92)
+- ###### [{{ Maps of Sumiriku and the World - TODO}}{{ 93}}](#p94)
 
-- ###### [{{ Landscapes and Landmarks - TODO}}{{ 93}}](#p94)
+- ###### [{{ Landscapes and Landmarks - TODO}}{{ 95}}](#p96)
 
-- ###### [{{ Calendar and Notable Events - TODO}}{{ 96}}](#p97)
+- ###### [{{ Calendar and Notable Events - TODO}}{{ 98}}](#p99)
 
-  - [{{ Seasons}}{{ 96}}](#p97)
-  - [{{ Important Days}}{{ 96}}](#p97)
-    - [{{ Shōtenbi (Ascension Day)}}{{ 96}}](#p97)
-    - [{{ Tanabata (Seventh Evening) - TODO}}{{ 96}}](#p97)
-    - [{{ Ganjitsu (New Year's Day)}}{{ 97}}](#p98)
-    - [{{ Hyakki Chitsuki (Hundred Oni Blood Moon)}}{{ 97}}](#p98)
+  - [{{ Seasons}}{{ 98}}](#p99)
+  - [{{ Important Days}}{{ 98}}](#p99)
+    - [{{ Shōtenbi (Ascension Day)}}{{ 98}}](#p99)
+    - [{{ Tanabata (Seventh Evening) - TODO}}{{ 98}}](#p99)
+    - [{{ Ganjitsu (New Year's Day)}}{{ 99}}](#p100)
+    - [{{ Hyakki Chitsuki (Hundred Oni Blood Moon)}}{{ 99}}](#p100)
 
-- ###### [{{ Important People and Groups - TODO}}{{ 99}}](#p100)
+- ###### [{{ Important People and Groups - TODO}}{{ 101}}](#p102)
 
-- ###### [{{ Sacred Treasures and other Magic Items - TODO}}{{ 100}}](#p101)
+- ###### [{{ Sacred Treasures and other Magic Items - TODO}}{{ 102}}](#p103)
 
-- ### [{{ EXTRA - Appendices}}{{ 101}}](#p101) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:654px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ EXTRA - Appendices}}{{ 103}}](#p104) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:654px,left:515px,width:245px,mix-blend-mode:normal}
 
-- ###### [{{ Appendix A - Creature Stat Blocks}}{{ 102}}](#p103)
+- ###### [{{ Appendix A - Creature Stat Blocks}}{{ 104}}](#p105)
 
-- ###### [{{ Appendix B - Updated Feats}}{{ 106}}](#p107)
+- ###### [{{ Appendix B - Updated Feats}}{{ 108}}](#p109)
 
-- ###### [{{ Appendix C - Spell Changes - TODO}}{{ 110}}](#p111)
+- ###### [{{ Appendix C - Spell Changes - TODO}}{{ 112}}](#p113)
 
-- ###### [{{ Appendix D - Rule Change Glossary}}{{ 128}}](#p129)
+- ###### [{{ Appendix D - Rule Change Glossary}}{{ 130}}](#p131)
 
-- ###### [{{ Appendix E - Reference Images - TODO}}{{ 137}}](#p138)
+- ###### [{{ Appendix E - Reference Images - TODO}}{{ 139}}](#p140)
 
-- ### [{{ CREDITS - TODO}}{{ 142}}](#p143) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:847px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ CREDITS - TODO}}{{ 144}}](#p145) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:847px,left:515px,width:245px,mix-blend-mode:normal}
 
-- ###### [{{ Special Thanks}}{{ 142}}](#p143)
+- ###### [{{ Special Thanks}}{{ 144}}](#p145)
 
 }}
 
@@ -3984,7 +3984,7 @@ Text - TODO
 
 People across Sumiriku are capable of incredible things. These skills may be as a result of great training, dedicating oneself to a martial art or other talent, or they may be an enhanced manifestation of some innate power.
 
-The following are a set of feats designed for the setting of Sumiriku. These feats are divided into two sections. The first section is Species Feats, with options available to enhance every Sumiriku species and Aberrant Form. The second section is Generic Feats, feats available to any character which are often associated with specific weapons or martial arts.
+The following are a set of feats designed for the setting of Sumiriku. These feats are divided into two sections. The first section is Species Feats, with options available to enhance every Sumiriku species and Aberrant Form. The second section is General Feats, feats available to any character which are often associated with specific weapons or martial arts.
 
 :
 
@@ -4745,7 +4745,7 @@ The new year begins on the first day of Spring, or Haru (春). The 'Seasons' tab
 
 ## Important Days
 
-There are many days of the year that have a significant religious or cultural context to the people of Sumiriku. These dates may be celebrated as grand festivals in major cities, or instead may be days of contemplation. The following is a selection of these days, explaining their meaning and what happens at that occasion:
+There are many days of the year that have a significant religious or cultural context to the people of Sumiriku. These dates may be celebrated as grand festivals in major cities, or instead may be days of contemplation. The following is a selection of these days, explaining their meaning and what happens at that occasion.
 
 :
 
