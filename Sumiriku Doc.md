@@ -1058,7 +1058,7 @@ As a Nekotaiyō, you gain these special traits:
 
 ***Twin Sun Blessing.*** At Character Level 3 you gain one of the following two features, depending on which of Sumiriku's twin suns you have a stronger affinity for:
 
-*Ikariōna's Fury.* You have the ability to gain incredible agility gifted from the Rage Mother, allowing you to move with a burst of speed. When you move on your turn in combat, you can double your Speed. While your Speed is doubled this way, you can move through the spaces of hostile creatures, and you do not count the spaces of creatures as Difficult Terrain. Any creature you walk through the space of while this is active takes 1d6 Fire damage. Once you use this trait, you can't use it again until you finish a Short or Long Rest.
+*Ikariōna's Fury.* You have the ability to gain incredible agility gifted from the Rage Mother, allowing you to move with a burst of speed. When you move on your turn in combat, you can double your Speed. While your Speed is doubled this way, you can move through spaces occupied by any hostile creature, regardless of its size, and you are also unaffected by the reduction to movement from being in a hostile creature’s space. Any creature you walk through the space of while this is active takes 1d6 Fire damage. Once you use this trait, you can't use it again until you finish a Short or Long Rest.
 
 *Hikariōna's Luminance.* Your fur has the ability to ignite in radiance gifted from the Light Mother. As an Action you can make a section of your fur, such as your mane or tail tips, ignite into light, shedding Bright light for 30 feet and Dim Light for a further 30 feet. This light counts as sunlight. You can dispel this light as an Action or as a Bonus Action.
 
@@ -5563,7 +5563,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 
 # Appendix B - Updated Feats
 
-T {{width:5px}} his section is a list of all changed feats for use in this setting, separated between Origin and General Feats and sorted alphabetically. These feats have been changed for rebalancing, to make the feats more interesting, or to make them fit better within this setting.
+T {{width:5px}} his section is a list of all changed feats for use in this setting, separated between Origin, Fighting Style, and General Feats and sorted alphabetically. These feats have been changed for rebalancing, to make the feats more interesting, or to make them fit better within this setting.
 
 ## Removed Feats List
 
@@ -5592,14 +5592,14 @@ The following is a list of feats that have been updated from their original vers
 
 ##### Updated Feats
 
-| Updated Feat              | Change                                                                                                                            |
-|:--------------------------|:----------------------------------------------------------------------------------------------------------------------------------|
-| Actor Updated             | Moved to be an Origin Feat                                                                                                        |
-| Athlete Updated           | Moved to be an Origin Feat, Jumping feature changed to fit with new jumping mechanics                                             |
-| Chef Updated              | Moved to Origin Feat, snacks give Temporary Hit Points equal to twice Proficiency Bonus                                           |
-| Crafter Updated           | Added reduction to crafting time, discount increased to 25%                                                                       |
-| Dual Wielder Revised      | Doesn't give an additional attack, instead allows for dual wielding larger weapons and can give bonus AC                          |
-| Dungeon Delver Updated    | Moved to Origin Feat, replaced Advantage to detect secret doors with Proficiency plus minimum roll                                |
+| Updated Feat              | Change                                                                                                                                                                   |
+|:--------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Actor Updated             | Moved to be an Origin Feat                                                                                                                                               |
+| Athlete Updated           | Moved to be an Origin Feat, Jumping feature changed to fit with new jumping mechanics                                                                                    |
+| Chef Updated              | Moved to Origin Feat, <span style="color:green">snacks give Temporary Hit Points equal to twice Proficiency Bonus</span>                                                 |
+| Crafter Updated           | <span style="color:green">Added reduction to crafting time, discount increased to 25%</span>                                                                             |
+| Dual Wielder Revised      | <span style="color:red">Doesn't give an additional attack,</span> <span style="color:green">instead allows for dual wielding larger weapons and can give bonus AC</span> |
+| Dungeon Delver Updated    | Moved to Origin Feat, <span style="color:red">replaced Advantage to detect secret doors with</span> <span style="color:green">Proficiency plus minimum roll</span>       |
 
 }}
 
@@ -5607,15 +5607,16 @@ The following is a list of feats that have been updated from their original vers
 
 {{#default-table
 
-| Updated Feat              | Change                                                                                                                            |
-|:--------------------------|:----------------------------------------------------------------------------------------------------------------------------------|
-| Elemental Adept Updated   | Treats Immunity to the chosen damage type as Resistance                                                                           |
-| Gunner Revised            | Doesn't ignore Loading property or Disadvantage in melee, instead can perform one empowered attack and can attack from Long Range |
-| Lucky Updated             | Advantage is given before d20 is rolled                                                                                           |
-| Polearm Master (Sumiriku) | List of weapons changed to match setting                                                                                          |
-| Savage Attacker Updated   | Increases damage of Critical Hits                                                                                                 |
-| Sharpshooter Updated      | Replaces Firing in Melee with Reaction dodge and attack                                                                           |
-| Spell Sniper Updated      | Replaces Casting in Melee with ability to set target's AC to 10                                                                   |
+| Updated Feat                  | Change                                                                                                                                                                                            |
+|:------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Elemental Adept Updated       | <span style="color:green">Treats Immunity to the chosen damage type as Resistance</span>                                                                                                          |
+| Great Weapon Fighting Updated | <span style="color:green">Guarantees minimum half damage on damage rolls with two-handed weapons</span>                                                                                           |
+| Gunner Revised                | <span style="color:red">Doesn't ignore Loading property or Disadvantage in melee,</span> <span style="color:green">instead can perform one empowered attack and can attack from Long Range</span> |
+| Lucky Updated                 | <span style="color:red">Advantage is given before d20 is rolled</span>                                                                                                                            |
+| Polearm Master (Sumiriku)     | List of weapons changed to match setting                                                                                                                                                          |
+| Savage Attacker Updated       | <span style="color:green">Increases damage of Critical Hits</span>                                                                                                                                |
+| Sharpshooter Updated          | <span style="color:red">Replaces Firing in Melee with</span> <span style="color:green">Reaction dodge and attack</span>                                                                           |
+| Spell Sniper Updated          | <span style="color:red">Replaces Casting in Melee with</span> <span style="color:green">ability to set target's AC to 10</span>                                                                   |
 
 }}
 
@@ -5623,7 +5624,7 @@ The following is a list of feats that have been updated from their original vers
 
 ## Origin Feats
 
-### Actor Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:515px,left:400px,width:375px,mix-blend-mode:normal}
+### Actor Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:554px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Origin Feat*
 </br>Skilled at mimicry and dramatics, you gain the following benefits.
@@ -5641,14 +5642,6 @@ The following is a list of feats that have been updated from their original vers
 Origin Feats can be taken whenever you could take a General Feat, rather than just with a Background. When taken this way, you also gain a +1 to any Ability Score.
 
 }}
-
-<!-- {{note
-
-##### Note: Homebrew Feats
-
-Homebrew feats, such as those found alongside the recommended Alternate version of classes, are available on request and review. Any feats that do not specify should be considered General Feats.
-
-}} -->
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -5740,21 +5733,26 @@ Homebrew feats, such as those found alongside the recommended Alternate version 
 
 \page
 
-:::::::::::::::
+## Fighting Style Feats
+
+### Great Weapon Master Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:99px,left:55px,width:375px,mix-blend-mode:normal}
+
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
+</br>When you roll damage for an attack you make with a Melee weapon that you are holding with two hands, you can treat any roll less than half their maximum value as instead being half that maximum value. The weapon must have the Two-Handed or Versatile property to gain this benefit.
 
 ## General Feats
 
-{{imageMaskCorner9,--offsetX:-57%,--offsetY:55%,--rotation:0
-  ![dual-wield](https://i.imgur.com/LzRaRmC.jpeg){position:absolute,top:-50px,left:-100px,width:66%}
+{{imageMaskCorner9,--offsetX:55%,--offsetY:57%,--rotation:0
+  ![dual-wield](https://i.imgur.com/LzRaRmC.jpeg){position:absolute,top:-60px,right:-100px,width:66%,transform:scaleX(-1)}
 }}
 
-{{position:absolute,top:235px,left:300px,margin-bottom:-30px,text-align:left
+{{position:absolute,top:195px,left:380px,margin-bottom:-30px,text-align:left
 
 ##### A Kitsune </br>practitioner of </br>Niten Ichi-ryu
 
 }}
 
-### Dual Wielder Revised ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:315px,left:55px,width:375px,mix-blend-mode:normal}
+### Dual Wielder Revised ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:338px,left:55px,width:375px,mix-blend-mode:normal}
 
 *General Feat (Prerequisite: Level 4+, Proficiency with any Martial weapon)*
 </br>You master fighting with two weapons, gaining the following benefits.
@@ -5765,9 +5763,11 @@ Homebrew feats, such as those found alongside the recommended Alternate version 
 
 ***Quick Draw.*** You can draw or stow two weapons that lack the Two-Handed property when you would normally be able to draw or stow only one.
 
-:
+\column
 
-### Elemental Adept Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:665px,left:55px,width:375px,mix-blend-mode:normal}
+::::::::::::::
+
+### Elemental Adept Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:265px,left:400px,width:375px,mix-blend-mode:normal}
 
 *General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic feature)*
 </br>You have developed an affinity for a specific element and have gained greater control over it. You the following benefits.
@@ -5778,9 +5778,9 @@ Homebrew feats, such as those found alongside the recommended Alternate version 
 
 ***Repeatable.*** You can take this feat more than once, but you must choose a different damage type each time for Energy Mastery.
 
-\column
+:
 
-### Gunner Revised ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Gunner Revised ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:669px,left:400px,width:375px,mix-blend-mode:normal}
 
 *General Feat (Prerequisite: Level 4+, Dexterity 13+)*
 </br>You have a keen eye when employing firearms, being able to take extremely precise and damaging shots. You gain the following benefits.
@@ -5793,11 +5793,11 @@ Homebrew feats, such as those found alongside the recommended Alternate version 
 
 ***Sniper.*** You do not have Disadvantage on Ranged Attack Rolls with a Firearm when you attack at Long Range, or while Prone.
 
-{{imageMaskCorner15,--offsetX:50%,--offsetY:-39%,--rotation:0
-  ![gunner](https://i.imgur.com/xBFzvM4.jpeg){position:absolute,bottom:-1px,right:-80px,width:60%,mix-blend-mode:multiply,transform:scaleX(-1)}
+{{imageMaskCorner9,--offsetX:-60%,--offsetY:-39%,--rotation:0
+  ![gunner](https://i.imgur.com/xBFzvM4.jpeg){position:absolute,bottom:-1px,left:-1px,width:50%,mix-blend-mode:multiply}
 }}
 
-{{position:absolute,top:585px,right:325px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:650px,left:300px,margin-bottom:-30px,text-align:left
 
 <!-- ##### An ashigaru </br> gunner with</br>a Hinawajū -->
 ##### An ashigaru </br> gunner with</br>a Hinawaju
@@ -5884,74 +5884,6 @@ Homebrew feats, such as those found alongside the recommended Alternate version 
 
 # Appendix C - Spell Changes
 
-<!-- ## 2024 Spell Changed List
-
-{{#spell-table,wide
-
-Below is an alphabetised list of the spells added or changed in the 2024 D&D version, with a brief description of the change. Refer to these over instead of their 5e counterparts.
-
-##### 2024 Spell Changes
-
-TODO - UPDATE WITH MORE NEW SPELLS
-
-| Updated Spell             | Change                                                                                                                                   |
-|:--------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
-| Acid Splash               | Now effects a 5-foot-radius sphere                                                                                                       |
-| Aid                       | Grants Temporary Hit Points, increased number of creatures                                                                               |
-| Arcane Eruption           | New Level 4 Sorcerer spell, deals AoE damage and gives an extra Condition                                                                |
-| Banishing Smite           | Changed casting time, requires Charisma Saving Throw to banish                                                                           |
-| Banishment                | Reduced Range, target can repeat the Saving Throw                                                                                        |
-| Barkskin                  | Replaces AC increase with Temporary Hit Points                                                                                           |
-| Blade Ward                | Replaces Resistance with Disadvantage on attacks                                                                                         |
-| Blinding Smite            | New Level 3 Paladin smite spell, gives Blinded Condition                                                                                 |
-| Chill Touch               | Damage die increased to d10, now Touch range                                                                                             |
-| Conjure Animals           | Now creates a spectral swarm that deals damage in an area rather than summoning                                                          |
-| Conjure Barrage           | Increased damage, deals Force damage, increases damage when upcast                                                                       |
-| Conjure Celestial         | Now creates a healing and damaging cylinder of light rather than summoning                                                               |
-| Conjure Elemental         | Now creates an elemental that attacks enemies that approach rather than summoning                                                        |
-| Conjure Fey               | Now creates an fey that makes attacks and Frightens that approach rather than summoning                                                  |
-| Conjure Minor Elemental   | Now increases damage you deal with attacks rather than summoning                                                                         |
-| Conjure Volley            | Works with Melee weapons, only effects creatures of your choice, deals Force damage                                                      |
-| Conjure Woodland Beings   | Now deals damage to creatures that get close to you rather than summoning                                                                |
-| Counterspell              | Target must make a Constitution Saving Throw, the target's Spell Slot isn't expended if the spell is countered, no benefit for upcasting |
-| Cure Wounds               | Die increased to 2d8 per Spell Slot Level                                                                                                |
-| Find Steed                | Uses a new stat block, scales with Spell Slot Level                    |
-| Find Familiar             | Uses a new stat block, scales with Spell Slot Level                    |
-| Fount of Moonlight        | New Level 4 Bard/Druid spell that improves attack damage and can Blind |
-| Friends                   | Forces a Saving Throw, applies the Charmed Condition                   |
-| Guidance                  | Cast as a Reaction to a failed Ability Check                           |
-| Healing Word              | Die increased for 1d4 to 2d4 per Spell Slot      |
-| Hunter's Mark             | Deals Force damage, increases damage when upcast |
-| Mass Cure Wounds          | Healing increased by 2d8                         |
-| Mass Healing Word         | Healing increased by 1d4                         |
-| Poison Spray              | Now an Attack Roll, increased range              |
-| Produce Flame             | Increased range and light range, spell no longer ends after attacking |
-| Power Word Fortify        | New Lever 7 Bard/Cleric spell that gives 120 Temporary Hit Points split between up to six creatures |
-| Power Word Heal           | Range increased to 60 feet, removes Dazed Condition |
-| Power Word Kill           | Now deals damage if the creature is not below 100 Hit Points |
-| Resistance                | Cast as a Reaction to a failed Saving Throw |
-| Searing Smite             | Changed casting time, damage happens before Saving Throw, fire can't be put out with an Action |
-| Shining Smite             | New Level 2 Paladin smite spell, grants Advantage on attacks and prevents Invisibility |
-| Shocking Grasp            | Replaces preventing Reactions with preventing Opportunity Attacks, damage up |
-| Sorcerous Burst           | New Sorcerer cantrip, adds an extra damage die each time you roll maximum |
-| Spare the Dying           | Increased range, can't self target, increases range with Level |
-| Spiritual Weapon          | Now requires Concentration |
-| Staggering Smite          | Changed casting time, no longer uses Concentration, can be upcast |
-| Starry Wisp               | New Bard/Druid Ranged Attack cantrip, prevents Invisibility |
-| Thunderous Smite          | Changed casting time, no longer uses Concentration, can be upcast |
-| True Strike               | Now makes a Weapon Attack using Spellcasting Ability, scales with Level |
-| Vicious Mockery           | Damage die increased from d4 to d6 |
-| Wrathful Smite            | Changed casting time, no longer uses Concentration, can be upcast, deals Necrotic Damage, target now repeats Saving Throw at the end of it's turn |
-
-}}
-
-{{pageNumber,auto}}
-{{footnote EXTRA | APPENDICES}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
-
-\page  -->
-
 {{#spell-table,wide
 
 :
@@ -5960,129 +5892,58 @@ Below is an list of the spells changed in this document, with a brief descriptio
 
 ##### Custom Spell Changes
 
-<!-- TODO - REMOVE OTHER SPELLS CHANGED IN 2024 RULES -->
-
-| Updated Spell             | Change                                                                                                                                     |
-|:--------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
-| Chromatic Orb             | Removed component with GP value                                                                                                            |
-| Color Spray               | Upcasting increases range                                                                                                                  |
-| Find Familiar             | The familiar now acts on your initiative                                                                                                   |
-| Goodberry                 | Consumes a component when cast, upcasting created more berries                                                                             |
-| Inflict Wounds            | Damage increased by 1d10                                                                                                                   |
-| Jump                      | Reverted to trippling jump distance                                                                                                        |
-| Shield                    | Maximum AC capped at 20                                                                                                                    |
-| Aid                       | Maximum Hit Point increase replaced with granting Temporary Hit Points                                                                     |
-| Alter Self                | No longer uses concentration                                                                                                               |
-| Crown of Madness          | The charmed target can attack itself                                                                                                       |
-| Find Traps                | Reveals location of traps                                                                                                                  |
-| Flame Blade               | Damage increased from 3d6 to 3d8, upcast damage increased to 1d8 per Level                                                                 |
-| Heat Metal                | No more Saving Throw or Disadvantage, damage happens to contacting creature at the start of their turn                                     |
-| Lesser Restoration        | Now ends Dazed Condition                                                                                                                   |
-| Melf's Acid Arrow         | Deals an extra 2d4 damage on hit and miss                                                                                                  |
-| Pass Without Trace        | Stealth bonus reduced to +5, upcasting increases bonus                                                                                     |
-| Prayer of Healing         | Cast time reduced to 1 minute , number of targets depends on Spellcasting Ability modifier                                                 |
-| Ray of Enfeeblement       | Specifies Disadvantage on Strength checks, Strength Saving Throws, and attacks                                                             |
-| Spike Growth              | Damage to a creature is capped per round                                                                                                   |
-| Web                       | Now only restrains at start of targets' turns, repeatable Saving Throw clarified fire interaction                                          |
-| Counterspell              | Benefit for upcasting                                                                                                                      |
-| Fear                      | Save repeats at end of targets' turns                                                                                                      |
-| Hypnotic Pattern          | Save repeats at end of targets' turns                                                                                                      |
-| Leomund's Tiny Hut        | No longer a ritual, dome has an AC and HP                                                                                                  |
-| Plant Growth              | Made Difficult Terrain                                                                                                                     |
-| Spirit Guardians          | Replaces Speed reduction with increased movement cost, damage reduced to 3d6                                                               |
-| Conjure Minor Elementals  | Bonus damage only on the first attack each turn, damage increased by 2d8, upcast damage increased by 1d8                                   |
-| Evard's Black Tentacles   | Save repeats at end of targets' turns, no Action to escape                                                                                 |
-| Leomund's Secret Chest    | No random chance of losing chest                                                                                                           |
-| Phantasmal Killer         | Damage increased by 2d10                                                                                                                   |
-| Polymorph                 | Beast stat blocks chosen when learning the spell, unwilling creatures can repeat the save at end of turn                                   |
-| Stoneskin                 | No Material cost                                                                                                                           |
-| Dream                     | Now a ritual                                                                                                                               |
-| Geas                      | Time between damage reduced to one hour                                                                                                    |
-| Planar Binding            | Gains concentration if targeting a creature summoned with a concentration spell                                                            |
-| Wall of Force             | The wall now has an AC and HP                                                                                                              |
-| Magic Jar                 | Clears up wording                                                                                                                          |
-| Otto's Irresistible Dance | Made irresistible                                                                                                                          |
-| Planar Ally               | Ally now works without bargaining, CR of ally set, duration reduced to 24 hours                                                            |
-| Forcecage                 | The cage now has an AC and HP                                                                                                              |
-| Simulacrum                | Prevents exploits by not letting the simulacrum cast or change shape, an unwilling creature can save against being duplicated              |
-| Befuddlement              | Spell can be ended with *Dispel Magic*                                                                                                     |
-| Control Weather           | Weather changes happen quicker                                                                                                             |
-| Incendiary Cloud          | No Saving Throw for damage on a creature entering the cloud or ending their turn there                                                     |
-| Prismatic Wall            | Creatures cannot be affected by the same layer multiple times a turn                                                                       |
-| Shapechange               | Prevents exploits by preventing casting and shapechanging                                                                                  |
-| True Polymorph            | Prevents exploits by preventing shapechanging                                                                                              |
-| Wish                      | Only can recreate spells with Action casting time, can't have multiple bonuses at once, removed chance of losing ability to cast           |
+| Updated Spell             | Change                                                                                                                                                                                           |
+|:--------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Chromatic Orb             | <span style="color:green">Removed component with GP value</span>                                                                                                                                 |
+| Color Spray               | <span style="color:green">Upcasting increases range</span>                                                                                                                                       |
+| Find Familiar             | The familiar now acts on your initiative                                                                                                                                                         |
+| Goodberry                 | <span style="color:red">Consumes a component when cast,</span> <span style="color:green">upcasting created more berries</span>                                                                   |
+| Inflict Wounds            | <span style="color:green">Damage increased by 1d10</span>                                                                                                                                        |
+| Jump                      | Reverted to tripling jump distance                                                                                                                                                               |
+| Shield                    | <span style="color:red">Maximum AC capped at 20</span>                                                                                                                                           |
+| Aid                       | Maximum Hit Point increase replaced with granting Temporary Hit Points                                                                                                                           |
+| Alter Self                | <span style="color:green">No longer uses concentration</span>                                                                                                                                    |
+| Crown of Madness          | <span style="color:green">The charmed target can attack itself</span>                                                                                                                            |
+| Find Traps                | <span style="color:green">Reveals location of traps</span>                                                                                                                                       |
+| Flame Blade               | <span style="color:green">Damage increased from 3d6 to 3d8, upcast damage increased to 1d8 per Level</span>                                                                                      |
+| Heat Metal                | No more Saving Throw or Disadvantage, damage happens to contacting creature at the start of their turn                                                                                           |
+| Lesser Restoration        | <span style="color:green">Now ends Dazed Condition</span>                                                                                                                                        |
+| Melf's Acid Arrow         | <span style="color:green">Deals an extra 2d4 damage on hit and miss</span>                                                                                                                       |
+| Pass Without Trace        | <span style="color:red">Stealth bonus reduced to +5,</span> <span style="color:green">upcasting increases bonus</span>                                                                           |
+| Prayer of Healing         | <span style="color:green">Cast time reduced to 1 minute,</span> <span style="color:red">number of targets depends on Spellcasting Ability modifier</span>                                        |
+| Ray of Enfeeblement       | Specifies Disadvantage on Strength checks, Strength Saving Throws, and attacks                                                                                                                   |
+| Spike Growth              | <span style="color:red">Damage to a creature is capped per round</span>                                                                                                                          |
+| Web                       | <span style="color:red">Now only restrains at start of targets' turns, repeatable Saving Throw, clarified fire interaction</span>                                                                |
+| Counterspell              | <span style="color:green">Guaranteed to counter lower leveled spells</span>                                                                                                                      |
+| Fear                      | <span style="color:red">Save repeats at end of targets' turns</span>                                                                                                                             |
+| Hypnotic Pattern          | <span style="color:red">Save repeats at end of targets' turns</span>                                                                                                                             |
+| Leomund's Tiny Hut        | <span style="color:red">No longer a ritual, dome has an AC and HP</span>                                                                                                                         |
+| Plant Growth              | <span style="color:red">Made Difficult Terrain</span>                                                                                                                                            |
+| Spirit Guardians          | Replaces Speed reduction with increased movement cost, <span style="color:red">creatures only take damage if emanation is moved on your turn</span>                                              |
+| Conjure Minor Elementals  | <span style="color:red">Instances of damaged capped to twice per turn, upcasting reduced to 1d8 per two spell slot levels</span>                                                                 |
+| Evard's Black Tentacles   | <span style="color:red">Save repeats at end of targets' turns,</span> <span style="color:green">no Action to escape</span>                                                                       |
+| Leomund's Secret Chest    | <span style="color:green">No random chance of losing chest</span>                                                                                                                                |
+| Phantasmal Killer         | <span style="color:green">Damage increased by 2d10</span>                                                                                                                                        |
+| Polymorph                 | <span style="color:red">Beast stat blocks chosen when learning the spell, unwilling creatures can repeat the save at end of turn</span>                                                          |
+| Stoneskin                 | <span style="color:green">No Material cost</span>                                                                                                                                                |
+| Dream                     | <span style="color:green">Now a ritual</span>                                                                                                                                                    |
+| Geas                      | <span style="color:green">Time between damage reduced to one hour</span>                                                                                                                         |
+| Planar Binding            | <span style="color:red">Gains concentration if targeting a creature summoned with a concentration spell</span>                                                                                   |
+| Wall of Force             | <span style="color:red">The wall now has an AC and HP</span>                                                                                                                                     |
+| Magic Jar                 | Clears up wording, <span style="color:green">less chance of failure</span>                                                                                                                       |
+| Otto's Irresistible Dance | <span style="color:green">Made irresistible</span>                                                                                                                                               |
+| Planar Ally               | <span style="color:green">Ally now works without bargaining,</span> <span style="color:red">CR of ally set, duration reduced to 24 hours</span>                                                  |
+| Forcecage                 | <span style="color:red">The cage now has an AC and HP</span>                                                                                                                                     |
+| Simulacrum                | <span style="color:red">Prevents exploits by not letting the simulacrum cast or change shape, an unwilling creature can save against being duplicated</span>                                     |
+| Befuddlement              | <span style="color:red">Spell can be ended with *Dispel Magic*</span>                                                                                                                            |
+| Control Weather           | <span style="color:green">Weather changes happen quicker</span>                                                                                                                                  |
+| Incendiary Cloud          | <span style="color:green">No Saving Throw for damage on a creature entering the cloud or ending their turn there</span>                                                                          |
+| Prismatic Wall            | <span style="color:red">Creatures cannot be affected by the same layer multiple times a turn</span>                                                                                              |
+| Shapechange               | <span style="color:red">Prevents exploits by preventing casting and shapechanging</span>                                                                                                         |
+| True Polymorph            | <span style="color:red">Prevents exploits by preventing shapechanging</span>                                                                                                                     |
+| Wish                      | <span style="color:red">Only can recreate spells with Action casting time, can't have multiple bonuses at once,</span> <span style="color:green">removed chance of losing ability to cast</span> |
 
 }}
-
-<!--
-
-{{note
-
-##### Note: Spells in this document pt. 1
-
-Below is list sorted by Spell Level and alphabetically of the spells changed in this document, with a brief description of the change. Refer to these over instead of their 5e counterparts.
-
-- Shillelagh - Extended duration, deals Force damage
-- Color Spray - Constitution Save instead of HP threshold, upcasting increases range
-- Compelled Duel - Target can't move away from you, you can attack other creatures, upcast for more targets
-- Goodberry - Consumes a component when cast
-- Hail of Thorns - Changed casting time to after hitting a target, no longer uses concentration
-- Ray of Sickness - Increased damage by 1d8
-- Sleep - Constitution Save instead of HP threshold, save repeats at end of target's turn, upcast for more targets
-- Witch Bolt - Applies the Dazed Condition
-- Alter Self - No longer uses concentration, natural weapons can you Spellcasting Ability modifier
-- Crown of Madness - Charmed target can attack self
-- Find Traps - Reveals location of traps
-- Flame Blade - Damage increased from 3d6 to 3d10, upcast damage increased to 1d10 per Level
-- Heat Metal - No more Saving Throw or Disadvantage, damage happens to contacting creature at the start of their turn
-- Melf's Acid Arrow - Deals an extra 2d4 damage on hit and miss
-- Pass Without Trace - Stealth bonus reduced to +5, must be near caster to keep bonus
-- Prayer of Healing - Grants a Short Rest, cast time reduced to 1 minute
-- Ray of Enfeeblement - Replaces half damage with Disadvantage on Strength checks and Saving Throws and attacks, no repeating save
-- Spike Growth - Damage per turn capped
-- Web - Clarified positioning, only restrains at start of targets' turns, clarified fire interaction
-- Fear - Save repeats at end of targets' turns
-- Hypnotic Pattern - Save repeats at end of targets' turns
-- Leomund's Tiny Hut - No longer a ritual, dome has an AC and HP
-- Lightning Arrow - Changed casting time to after hitting a target, no longer uses concentration
-- Spirit Guardians - Replaces Speed reduction with increased movement cost, damage reduced by 1d8
-- Stinking Cloud - Applies the Poison Condition, creature must waste Action while poisoned, save repeats at end of targets' turns
-- Evard's Black Tentacles - Save repeats at end of targets' turns, no Action to escape
-
-}}
-
-{{note
-
-##### Note: Spells in this document pt. 2
-
-- Grasping Vine - Grapples and knocks creature Prone
-- Leomund's Secret Chest - No random chance of losing chest
-- Phantasmal Killer - Deals 6d10 damage immediately or half on successful save, increased repeating damage by 2d10
-- Polymorph - Beast stat blocks chosen when learning the spell, uses target's Hit Points, unwilling creatures can repeat the save at end of turn
-- Stoneskin - No Material cost
-- Animate Object - Now uses stat blocks like Summon spells
-- Dream - Now a ritual
-- Geas - Time between damage reduced to one hour
-- Legend Lore - Works on any person, place, or object
-- Swift Quiver - Makes two attacks when you cast the spell
-- Wall of Force - The wall now has an AC and HP
-- Magic Jar - Clears up wording and prevents exploits
-- Planar Ally - Ally now works without bargaining, CR of ally set, duration reduced to 24 hours
-- Forcecage - The cage now has an AC and HP
-- Mordenkainen's Sword - Damage significantly increased, Critical Hit ratio increased, movement increased, can pass through barriers, upcast to get an extra attack
-- Prismatic Spray - Creatures are affected by two rays minimum
-- Simulacrum - Prevents exploits by not letting the simulacrum cast, rest, or heal
-- Control Weather - Weather changes happen quicker
-- Feeblemind - Spell can be ended with *Dispel Magic*
-- Incendiary Cloud - No Saving Throw for damage on a creature entering the cloud or ending their turn there
-- True Polymorph - Prevents exploits by preventing casting and shapechanging, uses Temporary Hit Points as Polymorph health
-- Shapechange - Prevents exploits by preventing casting and shapechanging
-- Prismatic Wall - Creatures cannot be affected by the same layer multiple times a turn
-- Weird - Deals 6d10 damage on failed save, increased repeating damage by 2d10
-- Wish - Only can recreate spells with Action casting time, can't have multiple bonuses at once, removed chance of losing ability to cast
-
-}} -->
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -6093,7 +5954,7 @@ Below is list sorted by Spell Level and alphabetically of the spells changed in 
 
 ## Level 1
 
-### Chromatic Orb
+### Chromatic Orb ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:99px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 1 Illusion*
 **Casting Time:** :: Action
@@ -6108,7 +5969,7 @@ If you roll the same number on two or more of the d8s, the orb leaps to a differ
 
 :
 
-### Color Spray
+### Color Spray ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:588px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 1 Illusion*
 **Casting Time:** :: Action
@@ -6121,7 +5982,7 @@ You launch a dazzling array of flashing, colorful light. Each creature in a 15-f
 
 \column
 
-### Find Familiar
+### Find Familiar ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 1 Conjuration*
 **Casting Time:** :: 1 hour or Ritual
@@ -6149,7 +6010,7 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 
 \page
 
-### Goodberry
+### Goodberry ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 1 Conjuration*
 **Casting Time:** :: Action
@@ -6164,7 +6025,7 @@ Uneaten berries disappear when the spell ends.
 
 :
 
-### Inflict Wounds
+### Inflict Wounds ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:426px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 1 Necromancy*
 **Casting Time:** :: Action
@@ -6177,7 +6038,7 @@ A creature you touch makes a Constitution Saving Throw, taking 3d10 Necrotic dam
 
 :
 
-### Jump
+### Jump ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:699px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 1 Transmutation*
 **Casting Time:** :: Bonus Action
@@ -6190,7 +6051,7 @@ You touch a willing creature. The creature's jumps have triple the distance for 
 
 \column
 
-### Shield
+### Shield ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 1 Abjuration*
 **Casting Time:** :: Reaction, which you take when you are hit by an attack or targeted by the *Magic Missile* spell
@@ -6203,7 +6064,7 @@ An invisible barrier of magical force appears and protects you. Until the start 
 
 ## Level 2
 
-### Aid
+### Aid ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:390px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Abjuration*
 **Casting Time:** :: Action
@@ -6221,7 +6082,7 @@ Choose up to three creatures within range. Each target's current Hit Points incr
 
 \page
 
-### Alter Self
+### Alter Self ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Transmutation*
 **Casting Time:** :: Action
@@ -6238,7 +6099,7 @@ You alter your physical form. Choose one of the following options. Its effects l
 
 \column
 
-### Crown of Madness
+### Crown of Madness ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Enchantment*
 **Casting Time:** :: Action
@@ -6253,7 +6114,7 @@ On your later turns, you must take the Magic action to maintain control of the t
 
 :
 
-### Find Traps
+### Find Traps ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:499px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Divination*
 **Casting Time:** :: Action
@@ -6271,7 +6132,7 @@ This spell reveals that a trap is present and its location. You do learn the gen
 
 \page
 
-### Flame Blade
+### Flame Blade ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Evocation*
 **Casting Time:** :: Bonus Action
@@ -6288,7 +6149,7 @@ The flaming blade sheds Bright Light in a 10-foot radius and Dim Light for an ad
 
 :
 
-### Heat Metal
+### Heat Metal ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:481px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Transmutation*
 **Casting Time:** :: Action
@@ -6301,7 +6162,7 @@ Choose a metal object that you can see within range. You cause the object to glo
 
 :
 
-### Lesser Restoration
+### Lesser Restoration ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:773px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Abjuration*
 **Casting Time:** :: Bonus Action
@@ -6312,7 +6173,7 @@ You touch a creature and end one condition on it: Blinded, Dazed, Deafened, Para
 
 \column
 
-### Melf's Acid Arrow
+### Melf's Acid Arrow ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Evocation*
 **Casting Time:** :: Action
@@ -6325,7 +6186,7 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 :
 
-### Pass Without Trace
+### Pass Without Trace ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:409px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Abjuration*
 **Casting Time:** :: Action
@@ -6338,7 +6199,7 @@ You radiate a concealing aura in a 30-foot Emanation for the duration. While in 
 
 :
 
-### Prayer of Healing
+### Prayer of Healing ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:718px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Abjuration*
 **Casting Time:** :: 1 minute
@@ -6356,7 +6217,7 @@ Choose a number of willing creatures equal to your Spellcasting Ability modifier
 
 \page
 
-### Ray of Enfeeblement
+### Ray of Enfeeblement ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Necromancy*
 **Casting Time:** :: Action
@@ -6369,12 +6230,12 @@ On a failed save, the target has Disadvantage on Strength checks, Strength Savin
 
 :
 
-### Spike Growth
+### Spike Growth ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:409px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Transmutation*
 **Casting Time:** :: 1 Action
 **Range:**        :: 150 feet
-**Components:**   :: V, S, M (seven sharp thorns or seven small twigs, each sharpened to a point)
+**Components:**   :: V, S, M (seven thorns)
 **Duration:**     :: Concentration, up to 10 minutes
 The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes Difficult Terrain for the duration. When a creature moves into or within the area, it takes 2d4 Piercing damage for every 5 feet it travels. A creature cannot take more than 6d4 damage before the start of its next turn.
 
@@ -6382,7 +6243,7 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 
 \column
 
-### Web
+### Web ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Conjuration*
 **Casting Time:** :: 1 Action
@@ -6399,7 +6260,7 @@ The webs are flammable. If the webs are exposed to fire they burn away in 1 roun
 
 ## Level 3
 
-### Counterspell
+### Counterspell ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:694px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 3 Abjuration*
 **Casting Time:** :: Reaction, which you take when you see a creature within 60 feet of yourself casting a spell with Verbal, Somatic, or Material components
@@ -6415,7 +6276,7 @@ You attempt to interrupt a creature in the process of casting a spell. The creat
 
 \page
 
-### Fear
+### Fear ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 3 Illusion*
 **Casting Time:** :: 1 Action
@@ -6428,7 +6289,7 @@ An affected creature can repeat the Saving Throw at the end of each of its turns
 
 :
 
-### Hypnotic Pattern
+### Hypnotic Pattern ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:426px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 3 Illusion*
 **Casting Time:** :: 1 Action
@@ -6441,7 +6302,7 @@ An affected creature can repeat this Saving Throw at the end of each of its turn
 
 \column
 
-### Leomund's Tiny Hut
+### Leomund's Tiny Hut ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 3 Evocation*
 **Casting Time:** :: 1 minute
@@ -6463,7 +6324,7 @@ The spell ends early if you leave the Emanation or if you cast it again.
 
 \page
 
-### Plant Growth
+### Plant Growth ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 3 Transmutation*
 **Casting Time:** :: Action (Overgrowth) or 8 hours (Enrichment)
@@ -6478,7 +6339,7 @@ This spell channels vitality into plants. The casting time you use determines wh
 
 \column
 
-### Spirit Guardians
+### Spirit Guardians ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 3 Evocation*
 **Casting Time:** :: Action
@@ -6487,24 +6348,24 @@ This spell channels vitality into plants. The casting time you use determines wh
 **Duration:**     :: Concentration, up to 10 minutes
 Protective spirits flit around you in a 15-foot Emanation for the duration. If you are good or neutral, their spectral form appears angelic or fey (your choice). If you are evil, they appear fiendish.
 
-When you cast this spell, you can designate creatures to be unaffected by it. The area is Difficult Terrain for affected creatures, and whenever the Emanation enters a creature's space and whenever a creature enters the Emanation or ends its turn there, the creature must make a Wisdom saving throw. On a failed save, the creature takes 3d6 Radiant damage (if you are good or neutral) or 3d6 Necrotic damage (if you are evil). On a successful save, the creature takes half as much damage. A creature makes this save only once per turn.
+When you cast this spell, you can designate creatures to be unaffected by it. The area is Difficult Terrain for affected creatures, and whenever the Emanation enters a creature's space on your turn and whenever a creature enters the Emanation or ends its turn there, the creature must make a Wisdom saving throw. On a failed save, the creature takes 3d8 Radiant damage (if you are good or neutral) or 3d6 Necrotic damage (if you are evil). On a successful save, the creature takes half as much damage. A creature makes this save only once per turn.
 
-***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each Spell Slot Level above 3.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each Spell Slot Level above 3.
 
 ## Level 4
 
-### Conjure Minor Elementals
+### Conjure Minor Elementals ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:622px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 4 Conjuration*
 **Casting Time:** :: Action
 **Range:**        :: Self (15-foot emanation)
 **Components:**   :: V, S
 **Duration:**     :: Concentration, up to 10 minutes
-You conjure spirits from the Elemental Planes that flit around you in a 15-foot Emanation for the duration. Until the spell ends, the first attack you hit each turn against a creature in the Emanation deals an extra 4d8 damage. This damage is Acid, Cold, Fire, or Lightning (your choice when you make the attack).
+You conjure spirits from the Elemental Planes that flit around you in a 15-foot Emanation for the duration. Until the spell ends, any attack you make deals an extra 2d8 damage when you hit a creature in the Emanation. This damage is Acid, Cold, Fire, or Lightning (your choice when you make the attack). You can deal this bonus damage only twice per turn.
 
 In addition, the ground in the Emanation is Difficult Terrain for your enemies.
 
-***Using a Higher-Level Spell Slot.*** The damage increases by 3d8 for each spell slot level above 4.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for every two spell slot levels above 4.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -6513,7 +6374,7 @@ In addition, the ground in the Emanation is Difficult Terrain for your enemies.
 
 \page
 
-### Evard's Black Tentacles
+### Evard's Black Tentacles ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 4 Conjuration*
 **Casting Time:** :: Action
@@ -6526,7 +6387,7 @@ Each creature in that area makes a Strength Saving Throw. On a failed save, it t
 
 :
 
-### Leomund's Secret Chest
+### Leomund's Secret Chest ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:481px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 4 Conjuration*
 **Casting Time:** :: Action
@@ -6541,7 +6402,7 @@ The spell ends if you cast this spell again or if the Tiny replica chest is dest
 
 \column
 
-### Phantasmal Killer
+### Phantasmal Killer ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 4 Illusion*
 **Casting Time:** :: Action
@@ -6556,7 +6417,7 @@ For the duration, the target makes a Wisdom saving throw at the end of each of i
 
 :
 
-### Polymorph
+### Polymorph ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:499px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 4 Transmutation*
 **Casting Time:** :: Action
@@ -6576,7 +6437,7 @@ The transformation lasts for the duration. The target can choose to end the spel
 
 \page
 
-### Stoneskin
+### Stoneskin ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 4 Abjuration*
 **Casting Time:** :: Action
@@ -6587,7 +6448,7 @@ This spell turns the flesh of a willing creature you touch as hard as stone. Unt
 
 ## Level 5
 
-### Dream
+### Dream ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:316px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 5 Illusion*
 **Casting Time:** :: 1 minute or Ritual
@@ -6604,7 +6465,7 @@ You can make the messenger terrifying to the target. If you do so, the messenger
 
 \column
 
-### Geas
+### Geas ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 5 Enchantment*
 **Casting Time:** :: 1 minute
@@ -6628,7 +6489,7 @@ A Remove Curse,Greater Restoration, or Wish spell ends this spell.
 
 \page
 
-### Planar Binding
+### Planar Binding ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 5 Abjuration*
 **Casting Time:** :: 1 hour
@@ -6643,12 +6504,12 @@ A bound creature must follow your commands to the best of its ability. You might
 
 \column
 
-### Wall of Force
+### Wall of Force ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 5 Conjuration*
 **Casting Time:** :: Action
 **Range:**        :: 120 feet
-**Components:**   :: V, S, M (a pinch of powder made by crushing a clear gemstone)
+**Components:**   :: V, S, M (a shard of glass)
 **Duration:**     :: Concentration, up to 10 minutes
 An Invisible wall of force springs into existence at a point you choose within range which lasts for the duration.
 
@@ -6667,12 +6528,12 @@ An Invisible wall of force springs into existence at a point you choose within r
 
 ## Level 6
 
-### Magic Jar
+### Magic Jar ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:99px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 6 Necromancy*
 **Casting Time:** :: 1 minute
 **Range:**        :: Self
-**Components:**   :: V, S, M (an ornamental container worth at least 500 gp)
+**Components:**   :: V, S, M (a gem, crystal, or reliquary worth 500+ GP)
 **Duration:**     :: Until dispelled
 Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell's Material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container's space. You can't move or take Reactions. The only actions you can take are to end the spell (returning to your living body) or attempt to possess a humanoid's body by projecting your soul.
 
@@ -6693,7 +6554,7 @@ Meanwhile, the possessed creature's soul can perceive from the container using i
 
 \column
 
-### Otto's Irresistible Dance
+### Otto's Irresistible Dance ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 6 Enchantment*
 **Casting Time:** :: Action
@@ -6704,7 +6565,7 @@ One creature that you can see within range begins dancing comically and has the 
 
 :
 
-### Planar Ally
+### Planar Ally ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:427px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 6 Conjuration*
 **Casting Time:** :: 10 minutes
@@ -6724,7 +6585,7 @@ When the creature appears, you can telepathically give the creature a single sen
 
 ## Level 7
 
-### Forcecage
+### Forcecage ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:99px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 7 Conjuration*
 **Casting Time:** :: Action
@@ -6745,7 +6606,7 @@ A creature inside the cage cannot leave it by non-magical means. If the creature
 
 \column
 
-### Simulacrum
+### Simulacrum ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 7 Illusion*
 **Casting Time:** :: 12 hours
@@ -6769,7 +6630,7 @@ The simulacrum lasts until it drops to 0 Hit Points, at which point it reverts t
 
 ## Level 8
 
-### Befuddlement
+### Befuddlement ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:99px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 8 Enchantment*
 **Casting Time:** :: Action
@@ -6784,7 +6645,7 @@ On a successful save, the target takes half as much damage only.
 
 :
 
-### Control Weather
+### Control Weather ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:444px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 8 Transmutation*
 **Casting Time:** :: 10 minutes
@@ -6799,44 +6660,9 @@ When you change the weather conditions, find a current condition on the followin
 
 *(Condition Tables remain the same)*
 
-<!-- {{#default-table
-
-##### Precipitation
-
-| Stage | Condition                                  |
-|:------|:-------------------------------------------|
-| 1     | Clear                                      |
-| 2     | Light clouds                               |
-| 3     | Overcast or ground fog                     |
-| 4     | Rain, hail, or snow                        |
-| 5     | Torrential rain, driving hail, or blizzard |
-
-##### Temperature
-
-| Stage | Condition       |
-|:------|:----------------|
-| 1     | Unbearable heat |
-| 2     | Hot             |
-| 3     | Warm            |
-| 4     | Cool            |
-| 5     | Cold            |
-| 6     | Arctic cold     |
-
-##### Wind
-
-| Stage | Condition     |
-|:------|:--------------|
-| 1     | Calm          |
-| 2     | Moderate wind |
-| 3     | Strong wind   |
-| 4     | Gale          |
-| 5     | Storm         |
-
-}} -->
-
 \column
 
-### Incendiary Cloud
+### Incendiary Cloud ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 8 Conjuration*
 **Casting Time:** :: Action
@@ -6858,7 +6684,7 @@ When the cloud appears, choose a direction. The cloud moves 10 feet in that dire
 
 ## Level 9
 
-### Prismatic Wall
+### Prismatic Wall ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:99px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 9 Abjuration*
 **Casting Time:** :: Action
@@ -6876,24 +6702,9 @@ The wall, which has AC 10, can be destroyed one layer at a time, in order from r
 
 *(Layer properties remain the same)*
 
-<!-- **Red.** The creature takes 10d6 Fire damage on a failed save, or half as much damage on a successful one. While this layer is in place, nonmagical ranged attacks can't pass through the wall. The layer can be destroyed by dealing at least 25 Cold damage to it.
-
-**Orange.** The creature takes 10d6 Acid damage on a failed save, or half as much damage on a successful one. While this layer is in place, magical ranged attacks can't pass through the wall. The layer is destroyed by a strong wind.
-
-**Yellow.** The creature takes 10d6 Lightning damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 60 force damage to it.
-
-**Green.** The creature takes 10d6 poison damage on a failed save, or half as much damage on a successful one. A passwall spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer.
-
-**Blue.** The creature takes 10d6 Cold damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 25 fire damage to it.
-
-**Indigo.** On a failed save, the creature is Restrained. It must then make a Constitution Saving Throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the petrified condition. The successes and failures don't need to be consecutive; keep track of both until the creature collects three of a kind.
-While this layer is in place, spells can't be cast through the wall. The layer is destroyed by bright light shed by a *Daylight* spell or a similar spell of equal or higher level.
-
-**Violet.** On a failed save, the creature is Blinded. It must then make a Wisdom Saving Throw at the start of your next turn. A successful save ends the Blindness. If it fails that save, the creature is transported to another plane of the DM's choosing and is no longer Blinded. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.) This layer is destroyed by a *Dispel Magic* spell or a similar spell of equal or higher level that can end spells and magical effects. -->
-
 \column
 
-### Shapechange
+### Shapechange ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 9 Transmutation*
 **Casting Time:** :: Action
@@ -6915,7 +6726,7 @@ Upon shape-shifting, you determine whether your equipment drops to the ground or
 
 \page
 
-### True Polymorph
+### True Polymorph ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 9 Transmutation*
 **Casting Time:** :: Action
@@ -6938,7 +6749,7 @@ The target's gear melds into the new form. The creature can't activate, use, wie
 
 \column
 
-### Wish
+### Wish ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 9 Conjuration*
 **Casting Time:** :: Action
@@ -6954,12 +6765,6 @@ Alternatively, you can create one of the following effects of your choice:
 *(Effects remains the same)*
 
 Using Wish in any way other than duplicating a spell causes any effects previously created by using Wish this way to end and any items or other physical evidence of the wish to disappear. Additionally, casting Wish this way weakens you. After enduring that stress, each time you cast a spell until you finish a Long Rest, you take 1d10 Necrotic damage per level of that spell. This damage can't be reduced or prevented in any way. In addition, your Strength score becomes 3 for 2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days.
-
-<!-- **Object into Creature.** You can turn an object into any kind of creature, as long as the creature's size is no larger than the object's size and the creature's challenge rating is 9 or lower. The creature is friendly to you and your companions. It acts on each of your turns. You decide what action it takes and how it moves. The DM has the creature's statistics and resolves all of its actions and movement.
-
-If the spell becomes permanent, you no longer control the creature. It might remain friendly to you, depending on how you have treated it.
-
-**Creature into Object.** If you turn a creature into an object, it transforms along with whatever it is wearing and carrying into that form, as long as the object's size is no larger than the creature's size. The creature's statistics become those of the object, and the creature has no memory of time spent in this form, after the spell ends and it returns to its normal form. -->
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -7185,9 +6990,9 @@ You can additionally attempt to High Jump as part of your Move on your turn. Whe
 
 ### Difficult Terrain ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:168px,left:55px,width:375px,mix-blend-mode:normal}
 
-Any spell, terrain, or other effect that creates an area on the ground that reduces movement is considered Difficult Terrain. By default Difficult Terrain makes it so that every 5 feet travelled through it uses 10 feet of movement, but some effects may specify a different amount of movement that is required to travel 5 feet. If the Difficult Terrain has some additional effect, such as damage, this only applies while the creature is affected by the Difficult Terrain. Different sources of Difficult Terrain do not stack.
+Difficult Terrain is an area that reduces the movement of creatures that travel through it. By default Difficult Terrain makes it so that every 5 feet travelled through it uses 10 feet of movement, but some effects may specify a different amount of movement that is required to travel 5 feet. Different sources of Difficult Terrain do not stack.
 
-Areas that reduce movement but are not specifically on the ground are not considered Difficult Terrain. This means that these effects can stack with Difficult Terrain and do not interact with features that refer to Difficult Terrain, such as Ranger's *Land Stride* feature. For example, travelling 5 feet through another creature's space costs 10 feet of movement, but this is not considered Difficult Terrain. The *Web* spell is only considered Difficult Terrain when laid on a floor.
+If the Difficult Terrain effect is said to be on the ground, such as a layer of snow or plants, creatures that can float, such as Soratami, are uneffected by the Difficult Terrain. If the Difficult Terrain has some additional effect, such as damage, this only applies while the creature is affected by the Difficult Terrain.  Travelling through a hostile creature's space is not considered Difficult Terrain, but does cost an additional 5 feet of movement for every 5 feet traveled.
 
 ## Flanking
 
@@ -7351,7 +7156,13 @@ A Long Rest is stopped if the Sleep is stopped. If a Long Rest is interrupted it
 
 After a spell from a Spell Scroll has been cast, the casting has failed, or it has been copied into a Wizard's spellbook, the Scroll becomes an inert, non-magical item and the text on it begins to slowly fade. For 24 hours after this, the spell can be copied into a spellbook once, or be attempted to be cast a single time if it has not already, before all of the text disappears. There is no check involved with a Wizard copying a spell from a Scroll into their spellbook, only the time and cost typically involved with copying a spell from any other source.
 
+\column
+
 You can attempt to cast the spell on a Spell Scroll if you know the spell, the spell is on the Spell List of your class or subclass, or if you have Spell Slots of the level of the spell, provided that you know the language that the Scroll is written in. If the spell is on your class's or subclass's spell list but of a higher Spell Level than you have Spell Slots for, or if the spell is not on your class's or subclass's spell list but is of a Spell Level of which you can cast, you must make an Ability Check using your Spellcasting Ability to determine whether you cast it successfully. The DC for this check is determined by the Spell Scroll.
+
+## Temporary Hit Points
+
+Most spells and effects that grant Temporary Hit Points have a duration associated with them. These Temporary Hit Points are part of the spell or effect, and therefore they are lost when the duration expires, either through losing concentration on the spell, having the effect dispelled, or by having it run out naturally. You also lose all Temporary Hit Points whenever you take a Long Rest.
 
 ## Weapon Masteries
 
@@ -7359,25 +7170,13 @@ Some classes, subclasses, and feats let characters gain access to Weapon Masteri
 
 The Weapon Mastery prerequisites show which Masteries are applicable to which weapons. If a game feature lets you replace a weapon's Mastery property with another one, that weapon must meet any prerequisite specified for the new property.
 
-### Cleave ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:417px,left:400px,width:375px,mix-blend-mode:normal} <!-- TODO --- FIX LINE POSITIONS-->
+:
+
+### Cleave ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:827px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Prerequisite: Melee Weapon, Heavy Property*
 </br>
 If you hit a creature with a Melee Attack using this weapon, you can deal damage to every creature of your choice adjacent to the target and within the weapon's reach. This damage is equal to the weapon's damage. You can deal this extra damage only once per turn.
-
-### Cross ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:579px,left:400px,width:375px,mix-blend-mode:normal}
-
-*Prerequisite: Melee Weapon, Finesse or Versatile Property*
-</br>
-If you use the Attack action and hit a creature with a Melee Attack using this weapon, you can move to the opposite side of the creature without expending movement and without provoking Opportunity Attacks. You can use this movement only once on your turn.
-
-:
-
-### Graze ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:767px,left:400px,width:375px,mix-blend-mode:normal}
-
-*Prerequisite: Melee Weapon, Heavy Property*
-</br>
-If your Attack Roll with this weapon misses a creature, you can deal damage to that creature equal to the Ability Modifier you used to make the Attack Roll. This damage is the same type dealt by the weapon, and the damage can't be increased in any other way, other than increasing the Ability Modifier.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -7386,7 +7185,23 @@ If your Attack Roll with this weapon misses a creature, you can deal damage to t
 
 \page
 
-### Nick ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Cross ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+
+*Prerequisite: Melee Weapon, Finesse or Versatile Property*
+</br>
+If you use the Attack action and hit a creature with a Melee Attack using this weapon, you can move to the opposite side of the creature without expending movement and without provoking Opportunity Attacks. You can use this movement only once on your turn.
+
+:
+
+### Graze ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:252px,left:55px,width:375px,mix-blend-mode:normal}
+
+*Prerequisite: Melee Weapon, Heavy Property*
+</br>
+If your Attack Roll with this weapon misses a creature, you can deal damage to that creature equal to the Ability Modifier you used to make the Attack Roll. This damage is the same type dealt by the weapon, and the damage can't be increased in any other way, other than increasing the Ability Modifier.
+
+:
+
+### Nick ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:440px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Prerequisite: Light Property*
 </br>
@@ -7394,7 +7209,7 @@ When you make the extra attack of the Light property, you can make it as part of
 
 :
 
-### Push ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:234px,left:55px,width:375px,mix-blend-mode:normal}
+### Push ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:610px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Prerequisite: Heavy, Two-Handed, or Versatile Property*
 </br>
@@ -7402,15 +7217,15 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 
 :
 
-### Sap ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:423px,left:55px,width:375px,mix-blend-mode:normal}
+### Sap ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:798px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Prerequisite: None*
 </br>
 If you hit a creature with this weapon, you can reduce its Speed by 10 feet until the start of your next turn. If you hit the creature more than once with this property, the Speed reduction doesn't exceed 10 feet.
 
-:
+\column
 
-### Topple ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:574px,left:55px,width:375px,mix-blend-mode:normal}
+### Topple ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Prerequisite: Heavy, Reach, or Versatile Property*
 </br>
@@ -7418,7 +7233,7 @@ If you hit a creature with this weapon and exceed its AC by 5 or more, you can f
 
 :
 
-### Vex ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:708px,left:55px,width:375px,mix-blend-mode:normal}
+### Vex ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:198px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Prerequisite: Ammunition, Finesse, or Light Property*
 </br>
@@ -7428,13 +7243,13 @@ If you hit a creature with this weapon, you have Advantage on your next Attack R
 
 The following Weapon Properties have been updated:
 
-### Heavy ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:911px,left:55px,width:375px,mix-blend-mode:normal}
+### Heavy ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:402px,left:400px,width:375px,mix-blend-mode:normal}
 
 Creatures that are Medium or Larger must have a Strength of 13 or higher or they have Disadvantage on Attack Rolls when attacking with a Heavy weapon. Creatures that are Small need a Strength of 15 or higher to not attack at Disadvantage, and Tiny creatures can't attack with this weapon.
 
-\column
+:
 
-### Light ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Light ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:571px,left:400px,width:375px,mix-blend-mode:normal}
 
 When you take the Attack action on your turn and attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon you hold in your other hand, you must be holding both weapons when you make these attacks, and you don't add your Ability Modifier to the extra attack's damage, unless that modifier is negative. This Bonus Action attack cannot apply any Weapon Mastery properties.
 
