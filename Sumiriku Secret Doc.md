@@ -42,8 +42,8 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
   
     - [{{ Magic Items}}{{ 4}}](#p5)
       - [{{ Blossom-Blade Saya}}{{ 4}}](#p5)
-      - [{{ Kabuki Mask of the Noppera-bō}}{{ 4}}](#p5)
-      - [{{ Kyōsei Claw}}{{ 5}}](#p6)
+      - [{{ Kyōsei Claw}}{{ 4}}](#p5)
+      - [{{ Noh Mask of the Noppera-bō}}{{ 5}}](#p6)
       - [{{ Prayer Beads to the Myōjin}}{{ 5}}](#p6)
       - [{{ Red Feather?}}{{ 5}}](#p6)
       - [{{ Prostheses}}{{ 6}}](#p7)
@@ -51,10 +51,12 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
         - [{{ Shuko Claws}}{{ 6}}](#p7)
     - [{{ Unique Items}}{{ 7}}](#p8)
       - [{{ Kakure-bi, the Concealed}}{{ 7}}](#p8)
-      - [{{ Kane-tsuki, Warcaller}}{{ 7}}](#p8)
+      - [{{ Kane-tsuki, the Warcaller}}{{ 7}}](#p8)
       - [{{ Kenzo's Jitte}}{{ 7}}](#p8)
-    - [{{ Sacred Treasures}}{{ 8}}](#p9)
-      - [{{ The Relics of Kumonoue}}{{ 8}}](#p9)
+      - [{{ Tansa-Ki, the Asteroid}}{{ 7}}](#p8)
+      - [{{ Wakare, the Branching}}{{ 8}}](#p9)
+    - [{{ Sacred Treasures}}{{ 9}}](#p10)
+      - [{{ The Relics of Kumonoue}}{{ 9}}](#p10)
       - [{{ The Starlight Regalia}}{{ 9}}](#p10)
 
   - ###### [{{ Allies, Monsters, and Villains}}{{ 10}}](#p11)
@@ -70,6 +72,8 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
     - [{{ Genji and Okamoto}}{{ 19}}](#p20)
     - [{{ Godaiyō}}{{ 21}}](#p22)
       - [{{ Raiju}}{{ 21}}](#p22)
+    - [{{ Generic Foes}}{{ 22}}](#p23)
+      - [{{ Samurai and Ashigaru}}{{ 22}}](#p23)
 
 - ### [{{ PART 2 - The Living Lore}}{{ 23}}](#p24) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:656px,left:55px,width:245px,mix-blend-mode:normal}
 
@@ -118,7 +122,7 @@ Some text
 
 All Magic Items listed here have a selection of keyword tags associated with them, which describe some of the qualities of the item. The first tag is the Type. The Types for Magic Items are Ammunition, Armour, Instrument, Potion, Prosthetic, Ring, Scroll, Spellcasting Focus, Tattoo, Weapon, or Wondrous Item for items that don't fit any of the other categories (there exist other item types for non-magical items). An item may have multiple of these types.
 
-The second tag is Rarity, which indicates how plentiful an item is and how likely it is to come across the item. The five levels of Rarity are Common, Uncommon, Rare, Very Rare, and Unique. Common items are often small, simple magical items or consumable items, such as Potions and low level Spell Scrolls. There should only be one copy of each Unique item in existence, but this does not necessarily mean the item is more powerful or valuable; an item can be Unique for its provenance even if it has the same traits as more common items.
+The second tag is Rarity, which indicates how plentiful an item is and how likely it is to come across the item. The five levels of Rarity are Common, Uncommon, Rare, Very Rare, and Unique. Common items are often small, simple magical items or consumable items, such as Potions and low level Spell Scrolls. There should only be one copy or a select few copies of each Unique item in existence, but this does not necessarily mean the item is more powerful or valuable; an item can be Unique for its provenance even if it has the same traits as more common items.
 
 The third tag is Power, which indicates the strength of the item's abilities and the impact it would have on a character's potential. The levels of Power are Aesthetic, for items that do not confer any mechanical bonuses, Minor, Major, Epic, and Ultimate.
 
@@ -135,20 +139,6 @@ There are a selection of additional tags that any item can have. Craftable is fo
 *Wondrous Item, Rare, Aesthetic* </br>
 This saya, or katana scabbard, is light pink in colour, with silver detailing and a purple sageo cord. When a katana is drawn from this saya, strongly scented sakura blossoms appear traveling along the path of the draw, alongside a swift gust of wind, before they disperse into the open air.
 
-#### Kabuki Mask of the Noppera-bō
-
-*Wondrous Item, Uncommon, Minor* </br>
-This mask appears to be a traditional Kabuki theatre mask, depicting someone with closed eyes and small facial features, perhaps asleep or in quiet contemplation. The mask appears to have been imbued with some illusionary magic, though whether this is a blessing or a curse is unclear.
-
-When you put on the mask you can choose to cast the Disguise Self spell. The spell lasts until you take of the mask, and the DC of the Intelligence (Investigation) for discovering the illusion is 20. While wearing the mask you are unable to speak, or cast spells requiring verbal components.
-
-{{pageNumber,auto}}
-{{footnote PART 1 | THE INFINITE LIBRARY}}
-
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
-
-\page
-
 #### Kyōsei Claw
 
 *Prosthetic (Arm), Rare, Minor* </br>
@@ -160,7 +150,19 @@ This prosthetic arm is actually a sentient ooze, attached to a host for protecti
 
 **Parasitic Personality.** The Kyōsei Claw has a personality of its own, though of little intelligence. However, it has demands that need to be satiated, and it seems to have an influence over the personality of its host. If the claw has not received the taste of flesh, either by being fed by hand or by dealing damage to a creature, it may become uncooperative.
 
-:
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
+#### Noh Mask of the Noppera-bō
+
+*Wondrous Item, Uncommon, Minor* </br>
+This mask appears to be a traditional Noh theatre mask, depicting someone with closed eyes and small facial features, perhaps asleep or in quiet contemplation. The mask appears to have been imbued with some illusionary magic, though whether this is a blessing or a curse is unclear.
+
+When you put on the mask you can choose to cast the Disguise Self spell. The spell lasts until you take of the mask, and the DC of the Intelligence (Investigation) for discovering the illusion is 20. While wearing the mask you are unable to speak, or cast spells requiring verbal components.
 
 #### Prayer Beads to the Myōjin
 
@@ -240,7 +242,7 @@ Sensu fans, handheld fans with intricate patterns or styles, are a common sight 
 
 Kakure-bi (隠れ美, 'Hidden Beauty') appears to be a regular sensu fan with a beautiful pattern drawn across it, but is instead a Tessen, or war fan. You gain a +1 bonus to Attack and Damage Rolls made with this magic weapon, and this weapon also has the Finesse property. Kakure-bi contains blades hidden within the fan guard; when you Attack with this weapon while it is closed, you can change the Bludgeoning damage it deals into Piercing damage. As a Bonus Action, the fan can be flashed closed and open, revealing on it a new design and pattern of your choice; you can choose for this pattern to appear on any item of clothing you are wearing until the item is removed or the pattern is replaced. A DC 15 Investigation check is required to reveal that this is a weapon rather than a folding fan.
 
-#### Kane-tsuki, Warcaller
+#### Kane-tsuki, the Warcaller
 
 *Weapon (Kama Yari), Unique, Major (Requires Attunement)* </br>
 It has long been the belief of Clan Wakasa that the role of the Daimyō is to lead from the front, to go first into battle with their army behind. To them it is decisiveness, not tactics, that makes a great leader. To this end, one need only to listen for Kane-tsuki's bells to know which direction to charge.
@@ -254,6 +256,15 @@ Kane-tsuki (鐘つき, 'Bell-Ringer') is a magical Kama Yari, gold-tipped and de
 *Weapon (Jitte), Unique, Minor* </br>
 This Jitte was a treasured weapon of Dojo Sensei Kenzo, which he had by his side for much of his life and used to teach martial arts to his students. If you successfully use the Disarming feature to disarm a creature, you get advantage with all attacks with this jitte and with the disarmed weapon against that creature until the end of your next turn.
 
+#### Tansa-ki, the Asteroid
+
+*Wondrous Item, Unique, Major (Requires Attunement)* </br>
+The greatest desire of the Infinite Library is to recover the Orb of All Knowledge, Zenchi-No-Tama, left for them by Mikazuki-sama. If it cannot be found, it instead must be recreated.
+
+Tansa-ki (探査機, 'Probe') is a hemisphere of grey moonrock, with carved circles on the flat face and embedded marble details. Over the course of 1 minute while holding Tansa-ki, you can touch a creature, alive or dead, a magic item, a book or document, or any other appropriate object as determined by your DM to learn information about the object and store it within Tansa-ki. If you touch a creature you learn the creature's statblock. If you touch a magic item you learn the item's properties, as if you had cast the Identify spell on it. If you touch a book or document, you record all of the information contained within the document. When touching any other appropriate object you can learn and record information of your choosing and the DMs approval about that object, such as its appearance or construction.
+
+As an action while holding Tansa-ki you can recall any record or piece of information previously stored, as a illusionary hologram appears above the rocks surface with the knowledge you request.
+
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
@@ -261,9 +272,17 @@ This Jitte was a treasured weapon of Dojo Sensei Kenzo, which he had by his side
 
 \page
 
-## Sacred Treasures
+#### Wakare, the Branching
 
-### The Relics of Kumonoue
+*Wondrous Item, Unique, Major (Requires Attunement by a Cleric or Paladin)* </br>
+
+Those that pray to the great Kodama Iname wish for balance in all things, and understand that life and death, joy and suffering, these are but two branches on the same tree. Wakare </br>(別れ, 'Separation') is a go-shintai, an enshrined object containing a small part of Iname's spirit. Though this branch fell from its tree over a thousand years ago, its leaves continue to grow.
+
+While holding Wakare, you gain access to an additional Channel Divinity: Balance Suffering.
+
+**Balance Suffering.** As a Magic action, you can present Wakare and expend a use of your Channel Divinity to split the pain of a willing creature and another creature, both within 60 feet of you. The second creature must succeed on a Wisdom Saving Throw, or the missing Hit Points from both creatures are totaled and then divided evenly between the two, increasing the current Hit Points of one creature and decreasing the current Hit Points of the other. The creature can choose to fail this Saving Throw.
+
+If Wakare is ever broken, the spiritual energy stored within erupts as a wave of deathly force, draining the life of anything in its path. The item becomes non-magical, even if it is repaired.
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
@@ -271,6 +290,12 @@ This Jitte was a treasured weapon of Dojo Sensei Kenzo, which he had by his side
 ![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
+
+## Sacred Treasures
+
+### The Relics of Kumonoue
+
+\column
 
 ### The Starlight Regalia
 
@@ -748,7 +773,7 @@ Text about the castle
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
 |Dex| 12|  +1  |  +1  |
-|Wis| 11|  +1  |  +1  |
+|Wis| 12|  +1  |  +1  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
@@ -777,7 +802,7 @@ Text about the castle
 
 {{monster,frame
 
-## Animated Armor
+## Animated Ō-yoroi
 
 *Medium Construct, Unaligned*
 
@@ -1389,7 +1414,7 @@ Text about them
 :
 ***Tail Bolt.*** *Dexterity Saving Throw:* DC 16, each creature within 5 feet of a point within 60 feet. *Failure:* 21 (6d6) Lightning damage, and the target is Dazed and is charged. *Success:* Half damage, and the target is not Dazed or is charged.
 :
-***Volt Vortex (Recharge 5-6).*** The Raijū spins wildling, kicking up a swirling storm. *Dexterity Saving Throw:* DC 17, all creatures within 10 feet of Raijū. *Failure:* 14 (4d6) Slashing damage and 14 (4d6) Lightning damage. *Success:* Half damage. A 15 foot radius storm centered on the Raijū is created which lasts for 1 minute. The area of the storm is Heavily Obscured to any creatures outside of the storm, and any creature that ends their turn inside the storm takes 7 (2d6) Slashing damage and 7 (2d6) Lightning damage.
+***Volt Vortex (Recharge 5-6).*** The Raijū spins wildling, kicking up a swirling storm. *Dexterity Saving Throw:* DC 17, all creatures within 10 feet of Raijū. *Failure:* 14 (4d6) Slashing damage and 14 (4d6) Lightning damage. *Success:* Half damage. A 15 foot radius storm emminating from the Raijū is created which lasts for 1 minute. The area of the storm is Heavily Obscured to any creatures outside of the storm, and any creature that ends their turn inside the storm takes 7 (2d6) Slashing damage and 7 (2d6) Lightning damage.
 
 ### Reactions
 
@@ -1409,6 +1434,184 @@ The Raijū can take up to two Reactions per round but only one per turn.
 ![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
+
+## Generic Foes
+
+### Samurai and Ashigaru
+
+{{monster,frame
+
+## Samurai Footman
+
+*Medium Humanoid, Lawful Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 17 (Heavy Armour)
+**HP**         :: 60 (8d8 + 24)
+**Speed**      :: 30 ft.
+\column
+**Initiative** :: +0 (10)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18|  +4  |  +4  |
+|Int| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10|  +0  |  +0  |
+|Wis| 12|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16|  +3  |  +3  |
+|Cha| 10|  +0  |  +0  |
+
+}}
+
+**CR**          :: 3 (XP 700; PB +2)
+
+}}
+
+### Traits
+
+***Exploit Opening (3/Day).*** When the samurai makes an attack, they have advantage on the attack roll.
+
+### Actions
+
+***Multiattack.*** The samurai makes two Katana attacks.
+:
+***Katana.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (2d4 + 4) Slashing damage.
+
+### Bonus Actions
+
+***Bushidō Focus (1/Day).*** The samurai takes the Dodge action. Whenever an attack misses them until the start of their next turn, they gain 5 Temporary Hit Points.
+
+}}
+
+\column
+
+{{monster,frame
+
+## Mounted Samurai
+
+*Large Humanoid, Lawful Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 17 (Heavy Armour)
+**HP**         :: 80 (10d8 + 36)
+**Speed**      :: 60 ft.
+\column
+**Initiative** :: +0 (10)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 20|  +5  |  +8  |
+|Int| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10|  +0  |  +0  |
+|Wis| 14|  +2  |  +2  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +4  |  +4  |
+|Cha| 12|  +1  |  +1  |
+
+}}
+
+**CR**          :: 6 (XP 2,300; PB +3)
+
+}}
+
+### Traits
+
+***Exploit Opening (3/Day).*** When the samurai makes an attack, they have advantage on the attack roll.
+:
+***Mounted Warrior.*** The samurai fights on horseback. If the samurai is ever knocked prone the horse flees, reducing the samurai's size to Medium, their speed to 30 feet, and no longer giving them access to Trample.
+
+### Actions
+
+***Multiattack.*** The samurai makes two Naginata attacks.
+:
+***Naginata.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 10 (1d10 + 5) Slashing damage.
+
+### Bonus Actions
+
+***Trample (1/Day).*** The samurai moves up to their speed without provoking Opportunity Attacks, trampling anyone in their path. *Strength Saving Throw:* DC 17, all creatures the samurai moves through. *Failure:* 18 (4d8) Bludgeoning damage and have the Prone condition if they are Large or smaller. *Success:* Half damage.
+
+}}
+
+{{monster,frame
+
+## Samurai Archer
+
+*Medium Humanoid, Lawful Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 15 (Light Armour)
+**HP**         :: 39 (6d8 + 12)
+**Speed**      :: 30 ft.
+\column
+**Initiative** :: +0 (10)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 13|  +1  |  +1  |
+|Int| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 18|  +4  |  +4  |
+|Wis| 14|  +2  |  +2  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +2  |  +2  |
+|Cha| 12|  +1  |  +1  |
+
+}}
+
+**Senses**      :: Passive Perception 14
+**CR**          :: 2 (XP 450; PB +2)
+
+}}
+
+### Traits
+
+***Exploit Opening (3/Day).*** When the samurai makes an attack, they have advantage on the attack roll.
+:
+***Snipe.*** When the samurai hits a creature with a ranged weapon attack with Advantage, they deal an extra 7 (2d6) Piercing damage.
+
+### Actions
+
+***Daikyū.*** *Melee Weapon Attack:* +6 to hit, range 150/600 ft., one target. *Hit:* 8 (1d8 + 4) Piercing damage.
+:
+***Trickshot (Recharge 5-6).***
+
+}}
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}

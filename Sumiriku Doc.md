@@ -77,122 +77,122 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
     - [{{ The Starlight Regalia}}{{ 19}}](#p20)
     - [{{ The Tale of the Blood War}}{{ 20}}](#p21)
     - [{{ The Tale of the Compassionate Princess}}{{ 21}}](#p22)
-  - [{{ Assei Jidai (Tyrannical Era) - TODO}}{{ 22}}](#p23)
-  - [{{ Bunretsu Jidai (Divided Era) - TODO}}{{ 22}}](#p23)
-  - [{{ Tōgō Jidai (Unification Era) - TODO}}{{ 22}}](#p23)
-    - [{{ The Tale of Otoha-tenno's Climb - TODO}}{{ 22}}](#p23)
-  - [{{ Guntai Jidai (Military Era) - TODO}}{{ 22}}](#p23)
-  - [{{ Koware Jidai (Shattered States Era) - TODO}}{{ 22}}](#p23)
+  - [{{ Assei Jidai (Tyrannical Era)}}{{ 22}}](#p23)
+  - [{{ Bunretsu Jidai (Divided Era)}}{{ 23}}](#p24)
+  - [{{ Tōgō Jidai (Unification Era) - TODO}}{{ 24}}](#p25)
+    - [{{ The Tale of the Emperor's Climb - TODO}}{{ 24}}](#p25)
+  - [{{ Guntai Jidai (Military Era) - TODO}}{{ 24}}](#p25)
+  - [{{ Koware Jidai (Shattered States Era) - TODO}}{{ 24}}](#p25)
 
 }}
 
 {{toc
 
-- ### [{{ PART 2 - Character Options}}{{ 24}}](#p25) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:127px,left:285px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 2 - Character Options}}{{ 26}}](#p27) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:127px,left:285px,width:245px,mix-blend-mode:normal}
 
-- ###### [{{ Character Species}}{{ 25}}](#p26)
+- ###### [{{ Character Species}}{{ 27}}](#p28)
 
-  - [{{ Nekotaiyō (Sunfolk)}}{{ 25}}](#p26)
-  - [{{ Tsukibito (Moonfolk)}}{{ 27}}](#p28)
-  - [{{ Masaru (Macaque)}}{{ 29}}](#p30)
-  - [{{ Ōgaru (Ogre)}}{{ 30}}](#p31)
-  - [{{ Kappa (Tortle)}}{{ 32}}](#p33)
-  - [{{ Akki (Goblin)}}{{ 33}}](#p34)
-  - [{{ Tanuki (Raccoon-Dog)}}{{ 34}}](#p35)
-  - [{{ Kawauso (Otter)}}{{ 36}}](#p37)
-  - [{{ Kitsune (Fox)}}{{ 37}}](#p38)
-  - [{{ Kisuru (Crane)}}{{ 39}}](#p41)
-  - [{{ Bunagaya (Halfling) - TODO}}{{ 41}}](#p42)
-  - [{{ Korpokkur (Dwarf) - TODO}}{{ 42}}](#p43)
-  - [{{ Ryūson (Dragonborn)}}{{ 43}}](#p44)
-  - [{{ Human - TODO}}{{ 46}}](#p47)
+  - [{{ Nekotaiyō (Sunfolk)}}{{ 27}}](#p28)
+  - [{{ Tsukibito (Moonfolk)}}{{ 29}}](#p30)
+  - [{{ Masaru (Macaque)}}{{ 31}}](#p32)
+  - [{{ Ōgaru (Ogre)}}{{ 32}}](#p33)
+  - [{{ Kappa (Tortle)}}{{ 34}}](#p35)
+  - [{{ Akki (Goblin)}}{{ 35}}](#p36)
+  - [{{ Tanuki (Raccoon-Dog)}}{{ 36}}](#p38)
+  - [{{ Kawauso (Otter)}}{{ 38}}](#p39)
+  - [{{ Kitsune (Fox)}}{{ 39}}](#p40)
+  - [{{ Kisuru (Crane)}}{{ 41}}](#p42)
+  - [{{ Bunagaya (Halfling) - TODO}}{{ 43}}](#p44)
+  - [{{ Korpokkur (Dwarf) - TODO}}{{ 44}}](#p45)
+  - [{{ Ryūson (Dragonborn)}}{{ 45}}](#p46)
+  - [{{ Human - TODO}}{{ 48}}](#p49)
 
-- ###### [{{ Aberrant Forms}}{{ 47}}](#p48)
+- ###### [{{ Aberrant Forms}}{{ 49}}](#p50)
 
-  - [{{ Oni Bloodline Form}}{{ 47}}](#p48)
-  - [{{ Yūrei Manifest Form}}{{ 49}}](#p50)
-  - [{{ Noppera-bō Changeling Form}}{{ 50}}](#p51)
+  - [{{ Oni Bloodline Form}}{{ 49}}](#p50)
+  - [{{ Yūrei Manifest Form}}{{ 51}}](#p52)
+  - [{{ Noppera-bō Changeling Form}}{{ 52}}](#p53)
 
-- ###### [{{ Classes and Subclasses}}{{ 51}}](#p52)
+- ###### [{{ Classes and Subclasses}}{{ 53}}](#p54)
 
-  - [{{ Barbarian}}{{ 51}}](#p52)
-    - [{{ Path of the Kaijū - TODO}}{{ 52}}](#p53)
-  - [{{ Bard}}{{ 53}}](#p54)
-    - [{{ College of Ink - TODO}}{{ 54}}](#p55)
-  - [{{ Blood Hunter}}{{ 55}}](#p56)
-    - [{{ Order of the Shifthunters}}{{ 55}}](#p56)
-  - [{{ Cleric - TODO}}{{ 57}}](#p58)
-    - [{{ Duality Domain - TODO}}{{ 57}}](#p58)
-    - [{{ Sea Domain - TODO}}{{ 58}}](#p59)
-    - [{{ Sky Domain - TODO}}{{ 58}}](#p59)
-  - [{{ Druid - TODO}}{{ 59}}](#p60)
-    - [{{ Circle of Blossoms - TODO}}{{ 59}}](#p60)
-    - [{{ Circle of Disaster - TODO}}{{ 60}}](#p61)
-  - [{{ Fighter - TODO}}{{ 61}}](#p62)
-  - [{{ Monk - TODO}}{{ 61}}](#p62)
-    - [{{ Way of the Raging Demon - TODO}}{{ 61}}](#p62)
-  - [{{ Paladin - TODO}}{{ 61}}](#p62)
-  - [{{ Ranger - TODO}}{{ 61}}](#p62)
-  - [{{ Rogue - TODO}}{{ 63}}](#p64)
-    - [{{ Dagger Dancer Archetype}}{{ 63}}](#p64)
-  - [{{ Sorcerer - TODO}}{{ 64}}](#p65)
-  - [{{ Warlock - TODO}}{{ 64}}](#p65)
-  - [{{ Wizard - TODO}}{{ 64}}](#p65)
+  - [{{ Barbarian}}{{ 53}}](#p54)
+    - [{{ Path of the Kaijū - TODO}}{{ 54}}](#p55)
+  - [{{ Bard}}{{ 55}}](#p56)
+    - [{{ College of Ink - TODO}}{{ 56}}](#p57)
+  - [{{ Blood Hunter}}{{ 57}}](#p58)
+    - [{{ Order of the Shifthunters}}{{ 57}}](#p58)
+  - [{{ Cleric - TODO}}{{ 59}}](#p60)
+    - [{{ Duality Domain - TODO}}{{ 59}}](#p60)
+    - [{{ Sea Domain - TODO}}{{ 60}}](#p61)
+    - [{{ Sky Domain - TODO}}{{ 60}}](#p61)
+  - [{{ Druid - TODO}}{{ 61}}](#p62)
+    - [{{ Circle of Blossoms - TODO}}{{ 61}}](#p62)
+    - [{{ Circle of Disaster - TODO}}{{ 62}}](#p63)
+  - [{{ Fighter - TODO}}{{ 63}}](#p64)
+  - [{{ Monk - TODO}}{{ 63}}](#p64)
+    - [{{ Way of the Raging Demon - TODO}}{{ 63}}](#p64)
+  - [{{ Paladin - TODO}}{{ 63}}](#p64)
+  - [{{ Ranger - TODO}}{{ 63}}](#p64)
+  - [{{ Rogue - TODO}}{{ 65}}](#p66)
+    - [{{ Dagger Dancer Archetype}}{{ 65}}](#p66)
+  - [{{ Sorcerer - TODO}}{{ 66}}](#p67)
+  - [{{ Warlock - TODO}}{{ 66}}](#p67)
+  - [{{ Wizard - TODO}}{{ 66}}](#p67)
 
 }}
 
 {{toc
 
-- ###### [{{ Backgrounds}}{{ 65}}](#p66)
+- ###### [{{ Backgrounds}}{{ 67}}](#p68)
 
-  - [{{ Languages}}{{ 65}}](#p66)
-  - [{{ Background Options}}{{ 67}}](#p68)
+  - [{{ Languages}}{{ 67}}](#p68)
+  - [{{ Background Options}}{{ 69}}](#p70)
 
-- ###### [{{ Weapons, Armour, and Equipment}}{{ 71}}](#p72)
+- ###### [{{ Weapons, Armour, and Equipment}}{{ 73}}](#p74)
 
-  - [{{ Weapons - TODO}}{{ 71}}](#p72)
-  - [{{ Armour}}{{ 77}}](#p78)
-  - [{{ Equipment - TODO}}{{ 78}}](#p79)
+  - [{{ Weapons - TODO}}{{ 73}}](#p74)
+  - [{{ Armour}}{{ 79}}](#p80)
+  - [{{ Equipment - TODO}}{{ 80}}](#p81)
 
-- ###### [{{ Feats}}{{ 79}}](#p80)
+- ###### [{{ Feats}}{{ 81}}](#p82)
 
-  - [{{ Species Feats - TODO}}{{ 79}}](#p80)
-  - [{{ General Feats}}{{ 87}}](#p88)
+  - [{{ Species Feats - TODO}}{{ 81}}](#p82)
+  - [{{ General Feats}}{{ 89}}](#p90)
 
-- ### [{{ PART 3 - Geography and Culture}}{{ 92}}](#p93) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:324px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 3 - Geography and Culture}}{{ 94}}](#p95) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:324px,left:515px,width:245px,mix-blend-mode:normal}
 
-- ###### [{{ Maps of Sumiriku and the World - TODO}}{{ 93}}](#p94)
+- ###### [{{ Maps of Sumiriku and the World - TODO}}{{ 95}}](#p96)
 
-- ###### [{{ Landscapes and Landmarks - TODO}}{{ 95}}](#p96)
+- ###### [{{ Landscapes and Landmarks - TODO}}{{ 97}}](#p98)
 
-- ###### [{{ Calendar and Notable Events - TODO}}{{ 98}}](#p99)
+- ###### [{{ Calendar and Notable Events - TODO}}{{ 100}}](#p101)
 
-  - [{{ Seasons}}{{ 98}}](#p99)
-  - [{{ Important Days}}{{ 98}}](#p99)
-    - [{{ Shōtenbi (Ascension Day)}}{{ 98}}](#p99)
-    - [{{ Tanabata (Seventh Evening) - TODO}}{{ 98}}](#p99)
-    - [{{ Ganjitsu (New Year's Day)}}{{ 99}}](#p100)
-    - [{{ Hyakki Chitsuki (Hundred Oni Blood Moon)}}{{ 99}}](#p100)
+  - [{{ Seasons}}{{ 100}}](#p101)
+  - [{{ Important Days}}{{ 100}}](#p101)
+    - [{{ Shōtenbi (Ascension Day)}}{{ 100}}](#p101)
+    - [{{ Tanabata (Seventh Evening) - TODO}}{{ 100}}](#p101)
+    - [{{ Ganjitsu (New Year's Day)}}{{ 101}}](#p102)
+    - [{{ Hyakki Chitsuki (Hundred Oni Blood Moon)}}{{ 101}}](#p102)
 
-- ###### [{{ Important People and Groups - TODO}}{{ 101}}](#p102)
+- ###### [{{ Important People and Groups - TODO}}{{ 103}}](#p104)
 
-- ###### [{{ Sacred Treasures and other Magic Items - TODO}}{{ 102}}](#p103)
+- ###### [{{ Sacred Treasures and other Magic Items - TODO}}{{ 104}}](#p105)
 
-- ### [{{ EXTRA - Appendices}}{{ 103}}](#p104) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:654px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ EXTRA - Appendices}}{{ 105}}](#p106) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:700px,left:515px,width:245px,mix-blend-mode:normal}
 
-- ###### [{{ Appendix A - Creature Stat Blocks}}{{ 104}}](#p105)
+- ###### [{{ Appendix A - Creature Stat Blocks}}{{ 106}}](#p107)
 
-- ###### [{{ Appendix B - Updated Feats}}{{ 108}}](#p109)
+- ###### [{{ Appendix B - Updated Feats}}{{ 110}}](#p111)
 
-- ###### [{{ Appendix C - Spell Changes}}{{ 112}}](#p113)
+- ###### [{{ Appendix C - Spell Changes}}{{ 114}}](#p115)
 
-- ###### [{{ Appendix D - Rule Change Glossary}}{{ 128}}](#p129)
+- ###### [{{ Appendix D - Rule Change Glossary}}{{ 130}}](#p131)
 
-- ###### [{{ Appendix E - Reference Images - TODO}}{{ 137}}](#p138)
+- ###### [{{ Appendix E - Reference Images - TODO}}{{ 139}}](#p140)
 
-- ### [{{ CREDITS - TODO}}{{ 142}}](#p143) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:833px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ CREDITS - TODO}}{{ 144}}](#p145) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:879px,left:515px,width:245px,mix-blend-mode:normal}
 
-- ###### [{{ Special Thanks}}{{ 142}}](#p143)
+- ###### [{{ Special Thanks}}{{ 144}}](#p145)
 
 }}
 
@@ -458,7 +458,7 @@ The dwelling place of the 14 Ō-Hoshikuzushin, progenitors of all else that is. 
 
 }}
 
-{{imageMaskEdge1,--offset:26%,--rotation:0
+{{imageMaskEdge1,--offset:28%,--rotation:0
   ![utsushiyo](https://cdnb.artstation.com/p/assets/images/images/005/992/331/large/derek-weselake-gionfestivalderek.jpg?1495230579){position:aboslute,top:680px,left:-1px,width:101%}
 }}
 
@@ -466,7 +466,7 @@ The dwelling place of the 14 Ō-Hoshikuzushin, progenitors of all else that is. 
 
 ## Kumonoue (雲の上, </br> 'Above the Clouds')
 
-The realm of most of the Myōjin, the primary deities and greatest Kami of Sumiriku, alongside their Kami followers. The realm is believed to be a paradise of white clouds, gentle breezes, and the lightest rain. It is thought that the only way in or out is over the Niji-no-Ukihashi (虹の浮橋, 'Floating Rainbow Bridge'), of which access is restricted to only the Myōjin. Despite this separation, the presence of each of these Myōjin can be felt at the many shrines across the realms that are dedicated to them. These Shrines to the Myōjin are almost always built at an elevation, so the worshipers will feel closer to Kumonoue.
+The realm of most of the Myōjin, the primary deities and greatest Kami of Sumiriku, alongside their Kami followers. The realm is believed to be a paradise of white clouds, gentle breezes, and the lightest rain. In the past the Myōjin were able to travel to and from Kumonoue with the Niji-no-Ukihashi (虹の浮橋, 'Floating Rainbow Bridge'), but after its destruction they are more cut off from the world. Despite this separation, the presence of each of these Myōjin can be felt at the many shrines across the realms that are dedicated to them. These Shrines to the Myōjin are almost always built at an elevation, so the worshipers will feel closer to Kumonoue.
 
 ## Utsushiyo  (現し世, </br> 'The Manifest World')
 
@@ -617,7 +617,7 @@ The Zodiac is a cycle of the 14 </br>Ō-Hoshikuzushin, which repeats after every
 
 # Major Deities
 
-T {{width:5px}} he Myōjin (明神, 'Shining Deity'), or Ōkami (大神, 'Great Deity'), are Kami second only to the Ō-Hoshikuzushin in terms of their divinity and greatness, and are worshipped by the citizens of Sumiriku as deities over whole domains. Some of these beings were born as Myōjin, but many were people who transcended themselves to become Kami and then be placed among the Myōjin. The Myōjin spend much of their time within the realm known as Kumonoue, but they can enter Utsushiyo by crossing a bridge called the Niji-no-Ukihashi. Below is a list of the Myōjin, with a description of their traits and deeds, as well as the unique domain they have control over.
+T {{width:5px}} he Myōjin (明神, 'Shining Deity'), also known as the Ōkami (大神, 'Great Deity'), are Kami second only to the Ō-Hoshikuzushin in terms of their divinity and greatness, and are worshipped by the citizens of Sumiriku as deities over whole domains. Some of these beings were born as Myōjin, but many were people who transcended themselves to become Kami and then be placed among the Myōjin. The Myōjin spend much of their time within the realm known as Kumonoue, but they can enter Utsushiyo by crossing a bridge called the Niji-no-Ukihashi. Below is a list of the Myōjin, with a description of their traits and deeds, as well as the unique domain they have control over.
 
 ### The Obake Quadruplets ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:399px,left:55px,width:375px,mix-blend-mode:normal}
 
@@ -789,7 +789,7 @@ On one fateful day the the greatest of these dangers revealed themselves - the O
 
 The Blood War began the moment the Oni shattered the barrier between realms. No longer were we safe, safely separated from danger; the Oni were here, and they were coming. Using their dark magic they blotted out the sky, protecting them from the radiance of the twin suns and forcing the world into endless night. Their aim was to feast on spirits, to gorge themselves on our and the Kami's lifeblood alike. The Oni came as a chaotic swarm, but quickly organised; lesser Oni started to follow the leadership of commanders and lords, such as the fearsome Daimyō Asudeu.
 
-At this time there was a Kitsune woman named Tomomi-sama, an oracle and mother who lived in Ochinodojima, in a place that would become the great capital, Heain-kyō. In her quaint home she alone cared for her two children, as her husband was fighting in the brutal war against the Oni. By foxfire and candlelight she tried to brighten the lives of her children and calm their fears — but the
+During this carnage there was a Kitsune woman named Tomomi-sama, an oracle and mother who lived in Ochinodojima, in a place that would become the great capital, Heian-kyō. In her quaint home she alone cared for her two children, as her husband was fighting in the brutal war against the Oni. By foxfire and candlelight she tried to brighten the lives of her children and calm their fears — but the
 
 <!-- Asudeu - (アスデウ)
 
@@ -834,11 +834,11 @@ When the Oni arrived Tomomi-sama was ready to face them head on. Wielding the mi
 
 {{quote
 
-In this Era, on a tropical northern island, there was an island lord who lived with his daughter, Princess Kazuko-sama. Though her father was seen as a selfish leader, Kazuko-sama was beloved by the people of her island; from an early age she was an active part of the community, seeking to lend a hand to people whenever she could. When she was just a young child she was very eager to help anyone she could find, though she lacked some of the skills she needed given her age. When she grew she kept this habit up, particularly involving herself in caring for the very young and the elderly of her island.
+In this Era, on a tropical northern island, there was an island lord who lived with his daughter, Princess Kazuko-hime. Though her father was seen as a selfish leader, Kazuko-hime was beloved by the people of her island; from an early age she was an active part of the community, seeking to lend a hand to people whenever she could. When she was just a young child she was very eager to help anyone she could find, though she lacked some of the skills she needed given her age. When she grew she kept this habit up, particularly involving herself in caring for the very young and the elderly of her island.
 
 Despite being peaceful times, a dark tide was approaching their island. The shamans, farmers, and fishers all sensed it — the world around them was breaking at the seams. The fishers noticed the fish clearing out from the sea, before finding the waves crashing into the shore getting taller and taller, getting increasingly violent. The farmers found the ground unusable, as it became beset with more and more frequent quakes. The shamans, with their naturalistic connection, felt this as an augury, an omen, that a calamity was coming.
 
-Their words of warning, of the destruction that may come to their land, soon reached the lord of the island. Though he acted as if he was greatly mournful about the news, secretly he made quick plans to flee from the island with his family. Upon learning of this Kazuko-sama was distraught; her father was so heartless to abandon his people, people who did not have the resources he did to evacuate from the coming danger, and leave them to the whims of nature. She decided to refuse her father's instructions, and chose to stay with her people until the end came. Until then she helped as many as she could, and wondered if there was a way to prevent this imminent threat. She had a feeling that whatever was causing this must be alive in some way, and so perhaps kindness could be key to her island's survival. When the time cane, when waves tall as mountains towered over the land, Kazuko-sama was waiting at the shore.
+Their words of warning, of the destruction that may come to their land, soon reached the lord of the island. Though he acted as if he was greatly mournful about the news, secretly he made quick plans to flee from the island with his family. Upon learning of this Kazuko-hime was distraught; her father was so heartless to abandon his people, people who did not have the resources he did to evacuate from the coming danger, and leave them to the whims of nature. She decided to refuse her father's instructions, and chose to stay with her people until the end came. Until then she helped as many as she could, and wondered if there was a way to prevent this imminent threat. She had a feeling that whatever was causing this must be alive in some way, and so perhaps kindness could be key to her island's survival. When the time cane, when waves tall as mountains towered over the land, Kazuko-hime was waiting at the shore.
 
 }}
 
@@ -848,9 +848,9 @@ Their words of warning, of the destruction that may come to their land, soon rea
 
 &nbsp;&nbsp;Witness to these events was the eldest starlight Kami, Ō-Seiza-Ryū. The dragon watched the destruction of the world unfurl beneath him, the shattering of islands on his perfect map. He also saw this princess' great kindness, her selflessness in the face of despair. Seeing this contrast, this light in a moment of darkness, touched at Ō-Seiza-Ryū's heart, and for the first time he shed a single tear, which fell onto the map.
 
-From where Kazuko-sama stood, she saw a shooting star descend through the sky towards her, a trail of light blue streaking through the sky behind it. Instinctually she reached out her hand, and the meteor landed gently in her palm. Upon landing, a sphere of blue energy emanated out from the meteor to protect the island, pushing back the incoming tsunami. After the light and noise had subsided, Kazuko-sama adjusted her eyes to see in her hand a magatama, a sacred jewel made from the tear of the constellation dragon. She also saw her island, unscathed from the expected disaster, and something beginning to rise out of the water.
+From where Kazuko-hime stood, she saw a shooting star descend through the sky towards her, a trail of light blue streaking through the sky behind it. Instinctually she reached out her hand, and the meteor landed gently in her palm. Upon landing, a sphere of blue energy emanated out from the meteor to protect the island, pushing back the incoming tsunami. After the light and noise had subsided, Kazuko-hime adjusted her eyes to see in her hand a magatama, a sacred jewel made from the tear of the constellation dragon. She also saw her island, unscathed from the expected disaster, and something beginning to rise out of the water.
 
-What appeared before her was a kaijū, a bestial titan awoken from its underwater slumber. Within the creature's eyes Kazuko-sama say rage, but she also saw confusion, and pain. In that moment she chose to reach out to the creature, stretching out a hand to it and singing to it a traditional tune she learned as a child. The creature, initially set on a path of destruction, became receptive to her, and the hatred in its eyes began to fade. She touched the head of the massive creature as it knelt down and blessed it, and she felt it thank her in its own way. After it turned back into the ocean, leaving their island in safety. From then Princess Kazuko-sama was the new lord of the island, and she always kept with her the magatama she was gifted that day, that became known as Ryūsei-Namida. Thus ends the tale of the Compassionate Princess.
+What appeared before her was a kaijū, a bestial titan awoken from its underwater slumber. Within the creature's eyes Kazuko-hime say rage, but she also saw confusion, and pain. In that moment she chose to reach out to the creature, stretching out a hand to it and singing to it a traditional tune she learned as a child. The creature, initially set on a path of destruction, became receptive to her, and the hatred in its eyes began to fade. She touched the head of the massive creature as it knelt down and blessed it, and she felt it thank her in its own way. After it turned back into the ocean, leaving their island in safety. From then Princess Kazuko-hime was the new lord of the island, and she always kept with her the magatama she was gifted that day, that became known as Ryūsei-Namida. Thus ends the tale of the Compassionate Princess.
 
 {{attribution *The History of Sumiriku*}}
 
@@ -863,79 +863,43 @@ What appeared before her was a kaijū, a bestial titan awoken from its underwate
 
 \page
 
-## Assei Jidai - TODO
+{{imageMaskEdge6,--offset:35%,--rotation:180
+  ![tamata](https://i.imgur.com/5T662Dv.jpeg){position:absolute,top:-0px,width:101%}
+}}
 
-## (圧政時代, 'Tyrannical Era')
+{{position:absolute,top:335px,left:150px,margin-bottom:-30px,text-align:center
 
-### ~700 - 570 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:55px,width:375px,mix-blend-mode:normal}
-
-The end of the Kaika Jidai came suddenly. Throughout much of that time, something was brewing at the confluence between the Godaikai realms. The elemental power there fused and swirled together, eventually forming, the Chromatic-Many-Headed-Serpent, Tamata-no-Orochi. Her near omnipotence unable to be contained, she broke through the barrier between realms, shattering the peak of Kamuy-Kemnu Mountain as she appeared in Utsushiyo. From the moment she arrived, her heart craved domination.
-
-Tamata-no-Orochi's arrival took the Myōjin by surprise, giving her the perfect chance to strike. Her first act was to destroy Niji-no-Ukihashi, separating the Myōjin from their followers below. As rainbow shards fell from the sky, she declared herself the one true lord of all of Sumiriku, with no equal remaining to threaten her rule. To ensure that not even the Kami could stop her she had shrines across the land destroyed, replaced by ones that enshrined a fragment of herself, dedicated to worship of the one true Myōjin. From a perch she made in the crater of Kamuy-Kemnu she watched the suns rise over all that was hers.
-
-For nearly two centauries the people of Sumiriku lived in the shadow of the Tyrant Dragon-Kami.
-
-Tamata-no-Orochi destroys Niji-no-Ukihashi and plunges the world into darkness. She is defeated by the last Myōjin, Yūkan-sama, and sealed away.
-
-:
-
-## Bunretsu Jidai - TODO
-
-## (分裂時代, 'Divided Era')
-
-### ~570 - 1 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:400px,width:375px,mix-blend-mode:normal}
-
-The islands are divided into local lords after the defeat of Tamata-no-Orochi. Tokuzō-tenno collects the Starlight Regalia, defends Sumiriku from outside invaders, and becomes the first Emperor.
-
-:
-
-## Tōgō Jidai - TODO
-
-## (統合時代,</br>
-
-## 'Unification Era')
-
-### 0 - 1851 AA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:400px,width:375px,mix-blend-mode:normal}
-
-:
-
-TODO
-
-:
-
-#### The Tale of the Emperor's Climb - TODO
-
-{{quote
-
-Otoha-tenno
-
-Test - TODO
-
-{{attribution *The History of Sumiriku*}}
-
-<!-- , and with a bloodlust unlike any other -->
+##### Tamata-no-Orochi </br> soars through the sky
 
 }}
 
-## Guntai Jidai - TODO
+::::::::::::::::::
 
-## (軍隊時代, 'Military Era')
+## Assei Jidai
 
-### 1852 - 2127 AA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:400px,width:375px,mix-blend-mode:normal}
+## (圧政時代, 'Tyrannical Era')
 
-TODO
+### ~700 - 570 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:387px,left:55px,width:375px,mix-blend-mode:normal}
 
-:
+The end of the Kaika Jidai came suddenly. Throughout much of that time, something was brewing at the confluence between the Godaikai realms. The elemental power there fused and swirled together, eventually forming the Chromatic-Many-Headed-Serpent, Tamata-no-Orochi. Her near omnipotence unable to be contained, she broke through the barrier between realms, shattering the peak of Mount Kamuy-Kemnu as she appeared in Utsushiyo. From the moment she arrived, her heart craved domination.
 
-## Koware Jidai - TODO
+Tamata-no-Orochi's arrival took the Myōjin by surprise, giving her the perfect chance to strike. Her first act was to destroy Niji-no-Ukihashi, separating the Myōjin from their followers below. As rainbow shards fell from the sky, she declared herself the one true lord of all of Sumiriku, with no equal remaining to threaten her rule. To ensure that not even the Kami could stop her she had shrines across the land destroyed, replaced by ones that enshrined a fragment of herself, dedicated to worship of the one true Myōjin. To sate her cruel desires, some people we even forced to be sacrifices, the dragon feasting on the suffering she caused. From a perch she made in the crater of Kamuy-Kemnu she watched the suns rise over all that was hers.
 
-## (壊れ時代,</br>
+\column
 
-## 'Shattered States Era')
+::::::::::::::::::::::::
 
-### Ongoing (2128 - 2254+ AA) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:400px,width:375px,mix-blend-mode:normal}
+For nearly two centuries the people of Sumiriku lived in the shadow of the Tyrant Dragon-Kami. Some attempted to plot, to seek some way end the reign of terror, though their effort was to little avail. Most people instead accepted their plight, attempting to get by and avoid her wrath. This lasted until Yūkan-sama, at the time just a mortal rōnin, climbed to the peak of Kamuy-Kemnu alone and challenged the great tyrant; his partner, Kushinada, was soon to be a sacrifice. Noticing his incredible bravery, as well as the near insurmountable challenge ahead of him, Ō-Seiza-Nezumi appeared before Yūkan-sama, balancing on the blunt edge of his blade. They blessed this blade with their starlight touch, transforming it into the third Starlight Regalia, Kūshokiri. After a hard-fought battle, with the combination of his incredible skill and newly-acquired weapon, Yūkan-sama was able to defeat Tamata-no-Orochi. Her many heads were severed and what remained of her was sealed away within the earth, marking the end of her terrible rule, and of the Kaika Jidai.
 
-TODO
+::
+
+{{note
+
+##### Note: Sacred Mountains
+
+Kamuy-Kemnu ('God-Bleed') is the Anagumago name for the tallest mountain in Ryugenshima, which also known in Sumirikugo as Mount Kakō (火口山, 'Crater Mountain'). It is one of the three most sacred mountains of Sumiriku, along with Mount Nenshō (燃焼山, 'Burning Mountain') in Ochinodojima and Mount Myō (明山, 'Shining Mountain') in Tenrai Island, near Nezumijima.
+
+}}
 
 <!-- {{comment18,signature,bottom:900px,left:60px
 
@@ -951,6 +915,108 @@ TODO
 ![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
+
+## Bunretsu Jidai
+
+## (分裂時代, 'Divided Era')
+
+### ~570 - 1 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:55px,width:375px,mix-blend-mode:normal}
+
+After his great act, Yūkan-sama continued to live out his days, spending time with his wife and working as a noble rōnin. It was noted that he rarely acknowledging how his bravery had saved the world. When he passed he ascended, his deeds venerated enough to place him among the Myōjin.
+
+The nation struggled to adjust to the power vacuum left by Tamata-no-Orochi's defeat. Without centralised leadership ruling over them the people became fractured, with local lords moving in to pick up the pieces. Though there was much greater peace and prosperity than with life under the tyrant, many of these lords, or Daimyō, had learned from her methods. As a result of Tamata-no-Orochi's actions many of the land's treasures and artifacts were lost, being scattered, destroyed, or left to rust in tombs. The people of Sumiriku were also in the process of rebuilding their spiritual connection to the Kami and Myōjin, previously severed by the destruction of shrines and of Niji-no-Ukihashi. The impact of Sumiriku's dark age, the erosion and division that occurred, was that the people and the land were weakened, no longer ready to defend themselves.
+
+Born to humble rice farmers in western Sesujishima, Tokuzō-tenno had felt a strong connection to the spiritual realm from an early age. He strongly sought to learn the ways of Daidō and become a Kannushi, but abandoning the farm and traveling to the nearest shrine complex was prohibitive for him and his family. Instead Tokuzō-tenno filled his spare time with reconstructing the local shrine which had been
+
+\column
+
+destroyed in the previous era, painstakingly replicating each detail by hand. While working he taught others of the Kami and Myōjin, telling tales of these spirits and helping those who listened feel the connection he felt.
+
+After a number of years of labour the shrine was finished, a remarkable symbol of individual dedication and worship. Upon the completion of this shrine, Tokuzō-tenno was stunned to find himself greeted by an unusual visitor, a fox spirit sent by Kajin-sama herself. She relayed to Tokuzō-tenno a mission for him sent from the Myōjin - The world needed a unifier, a spiritual centre, someone to be a voice for the Kami. Tokuzō-tenno understood the gravitas of this responsibility but was quick to accept, not yet fully knowing the task set before him. The fox explained that he needed to traverse the land of Sumiriku, connecting with the different clans and building their trust, as well as gathering the Starlight Regalia left to the world by the </br>Ō-Hoshikuzushin. She also cautioned him that if he was not successful the people of Sumiriku may be in great peril, this time not from forces demonic or draconic, but instead from those distinctly human. On the mainland, across Kaminoumi, the nomadic warrior tribe known as the Sunset Horde had conquered much of the region, and according to the fox's prophesying they were planning to cross the sea and invade Sumiriku. If Tokuzō-tenno was unable to rally the people of Sumiriku as the unified front they would be swiftly crushed by the horde.
+
+To aid in his quest, the fox gifted Tokuzō-tenno a golden Roc called Kinyoku (金翼, 'Golden Wing'), for him to soar across the land upon. After hearing all of the Myōjin's word Tokuzō-tenno began his mission with great haste, travelling to the far reaches of Sumiriku to visit as many people as he could. He used his
+
+{{position:relative,top:-5px,left:0px,margin-bottom:-30px
+
+##### The failed invasion of the Sunset Horde
+
+}}
+
+{{imageMaskEdge1,--offset:30%,--rotation:0
+  ![invasion](https://www.fujiarts.com/japanese-prints/k358/083k358f.jpg){position:aboslute,top:750px,left:-10px,width:105%}
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | HISTORY AND RELIGION}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+
+\page
+
+skills of empathy, persuasion, and storytelling to convince the people of the coming danger, and to put aside their petty squabbles and unite as one. He also helped reconnect people with the spiritual realm, to show them the incredible blessings they had to protect. Over the course of a year he traveled from the southern peaks of Ryugenshima to the flat plains of Ochinodojima and to the northern tropics of Sanzaishima, connecting with the native societies and peoples there in a way few people had before - as a gesture of goodwill they entrusted him with Kūshokiri, the Tasogare-no-Kagami, and the Ryūsei-Namida respectively. With the Starlight Regalia collected, and soldiers and warriors gathered with a common goal, the people were ready to repel the coming invasion.
+
+When the first of the horde's ships arrived at the shore, the army of Sumiriku was ready to meet them. The first units were quickly cut down by sword and spear, and those that lived found themselves without the reinforcements they had expected. Instead, their ships were thrown off course by the sudden appearance of swirling typhoons and whirlpools - On Tokuzō-tenno's command even the Kami fought to protect the land. Some ships managed to turn and flee from the carnage, the rest found themselves ripped apart, dragged under the waves, or met with swift death on the land. Before long the battle was over, the united nation of Sumiriku victorious. Never again would an army invade their shores, not while the union prospered.
+
+After the battle all agreed that Tokuzō-tenno should be Sumiriku's first leader, with domain over both body and spirit. Within the new city of Heian-kyō, near the finding place of Tasogare-no-Kagami, a grand palace was built to be the home of Tokuzō-tenno and his family, and to be the seat of power for the nation. On that year's summer solstice, within the inner sanctum of the palace, a coronation ceremony was held to ordain Tokuzō-tenno as the first Emperor of Sumiriku. The glory of the Starlight Regalia as well as the suns' zenith flowed into Tokuzō-tenno, granting him a unparalleled spiritual connection. This power, along with the symbols of the palace, the Myōjin Throne, and the Starlight Regalia, these all became representations of the Emperor's right to rule. This sacred day was known as the first Shōtenbi (昇天日, 'Ascension Day'), and marked a joyous end of the divided era.
+
+\column
+
+## Tōgō Jidai - TODO
+
+## (統合時代,</br>
+
+## 'Unification Era')
+
+### 0 - 1851 AA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+
+:
+
+TODO
+
+:
+
+#### The Tale of the Emperor's Climb - TODO
+
+{{quote
+
+The birth of the Emperor's daughter was a small miracle.
+
+Otoha-tenno
+
+Test - TODO
+
+{{attribution *The History of Sumiriku*}}
+
+<!-- , and with a bloodlust unlike any other -->
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | HISTORY AND RELIGION}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
+
+## Guntai Jidai - TODO
+
+## (軍隊時代, 'Military Era')
+
+### 1852 - 2127 AA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+
+TODO
+
+\column
+
+## Koware Jidai - TODO
+
+## (壊れ時代,</br>
+
+## 'Shattered States Era')
+
+### Ongoing (2128 - 2254+ AA) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+
+TODO
 
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
@@ -1013,7 +1079,7 @@ In this section you will find details on the appearance, culture, and traits of 
 
 {{position:absolute,top:400px,left:680px,text-align:left
 
-<!-- ##### A Nekotaiyō </br> ronin -->
+<!-- ##### A Nekotaiyō </br> rōnin -->
 ##### A Nekotaiyo </br> ronin
 
 }}
@@ -2212,11 +2278,9 @@ A Yūrei is a ghost or spirit that lingers in the worlds of the living, rather t
 
 As a Yūrei Manifest, you gain these special traits:
 
-***Spectre.*** You gain the Fushisha (Undead) creature type in addition to any other creature types. This means that you cannot be healed by Cure Wounds, for example.
+***Spectre.*** You gain the Fushisha (Undead) creature type in addition to any other creature types. You are unable to regain Hit Points with the spells *Cure Wounds*, *Healing Word*, *Mass Healing World*, *Mass Cure Wounds*, *Heal*, *Mass Heal*, or *Power Word Heal*.
 
 ***Ageless and Everlasting.*** You don't age, and effects that would cause you to age don't work on you. You also do not need to eat, drink, or breathe, but you do need to Sleep to prevent Exhaustion. When you do, instead of sleeping you disappear to Yomi, the undying realm.
-
-***Under a Dark Sky.*** You have vulnerability to Radiant damage.
 
 ***Cling to Life.*** You roll a d12 in place of a d20 for Death Saving Throws. On a roll of 1 to 4 you get one failed save, on a roll of 5 to 8 you get one successful save, and on a roll of 9 to 12 you regain 1 Hit Point and become conscious. You cannot add any additional bonuses to this Saving Throw.
 
@@ -2361,17 +2425,9 @@ This section describes all the classes available, explains groups that would ass
 
 ##### Note: Versions of Classes
 
-<!-- TODO - CHANGE FROM PLAYTEST - REPLACE WITH THIS TEXT WHEN POSSIBLE
-
 This book assumes, and would suggest, use of the 2024 D&D versions of the existing classes over their 2014 counterparts where possible.
 
-The Alternate versions of classes by LaserLlama are suggested for players who want additional complexity, as these versions add more options and tactical choices to these classes. All rules within this book are either compatible with, or specify how to convert to, both versions of the classes.
-
--->
-
-This book assumes, and would suggest, use of the 2024 D&D versions of the existing classes over their 2014 counterparts where possible. These versions of the classes can be found within the 2024 D&D playtest documents.
-
-The Alternate versions of classes by LaserLlama are suggested for players who want additional complexity, as these versions add more options and tactical choices to these classes. All rules within this book are either compatible with, or specify how to convert to, all three versions of the classes.
+The Alternate versions of classes by LaserLlama are suggested for players who want additional complexity, as these versions add more options and tactical choices to these classes. Some Subclasses shown here have been designed with these versions in mind. All rules within this book are either compatible with, or specify how to convert to, both versions of the classes.
 
 }}
 
@@ -2392,7 +2448,7 @@ The intersection of skills between Barbarians and Monks are Sumōtori (相撲取
 
 ### Path of the Kaijū - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
-*Alternate Barbarian Subclass*
+*Wield the Titan's Wrath*
 </br>
 Those who walk the Path of the Kaijū are living proof of the existence of Sumiriku's most destructive creatures. Though it is unknown how they forged this bond with beings of myth, in their veins flows the same blood as these mysterious titans of destruction, wrath, and carnage. Rumours still swirl about the Kaijū's status, their power, and their intentions, but one trait is agreed upon; their driving force is rage.
 
@@ -2466,7 +2522,7 @@ While in this empowered Rage, you use your Bonus Action to end it early, letting
 
 ##### Note: Adapting to 2024 D&D Barbarian
 
-To adapt this subclass to function with the 2024 D&D Barbarian, change the following:
+This subclass was designed for the Alternate Barbarian by LaserLlama. To adapt this subclass to function with the 2024 D&D Barbarian, change the following:
 
 - You no longer have the Kaijū Exploits feature.
 - Any ability that requires an Exploit Save DC instead has DC 8 plus your Strength modifier and Proficiency Bonus.
@@ -2519,7 +2575,7 @@ In the Equipment section later in this part is a list of instruments specific to
 
 ### College of Ink - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
-*Bard Subclass*
+*Create Magic with your Brushstrokes*
 </br>
 The name Sumiriku translates to 'Land of Ink', in reference to the cosmic ink used by the </br>Ō-Hoshikuzushin to draw the islands' shores. Brushwork on canvas, in all its many forms, has always been a sacred and greatly appreciated art, from the elite classes to the common folk. Those that learn of the College of Ink turn their talent with the brush to pure, artistic magic.
 
@@ -2579,9 +2635,9 @@ In the shadowy corners of the world there exist a select few, who have taken a m
 
 ### Order of the Shiftstalkers ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
-*Alternate Blood Hunter Subclass*
+*Transform and Track Yōkai Shapechangers*
 </br>
-To most people, Yokai seem like nothing more than curious miscreants, mischief makers - few recognise the true danger these otherworldly beings can bring. Dwelling  within Kimyōkai, creatures of great power plot and scheme at the downfall of the manifest world and their control over both realms. The world's protection comes from Yokai hunters calling themselves the Shiftstalkers, who have mastered using the Yokai's techniques of disguise, trickery, and manipulation against them.
+To most people, Yōkai seem like nothing more than curious miscreants, mischief makers - few recognise the true danger these otherworldly beings can bring. Dwelling  within Kimyōkai, creatures of great power plot and scheme at the downfall of the manifest world and their control over both realms. The world's protection comes from Yokai hunters calling themselves the Shiftstalkers, who have mastered using the Yokai's techniques of disguise, trickery, and manipulation against them.
 
 <!-- {{#subclass-table
 
@@ -2688,7 +2744,7 @@ Text - TODO
 
 ### Duality Domain - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
-*Cleric Subclass*
+*Bring Balance in All Things*
 </br>
 Dualness - Text - TODO
 
@@ -2732,7 +2788,7 @@ Text - TODO
 
 ### Sea Domain - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
-*Cleric Subclass*
+*Embrace the Boundless Ocean*
 </br>
 Ocean - Text - TODO
 
@@ -2771,7 +2827,7 @@ Text - TODO
 
 ### Sky Domain - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
-*Cleric Subclass*
+*Soar with Clouds Adrift*
 </br>
 Soaring - Text - TODO
 
@@ -2833,7 +2889,7 @@ Text - TODO
 
 ### Circle of Blossoms  - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
-*Druid Subclass*
+*Make Life and Colour Bloom*
 </br>
 Flowers - Text - TODO
 
@@ -2881,7 +2937,7 @@ You have perfected your ability to nurture your magical garden. Whenever you use
 
 ### Circle of Disaster  - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:177px,left:55px,width:375px,mix-blend-mode:normal}
 
-*Druid Subclass*
+*Control Nature's Climactic Forces*
 </br>
 Natural Disasters
 
@@ -2986,6 +3042,8 @@ Text - TODO
 
 ### Way of the Raging Demon  - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:177px,left:55px,width:375px,mix-blend-mode:normal}
 
+*Surge of Killing Intent*
+</br>
 Text - TODO
 
 #### Level 3: Satsui no Hado - TODO
@@ -3032,7 +3090,7 @@ Text - TODO
 
 ### Dagger Dancer - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:117px,left:55px,width:375px,mix-blend-mode:normal}
 
-*Rogue Subclass*
+*Gracefully Step and Strike*
 </br>
 Text - TODO
 
@@ -3654,7 +3712,7 @@ Weapon Masteries are new to 2024 D&D, which add additional features to weapons f
 
 }}
 
-### Weapon Properties ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:525px,left:55px,width:375px,mix-blend-mode:normal}
+### Weapon Properties ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:526px,left:55px,width:375px,mix-blend-mode:normal}
 
 :
 
@@ -4757,7 +4815,7 @@ There are many days of the year that have a significant religious or cultural co
 
 ### Shōtenbi (昇天日, 'Ascension Day') </br> - 5th of Rokugatsu ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:442px,left:400px,width:375px,mix-blend-mode:normal}
 
-The day of the Summer Solstice, the longest day of the year. It is said that the first Emperor, Tokuzō-tennō, was crowned on this day over 2000 years ago, under the zenith of the twin suns. This day is treated as a day of reverence, to remember the great and noble deeds Tokuzō-tennō and every Emperor since has accomplished. In honour of the first Emperor, every Emperor since has also been crowned on this day, as part of a ceremony known as the 'Shōten Gishiki' (昇天儀式, 'Ascension Rite'); it is believed by some that the position of the twin suns grants a blessing required for this ceremony. Currently it has been the longest time in history since the previous Shōten Gishiki, over 150 years, due to the disappearance of the current Emperor.
+The day of the summer solstice, the longest day of the year. It is said that the first Emperor, Tokuzō-tennō, was crowned on this day over 2000 years ago, under the zenith of the twin suns. This day is treated as a day of reverence, to remember the great and noble deeds Tokuzō-tennō and every Emperor since has accomplished. In honour of the first Emperor, every Emperor since has also been crowned on this day, as part of a ceremony known as the 'Shōten Gishiki' (昇天儀式, 'Ascension Rite'); it is believed by some that the position of the twin suns grants a blessing required for this ceremony. Currently it has been the longest time in history since the previous Shōten Gishiki, over 150 years, due to the disappearance of the current Emperor.
 
 :
 
@@ -6992,7 +7050,7 @@ You can additionally attempt to High Jump as part of your Move on your turn. Whe
 
 Difficult Terrain is an area that reduces the movement of creatures that travel through it. By default Difficult Terrain makes it so that every 5 feet travelled through it uses 10 feet of movement, but some effects may specify a different amount of movement that is required to travel 5 feet. Different sources of Difficult Terrain do not stack.
 
-If the Difficult Terrain effect is said to be on the ground, such as a layer of snow or plants, creatures that can float, such as Soratami, are uneffected by the Difficult Terrain. If the Difficult Terrain has some additional effect, such as damage, this only applies while the creature is affected by the Difficult Terrain.  Travelling through a hostile creature's space is not considered Difficult Terrain, but does cost an additional 5 feet of movement for every 5 feet traveled.
+If the Difficult Terrain effect is said to be on the ground, such as a layer of snow or plants, creatures that can float, such as Soratami, are unaffected by the Difficult Terrain. If the Difficult Terrain has some additional effect, such as damage, this only applies while the creature is affected by the Difficult Terrain.  Travelling through a hostile creature's space is not considered Difficult Terrain, but does cost an additional 5 feet of movement for every 5 feet traveled.
 
 ## Flanking
 
@@ -7714,9 +7772,9 @@ Very special thanks to Raluca Patria for her incredible assistance with map crea
   ![Background image](https://upload.wikimedia.org/wikipedia/commons/d/d0/100_views_edo_008.jpg){position:absolute,top:-80px,left:-25px,width:110%}
 }}
 
-{{position:absolute,bottom:105px,left:230px,margin-bottom:-30px
+{{position:absolute,bottom:100px,left:0px,margin-bottom:-30px,text-align:center
 
-##### A Ukiyo-e view of Sumiriku's most sacred mountain - TODO
+##### A Ukiyo-e view of Mount Nensho
 
 }}
 
