@@ -276,9 +276,9 @@ As an action while holding Tansa-ki you can recall any record or piece of inform
 
 *Wondrous Item, Unique, Major (Requires Attunement by a Cleric or Paladin)* </br>
 
-Those that pray to the great Kodama Iname wish for balance in all things, and understand that life and death, joy and suffering, these are but two branches on the same tree. Wakare </br>(別れ, 'Separation') is a go-shintai, an enshrined object containing a small part of Iname's spirit. Though this branch fell from its tree over a thousand years ago, its leaves continue to grow.
+Those that pray to the great Kodama Iname wish for balance in all things, and understand that life and death, joy and suffering, these are but two branches on the same tree.
 
-While holding Wakare, you gain access to an additional Channel Divinity: Balance Suffering.
+Wakare (別れ, 'Separation') is a go-shintai, an enshrined object containing a small part of Iname's spirit. Though this branch fell from its tree over a thousand years ago, its leaves continue to grow. While holding Wakare, you gain access to an additional Channel Divinity: Balance Suffering.
 
 **Balance Suffering.** As a Magic action, you can present Wakare and expend a use of your Channel Divinity to split the pain of a willing creature and another creature, both within 60 feet of you. The second creature must succeed on a Wisdom Saving Throw, or the missing Hit Points from both creatures are totaled and then divided evenly between the two, increasing the current Hit Points of one creature and decreasing the current Hit Points of the other. The creature can choose to fail this Saving Throw.
 
