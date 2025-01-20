@@ -673,7 +673,7 @@ Text about Yuxuan
 **HP**         :: 63 (9d8 + 18)
 \column
 **Speed**      :: 50 ft.
-**Initiative** :: +3 (13)
+**Initiative** :: +4 (14)
 
 }}
 
@@ -681,12 +681,12 @@ Text about Yuxuan
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Str| 12|  +1  |  +4  |
+|Str| 12|  +1  |  +5  |
 |Int| 10|  +0  |  +0  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Dex| 18|  +4  |  +7  |
+|Dex| 18|  +4  |  +8  |
 |Wis| 16|  +3  |  +3  |
 
 |   |   |  MOD | SAVE |
@@ -696,8 +696,8 @@ Text about Yuxuan
 
 }}
 
-**Senses**               :: Darkvision 60 ft, Passive Perception 12
-**CR**                   :: 6 (XP 2,300; PB +3)
+**Senses**               :: Darkvision 60 ft, Passive Perception 13
+**CR**                   :: 6 (XP 2,300; PB +4)
 
 }}
 
@@ -715,7 +715,7 @@ Text about Yuxuan
 
 ***Multiattack.*** Yuxuan makes two Unarmed Strikes.
 :
-***Unarmed Strike.*** *Melee Weapon Attack.* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) Bludgeoning damage.
+***Unarmed Strike.*** *Melee Weapon Attack.* +8 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) Bludgeoning damage.
 :
 ***Spellcasting.*** Yuxuan casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 14):
 
@@ -725,7 +725,7 @@ Text about Yuxuan
 
 ### Bonus Actions
 
-***Unarmed Strike.*** *Melee Weapon Attack.* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) Bludgeoning damage.
+***Unarmed Strike.*** *Melee Weapon Attack.* +8 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) Bludgeoning damage.
 
 **Focus.** Yuxuan makes an additional Unarmed Strike.
 :
@@ -737,7 +737,7 @@ Text about Yuxuan
 
 ### Reactions
 
-***Deflect Attacks.*** When Yuxuan is hit by an attack that would deal Bludgeoning, Piercing, or Slashing damage, Yuxuan reduces the damage by 19 (1d10 + 14). If this reduces the damage to 0, Yuxuan can spend a Focus Point to redirect the kinetic force of the attack to a creature it can see within 30 feet of it. The target must succeed on a DC 14 Dexterity Saving Throw or take 13 (2d8 + 4) Force damage.
+***Deflect Attacks.*** When Yuxuan is hit by an attack that would deal Bludgeoning, Piercing, or Slashing damage, Yuxuan reduces the damage by 18 (1d10 + 13). If this reduces the damage to 0, Yuxuan can spend a Focus Point to redirect the kinetic force of the attack to a creature it can see within 30 feet of it. The target must succeed on a DC 14 Dexterity Saving Throw or take 13 (2d8 + 4) Force damage.
 
 }}
 
