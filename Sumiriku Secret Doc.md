@@ -670,7 +670,7 @@ Text about Yuxuan
 {{vitals
 
 **AC**         :: 17 (Natural Armour)
-**HP**         :: 65 (10d8 + 20)
+**HP**         :: 63 (9d8 + 18)
 \column
 **Speed**      :: 50 ft.
 **Initiative** :: +3 (13)
@@ -705,13 +705,9 @@ Text about Yuxuan
 
 ***Evasion.*** When Yuxuan makes a Dexterity Saving Throw to avoid damage, he takes no damage on a successful save and half damage on a failed save.
 :
-***Eyes of Night.*** Yukan's can see through magical darkness.
-:
 ***Focus (10/Day).*** Yuxuan can expend Focus Points to enhance his features and abilities, as noted. ☐☐☐☐☐☐☐☐☐☐
 :
 ***Fright or Flight.*** During his turn Yuxuan gains a fly speed equal to his speed and can hover.
-:
-***Self-Restoration.*** At the end of his turn, Yuxuan ceases to be Charmed, Frightened, or Poisoned.
 :
 ***Stunning Strike (1/Turn).*** When Yuxuan hits a creature with a Melee Attack, he can expend a Focus Point to force the target to make a DC 14 Constitution Saving Throw. On a failure, the target is stunned until the start of Yuxuan’s next turn. On a success, the target’s speed is halved until the start of Yuxuan’s turn, and the next attack roll made against the target before then has Advantage.
 
@@ -725,19 +721,19 @@ Text about Yuxuan
 
 *0 Focus Points:* Minor Illusion<sup>A,C</sup>
 
-*1 Focus Point:* Darkness<sup>A,C</sup>
+*1 Focus Point:* Darkness<sup>A,C</sup> (Yuxuan can see within the spell's area when cast this way)
 
 ### Bonus Actions
 
 ***Unarmed Strike.*** *Melee Weapon Attack.* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) Bludgeoning damage.
 
-**Focus.** Yuxuan makes two additional unarmed strikes.
+**Focus.** Yuxuan makes an additional Unarmed Strike.
 :
 ***Patient Defense.*** Yuxuan takes the Disengage action.
 
-**Focus.** Yuxuan also takes the Dodge action and gains 10 temporary hit points.
+**Focus.** Yuxuan also takes the Dodge action.
 :
-***Shadow Step.*** Yuxuan teleports to a location he can see within 30 feet of him in dim light or darkness. After doing so, Yuxuan gains Advantage on the next Attack Roll he makes before the end of his turn.
+***Shadow Step.*** Yuxuan teleports to a location he can see within 30 feet of him in Dim light or Darkness. After doing so, Yuxuan gains Advantage on the next Attack Roll he makes before the end of his turn.
 
 ### Reactions
 
