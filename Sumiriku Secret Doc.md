@@ -75,7 +75,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
     - [{{ Generic Foes}}{{ 22}}](#p23)
       - [{{ Samurai and Ashigaru}}{{ 22}}](#p23)
 
-- ### [{{ PART 2 - The Living Lore}}{{ 23}}](#p24) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:656px,left:55px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 2 - The Living Lore}}{{ 23}}](#p24) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:717px,left:55px,width:245px,mix-blend-mode:normal}
 
   - ###### [{{ Letters and Documents}}{{ 24}}](#p25)
   
@@ -274,7 +274,7 @@ As an action while holding Tansa-ki you can recall any record or piece of inform
 
 #### Wakare, the Branching
 
-*Wondrous Item, Unique, Major (Requires Attunement by a Cleric or Paladin)* </br>
+*Spellcasting Focus (Holy Symbol), Unique, Major (Requires Attunement by a Cleric or Paladin)* </br>
 
 Those that pray to the great Kodama Iname wish for balance in all things, and understand that life and death, joy and suffering, these are but two branches on the same tree.
 
@@ -351,7 +351,7 @@ Text about Masuzō
 
 {{#creature,monster,frame
 
-## Masuzō
+## Masuzō, Might of the Mountain
 
 *Medium Yama-Otoko (Giant), Lawful Neutral*
 
@@ -582,10 +582,10 @@ Text about Atsuki
 {{vitals
 
 **AC**         :: 17 (Improved Medium Armour)
-\column
 **HP**         :: 45 (6d10 + 12)
-**Initiative** :: +3 (13)
 **Speed**      :: 30 ft.
+\column
+**Initiative** :: +3 (13)
 
 }}
 
@@ -632,13 +632,13 @@ Text about Atsuki
 
 ### Bonus Actions
 
-***Patient Stance.*** Atsuki enters the patient stance. While in this stance, Atsuki's Reaction attacks deal an addtional 4 (1d8) damage. This stance ends after Atsuki attacks.
+***Patient Stance.*** Atsuki enters the patient stance. While in this stance, Atsuki's Reaction attacks deal an additional 4 (1d8) damage. This stance ends after Atsuki attacks.
 :
 ***Second Wind (1/Day).*** Atsuki regains 11 (1d10 + 6) hit points and can move up to half their speed without provoking opportunity attacks.
 
 ### Reactions
 
-***Psionic Field.*** *Trigger:* Atsuki (or an ally it can see within 30 feet) takes damage. *Response:* Atsuki reduces the damage by 7 (1d8 + 3). ☐
+***Psionic Field.*** *Trigger:* Atsuki (or an ally they can see within 30 feet) takes damage. *Response:* Atsuki reduces the damage by 7 (1d8 + 3). ☐
 :
 ***Slowfall.*** *Trigger:* Atsuki is falling. *Response:* Their rate of descent is reduced to 60 feet per round  for 1 minute. Atsuki takes no fall damage if they land while falling at this rate.
 :
@@ -652,6 +652,98 @@ Text about Atsuki
 ![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
+
+### Yuxuan
+
+Text about Yuxuan
+
+\column
+
+{{#creature,monster,frame
+
+## Yuxuan, the Immortal Fist
+
+*Medium Humanoid, Chaotic Good*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 17 (Natural Armour)
+**HP**         :: 65 (10d8 + 20)
+\column
+**Speed**      :: 50 ft.
+**Initiative** :: +3 (13)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 12|  +1  |  +4  |
+|Int| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 18|  +4  |  +7  |
+|Wis| 16|  +3  |  +3  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 15|  +2  |  +2  |
+|Cha| 10|  +0  |  +0  |
+
+}}
+
+**Senses**               :: Darkvision 60 ft, Passive Perception 12
+**CR**                   :: 6 (XP 2,300; PB +3)
+
+}}
+
+### Traits
+
+***Evasion.*** When Yuxuan makes a Dexterity Saving Throw to avoid damage, he takes no damage on a successful save and half damage on a failed save.
+:
+***Eyes of Night.*** Yukan's can see through magical darkness.
+:
+***Focus (10/Day).*** Yuxuan can expend Focus Points to enhance his features and abilities, as noted. ☐☐☐☐☐☐☐☐☐☐
+:
+***Fright or Flight.*** During his turn Yuxuan gains a fly speed equal to his speed and can hover.
+:
+***Self-Restoration.*** At the end of his turn, Yuxuan ceases to be Charmed, Frightened, or Poisoned.
+:
+***Stunning Strike (1/Turn).*** When Yuxuan hits a creature with a Melee Attack, he can expend a Focus Point to force the target to make a DC 14 Constitution Saving Throw. On a failure, the target is stunned until the start of Yuxuan’s next turn. On a success, the target’s speed is halved until the start of Yuxuan’s turn, and the next attack roll made against the target before then has Advantage.
+
+### Actions
+
+***Multiattack.*** Yuxuan makes two Unarmed Strikes.
+:
+***Unarmed Strike.*** *Melee Weapon Attack.* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) Bludgeoning damage.
+:
+***Spellcasting.*** Yuxuan casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 14):
+
+*0 Focus Points:* Minor Illusion<sup>A,C</sup>
+
+*1 Focus Point:* Darkness<sup>A,C</sup>
+
+### Bonus Actions
+
+***Unarmed Strike.*** *Melee Weapon Attack.* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) Bludgeoning damage.
+
+**Focus.** Yuxuan makes two additional unarmed strikes.
+:
+***Patient Defense.*** Yuxuan takes the Disengage action.
+
+**Focus.** Yuxuan also takes the Dodge action and gains 10 temporary hit points.
+:
+***Shadow Step.*** Yuxuan teleports to a location he can see within 30 feet of him in dim light or darkness. After doing so, Yuxuan gains Advantage on the next Attack Roll he makes before the end of his turn.
+
+### Reactions
+
+***Deflect Attacks.*** When Yuxuan is hit by an attack that would deal Bludgeoning, Piercing, or Slashing damage, Yuxuan reduces the damage by 19 (1d10 + 14). If this reduces the damage to 0, Yuxuan can spend a Focus Point to redirect the kinetic force of the attack to a creature it can see within 30 feet of it. The target must succeed on a DC 14 Dexterity Saving Throw or take 13 (2d8 + 4) Force damage.
+
+}}
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
@@ -680,7 +772,7 @@ Many groups of bandits roam the roads and settlements of Sumiriku, who make thei
 **HP**         :: 35 (?d? + ?)
 **Speed**      :: 30 ft.
 \column
-**Initiative** :: +3 (13)
+**Initiative** :: +2 (12)
 
 }}
 
@@ -1353,7 +1445,7 @@ Text about them
 
 ## Raijū, Raging Bolt
 
-*Huge Godaiyō (Air), Chaotic Neutral*
+*Huge Elemental (Godaiyō, Air), Chaotic Neutral*
 
 {{stats
 
@@ -1427,6 +1519,104 @@ The Raijū can take up to two Reactions per round but only one per turn.
 ***Abosrb Energy.*** *Trigger:* A creature the Raijū sees ends their turn. *Response---Constitution Saving Throw:* DC 16, each charged creature within 120 feet. *Failure:* 7 (2d6) Lightning damage, the Raijū is healed for that amount, and the target loses charge. *Success:* The target loses charge.
 
 }}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+## Yokai
+
+### Ningyo
+
+{{monster,frame,wide
+
+## Ningyo
+
+*Medium Fey (Yokai), Chaotic Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 15 (Natural Armour)
+**HP**         :: 77 (14d8 + 14)
+**Speed**      :: 30 ft., Swim 60 ft.
+\column
+**Initiative** :: +4 (14)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 12|  +1  |  +1  |
+|Int| 11|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 18|  +4  |  +4  |
+|Wis| 14|  +2  |  +2  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12|  +1  |  +1  |
+|Cha| 18|  +4  |  +4  |
+
+}}
+
+**Skills**               :: Performance +7, Persuasion +7, Stealth +7
+**Senses**               :: Darkvision 60 ft., passive Perception 12
+**Languages**            :: Kimyōkaigo
+**CR**                   :: 5 (XP 1,800; PB +3)
+
+}}
+
+### Traits
+
+***Amphibious.*** The Ningyo can breathe air and water.
+:
+***Illusionary Guise.*** The Ningyo begins combat in her Alluring Form, with the face of a beautiful woman. This apperace is an illusion, hiding the hideous being underneath. When the Ningyo is Bloodied, or if *Dispel Magic* is cast on the Ningyo or if she enters an area of an antimagic field, she changes into her Monsterous Form, changing some of the abilities she has access to.
+:
+***Appealing Persona (Alluring Form Only).*** While in her Alluring Form creatures have Disadvantage against the Ningyo's attempts to inflict the Charmed condition if the target can hear her and she is immune to the Charmed condition
+:
+***Blood Frenzy (Monsterous Form Only).*** While in her Monsteroud Form the Ningyo has Advantage on all Attack Rolls and is immune to the Frightened condition, but all Attack Rolls have against her have Advantage and she cannot cast or concentrate on spells.
+:
+***Syncronised Swimming.*** While underwater the Ningyo can expend 5 feet of movement to jump up to 15 feet vertically into the air.
+
+### Actions
+
+***Multiattack.*** The Ningyo makes one Wave Strike attack or two Angler Claws attacks.
+:
+***Wave Strike (Alluring Form Only).*** *Ranged Spell Attack:* +7 to hit, range 60 ft., one target. *Hit:* 14 (3d8) Cold damage, and the target's Speed is reduced by 10 feet until the start of the Ningyo's next turn.
+:
+***Angler Claws (Monsterous Form Only).*** *Melee Weapon Attack:* +7 to hit, reach 5 ft. one target. *Hit:* 14 (3d6 + 4) Necrotic damage.
+:
+***Spellcasting (Alluring Form Only).*** The Ningyo casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 15):
+
+*1/day each:* Crown of Madness<sup>A,C</sup>, Dominate Person<sup>A,C</sup>, Invisibility<sup>A,C</sup>, Misty Step<sup>BA</sup>
+
+### Reactions
+
+***Batting Eyelids (Alluring Form Only).*** When a creature the Ningyo can see attempts to hit her with an attack, that creature must succeed on a DC 15 Wisdom Saving Throw or or either choose a new target or lose the attack.
+:
+***Fearsome Glare (Monsterous Form Only).*** When a creature the Ningyo can see within 15 feet of them hits her with an attack, all creatures in a 15 foot cone in front of the Ningyo must succeed on a DC 15 Wisdom Saving Throw or be Frightened of the Ningyo until the end of the Ningyo's next turn.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
+## Undead
+
+
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
@@ -1707,6 +1897,14 @@ Nothing will remain.
 Be blind to sorrow,\
 Let it not lead you astray.\
 A hand will guide you.
+
+\column
+
+#### Cultist's Poem
+
+The claw's grip strengthens around the night's jewel. Twin suns shine through autumn rain, falling on black lotus petals. By year's end the beast will make landfall. The bloodied arrow finds its mark.
+
+May we return the flame.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | THE LIVING LORE}}
