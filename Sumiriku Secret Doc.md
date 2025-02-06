@@ -671,8 +671,8 @@ Text about Yuxuan
 
 **AC**         :: 17 (Natural Armour)
 **HP**         :: 63 (9d8 + 18)
-\column
 **Speed**      :: 50 ft.
+\column
 **Initiative** :: +4 (14)
 
 }}
@@ -696,8 +696,8 @@ Text about Yuxuan
 
 }}
 
-**Senses**               :: Darkvision 60 ft, Passive Perception 13
-**CR**                   :: 6 (XP 2,300; PB +4)
+**Senses** :: Darkvision 60 ft.; Passive Perception 13
+**Level**  :: 9 (PB +4)
 
 }}
 
@@ -709,7 +709,7 @@ Text about Yuxuan
 :
 ***Fright or Flight.*** During his turn Yuxuan gains a fly speed equal to his speed and can hover.
 :
-***Stunning Strike (1/Turn).*** When Yuxuan hits a creature with a Melee Attack, he can expend a Focus Point to force the target to make a DC 14 Constitution Saving Throw. On a failure, the target is stunned until the start of Yuxuan’s next turn. On a success, the target’s speed is halved until the start of Yuxuan’s turn, and the next attack roll made against the target before then has Advantage.
+***Stunning Strike (1/Turn).*** *Constutution Saving Throw:* DC 14, a creature Yuxuan has just hit with an Unarmed Strike, 1 Focus Point. *Failure:* The target is stunned until the start of Yuxuan’s next turn. *Success:* The target’s speed is halved until the start of Yuxuan’s turn, and the next attack roll made against the target before then has Advantage.
 
 ### Actions
 
@@ -925,10 +925,9 @@ Text about the castle
 
 }}
 
-**Damage Immunities**    :: Poison, Psychic
-**Condition Immunities** :: Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-**Senses**               :: Blindsight 60 ft. (blind beyond this radius), passive Perception 6
-**CR**                   :: 1 (XP 200; PB +2)
+**Immunities**  :: Poison, Psychic; Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+**Senses**      :: Blindsight 60 ft. (blind beyond this radius), passive Perception 6
+**CR**          :: 1 (XP 200; PB +2)
 
 }}
 
@@ -1285,9 +1284,9 @@ Text about them
 
 }}
 
-**Damage Immunities**    :: Poison, Psychic
-**Senses**               :: passive Perception 13
-**CR**                   :: 6 (XP 2,300; PB +3)
+**Immunities** :: Poison, Psychic
+**Senses**     :: passive Perception 13
+**CR**         :: 6 (XP 2,300; PB +3)
 
 }}
 
@@ -1474,13 +1473,12 @@ Text about them
 
 }}
 
-**Skills**               :: Acrobatics +8, Perception +8, Stealth +8
-**Damage Resistances**   :: Cold, Poison, Thunder
-**Damage Immunities**    :: Lightning
-**Condition Immunities** :: Dazed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Restrained
-**Senses**               :: Darkvision 60 ft., Passive Perception 18
-**Languages**            :: Ryūgo
-**CR**                   :: 10 (XP 5000; PB +4)
+**Skills**       :: Acrobatics +8, Perception +8, Stealth +8
+**Resistances**  :: Cold, Poison, Thunder
+**Immunities**   :: Lightning; Dazed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Restrained
+**Senses**       :: Darkvision 60 ft., Passive Perception 18
+**Languages**    :: Ryūgo
+**CR**           :: 10 (XP 5000; PB +4)
 
 }}
 
@@ -1612,7 +1610,152 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 ## Undead
 
+### Jiangshi
 
+{{monster,frame
+
+## Jiangshi Yakuza
+
+*Medium Undead, Neutral Evil*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 14 (Natural Armor)
+**HP**         :: 52 (8d8 + 16)
+\column
+**Speed**      :: 30 ft.
+**Initiative** :: -4 (6)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 16|  +3  |  +5  |
+|Int| 9 |  -1  |  -1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 3 |  -4  |  -2  |
+|Wis| 12|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +2  |  +2  |
+|Cha| 12|  +1  |  +1  |
+
+}}
+
+**Resistances** :: Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks That Aren't Peachwood
+**Senses**      :: Blindsight 60 ft., Passive Perception 11
+**Languages**   :: Common, Zanke
+**CR**          :: 3 (XP 700; PB +2)
+
+}}
+
+### Traits
+
+***Breath Sight.*** A creature that is holding its breath may attempt to hide from the Jiangshi without obscurement.
+:
+***Graceless Rigor.*** If the Jiangshi is hit with a Melee Attack from a direction it is not facing, it is pushed 5 feet away and must succeed on a DC 10 Dexterity saving throw or be knocked Prone.
+:
+***Hopping Movement.*** When initiative is rolled, the Jiangshi selects a cardinal direction to face. The Jiangshi may move only in the direction it is facing, and may spend 5 feet of movement to turn up to 90 degrees or to stand from Prone.
+:
+***Not Yet Turned.*** While the Jiangshi is at full health, any spells and abilities that detect the presence of undead fail, the Jiangshi's **Graceless Rigor** trait is ignored, the Jiangshi cannot use it's **Crooked Claws** attack, and the Jianshi has 12 Dexterity.
+
+### Actions
+
+***Multiattack.*** The Jiangshi makes two attacks, one of which it can replace with a use of its Drain Vitality.
+:
+***Tanto.*** *Melee or Ranged Attack Roll:* +5 to hit, reach 5 ft. or range 20/60 ft. *Hit:* 6 (1d4 + 3) Slashing damage.
+:
+***Crooked Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature in the direction the Jiangshi is facing. Hit: 10 (2d6 + 3) Slashing damage plus one of the following effects:
+
+- The target is Grappled (escape DC 13).
+- The target is pushed up to 5 feet away.
+- The target must succeed on a DC 13 Strength Saving Throw or be knocked Prone.
+
+***Drain Vitality.*** The Jiangshi draws the life force out from the forehead of a creature grappled by it. The target makes a DC 13 Constitution Saving Throw, taking 9 (2d8) Necrotic damage on a failed save, or half as much damage on a successful one. The Jiangshi regains Hit Points equal to the amount of Necrotic damage dealt.
+
+### Reactions
+
+***Whip Around.*** When a creature the Jiangshi is not facing misses it with a Melee Attack, the Jiangshi turns to face it and makes a **Crooked Claws** attack.
+}}
+
+\column
+
+{{monster,frame
+
+## Deathless Jiangshi
+
+*Medium Undead, Neutral Evil*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 16 (Natural Armor)
+**HP**         :: 119 (14d8 + 56)
+**Speed**      :: 40 ft.
+\column
+**Initiative** :: -4 (6)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18|  +4  |  +7  |
+|Int| 9 |  -1  |  -1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 3 |  -4  |  -1  |
+|Wis| 14|  +2  |  +2  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16|  +3  |  +3  |
+|Cha| 10|  +0  |  +0  |
+
+}}
+
+**Resistances** :: Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks That Aren't Peachwood
+**Immunities**  :: Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
+**Senses**      :: Blindsight 60 ft., Passive Perception 12
+**Languages**   :: Understands the languages it knew in life but cannot speak them
+**CR**          :: 7 (XP 3,900; PB +3)
+
+}}
+
+### Traits
+
+***Breath Sight.*** A creature that is holding its breath may attempt to hide from the Jiangshi without obscurement.
+:
+***Graceless Rigor.*** If the Jiangshi is hit with a Melee Attack from a direction it is not facing, it is pushed 5 feet away and must succeed on a DC 10 Dexterity saving throw or be knocked Prone.
+:
+***Hopping Movement.*** When initiative is rolled, the Jiangshi selects a cardinal direction to face. The Jiangshi may move only in the direction it is facing, and may spend 5 feet of movement to turn up to 90 degrees or to stand from Prone.
+
+### Actions
+
+***Multiattack.*** The Jiangshi makes three attacks, one of which it can replace with a use of its Drain Vitality.
+:
+***Crooked Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature  in the direction the jiangshi is facing. Hit: 13 (2d8 + 4) slashing damage plus one of the following effects:
+
+- The target is Grappled (escape DC 15).
+- The target is pushed up to 5 feet away.
+- The target must succeed on a DC 15 Strength Saving Throw or be knocked prone.
+
+***Drain Vitality.*** The Jiangshi draws the life force out from the forehead of a creature grappled by it. The target makes a DC 15 Constitution Saving Throw, taking 18 (4d8) Necrotic damage on a failed save, or half as much damage on a successful one. The Jiangshi regains Hit Points equal to the amount of Necrotic damage dealt.
+
+### Reactions
+
+***Whip Around.*** When a creature the Jiangshi is not facing misses it with a Melee Attack, the Jiangshi turns to face it and makes a **Crooked Claws** attack.
+}}
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
