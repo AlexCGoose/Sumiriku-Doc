@@ -7500,30 +7500,30 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 ## Martial Melee Weapons
 
 {{text-align:center
-![jitte](https://www.barringtons-swords.com/media/catalog/product/cache/1/image/1200x1200/9df78eab33525d08d6e5fb8d27136e95/a/n/antique_jitte_5.jpg){position:absolute,bottom:730px,left:50px,width:300px}
+![jitte](https://gcp-la8-storage-cdn.lot-art.com/public/upl/45/Tecchi-Jitte-The-weapons-of-samurai-and-policeman-Edo-period-Iron_6598b6fb64a64-full-72733300_1704507131-6598b6fbb1932.jpg){position:absolute,bottom:630px,left:60px,width:300px}
 }}
 
-{{position:absolute,bottom:730px,left:180px,margin-bottom:-20px,text-align:left
+{{position:absolute,bottom:630px,left:180px,margin-bottom:-20px,text-align:left
 
 ##### Jitte
 
 }}
 
 {{text-align:center
-![jumonji-yari](https://i.imgur.com/ZW3j4VG.png){position:absolute,bottom:360px,left:20px,width:170px}
+![jumonji-yari](https://i.imgur.com/ZW3j4VG.png){position:absolute,bottom:260px,left:20px,width:170px}
 }}
 
-{{position:absolute,bottom:360px,left:20px,margin-bottom:-20px,text-align:left
+{{position:absolute,bottom:260px,left:20px,margin-bottom:-20px,text-align:left
 
 ##### Jumonji Yari (Kama Yari)
 
 }}
 
 {{text-align:center
-![katakama-yari](https://upload.wikimedia.org/wikipedia/commons/8/88/%E7%89%87%E9%8E%8C%E6%A7%8D%2C_Katakama_yari.jpg){position:absolute,bottom:360px,left:210px,width:170px}
+![katakama-yari](https://upload.wikimedia.org/wikipedia/commons/8/88/%E7%89%87%E9%8E%8C%E6%A7%8D%2C_Katakama_yari.jpg){position:absolute,bottom:260px,left:210px,width:170px}
 }}
 
-{{position:absolute,bottom:360px,left:210px,margin-bottom:-20px,text-align:left
+{{position:absolute,bottom:260px,left:210px,margin-bottom:-20px,text-align:left
 
 ##### Katakama Yari (Kama Yari)
 
