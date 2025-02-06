@@ -1,13 +1,13 @@
 /* ----- PAGE SETTINGS ----- */
 
 /* A4 Page Size */
-.page{
+.page {
 	width  : 210mm;
 	height : 296.8mm;
 }
 
 /* Sets background page texture for each page */
-.page{
+.page {
 	background-image : url(https://i.imgur.com/vjljz6I.png);
 	background-size  : cover;
 }
@@ -18,12 +18,12 @@
 }
 
 /* Sets font size for all text */
-.page{
+.page {
 	font-size : 90%;
 }
 
 /* Reduces font size in notes and sets background colour to Sumiriku Light Orange */
-.page .note{
+.page .note {
 	font-size  : 95%;
 	background : #fbc98e;
 }
@@ -50,6 +50,10 @@
 	columns : 3;
 }
 
+/* Modified page 7 to  */
+.page#p7 {
+  padding-bottom : 10px;
+}
 
 
 
