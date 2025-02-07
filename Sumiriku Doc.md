@@ -936,7 +936,7 @@ When complete, the shrine stood as remarkable symbol of individual dedication an
 
 The fox said that to be ordained as the leader of Sumiriku and its people he would need to gather the Starlight Regalia, the treasures left to the world by the Ō-Hoshikuzushin. She believed that with the holy power of these relics in Tokuzō-tenno's position both mortals and spirits would accept him as their true ruler and rally around him no matter what. However, she also cautioned him that if could not retrieve these treasures, the people of Sumiriku may be in great peril. On the mainland, across Kaminoumi, the fearsome Sunset Horde had conquered much of the region. Now, the nomadic warrior tribe had set their next target to cross the sea and invade Sumiriku. If Tokuzō-tenno was unable to wield the power of the Regalia the people would be swiftly crushed by the Horde.
 
-To aid in his quest, the fox gifted Tokuzō-tenno a golden Roc called Kinyoku (金翼, 'Golden Wing'), for him to soar across the land upon. Tokuzō-tenno began his mission with great haste, scouring the far reaches of Sumiriku to find the Starlight Regalia. TODO - FINISH REWRITE TO SHOW THAT HE LEARNED TO NEGOTIATE WITH PEOPLE
+To aid in his quest, the fox gifted Tokuzō-tenno a golden Roc called Kinyoku (金翼, 'Golden Wing'), for him to soar across the land upon. Tokuzō-tenno began his mission with great haste, scouring the far reaches of Sumiriku to find the Starlight Regalia. As
 
 {{position:relative,top:-5px,left:0px,margin-bottom:-30px
 
@@ -955,11 +955,15 @@ To aid in his quest, the fox gifted Tokuzō-tenno a golden Roc called Kinyoku (�
 
 \page
 
-He used his skills of empathy, persuasion, and storytelling to convince the people of the coming danger, and to put aside their petty squabbles and unite as one. He also helped reconnect people with the spiritual realm, to show them the incredible blessings they had to protect. Over the course of a year he traveled from the southern peaks of Ryugenshima to the flat plains of Ochinodojima and to the northern tropics of Sanzaishima, connecting with the native societies and peoples there in a way few people had before — as a gesture of goodwill they entrusted him with Kūshokiri, the Tasogare-no-Kagami, and the Ryūsei-Namida respectively. With the Starlight Regalia collected, and soldiers and warriors gathered with a common goal, the people were ready to repel the coming invasion.
+<!-- TODO - FINISH REWRITE TO SHOW THAT HE LEARNED TO NEGOTIATE WITH PEOPLE -->
+
+he traveled, he met with many locals and discussed with them
+
+<!-- He used his skills of empathy, persuasion, and storytelling to convince the people of the coming danger, and to put aside their petty squabbles and unite as one. He also helped reconnect people with the spiritual realm, to show them the incredible blessings they had to protect. Over the course of a year he traveled from the southern peaks of Ryugenshima to the flat plains of Ochinodojima and to the northern tropics of Sanzaishima, connecting with the native societies and peoples there in a way few people had before — as a gesture of goodwill they entrusted him with Kūshokiri, the Tasogare-no-Kagami, and the Ryūsei-Namida respectively. With the Starlight Regalia collected, and soldiers and warriors gathered with a common goal, the people were ready to repel the coming invasion.
 
 When the first of the horde's ships arrived at the shore, the army of Sumiriku was ready to meet them. The first units were quickly cut down by sword and spear, and those that lived found themselves without the reinforcements they had expected. Instead, their ships were thrown off course by the sudden appearance of swirling typhoons and whirlpools — On Tokuzō-tenno's command even the Kami fought to protect the land. Some ships managed to turn and flee from the carnage, the rest found themselves ripped apart, dragged under the waves, or met with swift death on the land. Before long the battle was over, the united nation of Sumiriku victorious. Never again would an army invade their shores, not while the union prospered.
 
-After the battle all agreed that Tokuzō-tenno should be Sumiriku's first leader, with domain over both body and spirit. Within the new city of Heian-kyō, near the finding place of Tasogare-no-Kagami, a grand palace was built to be the home of Tokuzō-tenno and his family, and to be the seat of power for the nation. On that year's summer solstice, within the inner sanctum of the palace, a coronation ceremony was held to ordain Tokuzō-tenno as the first Emperor of Sumiriku. The glory of the Starlight Regalia as well as the suns' zenith flowed into Tokuzō-tenno, granting him a unparalleled spiritual connection. This power, along with the symbols of the palace, the Myōjin Throne, and the Starlight Regalia, these all became representations of the Emperor's right to rule. This sacred day was known as the first Shōtenbi (昇天日, 'Ascension Day'), and marked a joyous end of the divided era.
+After the battle all agreed that Tokuzō-tenno should be Sumiriku's first leader, with domain over both body and spirit. Within the new city of Heian-kyō, near the finding place of Tasogare-no-Kagami, a grand palace was built to be the home of Tokuzō-tenno and his family, and to be the seat of power for the nation. On that year's summer solstice, within the inner sanctum of the palace, a coronation ceremony was held to ordain Tokuzō-tenno as the first Emperor of Sumiriku. The glory of the Starlight Regalia as well as the suns' zenith flowed into Tokuzō-tenno, granting him a unparalleled spiritual connection. This power, along with the symbols of the palace, the Myōjin Throne, and the Starlight Regalia, these all became representations of the Emperor's right to rule. This sacred day was known as the first Shōtenbi (昇天日, 'Ascension Day'), and marked a joyous end of the divided era. -->
 
 \column
 
@@ -2685,11 +2689,11 @@ The bond with your Mimic Weapon grows closer. You can no longer be separated fro
 
 #### Level 13: Repellant Aura
 
-Your disgust to the allures of Yokai emboldens you and your allies. Whenever a creature attempts to Charm you or an ally of you within 30 feet they must make a Wisdom Saving Throw against your Rite Save DC. If they fail the Saving Throw the Charm attempt fails and they take Psychic damage equal to a two roles of your Rite Die.
+Your disgust to the allures of Yokai emboldens you and your allies. Whenever a creature attempts to Charm you or an ally of you within 30 feet they must make a Wisdom Saving Throw against your Rite Save DC. If the creature fails the Saving Throw the Charm attempt fails, and they take Psychic damage equal to a two roles of your Rite Die.
 
 #### Level 18: Devour Soul
 
-You have learned the most foul of Yokai powers; the ability to feast on a foe's soul. Whenever you deal Fire, Necrotic or Psychic damage with a Crimson Offering on your Mimic Weapon, you restore a number of Hit Points equal to the damage dealt.
+You have learned the most foul of Yokai powers; the ability to feast on a foe's soul. Whenever you deal Fire, Necrotic or Psychic damage with a Crimson Offering on your Mimic Weapon, you restore a number of Hit Points equal to the damage dealt. If your maximum Hit Points have been reduced, you can increase them by the amount restored, up to your original maximum.
 
 \column
 
@@ -2906,25 +2910,21 @@ Your connection to this circle ensures that you always have certain spells ready
 | 3           | *Thorn Whip, Shield of Faith, Bless, Misty Step, Prayer of Healing* |
 | 5           | *Beacon of Hope, Mass Healing Word*                                 |
 | 7           | *Aura of Life, Death Ward*                                          |
-| 9           | *Dawn, Hold Monster*                                                |
+| 9           | *Dawn<sup>XGE</sup>, Hold Monster*                                  |
 
 }}
 
 #### Level 3: Healing Bloom
 
-You have learned how to connect with the healing power of flowers. As a Bonus Action, you can expend a use of your Wild Shape and choose a point within 30 feet of yourself, creating a Petal Bloom in a 10-foot-radius sphere centered on that point for 1 minute. Then roll a number of d4s equal to your Wisdom modifier plus your Proficiency Bonus, and add the dice together. The total is the number of Hit Points you can distribute to creatures in that sphere. You decide the number of Hit Points that are restored to each of those creatures, deducting the healing from the total.
+You have learned how to connect with the healing power of flowers. As a Bonus Action, you can expend a use of your Wild Shape and choose a point within 30 feet of yourself. You create a Petal Bloom, a 10-foot-radius sphere centered on that point that lasts for 1 minute, or until you have the Incapacitated condition or die. When you do, roll a number of d4s equal to your Wisdom modifier plus your Proficiency Bonus, and add the dice together. The total is the number of Hit Points you can distribute to creatures in that sphere. You decide the number of Hit Points that are restored to each of those creatures, deducting the healing from the total.
 
-Whenever you would normally roll one or more dice to restore Hit Points to a creature within your Petal Bloom with a spell, don't roll those dice for the healing; instead use the highest number possible for each die.
+Whenever you would normally roll one or more dice to restore Hit Points with a spell to a creature that is within the area of one of your Petal Blooms, don't roll those dice for the healing; instead use the highest number possible for each die.
 <!-- You have learned how to connect with the healing power of blooming flowers. As a Bonus Action, you can expend a use of your Wild Shape channel to create a Bloom. Choose a point within 30 feet of yourself, and flowers appear in a 10-foot-radius sphere centered on that point. Then roll a number of d4s equal to your Wisdom modifier plus your Proficiency Bonus, and add the dice together. The total is the number of Hit Points you can distribute to creatures in that sphere. You decide the number of Hit Points that are restored to each of those creatures, deducting the healing from the total. -->
 <!-- You have learned how to connect with the healing power of blooming flowers. As a Bonus Action, you can expend a use of your Wild Shape channel to create a Bloom. Choose a point within 30 feet of yourself, and flowers appear in a 10-foot-radius sphere centered on that point for 1 minute. If a creature starts its turn within your Bloom, it regains a number of Hit Points equal to 1d4 plus your Spellcasting Modifier. -->
 
 #### Level 6: Petals on the Wind
 
-You are surrounded by flowing petals that give swiftness to your steps. While the petals surround you, your Speed increases by 10 feet and nonmagical Difficult Terrain costs you no extra movement. When you restore Hit Points to a creature, you can use your Reaction to move the petals to surround them, granting them the benefits instead.
-
-#### Level 10: Rose and Thorn - TODO
-
-Blooms can instead make Difficult Terrain. Text - TODO
+You are surrounded by flowing petals that give swiftness to your steps. While the petals surround you, your Speed increases by 10 feet and nonmagical Difficult Terrain costs you no extra movement. When you restore Hit Points to a creature, you can use your Reaction to move the petals to surround them, granting them the benefits instead. The petals return to you after a Short or Long Rest.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -2933,11 +2933,15 @@ Blooms can instead make Difficult Terrain. Text - TODO
 
 \page
 
+#### Level 10: Rose and Thorn
+
+Your plants can hinder as well as heal. Whenever you use your Healing Bloom feature, you can choose to make a Thorn Bloom instead of a Petal Bloom. A Thorn Bloom is the same size as a Petal Bloom but the area is considered Difficult Terrain for the duration. Whenever a creature attempts to restore Hit Points while within the area of one of your Thorn Blooms, you can use your Reaction to have the creature make a Constitution Saving Throw against your Spell Save DC. If the creature fails, it can't regain Hit Points until the start of its next turn.
+
 #### Level 14: Season of Growth
 
-You have perfected your ability to nurture your magical garden. Whenever you use your Healing Bloom feature, you create two Blooms instead of one. A creature can only be affected by one bloom at a time.
+You have perfected your ability to nurture your magical garden. Whenever you use your Healing Bloom feature, you create two Blooms instead of one.
 
-### Circle of Disaster  - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:177px,left:55px,width:375px,mix-blend-mode:normal}
+### Circle of Disaster  - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:404px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Control Nature's Climactic Forces*
 </br>
@@ -2951,12 +2955,12 @@ Whenever you finish a Long Rest, choose one type of disaster: earthquake, erupti
 
 ##### Earthquake
 
-| Druid Level | Prepared Spells |
-|:-----------:|:----------------|
+| Druid Level | Prepared Spells                                                 |
+|:-----------:|:----------------------------------------------------------------|
 | 3           | *Earth Tremor<sup>XGE</sup>, Mold Earth<sup>XGE</sup>, Shatter* |
-| 5           | *Erupting Earth<sup>XGE</sup>*           |
-| 7           | *Stoneskin*           |
-| 9           | *Transmute Rock<sup>XGE</sup>*           |
+| 5           | *Erupting Earth<sup>XGE</sup>*                                  |
+| 7           | *Stoneskin*                                                     |
+| 9           | *Transmute Rock<sup>XGE</sup>*                                  |
 
 }}
 
@@ -2964,12 +2968,12 @@ Whenever you finish a Long Rest, choose one type of disaster: earthquake, erupti
 
 ##### Eruption
 
-| Druid Level | Prepared Spells |
-|:-----------:|:----------------|
+| Druid Level | Prepared Spells                           |
+|:-----------:|:------------------------------------------|
 | 3           | *Burning Hands, Fire Bolt, Scorching Ray* |
-| 5           | *Melf's Minute Meteors<sup>XGE</sup>*           |
-| 7           | *Fire Shield*           |
-| 9           | *Immolation<sup>XGE</sup>*           |
+| 5           | *Melf's Minute Meteors<sup>XGE</sup>*     |
+| 7           | *Fire Shield*                             |
+| 9           | *Immolation<sup>XGE</sup>*                |
 
 }}
 
@@ -2977,41 +2981,43 @@ Whenever you finish a Long Rest, choose one type of disaster: earthquake, erupti
 
 ##### Tsunami <!-- None of these deal cold damage reeeeeeeeeee -->
 
-| Druid Level | Prepared Spells |
-|:-----------:|:----------------|
+| Druid Level | Prepared Spells                                      |
+|:-----------:|:-----------------------------------------------------|
 | 3           | *Create or Destroy Water, Mirror Image, Shape Water* |
-| 5           | *Tidal Wave<sup>XGE</sup>* |
-| 7           | *Control Water*            |
-| 9           | *Maelstrom<sup>XGE</sup>*  |
+| 5           | *Tidal Wave<sup>XGE</sup>*                           |
+| 7           | *Control Water*                                      |
+| 9           | *Maelstrom<sup>XGE</sup>*                            |
 
 }}
+
+\column
+
+:::::::::::::::::::::::::::::::::::
 
 {{#subclass-list-table
 
 ##### Typhoon
 
-| Druid Level | Prepared Spells |
-|:-----------:|:----------------|
+| Druid Level | Prepared Spells                                              |
+|:-----------:|:-------------------------------------------------------------|
 | 3           | *Dust Devil<sup>XGE</sup>, Gust<sup>XGE</sup>, Gust of Wind* |
-| 5           | *Wind Wall*           |
-| 7           | *Confusion*           |
-| 9           | *Control Winds<sup>XGE</sup>* |
+| 5           | *Wind Wall*                                                  |
+| 7           | *Confusion*                                                  |
+| 9           | *Control Winds<sup>XGE</sup>*                                |
 
 }}
 
 #### Level 3: ??? - TODO
 
-Text - TODO
+Fear on Spells - TODO
 
 #### Level 6: ??? - TODO
 
-Text - TODO
+Combine Disasters - TODO
 
 #### Level 10: ??? - TODO
 
 Summon Elemental - Text - TODO
-
-:::::::::::::::::::::::::::::::::::::::::
 
 #### Level 14: ??? - TODO
 
@@ -3038,11 +3044,37 @@ Earthquake, Incendiary Cloud, Tsunami, Whirlwind<sup>XGE</sup> - Text - TODO
 
 Text - TODO
 
+### Tempest Blade - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:117px,left:55px,width:375px,mix-blend-mode:normal}
+
+*Strike like the Wind*
+</br>
+Text - TODO
+
+#### Level 3: - TODO
+
+Text - TODO
+
+#### Level 7: - TODO
+
+Text - TODO
+
+#### Level 10: - TODO
+
+Text - TODO
+
+#### Level 15: - TODO
+
+Text - TODO
+
+#### Level 18: Last Breath - TODO
+
+Text - TODO
+
 ## Monk - TODO
 
 Text - TODO
 
-### Way of the Raging Demon  - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:177px,left:55px,width:375px,mix-blend-mode:normal}
+### Way of the Raging Demon  - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:474px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Surge of Killing Intent*
 </br>
@@ -3060,15 +3092,61 @@ Text - TODO
 
 Text - TODO
 
-#### Level 17: Satsui no Hado - TODO
+#### Level 17: Shun Goku Satsu - TODO
 
 Text - TODO
+
+\column
 
 ## Paladin - TODO
 
 Text - TODO
 
+### Oath of Bushidō - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:117px,left:400px,width:375px,mix-blend-mode:normal}
+
+*Uphold your Code, Honour your Daimyō*
+</br>
+Text - TODO
+
+#### Level 3: - TODO
+
+Text - TODO
+
+#### Level 7: - TODO
+
+Text - TODO
+
+#### Level 15: - TODO
+
+Text - TODO
+
+#### Level 20: - TODO
+
+Text - TODO
+
 ## Ranger - TODO
+
+Text - TODO
+
+### Spirit Tender - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:428px,left:400px,width:375px,mix-blend-mode:normal}
+
+*Lead your Gathering of Spirit Companions*
+</br>
+Text - TODO
+
+#### Level 3: - TODO
+
+Text - TODO
+
+#### Level 7: - TODO
+
+Text - TODO
+
+#### Level 11: - TODO
+
+Text - TODO
+
+#### Level 15: - TODO
 
 Text - TODO
 
@@ -3153,7 +3231,51 @@ This state lasts for 1 minute, or until you lose your concentration (as if you w
 
 Text - TODO
 
+### Soulflame Sorcery  - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:117px,left:55px,width:375px,mix-blend-mode:normal}
+
+*Ignite with Spiritual Energy*
+</br>
+Text - TODO
+
+#### Level 3: - TODO
+
+Text - TODO
+
+#### Level 6: - TODO
+
+Text - TODO
+
+#### Level 14: - TODO
+
+Text - TODO
+
+#### Level 18: - TODO
+
+Text - TODO
+
 ## Warlock - TODO
+
+Text - TODO
+
+### Dragonlord Patron - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:428px,left:55px,width:375px,mix-blend-mode:normal}
+
+*Pledge Allegiance to Dragonic Tyrants*
+</br>
+Text - TODO
+
+#### Level 3: - TODO
+
+Text - TODO
+
+#### Level 6: - TODO
+
+Text - TODO
+
+#### Level 10: - TODO
+
+Text - TODO
+
+#### Level 14: - TODO
 
 Text - TODO
 
@@ -3161,9 +3283,31 @@ Text - TODO
 
 Text - TODO
 
+### Astrologer  - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:739px,left:55px,width:375px,mix-blend-mode:normal}
+
+*Draw on the Magic of the Stars*
+</br>
+Text - TODO
+
+#### Level 3: - TODO
+
+Text - TODO
+
+#### Level 6: - TODO
+
+Text - TODO
+
+#### Level 10: - TODO
+
+Text - TODO
+
+#### Level 14: - TODO
+
+Text - TODO
+
 {{position:absolute,text-align:right,top:350px,right:305px,margin-bottom:-30px
 
-##### A Mage girl with</br>Ofuda spells and</br> a Fox Shikigami
+##### A Mage girl with </br> Ofuda spells and </br> a Fox Shikigami
 
 }}
 
@@ -4058,7 +4202,7 @@ The following are a set of feats designed for the setting of Sumiriku. These fea
 
 ##### Note: Feat Types
 
-Feats are divided into multiple types. Origin Feats are chosen as part of a Background when creating a character. General Feats can be chosen once a character reaches level 4. Species Feats require a character be a specific species to choose. Fighting Style Feats are feats that grant different fighting styles, which some classes gain for free at certain levels. Epic Boon feats are feats character can gain once they reach level 20 in a class. Some feats have additional prerequisites of character level, class feature, or another requirement.
+Feats are divided into multiple types. Origin Feats are chosen as part of a Background when creating a character. General Feats can be chosen once a character reaches level 4. Species Feats require a character be a specific species to choose. Fighting Style Feats are feats that grant different fighting styles, which some classes gain for free at certain levels. Epic Boon feats are feats character can gain once they reach level 19 in a class. Some feats have additional prerequisites of character level, class feature, or another requirement.
 
 }}
 
@@ -4111,7 +4255,21 @@ All Feats found in the 2024 D&D Player's Handbook are available to use within th
 
 \page
 
-### A Grand Tail ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+<!-- https://i.imgur.com/HP73Xgb.png -->
+
+{{position:absolute,text-align:right,top:235px,right:415px,margin-bottom:-30px
+
+##### A Masaru </br> monk
+
+}}
+
+![splotch](https://i.imgur.com/UPUX4zG.png) {position:absolute,left:40px,top:0px,width:275px,mix-blend-mode:multiply,filter:brightness(10%),opacity:70%,transform:rotate(-45deg)}
+
+![monk-y](https://i.imgur.com/HP73Xgb.png) {position:absolute,left:40px,top:0px,width:300px,margin-bottom:-25px,transform:scaleX(-1)rotate(15deg)}
+
+::::::::::::::::::
+
+### A Grand Tail ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:323px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Species Feat (Prerequisite: Level 4+, Masaru)*
 </br>You have discovered your potential for growth, becoming able to adapt to all situations. You gain the following benefits.
@@ -4147,7 +4305,7 @@ All Feats found in the 2024 D&D Player's Handbook are available to use within th
   ![mighty](https://i.imgur.com/VdF8cf1.jpg){position:absolute,bottom:-70px,right:-200px,width:120%,transform:scaleX(-1)}
 }}
 
-{{position:absolute,top:985px,right:425px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:1050px,right:425px,margin-bottom:-30px,text-align:right
 
 <!-- ##### A mighty </br> Ōgaru -->
 ##### A mighty </br> Ogaru
