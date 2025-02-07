@@ -4257,13 +4257,13 @@ All Feats found in the 2024 D&D Player's Handbook are available to use within th
 
 <!-- https://i.imgur.com/HP73Xgb.png -->
 
-{{position:absolute,text-align:right,top:235px,right:415px,margin-bottom:-30px
+{{position:absolute,text-align:left,top:240px,left:315px,margin-bottom:-30px
 
 ##### A Masaru </br> monk
 
 }}
 
-![splotch](https://i.imgur.com/UPUX4zG.png) {position:absolute,left:40px,top:0px,width:275px,mix-blend-mode:multiply,filter:brightness(10%),opacity:70%,transform:rotate(-45deg)}
+![splotch-grey](https://i.imgur.com/UPUX4zG.png) {position:absolute,left:40px,top:0px,width:275px,mix-blend-mode:multiply,filter:brightness(10%),opacity:70%,transform:rotate(-45deg)}
 
 ![monk-y](https://i.imgur.com/HP73Xgb.png) {position:absolute,left:40px,top:0px,width:300px,margin-bottom:-25px,transform:scaleX(-1)rotate(15deg)}
 
