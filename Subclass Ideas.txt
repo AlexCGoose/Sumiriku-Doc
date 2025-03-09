@@ -1,0 +1,51 @@
+craftsman artificer?
+
+kaiju barbarian?
+
+geisha bard?
+theater bard?
+painter bard?
+craftsman bard?
+ink bard?
+
+shinto cleric?
+buddist cleric?
+herbalist cleric?
+
+duality cleric?
+sky cleric?
+harvest cleric?
+treasure cleric?
+revelry cleric? - trickery
+sea cleric?
+land cleric?
+tyranny cleric?
+hope cleric?
+
+blossoms druid?
+natural disaster druid?
+quake druid?
+mountain druid?
+
+dirty fighter?
+yasuo fighter?
+
+akuma monk
+
+progress paladin?
+
+thrown weapon ranger?
+kami ranger?
+survival ranger?
+ainu ranger?
+
+ninja rogue?
+dagger dancer rouge
+
+spirit soul sorcerer?
+yokai sorcerer?
+zodiac sorcerer?
+calamity sorcerer?
+
+balance wizard?
+constellation wizard?

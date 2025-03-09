@@ -46,6 +46,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
       - [{{ Noh Mask of the Noppera-bō}}{{ 5}}](#p6)
       - [{{ Prayer Beads to the Myōjin}}{{ 5}}](#p6)
       - [{{ Red Feather?}}{{ 5}}](#p6)
+      - [{{ Twin Dragon Longbow }}{{ 5}}](#p6)
       - [{{ Prostheses}}{{ 6}}](#p7)
         - [{{ Shinobi Prosthetic}}{{ 6}}](#p7)
         - [{{ Shuko Claws}}{{ 6}}](#p7)
@@ -72,16 +73,20 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
     - [{{ Genji and Okamoto}}{{ 19}}](#p20)
     - [{{ Godaiyō}}{{ 21}}](#p22)
       - [{{ Raiju}}{{ 21}}](#p22)
-    - [{{ Generic Foes}}{{ 22}}](#p23)
-      - [{{ Samurai and Ashigaru}}{{ 22}}](#p23)
+    - [{{ Yokai}}{{ 22}}](#p23)
+      - [{{ Ningyo}}{{ 22}}](#p23)
+    - [{{ Undead}}{{ 23}}](#p24)
+      - [{{ Jiangshi}}{{ 23}}](#p24)
+    - [{{ Generic Foes}}{{ 24}}](#p25)
+      - [{{ Samurai and Ashigaru}}{{ 24}}](#p25)
 
-- ### [{{ PART 2 - The Living Lore}}{{ 23}}](#p24) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:717px,left:55px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 2 - The Living Lore}}{{ 25}}](#p26) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:794px,left:55px,width:245px,mix-blend-mode:normal}
 
-  - ###### [{{ Letters and Documents}}{{ 24}}](#p25)
+  - ###### [{{ Letters and Documents}}{{ 26}}](#p27)
   
-    - [{{ Sensei Kenzo’s Letter to the Students}}{{ 24}}](#p25)
-    - [{{ The Usagi’s Letter to Jun}}{{ 24}}](#p25)
-    - [{{ Haiku of the Fading Mire}}{{ 25}}](#p26)
+    - [{{ Sensei Kenzo’s Letter to the Students}}{{ 26}}](#p27)
+    - [{{ The Usagi’s Letter to Jun}}{{ 26}}](#p27)
+    - [{{ Haiku of the Fading Mire}}{{ 27}}](#p28)
 
 }}
 
@@ -185,6 +190,15 @@ If this feather is held tightly, when the person holding the feather drops to 0 
 
 This feather can instead be used to return the recently deceased back to life. When placed on the body of a creature that has died within the last minute, they return to life with 1 hit point, as in the *Revivify* spell. This can't return to life a creature that has died of old age, nor can it restore any missing body parts. The feather is also consumed if used in this way.
 
+#### Twin Dragon Daikyū
+
+*Weapon (Daikyū), Very Rare, Major (requires attunement)*</br>
+This Daikyū is elegantly carved and decorated, painted a sheer white and detailed with swirls of red and black. The carvings show the shape and scales of two dragons spiraled around each other, their heads at either end of the bow.
+
+You gain a +1 bonus to Attack and Damage Rolls made using this Daikyū. Attacks with this Daikyū deal either Fire or Force damage, instead of Piercing, chosen when you make the attack. On a hit, the Daikyū deals an extra 1d6 damage of the chosen type.
+
+In place of an attack, you can release a 150-foot long and 5-foot-wide Line of energy from the Daikyū. Each creature in the Line makes a Dexterity Saving Throw, taking 1d8 Fire damage and 1d8 Force damage on a failed save or half as much damage on a successful one. Once you use this feature, you cannot use it again until you complete a Short or Long Rest.
+
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
@@ -261,7 +275,7 @@ This Jitte was a treasured weapon of Dojo Sensei Kenzo, which he had by his side
 *Wondrous Item, Unique, Major (Requires Attunement)* </br>
 The greatest desire of the Infinite Library is to recover the Orb of All Knowledge, Zenchi-No-Tama, left for them by Mikazuki-sama. If it cannot be found, it instead must be recreated.
 
-Tansa-ki (探査機, 'Probe') is a hemisphere of grey moonrock, with carved circles on the flat face and embedded marble details. Over the course of 1 minute while holding Tansa-ki, you can touch a creature, alive or dead, a magic item, a book or document, or any other appropriate object as determined by your DM to learn information about the object and store it within Tansa-ki. If you touch a creature you learn the creature's statblock. If you touch a magic item you learn the item's properties, as if you had cast the Identify spell on it. If you touch a book or document, you record all of the information contained within the document. When touching any other appropriate object you can learn and record information of your choosing and the DMs approval about that object, such as its appearance or construction.
+Tansa-ki (探査機, 'Probe') is a hemisphere of grey moon-rock, with carved circles on the flat face and embedded marble details. Over the course of 1 minute while holding Tansa-ki, you can touch a creature, alive or dead, a magic item, a book or document, or any other appropriate object as determined by your DM to learn information about the object and store it within Tansa-ki. If you touch a creature you learn the creature's statblock. If you touch a magic item you learn the item's properties, as if you had cast the Identify spell on it. If you touch a book or document, you record all of the information contained within the document. When touching any other appropriate object you can learn and record information of your choosing and the DMs approval about that object, such as its appearance or construction.
 
 As an action while holding Tansa-ki you can recall any record or piece of information previously stored, as a illusionary hologram appears above the rocks surface with the knowledge you request.
 
@@ -397,7 +411,7 @@ Text about Masuzō
 
 ***Multiattack.*** Masuzō makes two Martial Arts Attacks.
 :
-***Martial Arts Attack.*** +7 to hit, reach 5ft., one target. *Hit:* 8 (1d8 + 4) Bludgeoning damage.
+***Martial Arts Attack.*** *Melee Attack Roll:* +7, reach 5ft. *Hit:* 8 (1d8 + 4) Bludgeoning damage.
 
 }}
 
@@ -477,8 +491,8 @@ Text about Makoto
 
 }}
 
-**Senses**               :: passive Perception 13
-**CR**                   :: 3 (XP 700; PB +3; Level 6)
+**Senses** :: passive Perception 13
+**CR**     :: 3 (XP 700; PB +3; Level 6)
 
 }}
 
@@ -492,9 +506,9 @@ Text about Makoto
 
 ***Multiattack.*** Makoto makes two Attacks.
 :
-***Katana.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (2d4 + 3) Slashing damage. **Cross.** If Makoto hits with this attack, she can move to the opposite side of the creature hit without expending movement and without provoking Opportunity Attacks. This feature can be used only once on her turn.
+***Katana.*** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 8 (2d4 + 3) Slashing damage. **Cross.** If Makoto hits with this attack, she can move to the opposite side of the creature hit without expending movement and without provoking Opportunity Attacks. This feature can be used only once on her turn.
 :
-***Hankyū.*** *Ranged Weapon Attack:* +6 to hit, range 80/320 ft., one target. *Hit:* 7 (1d6 + 3) Piercing damage. **Graze.** If this attack hits, Makoto has Advantage on your next Attack Roll against that creature before the end of your next turn.
+***Hankyū.*** *Ranged Attack Roll:* +6 to hit, range 80/320 ft., one target. *Hit:* 7 (1d6 + 3) Piercing damage. **Graze.** If this attack hits, Makoto has Advantage on your next Attack Roll against that creature before the end of your next turn.
 
 ### Bonus Actions
 
@@ -542,19 +556,19 @@ Text about Makoto
 
 }}
 
-**CR**                   :: -- (PB +3, equals Makoto's PB)
+**CR** :: -- (PB +3, equals Makoto's PB)
 
 }}
 
 ### Traits
 
-***Charge.*** If Kentaro moves at least 20 feet straight toward a target and then hits it with a Slash attack on the same turn, the target takes an extra 1d6 slashing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+***Charge.*** If Kentaro moved at least 20 feet straight toward the target before the hit, the target takes an extra 1d6 Slashing damage, and the target has the Prone Condition if it is a Large or smaller creature.
 :
-***Minion.*** Kentaro gains +3 (Makoto's PB) to any ability check or saving throw that he makes.
+***Follower.*** Kentaro gains +3 (Makoto's PB) to any ability check or saving throw that he makes.
 
 ### Actions
 
-***Slash.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (1d8 + 5) Slashing damage. **Cross.** If Kentaro hits with this attack, she can move to the opposite side of the creature hit without expending movement and without provoking Opportunity Attacks. This feature can be used only once on her turn.
+***Slash.*** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 10 (1d8 + 5) Slashing damage. **Cross.** If Kentaro hits with this attack, she can move to the opposite side of the creature hit without expending movement and without provoking Opportunity Attacks. This feature can be used only once on her turn.
 
 }}
 
@@ -608,9 +622,9 @@ Text about Atsuki
 
 }}
 
-**Skills**               :: Acrobatics +6, Arcana +6, Athletics +3, History +6, Investigation +6, Persuasion +3,
-**Senses**               :: passive Perception 10
-**CR**                   :: 3 (XP 700; PB +3; Level 6)
+**Skills** :: Acrobatics +6, Arcana +6, Athletics +3, History +6, Investigation +6, Persuasion +3,
+**Senses** :: passive Perception 10
+**CR**     :: 3 (XP 700; PB +3; Level 6)
 
 }}
 
@@ -626,7 +640,7 @@ Text about Atsuki
 
 ***Multiattack.*** Atsuki makes two Moonflare Blade attacks.
 :
-***Moonflare Blade.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 3) Force damage. **Cross.** If Atsuki hits with this attack, she can move to the opposite side of the creature hit without expending movement and without provoking Opportunity Attacks. This feature can be used only once on their turn.
+***Moonflare Blade.*** *Melee Attack Roll:* +8, reach 5 ft. *Hit:* 8 (1d8 + 3) Force damage. **Cross.** If Atsuki hits with this attack, she can move to the opposite side of the creature hit without expending movement and without provoking Opportunity Attacks. This feature can be used only once on their turn.
 :
 ***Psionic Repositioning.*** Atsuki telekinetically moves a Large or smaller object (or willing ally) within 30 feet of them up to 30 feet to an unoccupied space it can see. They can also move an unsecured Tiny object or an unsecured simple or martial weapon to or from their hand. ☐
 
@@ -697,7 +711,7 @@ Text about Yuxuan
 }}
 
 **Senses** :: Darkvision 60 ft.; Passive Perception 13
-**Level**  :: 9 (PB +4)
+**CR**     :: ? (XP ?; PB +4; Level 9)
 
 }}
 
@@ -709,13 +723,13 @@ Text about Yuxuan
 :
 ***Fright or Flight.*** During his turn Yuxuan gains a fly speed equal to his speed and can hover.
 :
-***Stunning Strike (1/Turn).*** *Constutution Saving Throw:* DC 14, a creature Yuxuan has just hit with an Unarmed Strike, 1 Focus Point. *Failure:* The target is stunned until the start of Yuxuan’s next turn. *Success:* The target’s speed is halved until the start of Yuxuan’s turn, and the next attack roll made against the target before then has Advantage.
+***Stunning Strike (1/Turn).*** *Constitution Saving Throw:* DC 14, a creature Yuxuan has just hit with an Unarmed Strike, 1 Focus Point. *Failure:* The target is stunned until the start of Yuxuan’s next turn. *Success:* The target’s speed is halved until the start of Yuxuan’s turn, and the next attack roll made against the target before then has Advantage.
 
 ### Actions
 
 ***Multiattack.*** Yuxuan makes two Unarmed Strikes.
 :
-***Unarmed Strike.*** *Melee Weapon Attack.* +8 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) Bludgeoning damage.
+***Unarmed Strike.*** *Melee Weapon Attack.* +8, reach 5 ft. *Hit:* 8 (1d8 + 4) Bludgeoning damage.
 :
 ***Spellcasting.*** Yuxuan casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 14):
 
@@ -725,7 +739,7 @@ Text about Yuxuan
 
 ### Bonus Actions
 
-***Unarmed Strike.*** *Melee Weapon Attack.* +8 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) Bludgeoning damage.
+***Unarmed Strike.*** *Melee Weapon Attack.* +8, reach 5 ft. *Hit:* 8 (1d8 + 4) Bludgeoning damage.
 
 **Focus.** Yuxuan makes an additional Unarmed Strike.
 :
@@ -737,7 +751,7 @@ Text about Yuxuan
 
 ### Reactions
 
-***Deflect Attacks.*** When Yuxuan is hit by an attack that would deal Bludgeoning, Piercing, or Slashing damage, Yuxuan reduces the damage by 18 (1d10 + 13). If this reduces the damage to 0, Yuxuan can spend a Focus Point to redirect the kinetic force of the attack to a creature it can see within 30 feet of it. The target must succeed on a DC 14 Dexterity Saving Throw or take 13 (2d8 + 4) Force damage.
+***Deflect Attacks.*** *Trigger:* Yuxuan is hit by an attack that would deal Bludgeoning, Piercing, or Slashing damage. *Response:* Yuxuan reduces the damage by 18 (1d10 + 13). If this reduces the damage to 0, Yuxuan can spend a Focus Point to redirect the kinetic force of the attack to a creature it can see within 30 feet of it. The target must succeed on a DC 14 Dexterity Saving Throw or take 13 (2d8 + 4) Force damage.
 
 }}
 
@@ -791,10 +805,10 @@ Many groups of bandits roam the roads and settlements of Sumiriku, who make thei
 
 }}
 
-**Skills**      :: Perception +2, Investigation -1
-**Senses**      :: Passive Perception 9
-**Languages**   :: Common
-**CR**          :: 1 (XP ?; PB +2)
+**Skills**    :: Perception +2, Investigation -1
+**Senses**    :: Passive Perception 9
+**Languages** :: Common
+**CR**        :: 1 (XP ?; PB +2)
 
 }}
 
@@ -870,17 +884,17 @@ Text about the castle
 
 }}
 
-**Skills**      :: Perception +2
-**Senses**      :: Passive Perception 12
-**CR**          :: 1/8 (XP 25; PB +2)
+**Skills** :: Perception +2
+**Senses** :: Passive Perception 12
+**CR**     :: 1/8 (XP 25; PB +2)
 
 }}
 
 ### Actions
 
-***Hoko Yari.*** *Melee Weapon Attack:* +3 to hit, reach 10 ft., one target. *Hit:* 4 (1d6 + 1) Piercing damage, or 5 (1d8 + 1) Piercing damage if used with two hands.
+***Hoko Yari.*** *Melee Attack Roll:* +3 to hit, reach 10 ft., one target. *Hit:* 4 (1d6 + 1) Piercing damage, or 5 (1d8 + 1) Piercing damage if used with two hands.
 :
-***Jitte.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) Bludgeoning damage.
+***Jitte.*** *Melee Attack Roll:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) Bludgeoning damage.
 
 ### Reactions
 
@@ -925,9 +939,9 @@ Text about the castle
 
 }}
 
-**Immunities**  :: Poison, Psychic; Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-**Senses**      :: Blindsight 60 ft. (blind beyond this radius), passive Perception 6
-**CR**          :: 1 (XP 200; PB +2)
+**Immunities** :: Poison, Psychic; Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+**Senses**     :: Blindsight 60 ft. (blind beyond this radius), passive Perception 6
+**CR**         :: 1 (XP 200; PB +2)
 
 }}
 
@@ -939,9 +953,9 @@ Text about the castle
 
 ### Actions
 
-***Multiattack.*** The armor makes two melee attacks.
+***Multiattack.*** The armor makes two attacks.
 :
-***Katana.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (2d4 + 2) Slashing damage.
+***Katana.*** *Melee Attack ROll:* +4, reach 5 ft. *Hit:* 6 (2d4 + 2) Slashing damage.
 
 }}
 
@@ -993,9 +1007,9 @@ Text about Hatsumomo
 
 }}
 
-**Skills**      :: Perception +3, Stealth +6
-**Senses**      :: Darkvision 60 ft., Passive Perception 13
-**CR**          :: 5 (XP ?; PB +2)
+**Skills** :: Perception +3, Stealth +6
+**Senses** :: Darkvision 60 ft., Passive Perception 13
+**CR**     :: 5 (XP ?; PB +2)
 
 }}
 
@@ -1005,9 +1019,7 @@ Text about Hatsumomo
 
 ### Actions
 
-***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10 + 3) Piercing damage.
-:
-***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) Slashing damage. *Strength Saving Throw:* DC 13, when hit by this attack. *Failure:* The target is knocked Prone.
+***Rend.*** *Melee Attack Roll:* +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage. If the target is a Large or smaller creature, it has the Prone Condition.
 
 ### Villain Actions
 
@@ -1054,9 +1066,9 @@ Text about Hatsumomo
 
 }}
 
-**Skills**      :: Persuasion +7
-**Languages**   :: Formal, Common
-**CR**          :: 5 (XP ?; PB +3; Level 5)
+**Skills**    :: Persuasion +7
+**Languages** :: Formal, Common
+**CR**        :: 5 (XP ?; PB +3; Level 5)
 
 }}
 
@@ -1070,7 +1082,7 @@ Text about Hatsumomo
 
 ### Actions
 
-***Kakure-bi.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 6 (1d4 + 4) Slashing damage or 7 (1d6 + 4) Piercing Damage.
+***Kakure-bi.*** *Melee Attack: Roll* +8 , reach 5 ft. *Hit:* 6 (1d4 + 4) Slashing damage or 7 (1d6 + 4) Piercing Damage.
 
 ### Bonus Actions
 
@@ -1080,13 +1092,13 @@ Text about Hatsumomo
 :
 ***Protective Fan.*** Hatsumomo swaps Kakure-bi from open to closed or vice versa.
 :
-***Tanto*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 5 (1d4 + 3) Piercing damage.
+***Tanto*** *Melee Attack Roll:* +7, reach 5 ft. *Hit:* 5 (1d4 + 3) Piercing damage.
 :
 ***Vicious Mockery.*** Hatsumomo talks down to her victim. *Wisdom Saving Throw:* DC 15, one creature Hatsumomo can see within 60 feet. *Failure:* 3 (1d6) Psychic damage and the target has Disadvantage on the next attack roll it makes before the end of its next turn.
 
 ### Reactions
 
-***Uncanny Dodge.*** Hatsumomo halves the damage that she takes from an attack that hits her. Hatsumomo must be able to see the attacker.
+***Uncanny Dodge.*** *Trigger:* Hatsumomo is hit by an attack from an attacker she can see. *Response:* Hatsumomo halves the damage that she takes from the attack.
 
 }}
 
@@ -1141,15 +1153,15 @@ Text about Hidemaro
 
 }}
 
-**Skills**      :: Athletics +7, Intimidation +5
-**Senses**      :: Passive Perception 12
-**CR**          :: 8 (XP 3,900; PB +3)
+**Skills** :: Athletics +7, Intimidation +5
+**Senses** :: Passive Perception 12
+**CR**     :: 8 (XP 3,900; PB +3)
 
 }}
 
 ### Traits
 
-***Kane-tsuki.*** Hidemaro wields a magical Kama Yari called Kane-tsuki. Kane-tsuki is a +1 Kama Yari (included in Hidemaro's attacks). *Constitution Saving Throw:* DC 15, when hit by Kane-tsuki. *Failure:* The target is Dazed and Deafened until the end of their next turn. Creatures immune to the Deafened Condition are immune to this effect. This ability can be used only once per turn.
+***Kane-tsuki.*** Hidemaro wields a magical Kama Yari called Kane-tsuki. Kane-tsuki is a +1 Kama Yari (included in Hidemaro's attacks). *Constitution Saving Throw:* DC 15, when hit by Kane-tsuki, once per turn. *Failure:* The target has the Dazed and Deafened Condition until the end of their next turn. Creatures immune to the Deafened Condition are immune to this effect.
 :
 ***Kōyō, Faithful Steed.*** At the start of initiative, Hidemaro summons and mounts his steed, the elk Kōyō. Kōyō is a Large Beast, with 13 AC and a 50 ft. Walk Speed. Hidemaro and Kōyō share Hit Points, but only one of them can take damage from a source at any one time. <!-- Some of Hidemaro's Villain Actions can only be used while mounted. -->
 :
@@ -1167,7 +1179,7 @@ Text about Hidemaro
 
 ***Multiattack.*** Hidemaro makes two attacks using Kane-tsuki.
 :
-***Kane-tsuki.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 10 (1d10 + 5) Piercing damage plus 5 (1d8) Radiant damage. If Hidemaro is mounted, the target can be pushed up to 10 feet away from him.
+***Kane-tsuki.*** *Melee Attack Roll:* +8, reach 10 ft. *Hit:* 10 (1d10 + 5) Piercing damage plus 5 (1d8) Radiant damage. If Hidemaro is mounted, the target can be pushed up to 10 feet away from him.
 
 ### Villain Actions
 
@@ -1177,7 +1189,7 @@ Text about Hidemaro
 :
 ***Fear The Conquerer. (Antagonist Action)*** Hidemaro terrifies his foes. *Wisdom Saving Throw:* DC 13, each creature within 30 feet. *Failure:* The target is Frightened of Hidemaro for 1 minute. While Frightened in this way, a creature takes 3 (1d6) Psychic damage at the start of each of their turns. If a Frightened target ends its turn more than 30 feet away from Hidemaro, the target can repeat the Saving Throw, ending the effect on itself on a success.
 :
-***Reverberations. (Antagonist Action)*** Hidemaro slams the ground, causing the sound of ringing to echo. *Constitution Saving Throw:* DC 13, each creature within 30feet. *Failure:* 18 (4d8) Thunder damage and the target is Dazed. A creature Dazed in this way can repeat the Saving Throw at the end of each of their turns, ending the effect on a success. *Success:* Half Damage. Creatures immune to the Deafened ability are immune to this effect.
+***Reverberations. (Antagonist Action)*** Hidemaro slams the ground, causing the sound of ringing to echo. *Constitution Saving Throw:* DC 13, each creature within 30 feet. *Failure:* 18 (4d8) Thunder damage and the target has the Dazed Condition for 1 minute (save repeats at end of turn). *Success:* Half Damage. *Success or Failure:* Creatures immune to the Deafened Condition are immune to this effect.
 
 }}
 
@@ -1229,7 +1241,7 @@ Text about them
 
 }}
 
-**CR**                   :: 1/8 (XP 5; PB +2)
+**CR** :: 1/8 (XP 5; PB +2)
 
 }}
 
@@ -1241,7 +1253,7 @@ Text about them
 
 ### Actions
 
-***Pinch (Group Attack).*** *Melee Weapon Attack:* +3 to hit, reach 50 ft., one target. *Hit:* 1 Piercing damage.
+***Pinch (Group Attack).*** *Melee Attack Roll:* +3, reach 5 ft. *Hit:* 1 Piercing damage.
 
 }}
 
@@ -1292,11 +1304,11 @@ Text about them
 
 ### Actions
 
-***Multiattack.*** Genji makes two attacks.
+***Multiattack.*** Genji makes two attacks, using Daikyū or Tantō in any combination.
 :
-***Daikyū.*** *Ranged Weapon Attack:* +7 to hit, range 80/320 ft., one target. *Hit:* 11 (1d8 + 7) Piercing damage. **Graze.** If the attack misses, Genji still deals 4 damage to the target.
+***Daikyū.*** *Ranged Attack Roll:* +7, range 80/320 ft. *Hit:* 11 (1d8 + 7) Piercing damage. **Graze.** If the attack misses, Genji still deals 4 damage to the target.
 :
-***Tantō.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 5 (1d4 + 7) Piercing damage.
+***Tantō.*** *Melee Attack Roll:* +7 , reach 5 ft. *Hit:* 5 (1d4 + 7) Piercing damage.
 
 ### Bonus Actions
 
@@ -1304,7 +1316,7 @@ Text about them
 
 ### Reactions
 
-***Crab Rave.*** In Reaction to hitting a creature with an attack from his Daikyū, Genji can summon 4 Crab Minions surrounding the target, which immediately attack them. They act on Genji's initiative.
+***Crab Rave.*** *Trigger:* Genji hits a creature with a Daikyū attack. *Response:* Genji summons 4 Crab Minions surrounding the target, which immediately attack them. They act on Genji's initiative.
 
 }}
 
@@ -1318,8 +1330,8 @@ Text about them
 |:--------------:|:----------------------|:-------|
 | Rampage        | Okamoto's Chaos Threshold is reduced to 0, or Genji has been subdued or killed. | **Effect.** Okamoto aggressively targets the party.</br>**Gained Features.** Body Slam Villain Action.</br>**Lost Features.** Burrow Speed. |
 | Lonely         | Genji is separated from Okamoto. | **Effect.** Okamoto tries to protect Genji.</br>**Gained Features.** Unburrow Villain Action |
-| Blinded         | Okamoto's Eyestalks area is exploited. | **Effect.** Okamoto goes blind, and must see using Blindsight. |
-| Death Throws   | Okamoto has three exploited vulnerable areas. | **Effect.** Okamoto's shell splits, reducing his AC by 5.</br>**Finishing Blow.** Okamoto is destroyed when it takes damage equal to its Finishing Blow in a single turn |
+| Blinded        | Okamoto's Eyestalks area is exploited. | **Effect.** Okamoto goes blind, and must see using Blindsight. |
+| Death Throws   | Okamoto has three exploited vulnerable areas. | **Effect.** Okamoto's shell splits, reducing his AC by 5.</br>**Finishing Blow.** Okamoto is destroyed when it takes damage equal to its Finishing Blow in a single turn. |
 
 }}
 
@@ -1340,16 +1352,16 @@ Text about them
 
 {{vitals
 
-**AC**         :: 17 (Natural Armour)
-**Chaos Threshold**         :: 30
+**AC**              :: 17 (Natural Armour)
+**Chaos Threshold** :: 30
 \column
-**Initiative** :: +2 (12)
-**Finishing Blow**         :: 20
+**Initiative**      :: +2 (12)
+**Finishing Blow**  :: 20
 
 }}
 
-**Speed**      :: 30 ft., Burrow 30 ft., Swim 30 ft.
-**Vulnerable Area Identification**      :: DC 13
+**Speed**                          :: 30 ft., Burrow 30 ft., Swim 30 ft.
+**Vulnerable Area Identification** :: DC 13
 
 {{tables
 
@@ -1370,9 +1382,9 @@ Text about them
 
 }}
 
-**Skills**               :: Stealth +6
-**Senses**               :: Blindsight 30 ft., passive Perception 9
-**CR**                   :: 10 (XP ?; PB +4)
+**Skills** :: Stealth +6
+**Senses** :: Blindsight 30 ft., passive Perception 9
+**CR**     :: 10 (XP ?; PB +4)
 
 }}
 
@@ -1380,7 +1392,7 @@ Text about them
 
 ***Amphibious.*** Okamoto can breath air and water.
 :
-***Close to the Ground.*** Medium creatures can move under Okamoto while Prone, but cannot move through him otherwise.
+***Close to the Ground.*** Medium creatures can move under Okamoto while he has the Prone Condition, but cannot move through him otherwise.
 :
 ***Crusher.*** A creature that starts its turn grappled by Okamoto takes 10 Bludgeoning damage.
 :
@@ -1396,17 +1408,17 @@ Text about them
 
 ***Multiattack.*** Okamoto makes two attacks, each with a different limb.
 :
-***Big Meaty Claw.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 22 (3d10 + 6) Bludgeoning damage, and the target is Grappled (Escape DC 17). This claw can only grapple up to one creature at a time. If the target of this attack is already grappled by this claw, the attack is made at Advantage.
+***Big Meaty Claw.*** *Melee Attack Roll:* +10, reach 10 ft. *Hit:* 22 (3d10 + 6) Bludgeoning damage, and the target is Grappled (Escape DC 17). This claw can only grapple up to one creature at a time. If the target of this attack is already grappled by this claw, the attack is made at Advantage.
 :
-***Slightly Smaller Claw.*** *Melee Weapon Attack:* +0 to hit, reach 10 ft., one target. *Hit:* 19 (3d8 + 5) Bludgeoning damage, and the target is Grappled (Escape DC 16). This claw can only grapple up to one creature at a time. If the target of this attack is already grappled by this claw, the attack is made at Advantage.
+***Slightly Smaller Claw.*** *Melee Attack Roll:* +10, reach 10 ft. *Hit:* 19 (3d8 + 5) Bludgeoning damage, and the target is Grappled (Escape DC 16). This claw can only grapple up to one creature at a time. If the target of this attack is already grappled by this claw, the attack is made at Advantage.
 :
-**Itty Bitty Claws.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (3d6 + 2) Bludgeoning damage.
+**Itty Bitty Claws.** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 13 (3d6 + 2) Bludgeoning damage.
 
 ### Villain Actions
 
-**Unburrow (While Lonely).** Okamoto enters the sand, travels up to 30 feet in a straight line, and then erupts out. *Dexterity Saving Throw:* DC 17, each creature within Okatomo's spaces after unburrowing. *Failure:* 21 (6d6) Bludgeoning damage and the target lands Prone in a nearby space. *Success:* The target can choose to land safely either on Okamoto's shell or in a nearby space.
+**Unburrow (While Lonely).** Okamoto enters the sand, travels up to 30 feet in a straight line, and then erupts out. *Dexterity Saving Throw:* DC 17, each creature within Okatomo's spaces after unburrowing. *Failure:* 21 (6d6) Bludgeoning damage and the target lands in a nearby space with the Prone Condition. *Success:* The target can choose to land safely either on Okamoto's shell or in a nearby space.
 :
-**Body Slam (While Rampaging).** Okamoto raises up onto his hind legs and slams onto the ground. *Strength Saving Throw:* DC 19, each creature within 30 feet. *Failure:* 42 (12d6) Bludgeoning damage and the target is Dazed and is knocked Prone. *Success:* Half Damage. Medium creatures directly front of Okamoto are knocked Prone on a success or fail as they are forced underneath him. Creatures on Okamoto's back fall off of him when he uses this Action.
+**Body Slam (While Rampaging).** Okamoto raises up onto his hind legs and slams onto the ground. *Strength Saving Throw:* DC 19, each creature within 30 feet. *Failure:* 42 (12d6) Bludgeoning damage, the target has the Prone Condition, and the target has the Dazed Condition for 1 minute (save repeats at end of turn). *Success:* Half Damage. *Failure or Success:* Medium creatures directly in front of Okamoto have the Prone Condition as they are forced underneath him. Creatures on Okamoto's back fall off of him when he uses this Action.
 
 }}
 
@@ -1421,7 +1433,7 @@ Text about them
 | Big Meaty Claw        | **Targeting.** The Big Meaty Claw can be targeted as normal.</br>**Exploitation.** Okamoto lets go of any creature grappled by the claw, can no longer Grapple with the claw, and makes attacks with the claw at disadvantage. | 17 | 55 |
 | Slightly Smaller Claw | **Targeting.** The Big Meaty Claw can be targeted as normal.</br>**Exploitation.** Okamoto lets go of any creature grappled by the claw, can no longer Grapple with the claw, and makes attacks with the claw at disadvantage. | 17 | 45 |
 | Eyestalks             | Okamoto's two Eyestalks share a pool of Hit Points. When the vulnerable area is reduced to half its Hit Points or fewer, one eyestalk is destroyed. If an eyestalk takes any amount of Slashing damage, it is destroyed.</br>**Targeting.** Okamoto's Eyestalks can be targeted as normal.</br>**Exploitation.** Okamoto goes blind, and must see using Blindsight.       | 20 | 30 |
-| Soft Underbelly       | **Targeting.** The Soft Underbelly vulnerable area can only be targeted by creatures underneath Okamoto, or while Okamoto is Prone.</br>**Exploitation.** Okamoto collapses, becoming permanently Prone. | 13 | 30 |
+| Soft Underbelly       | **Targeting.** The Soft Underbelly vulnerable area can only be targeted by creatures underneath Okamoto, or while Okamoto has the Prone Condition.</br>**Exploitation.** Okamoto collapses, permanently having the Prone Condition. | 13 | 30 |
 
 }}
 
@@ -1473,12 +1485,12 @@ Text about them
 
 }}
 
-**Skills**       :: Acrobatics +8, Perception +8, Stealth +8
-**Resistances**  :: Cold, Poison, Thunder
-**Immunities**   :: Lightning; Dazed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Restrained
-**Senses**       :: Darkvision 60 ft., Passive Perception 18
-**Languages**    :: Ryūgo
-**CR**           :: 10 (XP 5000; PB +4)
+**Skills**      :: Acrobatics +8, Perception +8, Stealth +8
+**Resistances** :: Cold, Poison, Thunder
+**Immunities**  :: Lightning; Dazed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Restrained
+**Senses**      :: Darkvision 60 ft., Passive Perception 18
+**Languages**   :: Ryūgo
+**CR**          :: 10 (XP 5000; PB +4)
 
 }}
 
@@ -1488,7 +1500,7 @@ Text about them
 :
 ***Legendary Resistance (1/Day).*** If the Raijū fails a saving throw, they can choose to succeed instead. Once their Legendary Resistance feature is used, they lose access to their Static Charge feature.
 :
-***Spark Path.*** The Raijū leaves behind streaks of lightning as they move, which are 5 foot wide, shed dim light in a 20-foot radius, and last until the start of their next turn. When this path first appears in a creature's space or a creature enters the path or ends their turn there, they must succeed on a DC 16 Dexterity Saving Throw or take 7 (2d6) Lightning damage.
+***Spark Path.*** The Raijū leaves behind streaks of lightning as they move, which are 5 foot wide, shed dim light in a 20-foot radius, and last until the start of their next turn. *Dexterity Saving Throw:* DC 16, when this path first appears in a creature's space or a creature enters the path or ends their turn there. *Failure:* 7 (2d6) Lightning damage.
 :
 ***Static Charge.*** The Raijū's attacks and abilities can charge creatures with static electricity. When a charged creature takes Lightning damage, another charged creature within 15 feet of the first also takes 7 (2d6) Lightning damage.
 
@@ -1496,7 +1508,7 @@ Text about them
 
 ***Multiattack.*** The Raijū makes three Lightning Claws attacks. They can replace one of these with a use of Tail Bolt.
 :
-***Lightning Claws.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:*  12 (2d6 + 5) Slashing damage plus 7 (2d6) Lightning damage, and the target must succeed on a DC 16 Constitution Saving Throw or become charged.
+***Lightning Claws.*** *Melee Attack Roll:* +9, reach 5 ft. *Hit:*  12 (2d6 + 5) Slashing damage plus 7 (2d6) Lightning damage, and the target must succeed on a DC 16 Constitution Saving Throw or become charged.
 :
 ***Tail Bolt.*** *Dexterity Saving Throw:* DC 16, each creature within 5 feet of a point within 60 feet. *Failure:* 21 (6d6) Lightning damage, and the target is Dazed and is charged. *Success:* Half damage, and the target is not Dazed or is charged.
 :
@@ -1510,7 +1522,7 @@ The Raijū can take up to two Reactions per round but only one per turn.
 :
 ***Bolt Dash.*** *Trigger:* The Raijū takes damage from a Ranged Attack. *Response:* The Raijū dashes up to 50 feet towards the creature that triggered the reaction without provoking Opportunity Attacks.
 :
-***Abosrb Energy.*** *Trigger:* A creature the Raijū sees ends their turn. *Response---Constitution Saving Throw:* DC 16, each charged creature within 120 feet. *Failure:* 7 (2d6) Lightning damage, the Raijū is healed for that amount, and the target loses charge. *Success:* The target loses charge.
+***Absorb Energy.*** *Trigger:* A creature the Raijū sees ends their turn. *Response---Constitution Saving Throw:* DC 16, each charged creature within 120 feet. *Failure:* 7 (2d6) Lightning damage, the Raijū is healed for that amount, and the target loses charge. *Success:* The target loses charge.
 
 }}
 
@@ -1562,10 +1574,10 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 }}
 
-**Skills**               :: Performance +7, Persuasion +7, Stealth +7
-**Senses**               :: Darkvision 60 ft., passive Perception 12
-**Languages**            :: Kimyōkaigo
-**CR**                   :: 5 (XP 1,800; PB +3)
+**Skills**    :: Performance +7, Persuasion +7, Stealth +7
+**Senses**    :: Darkvision 60 ft., passive Perception 12
+**Languages** :: Kimyōkaigo
+**CR**        :: 5 (XP 1,800; PB +3)
 
 }}
 
@@ -1573,21 +1585,21 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 ***Amphibious.*** The Ningyo can breathe air and water.
 :
-***Illusionary Guise.*** The Ningyo begins combat in her Alluring Form, with the face of a beautiful woman. This apperace is an illusion, hiding the hideous being underneath. When the Ningyo is Bloodied, or if *Dispel Magic* is cast on the Ningyo or if she enters an area of an antimagic field, she changes into her Monsterous Form, changing some of the abilities she has access to.
+***Illusionary Guise.*** The Ningyo begins combat in her Alluring Form, with the face of a beautiful woman. This appearance is an illusion, hiding the hideous being underneath. When the Ningyo is Bloodied, or if *Dispel Magic* is cast on the Ningyo or if she enters an area of an antimagic field, she changes into her Monstrous Form, changing some of the abilities she has access to.
 :
-***Appealing Persona (Alluring Form Only).*** While in her Alluring Form creatures have Disadvantage against the Ningyo's attempts to inflict the Charmed condition if the target can hear her and she is immune to the Charmed condition
+***Appealing Persona (Alluring Form Only).*** While in her Alluring Form creatures have Disadvantage against the Ningyo's attempts to inflict the Charmed Condition if the target can hear her and she is immune to the Charmed Condition
 :
-***Blood Frenzy (Monsterous Form Only).*** While in her Monsteroud Form the Ningyo has Advantage on all Attack Rolls and is immune to the Frightened condition, but all Attack Rolls have against her have Advantage and she cannot cast or concentrate on spells.
+***Blood Frenzy (Monstrous Form Only).*** While in her Monstrous Form the Ningyo has Advantage on all Attack Rolls and is immune to the Frightened Condition, but all Attack Rolls have against her have Advantage and she cannot cast or concentrate on spells.
 :
-***Syncronised Swimming.*** While underwater the Ningyo can expend 5 feet of movement to jump up to 15 feet vertically into the air.
+***Synchronised Swimming.*** While underwater the Ningyo can expend 5 feet of movement to jump up to 15 feet vertically into the air.
 
 ### Actions
 
 ***Multiattack.*** The Ningyo makes one Wave Strike attack or two Angler Claws attacks.
 :
-***Wave Strike (Alluring Form Only).*** *Ranged Spell Attack:* +7 to hit, range 60 ft., one target. *Hit:* 14 (3d8) Cold damage, and the target's Speed is reduced by 10 feet until the start of the Ningyo's next turn.
+***Wave Strike (Alluring Form Only).*** *Ranged Attack Roll:* +7, range 60 ft. *Hit:* 14 (3d8) Cold damage, and the target's Speed is reduced by 10 feet until the start of the Ningyo's next turn.
 :
-***Angler Claws (Monsterous Form Only).*** *Melee Weapon Attack:* +7 to hit, reach 5 ft. one target. *Hit:* 14 (3d6 + 4) Necrotic damage.
+***Angler Claws (Monstrous Form Only).*** *Melee Attack Roll:* +7, reach 5 ft. *Hit:* 14 (3d6 + 4) Necrotic damage.
 :
 ***Spellcasting (Alluring Form Only).*** The Ningyo casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 15):
 
@@ -1595,9 +1607,9 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 ### Reactions
 
-***Batting Eyelids (Alluring Form Only).*** When a creature the Ningyo can see attempts to hit her with an attack, that creature must succeed on a DC 15 Wisdom Saving Throw or or either choose a new target or lose the attack.
+***Batting Eyelids (Alluring Form Only).*** *Trigger:* A creature the Ningyo can see attempts to hit her with an attack. *Response--Wisdom Saving Throw:* DC 15, the target triggering the attack. *Failure:* The target either choose a new target for the attack or lose the attack.
 :
-***Fearsome Glare (Monsterous Form Only).*** When a creature the Ningyo can see within 15 feet of them hits her with an attack, all creatures in a 15 foot cone in front of the Ningyo must succeed on a DC 15 Wisdom Saving Throw or be Frightened of the Ningyo until the end of the Ningyo's next turn.
+***Fearsome Glare (Monstrous Form Only).*** *Trigger:* A creature the Ningyo can see within 15 feet of them hits her with an attack, *Response--Wisdom Saving Throw:* DC 15, each creature in a 15-foot cone. *Failure:* The target is Frightened of the Ningyo until the end of the Ningyo's next turn.
 
 }}
 
@@ -1651,7 +1663,7 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 **Resistances** :: Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks That Aren't Peachwood
 **Senses**      :: Blindsight 60 ft., Passive Perception 11
-**Languages**   :: Common, Zanke
+**Languages**   :: Common, Zāngkē
 **CR**          :: 3 (XP 700; PB +2)
 
 }}
@@ -1660,29 +1672,29 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 ***Breath Sight.*** A creature that is holding its breath may attempt to hide from the Jiangshi without obscurement.
 :
-***Graceless Rigor.*** If the Jiangshi is hit with a Melee Attack from a direction it is not facing, it is pushed 5 feet away and must succeed on a DC 10 Dexterity saving throw or be knocked Prone.
+***Graceless Rigor.*** If the Jiangshi is hit with a Melee Attack from a direction it is not facing, it is pushed 5 feet away and has the Prone Condition.
 :
 ***Hopping Movement.*** When initiative is rolled, the Jiangshi selects a cardinal direction to face. The Jiangshi may move only in the direction it is facing, and may spend 5 feet of movement to turn up to 90 degrees or to stand from Prone.
 :
-***Not Yet Turned.*** While the Jiangshi is at full health, any spells and abilities that detect the presence of undead fail, the Jiangshi's **Graceless Rigor** trait is ignored, the Jiangshi cannot use it's **Crooked Claws** attack, and the Jianshi has 12 Dexterity.
+***Not Yet Turned.*** While the Jiangshi is at full health, any spells and abilities that detect the presence of undead fail, the Jiangshi's **Graceless Rigor** trait is ignored, the Jiangshi cannot use it's **Crooked Claws** attack, and the Jiangshi has 12 Dexterity.
 
 ### Actions
 
 ***Multiattack.*** The Jiangshi makes two attacks, one of which it can replace with a use of its Drain Vitality.
 :
-***Tanto.*** *Melee or Ranged Attack Roll:* +5 to hit, reach 5 ft. or range 20/60 ft. *Hit:* 6 (1d4 + 3) Slashing damage.
+***Tanto.*** *Melee or Ranged Attack Roll:* +5, reach 5 ft. or range 20/60 ft. *Hit:* 6 (1d4 + 3) Slashing damage.
 :
-***Crooked Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature in the direction the Jiangshi is facing. Hit: 10 (2d6 + 3) Slashing damage plus one of the following effects:
+***Crooked Claws.*** *Melee Attack Roll:* +5, reach 5 ft. in the direction the Jiangshi is facing. *Hit:* 10 (2d6 + 3) Slashing damage, plus one of the following effects:
 
 - The target is Grappled (escape DC 13).
 - The target is pushed up to 5 feet away.
-- The target must succeed on a DC 13 Strength Saving Throw or be knocked Prone.
+- *Strength Saving Throw:* DC 13, the attacked target. *Failure:* The target has the Prone Condition.
 
-***Drain Vitality.*** The Jiangshi draws the life force out from the forehead of a creature grappled by it. The target makes a DC 13 Constitution Saving Throw, taking 9 (2d8) Necrotic damage on a failed save, or half as much damage on a successful one. The Jiangshi regains Hit Points equal to the amount of Necrotic damage dealt.
+***Drain Vitality.*** The Jiangshi draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 13, a creature grappled by the Jiangshi. *Failure:* 9 (2d8) Necrotic damage. *Success:* Half damage. *Failure or Success:* The Jiangshi regains Hit Points equal to the amount of Necrotic damage dealt.
 
 ### Reactions
 
-***Whip Around.*** When a creature the Jiangshi is not facing misses it with a Melee Attack, the Jiangshi turns to face it and makes a **Crooked Claws** attack.
+***Whip Around.*** *Trigger:* A creature the Jiangshi is not facing misses it with a Melee Attack. *Response:* The Jiangshi turns to face it and makes a **Crooked Claws** attack.
 }}
 
 \column
@@ -1736,7 +1748,7 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 ***Breath Sight.*** A creature that is holding its breath may attempt to hide from the Jiangshi without obscurement.
 :
-***Graceless Rigor.*** If the Jiangshi is hit with a Melee Attack from a direction it is not facing, it is pushed 5 feet away and must succeed on a DC 10 Dexterity saving throw or be knocked Prone.
+***Graceless Rigor.*** If the Jiangshi is hit with a Melee Attack from a direction it is not facing, it is pushed 5 feet away and must succeed on a DC 10 Dexterity saving throw or it has the Prone Condition.
 :
 ***Hopping Movement.*** When initiative is rolled, the Jiangshi selects a cardinal direction to face. The Jiangshi may move only in the direction it is facing, and may spend 5 feet of movement to turn up to 90 degrees or to stand from Prone.
 
@@ -1744,17 +1756,17 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 ***Multiattack.*** The Jiangshi makes three attacks, one of which it can replace with a use of its Drain Vitality.
 :
-***Crooked Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature  in the direction the jiangshi is facing. Hit: 13 (2d8 + 4) slashing damage plus one of the following effects:
+***Crooked Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft. in the direction the Jiangshi is facing. *Hit:* 13 (2d8 + 4) slashing damage, plus one of the following effects:
 
 - The target is Grappled (escape DC 15).
 - The target is pushed up to 5 feet away.
-- The target must succeed on a DC 15 Strength Saving Throw or be knocked prone.
+- *Strength Saving Throw:* DC 15, the attacked target. *Failure:* The target has the Prone Condition.
 
-***Drain Vitality.*** The Jiangshi draws the life force out from the forehead of a creature grappled by it. The target makes a DC 15 Constitution Saving Throw, taking 18 (4d8) Necrotic damage on a failed save, or half as much damage on a successful one. The Jiangshi regains Hit Points equal to the amount of Necrotic damage dealt.
+**Drain Vitality.*** The Jiangshi draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 15, a creature grappled by the Jiangshi. *Failure:* 18 (4d8) Necrotic damage. *Success:* Half damage. *Failure or Success:* The Jiangshi regains Hit Points equal to the amount of Necrotic damage dealt.
 
 ### Reactions
 
-***Whip Around.*** When a creature the Jiangshi is not facing misses it with a Melee Attack, the Jiangshi turns to face it and makes a **Crooked Claws** attack.
+***Whip Around.*** *Trigger:* A creature the Jiangshi is not facing misses it with a Melee Attack. *Response:* The Jiangshi turns to face it and makes a **Crooked Claws** attack.
 }}
 
 {{pageNumber,auto}}
@@ -1805,23 +1817,23 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 }}
 
-**CR**          :: 3 (XP 700; PB +2)
+**CR** :: 3 (XP 700; PB +2)
 
 }}
 
 ### Traits
 
-***Exploit Opening (3/Day).*** When the samurai makes an attack, they have advantage on the attack roll.
+***Exploit Opening (3/Day).*** When the Samurai makes an attack, they have advantage on the attack roll.
 
 ### Actions
 
-***Multiattack.*** The samurai makes two Katana attacks.
+***Multiattack.*** The Samurai makes two Katana attacks.
 :
-***Katana.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (2d4 + 4) Slashing damage.
+***Katana.*** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 9 (2d4 + 4) Slashing damage.
 
 ### Bonus Actions
 
-***Bushidō Focus (1/Day).*** The samurai takes the Dodge action. Whenever an attack misses them until the start of their next turn, they gain 5 Temporary Hit Points.
+***Bushidō Focus (1/Day).*** The Samurai takes the Dodge action. Whenever an attack misses them until the start of their next turn, they gain 5 Temporary Hit Points.
 
 }}
 
@@ -1864,25 +1876,25 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 }}
 
-**CR**          :: 6 (XP 2,300; PB +3)
+**CR** :: 6 (XP 2,300; PB +3)
 
 }}
 
 ### Traits
 
-***Exploit Opening (3/Day).*** When the samurai makes an attack, they have advantage on the attack roll.
+***Exploit Opening (3/Day).*** When the Samurai makes an attack, they have advantage on the attack roll.
 :
-***Mounted Warrior.*** The samurai fights on horseback. If the samurai is ever knocked prone the horse flees, reducing the samurai's size to Medium, their speed to 30 feet, and no longer giving them access to Trample.
+***Mounted Warrior.*** The Samurai fights on horseback. If the Samurai ever has the Prone Condition the horse flees, reducing the Samurai's size to Medium, their speed to 30 feet, and no longer letting them use the Trample action.
 
 ### Actions
 
-***Multiattack.*** The samurai makes two Naginata attacks.
+***Multiattack.*** The Samurai makes two Naginata attacks.
 :
-***Naginata.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 10 (1d10 + 5) Slashing damage.
+***Naginata.*** *Melee Attack Roll:* +8, reach 10 ft. *Hit:* 10 (1d10 + 5) Slashing damage.
 
 ### Bonus Actions
 
-***Trample (1/Day).*** The samurai moves up to their speed without provoking Opportunity Attacks, trampling anyone in their path. *Strength Saving Throw:* DC 17, all creatures the samurai moves through. *Failure:* 18 (4d8) Bludgeoning damage and have the Prone condition if they are Large or smaller. *Success:* Half damage.
+***Trample (1/Day).*** The Samurai moves up to their speed without provoking Opportunity Attacks, trampling anyone in their path. *Strength Saving Throw:* DC 17, all creatures the Samurai moves through. *Failure:* 18 (4d8) Bludgeoning damage, and the target has the Prone Condition if they are Large or smaller. *Success:* Half damage.
 
 }}
 
@@ -1923,20 +1935,20 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 }}
 
-**Senses**      :: Passive Perception 14
-**CR**          :: 2 (XP 450; PB +2)
+**Senses** :: Passive Perception 14
+**CR**     :: 2 (XP 450; PB +2)
 
 }}
 
 ### Traits
 
-***Exploit Opening (3/Day).*** When the samurai makes an attack, they have advantage on the attack roll.
+***Exploit Opening (3/Day).*** When the Samurai makes an attack, they have advantage on the attack roll.
 :
-***Snipe.*** When the samurai hits a creature with a ranged weapon attack with Advantage, they deal an extra 7 (2d6) Piercing damage.
+***Snipe.*** When the Samurai hits a creature with a Ranged Weapon Attack with Advantage, they deal an extra 7 (2d6) Piercing damage.
 
 ### Actions
 
-***Daikyū.*** *Melee Weapon Attack:* +6 to hit, range 150/600 ft., one target. *Hit:* 8 (1d8 + 4) Piercing damage.
+***Daikyū.*** *Melee Attack Roll:* +6, range 150/600 ft. *Hit:* 8 (1d8 + 4) Piercing damage.
 :
 ***Trickshot (Recharge 5-6).***
 

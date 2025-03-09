@@ -254,7 +254,7 @@ Sumiriku is a large archipelago, an imposing, mountainous set of islands within 
 
 Developed from humble beginnings, Sumiriku grew into a great and prosperous nation. The country was composed of many different species, cultures, beliefs, and practices, but from this coalition came strength. Sumiriku became known to the lands beyond the sea as a dichotomy, both a place known for agriculture and artisans as well as a great military power.
 
-From the outside it seemed like the islands were ruled by an emperor, who sat on the Myōjin throne (明神, 'Shining Divinities') and is blessed by the deities of Sumiriku. However, most citizens knew that true power does not come from the emperor, from the ceremony of their position. Instead, true power is granted to the Shogunate, the military government that is granted true rule over Sumiriku from their seat in Heian-kyō (平安京, 'Peaceful/Tranquil Capital'). The Shogunate, with their leader, the Shōgun, ruled by force over the Daimyō and their clans which divided up the land. Citizens here knew, even if they could not put into words, that they lived under a stratocracy, a place where might made right, and only those who  
+From the outside it seemed like the islands were ruled by an emperor, who sat on the Myōjin throne (明神, 'Shining Divinities') and is blessed by the deities of Sumiriku. However, most citizens knew that true power does not come from the emperor, from the ceremony of their position. Instead, true power is granted to the Shogunate, the military government that is granted true rule over Sumiriku from their seat in Heian-kyō (平安京, 'Peaceful/Tranquil Capital'). The Shogunate, with their leader, the Shōgun, ruled by force over the Daimyō and their clans which divided up the land. Citizens here knew, even if they could not put into words, that they lived under a stratocracy, a place where might made right, and only those who
 
 \column
 
@@ -291,7 +291,7 @@ When one of these spirits receives significant veneration, the spirit becomes a 
 
 ## Shrines and Prayer
 
-Shrines are built across the worlds to worship Kami, and to be tethers for the Kami's connection to the physical world. These shrines are physical reminders of places of heightened spiritual energy; passing under a shrine's  red Torii gate is the crossing of a threshold into a place of incredible connection to the spiritual plane.
+Shrines are built across the worlds to worship Kami, and to be tethers for the Kami's connection to the physical world. These shrines are physical reminders of places of heightened spiritual energy; passing under a shrine's red Torii gate is the crossing of a threshold into a place of incredible connection to the spiritual plane.
 
 These shrines can differ greatly in scale and grandeur. The grandest among them are vast structures that become sites of pilgrimages for worshippers of the Myōjin, the fourteen greatest Kami. The smallest can be quaint household shrines used to pray to the family Kami that protect a dwelling. Still others are themselves natural landmarks, or house divine objects called Go-Shintai (御神体, 'Sacred body of the Kami'), that are the dwelling place of a Kami; natural dwelling places are often marked with a Shimenawa (標縄, 'Enclosing rope'). The most worshipped of the Kami have many shrines across the realms, as their incredible spirits have been split by their worshippers in a process called Bunrei (分霊, 'Dividing the spirit').
 
@@ -397,7 +397,7 @@ Each of the elemental planes, or Godaikai, are believed to be controlled by a Go
 
 ## Ryū
 
-Of all the beings across Sumiriku, often the most renowned and honoured are the great Dragons, or Ryū (竜). Ryū are massive serpentine beings, with manes and whiskers, fish-like scales, large antlers, and typically three-clawed hands and feet. Ryū are incredibly powerful, mythical creatures, able to harness both their own impressive might as well as that of the magic in the world around them. They are able to use this magic in the conjuration of spells as well as in their incredible beams of draconic breath. Despite some assuming they are nothing more than huge beasts, Ryū are actually also of notable intellect, though their plans and philosophies may seem abstract to the average Sumiriku denizen. It is unclear how ancient these beings can become, but it is known that throughout a Ryū's life they will shed their great antlers multiple times; these antlers are often sort after both as deeply sacred relics as well as treasures of great value. It is a marvellous sight to witness a Ryū soaring through Sumiriku's sky or swimming through its waters.
+Of all the beings across Sumiriku, often the most renowned and honoured are the great Dragons, or Ryū (竜). Ryū are massive serpentine beings, with manes and whiskers, fish-like scales, large antlers, and typically three-clawed hands and feet. Ryū are incredibly powerful, mythical creatures, able to harness both their own impressive might as well as that of the magic in the world around them. They are able to use this magic in the conjuration of spells as well as in their incredible beams of draconic breath. Despite some assuming they are nothing more than huge beasts, Ryū are actually also of notable intellect, though their plans and philosophies may seem abstract to the average Sumiriku denizen. It is unclear how ancient these beings can become, but it is known that throughout a Ryū's life they will shed their great antlers multiple times; these antlers are often sort after both as deeply sacred relics as well as treasures of great value. It is a marvelous sight to witness a Ryū soaring through Sumiriku's sky or swimming through its waters.
 
 The Ryū are divided into two types. The first of these to enter existence are the Kinzoku Ryū (金属竜), or Metallic Dragons. These dragons are believed to have appeared when the first koi completed the Trial of the Waterfall and transformed into their draconic forms. Each Kinzoku Ryū is associated with one of three precious metals, having scales made of Gold, Silver, or Bronze. Metallic Ryū are noble beings of the water, like gleaming jewels beneath the river's surface. Their powers are said to bring holy, life-giving rain, or captivating lightning and thunder.
 
@@ -468,7 +468,7 @@ The dwelling place of the 14 Ō-Hoshikuzushin, progenitors of all else that is. 
 
 The realm of most of the Myōjin, the primary deities and greatest Kami of Sumiriku, alongside their Kami followers. The realm is believed to be a paradise of white clouds, gentle breezes, and the lightest rain. In the past the Myōjin were able to travel to and from Kumonoue with the Niji-no-Ukihashi (虹の浮橋, 'Floating Rainbow Bridge'), but after its destruction they are more cut off from the world. Despite this separation, the presence of each of these Myōjin can be felt at the many shrines across the realms that are dedicated to them. These Shrines to the Myōjin are almost always built at an elevation, so the worshipers will feel closer to Kumonoue.
 
-## Utsushiyo  (現し世, </br> 'The Manifest World')
+## Utsushiyo (現し世, </br> 'The Manifest World')
 
 The world of the real and tangible, of the living and breathing, of ink and blood. Considered to be the locus around which all other Realms pivot. Alongside Sumiriku and the lands beyond, the twin suns, Hikariōna (光嫗, 'Light Mother') and Ikariōna (怒り嫗, 'Rage Mother'), as well as the moon, Eisei (衛星, 'Satellite'), are considered part of Utsushiyo. The primary species of Sumiriku all dwell here. Many of the Kami, of all types and varieties, dwell within Utsushiyo's parallel spirit plane; the heightened presence of this plane is often marked by shrines and Torii gates. In the present day the appreciation of this great landscape has diminished, as Utsushiyo has just become a battlefield for the nation-wide War.
 
@@ -508,7 +508,7 @@ The true home of many of the Yōkai, Kimyōkai can be seen as a surreal reflecti
 
 ## Yomi (黄泉, 'Dying Land')
 
-The place for the dead, for spirits who have expended the time they had. The depths of this realm extend beneath Utsushiyo and Kimyōkai, as a macabre, decaying version of the worlds above. The Myōjin Yōzanagi-sama attempted to seal away the path to Yomi with a massive boulder, but the connection still seeps through at places associated with death, such as swamps, crypts, and graves. People often avoid these places for fear that they might be dragged down to the depths of Yomi themselves, so they have been reclaimed by the moss and decay. The dead find their afterlife here a meditative purgatory, with no judgement taken on the actions of one's life, but travellers who find themselves here might consider Yomi as a place of disorienting horrors. A select few Yōkai are native to Yomi, and they are charged with preserving and protecting the realm, though some take it upon themselves to sneak away to Utsushiyo and bring fear to the living. The Myōjin Inzanami-sama descended here from Kumonoue after she decided that her work was done.
+The place for the dead, for spirits who have expended the time they had. The depths of this realm extend beneath Utsushiyo and Kimyōkai, as a macabre, decaying version of the worlds above. The Myōjin Yōzanagi-sama attempted to seal away the path to Yomi with a massive boulder, but the connection still seeps through at places associated with death, such as swamps, crypts, and graves. People often avoid these places for fear that they might be dragged down to the depths of Yomi themselves, so they have been reclaimed by the moss and decay. The dead find their afterlife here a meditative purgatory, with no judgement taken on the actions of one's life, but travelers who find themselves here might consider Yomi as a place of disorienting horrors. A select few Yōkai are native to Yomi, and they are charged with preserving and protecting the realm, though some take it upon themselves to sneak away to Utsushiyo and bring fear to the living. The Myōjin Inzanami-sama descended here from Kumonoue after she decided that her work was done.
 
 {{position:relative,top:35px,left:100px,margin-bottom:-30px
 
@@ -747,15 +747,9 @@ After their creation, the many peoples of the world grew into their own, with th
 
 Before the end of the Kaika Jidai, Yōzanagi-sama and Inzanami-sama decided that their role as the elders of the Myōjin, and so they decided to depart Kumonoue and go their separate ways; Inzanami-sama traveled to Yomi to become its guardian, and Yōzanagi-sama is believed to now stay in a humble home in Kimyōkai. They left the world in the care of their children and the rest of the pantheon, not anticipating the growing threat that would come to the world without them...
 
-<!-- TODO - ADD MENTION OF REGALIA EVENTS - WORLD NEEDED DEFENDING BY MYOJIN -->
-
 #### The Starlight Regalia
 
 During this era treasures were gifted to the world, treasures that would go on to be known as two parts of the Starlight Regalia. These are the most important of Sumiriku's treasures, and the only known earthly connection to the starlight realm of Hoshikuzuten; these treasures were directly sent by the Ō-Hoshikuzushin to protect the world in moments of calamity. Upcoming are stories of these items, the virtues they represent, and the people who were granted their blessing.
-
-<!-- Starlight Regalia Blade, Kūshokiri (空所切, 'Void Cutter')
-- Starlight Regalia Mirror, Tasogare-no-Kagami (黄昏の鏡, 'Mirror of Twilight')
-- Starlight Regalia Magatama, Ryūsei-Namida (流星涙, 'Meteor Tear') -->
 
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
@@ -773,33 +767,21 @@ During this era treasures were gifted to the world, treasures that would go on t
 
 — Reki, Lorekeeper
 
-<!-- TODO - INCORPORATE TEXT INTO TALES, REMoVE COOL FONT
-
 }}
 
-:::::::: -->
+TODO - INCORPORATE TEXT INTO TALES, REMOVE COOL FONT -->
 
-The following is a passage from "The History of Kamigawa", a set of tales recorded and collated by the Living Lorekeepers:
+The following is a passage from 'The History of Sumiriku', a set of tales recorded and collated by the Living Lorekeepers:
 
 {{quote
 
-At this time the world was still adolescent, not yet fully formed out of chaotic nothingness. It was from this chaos that dangers to the world arose, threats that oft wished to return existence to the darkness from whence it came. These threats came in many forms, from natural to supernatural. Our ancestors, though talented in their own right and perhaps more spiritually attuned than we are, relied on the talents of the Kami to protect themselves.
+"At this time the world was still adolescent, not yet fully formed out of chaotic nothingness. It was from this chaos that dangers to the world arose, threats that oft wished to return existence to the darkness from whence it came. These threats came in many forms, from natural to supernatural. Our ancestors, though talented in their own right and perhaps more spiritually attuned than we are, relied on the talents of the Kami to protect themselves.
 
 On one fateful day the the greatest of these dangers revealed themselves - the Oni. An Oni is an infernal beings of malevolence and destruction, horned, three-eyed, and fork-tongued. These creatures manifested from fear and anger in the realm of Makoku, to festering within the earth. Being trapped in a land without sky, unable to be blessed by the suns and the stars, caused these Oni to grow a deep resentment for our home and our parallel spiritual world. As this resentment grew, so did a desire, and so did a plan.
 
 The Blood War began the moment the Oni shattered the barrier between realms. No longer were we safe, safely separated from danger; the Oni were here, and they were coming. Using their dark magic they blotted out the sky, protecting them from the radiance of the twin suns and forcing the world into endless night. Their aim was to feast on spirits, to gorge themselves on our and the Kami's lifeblood alike. The Oni came as a chaotic swarm, but quickly organised; lesser Oni started to follow the leadership of commanders and lords, such as the fearsome Daimyō Asudeu.
 
 During this carnage there was a Kitsune woman named Tomomi-sama, an oracle and mother who lived in Ochinodojima, in a place that would become the great capital, Heian-kyō. In her quaint home she alone cared for her two children, as her husband was fighting in the brutal war against the Oni. By foxfire and candlelight she tried to brighten the lives of her children and calm their fears — but the
-
-<!-- Asudeu - (アスデウ)
-
-There are many stories to tell about the survivors of this horrific moment, but I shall recount just one.
-
-During this time of great need, the desperation of the people was taken notice by the world's progenitors, the Ō-Hoshikuzushin
-
-It took the combined might of Sumiriku's peoples, Kami, and Myōjin, along with the power of their Relics of Kumonoue, to force back the Oni on all fronts. This defence was led by Netsu-sama, who was able to cut down legions by himself, with his sacred blade Hakō. Once the force of the Oni had been sufficiently diminished the Myōjin were able to combine their divine power to seal them back within Makoku, ending the war for good. Thus is the tale of the Blood War. 
-
--->
 
 }}
 
@@ -811,17 +793,13 @@ darkness could not be held back forever. Through her scrying she saw the armies 
 
 Tomomi-sama found the time to hide her children, to tell them bedtime stories, to sing lullabies, and to calm their nerves — she knew the Oni hunted by sensing fear. After she believed they were safe and hidden she attempted to come up with some sort of plan, but her mind only came up blank. It was at this moment that a spirit of starlight revealed itself to her, in the form of a small fox. Out of desperation she followed the little herald through her home, which led her to an antique heirloom mirror. Curious, she lifted up the mirror and dusted it of, causing it to begin to shine with sparkling starlight. Inside the refection of the mirror Tomomi-sama saw something she recognised as an oracle; she saw truth, the divined understanding of her past and future revealed to her. What she witnessed in the mirror was a manifestation of what she had feared most, that her husband had been lost in the Oni rampage. However she also received a premonition of hope, that the horde would be pushed back, light would return to the sky, and that somehow she would bring about this future. Seeing this she set into action.
 
-When the Oni arrived Tomomi-sama was ready to face them head on. Wielding the mirror, she forced the approaching monsters to stare into its preordaining reflection. She anticipated that this would cause the Oni to flee in terror, but what she did not expect was a ray of radiant sunlight to emit from the mirror, burning away the army where they stood. She came to understand that this mirror was a blessing from Hoshikuzuten, a unique and sacred artifact, which she named Tasogare-no-Kagami. With her wits and the gift of Tasogare-no-Kagami she was able to help push back the Oni from the land, end the endless night the world was under, and seal away the demons back in the pit they crawled out of. Thus, under the light of the Twin Suns, ends the Tale of the Blood War, and of the sagacious Tomomi-sama.
+When the Oni arrived Tomomi-sama was ready to face them head on. Wielding the mirror, she forced the approaching monsters to stare into its preordaining reflection. She anticipated that this would cause the Oni to flee in terror, but what she did not expect was a ray of radiant sunlight to emit from the mirror, burning away the army where they stood. She came to understand that this mirror was a blessing from Hoshikuzuten, a unique and sacred artifact, which she named Tasogare-no-Kagami (黄昏の鏡, 'Mirror of Twilight'). With her wits and the gift of Tasogare-no-Kagami she was able to help push back the Oni from the land, end the endless night the world was under, and seal away the demons back in the pit they crawled out of. Thus, under the light of the Twin Suns, ends the Tale of the Blood War, and of the sagacious Tomomi-sama."
 
 {{attribution *The History of Sumiriku*}}
 
 }}
 
 <!-- TODO - MAKE A SPOKEN HISTORY - MAYBE TO A SCHOOL/GROUP OF CHILDREN -->
-
-<!-- TODO - THE ONI ALREADY FEARED THE SUNS - THEY BLOTTED OUT THE SUN FROM THE SKY - CAUSED ONE LONG NIGHT -->
-
-<!-- , and with a bloodlust unlike any other -->
 
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
@@ -834,7 +812,7 @@ When the Oni arrived Tomomi-sama was ready to face them head on. Wielding the mi
 
 {{quote
 
-In this Era, on a tropical northern island, there was an island lord who lived with his daughter, Princess Kazuko-hime. Though her father was seen as a selfish leader, Kazuko-hime was beloved by the people of her island; from an early age she was an active part of the community, seeking to lend a hand to people whenever she could. When she was just a young child she was very eager to help anyone she could find, though she lacked some of the skills she needed given her age. When she grew she kept this habit up, particularly involving herself in caring for the very young and the elderly of her island.
+"In this Era, on a tropical northern island, there was an island lord who lived with his daughter, Princess Kazuko-hime. Though her father was seen as a selfish leader, Kazuko-hime was beloved by the people of her island; from an early age she was an active part of the community, seeking to lend a hand to people whenever she could. When she was just a young child she was very eager to help anyone she could find, though she lacked some of the skills she needed given her age. When she grew she kept this habit up, particularly involving herself in caring for the very young and the elderly of her island.
 
 Despite being peaceful times, a dark tide was approaching their island. The shamans, farmers, and fishers all sensed it — the world around them was breaking at the seams. The fishers noticed the fish clearing out from the sea, before finding the waves crashing into the shore getting taller and taller, getting increasingly violent. The farmers found the ground unusable, as it became beset with more and more frequent quakes. The shamans, with their naturalistic connection, felt this as an augury, an omen, that a calamity was coming.
 
@@ -848,9 +826,9 @@ Their words of warning, of the destruction that may come to their land, soon rea
 
 &nbsp;&nbsp;Witness to these events was the eldest starlight Kami, Ō-Seiza-Ryū. The dragon watched the destruction of the world unfurl beneath him, the shattering of islands on his perfect map. He also saw this princess' great kindness, her selflessness in the face of despair. Seeing this contrast, this light in a moment of darkness, touched at Ō-Seiza-Ryū's heart, and for the first time he shed a single tear, which fell onto the map.
 
-From where Kazuko-hime stood, she saw a shooting star descend through the sky towards her, a trail of light blue streaking through the sky behind it. Instinctually she reached out her hand, and the meteor landed gently in her palm. Upon landing, a sphere of blue energy emanated out from the meteor to protect the island, pushing back the incoming tsunami. After the light and noise had subsided, Kazuko-hime adjusted her eyes to see in her hand a magatama, a sacred jewel made from the tear of the constellation dragon. She also saw her island, unscathed from the expected disaster, and something beginning to rise out of the water.
+From where Kazuko-hime stood, she saw a shooting star descend through the sky towards her, a trail of light blue streaking through the sky behind it. Instinctively she reached out her hand, and the meteor landed gently in her palm. Upon landing, a sphere of blue energy emanated out from the meteor to protect the island, pushing back the incoming tsunami. After the light and noise had subsided, Kazuko-hime adjusted her eyes to see in her hand a magatama, a sacred jewel made from the tear of the constellation dragon. She also saw her island, unscathed from the expected disaster, and something beginning to rise out of the water.
 
-What appeared before her was a kaijū, a bestial titan awoken from its underwater slumber. Within the creature's eyes Kazuko-hime say rage, but she also saw confusion, and pain. In that moment she chose to reach out to the creature, stretching out a hand to it and singing to it a traditional tune she learned as a child. The creature, initially set on a path of destruction, became receptive to her, and the hatred in its eyes began to fade. She touched the head of the massive creature as it knelt down and blessed it, and she felt it thank her in its own way. After it turned back into the ocean, leaving their island in safety. From then Princess Kazuko-hime was the new lord of the island, and she always kept with her the magatama she was gifted that day, that became known as Ryūsei-Namida. Thus ends the tale of the Compassionate Princess.
+What appeared before her was a kaijū, a bestial titan awoken from its underwater slumber. Within the creature's eyes Kazuko-hime say rage, but she also saw confusion, and pain. In that moment she chose to reach out to the creature, stretching out a hand to it and singing to it a traditional tune she learned as a child. The creature, initially set on a path of destruction, became receptive to her, and the hatred in its eyes began to fade. She touched the head of the massive creature as it knelt down and blessed it, and she felt it thank her in its own way. After it turned back into the ocean, leaving their island in safety. From then Princess Kazuko-hime was the new lord of the island, and she always kept with her the magatama she was gifted that day, that became known as Ryūsei-Namida (流星涙, 'Meteor Tear'). Thus ends the tale of the Compassionate Princess."
 
 {{attribution *The History of Sumiriku*}}
 
@@ -889,7 +867,7 @@ Tamata-no-Orochi's arrival took the Myōjin by surprise, giving her the perfect 
 
 ::::::::::::::::::::::::
 
-For nearly two centuries the people of Sumiriku lived in the shadow of the Tyrant Dragon-Kami. Some attempted to plot, to seek some way end the reign of terror, though their effort was to little avail. Most people instead accepted their plight, attempting to get by and avoid her wrath. This lasted until Yūkan-sama, at the time just a mortal rōnin, climbed to the peak of Kamuy-Kemnu alone and challenged the great tyrant; his partner, Kushinada, was soon to be a sacrifice. Noticing his incredible bravery, as well as the near insurmountable challenge ahead of him, Ō-Seiza-Nezumi appeared before Yūkan-sama, balancing on the blunt edge of his blade. They blessed this blade with their starlight touch, transforming it into the third Starlight Regalia, Kūshokiri. After a hard-fought battle, with the combination of his incredible skill and newly-acquired weapon, Yūkan-sama was able to defeat Tamata-no-Orochi. Her many heads were severed and what remained of her was sealed away within the earth, marking the end of her terrible rule, and of the Kaika Jidai.
+For nearly two centuries the people of Sumiriku lived in the shadow of the Tyrant Dragon-Kami. Some attempted to plot, to seek some way end the reign of terror, though their effort was to little avail. Most people instead accepted their plight, attempting to get by and avoid her wrath. This lasted until Yūkan-sama, at the time just a mortal rōnin, climbed to the peak of Kamuy-Kemnu alone and challenged the great tyrant; his partner, Kushinada, was soon to be a sacrifice. Noticing his incredible bravery, as well as the near insurmountable challenge ahead of him, Ō-Seiza-Nezumi appeared before Yūkan-sama, balancing on the blunt edge of his blade. They blessed this blade with their starlight touch, transforming it into the third Starlight Regalia, Kūshokiri (空所切, 'Void Cutter'). After a hard-fought battle, with the combination of his incredible skill and newly-acquired weapon, Yūkan-sama was able to defeat Tamata-no-Orochi. Her many heads were severed and what remained of her was sealed away within the earth, marking the end of her terrible rule, and of the Kaika Jidai.
 
 ::
 
@@ -926,27 +904,25 @@ After his great act, Yūkan-sama continued to live out his days, spending time w
 
 The nation struggled to adjust to the power vacuum left by Tamata-no-Orochi's defeat. Without centralised leadership the people became fractured, and local lords moved in to pick up the pieces. Though there was much greater peace and prosperity than there was under the tyrant, many of these lords, or Daimyō, had learned from her methods. As a result of Tamata-no-Orochi's actions many of the land's treasures and artifacts were lost, being scattered, destroyed, or left to rust in tombs. The people of Sumiriku were also in the process of rebuilding their spiritual connection to the Kami and Myōjin, previously severed by the destruction of shrines and of Niji-no-Ukihashi. Sumiriku's dark age left the people and the land weakened, no longer ready to defend themselves.
 
-It is in this divided time that Tokuzō-tenno was born. The son of humble rice farmers in western Sesujishima, Tokuzō-tenno had felt a strong connection to the spiritual realm from an early age. He sought to learn the ways of Daidō and become a Kannushi, but abandoning the farm and traveling to the nearest shrine complex was not something him and his family could afford. Instead Tokuzō-tenno filled his spare time with reconstructing the local shrine, which had been destroyed in the previous era.
+It is in this divided time that Tokuzō-tenno was born. The son of humble rice farmers in western Sesujishima, Tokuzō-tenno had felt a strong connection to the spiritual realm from an early age. He sought to learn the ways of Daidō and become a Kannushi, but abandoning the farm and traveling to the nearest shrine complex was not something him and his family could afford. Instead Tokuzō-tenno filled his spare time with reconstructing the local shrine, which had been destroyed in the previous era. While labouring to painstakingly replicate each detail by hand, he also taught others of the Kami and Myōjin, telling tales of these spirits and helping those who listened feel the connection that he felt.
 
-\column
-
-While labouring to painstakingly replicate each detail by hand, he also taught others of the Kami and Myōjin, telling tales of these spirits and helping those who listened feel the connection that he felt.
-
-When complete, the shrine stood as remarkable symbol of individual dedication and worship. As he gazed at his years of work, Tokuzō-tenno was stunned to find himself greeted by an unusual visitor — a fox spirit sent by Kajin-sama herself. The Myōjin had a vital misson for him, she explained. The world needed a unifier, a spiritual centre, someone to be a voice for the Kami. Tokuzō-tenno understood the gravity of this responsibility but, despite not fully knowing the task set before him, he was quick to accept.
+When complete, the shrine stood as remarkable symbol of individual dedication and worship. As he gazed at his years of work, Tokuzō-tenno was stunned to find himself greeted by an unusual visitor — a fox spirit sent by Kajin-sama herself. The Myōjin had a vital mission for him, she explained. The world needed a unifier, a spiritual centre, someone to be a voice for the Kami. Tokuzō-tenno understood the gravity of this responsibility but, despite not fully knowing the task set before him, he was quick to accept.
 
 The fox said that to be ordained as the leader of Sumiriku and its people he would need to gather the Starlight Regalia, the treasures left to the world by the Ō-Hoshikuzushin. She believed that with the holy power of these relics in Tokuzō-tenno's position both mortals and spirits would accept him as their true ruler and rally around him no matter what. However, she also cautioned him that if could not retrieve these treasures, the people of Sumiriku may be in great peril. On the mainland, across Kaminoumi, the fearsome Sunset Horde had conquered much of the region. Now, the nomadic warrior tribe had set their next target to cross the sea and invade Sumiriku. If Tokuzō-tenno was unable to wield the power of the Regalia the people would be swiftly crushed by the Horde.
 
-To aid in his quest, the fox gifted Tokuzō-tenno a golden Roc called Kinyoku (金翼, 'Golden Wing'), for him to soar across the land upon. Tokuzō-tenno began his mission with great haste, scouring the far reaches of Sumiriku to find the Starlight Regalia. As
+<!-- To aid in his quest, the fox gifted Tokuzō-tenno a golden Roc called Kinyoku (金翼, 'Golden Wing'), for him to soar through the skys of Sumiriku upon. Tokuzō-tenno saddled the glorious creature and took off on his mission with great haste. He knew well the tales of these treasures, how the descended from the highest heavens at times of great need, and he also knew the peoples these treasures were gifted to, peoples spread far and wide across Sumiriku. He traveled to these places in turn, the northern tropics of Sanzaishima, the flat plains of Ochinodojima, and the southern peaks of Ryugenshima, hoping to learn of some rumors or stories, clues as to what happened to these relics through the centuries. Instead he found that each one was kept safe in a family home or public shrine, still treasured by their native communities and worshiped so many generations since their arrival. Despite being welcomed by these communities, Tokuzō-tenno knew that they would be hesitant to part with something they held so dear, though the fate of the land required it.
 
-{{position:relative,top:-5px,left:0px,margin-bottom:-30px
+He did not know if he would be able to take the treasures by force, or steal them in the night and leave before anyone saw, but he knew deep down that if his task was to be a unifier then he must act accordingly. A thief or warlord might take from their people but a true leader instead gives, and builds the trust of those they lead. Tokuzō-tenno spoke openly to these communities, try to empathetically explain the coming danger and the role they could have in preventing it. He also engaged in their traditions which he knew well, and used his faith to help reconnect people with the spiritual realm, to show them the incredible blessings they had to protect. By years end he had built the trust and admiration of not just these places but much of the population of Sumiriku, and was blessed with the Starlight Regalia, Ryūsei-Namida, Tasogare-no-Kagami, and Kūshokiri. With the Starlight Regalia collected, Tokuzō-tenno led a gathering of soldiers and warriors to the shore, ready to repel the coming invasion.
 
-##### The failed invasion of the Sunset Horde
+Before long, the first of the horde's ships made landfall, where Sumiriku's army was prepared to meet them. These units were quickly cut down by sword and spear, and those that lived found themselves without the reinforcements they had expected. Instead, their ships were thrown off course by the sudden appearance of swirling typhoons and whirlpools — On Tokuzō-tenno's command even the Kami fought to protect the land. Some ships managed to turn and flee from the carnage, the rest found themselves ripped apart, dragged under the waves, or met with swift death on the land. Before long the battle was over, the united nation of Sumiriku victorious. Never again would an army invade their shores, not while the union prospered.
 
-}}
+After the battle all agreed that Tokuzō-tenno should be Sumiriku's first leader, with domain over both body and spirit. Within the new city of Heian-kyō, near the finding place of Tasogare-no-Kagami, a grand palace was built to be the home of Tokuzō-tenno and his family, and to be the seat of power for the nation. On that year's summer solstice, within the inner sanctum of the palace, a coronation ceremony was held to ordain Tokuzō-tenno as the first Emperor of Sumiriku. The glory of the Starlight Regalia as well as the suns' zenith flowed into Tokuzō-tenno, granting him a unparalleled spiritual connection. This power, along with the symbols of the palace, the Myōjin Throne, and the Starlight Regalia, these all became representations of the Emperor's right to rule. This sacred day was known as the first Shōtenbi (昇天日, 'Ascension Day'), and marked a joyous end of the divided era. 
 
-{{imageMaskEdge1,--offset:30%,--rotation:0
-  ![invasion](https://www.fujiarts.com/japanese-prints/k358/083k358f.jpg){position:aboslute,top:750px,left:-10px,width:105%}
-}}
+ Stealing would never rally the people to his cause, would never make what he felt a true leader should be.-->
+
+To aid in his quest, the fox gifted Tokuzō-tenno a golden Roc called Kinyoku (金翼, 'Golden Wing'), upon which he soared through the skies with great haste. He knew well the tales of the Starlight Regalia, how the descended from the highest heavens at times of great need. He traveled to these places from these stories in turn, the northern tropics of Sanzaishima, the flat plains of Ochinodojima, and the southern peaks of Ryugenshima, hoping to learn of some rumors, clues as to what happened to these relics through the centuries. Instead he found that, for each one, it was being kept safe in an ancestral home or public shrine, having been passed down through generations of descendants. Though he was welcomed by these communities, Tokuzō-tenno knew that they would be hesitant to part with something they treasured so dear, even with the fate of the land required it.
+
+He did not know if he would be able to take each Regalia by force, or steal them in the night and leave without a trace, but he felt in his soul that his task was to be a unifier, and so he must act as one. Tokuzō-tenno instead spoke openly to these communities, trying to empathetically explain the coming danger and the role they could have in preventing it. He also engaged in their traditions that he knew well, and used his faith to help reconnect people with the spiritual realm, showing them the incredible blessings they had to protect. By years end he had built the trust and admiration of not just these places but much of the population of Sumiriku, and
 
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
@@ -955,11 +931,27 @@ To aid in his quest, the fox gifted Tokuzō-tenno a golden Roc called Kinyoku (�
 
 \page
 
+was granted the Starlight Regalia, Ryūsei-Namida, Tasogare-no-Kagami, and Kūshokiri. With the treasures collected, Tokuzō-tenno amassed a gathering of soldiers and warriors and led them to the shore.
+
+Before long, the first of the horde's ships made landfall, where Sumiriku's army was prepared to meet them. These units were quickly cut down by sword and spear, and those that lived found themselves without the reinforcements they had expected. Instead, their ships were thrown off course by the sudden appearance of swirling typhoons and whirlpools — On Tokuzō-tenno's command even the Kami fought to protect the land. Some ships managed to turn and flee from the carnage, the rest found themselves ripped apart, dragged under the waves, or met with swift death on the land. Before long the battle was over, the united nation of Sumiriku victorious. Never again would an army invade their shores, not while the union prospered.
+
+After the battle all agreed that Tokuzō-tenno should be Sumiriku's first leader, with domain over both body and spirit. Within the new city of Heian-kyō, near the finding place of Tasogare-no-Kagami, a grand palace was built to be the home of Tokuzō-tenno and his family, and to be the seat of power for the nation. On that year's summer solstice, within the inner sanctum of the palace, a coronation ceremony was held to ordain Tokuzō-tenno as the first Emperor of Sumiriku. The glory of the Starlight Regalia as well as the suns' zenith flowed into Tokuzō-tenno, granting him a unparalleled spiritual connection. This power, along with the symbols of the palace, the Myōjin Throne, and the Starlight Regalia, these all became representations of the Emperor's right to rule. This sacred day was known as the first Shōtenbi (昇天日, 'Ascension Day'), and marked a joyous end of the divided era.
+
+{{position:absolute,top:775px,left:450px,margin-bottom:-30px
+
+##### The failed invasion of the Sunset Horde
+
+}}
+
+{{imageMaskEdge1,--offset:31%,--rotation:0
+  ![invasion](https://www.fujiarts.com/japanese-prints/k358/083k358f.jpg){position:aboslute,top:770px,left:-10px,width:105%}
+}}
+
 <!-- TODO - FINISH REWRITE TO SHOW THAT HE LEARNED TO NEGOTIATE WITH PEOPLE -->
 
-he traveled, he met with many locals and discussed with them
+<!-- Tokuzō-tenno began his mission with great haste, scouring the far reaches of Sumiriku to find the Starlight Regalia. As he traveled, he met with many locals and discussed with them folk tales and rumours, clues to the whereabouts of these great treasures.
 
-<!-- He used his skills of empathy, persuasion, and storytelling to convince the people of the coming danger, and to put aside their petty squabbles and unite as one. He also helped reconnect people with the spiritual realm, to show them the incredible blessings they had to protect. Over the course of a year he traveled from the southern peaks of Ryugenshima to the flat plains of Ochinodojima and to the northern tropics of Sanzaishima, connecting with the native societies and peoples there in a way few people had before — as a gesture of goodwill they entrusted him with Kūshokiri, the Tasogare-no-Kagami, and the Ryūsei-Namida respectively. With the Starlight Regalia collected, and soldiers and warriors gathered with a common goal, the people were ready to repel the coming invasion.
+He used his skills of empathy, persuasion, and storytelling to convince the people of the coming danger, and to put aside their petty squabbles and unite as one. He also helped reconnect people with the spiritual realm, to show them the incredible blessings they had to protect. Over the course of a year he traveled from the southern peaks of Ryugenshima to the flat plains of Ochinodojima and to the northern tropics of Sanzaishima, connecting with the native societies and peoples there in a way few people had before — as a gesture of goodwill they entrusted him with Kūshokiri, the Tasogare-no-Kagami, and the Ryūsei-Namida respectively. With the Starlight Regalia collected, and soldiers and warriors gathered with a common goal, the people were ready to repel the coming invasion.
 
 When the first of the horde's ships arrived at the shore, the army of Sumiriku was ready to meet them. The first units were quickly cut down by sword and spear, and those that lived found themselves without the reinforcements they had expected. Instead, their ships were thrown off course by the sudden appearance of swirling typhoons and whirlpools — On Tokuzō-tenno's command even the Kami fought to protect the land. Some ships managed to turn and flee from the carnage, the rest found themselves ripped apart, dragged under the waves, or met with swift death on the land. Before long the battle was over, the united nation of Sumiriku victorious. Never again would an army invade their shores, not while the union prospered.
 
@@ -967,13 +959,11 @@ After the battle all agreed that Tokuzō-tenno should be Sumiriku's first leader
 
 \column
 
-## Tōgō Jidai - TODO
-
-## (統合時代,</br>
+## Tōgō Jidai (統合時代,</br>
 
 ## 'Unification Era')
 
-### 0 - 1851 AA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### 0 - 1851 AA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:400px,width:375px,mix-blend-mode:normal}
 
 :
 
@@ -992,8 +982,6 @@ Otoha-tenno
 Test - TODO
 
 {{attribution *The History of Sumiriku*}}
-
-<!-- , and with a bloodlust unlike any other -->
 
 }}
 
@@ -1160,7 +1148,7 @@ Tsukibito are associated with rabbits, and are believed to have first lived on t
 
 There are three variants of Moonfolk. The most common are the Soratami (空民), or Skyfolk, who are said to have been the first Tsukibito, who descended from their birthplace on the Moon. They have very fair and sheer white skin, traditionally decorated with delicate, sweeping purple tattoos, and frequently live in floating palaces and settlements. Within these settlements they are known to keep extensive records, histories, and any other scholarly information they can gather. They also are most commonly seen levitating just slightly, as to not dirty themselves by touching the ground.
 
-The Moritami (森民), or Forestfolk, left the safety of their floating settlements to take up refuge on the ground, and developed light brown and speckled skin. The Moritami have commonly abandoned the knowledge their sky siblings keep to instead learn as much as they can of the world around them.
+The Moritami (森民), or Forestfolk, left the safety of their floating settlements to take up refuge on the ground, and developed light brown and speckled skin. The Moritami have abandoned the knowledge their sky siblings keep to instead learn as much as they can of the world around them.
 
 Maigomin (迷子民), or Lostfolk, are said to not receive the blessing of the moon's light when born under the new moon, and have skin as dark as the night sky. Born to any family of Tsukibito, it is up to the family as to whether they are raised openly or whether they are shunned, but most Tsukibito consider Maigomin to be a bad omen.
 
@@ -1223,7 +1211,7 @@ As a Tsukibito, you gain these special traits:
 | Lineage  | Level 1 | Level 5 |
 |:---------|:--------|:--------|
 | Soratami | You can float about 1 foot above the ground, as long as you are above solid ground or the surface of a calm liquid. Your Floating Speed is equal to your Speed. You can float anywhere you could normally walk, and you ignore ground-based Difficult Terrain while floating. If you suffer a Condition that reduces your Speed to 0 or you gain the Prone Condition, you stop floating and begin to fall. | As a Reaction to falling, you can slow your rate of descent to 60 feet per round. This slow fall lasts for up to 1 minute. If you land while falling at this decreased rate you take no fall damage and begin floating above the ground. You must be able to float to use this feature. |
-| Moritami | As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be standing on or touching earth, dirt, or foliage to use this Tremorsense. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. | You can spend 10 minutes surveying the ground around you to sense past travellers in the area. You get to know how many creatures have passed through here in the past day, what creature types they are, which directions they have travelled, and who was here most recently. You can also learn of the local geography, such as terrain, bodies of water, and local flora and fauna. This feature doesn't work in man-made spaces such as buildings, roads, and cities. Once you use this feature, you must finish a Long Rest before you can use it again. |
+| Moritami | As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be standing on or touching earth, dirt, or foliage to use this Tremorsense. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. | You can spend 10 minutes surveying the ground around you to sense past travelers in the area. You get to know how many creatures have passed through here in the past day, what creature types they are, which directions they have travelled, and who was here most recently. You can also learn of the local geography, such as terrain, bodies of water, and local flora and fauna. This feature doesn't work in man-made spaces such as buildings, roads, and cities. Once you use this feature, you must finish a Long Rest before you can use it again. |
 | Maigomin | The range of your Darkvision increases to 120 feet. | You gain Advantage on Wisdom (Perception) checks that rely on sight while in Dim Light or Darkness and you can make out details of even extremely distant creatures and objects as small as 2 feet across. |
 
 }}
@@ -1886,7 +1874,7 @@ Text - TODO
 
 Bunagaya, also known as Kijimuna (きじむな).
 
-There's a common Sumirikugo saying that goes "When playing cards, the shark at the table is the Bunagaya", meaning that your greatest foe is often the one that is most unassuming. This saying comes from the fact that, despite their affable and  optimistic outlook, Bunagaya are either exceptionally skilled or exceptionally lucky gamblers, and some have taken pots against far more accomplished players while seeming to not properly understand the rules.
+There's a common Sumirikugo saying that goes "When playing cards, the shark at the table is the Bunagaya", meaning that your greatest foe is often the one that is most unassuming. This saying comes from the fact that, despite their affable and optimistic outlook, Bunagaya are either exceptionally skilled or exceptionally lucky gamblers, and some have taken pots against far more accomplished players while seeming to not properly understand the rules.
 
 \column
 
@@ -2030,7 +2018,7 @@ As a Ryūson, you gain these special traits:
 
 ***Dragon-Kami Ancestry.*** Your lineage stems from a Dragon progenitor. Choose the kind of Dragon from the Dragon-Kami Ancestor tables. Your choice affects your Breath Weapon, Damage Resistance, and Orochi Ascendant traits. If there are multiple associated damage types for the specific Ancestor, choose one of those damage types when you select this species. The chosen Dragon also affects your appearance, with you displaying coloration and other features reminiscent of that Dragon.
 
-***Breath Weapon.*** When you take the Attack action on your turn, you can replace one of your attacks with an exhalation of magical energy in a 30-foot line that is 5 feet wide. Each creature in that area must make a Dexterity Saving Throw (DC 8 plus your Constitution modifier and Proficiency Bonus). On a failed save, a creature takes 1d10 damage of the type determined by your Dragon-Kami Ancestry trait. On a successful save, a creature takes half as much damage. This damage increases by 1d10 when you reach Character Levels 5 (2d10), 11 (3d10), and 17 (4d10).
+***Breath Weapon.*** When you take the Attack action on your turn, you can replace one of your attacks with an exhalation of magical energy in a 30-foot-long, 5-foot-wide Line. Each creature in the Line must make a Dexterity Saving Throw (DC 8 plus your Constitution modifier and Proficiency Bonus). On a failed save, a creature takes 1d10 damage of the type determined by your Dragon-Kami Ancestry trait. On a successful save, a creature takes half as much damage. This damage increases by 1d10 when you reach Character Levels 5 (2d10), 11 (3d10), and 17 (4d10).
 
 You can use this Breath Weapon a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
@@ -2348,64 +2336,6 @@ You stay in the new form until you use an Action to revert to your true form or 
 
 \page
 
-<!--
-
-craftsman artificer?
-
-kaiju barbarian?
-
-geisha bard?
-theater bard?
-painter bard?
-craftsman bard?
-ink bard
-
-shinto cleric?
-buddist cleric?
-herbalist cleric?
-
-duality cleric?
-sky cleric?
-harvest cleric? - poverty in laserllama kinda
-treasure cleric? - in laserllama
-revelry cleric? - trickery
-sea cleric?
-land cleric? - nature
-tyranny cleric?
-hope cleric? - twilight kinda
-
-blossoms druid?
-natural disaster druid?
-quake druid?
-mountain druid?
-
-dirty fighter?
-yasuo fighter?
-
-akuma monk
-
-progress paladin?
-
-thrown weapon ranger?
-kami ranger?
-survival ranger?
-ainu ranger?
-
-ninja rogue?
-dagger dancer rogue
-
-spirit soul sorcerer?
-yokai sorcerer?
-zodiac sorcerer?
-calamity sorcerer?
-
-balance wizard?
-constellation / zodiac wizard?
-
-added text from android
-
--->
-
 {{imageMaskEdge1,--offset:6%,--rotation:90
   ![barbarian](https://i.imgur.com/Gbp6A7L.png){position:absolute,top:-1px,left:-500px,height:101%,transform:scaleX(-1)}
 }}
@@ -2474,8 +2404,9 @@ You learn certain Exploits at the Alternate Barbarian levels in the table below.
 |:---------------------|:-----------------------------------|
 | 3rd                  | *Crushing Grip, Trampling Rush*    |
 | 5th                  | *Greater Hurl, Menacing Shout*     |
-| 9th                  | *Destructive Slam*  |
-<!-- | 9th                  | Destructive Slam, Roar of Triumph  | -->
+| 9th                  | *Destructive Slam*                 |
+<!-- 
+| 9th                  | Destructive Slam, Roar of Triumph  | -->
 
 }}
 
@@ -2593,7 +2524,7 @@ You are able to choose the medium of your artistry and your magic. Choose either
 
 The ink of your brush enhances your spellcasting. When you use your medium's tool to cast a spell, you can replace the Verbal components that spell may have with writing or drawing with your brush.
 
-In addition, if you target a creature with a spell, you can expend one use of your Bardic Inspiration to create an Ink Path between yourself and the creature that lasts for 1 minute. If your medium is Writing, the path is Difficult Terrain, and every creature other than you in contact with the path when it appears must make a Dexterity Saving Throw against your Spell Save DC or fall Prone. If your medium is Painting, creatures can travel 10 feet along the path only using 5 feet of movement, and any creature in contact with the path when it appears gains 1d6 Temporary Hit Points. If you have already made an Ink Path, it disappears when you make a new one.
+In addition, if you target a creature with a spell, you can expend one use of your Bardic Inspiration to create an Ink Path between yourself and the creature that lasts for 1 minute. If your medium is Writing, the path is Difficult Terrain, and every creature other than you in contact with the path when it appears must succeed on a Dexterity Saving Throw against your Spell Save DC or fall Prone. If your medium is Painting, creatures can travel 10 feet along the path only using 5 feet of movement, and any creature in contact with the path when it appears gains 1d6 Temporary Hit Points. If you have already made an Ink Path, it disappears when you make a new one.
 
 \column
 
@@ -2643,7 +2574,7 @@ In the shadowy corners of the world there exist a select few, who have taken a m
 
 *Transform and Track Yōkai Shapechangers*
 </br>
-To most people, Yōkai seem like nothing more than curious miscreants, mischief makers - few recognise the true danger these otherworldly beings can bring. Dwelling  within Kimyōkai, creatures of great power plot and scheme at the downfall of the manifest world and their control over both realms. The world's protection comes from Yokai hunters calling themselves the Shiftstalkers, who have mastered using the Yokai's techniques of disguise, trickery, and manipulation against them.
+To most people, Yōkai seem like nothing more than curious miscreants, mischief makers - few recognise the true danger these otherworldly beings can bring. Dwelling within Kimyōkai, creatures of great power plot and scheme at the downfall of the manifest world and their control over both realms. The world's protection comes from Yokai hunters calling themselves the Shiftstalkers, who have mastered using the Yokai's techniques of disguise, trickery, and manipulation against them.
 
 <!-- {{#subclass-table
 
@@ -2893,7 +2824,7 @@ Text - TODO
 
 \column
 
-### Circle of Blossoms  - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Circle of Blossoms - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Make Life and Colour Bloom*
 </br>
@@ -2916,10 +2847,12 @@ Your connection to this circle ensures that you always have certain spells ready
 
 #### Level 3: Healing Bloom
 
-You have learned how to connect with the healing power of flowers. As a Bonus Action, you can expend a use of your Wild Shape and choose a point within 30 feet of yourself. You create a Petal Bloom, a 10-foot-radius sphere centered on that point that lasts for 1 minute, or until you have the Incapacitated condition or die. When you do, roll a number of d4s equal to your Wisdom modifier plus your Proficiency Bonus, and add the dice together. The total is the number of Hit Points you can distribute to creatures in that sphere. You decide the number of Hit Points that are restored to each of those creatures, deducting the healing from the total.
+You have learned how to connect with the healing power of flowers. As a Bonus Action, you can expend a use of your Wild Shape and choose a point within 30 feet of yourself. You create a Petal Bloom, a 10-foot-radius sphere centered on that point that lasts for 1 minute, or until you have the Unconscious Condition or die. When you do, roll a number of d4s equal to your Wisdom modifier plus your Proficiency Bonus, and add the dice together. The total is the number of Hit Points you can distribute to creatures in that sphere. You decide the number of Hit Points that are restored to each of those creatures, deducting the healing from the total.
 
 Whenever you would normally roll one or more dice to restore Hit Points with a spell to a creature that is within the area of one of your Petal Blooms, don't roll those dice for the healing; instead use the highest number possible for each die.
+
 <!-- You have learned how to connect with the healing power of blooming flowers. As a Bonus Action, you can expend a use of your Wild Shape channel to create a Bloom. Choose a point within 30 feet of yourself, and flowers appear in a 10-foot-radius sphere centered on that point. Then roll a number of d4s equal to your Wisdom modifier plus your Proficiency Bonus, and add the dice together. The total is the number of Hit Points you can distribute to creatures in that sphere. You decide the number of Hit Points that are restored to each of those creatures, deducting the healing from the total. -->
+
 <!-- You have learned how to connect with the healing power of blooming flowers. As a Bonus Action, you can expend a use of your Wild Shape channel to create a Bloom. Choose a point within 30 feet of yourself, and flowers appear in a 10-foot-radius sphere centered on that point for 1 minute. If a creature starts its turn within your Bloom, it regains a number of Hit Points equal to 1d4 plus your Spellcasting Modifier. -->
 
 #### Level 6: Petals on the Wind
@@ -2941,7 +2874,7 @@ Your plants can hinder as well as heal. Whenever you use your Healing Bloom feat
 
 You have perfected your ability to nurture your magical garden. Whenever you use your Healing Bloom feature, you create two Blooms instead of one.
 
-### Circle of Disaster  - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:404px,left:55px,width:375px,mix-blend-mode:normal}
+### Circle of Disaster - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:404px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Control Nature's Climactic Forces*
 </br>
@@ -3074,7 +3007,7 @@ Text - TODO
 
 Text - TODO
 
-### Way of the Raging Demon  - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:474px,left:55px,width:375px,mix-blend-mode:normal}
+### Way of the Raging Demon - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:474px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Surge of Killing Intent*
 </br>
@@ -3231,7 +3164,7 @@ This state lasts for 1 minute, or until you lose your concentration (as if you w
 
 Text - TODO
 
-### Soulflame Sorcery  - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:117px,left:55px,width:375px,mix-blend-mode:normal}
+### Soulflame Sorcery - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:117px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Ignite with Spiritual Energy*
 </br>
@@ -3259,7 +3192,7 @@ Text - TODO
 
 ### Dragonlord Patron - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:428px,left:55px,width:375px,mix-blend-mode:normal}
 
-*Pledge Allegiance to Dragonic Tyrants*
+*Pledge Allegiance to Draconic Tyrants*
 </br>
 Text - TODO
 
@@ -3283,7 +3216,7 @@ Text - TODO
 
 Text - TODO
 
-### Astrologer  - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:739px,left:55px,width:375px,mix-blend-mode:normal}
+### Astrologer - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:739px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Draw on the Magic of the Stars*
 </br>
@@ -4173,7 +4106,7 @@ Text - TODO
 
 #### Igo
 
-Igo (囲碁) is a traditional board game, brought to Sumiriku from the foreign nation of Zāngkē. Igo is played on a 19 by 19 grid, where players take turns placing black and white stones onto points on the grid in order to capture their opponents pieces and secure territory; the winner is determined by the player with a greater combined territory and number of captured stones. The game is a beloved  part of the imperial courts, as the game is thought to be a demonstration of a player's intellect and high-level thinking, as well as connecting them to the sacred belief of In'yō. A full Igo set is made of many hand-made and luxury components; a large wooden board with table feet called a Goban (碁盤), two rounded wooden bowls, and a full set of black and white double-convex stones, called Goishi (碁石), typically made of clamshell and slate. The luxury of this production makes Igo a game for only the most affluent of citizens.
+Igo (囲碁) is a traditional board game, brought to Sumiriku from the foreign nation of Zāngkē. Igo is played on a 19 by 19 grid, where players take turns placing black and white stones onto points on the grid in order to capture their opponents pieces and secure territory; the winner is determined by the player with a greater combined territory and number of captured stones. The game is a beloved part of the imperial courts, as the game is thought to be a demonstration of a player's intellect and high-level thinking, as well as connecting them to the sacred belief of In'yō. A full Igo set is made of many hand-made and luxury components; a large wooden board with table feet called a Goban (碁盤), two rounded wooden bowls, and a full set of black and white double-convex stones, called Goishi (碁石), typically made of clamshell and slate. The luxury of this production makes Igo a game for only the most affluent of citizens.
 
 #### Shōkettō - TODO
 
@@ -4830,7 +4763,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 # Maps of Sumiriku and the World - TODO
 
-T  {{width:5px}} ext - TODO
+T {{width:5px}} ext - TODO
 
 ![island-map](https://i.imgur.com/v4wZLoX.png) {position:absolute,top:200px,left:74px,width:1440px,opacity:85%}
 
@@ -4852,7 +4785,7 @@ T  {{width:5px}} ext - TODO
 
 # Landscapes and Landmarks - TODO
 
-T  {{width:5px}} ext - TODO
+T {{width:5px}} ext - TODO
 
 {{pageNumber,auto}}
 {{footnote PART 3 | GEOGRAPHY AND CULTURE}}
@@ -4998,7 +4931,7 @@ The end of the current year and the beginning of the next. Ganjitsu also falls o
 
 ##### Foxes gather </br>at a tree </br>on Ganjitsu
 
-}} 
+}}
 
 {{imageMaskCorner16,--offsetX:55%,--offsetY:-55%,--rotation:0
   ![newyear](https://collectionapi.metmuseum.org/api/collection/v1/iiif/55553/149434/main-image){position:absolute,bottom:-100px,right:-60px,width:66%,transform:scaleX(-1)}
@@ -5035,7 +4968,7 @@ The escape of the Oni causes a night of terror, known as the Hyakki Chitsuki, wh
 
 # Important People and Groups - TODO
 
-T  {{width:5px}} ext - TODO
+T {{width:5px}} ext - TODO
 
 {{pageNumber,auto}}
 {{footnote PART 3 | GEOGRAPHY AND CULTURE}}
@@ -5063,7 +4996,7 @@ T  {{width:5px}} ext - TODO
 
 # Sacred Treasures and other Magic Items - TODO
 
-T  {{width:5px}} ext - TODO
+T {{width:5px}} ext - TODO
 
 {{note
 
@@ -5173,7 +5106,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 
 ### Actions
 
-***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5ft., one target. *Hit:* 2 (1d4) Piercing damage.
+***Bite.*** *Melee Attack Roll:* +2, reach 5ft. *Hit:* 2 (1d4) Piercing damage.
 
 }}
 
@@ -5216,7 +5149,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 
 ### Actions
 
-***Bite.*** *Melee Weapon Attack:* +PB to hit, reach 5ft., one target. *Hit:* 2 (1d4) Piercing damage.
+***Bite.*** *Melee Attack Roll:* +PB, reach 5ft. *Hit:* 2 (1d4) Piercing damage.
 
 }}
 
@@ -5240,7 +5173,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 
 |   |   |  MOD |
 |:-:|:-:|:----:|
-|Str| 19| --2  |
+|Str| 19|  +4  |
 
 |   |   |  MOD |
 |:-:|:-:|:----:|
@@ -5265,9 +5198,9 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 
 **Multiattack.** You make two attacks: one with your bite and one with your claws.
 :
-***Bite.*** *Melee Weapon Attack:* +4 + PB to hit, reach 5ft., one target. *Hit:* 8 (1d8 + 4) Piercing damage.
+***Bite.*** *Melee Attack Roll:* +4 + PB, reach 5ft. *Hit:* 8 (1d8 + 4) Piercing damage.
 :
-***Claws.*** *Melee Weapon Attack:* +4 + PB to hit, reach 5ft., one target. *Hit:* 11 (2d6 + 4) Slashing damage.
+***Claws.*** *Melee Attack Roll:* +4 + PB, reach 5ft. *Hit:* 11 (2d6 + 4) Slashing damage.
 :
 ***Ground Pound (Recharge 5-6).*** Choose a point on the ground within 10 feet of you. You leap 10 feet into the air and then land forcefully at that point, sending shockwaves through the ground around you. *Dexterity Saving Throw:* DC 12 + PB, each creature on the ground within 30 feet of the chosen point. *Failure:* 18 (4d8) Bludgeoning damage and be knocked Prone. If you land on top of a creature they take an extra 9 (2d8) Bludgeoning damage, have Disadvantage on the Dexterity Saving Throw, and are pushed away from you in any direction.
 
@@ -5339,7 +5272,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 
 ### Actions
 
-***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5ft., one target. *Hit:* 2 (1d4) Piercing damage.
+***Bite.*** *Melee Attack Roll:* +2, reach 5ft. *Hit:* 2 (1d4) Piercing damage.
 
 }}
 
@@ -5382,7 +5315,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 
 ### Actions
 
-***Bite.*** *Melee Weapon Attack:* +PB to hit, reach 5ft., one target. *Hit:* 2 (1d4) Piercing damage.
+***Bite.*** *Melee Attack Roll:* +PB, reach 5ft. *Hit:* 2 (1d4) Piercing damage.
 
 }}
 
@@ -5435,9 +5368,9 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 
 **Multiattack.** You make three Tail Smacks.
 :
-***Tail Smack.*** *Melee Weapon Attack:* +4 + PB to hit, reach 5ft., one target. *Hit:* 8 (1d8 + 4) Bludgeoning damage. If all three attacks hit a single target they must succeed on a Constitution Saving Throw (DC 12 + PB), or be Dazed until the end of their next turn.
+***Tail Smack.*** *Melee Attack Roll:* +4 + PB, reach 5ft. *Hit:* 8 (1d8 + 4) Bludgeoning damage. If all three attacks hit a single target they must succeed on a Constitution Saving Throw (DC 12 + PB), or be Dazed until the end of their next turn.
 :
-***Great Wave (Recharge 5-6).*** You conjure forth a rushing torrent of water in a line that is 80 feet long and 10 feet wide. *Dexterity Saving Throw:* DC 12 + PB, each creature in the line. *Failure:* 18 (4d8) Bludgeoning damage and be pushed back 20 feet. If the creature collides with a wall, they take an additional 3 (1d6) damage for every 10 feet they were moved. You can travel along the wave, moving to any point along the line without provoking Opportunity Attacks.
+***Great Wave (Recharge 5-6).*** You conjure forth a rushing torrent of water in a 80-foot-long, 10-foot-wide Line. *Dexterity Saving Throw:* DC 12 + PB, each creature in the Line. *Failure:* 18 (4d8) Bludgeoning damage and be pushed back 20 feet. If the creature collides with a wall, they take an additional 3 (1d6) damage for every 10 feet they were moved. You can travel along the wave, moving to any point along the line without provoking Opportunity Attacks.
 
 }}
 
@@ -5503,7 +5436,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 
 ### Actions
 
-***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5ft., one target. *Hit:* 2 (1d4) Piercing damage. If the fox has Advantage on the attack, the attack deals an extra 2 (1d4) damage.
+***Bite.*** *Melee Attack Roll:* +2, reach 5ft. *Hit:* 2 (1d4) Piercing damage. If the fox has Advantage on the attack, the attack deals an extra 2 (1d4) damage.
 
 }}
 
@@ -5547,7 +5480,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 
 ### Actions
 
-***Bite.*** *Melee Weapon Attack:* +PB to hit, reach 5ft., one target. *Hit:* 2 (1d4) Piercing damage. If you have Advantage on the attack, the attack deals an extra 2 (1d4) damage.
+***Bite.*** *Melee Attack Roll:* +PB, reach 5ft. *Hit:* 2 (1d4) Piercing damage. If you have Advantage on the attack, the attack deals an extra 2 (1d4) damage.
 
 }}
 
@@ -5597,9 +5530,9 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 
 **Multiattack.** You make two attacks: one with your claws and one with your bite.
 :
-***Claws.*** *Melee Weapon Attack:* +3 + PB to hit, reach 5ft., one target. *Hit:* 8 (1d8 + 3) Slashing damage.
+***Claws.*** *Melee Attack Roll:* +3 + PB, reach 5ft. *Hit:* 8 (1d8 + 3) Slashing damage.
 :
-***Bite.*** *Melee Weapon Attack:* +3 + PB to hit, reach 5ft., one target. *Hit:* 10 (2d6 + 3) Piercing damage.
+***Bite.*** *Melee Attack Roll:* +3 + PB, reach 5ft. *Hit:* 10 (2d6 + 3) Piercing damage.
 :
 ***Kitsunebi Flame (Recharge 5-6).*** Blue orbs of soulfire fly out from you to burn at the souls of your enemies. *Dexterity Saving Throw:* DC 11 + PB, three creatures within 60 feet of you. *Failure:* 18 (4d8) Fire damage and the target is Dazed until the end of their next turn. *Success:* Half damage. The targets gain no benefit from cover for this Saving Throw.
 
@@ -5670,7 +5603,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 
 ### Actions
 
-***Talons.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit:* 4 (1d4 + 2) Piercing damage.
+***Talons.*** *Melee Attack Roll:* +4, reach 5ft. *Hit:* 4 (1d4 + 2) Piercing damage.
 
 }}
 
@@ -5712,7 +5645,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 
 ### Actions
 
-***Talons.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit:* 4 (1d4 + 2) Piercing damage.
+***Talons.*** *Melee Attack Roll:* +4, reach 5ft. *Hit:* 4 (1d4 + 2) Piercing damage.
 
 }}
 
@@ -5764,9 +5697,9 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 
 **Multiattack.** You make two attacks: one with your wing and one with your talons.
 :
-***Wing.*** *Melee Weapon Attack:* +3 + PB to hit, reach 5ft., one target. *Hit:* 6 (1d6 + 3) Bludgeoning damage.
+***Wing.*** *Melee Attack Roll:* +3 + PB to hit, reach 5ft., one target. *Hit:* 6 (1d6 + 3) Bludgeoning damage.
 :
-***Talons.*** *Melee Weapon Attack:* +3 + PB to hit, reach 5ft., one target. *Hit:* 10 (2d6 + 3) Slashing damage.
+***Talons.*** *Melee Attack Roll:* +3 + PB to hit, reach 5ft., one target. *Hit:* 10 (2d6 + 3) Slashing damage.
 :
 ***Soaring Winds (Recharge 5-6).*** You call forth a howling cyclone from your wings. *Strength Saving Throw:* DC 11 + PB, each creature within 5 feet of you. *Failure:* 14 (4d6) Slashing damage and, if the target are Large or smaller, the target is lifted 10 feet into the air before they begin to fall at the start of their turn. *Success:* Half damage and the target is not lifted.
 
@@ -5850,7 +5783,6 @@ The following is a list of feats that have been updated from their original vers
 ***Impersonation.*** While you're disguised as a fictional person or a real person other than yourself, you have Advantage on Charisma (Deception or Performance) checks to convince others you are that person.
 
 ***Mimicry.*** You can mimic the sounds of other creatures, including speech. A creature that hears the mimicry must succeed on a Wisdom (Insight) check to determine the effect is faked (DC 8 plus your Charisma modifier and Proficiency Bonus).
-
 ::
 
 {{note
@@ -6017,8 +5949,8 @@ Origin Feats can be taken whenever you could take a General Feat, rather than ju
 
 {{position:absolute,top:650px,left:300px,margin-bottom:-30px,text-align:left
 
-<!-- ##### An ashigaru </br> gunner with</br>a Hinawajū -->
-##### An ashigaru </br> gunner with</br>a Hinawaju
+<!-- ##### An Ashigaru </br> gunner with</br>a Hinawajū -->
+##### An Ashigaru </br> gunner with</br>a Hinawaju
 
 }}
 
@@ -6194,7 +6126,7 @@ If you roll the same number on two or more of the d8s, the orb leaps to a differ
 **Range:**        :: Self (15-foot cone)
 **Components:**   :: V, S, M (a pinch of colorful sand)
 **Duration:**     :: 1 round
-You launch a dazzling array of flashing, colorful light. Each creature in a 15-foot Cone originating from you must succeed on a Constitution Saving Throw or have the Blinded condition until the end of your next turn.
+You launch a dazzling array of flashing, colorful light. Each creature in a 15-foot Cone originating from you must succeed on a Constitution Saving Throw or have the Blinded Condition until the end of your next turn.
 
 ***Using a Higher-Level Spell Slot.*** The size of the cone increases by 5 feet for each Spell Slot Level above 1.
 
@@ -6324,7 +6256,7 @@ You alter your physical form. Choose one of the following options. Its effects l
 **Range:**        :: 120 feet
 **Components:**   :: V, S
 **Duration:**     :: Concentration, up to 1 minute
-One creature that you can see within range must succeed on a Wisdom Saving Throw or have the Charmed condition for the duration. The creature succeeds automatically if it isn't Humanoid.
+One creature that you can see within range must succeed on a Wisdom Saving Throw or have the Charmed Condition for the duration. The creature succeeds automatically if it isn't Humanoid.
 
 A spectral crown appears on the Charmed target's head, and it must use its Action before moving on each of its turns to make a Melee Attack against a creature that you mentally choose. The target can act normally on its turn if you choose no creature. The target repeats the save at the end of each of its turns, ending the spell on itself on a success.
 
@@ -6387,7 +6319,7 @@ Choose a metal object that you can see within range. You cause the object to glo
 **Range:**        :: Touch
 **Components:**   :: V, S
 **Duration:**     :: Instantaneous
-You touch a creature and end one condition on it: Blinded, Dazed, Deafened, Paralyzed, or Poisoned.
+You touch a creature and end one Condition on it: Blinded, Dazed, Deafened, Paralyzed, or Poisoned.
 
 \column
 
@@ -6514,7 +6446,7 @@ An affected creature can repeat the Saving Throw at the end of each of its turns
 **Range:**        :: 120 feet
 **Components:**   :: S, M (a pinch of confetti)
 **Duration:**     :: Concentration, up to 1 minute
-You create a twisting pattern of colors in a 30-foot Cube within range. The pattern appears for a moment and vanishes. Each creature in the area who can see the pattern must succeed on a Wisdom Saving Throw or have the Charmed condition for the duration. While Charmed, the creature has the Incapacitated condition and a Speed of 0.
+You create a twisting pattern of colors in a 30-foot Cube within range. The pattern appears for a moment and vanishes. Each creature in the area who can see the pattern must succeed on a Wisdom Saving Throw or have the Charmed Condition for the duration. While Charmed, the creature has the Incapacitated Condition and a Speed of 0.
 
 An affected creature can repeat this Saving Throw at the end of each of its turns, ending the effect on a success. The spell also ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.
 
@@ -6601,7 +6533,7 @@ In addition, the ground in the Emanation is Difficult Terrain for your enemies.
 **Duration:**     :: Concentration, up to 1 minute
 Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, these tentacles turn the ground in that area into Difficult Terrain.
 
-Each creature in that area makes a Strength Saving Throw. On a failed save, it takes 3d6 Bludgeoning damage, and it has the Restrained condition until the spell ends or they leave the area. A creature also makes that save if it enters the area or ends it turn there. A creatue makes this save even if they are already Restrained by the spell, taking the Bludgeoning damage again on a failed save or ending the condition on a successful save. A creature makes that save only once per turn.
+Each creature in that area makes a Strength Saving Throw. On a failed save, it takes 3d6 Bludgeoning damage, and it has the Restrained Condition until the spell ends or they leave the area. A creature also makes that save if it enters the area or ends it turn there. A creature makes this save even if they are already Restrained by the spell, taking the Bludgeoning damage again on a failed save or ending the Condition on a successful save. A creature makes that save only once per turn.
 
 :
 
@@ -6690,7 +6622,7 @@ You can make the messenger terrifying to the target. If you do so, the messenger
 **Range:**        :: 60 feet
 **Components:**   :: V
 **Duration:**     :: 30 days
-You give a verbal command to a creature that you can see within range, ordering it to carry out some service or refrain from an action or a course of activity as you decide. The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target automatically succeeds if it can't understand your command.
+You give a verbal command to a creature that you can see within range, ordering it to carry out some service or refrain from an action or a course of activity as you decide. The target must succeed on a Wisdom saving throw or have the Charmed Condition for the duration. The target automatically succeeds if it can't understand your command.
 
 While Charmed, the creature takes 5d10 Psychic damage if it acts in a manner directly counter to your command. It takes this damage no more than once each hour.
 
@@ -6779,7 +6711,7 @@ Meanwhile, the possessed creature's soul can perceive from the container using i
 **Range:**        :: 30 feet
 **Components:**   :: V
 **Duration:**     :: Concentration, up to 1 minute
-One creature that you can see within range begins dancing comically and has the Charmed condition for the duration. Creatures immune to the Charmed condition are immune to this spell. While Charmed, the target must use all its movement to dance in place, and has Disadvantage on Dexterity Saving Throws and Attack Rolls, and other creatures have Advantage on Attack Rolls against it. On each of its turns, the target can take an Action to collect itself and make a Wisdom Saving Throw, ending the spell on itself on a success.
+One creature that you can see within range begins dancing comically and has the Charmed Condition for the duration. Creatures immune to the Charmed Condition are immune to this spell. While Charmed, the target must use all its movement to dance in place, and has Disadvantage on Dexterity Saving Throws and Attack Rolls, and other creatures have Advantage on Attack Rolls against it. On each of its turns, the target can take an Action to collect itself and make a Wisdom Saving Throw, ending the spell on itself on a success.
 
 :
 
@@ -7167,6 +7099,7 @@ Below is a table of all existing creature types in D&D, alongside the equivalent
 | Ooze          | Numeri (ぬめり)               |
 | Plant         | Shokubutsu (植物)             |
 | Undead        | Fushisha (不死者)             |
+
 }}
 
 :
@@ -7210,7 +7143,7 @@ You can additionally attempt to High Jump as part of your Move on your turn. Whe
 
 Difficult Terrain is an area that reduces the movement of creatures that travel through it. By default Difficult Terrain makes it so that every 5 feet travelled through it uses 10 feet of movement, but some effects may specify a different amount of movement that is required to travel 5 feet. Different sources of Difficult Terrain do not stack.
 
-If the Difficult Terrain effect is said to be on the ground, such as a layer of snow or plants, creatures that can float, such as Soratami, are unaffected by the Difficult Terrain. If the Difficult Terrain has some additional effect, such as damage, this only applies while the creature is affected by the Difficult Terrain.  Travelling through a hostile creature's space is not considered Difficult Terrain, but does cost an additional 5 feet of movement for every 5 feet traveled.
+If the Difficult Terrain effect is said to be on the ground, such as a layer of snow or plants, creatures that can float, such as Soratami, are unaffected by the Difficult Terrain. If the Difficult Terrain has some additional effect, such as damage, this only applies while the creature is affected by the Difficult Terrain. Travelling through a hostile creature's space is not considered Difficult Terrain, but does cost an additional 5 feet of movement for every 5 feet traveled.
 
 ## Flanking
 
