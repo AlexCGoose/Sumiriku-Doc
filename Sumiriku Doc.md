@@ -129,15 +129,21 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
     - [{{ Circle of Blossoms - TODO}}{{ 61}}](#p62)
     - [{{ Circle of Disaster - TODO}}{{ 62}}](#p63)
   - [{{ Fighter - TODO}}{{ 63}}](#p64)
+    - [{{ Tempest Blade - TODO}}{{ 63}}](#p64)
   - [{{ Monk - TODO}}{{ 63}}](#p64)
     - [{{ Way of the Raging Demon - TODO}}{{ 63}}](#p64)
   - [{{ Paladin - TODO}}{{ 63}}](#p64)
+    - [{{ Oath of Bushidō - TODO}}{{ 63}}](#p64)
   - [{{ Ranger - TODO}}{{ 63}}](#p64)
+    - [{{ Spirit Tender - TODO}}{{ 63}}](#p64)
   - [{{ Rogue - TODO}}{{ 65}}](#p66)
     - [{{ Dagger Dancer Archetype}}{{ 65}}](#p66)
   - [{{ Sorcerer - TODO}}{{ 66}}](#p67)
+    - [{{ Soulflame Sorcery - TODO}}{{ 66}}](#p67)
   - [{{ Warlock - TODO}}{{ 66}}](#p67)
+    - [{{ Dragonlord Patron - TODO}}{{ 66}}](#p67)
   - [{{ Wizard - TODO}}{{ 66}}](#p67)
+    - [{{ Astrologer - TODO}}{{ 66}}](#p67)
 
 }}
 
