@@ -268,7 +268,24 @@ Kane-tsuki (鐘つき, 'Bell-Ringer') is a magical Kama Yari, gold-tipped and de
 #### Kenzo's Jitte
 
 *Weapon (Jitte), Unique, Minor* </br>
-This Jitte was a treasured weapon of Dojo Sensei Kenzo, which he had by his side for much of his life and used to teach martial arts to his students. If you successfully use the Disarming feature to disarm a creature, you get advantage with all attacks with this jitte and with the disarmed weapon against that creature until the end of your next turn.
+This Jitte was a treasured weapon of Dojo Sensei Kenzo, which he had by his side for much of his life and used to teach martial arts to his students. If you successfully use the Disarming feature to disarm a creature, you get advantage with all attacks with this Jitte and with the disarmed weapon against that creature until the end of your next turn.
+
+#### Musei, the Unknown
+
+*Spellcasting Focus (Musical Instrument), Unique, Epic (Requires Attunement by a Bard)* </br>
+
+The body and neck of this elegant Shamisen are carved out of wood of the gyaku tree, which grow in the shadowiest parts of Kimyokai. An instrument fit for a most esteemed artist, instead Musei (無声, 'Voiceless') was owned by an anonymous traveling performer, who loved a human, and who lost a family.
+
+While holding this Shamisen, you gain a +2 bonus to Spell Attack Rolls and to the Saving Throws DCs of your Bard spells.
+
+In addition, immediately after you cast an Abjuration, Enchantment, or Illusion spell using a Spell Slot while holding this Shamisen, you can gain the Invisible condition for 1 minute and leave behind an exact illusionary duplicate of yourself in your current space. To all senses the illusion is perfectly lifelike, though physical interaction with it causes it to disappear. The illusion also disappears when you become visible. While it persists, all creatures assume the illusion is you for any feature that relies on your location, such as if you have given a creature the Frightened Condition. You can use this feature a number of times equal to your Charisma modifier, and you regain all expended uses when you finish a Long Rest.
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
 
 #### Tansa-ki, the Asteroid
 
@@ -277,14 +294,9 @@ The greatest desire of the Infinite Library is to recover the Orb of All Knowled
 
 Tansa-ki (探査機, 'Probe') is a hemisphere of grey moon-rock, with carved circles on the flat face and embedded marble details. Over the course of 1 minute while holding Tansa-ki, you can touch a creature, alive or dead, a magic item, a book or document, or any other appropriate object as determined by your DM to learn information about the object and store it within Tansa-ki. If you touch a creature you learn the creature's statblock. If you touch a magic item you learn the item's properties, as if you had cast the Identify spell on it. If you touch a book or document, you record all of the information contained within the document. When touching any other appropriate object you can learn and record information of your choosing and the DMs approval about that object, such as its appearance or construction.
 
-As an action while holding Tansa-ki you can recall any record or piece of information previously stored, as a illusionary hologram appears above the rocks surface with the knowledge you request.
+As an Action while holding Tansa-ki you can recall any record or piece of information previously stored, as a illusionary hologram appears above the rock's surface with the knowledge you request.
 
-{{pageNumber,auto}}
-{{footnote PART 1 | THE INFINITE LIBRARY}}
-
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
-
-\page
+\column
 
 #### Wakare, the Branching
 
@@ -1988,13 +2000,13 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 #### Sensei Kenzo's Letter to the Students
 
-"A sensei should not pick a favourite student, so I shan't, but I do hope that it is you, Tatsuhiro Haruto, who finds message. I know I have been less than forthcoming about why I am being sent away, and what purpose Daimyō Wakasa has for me, and to tell the truth the details are being kept a mystery even to me. To tell more of the truth, I have kept this secret in order to be sure none of you follow me; I wish for you not to share my past, or to share my potential fate. I am being sent by the Daimyō to Nezumijima, back to some of my old haunts, to seek out some targets that are considered threats both to the clan and to the nation. I have been told that this is simply an investigation, relying on my access to former contacts, but I doubt I would be requested if it were not also for my other talents. As for why I have agreed to this, the Daimyō somehow knows of my past, more than any of you, and is able to hold that against me; for your safety I had no choice.
+A sensei should not pick a favourite student, so I shan't, but I do hope that it is you, Tatsuhiro Haruto, who finds message. I know I have been less than forthcoming about why I am being sent away, and what purpose Daimyō Wakasa has for me, and to tell the truth the details are being kept a mystery even to me. To tell more of the truth, I have kept this secret in order to be sure none of you follow me; I wish for you not to share my past, or to share my potential fate. I am being sent by the Daimyō to Nezumijima, back to some of my old haunts, to seek out some targets that are considered threats both to the clan and to the nation. I have been told that this is simply an investigation, relying on my access to former contacts, but I doubt I would be requested if it were not also for my other talents. As for why I have agreed to this, the Daimyō somehow knows of my past, more than any of you, and is able to hold that against me; for your safety I had no choice.
 
 Whichever of you are reading this, the Dojo is yours for whatever you would need of it. I hope you can find a way to keep it as it was, to continue to train everyone under its roof, but I know that would be a greater challenge than I have ever faced. There will likely come a time where you will have to leave, to seek out a life elsewhere. For this I do not blame you, but I wish to know that all of you are safe, and you do not try to follow my path. Know that you are strong, that you are smart, and that you know what is just. Try to find, in your small corner of the world, the good you can do. And stay alive, for me.
 
 I left here my first jitte, as it felt the right time to part with it. It kept me safe for many years, may it keep you safe too.
 
-Haruto Kenzo."
+Haruto Kenzo.
 
 \column
 
@@ -2010,7 +2022,7 @@ We can't wait to see you again.
 
 Lots of love,
 
-Mum and Dad Usagi."
+Mum and Dad Usagi.
 
 <!-- {{#default-table,classTable,frame
 
@@ -2056,6 +2068,16 @@ A hand will guide you.
 The claw's grip strengthens around the night's jewel. Twin suns shine through autumn rain, falling on black lotus petals. By year's end the beast will make landfall. The bloodied arrow finds its mark.
 
 May we return the flame.
+
+#### Note to Sayuri from Kaito
+
+Hello there,
+
+I really hope you're doing well dear. I'd had hoped you'd join me at our luxury table again this evening, but I suppose the other offerings in this city took your fancy instead. I was wondering if you ever had an interest in making acquaintance again - even if you wish to disagree, I feel like we had an undeniable chemistry the other day. I'll be at the luxury tables most evenings if you wish to join me, or if it appeals more to you we could go for drinks, or perhaps to a performance of some kind. Just ask the hotel staff for me any time and I guarantee I'll be there. And, if you're interested in something more, I'll be waiting outside the Moonlight Tavern tonight. Once your husband is asleep for the night I think you'll be compelled to meet me. Alone.
+
+I greatly hope to see you soon,
+
+Kaito
 
 {{pageNumber,auto}}
 {{footnote PART 2 | THE LIVING LORE}}

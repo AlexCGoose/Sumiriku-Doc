@@ -79,126 +79,126 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
     - [{{ The Tale of the Compassionate Princess}}{{ 21}}](#p22)
   - [{{ Assei Jidai (Tyrannical Era)}}{{ 22}}](#p23)
   - [{{ Bunretsu Jidai (Divided Era)}}{{ 23}}](#p24)
-  - [{{ Tōgō Jidai (Unification Era) - TODO}}{{ 24}}](#p25)
-    - [{{ The Tale of the Emperor's Climb - TODO}}{{ 24}}](#p25)
-  - [{{ Guntai Jidai (Military Era) - TODO}}{{ 24}}](#p25)
-  - [{{ Koware Jidai (Shattered States Era) - TODO}}{{ 24}}](#p25)
+  - [{{ Tōgō Jidai (Unification Era)}}{{ 24}}](#p25)
+    - [{{ The Tale of the Emperor's Climb - TODO}}{{ 25}}](#p26)
+  - [{{ Guntai Jidai (Military Era) - TODO}}{{ 26}}](#p27)
+  - [{{ Koware Jidai (Shattered States Era) - TODO}}{{ 27}}](#p28)
 
 }}
 
 {{toc
 
-- ### [{{ PART 2 - Character Options}}{{ 26}}](#p27) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:127px,left:285px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 2 - Character Options}}{{ 28}}](#p29) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:127px,left:285px,width:245px,mix-blend-mode:normal}
 
-- ###### [{{ Character Species}}{{ 27}}](#p28)
+- ###### [{{ Character Species}}{{ 29}}](#p30)
 
-  - [{{ Nekotaiyō (Sunfolk)}}{{ 27}}](#p28)
-  - [{{ Tsukibito (Moonfolk)}}{{ 29}}](#p30)
-  - [{{ Masaru (Macaque)}}{{ 31}}](#p32)
-  - [{{ Ōgaru (Ogre)}}{{ 32}}](#p33)
-  - [{{ Kappa (Tortle)}}{{ 34}}](#p35)
-  - [{{ Akki (Goblin)}}{{ 35}}](#p36)
-  - [{{ Tanuki (Raccoon-Dog)}}{{ 36}}](#p38)
-  - [{{ Kawauso (Otter)}}{{ 38}}](#p39)
-  - [{{ Kitsune (Fox)}}{{ 39}}](#p40)
-  - [{{ Kisuru (Crane)}}{{ 41}}](#p42)
-  - [{{ Bunagaya (Halfling) - TODO}}{{ 43}}](#p44)
-  - [{{ Korpokkur (Dwarf) - TODO}}{{ 44}}](#p45)
-  - [{{ Ryūson (Dragonborn)}}{{ 45}}](#p46)
-  - [{{ Human - TODO}}{{ 48}}](#p49)
+  - [{{ Nekotaiyō (Sunfolk)}}{{ 29}}](#p30)
+  - [{{ Tsukibito (Moonfolk)}}{{ 31}}](#p32)
+  - [{{ Masaru (Macaque)}}{{ 33}}](#p34)
+  - [{{ Ōgaru (Ogre)}}{{ 34}}](#p35)
+  - [{{ Kappa (Tortle)}}{{ 36}}](#p37)
+  - [{{ Akki (Goblin)}}{{ 37}}](#p38)
+  - [{{ Tanuki (Raccoon-Dog)}}{{ 38}}](#p39)
+  - [{{ Kawauso (Otter)}}{{ 40}}](#p41)
+  - [{{ Kitsune (Fox)}}{{ 41}}](#p42)
+  - [{{ Kisuru (Crane)}}{{ 43}}](#p44)
+  - [{{ Bunagaya (Halfling) - TODO}}{{ 45}}](#p46)
+  - [{{ Korpokkur (Dwarf) - TODO}}{{ 46}}](#p47)
+  - [{{ Ryūson (Dragonborn)}}{{ 47}}](#p48)
+  - [{{ Human - TODO}}{{ 50}}](#p51)
 
-- ###### [{{ Aberrant Forms}}{{ 49}}](#p50)
+- ###### [{{ Aberrant Forms}}{{ 51}}](#p52)
 
-  - [{{ Oni Bloodline Form}}{{ 49}}](#p50)
-  - [{{ Yūrei Manifest Form}}{{ 51}}](#p52)
-  - [{{ Noppera-bō Changeling Form}}{{ 52}}](#p53)
+  - [{{ Oni Bloodline Form}}{{ 51}}](#p52)
+  - [{{ Yūrei Manifest Form}}{{ 53}}](#p54)
+  - [{{ Noppera-bō Changeling Form}}{{ 54}}](#p55)
 
-- ###### [{{ Classes and Subclasses}}{{ 53}}](#p54)
+- ###### [{{ Classes and Subclasses}}{{ 55}}](#p56)
 
-  - [{{ Barbarian}}{{ 53}}](#p54)
-    - [{{ Path of the Kaijū - TODO}}{{ 54}}](#p55)
-  - [{{ Bard}}{{ 55}}](#p56)
-    - [{{ College of Ink - TODO}}{{ 56}}](#p57)
-  - [{{ Blood Hunter}}{{ 57}}](#p58)
-    - [{{ Order of the Shifthunters}}{{ 57}}](#p58)
-  - [{{ Cleric - TODO}}{{ 59}}](#p60)
-    - [{{ Duality Domain - TODO}}{{ 59}}](#p60)
-    - [{{ Sea Domain - TODO}}{{ 60}}](#p61)
-    - [{{ Sky Domain - TODO}}{{ 60}}](#p61)
-  - [{{ Druid - TODO}}{{ 61}}](#p62)
-    - [{{ Circle of Blossoms - TODO}}{{ 61}}](#p62)
-    - [{{ Circle of Disaster - TODO}}{{ 62}}](#p63)
-  - [{{ Fighter - TODO}}{{ 63}}](#p64)
-    - [{{ Tempest Blade - TODO}}{{ 63}}](#p64)
-  - [{{ Monk - TODO}}{{ 63}}](#p64)
-    - [{{ Way of the Raging Demon - TODO}}{{ 63}}](#p64)
-  - [{{ Paladin - TODO}}{{ 63}}](#p64)
-    - [{{ Oath of Bushidō - TODO}}{{ 63}}](#p64)
-  - [{{ Ranger - TODO}}{{ 63}}](#p64)
-    - [{{ Spirit Tender - TODO}}{{ 63}}](#p64)
-  - [{{ Rogue - TODO}}{{ 65}}](#p66)
-    - [{{ Dagger Dancer Archetype}}{{ 65}}](#p66)
-  - [{{ Sorcerer - TODO}}{{ 66}}](#p67)
-    - [{{ Soulflame Sorcery - TODO}}{{ 66}}](#p67)
-  - [{{ Warlock - TODO}}{{ 66}}](#p67)
-    - [{{ Dragonlord Patron - TODO}}{{ 66}}](#p67)
-  - [{{ Wizard - TODO}}{{ 66}}](#p67)
-    - [{{ Astrologer - TODO}}{{ 66}}](#p67)
+  - [{{ Barbarian}}{{ 55}}](#p56)
+    - [{{ Path of the Kaijū - TODO}}{{ 56}}](#p57)
+  - [{{ Bard}}{{ 57}}](#p58)
+    - [{{ College of Ink - TODO}}{{ 58}}](#p59)
+  - [{{ Blood Hunter}}{{ 59}}](#p60)
+    - [{{ Order of the Shifthunters}}{{ 59}}](#p60)
+  - [{{ Cleric - TODO}}{{ 61}}](#p62)
+    - [{{ Duality Domain - TODO}}{{ 61}}](#p62)
+    - [{{ Sea Domain - TODO}}{{ 62}}](#p63)
+    - [{{ Sky Domain - TODO}}{{ 62}}](#p63)
+  - [{{ Druid - TODO}}{{ 63}}](#p64)
+    - [{{ Circle of Blossoms - TODO}}{{ 63}}](#p64)
+    - [{{ Circle of Disaster - TODO}}{{ 64}}](#p65)
+  - [{{ Fighter - TODO}}{{ 65}}](#p66)
+    - [{{ Tempest Blade - TODO}}{{ 65}}](#p66)
+  - [{{ Monk - TODO}}{{ 65}}](#p66)
+    - [{{ Way of the Raging Demon - TODO}}{{ 65}}](#p66)
+  - [{{ Paladin - TODO}}{{ 65}}](#p66)
+    - [{{ Oath of Bushidō - TODO}}{{ 65}}](#p66)
+  - [{{ Ranger - TODO}}{{ 65}}](#p66)
+    - [{{ Spirit Tender - TODO}}{{ 65}}](#p66)
+  - [{{ Rogue - TODO}}{{ 67}}](#p68)
+    - [{{ Dagger Dancer Archetype}}{{ 67}}](#p68)
+  - [{{ Sorcerer - TODO}}{{ 68}}](#p67)
+    - [{{ Soulflame Sorcery - TODO}}{{ 68}}](#p69)
+  - [{{ Warlock - TODO}}{{ 68}}](#p69)
+    - [{{ Dragonlord Patron - TODO}}{{ 68}}](#p69)
+  - [{{ Wizard - TODO}}{{ 68}}](#p69)
+    - [{{ Astrologer - TODO}}{{ 68}}](#p69)
 
 }}
 
 {{toc
 
-- ###### [{{ Backgrounds}}{{ 67}}](#p68)
+- ###### [{{ Backgrounds}}{{ 69}}](#p70)
 
-  - [{{ Languages}}{{ 67}}](#p68)
-  - [{{ Background Options}}{{ 69}}](#p70)
+  - [{{ Languages}}{{ 69}}](#p70)
+  - [{{ Background Options}}{{ 71}}](#p72)
 
-- ###### [{{ Weapons, Armour, and Equipment}}{{ 73}}](#p74)
+- ###### [{{ Weapons, Armour, and Equipment}}{{ 75}}](#p76)
 
-  - [{{ Weapons - TODO}}{{ 73}}](#p74)
-  - [{{ Armour}}{{ 79}}](#p80)
-  - [{{ Equipment - TODO}}{{ 80}}](#p81)
+  - [{{ Weapons - TODO}}{{ 75}}](#p76)
+  - [{{ Armour}}{{ 81}}](#p82)
+  - [{{ Equipment - TODO}}{{ 82}}](#p83)
 
-- ###### [{{ Feats}}{{ 81}}](#p82)
+- ###### [{{ Feats}}{{ 83}}](#p82)
 
-  - [{{ Species Feats - TODO}}{{ 81}}](#p82)
-  - [{{ General Feats}}{{ 89}}](#p90)
+  - [{{ Species Feats - TODO}}{{ 83}}](#p84)
+  - [{{ General Feats}}{{ 91}}](#p92)
 
-- ### [{{ PART 3 - Geography and Culture}}{{ 94}}](#p95) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:324px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 3 - Geography and Culture}}{{ 96}}](#p97) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:324px,left:515px,width:245px,mix-blend-mode:normal}
 
-- ###### [{{ Maps of Sumiriku and the World - TODO}}{{ 95}}](#p96)
+- ###### [{{ Maps of Sumiriku and the World - TODO}}{{ 97}}](#p98)
 
-- ###### [{{ Landscapes and Landmarks - TODO}}{{ 97}}](#p98)
+- ###### [{{ Landscapes and Landmarks - TODO}}{{ 99}}](#p100)
 
-- ###### [{{ Calendar and Notable Events - TODO}}{{ 100}}](#p101)
+- ###### [{{ Calendar and Notable Events - TODO}}{{ 102}}](#p103)
 
-  - [{{ Seasons}}{{ 100}}](#p101)
-  - [{{ Important Days}}{{ 100}}](#p101)
-    - [{{ Shōtenbi (Ascension Day)}}{{ 100}}](#p101)
-    - [{{ Tanabata (Seventh Evening) - TODO}}{{ 100}}](#p101)
-    - [{{ Ganjitsu (New Year's Day)}}{{ 101}}](#p102)
-    - [{{ Hyakki Chitsuki (Hundred Oni Blood Moon)}}{{ 101}}](#p102)
+  - [{{ Seasons}}{{ 102}}](#p103)
+  - [{{ Important Days}}{{ 102}}](#p103)
+    - [{{ Shōtenbi (Ascension Day)}}{{ 102}}](#p103)
+    - [{{ Tanabata (Seventh Evening) - TODO}}{{ 102}}](#p103)
+    - [{{ Ganjitsu (New Year's Day)}}{{ 103}}](#p104)
+    - [{{ Hyakki Chitsuki (Hundred Oni Blood Moon)}}{{ 103}}](#p104)
 
-- ###### [{{ Important People and Groups - TODO}}{{ 103}}](#p104)
+- ###### [{{ Important People and Groups - TODO}}{{ 105}}](#p106)
 
-- ###### [{{ Sacred Treasures and other Magic Items - TODO}}{{ 104}}](#p105)
+- ###### [{{ Sacred Treasures and other Magic Items - TODO}}{{ 106}}](#p107)
 
-- ### [{{ EXTRA - Appendices}}{{ 105}}](#p106) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:700px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ EXTRA - Appendices}}{{ 107}}](#p108) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:700px,left:515px,width:245px,mix-blend-mode:normal}
 
-- ###### [{{ Appendix A - Creature Stat Blocks}}{{ 106}}](#p107)
+- ###### [{{ Appendix A - Creature Stat Blocks}}{{ 108}}](#p109)
 
-- ###### [{{ Appendix B - Updated Feats}}{{ 110}}](#p111)
+- ###### [{{ Appendix B - Updated Feats}}{{ 112}}](#p113)
 
-- ###### [{{ Appendix C - Spell Changes}}{{ 114}}](#p115)
+- ###### [{{ Appendix C - Spell Changes}}{{ 116}}](#p117)
 
-- ###### [{{ Appendix D - Rule Change Glossary}}{{ 130}}](#p131)
+- ###### [{{ Appendix D - Rule Change Glossary}}{{ 132}}](#p133)
 
-- ###### [{{ Appendix E - Reference Images - TODO}}{{ 139}}](#p140)
+- ###### [{{ Appendix E - Reference Images - TODO}}{{ 141}}](#p142)
 
-- ### [{{ CREDITS - TODO}}{{ 144}}](#p145) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:879px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ CREDITS - TODO}}{{ 146}}](#p147) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:879px,left:515px,width:245px,mix-blend-mode:normal}
 
-- ###### [{{ Special Thanks}}{{ 144}}](#p145)
+- ###### [{{ Special Thanks}}{{ 146}}](#p147)
 
 }}
 
@@ -260,21 +260,21 @@ Sumiriku is a large archipelago, an imposing, mountainous set of islands within 
 
 Developed from humble beginnings, Sumiriku grew into a great and prosperous nation. The country was composed of many different species, cultures, beliefs, and practices, but from this coalition came strength. Sumiriku became known to the lands beyond the sea as a dichotomy, both a place known for agriculture and artisans as well as a great military power.
 
-From the outside it seemed like the islands were ruled by an emperor, who sat on the Myōjin throne (明神, 'Shining Divinities') and is blessed by the deities of Sumiriku. However, most citizens knew that true power does not come from the emperor, from the ceremony of their position. Instead, true power is granted to the Shogunate, the military government that is granted true rule over Sumiriku from their seat in Heian-kyō (平安京, 'Peaceful/Tranquil Capital'). The Shogunate, with their leader, the Shōgun, ruled by force over the Daimyō and their clans which divided up the land. Citizens here knew, even if they could not put into words, that they lived under a stratocracy, a place where might made right, and only those who
+From the outside it seemed like the islands were ruled by an Emperor, who sat on the Myōjin throne (明神, 'Shining Divinities') and is blessed by the deities of Sumiriku. However, most citizens knew that true power does not come from the Emperor, from the ceremony of their position. Instead, true power is granted to the Shogunate, the military government that is granted true rule over Sumiriku from their seat in Heian-kyō (平安京, 'Peaceful/Tranquil Capital'). The Shogunate, with their leader, the Shōgun (将軍, 'Army Commander'), ruled by force over the Daimyō (大名) and their clans which divided up the land. Citizens here knew, even if they could not put into words, that they lived under a stratocracy, a place where might made right, and only those who were good
 
 \column
 
-were good soldiers could aim to become great leaders. To an outsider it would appear that this arrangement, where a centralised government kept local leadership in check, had resulted in success and stability for the nation. Few could know how fragile this arrangement truly was.
+soldiers could aim to become great leaders. To an outsider it would appear that this arrangement, where a centralised government kept local leadership in check, had resulted in success and stability for the nation. Few could know how fragile this arrangement truly was.
 
-The Daimyō were steadily becoming more unimpressed with the current shogunate, especially those furthest from Heain-kyō, as they came to feel that they lacked the local autonomy they deserved and that they were being unfairly exploited by the ruling caste. Even farmers, devastated by famines and natural disasters, began to take up arms and lead uprisings, forming their own armies. This all came to a head during a succession crisis within the Shogunate, when a neighbouring clan with a claim to leadership built up an army and led a march on Heain-kyō. The result of this conflict was catastrophic, burning down much of Heain-kyō's perimeter settlements and decimating the army loyal to the Shōgun. Those that returned to the Shōgun were in for a greater shock however, as they discovered that he had been assassinated in their absence, a declaration of war tied to the Kunai in his back. This caused the instantaneous collapse of the shogunate, which coincided with the mysterious disappearance of the emperor with no clear successor. The land descend into martial chaos, into a time now known as the Koware Jidai (壊れ時代, 'Shattered States Era'). Each Daimyō and their clans believes that they should be given authority to rule over Sumiriku, and they have attempted to prove that right on the battlefield. For over a century since that fateful day in Heain-kyō, war is all there has been.
+The Daimyō were steadily becoming more unimpressed with the current shogunate, especially those furthest from Heain-kyō, as they came to feel that they lacked the local autonomy they deserved and that they were being unfairly exploited by the ruling caste. Even farmers, devastated by famines and natural disasters, began to take up arms and lead uprisings, forming their own armies. This all came to a head during a succession crisis within the Shogunate, when a neighbouring clan with a claim to leadership built up an army and led a march on Heain-kyō. The result of this conflict was catastrophic, burning down much of Heain-kyō's perimeter settlements and decimating the army loyal to the Shōgun. Those that returned to the Shōgun were in for a greater shock however, as they discovered that he had been assassinated in their absence, a declaration of war tied to the Kunai in his back. This caused the instantaneous collapse of the shogunate, which coincided with the mysterious disappearance of the Emperor with no clear successor. The land descend into martial chaos, into a time now known as the Koware Jidai (壊れ時代, 'Shattered States Era'). Each Daimyō and their clans believes that they should be given authority to rule over Sumiriku, and they have attempted to prove that right on the battlefield. For over a century since that fateful day in Heain-kyō, war is all there has been.
 
-{{position:relative,top:-10px,left:100px,margin-bottom:-30px
+{{position:relative,top:5px,left:20px,margin-bottom:-30px
 
 ##### The war to begin the Koware Jidai
 
 }}
 
-{{imageMaskEdge7,--offset:31%,--rotation:0
+{{imageMaskEdge7,--offset:33%,--rotation:0
   ![onin](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Onin-War-1467-1477-The-Battle-of-Onin-by-Utagawa-Yoshitora.png/1920px-Onin-War-1467-1477-The-Battle-of-Onin-by-Utagawa-Yoshitora.png){position:aboslute,top:600px,left:-200px,height:50%}
 }}
 
@@ -420,7 +420,7 @@ The other group of Ryū are the Godai Ryū. Connected with the Godai elements th
 
 Kami and the lesser spirits most typically live an amorphous, intangible existence. They permeate and bind the world with spiritual essence, and their presence is felt by all without ever taking a physical form. However, a select few of these spirits have developed the incredible power to manifest a physical presence for themselves, dwelling alongside the other denizens of Sumiriku.
 
-These Holy Manifestations, also known as Tenno (天の, 'Celestial'), are fully spirit in being, their physical form a direct reflection of their spiritual essence. This is unlike other beings revered as Kami, such as Ryū, Godaiyō, or the spirits of the deceased, who's nature is based on their physical selves before they became Kami.
+These Holy Manifestations, also known as Tennō (天の, 'Celestial'), are fully spirit in being, their physical form a direct reflection of their spiritual essence. This is unlike other beings revered as Kami, such as Ryū, Godaiyō, or the spirits of the deceased, who's nature is based on their physical selves before they became Kami.
 
 Holy Manifestations are said to appear from the spirit realm for a specific purpose, but determining this purpose can prove very challenging. They are often very cryptic beings that don't typically communicate in languages most people of Sumiriku understand. They also have values very different to those of less spiritual beings. They are believed to appear when there is a spiritual imbalance that requires mending, or when people are in times of need.
 
@@ -708,7 +708,7 @@ minds and the ability to take humanoid forms. They continued to see each other e
 |:----------------------------------|:-----------------------------------------------------------------------------------|:--------------:|
 | Shōji-sama </br> (小地様 / </br> しょうじ様) | The Little-Earth-Shizen-Korpokkur-Deity. Shōji-sama and Hanumi-sama are known as the Shizen couple, partners split by the tide. Shōji-sama is the Korpokkur deity, and is responsible for the care of all the land of the isles of Sumiriku. In pursuit of this Shōji-sama has crossed all of Sumiriku's great mountains, valleys, forests, swamps, and plains. He is also responsible for the great many creatures that call all of these locations their home. Of particular fondness to Shōji-sama are all the different kinds of bugs, and the tiny worlds which they inhabit; he finds great inspiration in knowing that something can be that strong and courageous given its small stature. His personal hobby is documenting each different critter he comes across, and learning of each one's quirks and traits. Despite this, he also moves to action when the people pray for him to hold back the devastating earthquakes that hit Sumiriku, formed from the roiling chaos under the ground. He came to meet Hanumi-sama at an idyllic river bank, and from there their love bloomed. They now work together to help embrace the natural world around them. Some say one might happen upon these two deities sharing in each other's company, at a calming spring or beautiful waterfall. | Land |
 | Tamata-no-Orochi </br> (多岐大蛇 / </br> たまたのおろち) | The Chromatic-Many-Headed-Serpent. Tamata-no-Orochi was said to have been born as an egg at the conflux between each of the Godaikai planes. As an instinctual reaction, the universe brought forth a being to contain this power, which took the form of the greatest and most terrible of all the Dragon-Kami. Unlike her metallic Kinzoku Dragon brethren she was chromatically scaled, her many heads granting her domain over all the elemental forces. From birth she was filled with the belief that it was her right to rule the realms, a belief that twisted into a narcissistic desire for power and conquest. Once fully formed, Tamata-no-Orochi plunged the world into darkness and terror, forcing the people to pledge their fealty to her or suffer; she believed that through this she would be revered as a ruler more than any of the Myōjin. She was finally felled and sealed back in the earth by the latent deity Yūkan-sama, and her cast-off heads grew into what are now known as the Godai Dragon-Kami. | Tyranny |
-| Yūkan-sama </br> (勇敢様 / </br> ゆうかん様) | His-Brave-Noble-Foolish-Augustness. Born a child of little note during the Assei Jidai, Yūkan-sama became known as a great swordsman and warrior rōnin, but also a drunkard lacking in conviction. Living under the tyranny of Tamata-no-Orochi, he chose to make his living taking jobs to cut down threats both worldly and otherworldly, only as long as they paid the right price. This lasted until a duel went horribly wrong, and he had to be rescued and nursed back to health by a healer from a small village on Ryugenshima named Kushinada. She, despite everything, felt affection for Yūkan-sama and found his hidden kindness, and he in turn made his first connection worth protecting. She also confided in him a horrible truth; their village sat close to the dwelling place of Tamata-no-Orochi, and in order to sate her the village had begun to sacrifice their members to the great and terrible tyrant dragon. In this moment did Yūkan-sama's convictions change, feeling deep sympathy for the plight of the village, and he chose to go face the terror alone. For this bravery, and to help balance the darkens of the world, the Ō-Hoshikuzushin blessed Yūkan-sama's rusted sword, turning it into one of the three Starlight Regalia, Kūshokiri. Through many hours of great effort and danger, he was able to fell the horror, cutting off many of her heads and sealing her back within the earth. After this day Yūkan-sama was now known as a hero of incredible bravery, and later a leader of the people against darkness. At the end of his life, instead of his spirit travelling to Yomi, Yūkan-sama ascended to be among the Myōjin. | Hope |
+| Yūkan-sama </br> (勇敢様 / </br> ゆうかん様) | His-Brave-Noble-Foolish-Augustness. Born a child of little note during the Assei Jidai, Yūkan-sama became known as a great swordsman and warrior Rōnin, but also a drunkard lacking in conviction. Living under the tyranny of Tamata-no-Orochi, he chose to make his living taking jobs to cut down threats both worldly and otherworldly, only as long as they paid the right price. This lasted until a duel went horribly wrong, and he had to be rescued and nursed back to health by a healer from a small village on Ryugenshima named Kushinada. She, despite everything, felt affection for Yūkan-sama and found his hidden kindness, and he in turn made his first connection worth protecting. She also confided in him a horrible truth; their village sat close to the dwelling place of Tamata-no-Orochi, and in order to sate her the village had begun to sacrifice their members to the great and terrible tyrant dragon. In this moment did Yūkan-sama's convictions change, feeling deep sympathy for the plight of the village, and he chose to go face the terror alone. For this bravery, and to help balance the darkens of the world, the Ō-Hoshikuzushin blessed Yūkan-sama's rusted sword, turning it into one of the three Starlight Regalia, Kūshokiri. Through many hours of great effort and danger, he was able to fell the horror, cutting off many of her heads and sealing her back within the earth. After this day Yūkan-sama was now known as a hero of incredible bravery, and later a leader of the people against darkness. At the end of his life, instead of his spirit travelling to Yomi, Yūkan-sama ascended to be among the Myōjin. | Hope |
 
 }}
 
@@ -737,7 +737,7 @@ The Sumiriku calendar marks Year 0 as the year of the ascension of the first Emp
 
 ## (明け方代, 'Dawning Era')
 
-### ??? BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:438px,left:55px,width:375px,mix-blend-mode:normal}
+### ??? BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:447px,left:55px,width:375px,mix-blend-mode:normal}
 
 The Akegata Jidai is the first era as it begins at the earliest moment in all of history. Before this era there was nothing but stillness, where not even light nor time flowed. From a single point of darkness at this beginning of time, the starlight of Hoshikuzuten burst forth, the moment that is credited for the creation of all that is. This starlight became the </br>Ō-Hoshikuzushin, the Zodiac beings and first of the Kami, who proceeded to create the map of the world. This dawn of the universe, the spark of starlight and the painting of the great world map by the Ō-Hoshikuzushin, is said to have taken uncountable millennia, yet passed in the blink of an eye. This era ended after the </br>Ō-Hoshikuzushin finished their drawing of the world and created the first Myōjin, the couple Yōzanagi-sama and Inzanami-sama, to be the world's guardians and caretakers.
 
@@ -745,7 +745,7 @@ The Akegata Jidai is the first era as it begins at the earliest moment in all of
 
 ## (開花時代, 'Blooming Era')
 
-### Ended ~700 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:887px,left:55px,width:375px,mix-blend-mode:normal}
+### Ended ~700 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:896px,left:55px,width:375px,mix-blend-mode:normal}
 
 After Yōzanagi-sama and Inzanami-sama had been placed as the highest Myōjin, the world began to flourish under their care. Together they brought life and death to the world, encouraged the presence of the great and mystical Kami, and grew all the creatures and peoples who dwelled within. They also brought up many new Myōjin to join their pantheon in Kumonoue, including their children, Netsu-sama and Mikazuki-sama. They, with the rest of their pantheon, often shared the land with their creations, descending into the world on Niji-no-Ukihashi, the Floating Rainbow Bridge; they came to share their knowledge and skills, as well as to protect Sumiriku, leading the people against supernatural threats that sought to pray on the fledgling world. After them they left the Relics of Kumonoue, items among Sumiriku's Sacred Treasures.
 
@@ -787,7 +787,7 @@ On one fateful day the the greatest of these dangers revealed themselves - the O
 
 The Blood War began the moment the Oni shattered the barrier between realms. No longer were we safe, safely separated from danger; the Oni were here, and they were coming. Using their dark magic they blotted out the sky, protecting them from the radiance of the twin suns and forcing the world into endless night. Their aim was to feast on spirits, to gorge themselves on our and the Kami's lifeblood alike. The Oni came as a chaotic swarm, but quickly organised; lesser Oni started to follow the leadership of commanders and lords, such as the fearsome Daimyō Asudeu.
 
-During this carnage there was a Kitsune woman named Tomomi-sama, an oracle and mother who lived in Ochinodojima, in a place that would become the great capital, Heian-kyō. In her quaint home she alone cared for her two children, as her husband was fighting in the brutal war against the Oni. By foxfire and candlelight she tried to brighten the lives of her children and calm their fears — but the
+During this carnage there was a Kitsune woman named Tomomi-sama, an oracle and mother who lived in Ochinodojima, in a place that would become the great capital, Heian-kyō. In her quaint home she alone cared for her two children, as her husband was fighting in the brutal war against the Oni. By foxfire and candlelight she tried to brighten the lives of her children and calm their fears—but the
 
 }}
 
@@ -797,7 +797,7 @@ During this carnage there was a Kitsune woman named Tomomi-sama, an oracle and m
 
 darkness could not be held back forever. Through her scrying she saw the armies of Makoku approaching, ready to assault her home.
 
-Tomomi-sama found the time to hide her children, to tell them bedtime stories, to sing lullabies, and to calm their nerves — she knew the Oni hunted by sensing fear. After she believed they were safe and hidden she attempted to come up with some sort of plan, but her mind only came up blank. It was at this moment that a spirit of starlight revealed itself to her, in the form of a small fox. Out of desperation she followed the little herald through her home, which led her to an antique heirloom mirror. Curious, she lifted up the mirror and dusted it of, causing it to begin to shine with sparkling starlight. Inside the refection of the mirror Tomomi-sama saw something she recognised as an oracle; she saw truth, the divined understanding of her past and future revealed to her. What she witnessed in the mirror was a manifestation of what she had feared most, that her husband had been lost in the Oni rampage. However she also received a premonition of hope, that the horde would be pushed back, light would return to the sky, and that somehow she would bring about this future. Seeing this she set into action.
+Tomomi-sama found the time to hide her children, to tell them bedtime stories, to sing lullabies, and to calm their nerves—she knew the Oni hunted by sensing fear. After she believed they were safe and hidden she attempted to come up with some sort of plan, but her mind only came up blank. It was at this moment that a spirit of starlight revealed itself to her, in the form of a small fox. Out of desperation she followed the little herald through her home, which led her to an antique heirloom mirror. Curious, she lifted up the mirror and dusted it of, causing it to begin to shine with sparkling starlight. Inside the refection of the mirror Tomomi-sama saw something she recognised as an oracle; she saw truth, the divined understanding of her past and future revealed to her. What she witnessed in the mirror was a manifestation of what she had feared most, that her husband had been lost in the Oni rampage. However she also received a premonition of hope, that the horde would be pushed back, light would return to the sky, and that somehow she would bring about this future. Seeing this she set into action.
 
 When the Oni arrived Tomomi-sama was ready to face them head on. Wielding the mirror, she forced the approaching monsters to stare into its preordaining reflection. She anticipated that this would cause the Oni to flee in terror, but what she did not expect was a ray of radiant sunlight to emit from the mirror, burning away the army where they stood. She came to understand that this mirror was a blessing from Hoshikuzuten, a unique and sacred artifact, which she named Tasogare-no-Kagami (黄昏の鏡, 'Mirror of Twilight'). With her wits and the gift of Tasogare-no-Kagami she was able to help push back the Oni from the land, end the endless night the world was under, and seal away the demons back in the pit they crawled out of. Thus, under the light of the Twin Suns, ends the Tale of the Blood War, and of the sagacious Tomomi-sama."
 
@@ -820,7 +820,7 @@ When the Oni arrived Tomomi-sama was ready to face them head on. Wielding the mi
 
 "In this Era, on a tropical northern island, there was an island lord who lived with his daughter, Princess Kazuko-hime. Though her father was seen as a selfish leader, Kazuko-hime was beloved by the people of her island; from an early age she was an active part of the community, seeking to lend a hand to people whenever she could. When she was just a young child she was very eager to help anyone she could find, though she lacked some of the skills she needed given her age. When she grew she kept this habit up, particularly involving herself in caring for the very young and the elderly of her island.
 
-Despite being peaceful times, a dark tide was approaching their island. The shamans, farmers, and fishers all sensed it — the world around them was breaking at the seams. The fishers noticed the fish clearing out from the sea, before finding the waves crashing into the shore getting taller and taller, getting increasingly violent. The farmers found the ground unusable, as it became beset with more and more frequent quakes. The shamans, with their naturalistic connection, felt this as an augury, an omen, that a calamity was coming.
+Despite being peaceful times, a dark tide was approaching their island. The shamans, farmers, and fishers all sensed it—the world around them was breaking at the seams. The fishers noticed the fish clearing out from the sea, before finding the waves crashing into the shore getting taller and taller, getting increasingly violent. The farmers found the ground unusable, as it became beset with more and more frequent quakes. The shamans, with their naturalistic connection, felt this as an augury, an omen, that a calamity was coming.
 
 Their words of warning, of the destruction that may come to their land, soon reached the lord of the island. Though he acted as if he was greatly mournful about the news, secretly he made quick plans to flee from the island with his family. Upon learning of this Kazuko-hime was distraught; her father was so heartless to abandon his people, people who did not have the resources he did to evacuate from the coming danger, and leave them to the whims of nature. She decided to refuse her father's instructions, and chose to stay with her people until the end came. Until then she helped as many as she could, and wondered if there was a way to prevent this imminent threat. She had a feeling that whatever was causing this must be alive in some way, and so perhaps kindness could be key to her island's survival. When the time cane, when waves tall as mountains towered over the land, Kazuko-hime was waiting at the shore.
 
@@ -834,7 +834,7 @@ Their words of warning, of the destruction that may come to their land, soon rea
 
 From where Kazuko-hime stood, she saw a shooting star descend through the sky towards her, a trail of light blue streaking through the sky behind it. Instinctively she reached out her hand, and the meteor landed gently in her palm. Upon landing, a sphere of blue energy emanated out from the meteor to protect the island, pushing back the incoming tsunami. After the light and noise had subsided, Kazuko-hime adjusted her eyes to see in her hand a magatama, a sacred jewel made from the tear of the constellation dragon. She also saw her island, unscathed from the expected disaster, and something beginning to rise out of the water.
 
-What appeared before her was a kaijū, a bestial titan awoken from its underwater slumber. Within the creature's eyes Kazuko-hime say rage, but she also saw confusion, and pain. In that moment she chose to reach out to the creature, stretching out a hand to it and singing to it a traditional tune she learned as a child. The creature, initially set on a path of destruction, became receptive to her, and the hatred in its eyes began to fade. She touched the head of the massive creature as it knelt down and blessed it, and she felt it thank her in its own way. After it turned back into the ocean, leaving their island in safety. From then Princess Kazuko-hime was the new lord of the island, and she always kept with her the magatama she was gifted that day, that became known as Ryūsei-Namida (流星涙, 'Meteor Tear'). Thus ends the tale of the Compassionate Princess."
+What appeared before her was a kaijū, a bestial titan awoken from its underwater slumber. Within the creature's eyes Kazuko-hime saw rage, but she also saw confusion, and pain. In that moment she chose to reach out to the creature, stretching out a hand to it and singing to it a traditional tune she learned as a child. The creature, initially set on a path of destruction, became receptive to her, and the hatred in its eyes began to fade. She touched the head of the massive creature as it knelt down and blessed it, and she felt it thank her in its own way. After it turned back into the ocean, leaving their island in safety. From then Princess Kazuko-hime was the new lord of the island, and she always kept with her the magatama she was gifted that day, that became known as Ryūsei-Namida (流星涙, 'Meteor Tear'). Thus ends the tale of the Compassionate Princess."
 
 {{attribution *The History of Sumiriku*}}
 
@@ -873,7 +873,7 @@ Tamata-no-Orochi's arrival took the Myōjin by surprise, giving her the perfect 
 
 ::::::::::::::::::::::::
 
-For nearly two centuries the people of Sumiriku lived in the shadow of the Tyrant Dragon-Kami. Some attempted to plot, to seek some way end the reign of terror, though their effort was to little avail. Most people instead accepted their plight, attempting to get by and avoid her wrath. This lasted until Yūkan-sama, at the time just a mortal rōnin, climbed to the peak of Kamuy-Kemnu alone and challenged the great tyrant; his partner, Kushinada, was soon to be a sacrifice. Noticing his incredible bravery, as well as the near insurmountable challenge ahead of him, Ō-Seiza-Nezumi appeared before Yūkan-sama, balancing on the blunt edge of his blade. They blessed this blade with their starlight touch, transforming it into the third Starlight Regalia, Kūshokiri (空所切, 'Void Cutter'). After a hard-fought battle, with the combination of his incredible skill and newly-acquired weapon, Yūkan-sama was able to defeat Tamata-no-Orochi. Her many heads were severed and what remained of her was sealed away within the earth, marking the end of her terrible rule, and of the Kaika Jidai.
+&nbsp;For nearly two centuries the people of Sumiriku lived in the shadow of the Tyrant Dragon-Kami. Some attempted to plot, to seek some way end the reign of terror, though their effort was to little avail. Most people instead accepted their plight, attempting to get by and avoid her wrath. This lasted until Yūkan-sama, at the time just a mortal Rōnin (浪人, 'Drifter'), climbed to the peak of Kamuy-Kemnu alone and challenged the great tyrant; his partner, Kushinada, was soon to be a sacrifice. Noticing his incredible bravery, as well as the near insurmountable challenge ahead of him, Ō-Seiza-Nezumi appeared before Yūkan-sama, balancing on the blunt edge of his blade. They blessed this blade with their starlight touch, transforming it into the third Starlight Regalia, Kūshokiri (空所切, 'Void Cutter'). After a hard-fought battle, with the combination of his incredible skill and newly-acquired weapon, Yūkan-sama was able to defeat Tamata-no-Orochi. Her many heads were severed and what remained of her was sealed away within the earth, marking the end of her terrible rule, and of the Kaika Jidai.
 
 ::
 
@@ -906,29 +906,31 @@ Kamuy-Kemnu ('God-Bleed') is the Anagumago name for the tallest mountain in Ryug
 
 ### ~570 - 1 BA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:55px,width:375px,mix-blend-mode:normal}
 
-After his great act, Yūkan-sama continued to live out his days, spending time with his wife and working as a noble rōnin. It was noted that he rarely acknowledging how his bravery had saved the world. When he passed, he ascended to godhood, his deeds venerated enough to place him among the Myōjin.
+After his great act, Yūkan-sama continued to live out his days, spending time with his wife and working as a noble Rōnin. It was noted that he rarely acknowledging how his bravery had saved the world. When he passed, he ascended to godhood, his deeds venerated enough to place him among the Myōjin.
 
 The nation struggled to adjust to the power vacuum left by Tamata-no-Orochi's defeat. Without centralised leadership the people became fractured, and local lords moved in to pick up the pieces. Though there was much greater peace and prosperity than there was under the tyrant, many of these lords, or Daimyō, had learned from her methods. As a result of Tamata-no-Orochi's actions many of the land's treasures and artifacts were lost, being scattered, destroyed, or left to rust in tombs. The people of Sumiriku were also in the process of rebuilding their spiritual connection to the Kami and Myōjin, previously severed by the destruction of shrines and of Niji-no-Ukihashi. Sumiriku's dark age left the people and the land weakened, no longer ready to defend themselves.
 
-It is in this divided time that Tokuzō-tenno was born. The son of humble rice farmers in western Sesujishima, Tokuzō-tenno had felt a strong connection to the spiritual realm from an early age. He sought to learn the ways of Daidō and become a Kannushi, but abandoning the farm and traveling to the nearest shrine complex was not something him and his family could afford. Instead Tokuzō-tenno filled his spare time with reconstructing the local shrine, which had been destroyed in the previous era. While labouring to painstakingly replicate each detail by hand, he also taught others of the Kami and Myōjin, telling tales of these spirits and helping those who listened feel the connection that he felt.
+It is in this divided time that Tokuzō-tennō was born. The son of humble rice farmers in western Sesujishima, Tokuzō-tennō had felt a strong connection to the spiritual realm from an early age. He sought to learn the ways of Daidō and become a Kannushi, but abandoning the farm and traveling to the nearest shrine complex was not something him and his family could afford. Instead Tokuzō-tennō filled his spare time with reconstructing the local shrine, which had been destroyed in the previous era. While labouring to painstakingly replicate each detail by hand, he also taught others of the Kami and Myōjin, telling tales of these spirits and helping those who listened feel the connection that he felt.
 
-When complete, the shrine stood as remarkable symbol of individual dedication and worship. As he gazed at his years of work, Tokuzō-tenno was stunned to find himself greeted by an unusual visitor — a fox spirit sent by Kajin-sama herself. The Myōjin had a vital mission for him, she explained. The world needed a unifier, a spiritual centre, someone to be a voice for the Kami. Tokuzō-tenno understood the gravity of this responsibility but, despite not fully knowing the task set before him, he was quick to accept.
+When complete, the shrine stood as remarkable symbol of individual dedication and worship. As he gazed at his years of work, Tokuzō-tennō was stunned to find himself greeted by an unusual visitor—a fox spirit sent by Kajin-sama herself. The Myōjin had a vital mission for him, the fox explained. The world needed a unifier, a spiritual centre, someone to be a voice for the Kami. Tokuzō-tennō understood the gravity of this responsibility but, despite not fully knowing the task set before him, he was quick to accept.
 
-The fox said that to be ordained as the leader of Sumiriku and its people he would need to gather the Starlight Regalia, the treasures left to the world by the Ō-Hoshikuzushin. She believed that with the holy power of these relics in Tokuzō-tenno's position both mortals and spirits would accept him as their true ruler and rally around him no matter what. However, she also cautioned him that if could not retrieve these treasures, the people of Sumiriku may be in great peril. On the mainland, across Kaminoumi, the fearsome Sunset Horde had conquered much of the region. Now, the nomadic warrior tribe had set their next target to cross the sea and invade Sumiriku. If Tokuzō-tenno was unable to wield the power of the Regalia the people would be swiftly crushed by the Horde.
+The fox said that to be ordained as the leader of Sumiriku and its people he would need to gather the Starlight Regalia, the treasures left to the world by the Ō-Hoshikuzushin. She believed that with the holy power of these relics in Tokuzō-tennō's possession both mortals and spirits would accept him as their true ruler and rally around him no matter what. However, she also cautioned him that if could not retrieve these treasures, the people of Sumiriku may be in great peril. On the mainland, across Kaminoumi, the fearsome Sunset Horde had conquered much of the region. Now, the nomadic warrior tribe had set their next target to cross the sea and invade Sumiriku. If Tokuzō-tennō was unable to wield the power of the Regalia the people would be swiftly crushed by the Horde.
 
-<!-- To aid in his quest, the fox gifted Tokuzō-tenno a golden Roc called Kinyoku (金翼, 'Golden Wing'), for him to soar through the skys of Sumiriku upon. Tokuzō-tenno saddled the glorious creature and took off on his mission with great haste. He knew well the tales of these treasures, how the descended from the highest heavens at times of great need, and he also knew the peoples these treasures were gifted to, peoples spread far and wide across Sumiriku. He traveled to these places in turn, the northern tropics of Sanzaishima, the flat plains of Ochinodojima, and the southern peaks of Ryugenshima, hoping to learn of some rumors or stories, clues as to what happened to these relics through the centuries. Instead he found that each one was kept safe in a family home or public shrine, still treasured by their native communities and worshiped so many generations since their arrival. Despite being welcomed by these communities, Tokuzō-tenno knew that they would be hesitant to part with something they held so dear, though the fate of the land required it.
+<!-- TODO - MAKE MORE VAGUE -->
 
-He did not know if he would be able to take the treasures by force, or steal them in the night and leave before anyone saw, but he knew deep down that if his task was to be a unifier then he must act accordingly. A thief or warlord might take from their people but a true leader instead gives, and builds the trust of those they lead. Tokuzō-tenno spoke openly to these communities, try to empathetically explain the coming danger and the role they could have in preventing it. He also engaged in their traditions which he knew well, and used his faith to help reconnect people with the spiritual realm, to show them the incredible blessings they had to protect. By years end he had built the trust and admiration of not just these places but much of the population of Sumiriku, and was blessed with the Starlight Regalia, Ryūsei-Namida, Tasogare-no-Kagami, and Kūshokiri. With the Starlight Regalia collected, Tokuzō-tenno led a gathering of soldiers and warriors to the shore, ready to repel the coming invasion.
+<!-- To aid in his quest, the fox gifted Tokuzō-tennō a golden Roc called Kinyoku (金翼, 'Golden Wing'), for him to soar through the skys of Sumiriku upon. Tokuzō-tennō saddled the glorious creature and took off on his mission with great haste. He knew well the tales of these treasures, how the descended from the highest heavens at times of great need, and he also knew the peoples these treasures were gifted to, peoples spread far and wide across Sumiriku. He traveled to these places in turn, the northern tropics of Sanzaishima, the flat plains of Ochinodojima, and the southern peaks of Ryugenshima, hoping to learn of some rumors or stories, clues as to what happened to these relics through the centuries. Instead he found that each one was kept safe in a family home or public shrine, still treasured by their native communities and worshiped so many generations since their arrival. Despite being welcomed by these communities, Tokuzō-tennō knew that they would be hesitant to part with something they held so dear, though the fate of the land required it.
 
-Before long, the first of the horde's ships made landfall, where Sumiriku's army was prepared to meet them. These units were quickly cut down by sword and spear, and those that lived found themselves without the reinforcements they had expected. Instead, their ships were thrown off course by the sudden appearance of swirling typhoons and whirlpools — On Tokuzō-tenno's command even the Kami fought to protect the land. Some ships managed to turn and flee from the carnage, the rest found themselves ripped apart, dragged under the waves, or met with swift death on the land. Before long the battle was over, the united nation of Sumiriku victorious. Never again would an army invade their shores, not while the union prospered.
+He did not know if he would be able to take the treasures by force, or steal them in the night and leave before anyone saw, but he knew deep down that if his task was to be a unifier then he must act accordingly. A thief or warlord might take from their people but a true leader instead gives, and builds the trust of those they lead. Tokuzō-tennō spoke openly to these communities, try to empathetically explain the coming danger and the role they could have in preventing it. He also engaged in their traditions which he knew well, and used his faith to help reconnect people with the spiritual realm, to show them the incredible blessings they had to protect. By years end he had built the trust and admiration of not just these places but much of the population of Sumiriku, and was blessed with the Starlight Regalia, Ryūsei-Namida, Tasogare-no-Kagami, and Kūshokiri. With the Starlight Regalia collected, Tokuzō-tennō led a gathering of soldiers and warriors to the shore, ready to repel the coming invasion.
 
-After the battle all agreed that Tokuzō-tenno should be Sumiriku's first leader, with domain over both body and spirit. Within the new city of Heian-kyō, near the finding place of Tasogare-no-Kagami, a grand palace was built to be the home of Tokuzō-tenno and his family, and to be the seat of power for the nation. On that year's summer solstice, within the inner sanctum of the palace, a coronation ceremony was held to ordain Tokuzō-tenno as the first Emperor of Sumiriku. The glory of the Starlight Regalia as well as the suns' zenith flowed into Tokuzō-tenno, granting him a unparalleled spiritual connection. This power, along with the symbols of the palace, the Myōjin Throne, and the Starlight Regalia, these all became representations of the Emperor's right to rule. This sacred day was known as the first Shōtenbi (昇天日, 'Ascension Day'), and marked a joyous end of the divided era. 
+Before long, the first of the horde's ships made landfall, where Sumiriku's army was prepared to meet them. These units were quickly cut down by sword and spear, and those that lived found themselves without the reinforcements they had expected. Instead, their ships were thrown off course by the sudden appearance of swirling typhoons and whirlpools — On Tokuzō-tennō's command even the Kami fought to protect the land. Some ships managed to turn and flee from the carnage, the rest found themselves ripped apart, dragged under the waves, or met with swift death on the land. Before long the battle was over, the united nation of Sumiriku victorious. Never again would an army invade their shores, not while the union prospered.
 
- Stealing would never rally the people to his cause, would never make what he felt a true leader should be.-->
+After the battle all agreed that Tokuzō-tennō should be Sumiriku's first leader, with domain over both body and spirit. Within the new city of Heian-kyō, near the finding place of Tasogare-no-Kagami, a grand palace was built to be the home of Tokuzō-tennō and his family, and to be the seat of power for the nation. On that year's summer solstice, within the inner sanctum of the palace, a coronation ceremony was held to ordain Tokuzō-tennō as the first Emperor of Sumiriku. The glory of the Starlight Regalia as well as the suns' zenith flowed into Tokuzō-tennō, granting him a unparalleled spiritual connection. This power, along with the symbols of the palace, the Myōjin Throne, and the Starlight Regalia, these all became representations of the Emperor's right to rule. This sacred day was known as the first Shōtenbi (昇天日, 'Ascension Day'), and marked a joyous end of the divided era. 
 
-To aid in his quest, the fox gifted Tokuzō-tenno a golden Roc called Kinyoku (金翼, 'Golden Wing'), upon which he soared through the skies with great haste. He knew well the tales of the Starlight Regalia, how the descended from the highest heavens at times of great need. He traveled to these places from these stories in turn, the northern tropics of Sanzaishima, the flat plains of Ochinodojima, and the southern peaks of Ryugenshima, hoping to learn of some rumors, clues as to what happened to these relics through the centuries. Instead he found that, for each one, it was being kept safe in an ancestral home or public shrine, having been passed down through generations of descendants. Though he was welcomed by these communities, Tokuzō-tenno knew that they would be hesitant to part with something they treasured so dear, even with the fate of the land required it.
+Stealing would never rally the people to his cause, would never make what he felt a true leader should be.-->
 
-He did not know if he would be able to take each Regalia by force, or steal them in the night and leave without a trace, but he felt in his soul that his task was to be a unifier, and so he must act as one. Tokuzō-tenno instead spoke openly to these communities, trying to empathetically explain the coming danger and the role they could have in preventing it. He also engaged in their traditions that he knew well, and used his faith to help reconnect people with the spiritual realm, showing them the incredible blessings they had to protect. By years end he had built the trust and admiration of not just these places but much of the population of Sumiriku, and
+To aid in his quest, she gifted Tokuzō-tennō a golden Roc called Kinyoku (金翼, 'Golden Wing'), upon which he soared through the skies with great haste. He knew well the tales of the Starlight Regalia, how they descended from the highest heavens at times of great need. He traveled to these places from these stories in turn, the northern tropics of Sanzaishima, the flat plains of Ochinodojima, and the southern peaks of Ryugenshima, hoping to learn of some rumors, clues as to what happened to these relics through the centuries. Instead he found that, for each one, it was being kept safe in an ancestral home or public shrine, having been passed down through generations of descendants. Though he was welcomed by these communities, Tokuzō-tennō knew that they would be hesitant to part with something they treasured so dear, even with the fate of the land required it.
+
+He did not know if he would be able to take each Regalia by force, or steal them in the night and leave without a trace, but he felt in his soul that his task was to be a unifier, and so he must act as one. Tokuzō-tennō instead spoke openly to these communities, trying to empathetically explain the coming danger and the role they could have in preventing it. He also engaged in their traditions that he knew well, and used his faith to help reconnect people with the spiritual realm, showing them the incredible blessings they had to protect. By year's end he had built the trust and admiration of not just these places but much of the population of Sumiriku, and
 
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
@@ -937,31 +939,31 @@ He did not know if he would be able to take each Regalia by force, or steal them
 
 \page
 
-was granted the Starlight Regalia, Ryūsei-Namida, Tasogare-no-Kagami, and Kūshokiri. With the treasures collected, Tokuzō-tenno amassed a gathering of soldiers and warriors and led them to the shore.
+was granted the Starlight Regalia, Ryūsei-Namida, Tasogare-no-Kagami, and Kūshokiri. With the treasures collected, Tokuzō-tennō amassed a gathering of soldiers and warriors and led them to the shore.
 
-Before long, the first of the horde's ships made landfall, where Sumiriku's army was prepared to meet them. These units were quickly cut down by sword and spear, and those that lived found themselves without the reinforcements they had expected. Instead, their ships were thrown off course by the sudden appearance of swirling typhoons and whirlpools — On Tokuzō-tenno's command even the Kami fought to protect the land. Some ships managed to turn and flee from the carnage, the rest found themselves ripped apart, dragged under the waves, or met with swift death on the land. Before long the battle was over, the united nation of Sumiriku victorious. Never again would an army invade their shores, not while the union prospered.
+Before long, the first of the horde's ships made landfall, where Sumiriku's army was prepared to meet them. These units were quickly cut down by sword and spear, and those that lived found themselves without the reinforcements they had expected. Instead, their ships were thrown off course by the sudden appearance of swirling typhoons and whirlpools—on Tokuzō-tennō's command even the Kami fought to protect the land. Some ships managed to turn and flee from the carnage, the rest found themselves ripped apart, dragged under the waves, or met with swift death on the land. Before long the battle was over, the united nation of Sumiriku victorious. Never again would an army invade their shores, not while the union prospered.
 
-After the battle all agreed that Tokuzō-tenno should be Sumiriku's first leader, with domain over both body and spirit. Within the new city of Heian-kyō, near the finding place of Tasogare-no-Kagami, a grand palace was built to be the home of Tokuzō-tenno and his family, and to be the seat of power for the nation. On that year's summer solstice, within the inner sanctum of the palace, a coronation ceremony was held to ordain Tokuzō-tenno as the first Emperor of Sumiriku. The glory of the Starlight Regalia as well as the suns' zenith flowed into Tokuzō-tenno, granting him a unparalleled spiritual connection. This power, along with the symbols of the palace, the Myōjin Throne, and the Starlight Regalia, these all became representations of the Emperor's right to rule. This sacred day was known as the first Shōtenbi (昇天日, 'Ascension Day'), and marked a joyous end of the divided era.
+After the battle all agreed that Tokuzō-tennō should be Sumiriku's first leader, with domain over both body and spirit. Within the new city of Heian-kyō, near the finding place of Tasogare-no-Kagami, a grand palace was built to be the home of Tokuzō-tennō and his family, and to be the seat of power for the nation. On that year's summer solstice, within the inner sanctum of the palace, a coronation ceremony was held to ordain Tokuzō-tennō as the first Emperor of Sumiriku. The glory of the Starlight Regalia as well as the suns' zenith flowed into Tokuzō-tennō, granting him a unparalleled spiritual connection. This power, along with the symbols of the palace, the Myōjin Throne, and the Starlight Regalia, these all became representations of the Emperor's right to rule. This sacred day was known as the first Shōtenbi (昇天日, 'Ascension Day'), and marked a joyous end of the divided era.
 
-{{position:absolute,top:775px,left:450px,margin-bottom:-30px
+{{position:absolute,top:805px,left:75px,margin-bottom:-30px
 
 ##### The failed invasion of the Sunset Horde
 
 }}
 
-{{imageMaskEdge1,--offset:31%,--rotation:0
+{{imageMaskEdge1,--offset:33%,--rotation:0
   ![invasion](https://www.fujiarts.com/japanese-prints/k358/083k358f.jpg){position:aboslute,top:770px,left:-10px,width:105%}
 }}
 
 <!-- TODO - FINISH REWRITE TO SHOW THAT HE LEARNED TO NEGOTIATE WITH PEOPLE -->
 
-<!-- Tokuzō-tenno began his mission with great haste, scouring the far reaches of Sumiriku to find the Starlight Regalia. As he traveled, he met with many locals and discussed with them folk tales and rumours, clues to the whereabouts of these great treasures.
+<!-- Tokuzō-tennō began his mission with great haste, scouring the far reaches of Sumiriku to find the Starlight Regalia. As he traveled, he met with many locals and discussed with them folk tales and rumours, clues to the whereabouts of these great treasures.
 
 He used his skills of empathy, persuasion, and storytelling to convince the people of the coming danger, and to put aside their petty squabbles and unite as one. He also helped reconnect people with the spiritual realm, to show them the incredible blessings they had to protect. Over the course of a year he traveled from the southern peaks of Ryugenshima to the flat plains of Ochinodojima and to the northern tropics of Sanzaishima, connecting with the native societies and peoples there in a way few people had before — as a gesture of goodwill they entrusted him with Kūshokiri, the Tasogare-no-Kagami, and the Ryūsei-Namida respectively. With the Starlight Regalia collected, and soldiers and warriors gathered with a common goal, the people were ready to repel the coming invasion.
 
-When the first of the horde's ships arrived at the shore, the army of Sumiriku was ready to meet them. The first units were quickly cut down by sword and spear, and those that lived found themselves without the reinforcements they had expected. Instead, their ships were thrown off course by the sudden appearance of swirling typhoons and whirlpools — On Tokuzō-tenno's command even the Kami fought to protect the land. Some ships managed to turn and flee from the carnage, the rest found themselves ripped apart, dragged under the waves, or met with swift death on the land. Before long the battle was over, the united nation of Sumiriku victorious. Never again would an army invade their shores, not while the union prospered.
+When the first of the horde's ships arrived at the shore, the army of Sumiriku was ready to meet them. The first units were quickly cut down by sword and spear, and those that lived found themselves without the reinforcements they had expected. Instead, their ships were thrown off course by the sudden appearance of swirling typhoons and whirlpools — On Tokuzō-tennō's command even the Kami fought to protect the land. Some ships managed to turn and flee from the carnage, the rest found themselves ripped apart, dragged under the waves, or met with swift death on the land. Before long the battle was over, the united nation of Sumiriku victorious. Never again would an army invade their shores, not while the union prospered.
 
-After the battle all agreed that Tokuzō-tenno should be Sumiriku's first leader, with domain over both body and spirit. Within the new city of Heian-kyō, near the finding place of Tasogare-no-Kagami, a grand palace was built to be the home of Tokuzō-tenno and his family, and to be the seat of power for the nation. On that year's summer solstice, within the inner sanctum of the palace, a coronation ceremony was held to ordain Tokuzō-tenno as the first Emperor of Sumiriku. The glory of the Starlight Regalia as well as the suns' zenith flowed into Tokuzō-tenno, granting him a unparalleled spiritual connection. This power, along with the symbols of the palace, the Myōjin Throne, and the Starlight Regalia, these all became representations of the Emperor's right to rule. This sacred day was known as the first Shōtenbi (昇天日, 'Ascension Day'), and marked a joyous end of the divided era. -->
+After the battle all agreed that Tokuzō-tennō should be Sumiriku's first leader, with domain over both body and spirit. Within the new city of Heian-kyō, near the finding place of Tasogare-no-Kagami, a grand palace was built to be the home of Tokuzō-tennō and his family, and to be the seat of power for the nation. On that year's summer solstice, within the inner sanctum of the palace, a coronation ceremony was held to ordain Tokuzō-tennō as the first Emperor of Sumiriku. The glory of the Starlight Regalia as well as the suns' zenith flowed into Tokuzō-tennō, granting him a unparalleled spiritual connection. This power, along with the symbols of the palace, the Myōjin Throne, and the Starlight Regalia, these all became representations of the Emperor's right to rule. This sacred day was known as the first Shōtenbi (昇天日, 'Ascension Day'), and marked a joyous end of the divided era. -->
 
 \column
 
@@ -971,21 +973,30 @@ After the battle all agreed that Tokuzō-tenno should be Sumiriku's first leader
 
 ### 0 - 1851 AA ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:400px,width:375px,mix-blend-mode:normal}
 
-:
+Unification was a slow and steady process. Word spread far of the first Shōtenbi and of Sumiriku's new Emperor, the one blessed by the Kami. Despite—or perhaps because of—the near millennia of strife the people had lived through, some were hesitant to accept a new ruler. Tokuzo-tennō knew, as he had shown before his ascension, that a true leader is made not by feats of strength or holy blessings, but by the faith of their people. To this end he set out again, to spread the good word of Sumiriku's newest era.
 
-TODO
+In his travels he brought all people into his fold, into what could now truly be considered the nation of Sumiriku. To delegate responsibility communities still followed the decrees of their local lords, giving each region under the Emperor some amount of autonomy. These people became Daimyō, leaders of familial land-owning clans and delegates to the imperial court. He also popularised the practice of Daidō, making it the nation's official religion.
 
-:
+Once this nation and its government had been established Sumiriku entered a period of long-lasting stability. It was not a time without strife, but one with hope in greater measure. Tokuzo-tennō passed away shortly after seeing the unified nation, his soul recognising his journey was complete—he was buried and enshrined at the home-town shrine he had build those many decades prior. He left the position and responsibility of Emperor, the rites of the ascension and the Starlight Regalia, to his only daughter, Otoha-tennō. Thus began the imperial line, where the role of Sumiriku's spiritual leader would be passed from parent to child for all of history.
+
+<!-- Unification was a slow and steady process. Word began to spread of Sumiriku's first emperor, of how he defended the land from invaders, of his spiritual connection, and his recent coronation. Despite—or perhaps because of—the near millennia of strife the nation had lived through, many were hesitant to accept a new great ruler. Tokuzo-tennō knew, as he had known before his ascension, that a true leader is made not by feats of strength or holy blessings, but by the faith of their people. To this end he set out again, this time to spread the good word of his rule, of Sumiriku's newest era.
+
+In his travels he brought all people into his fold, into what could now truly be considered the nation of Sumiriku. To delegate responsibility communities still followed the decrees of their local lords or elders, giving each region under the emperor some amount of autonomy. He also spread and popularised the practice of Daidō, making it the nation's official religion. -->
+
+{{pageNumber,auto}}
+{{footnote PART 1 | HISTORY AND RELIGION}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
+
+&nbsp;Over generations the responsibility of the Emperor waned. They were still the voice of the Myōjin, the one who cared for both spirit and mortal, and they were also the muse and patron for a great variety of art, poetry, and culture. However, as time passed and the population grew, conflict returned, conflict that could not be resolved with artistic pleasantries. To defend themselves people turned to the armies of their Daimyō or to private militias, led by a noble class of warrior called the Samurai (侍). As these groups became more and more responsible for the lives of the citizens their power and influence grew, an influence that could soon surpass even the Emperor.
 
 #### The Tale of the Emperor's Climb - TODO
 
 {{quote
 
-The birth of the Emperor's daughter was a small miracle.
-
-Otoha-tenno
-
-Test - TODO
+"The birth of the Emperor's daughter was a small miracle."
 
 {{attribution *The History of Sumiriku*}}
 
@@ -994,7 +1005,7 @@ Test - TODO
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -1006,7 +1017,12 @@ Test - TODO
 
 TODO
 
-\column
+{{pageNumber,auto}}
+{{footnote PART 1 | HISTORY AND RELIGION}}
+
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
 
 ## Koware Jidai - TODO
 
@@ -1014,7 +1030,7 @@ TODO
 
 ## 'Shattered States Era')
 
-### Ongoing (2128 - 2254+ AA) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Ongoing (2128 - 2254+ AA) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 TODO
 
@@ -2457,7 +2473,7 @@ Your carapace armour has developed a protection against magical threats. While R
 
 You have become the pure embodiment of gigantic, destructive power. When you enter a Rage, you can choose to titanically empower your rage. When you do so, you grow to Huge if you were not already, and you gain Temporary Hit Points as if you used your Titan's Slumber feature. While your Rage persists, your Speed increases to 50 feet, you cannot be moved, knocked Prone, or have your Speed reduced against your will, and your Unarmed Strikes deal additional damage equal to one roll of your Exploit Die. At the end of this Rage you return to your original size. Once you use this feature, you must finish a Long Rest before you can use it again.
 
-While in this empowered Rage, you use your Bonus Action to end it early, letting out a beam of suppressed energy from inside you. Every creature in a 100 foot long and 10 foot wide line must make a Dexterity Saving Throw against your Exploit Save DC. On a failed save, a creature takes Fire, Force, or Radiant damage (your choice) equal to 5 rolls of your Exploit Die and is Dazed. On a successful save, a creature takes half as much damage and is not Dazed.
+While in this empowered Rage, you use your Bonus Action to end it early, letting out a 100-foot-long, 10-foot-wide Line of suppressed energy from inside you. Every creature in the Line must make a Dexterity Saving Throw against your Exploit Save DC. On a failed save, a creature takes Fire, Force, or Radiant damage (your choice) equal to 5 rolls of your Exploit Die and is Dazed. On a successful save, a creature takes half as much damage and is not Dazed.
 
 :
 
@@ -7093,7 +7109,7 @@ Below is a table of all existing creature types in D&D, alongside the equivalent
 |:--------------|:------------------------------|
 | Aberration    | Ijō (異状) or Uchujin (宇宙人) |
 | Beast         | Yajū (野獣)                   |
-| Celestial     | Kami (神) or Tenno (天の)     |
+| Celestial     | Kami (神) or Tennō (天の)     |
 | Construct     | Jinzō (人造)                  |
 | Dragon        | Ryū (竜)                      |
 | Elemental     | Godaiyō (五大妖)              |
