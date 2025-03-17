@@ -1774,7 +1774,7 @@ The Raijū can take up to two Reactions per round but only one per turn.
 - The target is pushed up to 5 feet away.
 - *Strength Saving Throw:* DC 15, the attacked target. *Failure:* The target has the Prone Condition.
 
-**Drain Vitality.*** The Jiangshi draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 15, a creature grappled by the Jiangshi. *Failure:* 18 (4d8) Necrotic damage. *Success:* Half damage. *Failure or Success:* The Jiangshi regains Hit Points equal to the amount of Necrotic damage dealt.
+***Drain Vitality.*** The Jiangshi draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 15, a creature grappled by the Jiangshi. *Failure:* 18 (4d8) Necrotic damage. *Success:* Half damage. *Failure or Success:* The Jiangshi regains Hit Points equal to the amount of Necrotic damage dealt.
 
 ### Reactions
 
