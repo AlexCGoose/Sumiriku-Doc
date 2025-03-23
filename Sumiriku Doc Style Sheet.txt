@@ -27,7 +27,7 @@
 	font-size  : 95%;
 	background : #fbc98e;
   margin-top    : 1.25em;
-  margin-bottom : 0.25em;
+  margin-bottom : 0.5em;
 }
 
 /* Page footer image - Imgur line coloured in Sumiriku Orange */
@@ -90,7 +90,15 @@
 	font-size      : .45cm;
 	padding-bottom : 0.2em;
 	border-bottom  : 2px solid #f7931e;
-  	margin-top     : 0.8em;
+  margin-top     : 0em;
+}
+
+.page p + h3 {
+  margin-top     : 0.8em;
+}
+
+.page h2 + h3 {
+  margin-top     : 0.2em;
 }
 
 /*Heading settings for H4 - Sets font and size */
@@ -206,14 +214,9 @@
 
 /* Creates a header with no underline and no top margin */
 #date-heading h3 {
-  margin-top     : 0em;
-  border-bottom  : 0px;
-}
-
-/* Correctly sets headers at the start of the first column/for headings directly after h2 */
-#new-section h3 {
-  margin-top     : 0em;
-  margin-bottom  : 0.375em;
+	margin-top     : 0em;
+	border-bottom  : 0px;
+  margin-bottom : 0.2em;
 }
 
 
@@ -546,8 +549,13 @@
     font-size : inherit;
   }
   h3 {
+    margin-top     : 0.5em;
     padding-bottom : 0px;
     border-bottom  : 1px solid #c03436
+  }
+  p + p {
+    margin-top: 0.5em; /* half-line gap only between paragraphs */
+    text-indent: 0;
   }
   .block {
     margin-top : 0px;

@@ -34,11 +34,11 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 {{toc
 
-- ### [{{ Foreword - On Culture, Adaptation, and Appropriation}}{{ 3}}](#p4) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:150px,left:55px,width:245px,mix-blend-mode:normal}
+- ### [{{ Foreword - On Culture, Adaptation, and Appropriation}}{{ 3}}](#p4) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:139px,left:55px,width:245px,mix-blend-mode:normal}
 
 - ###### [{{ Language and Translation}}{{ 3}}](#p4)
 
-- ### [{{ PART 1 - History and Religion}}{{ 4}}](#p5) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:210px,left:55px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 1 - History and Religion}}{{ 4}}](#p5) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:200px,left:55px,width:245px,mix-blend-mode:normal}
 
 - ###### [{{ The Land of Ink and Blood}}{{ 5}}](#p6)
 
@@ -88,7 +88,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 {{toc
 
-- ### [{{ PART 2 - Character Options}}{{ 28}}](#p29) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:137px,left:285px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 2 - Character Options}}{{ 28}}](#p29) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:127px,left:285px,width:245px,mix-blend-mode:normal}
 
 - ###### [{{ Character Species}}{{ 29}}](#p30)
 
@@ -165,7 +165,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
   - [{{ Species Feats - TODO}}{{ 83}}](#p84)
   - [{{ General Feats}}{{ 91}}](#p92)
 
-- ### [{{ PART 3 - Geography and Culture}}{{ 96}}](#p97) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:323px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 3 - Geography and Culture}}{{ 96}}](#p97) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:324px,left:515px,width:245px,mix-blend-mode:normal}
 
 - ###### [{{ Maps of Sumiriku and the World - TODO}}{{ 97}}](#p98)
 
@@ -196,7 +196,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 - ###### [{{ Appendix E - Reference Images - TODO}}{{ 141}}](#p142)
 
-- ### [{{ CREDITS - TODO}}{{ 146}}](#p147) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:877px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ CREDITS - TODO}}{{ 146}}](#p147) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:878px,left:515px,width:245px,mix-blend-mode:normal}
 
 - ###### [{{ Special Thanks}}{{ 146}}](#p147)
 
@@ -309,8 +309,8 @@ No matter their size or shape, shrines are typically always at a raised position
 
 }}
 
-{{imageMaskCorner20,--offsetX:45%,--offsetY:-64%,--rotation:0
-  ![shrine](https://i.imgur.com/EgyNG9i.png){position:aboslute,bottom:-10px,right:-130px,width:80%}
+{{imageMaskCorner20,--offsetX:45%,--offsetY:-60%,--rotation:0
+  ![shrine](https://i.imgur.com/EgyNG9i.png){position:aboslute,bottom:-5px,right:-130px,width:80%}
 }}
 
 {{pageNumber,auto}}
@@ -535,11 +535,11 @@ The place for the dead, for spirits who have expended the time they had. The dep
 
 {{#big-column-right
 
-## Makoku (魔国, 'Devil Kingdom')
+## Makoku </br> (魔国, 'Devil Kingdom')
 
 The kingdom of the Oni, beings akin to Yokai but far more twisted and foul. It is believed that the demonic nature of the Oni came to be because Makoku is trapped at the centre of earth, locked away from seeing the suns and the stars. This realm is a place of heat and pain, terrain formed of the harshest crags and chasms and with the most extreme weather one could imagine. No mortal who has happened to venture here has ever returned.
 
-## Godaikai (五大界, 'Five Realms')
+## Godaikai </br> (五大界, 'Five Realms')
 
 Within Sumiriku there are five elements called the Godai, which are considered the building blocks for all matter. These are Earth, Water, Fire, Wind, and Void. All aspects of existence are thought of as coming from one of the five elements. These elements also represent states of emotion and personality, and are frequently channelled in many martial arts and other disciplines. Each of the five realms embody one of these five Godai elements. These realms are:
 
@@ -632,8 +632,6 @@ The Obake Quadruplets are four sibling deities, one of each of Sumiriku's shapes
 :::::::::::::::::::::::
 
 minds and the ability to take humanoid forms. They continued to see each other every year, going their separate ways and learning much of the world around them in the meantime. After 100 years of being an Obake, when the four met again, they ascended to be among the Myōjin.
-
-:
 
 {{imageMaskCorner29,--offsetX:55%,--offsetY:75%,--rotation:0
   ![kumonoue](https://assets.moxfield.net/cards/card-EZyw7-art_crop.jpg){position:aboslute,top:-1px,right:-140px,width:80%}
@@ -1145,11 +1143,7 @@ The Myōjin Netsu-sama is a Nekotaiyō, and the God of the Suns.
 
 \page
 
-{{#new-section
-
 ### Nekotaiyō Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 **Creature Type:** :: Humanoid
 **Size:**          :: Small or Medium (About 3-5 feet tall), chosen when you select this species
@@ -1227,11 +1221,7 @@ The deity Mikazuki-sama is a Soratami, and the God of the Moon.
 
 \page
 
-{{#new-section
-
 ### Tsukibito Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 **Creature Type:** :: Humanoid
 **Size:**          :: Medium (About 5 feet tall)
@@ -1256,7 +1246,7 @@ As a Tsukibito, you gain these special traits:
 
 }}
 
-:::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::
 
 {{#default-table,wide
 
@@ -1472,7 +1462,7 @@ Intelligence, Wisdom, or Charisma is your Spellcasting Ability for these spells 
 
 Akki translates to 'Little Monster', which is a name that Akki have taken with pride. Akki are small, highly territorial beings, with sharp features and a stony carapace of short spikes over their backs. This carapace contains within it a dusting of an ash powder, which an Akki would use to kick up into a cloud of distracting smoke whenever they are threatened. Akki typically have reddish or mud-brown skin, and rarely stand more than a couple of feet tall. They reach adulthood at age 8 and typically live up to 60 years. Akki live within mountainous areas and caves, similar to the Ōgaru, but many of them form tight-knit communities that they fiercely protect.
 
-Akki are known for their appreciation of mayhem, strategy, and fire. They have built many friendships with Godaiyō and Kami of fire, and are also believed to be the first people to discover the existence of explosive powder within their mines. This explosive powder is likely to be the very same that they excrete through their carapace. The secrets they know about these explosive weapons are kept to the Akki, which may be because none of them actually understand it properly. The most common explosive device in Sumiriku, the Shinobi Smoke Bomb, is directly inspired by the Akki's ability to create plumes of ash and smoke as a distraction to escape predators. Akki names are typically double-barreled, rhyming, and with simple syllables, such as Ishi-Ishi, </br>Zo-Zu, or Goro-Goro.
+Akki are known for their appreciation of mayhem, strategy, and fire. They have built many friendships with Godaiyō and Kami of fire, and are also believed to be the first people to discover the existence of explosive powder within their mines. This explosive powder is likely to be the very same that they excrete through their carapace. The secrets they know about these explosive weapons are kept to the Akki, which may be because none of them actually understand it properly. The most common explosive device in Sumiriku, the Shinobi Smoke Bomb, is directly inspired by the Akki's ability to create plumes of ash and smoke as a distraction to escape predators. Akki names are typically double-barreled, rhyming, and with simple syllables, such as Ishi-Ishi, Zo-Zu, or Goro-Goro.
 
 {{imageMaskCorner20,--offsetX:-47%,--offsetY:-59%,--rotation:0
   ![akki-layer-background](https://peteventers.com/images/ChampionsKamigawa/KikiJikiMirrorBreaker.jpg) {position:absolute,bottom:-10px,left:-100px,width:80%,mix-blend-mode:normal}
@@ -1498,11 +1488,11 @@ Akki are known for their appreciation of mayhem, strategy, and fire. They have b
 
 }}
 
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+:::::::::::::::::::::
 
-Gobo-Gobo-sama is an Akki deity, the God of War. Almost every Akki gathering claims to be the only true heir of his clan, Clan Gobo.
+&nbsp;Gobo-Gobo-sama is an Akki deity, the God of War. Almost every Akki gathering claims to be the only true heir of his clan, Clan Gobo.
 
-### Akki Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:439px,left:400px,width:375px,mix-blend-mode:normal}
+### Akki Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:434px,left:400px,width:375px,mix-blend-mode:normal}
 
 **Creature Type:** :: Humanoid
 **Size:**          :: Small (About 2-3 feet tall)
@@ -1577,11 +1567,7 @@ The deity Hanamai-sama is a Tanuki, and the God of Rice.
 
 \page
 
-{{#new-section
-
 ### Tanuki Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 **Creature Type:** :: Humanoid, Obake (Shapechanger)
 **Size:**          :: Small (About 2-3 feet tall)
@@ -1756,11 +1742,7 @@ Kajin-sama is a Kitsune Myōjin, the God of Revelry. Kajin-sama was chosen from 
 
 \page
 
-{{#new-section
-
 ### Kitsune Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 {{#less-big-column
 
@@ -1852,7 +1834,7 @@ The deity Ochiwa-sama is a Kisuru, and the God of Mourning.
 
 }}
 
-:::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::
 
 ### Kisuru Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:554px,left:400px,width:375px,mix-blend-mode:normal}
 
@@ -1936,7 +1918,7 @@ There's a common Sumirikugo saying that goes "When playing cards, the shark at t
 
 \column
 
-:::::::::::::::::::
+::::::::::::::::::::
 
 ### Bunagaya Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:352px,left:400px,width:375px,mix-blend-mode:normal}
 
@@ -1988,7 +1970,7 @@ Text - TODO
 
 \column
 
-:::::::::::::::::::
+::::::::::::::::::::
 
 ### Korpokkur Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:352px,left:400px,width:375px,mix-blend-mode:normal}
 
@@ -2059,9 +2041,9 @@ Ryūson are unique in that they lack representation from among the Myōjin. Tama
 
 }}
 
-:::::::::::::::
+::::::::::::::::
 
-### Ryūson Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:295px,left:55px,width:375px,mix-blend-mode:normal}
+### Ryūson Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:294px,left:55px,width:375px,mix-blend-mode:normal}
 
 **Creature Type:** :: Humanoid
 **Size:**          :: Medium (About 5-7 feet tall)
@@ -2106,7 +2088,7 @@ You can use this Breath Weapon a number of times equal to your Proficiency Bonus
 
 }}
 
-::
+:
 
 &nbsp***Draconic Resistance.*** You have resistance to the damage type associated with your Dragon-Kami Ancestry.
 
@@ -2166,7 +2148,7 @@ Text - TODO
 
 \column
 
-:::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::
 
 ### Human Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:525px,left:400px,width:375px,mix-blend-mode:normal}
 
@@ -2245,11 +2227,7 @@ This infernal bloodline gives the people cursed with it enhanced strength and an
 
 \page
 
-{{#new-section
-
 ### Oni Bloodline Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 **Creature Type:** :: Inherited from base species, Oni (Fiend)
 **Size:**          :: Inherited from base species
@@ -2355,7 +2333,7 @@ However they come into being, what is known is the stories of the Noppera-bō's 
 
 There is a growing paranoia and animosity about the existence of foreign-realm beings, believing them to be a dark perversion of the natural way, so many Noppera-bō choose never to reveal their secret. Noppera-bō are speculated to be hidden all across the nation, potentially in places of great authority.
 
-### Noppera-bō Changeling Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:709px,left:55px,width:375px,mix-blend-mode:normal}
+### Noppera-bō Changeling Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:708px,left:55px,width:375px,mix-blend-mode:normal}
 
 **Creature Type:** :: Inherited from base species, Yōkai (Fey), Obake (Shapechanger)
 **Size:**          :: Inherited from base species
@@ -2436,11 +2414,7 @@ The intersection of skills between Barbarians and Monks are Sumōtori (相撲取
 
 \page
 
-{{#new-section
-
 ### Path of the Kaijū - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 *Wield the Titan's Wrath*
 </br>
@@ -2523,8 +2497,6 @@ This subclass was designed for the Alternate Barbarian by LaserLlama. To adapt t
 
 }}
 
-::
-
 {{note
 
 ##### Note: Where are the Artificers?
@@ -2564,11 +2536,7 @@ In the Equipment section later in this part is a list of instruments specific to
 
 \page
 
-{{#new-section
-
 ### College of Ink - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 *Create Magic with your Brushstrokes*
 </br>
@@ -2781,11 +2749,7 @@ Text - TODO
 
 \page
 
-{{#new-section
-
 ### Sea Domain - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 *Embrace the Boundless Ocean*
 </br>
@@ -3123,9 +3087,9 @@ Text - TODO
 
 Text - TODO
 
-### Spirit Tender - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:442px,left:400px,width:375px,mix-blend-mode:normal}
+### Spirit Trainer - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:442px,left:400px,width:375px,mix-blend-mode:normal}
 
-*Lead your Gathering of Spirit Companions*
+*Lead your Team of Spirit Companions*
 </br>
 Text - TODO
 
@@ -3418,11 +3382,7 @@ On the next page is a table with all Languages known across Sumiriku. Sumirikugo
 
 ## Background Options
 
-{{#new-section
-
-### Carpenter ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:93px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
+### Carpenter ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:97px,left:55px,width:375px,mix-blend-mode:normal}
 
 **Ability Scores:**    :: Strength, Wisdom, Intelligence
 **Feat:**              :: Crafter
@@ -3440,9 +3400,7 @@ A Ono is a hand axe used for carpentry, but is useful in a pinch as a weapon. Se
 
 }}
 
-:
-
-### Diplomat ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:509px,left:55px,width:375px,mix-blend-mode:normal}
+### Diplomat ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:520px,left:55px,width:375px,mix-blend-mode:normal}
 
 **Ability Scores:**    :: Dexterity, Intelligence, Charisma
 **Feat:**              :: Skilled
@@ -3462,8 +3420,6 @@ A Hanko (判子) is a carved wooden stamp that creates a personalised signature 
 
 }}
 
-::
-
 {{note
 
 ##### Note: Igo, the intellectual game
@@ -3472,7 +3428,7 @@ Igo (囲碁) is a board game about surrounding territory played with black and w
 
 }}
 
-### Geisha ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:309px,left:400px,width:375px,mix-blend-mode:normal}
+### Geisha ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:300px,left:400px,width:375px,mix-blend-mode:normal}
 
 **Ability Scores:**    :: Dexterity, Intelligence, Charisma
 **Feat:**              :: Musician
@@ -3491,7 +3447,7 @@ A Kimono is a type of traditional garment worn by many people, of which Geisha w
 }}
 
 {{imageMaskEdge1,--offset:32%,--rotation:0
-  ![geisha](https://cdn.myportfolio.com/146258a1-c5b4-4a64-a44a-93bc9a102f02/7e4fb85e-dc3a-4835-8d3f-041bff0974a9_rw_1920.jpg?h=164f3a46e8d2295915e706538a409d6e){position:absolute,bottom:-1px,width:101%}
+  ![geisha](https://cdn.myportfolio.com/146258a1-c5b4-4a64-a44a-93bc9a102f02/7e4fb85e-dc3a-4835-8d3f-041bff0974a9_rw_1920.jpg?h=164f3a46e8d2295915e706538a409d6e){position:absolute,bottom:-1px,left:-1px,width:101%}
 }}
 
 {{position:absolute,top:810px,left:300px,margin-bottom:-30px
@@ -3507,7 +3463,7 @@ A Kimono is a type of traditional garment worn by many people, of which Geisha w
 
 \page
 
-::::::::::::::::::::::
+:::::::::::::::::::::::
 
 ### Rōnin ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:394px,left:55px,width:375px,mix-blend-mode:normal}
 
@@ -3551,7 +3507,7 @@ Refer to Appendix B for updated Feats, changed for this book.
 
 }}
 
-### Shinobi ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:537px,left:400px,width:375px,mix-blend-mode:normal}
+### Shinobi ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:540px,left:400px,width:375px,mix-blend-mode:normal}
 
 **Ability Scores:**    :: Dexterity, Intelligence, Wisdom
 **Feat:**              :: Dungeon Delver Updated
@@ -3576,11 +3532,7 @@ Shinobi typically wear many layers of wraps, often in earthen tones, to help the
 
 \page
 
-{{#new-section
-
 ### Shrine Keeper ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 **Ability Scores:**    :: Dexterity, Wisdom, Charisma
 **Feat:**              :: Magic Initiate (Cleric)
@@ -3599,7 +3551,7 @@ At a shrine the responsibility of maintenance and of hosting ceremonies falls on
 }}
 
 {{imageMaskEdge1,--offset:18.5%,--rotation:0
-  ![daido](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/77994871-b0ec-4e58-9593-7f996138184e/deccjod-70da74a1-8075-4d4f-b230-42310fdad680.jpg/v1/fill/w_1219,h_656,q_70,strp/shinto_shrine_by_sanyulmi_deccjod-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAzMyIsInBhdGgiOiJcL2ZcLzc3OTk0ODcxLWIwZWMtNGU1OC05NTkzLTdmOTk2MTM4MTg0ZVwvZGVjY2pvZC03MGRhNzRhMS04MDc1LTRkNGYtYjIzMC00MjMxMGZkYWQ2ODAuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.P-Hw8LGArrXswnRs3cyaYqYJKHYjKj-3zgF0Fr6MkRk){position:absolute,bottom:-1px,width:101%}
+  ![daido](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/77994871-b0ec-4e58-9593-7f996138184e/deccjod-70da74a1-8075-4d4f-b230-42310fdad680.jpg/v1/fill/w_1219,h_656,q_70,strp/shinto_shrine_by_sanyulmi_deccjod-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAzMyIsInBhdGgiOiJcL2ZcLzc3OTk0ODcxLWIwZWMtNGU1OC05NTkzLTdmOTk2MTM4MTg0ZVwvZGVjY2pvZC03MGRhNzRhMS04MDc1LTRkNGYtYjIzMC00MjMxMGZkYWQ2ODAuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.P-Hw8LGArrXswnRs3cyaYqYJKHYjKj-3zgF0Fr6MkRk){position:absolute,bottom:-1px,left:-1px,width:101%}
 }}
 
 {{position:absolute,top:680px,left:360px,margin-bottom:-30px
@@ -3647,7 +3599,7 @@ You have been trained in one of Sumiriku's theatre traditions, a historic yet ev
 
 }}
 
-:::::::::::::::::::::::::
+::::::::::::::::::::::::::
 
 ### Yakuza ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:437px,left:55px,width:375px,mix-blend-mode:normal}
 
@@ -3669,7 +3621,7 @@ Hanafuda (花札, 'Flower Cards') are a type of playing cards used for a variety
 
 \column
 
-:::::::::::::::::::::::::
+::::::::::::::::::::::::::
 
 ### Yamabushi ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:437px,left:400px,width:375px,mix-blend-mode:normal}
 
@@ -3848,11 +3800,7 @@ When you hit with a weapon that has the Strong-Draw property, you can add 1 plus
 
 \page
 
-{{#new-section
-
 ### Weapon Descriptions - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 #### Bō (棒)
 
@@ -4083,7 +4031,7 @@ Details for each Armour have been moved into their own Armour Properties, such a
 
 :
 
-### Armour Properties ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:693px,left:400px,width:375px,mix-blend-mode:normal}
+### Armour Properties ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:690px,left:400px,width:375px,mix-blend-mode:normal}
 
 #### Bulky
 
@@ -4163,11 +4111,7 @@ Feats are divided into multiple types. Origin Feats are chosen as part of a Back
 
 ## Species Feats
 
-{{#new-section
-
-### Soul Illuminate ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:633px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
+### Soul Illuminate ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:641px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Species Feat (Prerequisite: Level 4+, Nekotaiyō*)
 </br>You have developed an increasing connection to the power of the twin suns. You gain the following benefits.
@@ -4190,7 +4134,7 @@ All Feats found in the 2024 D&D Player's Handbook are available to use within th
 
 }}
 
-### Lunar Enlightenment ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:270px,left:400px,width:375px,mix-blend-mode:normal}
+### Lunar Enlightenment ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:272px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Species Feat (Prerequisite: Level 4+, Tsukibito)*
 </br>The pale moon has blessed you with an expanded and enhanced mind. You gain the following benefits.
@@ -4224,7 +4168,7 @@ All Feats found in the 2024 D&D Player's Handbook are available to use within th
 
 ![monk-y](https://i.imgur.com/HP73Xgb.png) {position:absolute,left:40px,top:0px,width:300px,margin-bottom:-25px,transform:scaleX(-1)rotate(15deg)}
 
-::::::::::::::::::
+:::::::::::::::::::
 
 ### A Grand Tail ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:336px,left:55px,width:375px,mix-blend-mode:normal}
 
@@ -4286,7 +4230,7 @@ All Feats found in the 2024 D&D Player's Handbook are available to use within th
 
 }}
 
-::::::::::::::::::::::::::
+:::::::::::::::::::::::::::
 
 ### Aura of the Shell ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:452px,left:55px,width:375px,mix-blend-mode:normal}
 
@@ -4330,11 +4274,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 \page
 
-{{#new-section
-
 ### Shapeshifting Trickster ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 *Species Feat (Prerequisite: Level 4+, Tanuki, Kawauso, Kitsune, or Kisuru, not having the Wild Shapeshifting Feat)*
 </br>You have become more adept in using your shape-changing ability to pull pranks and tricks, deceiving people about your true form. You gain the following benefits.
@@ -4375,11 +4315,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 \page
 
-{{#new-section
-
 ### Bountiful Luck ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 *Species Feat (Prerequisite: Level 4+, Bunagaya)*
 </br>Your people have extraordinary luck, which you have learned to mystically lend to your companions when you see them falter. You're not sure how you do it; you just wish it, and it happens. Surely a sign of fortune's favour! You gain the following benefits.
@@ -4431,7 +4367,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 }}
 
-::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::
 
 ### Determined ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:567px,left:55px,width:375px,mix-blend-mode:normal}
 
@@ -4496,11 +4432,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 \page
 
-{{#new-section
-
 ### Yūrei of the Haunt ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 *Species Feat (Prerequisite: Level 4+, Yūrei Manifest, not having the Yūrei of the Hunt feat)*
 </br>You remain in the physical world as a haunting, to terrorise someone who wronged you or to bring bad omens wherever you stay. You gain the following benefits.
@@ -4543,11 +4475,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 \page
 
-{{#new-section
-
 ### Supreme Shifter ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 *Species Feat (Prerequisite: Level 4+, </br>Noppera-bō Changeling)*
 </br>Your ability to disguise yourself for another extends to your whole physiology. You gain the following benefits.
@@ -4566,11 +4494,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 ## General Feats
 
-{{#new-section
-
-### Bōjutsu Master ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:93px,left:400px,width:375px,mix-blend-mode:normal}
-
-}}
+### Bōjutsu Master ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:97px,left:400px,width:375px,mix-blend-mode:normal}
 
 *General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+, Proficiency with Bō)*
 </br>You have honed the art of combat with your Bō, gaining the following benefits.
@@ -4609,7 +4533,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 }}
 
-:::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::
 
 ### Iaijutsu Master ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:552px,left:55px,width:375px,mix-blend-mode:normal}
 
@@ -4624,7 +4548,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 \column
 
-:::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::
 
 ### Kimyōkai Touched ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:552px,left:400px,width:375px,mix-blend-mode:normal}
 
@@ -4642,11 +4566,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 \page
 
-{{#new-section
-
 ### Kunai Expert ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 *General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+, Proficiency with Kunai)*
 </br>You have learned how to turn a Kunai, a simple farming implement, into a honed tool of infiltration and assassination. You gaining the following benefits.
@@ -4695,11 +4615,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 \page
 
-{{#new-section
-
 ### Okizeme Expert ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 *General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+)*
 </br>You have practised at getting the upper hand in a fight by knocking your opponent to the floor, gaining the following benefits.
@@ -4959,11 +4875,7 @@ A day of wish-making. Text - TODO
 
 \page
 
-{{#new-section
-
 ### Ganjitsu (元日, 'New Year's Day') ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 The end of the current year and the beginning of the next. Ganjitsu also falls on the changing of the season, marking the end of winter and beckoning the arrival of a new spring. It is believed that the Myōjin first entered the world during a harsh, endless winter, but their presence warmed the world and new life bloomed around them. Because of this some find a greater connection to the Myōjin on this day, and treat it as a day of worship to them. Others however treat the day as a time for family, to feel present in each other's company, to share in good food, to reminisce on the year past and have hope for the year to come.
 
@@ -4989,7 +4901,7 @@ The end of the current year and the beginning of the next. Ganjitsu also falls o
 
 }}
 
-:::::::::::::::::::::
+::::::::::::::::::::::
 
 ### Hyakki Chitsuki (百鬼血月, 'Hundred Oni Blood Moon') ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:396px,left:400px,width:375px,mix-blend-mode:normal}
 
@@ -5231,11 +5143,11 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 ### Actions
 
 **Multiattack.** You make two attacks: one with your bite and one with your claws.
-:
+
 ***Bite.*** *Melee Attack Roll:* +4 + PB, reach 5ft. *Hit:* 8 (1d8 + 4) Piercing damage.
-:
+
 ***Claws.*** *Melee Attack Roll:* +4 + PB, reach 5ft. *Hit:* 11 (2d6 + 4) Slashing damage.
-:
+
 ***Ground Pound (Recharge 5-6).*** Choose a point on the ground within 10 feet of you. You leap 10 feet into the air and then land forcefully at that point, sending shockwaves through the ground around you. *Dexterity Saving Throw:* DC 12 + PB, each creature on the ground in a 30-foot Emanation. *Failure:* 18 (4d8) Bludgeoning damage and be knocked Prone. If you land on top of a creature they take an extra 9 (2d8) Bludgeoning damage, have Disadvantage on the Dexterity Saving Throw, and are pushed away from you in any direction.
 
 }}
@@ -5299,7 +5211,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 ### Traits
 
 ***Shiny Hunter.*** The River Otter has Advantage on Intelligence (Investigation) checks to track down object
-:
+
 ***Aquatic Ability*** The River Otter can hold its breath for 6 minutes.
 
 ### Actions
@@ -5342,7 +5254,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 ### Traits
 
 ***Shiny Hunter.*** You have Advantage on Intelligence (Investigation) checks to track down object
-:
+
 ***Aquatic Ability*** You can hold your breath for a number of minutes equal to 5 plus your Constitution modifier, minimum of 5.
 
 ### Actions
@@ -5393,15 +5305,15 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 ### Traits
 
 ***Shiny Hunter.*** You have Advantage on Intelligence (Investigation) checks to track down object
-:
+
 ***Aquatic Ability*** You can hold your breath for 8 hours.
 
 ### Actions
 
 **Multiattack.** You make three Tail Smacks.
-:
+
 ***Tail Smack.*** *Melee Attack Roll:* +4 + PB, reach 5ft. *Hit:* 8 (1d8 + 4) Bludgeoning damage. If all three attacks hit a single target they must succeed on a Constitution Saving Throw (DC 12 + PB), or be Dazed until the end of their next turn.
-:
+
 ***Great Wave (Recharge 5-6).*** You conjure forth a rushing torrent of water in a 80-foot-long, 10-foot-wide Line. *Dexterity Saving Throw:* DC 12 + PB, each creature in the Line. *Failure:* 18 (4d8) Bludgeoning damage and be pushed back 20 feet. If the creature collides with a wall, they take an additional 3 (1d6) damage for every 10 feet they were moved. You can travel along the wave, moving to any point along the Line without provoking Opportunity Attacks.
 
 }}
@@ -5461,7 +5373,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 ### Traits
 
 ***Keen Hearing.*** The Fox has Advantage on Wisdom (Perception) checks that rely on hearing.
-:
+
 ***Sly.*** The Fox has Advantage on Dexterity (Stealth) checks.
 
 ### Actions
@@ -5505,7 +5417,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 ### Traits
 
 ***Keen Hearing.*** You have Advantage on Wisdom (Perception) checks that rely on hearing.
-:
+
 ***Sly.*** You have Advantage on Dexterity (Stealth) checks.
 
 ### Actions
@@ -5551,19 +5463,19 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 ### Traits
 
 ***Keen Hearing.*** You have Advantage on Wisdom (Perception) checks that rely on hearing.
-:
+
 ***Sly.*** You have Advantage on Dexterity (Stealth) checks.
-:
+
 ***Predator.*** If you have Advantage on an attack, the attack deals an extra 4 (1d8) damage.
 
 ### Actions
 
 **Multiattack.** You make two attacks: one with your claws and one with your bite.
-:
+
 ***Claws.*** *Melee Attack Roll:* +3 + PB, reach 5ft. *Hit:* 8 (1d8 + 3) Slashing damage.
-:
+
 ***Bite.*** *Melee Attack Roll:* +3 + PB, reach 5ft. *Hit:* 10 (2d6 + 3) Piercing damage.
-:
+
 ***Kitsunebi Flame (Recharge 5-6).*** Blue orbs of soulfire fly out from you to burn at the souls of your enemies. *Dexterity Saving Throw:* DC 11 + PB, three creatures within 60 feet of you. The targets gain no benefit from cover for this Saving Throw. *Failure:* 18 (4d8) Fire damage and the target is Dazed until the end of their next turn. *Success:* Half damage.
 
 }}
@@ -5724,11 +5636,11 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 ### Actions
 
 **Multiattack.** You make two attacks: one with your wing and one with your talons.
-:
+
 ***Wing.*** *Melee Attack Roll:* +3 + PB to hit, reach 5ft., one target. *Hit:* 6 (1d6 + 3) Bludgeoning damage.
-:
+
 ***Talons.*** *Melee Attack Roll:* +3 + PB to hit, reach 5ft., one target. *Hit:* 10 (2d6 + 3) Slashing damage.
-:
+
 ***Soaring Winds (Recharge 5-6).*** You call forth a howling cyclone from your wings. *Strength Saving Throw:* DC 11 + PB, each creature in a 5-foot Emanation. *Failure:* 14 (4d6) Slashing damage and, if the target are Large or smaller, the target is lifted 10 feet into the air before they begin to fall at the start of their turn. *Success:* Half damage and the target is not lifted.
 
 }}
@@ -5799,11 +5711,7 @@ The following is a list of feats that have been updated from their original vers
 
 ## Origin Feats
 
-{{#new-section
-
-### Actor Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:545px,left:400px,width:375px,mix-blend-mode:normal}
-
-}}
+### Actor Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:548px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Origin Feat*
 </br>Skilled at mimicry and dramatics, you gain the following benefits.
@@ -5827,11 +5735,7 @@ Origin Feats can be taken whenever you could take a General Feat, rather than ju
 
 \page
 
-{{#new-section
-
 ### Athlete Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 *Origin Feat*
 </br>You have undergone extensive physical training to gain the following benefits.
@@ -5906,11 +5810,7 @@ Origin Feats can be taken whenever you could take a General Feat, rather than ju
 
 ## Fighting Style Feats
 
-{{#new-section
-
-### Great Weapon Master Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:93px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
+### Great Weapon Master Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:97px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 </br>When you roll damage for an attack you make with a Melee weapon that you are holding with two hands, you can treat any roll less than half their maximum value as instead being half that maximum value. The weapon must have the Two-Handed or Versatile property to gain this benefit.
@@ -5927,11 +5827,7 @@ Origin Feats can be taken whenever you could take a General Feat, rather than ju
 
 }}
 
-{{#new-section
-
-### Dual Wielder Revised ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:326px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
+### Dual Wielder Revised ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:330px,left:55px,width:375px,mix-blend-mode:normal}
 
 *General Feat (Prerequisite: Level 4+, Proficiency with any Martial weapon)*
 </br>You master fighting with two weapons, gaining the following benefits.
@@ -5944,7 +5840,7 @@ Origin Feats can be taken whenever you could take a General Feat, rather than ju
 
 \column
 
-:::::::::::::
+::::::::::::::
 
 ### Elemental Adept Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:265px,left:400px,width:375px,mix-blend-mode:normal}
 
@@ -5999,7 +5895,7 @@ Origin Feats can be taken whenever you could take a General Feat, rather than ju
 
 }}
 
-:::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::
 
 ### Polearm Master (Sumiriku) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:696px,left:55px,width:375px,mix-blend-mode:normal}
 
@@ -6127,11 +6023,7 @@ Below is an list of the spells changed in this document, with a brief descriptio
 
 ## Level 1
 
-{{#new-section
-
-### Chromatic Orb ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:93px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
+### Chromatic Orb ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:97px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 1 Illusion*
 **Casting Time:** :: Action
@@ -6144,7 +6036,7 @@ If you roll the same number on two or more of the d8s, the orb leaps to a differ
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each Spell Slot Level above 1. The orb can leap a maximum number of times equal to the level of the slot expended, and a creature can be targeted only once by each casting of this spell.
 
-### Color Spray ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:580px,left:55px,width:375px,mix-blend-mode:normal}
+### Color Spray ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:584px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 1 Illusion*
 **Casting Time:** :: Action
@@ -6185,11 +6077,7 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 
 \page
 
-{{#new-section
-
 ### Goodberry ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 *Level 1 Conjuration*
 **Casting Time:** :: Action
@@ -6237,11 +6125,7 @@ An invisible barrier of magical force appears and protects you. Until the start 
 
 ## Level 2
 
-{{#new-section
-
-### Aid ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:381px,left:400px,width:375px,mix-blend-mode:normal}
-
-}}
+### Aid ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:385px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Abjuration*
 **Casting Time:** :: Action
@@ -6259,11 +6143,7 @@ Choose up to three creatures within range. Each target's current Hit Points incr
 
 \page
 
-{{#new-section
-
 ### Alter Self ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 *Level 2 Transmutation*
 **Casting Time:** :: Action
@@ -6311,11 +6191,7 @@ This spell reveals that a trap is present and its location. You do learn the gen
 
 \page
 
-{{#new-section
-
 ### Flame Blade ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 *Level 2 Evocation*
 **Casting Time:** :: Bonus Action
@@ -6392,11 +6268,7 @@ Choose a number of willing creatures equal to your Spellcasting Ability modifier
 
 \page
 
-{{#new-section
-
 ### Ray of Enfeeblement ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 *Level 2 Necromancy*
 **Casting Time:** :: Action
@@ -6437,11 +6309,7 @@ The webs are flammable. If the webs are exposed to fire they burn away in 1 roun
 
 ## Level 3
 
-{{#new-section
-
-### Counterspell ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:686px,left:400px,width:375px,mix-blend-mode:normal}
-
-}}
+### Counterspell ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:691px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 3 Abjuration*
 **Casting Time:** :: Reaction, which you take when you see a creature within 60 feet of yourself casting a spell with Verbal, Somatic, or Material components
@@ -6457,11 +6325,7 @@ You attempt to interrupt a creature in the process of casting a spell. The creat
 
 \page
 
-{{#new-section
-
 ### Fear ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 *Level 3 Illusion*
 **Casting Time:** :: 1 Action
@@ -6507,11 +6371,7 @@ The spell ends early if you leave the Emanation or if you cast it again.
 
 \page
 
-{{#new-section
-
 ### Plant Growth ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 *Level 3 Transmutation*
 **Casting Time:** :: Action (Overgrowth) or 8 hours (Enrichment)
@@ -6541,11 +6401,7 @@ When you cast this spell, you can designate creatures to be unaffected by it. Th
 
 ## Level 4
 
-{{#new-section
-
-### Conjure Minor Elementals ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:615px,left:400px,width:375px,mix-blend-mode:normal}
-
-}}
+### Conjure Minor Elementals ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:619px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 4 Conjuration*
 **Casting Time:** :: Action
@@ -6565,11 +6421,7 @@ In addition, the ground in the Emanation is Difficult Terrain for your enemies.
 
 \page
 
-{{#new-section
-
 ### Evard's Black Tentacles ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 *Level 4 Conjuration*
 **Casting Time:** :: Action
@@ -6628,11 +6480,7 @@ The transformation lasts for the duration. The target can choose to end the spel
 
 \page
 
-{{#new-section
-
 ### Stoneskin ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 *Level 4 Abjuration*
 **Casting Time:** :: Action
@@ -6643,11 +6491,7 @@ This spell turns the flesh of a willing creature you touch as hard as stone. Unt
 
 ## Level 5
 
-{{#new-section
-
-### Dream ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:309px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
+### Dream ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:313px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 5 Illusion*
 **Casting Time:** :: 1 minute or Ritual
@@ -6688,11 +6532,7 @@ A Remove Curse,Greater Restoration, or Wish spell ends this spell.
 
 \page
 
-{{#new-section
-
 ### Planar Binding ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 *Level 5 Abjuration*
 **Casting Time:** :: 1 hour
@@ -6731,11 +6571,7 @@ An Invisible wall of force springs into existence at a point you choose within r
 
 ## Level 6
 
-{{#new-section
-
-### Magic Jar ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:93px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
+### Magic Jar ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:97px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 6 Necromancy*
 **Casting Time:** :: 1 minute
@@ -6790,11 +6626,7 @@ When the creature appears, you can telepathically give the creature a single sen
 
 ## Level 7
 
-{{#new-section
-
-### Forcecage ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:93px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
+### Forcecage ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:97px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 7 Conjuration*
 **Casting Time:** :: Action
@@ -6839,11 +6671,7 @@ The simulacrum lasts until it drops to 0 Hit Points, at which point it reverts t
 
 ## Level 8
 
-{{#new-section
-
-### Befuddlement ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:93px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
+### Befuddlement ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:97px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 8 Enchantment*
 **Casting Time:** :: Action
@@ -6856,7 +6684,7 @@ On a failed save, the target takes 10d12 Psychic damage and can't cast spells or
 
 On a successful save, the target takes half as much damage only.
 
-### Control Weather ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:436px,left:55px,width:375px,mix-blend-mode:normal}
+### Control Weather ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:440px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 8 Transmutation*
 **Casting Time:** :: 10 minutes
@@ -6895,11 +6723,7 @@ When the cloud appears, choose a direction. The cloud moves 10 feet in that dire
 
 ## Level 9
 
-{{#new-section
-
-### Prismatic Wall ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:93px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
+### Prismatic Wall ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:97px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 9 Abjuration*
 **Casting Time:** :: Action
@@ -6919,11 +6743,7 @@ The wall, which has AC 10, can be destroyed one layer at a time, in order from r
 
 \column
 
-{{#new-section
-
 ### Shapechange ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
-
-}}
 
 *Level 9 Transmutation*
 **Casting Time:** :: Action
@@ -7053,11 +6873,7 @@ While Dying, you experience the following effects:
 
 \page
 
-{{#new-section
-
 ### Exhausted ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 While Exhausted, you experience the following effects:
 
@@ -7165,11 +6981,7 @@ Below is a table of all existing creature types in D&D, alongside the equivalent
 
 ## Eyes
 
-{{#new-section
-
-### Invisibility ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:566px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
+### Invisibility ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:570px,left:55px,width:375px,mix-blend-mode:normal}
 
 If a creature can somehow see a creature with Invisibility, as with Blindsight or Tremorsense, they don't gain the benefits of Invisibility against that creature.
 
@@ -7255,7 +7067,7 @@ Sign Language is a universal method of non-verbal communication, achieved by usi
 - OR the Spellcasting Focus is a two-handed instrument, where a free hand (that can be holding materials) is needed to play the instrument for the V and S of the spell.
 - If you want to cast a VSM spell with materials that have a cost or are consumed, you can either have a Spellcasting Focus in one hand and the materials in the other or you can have the materials in one hand and leave the other for performing the S components.
 
-### Versatile Weapons ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:878px,left:55px,width:375px,mix-blend-mode:normal}
+### Versatile Weapons ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:876px,left:55px,width:375px,mix-blend-mode:normal}
 
 When an attack is made with a Versatile weapon and your off-hand is free, you can choose to make the Weapon Attack with both hands, using the Versatile damage die for the damage.
 
@@ -7292,11 +7104,7 @@ If a feature lets you or forces you to reroll or otherwise change the result of 
 
 ## Resting and Sleeping
 
-{{#new-section
-
-### Short Rest ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:93px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
+### Short Rest ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:97px,left:55px,width:375px,mix-blend-mode:normal}
 
 A Short Rest is a 10 minute period of downtime, an opportunity for characters to catch their breath and tend to their wounds before continuing. For the duration of a Short Rest you must have at least 1 Hit Point.
 
@@ -7312,7 +7120,7 @@ When you finish the Short Rest, you gain the following benefits.
 
 A Short Rest is stopped by rolling Initiative, casting a spell other than a cantrip, taking or dealing any damage, or travelling from the place of the rest. An interrupted Short Rest confers no benefits, and it must be started over to confer any.
 
-### Sleep ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:614px,left:55px,width:375px,mix-blend-mode:normal}
+### Sleep ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:618px,left:55px,width:375px,mix-blend-mode:normal}
 
 Almost all characters need to sleep to fend off exhaustion. To gain the benefits of a sleep you must spend 6 hours fully asleep, during which you have the Unconscious Condition. This sleep can be broken up by at most 2 hours of light activity, such as standing watch. For the duration of a Sleep you must have at least 1 Hit Point.
 
@@ -7417,11 +7225,7 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 
 \page
 
-{{#new-section
-
 ### Sap ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-}}
 
 *Prerequisite: None*
 </br>

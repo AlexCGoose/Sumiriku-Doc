@@ -66,6 +66,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
       - [{{ Masuzō}}{{ 10}}](#p11)
       - [{{ Makoto}}{{ 12}}](#p13)
       - [{{ Atsuki}}{{ 13}}](#p14)
+      - [{{ Yuxuan}}{{ 14}}](#p15)
     - [{{ The Hyakushima Bandits}}{{ 15}}](#p16)
     - [{{ Hoki Castle}}{{ 16}}](#p17)
       - [{{ Hatsumomo}}{{ 17}}](#p18)
@@ -80,7 +81,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
     - [{{ Generic Foes}}{{ 24}}](#p25)
       - [{{ Samurai and Ashigaru}}{{ 24}}](#p25)
 
-- ### [{{ PART 2 - The Living Lore}}{{ 25}}](#p26) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:794px,left:55px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 2 - The Living Lore}}{{ 25}}](#p26) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:808px,left:55px,width:245px,mix-blend-mode:normal}
 
   - ###### [{{ Letters and Documents}}{{ 26}}](#p27)
   
@@ -119,7 +120,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 Some text
 
-::::::
+::::
 
 {{note
 
@@ -336,7 +337,7 @@ If Wakare is ever broken, the spiritual energy stored within erupts as a wave of
 
 Sumiriku is a dangerous place.
 
-::::::
+::::
 
 {{note
 
@@ -422,7 +423,7 @@ Text about Masuzō
 ### Actions
 
 ***Multiattack.*** Masuzō makes two Martial Arts Attacks.
-:
+
 ***Martial Arts Attack.*** *Melee Attack Roll:* +7, reach 5ft. *Hit:* 8 (1d8 + 4) Bludgeoning damage.
 
 }}
@@ -511,15 +512,15 @@ Text about Makoto
 ### Traits
 
 ***Spellcaster.*** Makoto is a 6th Level Ranger, and has 6 spells prepared. Her Spell Save DC is 15.
-:
+
 ***Man's Best Friend.*** Makoto fights alongside her blade-wielding companion Kentaro. Kentaro has a separate statblock, which improves alongside Makoto.
 
 ### Actions
 
 ***Multiattack.*** Makoto makes two Attacks.
-:
+
 ***Katana.*** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 8 (2d4 + 3) Slashing damage. **Cross.** If Makoto hits with this attack, she can move to the opposite side of the creature hit without expending movement and without provoking Opportunity Attacks. This feature can be used only once on her turn.
-:
+
 ***Hankyū.*** *Ranged Attack Roll:* +6 to hit, range 80/320 ft., one target. *Hit:* 7 (1d6 + 3) Piercing damage. **Graze.** If this attack hits, Makoto has Advantage on your next Attack Roll against that creature before the end of your next turn.
 
 ### Bonus Actions
@@ -543,11 +544,11 @@ Text about Makoto
 **AC**         :: 16 (13 + Makoto's PB, Natural Armor)
 \column
 **Initiative** :: +4 (14)
+**Speed**      :: 40 ft.
 
 }}
 
 **HP**         :: 35 (5 + five times Makoto's Level)
-**Speed**      :: 40 ft.
 
 {{tables
 
@@ -575,7 +576,7 @@ Text about Makoto
 ### Traits
 
 ***Charge.*** If Kentaro moved at least 20 feet straight toward the target before the hit, the target takes an extra 1d6 Slashing damage, and the target has the Prone Condition if it is a Large or smaller creature.
-:
+
 ***Follower.*** Kentaro gains +3 (Makoto's PB) to any ability check or saving throw that he makes.
 
 ### Actions
@@ -609,9 +610,9 @@ Text about Atsuki
 
 **AC**         :: 17 (Improved Medium Armour)
 **HP**         :: 45 (6d10 + 12)
-**Speed**      :: 30 ft.
 \column
 **Initiative** :: +3 (13)
+**Speed**      :: 30 ft.
 
 }}
 
@@ -643,31 +644,31 @@ Text about Atsuki
 ### Traits
 
 ***Moon's Blessing.*** Atsuki floats above the ground while moving, ignoring ground-based Difficult Terrain.
-:
+
 ***Psionics (6/Day).*** Atsuki's psionic dice are 1d8, which they must use to activate their psionic abilities. Each psionic ability can be used once per day without expending a die. ☐☐☐☐☐☐
-:
+
 ***Psionic Strike (1/Turn).*** When Atsuki hits with a weapon attack, they can choose to deal an additional 7 (1d8 + 3) Force damage. ☐
 
 ### Actions
 
 ***Multiattack.*** Atsuki makes two Moonflare Blade attacks.
-:
+
 ***Moonflare Blade.*** *Melee Attack Roll:* +8, reach 5 ft. *Hit:* 8 (1d8 + 3) Force damage. **Cross.** If Atsuki hits with this attack, she can move to the opposite side of the creature hit without expending movement and without provoking Opportunity Attacks. This feature can be used only once on their turn.
-:
+
 ***Psionic Repositioning.*** Atsuki telekinetically moves a Large or smaller object (or willing ally) within 30 feet of them up to 30 feet to an unoccupied space it can see. They can also move an unsecured Tiny object or an unsecured simple or martial weapon to or from their hand. ☐
 
 ### Bonus Actions
 
 ***Patient Stance.*** Atsuki enters the patient stance. While in this stance, Atsuki's Reaction attacks deal an additional 4 (1d8) damage. This stance ends after Atsuki attacks.
-:
+
 ***Second Wind (1/Day).*** Atsuki regains 11 (1d10 + 6) hit points and can move up to half their speed without provoking opportunity attacks.
 
 ### Reactions
 
 ***Psionic Field.*** *Trigger:* Atsuki (or an ally they can see within 30 feet) takes damage. *Response:* Atsuki reduces the damage by 7 (1d8 + 3). ☐
-:
+
 ***Slowfall.*** *Trigger:* Atsuki is falling. *Response:* Their rate of descent is reduced to 60 feet per round  for 1 minute. Atsuki takes no fall damage if they land while falling at this rate.
-:
+
 ***Quick Slash.*** *Trigger:* A creature within 10 feet of Atsuki attempts an Attack Roll. *Response:* Atsuki can move up to 5 feet before making a Moonflare Blade attack against the triggering creature at Advantage.
 
 }}
@@ -697,9 +698,9 @@ Text about Yuxuan
 
 **AC**         :: 17 (Natural Armour)
 **HP**         :: 63 (9d8 + 18)
-**Speed**      :: 50 ft.
 \column
 **Initiative** :: +4 (14)
+**Speed**      :: 50 ft.
 
 }}
 
@@ -730,35 +731,32 @@ Text about Yuxuan
 ### Traits
 
 ***Evasion.*** When Yuxuan makes a Dexterity Saving Throw to avoid damage, he takes no damage on a successful save and half damage on a failed save.
-:
+
 ***Focus (10/Day).*** Yuxuan can expend Focus Points to enhance his features and abilities, as noted. ☐☐☐☐☐☐☐☐☐☐
-:
+
 ***Fright or Flight.*** During his turn Yuxuan gains a fly speed equal to his speed and can hover.
-:
+
 ***Stunning Strike (1/Turn).*** *Constitution Saving Throw:* DC 14, a creature Yuxuan has just hit with an Unarmed Strike, 1 Focus Point. *Failure:* The target is stunned until the start of Yuxuan’s next turn. *Success:* The target’s speed is halved until the start of Yuxuan’s turn, and the next attack roll made against the target before then has Advantage.
 
 ### Actions
 
 ***Multiattack.*** Yuxuan makes two Unarmed Strikes.
-:
+
 ***Unarmed Strike.*** *Melee Weapon Attack.* +8, reach 5 ft. *Hit:* 8 (1d8 + 4) Bludgeoning damage.
-:
-***Spellcasting.*** Yuxuan casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 14):
 
-*0 Focus Points:* Minor Illusion<sup>A,C</sup>
-
-*1 Focus Point:* Darkness<sup>A,C</sup> (Yuxuan can see within the spell's area when cast this way)
+***Spellcasting.*** Yuxuan casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 14):</br>&nbsp;*0 Focus Points:* Minor Illusion<sup>A,C</sup>
+</br>&nbsp;*1 Focus Point:* Darkness<sup>A,C</sup> (Yuxuan can see within the spell's area when cast this way)
 
 ### Bonus Actions
 
 ***Unarmed Strike.*** *Melee Weapon Attack.* +8, reach 5 ft. *Hit:* 8 (1d8 + 4) Bludgeoning damage.
 
 **Focus.** Yuxuan makes an additional Unarmed Strike.
-:
+
 ***Patient Defense.*** Yuxuan takes the Disengage action.
 
 **Focus.** Yuxuan also takes the Dodge action.
-:
+
 ***Shadow Step.*** Yuxuan teleports to a location he can see within 30 feet of him in Dim light or Darkness. After doing so, Yuxuan gains Advantage on the next Attack Roll he makes before the end of his turn.
 
 ### Reactions
@@ -792,9 +790,9 @@ Many groups of bandits roam the roads and settlements of Sumiriku, who make thei
 
 **AC**         :: 13
 **HP**         :: 35 (?d? + ?)
-**Speed**      :: 30 ft.
 \column
 **Initiative** :: +2 (12)
+**Speed**      :: 30 ft.
 
 }}
 
@@ -827,7 +825,7 @@ Many groups of bandits roam the roads and settlements of Sumiriku, who make thei
 ### Traits
 
 ***Legendary Resistance (1/Day).*** If Kanehisa fails a Saving Throw, he can choose to succeed instead.
-:
+
 ***Exploit Opening (2/Day).*** When Kanehisa makes an attack, they can choose to have Advantage on the Attack Roll
 
 ### Actions
@@ -871,9 +869,9 @@ Text about the castle
 
 **AC**         :: 15 (Medium Armour)
 **HP**         :: 16 (3d8 + 3)
-**Speed**      :: 30 ft.
 \column
 **Initiative** :: +1 (11)
+**Speed**      :: 30 ft.
 
 }}
 
@@ -905,7 +903,7 @@ Text about the castle
 ### Actions
 
 ***Hoko Yari.*** *Melee Attack Roll:* +3 to hit, reach 10 ft., one target. *Hit:* 4 (1d6 + 1) Piercing damage, or 5 (1d8 + 1) Piercing damage if used with two hands.
-:
+
 ***Jitte.*** *Melee Attack Roll:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) Bludgeoning damage.
 
 ### Reactions
@@ -926,9 +924,9 @@ Text about the castle
 
 **AC**         :: 17 (Heavy Armour)
 **HP**         :: 26 (5d8 + 5)
-**Speed**      :: 25 ft.
 \column
 **Initiative** :: +0 (10)
+**Speed**      :: 25 ft.
 
 }}
 
@@ -960,13 +958,13 @@ Text about the castle
 ### Traits
 
 ***Antimagic Susceptibility.*** The armor is incapacitated while in the area of an antimagic field. If targeted by *Dispel Magic*, the armor must succeed on a Constitution saving throw against the caster's Spell Save DC or fall unconscious for 1 minute.
-:
+
 ***False Appearance.*** While the armor remains motionless, it is indistinguishable from a normal suit of armor.
 
 ### Actions
 
 ***Multiattack.*** The armor makes two attacks.
-:
+
 ***Katana.*** *Melee Attack ROll:* +4, reach 5 ft. *Hit:* 6 (2d4 + 2) Slashing damage.
 
 }}
@@ -994,9 +992,9 @@ Text about Hatsumomo
 
 **AC**         :: 12
 **HP**         :: 37 (5d10 + 10)
-**Speed**      :: 20 ft.
 \column
 **Initiative** :: +2 (12)
+**Speed**      :: 20 ft.
 
 }}
 
@@ -1053,9 +1051,9 @@ Text about Hatsumomo
 
 **AC**         :: 15 (Protective Fan)
 **HP**         :: 29 (5d8 + 5)
-**Speed**      :: 30 ft.
 \column
 **Initiative** :: +3 (13)
+**Speed**      :: 30 ft.
 
 }}
 
@@ -1087,9 +1085,9 @@ Text about Hatsumomo
 ### Traits
 
 ***Sneak Attack (1/Turn).*** Hatsumomo deals an extra 10 (3d6) damage when it hits a target with a Weapon Attack and has Advantage on the Attack Roll, or when the target is within 5 feet of an ally of Hatsumomo that isn't incapacitated and Hatsumomo doesn't have Disadvantage on the Attack Roll.
-:
+
 ***Kakure-bi.*** Hatsumomo wields a magical Tessen called Kakure-bi. Kakure-bi appears to be a regular folding fan, but is instead a +1 Tessen with the Finesse property (included in Hatsumomo's attacks). The attributes of Kakure-bi are included in Hatsumomo's statblock.
-:
+
 ***Protective Fan.*** When Hatsumomo attacks with Kakure-bi or as a Bonus Action she can change it from closed to open or vice versa. While open, her attack instead deals 1d4 Slashing damage, but grants her an additional +1 AC. She starts with Kakure-bi open.
 
 ### Actions
@@ -1099,13 +1097,13 @@ Text about Hatsumomo
 ### Bonus Actions
 
 ***Change Style.*** Hatsumomo closes and opens Kakure-bi, changing the appearance of the fan and her kimono.
-:
+
 ***Cunning Action.*** Hatsumomo can take the Dash, Disengage, or Hide Action.
-:
+
 ***Protective Fan.*** Hatsumomo swaps Kakure-bi from open to closed or vice versa.
-:
+
 ***Tanto*** *Melee Attack Roll:* +7, reach 5 ft. *Hit:* 5 (1d4 + 3) Piercing damage.
-:
+
 ***Vicious Mockery.*** Hatsumomo talks down to her victim. *Wisdom Saving Throw:* DC 15, one creature Hatsumomo can see within 60 feet. *Failure:* 3 (1d6) Psychic damage and the target has Disadvantage on the next attack roll it makes before the end of its next turn.
 
 ### Reactions
@@ -1125,7 +1123,7 @@ Text about Hatsumomo
 
 Text about Hidemaro
 
-:::::::::::
+:::::
 
 {{monster,wide,frame
 
@@ -1140,9 +1138,9 @@ Text about Hidemaro
 
 **AC**         :: 17 (Heavy Armour) <!-- 19 (Extra Heavy Armour) -->
 **HP**         :: 67 (7d10 + 29)
-**Speed**      :: 30 ft.
 \column
 **Initiative** :: +2 (12)
+**Speed**      :: 30 ft.
 
 }}
 
@@ -1174,13 +1172,13 @@ Text about Hidemaro
 ### Traits
 
 ***Kane-tsuki.*** Hidemaro wields a magical Kama Yari called Kane-tsuki. Kane-tsuki is a +1 Kama Yari (included in Hidemaro's attacks). *Constitution Saving Throw:* DC 15, when hit by Kane-tsuki, once per turn. *Failure:* The target has the Dazed and Deafened Condition until the end of their next turn. Creatures immune to the Deafened Condition are immune to this effect.
-:
+
 ***Kōyō, Faithful Steed.*** At the start of initiative, Hidemaro summons and mounts his steed, the elk Kōyō. Kōyō is a Large Beast, with 13 AC and a 50 ft. Walk Speed. Hidemaro and Kōyō share Hit Points, but only one of them can take damage from a source at any one time. <!-- Some of Hidemaro's Villain Actions can only be used while mounted. -->
-:
+
 ***Legendary Resistance (1/Day).*** If Hidemaro fails a saving throw, it can choose to succeed instead.
-:
+
 ***Command Kabuto.*** Hidemaro wears a magical helmet called the Command Kabuto. While wearing the helmet, Animated Armors tuned to the helmet within 100 feet of the wearer will follow the wearer's commands (no action required).
-:
+
 <!-- ***Mounted Combatant.*** While mounted on Kōyō, Hidemaro has Advantage on Attack Rolls against any creature that is within 5 feet of Kōyō and at least one Size smaller than him. 
 : -->
 ***Warlord's Wrath (Antagonist Trait, Recharges after a Short or Long Rest).*** If Hidemaro is reduced to 0 Hit Points while Kōyō is still summoned, he doesn't die or fall unconscious. Instead Hidemaro regains all of his Hit Points, removes any Conditions he may be under, and Kōyō disappears into mist. Hidemaro additionally regains any spent uses of Legendary Resistance, and he can use any actions listed as Antagonist Actions for 1 hour.
@@ -1190,17 +1188,17 @@ Text about Hidemaro
 ### Actions
 
 ***Multiattack.*** Hidemaro makes two attacks using Kane-tsuki.
-:
+
 ***Kane-tsuki.*** *Melee Attack Roll:* +8, reach 10 ft. *Hit:* 10 (1d10 + 5) Piercing damage plus 5 (1d8) Radiant damage. If Hidemaro is mounted, the target can be pushed up to 10 feet away from him.
 
 ### Villain Actions
 
 ***Steel Sweep.*** Hidemaro swings his Yari in front of him violently, empowered by holy energy. *Dexterity Saving Throw:* DC 13, each creature 60-foot cone. *Failure:* 4 (1d8) Radiant damage, and an additional 5 (1d10) Slashing damage if the target is within 10 feet of Hidemaro. *Success:* Half Damage.
-:
+
 ***Shimmering Leap.*** Kōyō jumps into the air, traveling up to 30 feet without provoking Opportunity Attacks. *Dexterity Saving Throw:* DC 13, each creature along the path of Kōyō's movement. *Failure:* The target shimmers in golden light for 1 minute, causing it to shed dim light in a 10-foot radius and be unable to benefit from the Invisible Condition.
-:
+
 ***Fear The Conquerer. (Antagonist Action)*** Hidemaro terrifies his foes. *Wisdom Saving Throw:* DC 13, each creature within 30 feet. *Failure:* The target is Frightened of Hidemaro for 1 minute. While Frightened in this way, a creature takes 3 (1d6) Psychic damage at the start of each of their turns. If a Frightened target ends its turn more than 30 feet away from Hidemaro, the target can repeat the Saving Throw, ending the effect on itself on a success.
-:
+
 ***Reverberations. (Antagonist Action)*** Hidemaro slams the ground, causing the sound of ringing to echo. *Constitution Saving Throw:* DC 13, each creature within 30 feet. *Failure:* 18 (4d8) Thunder damage and the target has the Dazed Condition for 1 minute (save repeats at end of turn). *Success:* Half Damage. *Success or Failure:* Creatures immune to the Deafened Condition are immune to this effect.
 
 }}
@@ -1228,9 +1226,9 @@ Text about them
 
 **AC**         :: 13 (Natural Armor)
 **HP**         :: 5 (2d4 + 1)
-**Speed**      :: 20 ft., Swim 20 ft.
 \column
 **Initiative** :: +4 (14)
+**Speed**      :: 20 ft., Swim 20 ft.
 
 }}
 
@@ -1260,7 +1258,7 @@ Text about them
 ### Traits
 
 ***Amphibious.*** The crab can breath air and water.
-:
+
 ***Minion.*** If the crab takes damage from an attack or as the result of a failed saving throw, their hit points are reduced to 0. If the crab takes damage from another effect, they die if the damage equals or exceeds their hit point maximum; otherwise they take no damage.
 
 ### Actions
@@ -1283,9 +1281,9 @@ Text about them
 
 **AC**         :: 16 (???)
 **HP**         :: 130 (20d8 + 40)
-**Speed**      :: 40 ft., Climb 40 ft., Swim 40 ft.
 \column
 **Initiative** :: +4 (14)
+**Speed**      :: 40 ft., Climb 40 ft., Swim 40 ft.
 
 }}
 
@@ -1317,9 +1315,9 @@ Text about them
 ### Actions
 
 ***Multiattack.*** Genji makes two attacks, using Daikyū or Tantō in any combination.
-:
+
 ***Daikyū.*** *Ranged Attack Roll:* +7, range 80/320 ft. *Hit:* 11 (1d8 + 7) Piercing damage. **Graze.** If the attack misses, Genji still deals 4 damage to the target.
-:
+
 ***Tantō.*** *Melee Attack Roll:* +7 , reach 5 ft. *Hit:* 5 (1d4 + 7) Piercing damage.
 
 ### Bonus Actions
@@ -1331,8 +1329,6 @@ Text about them
 ***Crab Rave.*** *Trigger:* Genji hits a creature with a Daikyū attack. *Response:* Genji summons 4 Crab Minions surrounding the target, which immediately attack them. They act on Genji's initiative.
 
 }}
-
-::::::
 
 {{#small-text-table,classTable,frame,wide
 
@@ -1403,15 +1399,15 @@ Text about them
 ### Traits
 
 ***Amphibious.*** Okamoto can breath air and water.
-:
+
 ***Close to the Ground.*** Medium creatures can move under Okamoto while he has the Prone Condition, but cannot move through him otherwise.
-:
+
 ***Crusher.*** A creature that starts its turn grappled by Okamoto takes 10 Bludgeoning damage.
-:
+
 ***Kaiju Fortitude.*** Okamoto is immune to any spell or effect that would alter its form or move it to another plane of existence against its will.
-:
+
 ***Legendary Resistance (1/Day).*** If Okamoto fails a Saving Throw, it can choose to succeed instead.
-:
+
 ***Shell Camouflage.*** While the crab remains motionless with its eyestalks and pincers tucked close to its body, it hides within the sand. A creature within 30 feet of it can discern its true nature with a successful DC 15 Intelligence (Nature) check.
 
 \column
@@ -1419,17 +1415,17 @@ Text about them
 ### Actions
 
 ***Multiattack.*** Okamoto makes two attacks, each with a different limb.
-:
+
 ***Big Meaty Claw.*** *Melee Attack Roll:* +10, reach 10 ft. *Hit:* 22 (3d10 + 6) Bludgeoning damage, and the target is Grappled (Escape DC 17). This claw can only grapple up to one creature at a time. If the target of this attack is already grappled by this claw, the attack is made at Advantage.
-:
+
 ***Slightly Smaller Claw.*** *Melee Attack Roll:* +10, reach 10 ft. *Hit:* 19 (3d8 + 5) Bludgeoning damage, and the target is Grappled (Escape DC 16). This claw can only grapple up to one creature at a time. If the target of this attack is already grappled by this claw, the attack is made at Advantage.
-:
+
 **Itty Bitty Claws.** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 13 (3d6 + 2) Bludgeoning damage.
 
 ### Villain Actions
 
 **Unburrow (While Lonely).** Okamoto enters the sand, travels up to 30 feet in a straight line, and then erupts out. *Dexterity Saving Throw:* DC 17, each creature within Okatomo's spaces after unburrowing. *Failure:* 21 (6d6) Bludgeoning damage and the target lands in a nearby space with the Prone Condition. *Success:* The target can choose to land safely either on Okamoto's shell or in a nearby space.
-:
+
 **Body Slam (While Rampaging).** Okamoto raises up onto his hind legs and slams onto the ground. *Strength Saving Throw:* DC 19, each creature within 30 feet. *Failure:* 42 (12d6) Bludgeoning damage, the target has the Prone Condition, and the target has the Dazed Condition for 1 minute (save repeats at end of turn). *Success:* Half Damage. *Failure or Success:* Medium creatures directly in front of Okamoto have the Prone Condition as they are forced underneath him. Creatures on Okamoto's back fall off of him when he uses this Action.
 
 }}
@@ -1509,31 +1505,31 @@ Text about them
 ### Traits
 
 ***Keen Hearing and Smell.*** The Raijū has Advantage on Wisdom (Perception) checks that rely on hearing or smell.
-:
+
 ***Legendary Resistance (1/Day).*** If the Raijū fails a saving throw, they can choose to succeed instead. Once their Legendary Resistance feature is used, they lose access to their Static Charge feature.
-:
+
 ***Spark Path.*** The Raijū leaves behind streaks of lightning as they move, which are 5 foot wide, shed dim light in a 20-foot radius, and last until the start of their next turn. *Dexterity Saving Throw:* DC 16, when this path first appears in a creature's space or a creature enters the path or ends their turn there. *Failure:* 7 (2d6) Lightning damage.
-:
+
 ***Static Charge.*** The Raijū's attacks and abilities can charge creatures with static electricity. When a charged creature takes Lightning damage, another charged creature within 15 feet of the first also takes 7 (2d6) Lightning damage.
 
 ### Actions
 
 ***Multiattack.*** The Raijū makes three Lightning Claws attacks. They can replace one of these with a use of Tail Bolt.
-:
+
 ***Lightning Claws.*** *Melee Attack Roll:* +9, reach 5 ft. *Hit:*  12 (2d6 + 5) Slashing damage plus 7 (2d6) Lightning damage, and the target must succeed on a DC 16 Constitution Saving Throw or become charged.
-:
+
 ***Tail Bolt.*** *Dexterity Saving Throw:* DC 16, each creature within 5 feet of a point within 60 feet. *Failure:* 21 (6d6) Lightning damage, and the target is Dazed and is charged. *Success:* Half damage, and the target is not Dazed or is charged.
-:
+
 ***Volt Vortex (Recharge 5-6).*** The Raijū spins wildling, kicking up a swirling storm. *Dexterity Saving Throw:* DC 17, all creatures within 10 feet of Raijū. *Failure:* 14 (4d6) Slashing damage and 14 (4d6) Lightning damage. *Success:* Half damage. A 15 foot radius storm emminating from the Raijū is created which lasts for 1 minute. The area of the storm is Heavily Obscured to any creatures outside of the storm, and any creature that ends their turn inside the storm takes 7 (2d6) Slashing damage and 7 (2d6) Lightning damage.
 
 ### Reactions
 
 The Raijū can take up to two Reactions per round but only one per turn.
-:
+
 ***Galvanic Return.*** *Trigger:* The Raijū takes damage from a Melee Attack. *Response---Constitution Saving Throw:* DC 16, the target who triggered the reaction. *Failure:* The target becomes charged if they are not already, or if they are they take 7 (2d6) Lightning damage.
-:
+
 ***Bolt Dash.*** *Trigger:* The Raijū takes damage from a Ranged Attack. *Response:* The Raijū dashes up to 50 feet towards the creature that triggered the reaction without provoking Opportunity Attacks.
-:
+
 ***Absorb Energy.*** *Trigger:* A creature the Raijū sees ends their turn. *Response---Constitution Saving Throw:* DC 16, each charged creature within 120 feet. *Failure:* 7 (2d6) Lightning damage, the Raijū is healed for that amount, and the target loses charge. *Success:* The target loses charge.
 
 }}
@@ -1561,9 +1557,9 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 **AC**         :: 15 (Natural Armour)
 **HP**         :: 77 (14d8 + 14)
-**Speed**      :: 30 ft., Swim 60 ft.
 \column
 **Initiative** :: +4 (14)
+**Speed**      :: 30 ft., Swim 60 ft.
 
 }}
 
@@ -1596,23 +1592,23 @@ The Raijū can take up to two Reactions per round but only one per turn.
 ### Traits
 
 ***Amphibious.*** The Ningyo can breathe air and water.
-:
+
 ***Illusionary Guise.*** The Ningyo begins combat in her Alluring Form, with the face of a beautiful woman. This appearance is an illusion, hiding the hideous being underneath. When the Ningyo is Bloodied, or if *Dispel Magic* is cast on the Ningyo or if she enters an area of an antimagic field, she changes into her Monstrous Form, changing some of the abilities she has access to.
-:
+
 ***Appealing Persona (Alluring Form Only).*** While in her Alluring Form creatures have Disadvantage against the Ningyo's attempts to inflict the Charmed Condition if the target can hear her and she is immune to the Charmed Condition
-:
+
 ***Blood Frenzy (Monstrous Form Only).*** While in her Monstrous Form the Ningyo has Advantage on all Attack Rolls and is immune to the Frightened Condition, but all Attack Rolls have against her have Advantage and she cannot cast or concentrate on spells.
-:
+
 ***Synchronised Swimming.*** While underwater the Ningyo can expend 5 feet of movement to jump up to 15 feet vertically into the air.
 
 ### Actions
 
 ***Multiattack.*** The Ningyo makes one Wave Strike attack or two Angler Claws attacks.
-:
+
 ***Wave Strike (Alluring Form Only).*** *Ranged Attack Roll:* +7, range 60 ft. *Hit:* 14 (3d8) Cold damage, and the target's Speed is reduced by 10 feet until the start of the Ningyo's next turn.
-:
+
 ***Angler Claws (Monstrous Form Only).*** *Melee Attack Roll:* +7, reach 5 ft. *Hit:* 14 (3d6 + 4) Necrotic damage.
-:
+
 ***Spellcasting (Alluring Form Only).*** The Ningyo casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 15):
 
 *1/day each:* Crown of Madness<sup>A,C</sup>, Dominate Person<sup>A,C</sup>, Invisibility<sup>A,C</sup>, Misty Step<sup>BA</sup>
@@ -1620,7 +1616,7 @@ The Raijū can take up to two Reactions per round but only one per turn.
 ### Reactions
 
 ***Batting Eyelids (Alluring Form Only).*** *Trigger:* A creature the Ningyo can see attempts to hit her with an attack. *Response--Wisdom Saving Throw:* DC 15, the target triggering the attack. *Failure:* The target either choose a new target for the attack or lose the attack.
-:
+
 ***Fearsome Glare (Monstrous Form Only).*** *Trigger:* A creature the Ningyo can see within 15 feet of them hits her with an attack, *Response--Wisdom Saving Throw:* DC 15, each creature in a 15-foot cone. *Failure:* The target is Frightened of the Ningyo until the end of the Ningyo's next turn.
 
 }}
@@ -1683,19 +1679,19 @@ The Raijū can take up to two Reactions per round but only one per turn.
 ### Traits
 
 ***Breath Sight.*** A creature that is holding its breath may attempt to hide from the Jiangshi without obscurement.
-:
+
 ***Graceless Rigor.*** If the Jiangshi is hit with a Melee Attack from a direction it is not facing, it is pushed 5 feet away and has the Prone Condition.
-:
+
 ***Hopping Movement.*** When initiative is rolled, the Jiangshi selects a cardinal direction to face. The Jiangshi may move only in the direction it is facing, and may spend 5 feet of movement to turn up to 90 degrees or to stand from Prone.
-:
+
 ***Not Yet Turned.*** While the Jiangshi is at full health, any spells and abilities that detect the presence of undead fail, the Jiangshi's **Graceless Rigor** trait is ignored, the Jiangshi cannot use it's **Crooked Claws** attack, and the Jiangshi has 12 Dexterity.
 
 ### Actions
 
 ***Multiattack.*** The Jiangshi makes two attacks, one of which it can replace with a use of its Drain Vitality.
-:
+
 ***Tanto.*** *Melee or Ranged Attack Roll:* +5, reach 5 ft. or range 20/60 ft. *Hit:* 6 (1d4 + 3) Slashing damage.
-:
+
 ***Crooked Claws.*** *Melee Attack Roll:* +5, reach 5 ft. in the direction the Jiangshi is facing. *Hit:* 10 (2d6 + 3) Slashing damage, plus one of the following effects:
 
 - The target is Grappled (escape DC 13).
@@ -1723,9 +1719,9 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 **AC**         :: 16 (Natural Armor)
 **HP**         :: 119 (14d8 + 56)
-**Speed**      :: 40 ft.
 \column
 **Initiative** :: -4 (6)
+**Speed**      :: 40 ft.
 
 }}
 
@@ -1759,15 +1755,15 @@ The Raijū can take up to two Reactions per round but only one per turn.
 ### Traits
 
 ***Breath Sight.*** A creature that is holding its breath may attempt to hide from the Jiangshi without obscurement.
-:
+
 ***Graceless Rigor.*** If the Jiangshi is hit with a Melee Attack from a direction it is not facing, it is pushed 5 feet away and must succeed on a DC 10 Dexterity saving throw or it has the Prone Condition.
-:
+
 ***Hopping Movement.*** When initiative is rolled, the Jiangshi selects a cardinal direction to face. The Jiangshi may move only in the direction it is facing, and may spend 5 feet of movement to turn up to 90 degrees or to stand from Prone.
 
 ### Actions
 
 ***Multiattack.*** The Jiangshi makes three attacks, one of which it can replace with a use of its Drain Vitality.
-:
+
 ***Crooked Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft. in the direction the Jiangshi is facing. *Hit:* 13 (2d8 + 4) slashing damage, plus one of the following effects:
 
 - The target is Grappled (escape DC 15).
@@ -1840,7 +1836,7 @@ The Raijū can take up to two Reactions per round but only one per turn.
 ### Actions
 
 ***Multiattack.*** The Samurai makes two Katana attacks.
-:
+
 ***Katana.*** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 9 (2d4 + 4) Slashing damage.
 
 ### Bonus Actions
@@ -1863,9 +1859,9 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 **AC**         :: 17 (Heavy Armour)
 **HP**         :: 80 (10d8 + 36)
-**Speed**      :: 60 ft.
 \column
 **Initiative** :: +0 (10)
+**Speed**      :: 60 ft.
 
 }}
 
@@ -1895,13 +1891,13 @@ The Raijū can take up to two Reactions per round but only one per turn.
 ### Traits
 
 ***Exploit Opening (3/Day).*** When the Samurai makes an attack, they have advantage on the attack roll.
-:
+
 ***Mounted Warrior.*** The Samurai fights on horseback. If the Samurai ever has the Prone Condition the horse flees, reducing the Samurai's size to Medium, their speed to 30 feet, and no longer letting them use the Trample action.
 
 ### Actions
 
 ***Multiattack.*** The Samurai makes two Naginata attacks.
-:
+
 ***Naginata.*** *Melee Attack Roll:* +8, reach 10 ft. *Hit:* 10 (1d10 + 5) Slashing damage.
 
 ### Bonus Actions
@@ -1922,9 +1918,9 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 **AC**         :: 15 (Light Armour)
 **HP**         :: 39 (6d8 + 12)
-**Speed**      :: 30 ft.
 \column
 **Initiative** :: +0 (10)
+**Speed**      :: 30 ft.
 
 }}
 
@@ -1955,13 +1951,13 @@ The Raijū can take up to two Reactions per round but only one per turn.
 ### Traits
 
 ***Exploit Opening (3/Day).*** When the Samurai makes an attack, they have advantage on the attack roll.
-:
+
 ***Snipe.*** When the Samurai hits a creature with a Ranged Weapon Attack with Advantage, they deal an extra 7 (2d6) Piercing damage.
 
 ### Actions
 
 ***Daikyū.*** *Melee Attack Roll:* +6, range 150/600 ft. *Hit:* 8 (1d8 + 4) Piercing damage.
-:
+
 ***Trickshot (Recharge 5-6).***
 
 }}
