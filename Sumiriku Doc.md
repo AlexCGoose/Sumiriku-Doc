@@ -34,11 +34,11 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 {{toc
 
-- ### [{{ Foreword - On Culture, Adaptation, and Appropriation}}{{ 3}}](#p4) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:139px,left:55px,width:245px,mix-blend-mode:normal}
+- ### [{{ Foreword - On Culture, Adaptation, and Appropriation}}{{ 3}}](#p4) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:142px,left:55px,width:245px,mix-blend-mode:normal}
 
 - ###### [{{ Language and Translation}}{{ 3}}](#p4)
 
-- ### [{{ PART 1 - History and Religion}}{{ 4}}](#p5) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:200px,left:55px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 1 - History and Religion}}{{ 4}}](#p5) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:202px,left:55px,width:245px,mix-blend-mode:normal}
 
 - ###### [{{ The Land of Ink and Blood}}{{ 5}}](#p6)
 
@@ -88,7 +88,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 {{toc
 
-- ### [{{ PART 2 - Character Options}}{{ 28}}](#p29) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:127px,left:285px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 2 - Character Options}}{{ 28}}](#p29) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:285px,width:245px,mix-blend-mode:normal}
 
 - ###### [{{ Character Species}}{{ 29}}](#p30)
 
@@ -135,7 +135,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
   - [{{ Paladin - TODO}}{{ 65}}](#p66)
     - [{{ Oath of Bushidō - TODO}}{{ 65}}](#p66)
   - [{{ Ranger - TODO}}{{ 65}}](#p66)
-    - [{{ Spirit Tender - TODO}}{{ 65}}](#p66)
+    - [{{ Spirit Trainer - TODO}}{{ 65}}](#p66)
   - [{{ Rogue - TODO}}{{ 67}}](#p68)
     - [{{ Dagger Dancer Archetype}}{{ 67}}](#p68)
   - [{{ Sorcerer - TODO}}{{ 68}}](#p67)
@@ -165,7 +165,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
   - [{{ Species Feats - TODO}}{{ 83}}](#p84)
   - [{{ General Feats}}{{ 91}}](#p92)
 
-- ### [{{ PART 3 - Geography and Culture}}{{ 96}}](#p97) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:324px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 3 - Geography and Culture}}{{ 96}}](#p97) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:300px,left:515px,width:245px,mix-blend-mode:normal}
 
 - ###### [{{ Maps of Sumiriku and the World - TODO}}{{ 97}}](#p98)
 
@@ -184,7 +184,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 - ###### [{{ Sacred Treasures and other Magic Items - TODO}}{{ 106}}](#p107)
 
-- ### [{{ EXTRA - Appendices}}{{ 107}}](#p108) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:699px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ EXTRA - Appendices}}{{ 107}}](#p108) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:594px,left:515px,width:245px,mix-blend-mode:normal}
 
 - ###### [{{ Appendix A - Creature Stat Blocks}}{{ 108}}](#p109)
 
@@ -196,7 +196,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 - ###### [{{ Appendix E - Reference Images - TODO}}{{ 141}}](#p142)
 
-- ### [{{ CREDITS - TODO}}{{ 146}}](#p147) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:878px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ CREDITS - TODO}}{{ 146}}](#p147) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:744px,left:515px,width:245px,mix-blend-mode:normal}
 
 - ###### [{{ Special Thanks}}{{ 146}}](#p147)
 
@@ -206,19 +206,19 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 # Foreword
 
-{{wide,margin-bottom:5px
+{{wide,margin-bottom:0px
 
 ## On Culture, Adaptation, and Appropriation
 
 }}
 
-{{#fancy S}}{{#after-fancy umiriku is heavily inspired by the history}} and traditions of Japan and of Japanese peoples, a culture that I am not a part of. It is clear that adaptation of existing cultures is frequently done inappropriately and disrespectfully, regardless of the intent of the work. Works such as those often treat real people, their religion, tradition, and history, as an aesthetic choice that can be overlaid on a narrative without much thought to meaning or execution. Worse are works that have a non-native protagonist, frequently a surrogate for a white author, who "discovers" the "strange" "exotic" land or any other gross descriptors, or even has to save said place from a threat the locals could not handle on their own.
+{{#fancy S}}{{#after-fancy umiriku is heavily inspired by the}} and traditions of Japan and of Japanese peoples, a culture that I am not a part of. It is clear that adaptation of existing cultures is frequently done inappropriately and disrespectfully, regardless of the intent of the work. Works such as those often treat real people, their religion, tradition, and history, as an aesthetic choice that can be overlaid on a narrative without much thought to meaning or execution. Worse are works that have a non-native protagonist, frequently a surrogate for a white author, who "discovers" the "strange" "exotic" land or any other gross descriptors, or even has to save said place from a threat the locals could not handle on their own.
 
 I have deliberately taken care and used many genuine sources to try to present this setting as authentic, accurate, and free from fetishisation or stereotype, while also leaving room for adaptation to a magical fantasy setting. I also tried to guarantee that the content presented here is distinct to a Japanese setting, so as to not conflate East Asian countries into a homogenous group. Nearby locations are referenced but I chose to only explore them a small amount, to allow more space to flesh out this specific setting and to enable characters to feel more grounded and fully realised. Though there may be mistakes or inaccuracies, I hope you can see that this setting comes from an authentic place of good faith, that does not want to disparage or misappropriate. I also hope and ask that you extend the same good faith when creating a character and playing in this setting, in order to not disparage and avoid any harmful tropes. Thank you for reading, and enjoy!
 
 \column
 
-### Language and Translation ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:139px,left:400px,width:375px,mix-blend-mode:normal}
+### Language and Translation ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:134px,left:400px,width:375px,mix-blend-mode:normal}
 
 Where possible within this book, I have tried to provide translations of terms and names used, as well as how those terms would be written out in the native language of Sumiriku. These characters are either kanji or hiragana, and sometimes both forms of writing out a term are used. Sometimes pronunciation of these terms and names may be challenging for people who don't speak Japanese, and I know that I frequently use the wrong vowel sounds in the wrong places. I do ask that you try or attempt correct pronunciations, use real Japanese names for characters and such, and avoid rejecting out of hand names and terms from other languages.
 
@@ -450,7 +450,7 @@ Across Sumiriku, stories and rumours tell of calamitous creatures, laying dorman
 
 # Realms
 
-T {{width:5px}} he physical plane of Sumiriku is connected to many outer planes, which Sumiriku scholars refer to as Realms, or Kai (界). The barriers between these realms are known to be thin, and at some points creatures have been able to cross over these barriers. Folklore imagines the space between these realms as a murky ocean of magic, where the near shore of the real world is safe and known, and the far shores beyond the ocean are the lands beyond. Some peoples native to Sumiriku, such as the various species of Obake, can trace their origins to somewhere not of the physical realm. </p>
+T {{width:5px}}he physical plane of Sumiriku is connected to many outer planes, which Sumiriku scholars refer to as Realms, or Kai (界). The barriers between these realms are known to be thin, and at some points creatures have been able to cross over these barriers. Folklore imagines the space between these realms as a murky ocean of magic, where the near shore of the real world is safe and known, and the far shores beyond the ocean are the lands beyond. Some peoples native to Sumiriku, such as the various species of Obake, can trace their origins to somewhere not of the physical realm. </p>
 
 Below are the list of the Realms connected to Sumiriku:
 
@@ -560,7 +560,7 @@ Creatures that come from one of these realms are chaotic beings that reflect and
   ![makoku](https://images.fineartamerica.com/images-medium-large/lair-of-the-ashen-idol-philip-straub.jpg){position:aboslute,top:0px,left:-130px,width:80%,transform:scaleX(-1)}
 }}
 
-{{imageMaskCorner30,--offsetX:-69%,--offsetY:-51%,--rotation:0
+{{imageMaskCorner30,--offsetX:-70%,--offsetY:-51%,--rotation:0
   ![fukai](https://i.redd.it/dixyox14yel31.jpg){position:aboslute,bottom:-190px,left:-200px,width:120%,transform:scaleX(-1)}
 }}
 
@@ -576,7 +576,7 @@ Creatures that come from one of these realms are chaotic beings that reflect and
 
 }}
 
-{{position:absolute,top:1040px,left:390px,margin-bottom:-30px,align:right
+{{position:absolute,top:1040px,left:385px,margin-bottom:-30px,align:right
 
 <!-- ##### Fūkai -->
 ##### Fukai
@@ -592,23 +592,25 @@ Creatures that come from one of these realms are chaotic beings that reflect and
 
 # Zodiac and the Creation Myth
 
-![zodiac](https://i.imgur.com/r2X5mqw.png) {width:525px,position:absolute;left:50%;transform:translateX(-50%)}
+![zodiac](https://i.imgur.com/r2X5mqw.png) {width:530px,position:absolute;left:50%;transform:translateX(-50%)}
 
-{{position:absolute,top:565px,left:550px,margin-bottom:-30px,align:right
+{{position:absolute,top:575px,left:550px,margin-bottom:-30px,align:right
 
 ##### The Zodiac </br> wheel
 
 }}
 
-:::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::
 
-{{#fancy I}}{{#after-fancy n the beginning of creation, there was said}} to be nothing but Void, a sea of deep stillness, a place lacking in any contrast or duality. Magically, from this space the first spark and twinkle of starlight appeared. Eventually more and more of this starlight formed, danced together, and took shape as the first of the Ō-Hoshikuzushin (大星屑神, 'Great Stardust Deity'), Ō-Seiza-Ryū (大星座竜, 'Great Constellation Dragon'). In turn, 13 more Ō-Hoshikuzushin were born from the nothingness, and they brought with them emotion and conflict, passion and calm, into the realm that would become known as Hoshikuzuten (星屑天, 'Stardust Heaven').
+{{#fancy I}}{{#after-fancy n the beginning of creation, there was said}} to be nothing but Void, a sea of deep stillness, a place lacking in any contrast or duality. Magically, from this space the first spark and twinkle of starlight appeared. Eventually more and more of this starlight formed, danced together, and took shape as the first of the Ō-Hoshikuzushin (大星屑神, 'Great Stardust Deity'), Ō-Seiza-Ryū (大星座竜, 'Great Constellation Dragon'). In turn, 13 more </br>Ō-Hoshikuzushin were born from the nothingness, and they brought with them emotion and conflict, passion and calm, into the realm that would become known as Hoshikuzuten (星屑天, 'Stardust Heaven').
 
-After spending many moments together, the Ō-Hoshikuzushin found themselves complacent, in a world that was falling back to stillness. This was when Ō-Seiza-Nezumi (大星座鼠, 'Great Constellation Mouse') had an ingenious idea to bring energy, life, and death back to the world, which she shared with her close friend Ō-Seiza-Ryū. Ō-Seiza-Ryū, delighted by the idea,
+After spending many moments together, the Ō-Hoshikuzushin found themselves complacent, in a world that was falling back to stillness. This was when Ō-Seiza-Nezumi (大星座鼠, 'Great Constellation Mouse') had an ingenious idea to bring energy, life, and death back to the world, which she shared with her close friend </br>Ō-Seiza-Ryū. Ō-Seiza-Ryū, delighted by the idea,
+
+\column
 
 ::::::::::::::::::::::::::::::::::::::
 
-conjured up a scroll out of the starlight that surrounded them, and unfurled it to reveal an empty map of the world beneath them. Then, with a constellation brush and ink of void, they collaborated together to draw the shores and coast of what would become Sumiriku. These Ō-Hoshikuzushin, and their home in Hoshikuzuten, can still be seen by those with keen eyes and open spirits when looking up into the constellations that form in the night sky.
+conjured up a scroll out of the starlight that surrounded them, and unfurled it to reveal an empty map of the world beneath them. Then, with a constellation brush and ink of void, they collaborated together to draw the shores and coast of what would become Sumiriku. These </br>Ō-Hoshikuzushin, and their home in Hoshikuzuten, can still be seen by those with keen eyes and open spirits when looking up into the constellations that form in the night sky.
 
 This creation fuels the idea of In'yō, the belief in the cosmic balance of light and dark; the black ink gives meaning to the white paper and the white paper gives meaning to the black ink.
 
@@ -623,9 +625,9 @@ The Zodiac is a cycle of the 14 </br>Ō-Hoshikuzushin, which repeats after every
 
 # Major Deities
 
-T {{width:5px}} he Myōjin (明神, 'Shining Deity'), also known as the Ōkami (大神, 'Great Deity'), are Kami second only to the Ō-Hoshikuzushin in terms of their divinity and greatness, and are worshipped by the citizens of Sumiriku as deities over whole domains. Some of these beings were born as Myōjin, but many were people who transcended themselves to become Kami and then be placed among the Myōjin. The Myōjin spend much of their time within the realm known as Kumonoue, but they can enter Utsushiyo by crossing a bridge called the Niji-no-Ukihashi. Below is a list of the Myōjin, with a description of their traits and deeds, as well as the unique domain they have control over.
+T {{width:5px}}he Myōjin (明神, 'Shining Deity'), also known as the Ōkami (大神, 'Great Deity'), are Kami second only to the </br>Ō-Hoshikuzushin in terms of their divinity and greatness, and are worshipped by the citizens of Sumiriku as deities over whole domains. Some of these beings were born as Myōjin, but many were people who transcended themselves to become Kami and then be placed among the Myōjin. The Myōjin spend much of their time within the realm known as Kumonoue, but they can enter Utsushiyo by crossing a bridge called the Niji-no-Ukihashi. Below is a list of the Myōjin, with a description of their traits and deeds, as well as the unique domain they have control over.
 
-### The Obake Quadruplets ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:407px,left:55px,width:375px,mix-blend-mode:normal}
+### The Obake Quadruplets ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:405px,left:55px,width:375px,mix-blend-mode:normal}
 
 The Obake Quadruplets are four sibling deities, one of each of Sumiriku's shapeshifting species. Each born as animals in a place of deep forest, they would all meet again each time a year passed. After 15 years they discovered that they had all become shapeshifters, with expanded
 
@@ -891,7 +893,7 @@ After his great act, Yūkan-sama continued to live out his days, spending time w
 
 ##### Note: Sacred Mountains
 
-Kamuy-Kemnu ('God-Bleed') is the Anagumago name for the tallest mountain in Ryugenshima, which also known in Sumirikugo as Mount Kakō (火口山, 'Crater Mountain'). It is one of the three most sacred mountains of Sumiriku, along with Mount Nenshō (燃焼山, 'Burning Mountain') in Ochinodojima and Mount Myō (明山, 'Shining Mountain') in Tenrai Island, near Nezumijima.
+Kamuy-Kemnu ('God-Bleed') is the Anagumago name for the tallest mountain in Ryugenshima, which also known in Sumirikugo as Mount Kakō </br>(火口山, 'Crater Mountain'). It is one of the three most sacred mountains of Sumiriku, along with Mount Nenshō (燃焼山, 'Burning Mountain') in Ochinodojima and Mount Myō (明山, 'Shining Mountain') in Tenrai Island, near Nezumijima.
 
 }}
 
@@ -1089,7 +1091,7 @@ TODO
 
 # Character Species
 
-T {{width:5px}} here are many species that make up the peoples of Sumiriku, who come in all manner of shapes and sizes and are spread all across the lands. Each of these species have their own unique traits, quirks, and abilities, which each species puts to great use. From the mountains, to the rivers and seas, to the mystical forests, to the skies themselves, if you explore you will find families and communities all over Sumiriku.
+T {{width:5px}}here are many species that make up the peoples of Sumiriku, who come in all manner of shapes and sizes and are spread all across the lands. Each of these species have their own unique traits, quirks, and abilities, which each species puts to great use. From the mountains, to the rivers and seas, to the mystical forests, to the skies themselves, if you explore you will find families and communities all over Sumiriku.
 
 In this section you will find details on the appearance, culture, and traits of each of Sumiriku's fourteen different species, as well as mechanical details for playing as each of these species. There are also a selection of variant options presented called Aberrant Forms, beings who have been altered by otherworldly forces.
 
@@ -1188,7 +1190,7 @@ As a Nekotaiyō, you gain these special traits:
 
 ## 月人 - Tsukibito (Moonfolk)
 
-Tsukibito are associated with rabbits, and are believed to have first lived on the moon, Eisei, before arriving on Sumiriku; The people of Sumiriku believe they can see a face of a Tsukibito when they look up at Eisei. This connection with the moon gives many Tsukibito some power over gravity, as well as a somewhat alien mind to most of the other peoples of Sumiriku. Tsukibito have long &nbsp;hair that is often seen tied up in almost gravity- &nbsp;&nbsp;&nbsp;&nbsp;defying buns and ears that fall like ribbons, &nbsp;&nbsp;&nbsp;&nbsp;frequently wrapped around the hair buns to &nbsp;&nbsp;&nbsp;&nbsp;hide their length. Tsukibito are long-lived, typically reaching maturity around age 20 and living anywhere from 200-250 years. Those that place their feet on the ground stand an average of around 5 to 6 feet tall.
+Tsukibito are associated with rabbits, and are believed to have first lived on the moon, Eisei, before arriving on Sumiriku; The people of Sumiriku believe they can see a face of a Tsukibito when they look up at Eisei. This connection with the moon gives many Tsukibito some power over gravity, as well as a somewhat alien mind to most of the other peoples of Sumiriku. Tsukibito have long hair that is often seen tied up in almost &nbsp;&nbsp;&nbsp;gravity-defying buns and ears that fall like &nbsp;&nbsp;&nbsp;ribbons, frequently wrapped around the hair &nbsp;&nbsp;&nbsp;buns to hide their length. Tsukibito are long-lived, typically reaching maturity around age 20 and living anywhere from 200-250 years. Those that place their feet on the ground stand an average of around 5 to 6 feet tall.
 
 There are three variants of Moonfolk. The most common are the Soratami (空民), or Skyfolk, who are said to have been the first Tsukibito, who descended from their birthplace on the Moon. They have very fair and sheer white skin, traditionally decorated with delicate, sweeping purple tattoos, and frequently live in floating palaces and settlements. Within these settlements they are known to keep extensive records, histories, and any other scholarly information they can gather. They also are most commonly seen levitating just slightly, as to not dirty themselves by touching the ground.
 
@@ -1744,7 +1746,7 @@ Kajin-sama is a Kitsune Myōjin, the God of Revelry. Kajin-sama was chosen from 
 
 ### Kitsune Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
-{{#less-big-column
+{{#big-column
 
 **Creature Type:** :: Humanoid, Obake (Shapechanger)
 **Size:**          :: Medium (About 4-6 feet tall)
@@ -1761,7 +1763,7 @@ You also gain the Obake (Shapechanger) creature type.
 
 ***Majestic Tails.*** At Character Level 4 you grow a second tail, signifying your personal growth and enlightenment. After every second level you gain from then, you grow another tail, to a maximum of 9. As a Reaction to yourself failing a D20 Test, you can add a bonus to your roll equal to the number of tails you have, potentially changing the result from a fail to a success. Once you use this feature, you must finish a Short Rest or Long Rest before you can use it again. When you grow your 9th tail, you also gain the Kami (Celestial) creature type.
 
-***Divine Messenger.*** You know the *Dancing Lights* and *Message* cantrips. You can cast these while in your Animal form. When you use the *Dancing Lights* cantrip from this feature, they have the appearance </br>of floating flames called Kitsunebi.
+***Divine Messenger.*** You know the *Dancing Lights* and *Message* cantrips. You can cast these while in your Animal form. When you use the *Dancing Lights* cantrip from this feature, they have the appearance of floating flames called Kitsunebi.
 
 }}
 
@@ -2002,13 +2004,15 @@ As a Korpokkur, you gain these special traits:
 
 ## 竜孫 - Ryūson (Dragonborn)
 
-Of all the peoples of Sumiriku, it is perhaps the Ryūson that are the most distinct. The first Ryūson were said to have hatched from eggs forged by the great Ryū, or Dragons, of Sumiriku, and were made in the image of said Ryū. The Ryūson take an appearance akin to the serpentine look of their ancestors, except in a humanoid form, with scaled skin, brightly coloured hair, and two pronged horns protruding backward. They also share the magical affinity of their ancestors, being able to conjure up and breathe out gusts of magic to thwart their foes. Male Ryūson also have prominent whiskers and often beards, of the same colour as their hair, whereas female Ryūson have more elegant horns. Ryūson typically stand at a similar hight to humans at around 5 to 7 feet, but this doesn't take into account their serpentine tails that sometimes grow to the length of their bodies. Ryūson typically live around 150 years, and those </br>that live careful lives can frequently exceed </br>this. This longer life, combined with the relatively recent creation of the Godai Ryūson </br>as a species, gives some Ryūson pause about their place in a larger world. Some Ryūson, those with the strongest familial ties, can trace their lineage directly back to the first eggs forged by the Dragon-Kami.
+Of all the peoples of Sumiriku, it is perhaps the Ryūson that are the most distinct. The first Ryūson were said to have hatched from eggs forged by the great Ryū, or Dragons, of Sumiriku, and were made in the image of said Ryū. The Ryūson take an appearance akin to the serpentine look of their ancestors, except in a humanoid form, with scaled skin, brightly coloured hair, and two pronged horns protruding backward. They also share the magical affinity of their ancestors, being able to conjure up and breathe out gusts of magic to thwart their foes. Male Ryūson also have prominent whiskers and often beards, of the same colour as their hair, whereas female Ryūson have more elegant horns. Ryūson typically stand at a similar hight to humans at around 5 to 7 feet, but this doesn't take into account their serpentine tails that sometimes grow to the length of their bodies. Ryūson typically live around 150 years, and those </br>that live careful lives can frequently exceed </br>this. This longer life, combined with the relatively recent creation of the Godai </br>Ryūson as a species, gives some Ryūson pause about their place in a larger world. Some Ryūson, those with the strongest familial ties, can trace their lineage directly back to the first eggs forged by the Dragon-Kami.
 
-Ryūson come in many styles, in association with the types of Ryū in existence across Sumiriku. The Kinzoku Ryūson were the first </br>of their kind, forged by the original Kinzoku Ryū. They have scales that glint in the colours of precious metals, gold, silver, or bronze, and their hair and horns match this noble visage. Like the Kinzoku Ryū the traits of these Ryūson are tied to water and rain, and stories of these Ryūson portray them as sharing in draconic nobility. In contrast, the Godai Ryūson lack a connection to such noble beings, and are often believed to have a similar self-serving nature as their creator Ryū. These Ryūson possess an affinity for one of the base elements that construct the universe, and the colour of their scales and hair evoke that element.</br></br></br></br></br></br>
+Ryūson come in many styles, in association with the types of Ryū in existence across Sumiriku. The Kinzoku Ryūson were the first </br>of their kind, forged by the original Kinzoku </br>Ryū. They have scales that glint in the colours of precious metals, gold, silver, or bronze, and their hair and horns match this noble visage. Like the Kinzoku Ryū the traits of these Ryūson are tied to water and rain, and stories of these Ryūson portray them as sharing in draconic nobility. In contrast, the Godai Ryūson lack a connection to such noble beings, and are often believed to have a similar self-serving nature as their creator Ryū. These Ryūson possess an affinity for one of the base elements that construct the universe, and the colour of their scales and hair evoke that element.
 
-Ryūson frequently take up military positions, as warriors or bodyguards. Their Dragon lineage grants them impressive dedication and willpower, though they often lack an ideology or belief to direct that strength.
+\column
 
-Ryūson are unique in that they lack representation from among the Myōjin. Tamata-No-Orochi, the God of Tyranny, was felled and imprisoned long ago, and no deity has replaced her. Only a few still worship her, and in her stead there are many Dragon-Kami that receive worship particularly from Ryūson.
+&nbsp;Ryūson frequently take up military positions, as warriors or bodyguards. Their Dragon lineage grants them impressive dedication and willpower, though they often lack an ideology or belief to direct that strength.
+
+Ryūson are unique in that they lack representation from among the Myōjin. </br>Tamata-No-Orochi, the God of Tyranny, was felled and imprisoned long ago, and no deity has replaced her. Only a few still worship her, and in her stead there are many Dragon-Kami that receive worship particularly from Ryūson.
 
 {{imageMaskCorner20,--offsetX:45%,--offsetY:-25%,--rotation:0
   ![burning](https://cdnb.artstation.com/p/assets/images/images/013/237/305/large/matt-lara-honnoji2.jpg?1538679777){position:absolute,bottom:-50px,right:-175px,width:90%,mix-blend-mode:multiply}
@@ -2374,7 +2378,7 @@ You stay in the new form until you use an Action to revert to your true form or 
   ![barbarian](https://i.imgur.com/Gbp6A7L.png){position:absolute,top:-1px,left:-500px,height:101%,transform:scaleX(-1)}
 }}
 
-{{position:absolute,top:1060px,left:365px,margin-bottom:-30px,text-align:left
+{{position:absolute,top:1065px,left:365px,margin-bottom:-30px,text-align:left
 
 <!-- ##### An Ōtsuchi-wielding Barbarian -->
 ##### An Otsuchi-wielding Barbarian
@@ -2430,7 +2434,7 @@ As a Bonus Action you can swing your tail around to trip your foes. Each creatur
 
 You learn certain Exploits at the Alternate Barbarian levels in the table below. These don't count against your number of Exploits Known and can't be switched upon gaining a level.
 
-{{#subclass-table
+{{#small-text-table
 
 | Alt. Barbarian Level | Exploit                            |
 |:---------------------|:-----------------------------------|
@@ -2602,7 +2606,7 @@ In the shadowy corners of the world there exist a select few, who have taken a m
 </br>
 To most people, Yōkai seem like nothing more than curious miscreants, mischief makers - few recognise the true danger these otherworldly beings can bring. Dwelling within Kimyōkai, creatures of great power plot and scheme at the downfall of the manifest world and their control over both realms. The world's protection comes from Yokai hunters calling themselves the Shiftstalkers, who have mastered using the Yokai's techniques of disguise, trickery, and manipulation against them.
 
-<!-- {{#subclass-table
+<!-- {{#small-text-table
 
 | Alt. Blood Hunter Level | Feature                                           |
 |:------------------------|:--------------------------------------------------|
@@ -2715,7 +2719,7 @@ Dualness - Text - TODO
 
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in table below, you thereafter always have the listed spells prepared.
 
-{{#subclass-table
+{{#small-text-table
 
 | Cleric Level | Prepared Spells      |
 |:------------:|:---------------------|
@@ -2759,7 +2763,7 @@ Ocean - Text - TODO
 
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in table below, you thereafter always have the listed spells prepared.
 
-{{#subclass-table
+{{#small-text-table
 
 | Cleric Level | Prepared Spells                                       |
 |:------------:|:------------------------------------------------------|
@@ -2798,7 +2802,7 @@ Soaring - Text - TODO
 
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in table below, you thereafter always have the listed spells prepared.
 
-{{#subclass-table
+{{#small-text-table
 
 | Cleric Level | Prepared Spells                                                  |
 |:------------:|:-----------------------------------------------------------------|
@@ -2860,7 +2864,7 @@ Flowers - Text - TODO
 
 Your connection to this circle ensures that you always have certain spells ready. When you reach a Druid level specified in the table below, you thereafter always have the listed spells prepared.
 
-{{#subclass-table
+{{#small-text-table
 
 | Druid Level | Prepared Spells                                                     |
 |:-----------:|:--------------------------------------------------------------------|
@@ -2910,7 +2914,7 @@ Natural Disasters
 
 Whenever you finish a Long Rest, choose one type of disaster: earthquake, eruption, tsunami, or typhoon. Consult the table below that corresponds to the chosen type; you have the spells listed for your Druid level and lower prepared.
 
-{{#subclass-list-table
+{{#small-text-table
 
 ##### Earthquake
 
@@ -2923,7 +2927,7 @@ Whenever you finish a Long Rest, choose one type of disaster: earthquake, erupti
 
 }}
 
-{{#subclass-list-table
+{{#small-text-table
 
 ##### Eruption
 
@@ -2936,7 +2940,7 @@ Whenever you finish a Long Rest, choose one type of disaster: earthquake, erupti
 
 }}
 
-{{#subclass-list-table
+{{#small-text-table
 
 ##### Tsunami <!-- None of these deal cold damage reeeeeeeeeee -->
 
@@ -2953,7 +2957,7 @@ Whenever you finish a Long Rest, choose one type of disaster: earthquake, erupti
 
 :::::::::::::::::::::::::::::::::::
 
-{{#subclass-list-table
+{{#small-text-table
 
 ##### Typhoon
 
@@ -3488,7 +3492,7 @@ You are the hand through which the will of your Daimyō is done. Being among the
 \column
 
 {{imageMaskEdge1,--offset:26%,--rotation:180
-  ![ronin](https://cdnb.artstation.com/p/assets/images/images/069/171/367/4k/jason-scheier-14d.jpg?1699490193){position:absolute,top:-80px,width:101%}
+  ![ronin](https://cdnb.artstation.com/p/assets/images/images/069/171/367/4k/jason-scheier-14d.jpg?1699490193){position:absolute,top:-80px,left:-1px,width:101%}
 }}
 
 {{position:absolute,top:375px,left:300px,margin-bottom:-30px
@@ -3641,8 +3645,6 @@ A Horagai (法螺貝) is a trumpet made from a large conch shell, often carried 
 
 }}
 
-::
-
 {{note
 
 ##### Note: Shakujo
@@ -3674,13 +3676,13 @@ A Shakujō (錫杖) is a staff topped with a metal loop, with smaller metal ring
 
 }}
 
-::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::
 
-### Weapon Tables ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:664px,left:55px,width:375px,mix-blend-mode:normal}
+### Weapon Tables ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:650px,left:55px,width:375px,mix-blend-mode:normal}
 
 \column
 
-::::::::
+:::::
 
 ## Weapons
 
@@ -3867,6 +3869,8 @@ A shorter form of the Yumi, or Bow, used to fire arrows known as Ya. Notable for
 
 A concealed blade weapon, either in the shape of flat discs of sharp metal or small darts. Their aerodynamic shape makes them excellent thrown weapons, able to create distractions or quietly take out targets from out of sight. Flat disc Shuriken, or Hira Shuriken, are also often known as throwing stars because of this. Despite this they are also useful tools in close quarters combat, and their small size and light weight makes it possible to hide and carry many on one's person for quick access. These traits make Shuriken common weapons of the Ninja, great for stealthy assassinations. Seeing a Shuriken out of place should fill you with fear, as you can be sure someone is watching you from the shadows.
 
+\column
+
 #### Jitte (十手)
 
 A specialised defensive weapon, formerly wielded by palace guards and other officers of the Shogunate. As to not threaten their rule, it was a crime punishable by death to bring a sword into the palace of the Shogun or one of their subordinates. Due to this restriction the Jitte became the most common weapon carried by these guards, and quickly became a symbol of these guard's exalted position. A Jitte has an iron shaft of around 45 cm, with a hook pointing upward coming out of the shaft. A Jitte is mainly used like a baton for striking foes, but the hook allows it to grapple an opponent on their clothes or body parts, to add protection while holding it in a fist, or even to catch an opponent's blade and disarm them.
@@ -4017,11 +4021,13 @@ Details for each Armour have been moved into their own Armour Properties, such a
 
 }}
 
-{{imageMaskCorner8,--offsetX:-61%,--offsetY:-34%,--rotation:0
-  ![armour](https://www.creativeuncut.com/gallery-39/art/got-jin-samurai-armor-progression.jpg){position:absolute,bottom:-20px,left:-20px,width:100%,mix-blend-mode:multiply,transform:scaleX(-1)}
+<!-- ![armour](https://cdnb.artstation.com/p/assets/images/images/029/297/109/4k/mitch-mohrhauser-jin-broken-armor-ranks-1.jpg?1597092452){position:absolute,bottom:-60px,left:-20px,width:100%,mix-blend-mode:multiply,transform:scaleX(-1)} -->
+
+{{imageMaskCorner27,--offsetX:-55%,--offsetY:-55%,--rotation:0
+  ![armour](https://preview.redd.it/t4e8x735tld61.jpg?width=640&crop=smart&auto=webp&s=d1c4d3bbd4fb7219d49fcdd50aa03beb207f4dc0){position:absolute,bottom:-100px,left:-1px,height:60%,mix-blend-mode:multiply,transform:scaleX(-1)}
 }}
 
-{{position:absolute,top:740px,left:260px,margin-bottom:-30px
+{{position:absolute,top:1050px,left:335px,margin-bottom:-30px
 
 ##### Samurai</br> armour
 
@@ -4031,7 +4037,7 @@ Details for each Armour have been moved into their own Armour Properties, such a
 
 :
 
-### Armour Properties ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:690px,left:400px,width:375px,mix-blend-mode:normal}
+### Armour Properties ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:691px,left:400px,width:375px,mix-blend-mode:normal}
 
 #### Bulky
 
@@ -4725,7 +4731,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 # Maps of Sumiriku and the World - TODO
 
-T {{width:5px}} ext - TODO
+T {{width:5px}}ext - TODO
 
 ![island-map](https://i.imgur.com/v4wZLoX.png) {position:absolute,top:200px,left:74px,width:1440px,opacity:85%}
 
@@ -4747,7 +4753,7 @@ T {{width:5px}} ext - TODO
 
 # Landscapes and Landmarks - TODO
 
-T {{width:5px}} ext - TODO
+T {{width:5px}}ext - TODO
 
 {{pageNumber,auto}}
 {{footnote PART 3 | GEOGRAPHY AND CULTURE}}
@@ -4792,7 +4798,7 @@ T {{width:5px}} ext - TODO
 
 # Calendar and Notable Events - TODO
 
-T {{width:5px}} he Sumiriku calendar is divided into 14 months, to match the 14 Zodiac animals, or Ō-Hoshikuzushin. The first and last months, Ichigatsu and Jūyogatsu, are two weeks long, and every other month is 4 weeks long. The 'Months' table shows the name and length of each month.
+T {{width:5px}}he Sumiriku calendar is divided into 14 months, to match the 14 Zodiac animals, or Ō-Hoshikuzushin. The first and last months, Ichigatsu and Jūyogatsu, are two weeks long, and every other month is 4 weeks long. The 'Months' table shows the name and length of each month.
 
 {{#default-table
 
@@ -4901,9 +4907,9 @@ The end of the current year and the beginning of the next. Ganjitsu also falls o
 
 }}
 
-::::::::::::::::::::::
+::::::::::::::::::::::::
 
-### Hyakki Chitsuki (百鬼血月, 'Hundred Oni Blood Moon') ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:396px,left:400px,width:375px,mix-blend-mode:normal}
+### Hyakki Chitsuki (百鬼血月, 'Hundred Oni Blood Moon') ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:426px,left:400px,width:375px,mix-blend-mode:normal}
 
 The Oni first poured out of their realm in Makoku, lead by their Oni Lords, during the Kaika Jidai, and plunged the world into darkness and horror. These Oni started a seemingly endless night by blotting out the sky, protecting themselves from the radiance of the twin suns during their assault. It took the wisdom of Tomomi-sama wielding Tasogare-no-Kagami in order to push the Oni back, return the suns and the stars to the sky, and seal them away within their realm, in a conflict now known as the Blood War. This entombment was not perfect however, and the Oni have discovered how to temporarily break their imprisonment and briefly bring chaos back to the real world.
 
@@ -4918,7 +4924,7 @@ The escape of the Oni causes a night of terror, known as the Hyakki Chitsuki, wh
 
 # Important People and Groups - TODO
 
-T {{width:5px}} ext - TODO
+T {{width:5px}}ext - TODO
 
 {{pageNumber,auto}}
 {{footnote PART 3 | GEOGRAPHY AND CULTURE}}
@@ -4946,7 +4952,7 @@ T {{width:5px}} ext - TODO
 
 # Sacred Treasures and other Magic Items - TODO
 
-T {{width:5px}} ext - TODO
+T {{width:5px}}ext - TODO
 
 {{note
 
@@ -5001,7 +5007,7 @@ Two groups of sacred treasures
 
 # Appendix A - Creature Stat Blocks
 
-T {{width:5px}} his section is a list of stat blocks for common creatures that inhabit the world of Sumiriku. These may be forms taken by local Druids, or the disguises of Sumiriku's Obake shapeshifters.
+T {{width:5px}}his section is a list of stat blocks for common creatures that inhabit the world of Sumiriku. These may be forms taken by local Druids, or the disguises of Sumiriku's Obake shapeshifters.
 
 ## Raccoon-Dogs
 
@@ -5595,7 +5601,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
   ![big-crane](https://cdna.artstation.com/p/assets/images/images/003/050/470/large/yintion-j-18.jpg?1469007478){position:absolute,top:-60px,right:-75px,width:90%,mix-blend-mode:multiply,transform:scaleX(1)}
 }}
 
-:::::::::::::::::::::::::::
+::::::::::::::::::::::
 
 {{monster,frame
 
@@ -5654,7 +5660,7 @@ T {{width:5px}} his section is a list of stat blocks for common creatures that i
 
 # Appendix B - Updated Feats
 
-T {{width:5px}} his section is a list of all changed feats for use in this setting, separated between Origin, Fighting Style, and General Feats and sorted alphabetically. These feats have been changed for rebalancing, to make the feats more interesting, or to make them fit better within this setting.
+T {{width:5px}}his section is a list of all changed feats for use in this setting, separated between Origin, Fighting Style, and General Feats and sorted alphabetically. These feats have been changed for rebalancing, to make the feats more interesting, or to make them fit better within this setting.
 
 ## Removed Feats List
 
@@ -5884,11 +5890,11 @@ Origin Feats can be taken whenever you could take a General Feat, rather than ju
 
 \page
 
-{{imageMaskCorner27,--offsetX:-47.5%,--offsetY:43%,--rotation:0
+{{imageMaskCorner27,--offsetX:-47.5%,--offsetY:41%,--rotation:0
   ![archer](https://artfiles.alphacoders.com/128/128179.jpg){position:absolute,top:-1px,left:-50px,height:60%,transform:scaleX(-1)}
 }}
 
-{{position:absolute,top:640px,left:280px,margin-bottom:-30px,text-align:left
+{{position:absolute,top:650px,left:290px,margin-bottom:-30px,text-align:left
 
 <!-- ##### A sharpshooter </br> with a Daikyū -->
 ##### A sharpshooter </br> with a Daikyu
@@ -5989,7 +5995,7 @@ Below is an list of the spells changed in this document, with a brief descriptio
 | Leomund's Tiny Hut        | <span style="color:red">No longer a ritual, dome has an AC and HP</span>                                                                                                                         |
 | Plant Growth              | <span style="color:red">Made Difficult Terrain</span>                                                                                                                                            |
 | Spirit Guardians          | Replaces Speed reduction with increased movement cost, <span style="color:red">creatures only take damage if emanation is moved on your turn</span>                                              |
-| Conjure Minor Elementals  | <span style="color:red">Instances of damaged capped to twice per turn, upcasting reduced to 1d8 per two spell slot levels</span>                                                                 |
+| Conjure Minor Elementals  | <span style="color:red">Instances of damaged capped to twice per turn</span>                                                                 |
 | Evard's Black Tentacles   | <span style="color:red">Save repeats at end of targets' turns,</span> <span style="color:green">no Action to escape</span>                                                                       |
 | Leomund's Secret Chest    | <span style="color:green">No random chance of losing chest</span>                                                                                                                                |
 | Phantasmal Killer         | <span style="color:green">Damage increased by 2d10</span>                                                                                                                                        |
@@ -6412,7 +6418,7 @@ You conjure spirits from the Elemental Planes that flit around you in a 15-foot 
 
 In addition, the ground in the Emanation is Difficult Terrain for your enemies.
 
-***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for every two spell slot levels above 4.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for every spell slot level above 4.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -6469,7 +6475,7 @@ For the duration, the target makes a Wisdom saving throw at the end of each of i
 **Duration:**     :: Concentration, up to 1 hour
 When you learn this spell, choose 3 Beasts to use with this spell. When you complete a Long Rest, you can replace one of these Beasts with a different one.
 
-This spell transforms a creature that you can see within range into one of the Beasts selected with this spell (See the rules on Transformations in Appendix D). An unwilling creature must make a Wisdom Saving Throw to avoid the effect. The Beast must have a Challenge Rating equal to or less than the target's Challenge Rating or level. An unwilling target has all their game statistics, including mental Ability Scores, languages, and ability to communicate, replaced by the statistics of the chosen beast. It retains its alignment and personality. If the target was willing, they can gain Temporary Hit Points equal to your Level plus this spell's level.
+This spell transforms a creature that you can see within range into one of the Beasts selected with this spell (See Appendix D). An unwilling creature must make a Wisdom Saving Throw to avoid the effect. The Beast must have a Challenge Rating equal to or less than the target's Challenge Rating or level. An unwilling target has all their game statistics, including mental Ability Scores, languages, and ability to communicate, replaced by the statistics of the chosen beast. It retains its alignment and personality. If the target was willing, they can gain Temporary Hit Points equal to your Level plus this spell's level. These Temporary Hit Points vanish if any remain when the spell ends.
 
 The transformation lasts for the duration. The target can choose to end the spell early when they take damage, and they can also choose to repeat the Saving Throw at the end of each of its turns, ending the effect on a success.
 
@@ -6590,7 +6596,7 @@ While you possess a creature, this spell ends, returning your soul to your body 
 - If the host body is successfully possessed by another creature
 - If the container is destroyed
 - If the body ceases to be a humanoid
-- If you take the Magic Action to end the spell
+- If you take the Magic action to end the spell
 - If the spell ends for any reason
 
 Meanwhile, the possessed creature's soul can perceive from the container using its own senses, but it can't move or take actions at all. If the host body is dead when the spell ends, they die. If your body is dead when the spell ends, you die. When the spell ends, the container is destroyed.
@@ -6752,7 +6758,7 @@ The wall, which has AC 10, can be destroyed one layer at a time, in order from r
 **Duration:**     :: Concentration, up to 1 hour
 You shape-shift into another creature for the duration or until you take a Magic action to shape-shift into a different eligible form. The new form must be of a creature that has a Challenge Rating no higher than your level or Challenge Rating. You must have seen the sort of creature before, and it can't be a Construct or an Undead.
 
-When you shape-shift, you gain a number of Temporary Hit Points equal to the Hit Points of the form. The spell ends early if you have no Temporary Hit Points left.
+When you cast the spell, you gain a number of Temporary Hit Points equal to the Hit Points of the first form into which you shape-shift. These Temporary Hit Points vanish if any remain when the spell ends.
 
 Your game statistics are replaced by the stat block of the chosen form, but you retain your creature type; alignment; personality; Intelligence, Wisdom, and Charisma scores; Hit Points; Hit Point Dice; proficiencies; and ability to communicate. If you have the Spellcasting feature, you retain it too, but you can't cast spells using traits of your new form. You also can't use any Legendary Actions or Lair Actions of the new form. Until this spell ends, any shapechanging you do can only be through this spell.
 
@@ -6778,7 +6784,7 @@ This spell has no effect on a Shapechanger or a creature with 0 Hit Points. An u
 
 **Creature into Creature.** If you turn a creature into another kind of creature, the new form can be any kind you choose that has a Challenge Rating equal to or less than the target's Challenge Rating or level. The target's game statistics are replaced by the stat block of the new form, but it retains its Hit Points, Hit Point Dice, alignment, and personality.
 
-The target gains a number of Temporary Hit Points equal to the Hit Points of the new form. The spell ends early on the target if it has no Temporary Hit Points left.
+The target gains a number of Temporary Hit Points equal to the Hit Points of the new form. These Temporary Hit Points vanish if any remain when the spell ends. The spell ends early on the target if it has no Temporary Hit Points left.
 
 The target is limited in the actions it can perform by the anatomy of its new form, and it can't speak, change shape, or cast spells
 
@@ -6814,7 +6820,7 @@ Using Wish in any way other than duplicating a spell causes any effects previous
 
 # Appendix D - Rule Changes Glossary
 
-T {{width:5px}} his section covers all homebrew rule changes suggested to be used alongside the new options presented in this book. Some of these rules tie in to options that have already been presented, but most are independent of these new features, and instead are here for clarification or simplification of certain rules and edge cases, in order to make playing the game a smoother experience.
+T {{width:5px}}his section covers all homebrew rule changes suggested to be used alongside the new options presented in this book. Some of these rules tie in to options that have already been presented, but most are independent of these new features, and instead are here for clarification or simplification of certain rules and edge cases, in order to make playing the game a smoother experience.
 
 ## Areas of Effect and Emanations
 

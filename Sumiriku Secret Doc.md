@@ -36,7 +36,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 {{toc
 
-- ### [{{ PART 1 - The Infinite Library}}{{ 3}}](#p4) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:127px,left:55px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 1 - The Infinite Library}}{{ 3}}](#p4) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:129px,left:55px,width:245px,mix-blend-mode:normal}
 
   - ###### [{{ Items and Treasures}}{{ 4}}](#p5)
   
@@ -46,48 +46,53 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
       - [{{ Noh Mask of the Noppera-bō}}{{ 5}}](#p6)
       - [{{ Prayer Beads to the Myōjin}}{{ 5}}](#p6)
       - [{{ Red Feather?}}{{ 5}}](#p6)
-      - [{{ Twin Dragon Longbow }}{{ 5}}](#p6)
-      - [{{ Prostheses}}{{ 6}}](#p7)
-        - [{{ Shinobi Prosthetic}}{{ 6}}](#p7)
-        - [{{ Shuko Claws}}{{ 6}}](#p7)
-    - [{{ Unique Items}}{{ 7}}](#p8)
-      - [{{ Kakure-bi, the Concealed}}{{ 7}}](#p8)
-      - [{{ Kane-tsuki, the Warcaller}}{{ 7}}](#p8)
-      - [{{ Kenzo's Jitte}}{{ 7}}](#p8)
-      - [{{ Tansa-Ki, the Asteroid}}{{ 7}}](#p8)
-      - [{{ Wakare, the Branching}}{{ 8}}](#p9)
-    - [{{ Sacred Treasures}}{{ 9}}](#p10)
-      - [{{ The Relics of Kumonoue}}{{ 9}}](#p10)
-      - [{{ The Starlight Regalia}}{{ 9}}](#p10)
+      - [{{ Statue of Preservation}}{{ 5}}](#p6)
+      - [{{ Twin Dragon Daikyū }}{{ 6}}](#p7)
+      - [{{ Prostheses}}{{ 8}}](#p9)
+        - [{{ Shinobi Prosthetic}}{{ 8}}](#p9)
+        - [{{ Shuko Claws}}{{ 8}}](#p9)
+    - [{{ Unique Items}}{{ 9}}](#p10)
+      - [{{ Kakure-bi, the Concealed}}{{ 9}}](#p10)
+      - [{{ Kane-tsuki, the Warcaller}}{{ 9}}](#p10)
+      - [{{ Kenzo's Jitte}}{{ 9}}](#p10)
+      - [{{ Musei, the Unknown}}{{ 9}}](#p10)
+      - [{{ Ori, the Eight-Fold}}{{ 10}}](#p11)
+      - [{{ Tansa-Ki, the Asteroid}}{{ 10}}](#p11)
+      - [{{ Wakare, the Branching}}{{ 11}}](#p12)
+    - [{{ Sacred Treasures}}{{ 12}}](#p13)
+      - [{{ The Relics of Kumonoue}}{{ 12}}](#p13)
+      - [{{ The Starlight Regalia}}{{ 12}}](#p13)
 
-  - ###### [{{ Allies, Monsters, and Villains}}{{ 10}}](#p11)
+  - ###### [{{ Allies, Monsters, and Villains}}{{ 14}}](#p15)
   
-    - [{{ Allies}}{{ 10}}](#p11)
-      - [{{ Masuzō}}{{ 10}}](#p11)
-      - [{{ Makoto}}{{ 12}}](#p13)
-      - [{{ Atsuki}}{{ 13}}](#p14)
-      - [{{ Yuxuan}}{{ 14}}](#p15)
-    - [{{ The Hyakushima Bandits}}{{ 15}}](#p16)
-    - [{{ Hoki Castle}}{{ 16}}](#p17)
-      - [{{ Hatsumomo}}{{ 17}}](#p18)
-      - [{{ Daimyō Hidemaro}}{{ 18}}](#p19)
-    - [{{ Genji and Okamoto}}{{ 19}}](#p20)
-    - [{{ Godaiyō}}{{ 21}}](#p22)
-      - [{{ Raiju}}{{ 21}}](#p22)
-    - [{{ Yokai}}{{ 22}}](#p23)
-      - [{{ Ningyo}}{{ 22}}](#p23)
-    - [{{ Undead}}{{ 23}}](#p24)
-      - [{{ Jiangshi}}{{ 23}}](#p24)
-    - [{{ Generic Foes}}{{ 24}}](#p25)
-      - [{{ Samurai and Ashigaru}}{{ 24}}](#p25)
+    - [{{ Allies}}{{ 14}}](#p15)
+      - [{{ Masuzō}}{{ 14}}](#p15)
+      - [{{ Makoto}}{{ 16}}](#p17)
+      - [{{ Atsuki}}{{ 17}}](#p18)
+      - [{{ Yuxuan}}{{ 18}}](#p19)
+    - [{{ The Hyakushima Bandits}}{{ 19}}](#p20)
+    - [{{ Hoki Castle}}{{ 20}}](#p21)
+      - [{{ Hatsumomo}}{{ 21}}](#p22)
+      - [{{ Daimyō Hidemaro}}{{ 22}}](#p23)
+    - [{{ Genji and Okamoto}}{{ 23}}](#p24)
+    - [{{ Godaiyō}}{{ 25}}](#p26)
+      - [{{ Raiju}}{{ 25}}](#p26)
+    - [{{ Yokai}}{{ 26}}](#p27)
+      - [{{ Ningyo}}{{ 26}}](#p27)
+    - [{{ Undead}}{{ 27}}](#p28)
+      - [{{ Jiangshi}}{{ 27}}](#p28)
+    - [{{ Generic Foes}}{{ 28}}](#p29)
+      - [{{ Samurai and Ashigaru}}{{ 28}}](#p29)
 
-- ### [{{ PART 2 - The Living Lore}}{{ 25}}](#p26) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:808px,left:55px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 2 - The Living Lore}}{{ 29}}](#p30) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:795px,left:55px,width:245px,mix-blend-mode:normal}
 
-  - ###### [{{ Letters and Documents}}{{ 26}}](#p27)
+  - ###### [{{ Letters and Documents}}{{ 30}}](#p31)
   
-    - [{{ Sensei Kenzo’s Letter to the Students}}{{ 26}}](#p27)
-    - [{{ The Usagi’s Letter to Jun}}{{ 26}}](#p27)
-    - [{{ Haiku of the Fading Mire}}{{ 27}}](#p28)
+    - [{{ Sensei Kenzo’s Letter to the Students}}{{ 30}}](#p31)
+    - [{{ The Usagi’s Letter to Jun}}{{ 30}}](#p31)
+    - [{{ Haiku of the Fading Mire}}{{ 31}}](#p32)
+    - [{{ Cultist’s Poem}}{{ 31}}](#p32)
+    - [{{ Note to Sayuri from Kaito}}{{ 31}}](#p32)
 
 }}
 
@@ -120,7 +125,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 Some text
 
-::::
+:::::
 
 {{note
 
@@ -144,6 +149,11 @@ There are a selection of additional tags that any item can have. Craftable is fo
 
 *Wondrous Item, Rare, Aesthetic* </br>
 This saya, or katana scabbard, is light pink in colour, with silver detailing and a purple sageo cord. When a katana is drawn from this saya, strongly scented sakura blossoms appear traveling along the path of the draw, alongside a swift gust of wind, before they disperse into the open air.
+
+#### Heartbreaker Kaiken
+
+*Weapon (Tantō), Common, Minor*</br>
+This style of knife, in a sheath disguised as a make-up box, is often carried in a sleeve or Kimono pocket for self-defence by Geisha or working girls. If you hit a creature with the Charmed condition with this Tantō the attack is a Critical Hit.
 
 #### Kyōsei Claw
 
@@ -172,11 +182,12 @@ When you put on the mask you can choose to cast the Disguise Self spell. The spe
 
 #### Prayer Beads to the Myōjin
 
-*Wondrous item, Rare, Major (requires attunement by a Wisdom caster)* </br>
+*Wondrous Item, Rare, Major (requires attunement by a Wisdom caster)* </br>
 This bracelet of wooden prayer beads, known as an ōjuzu, has been made to help recite prayer to the Myōjin, the most divine of the Kami. In addition to the many non-magical wooden beads, the bracelet has a number of magical beads, each one engraved with the name of one of the Myōjin. Each magical bead contains a specific spell related to that Myōjin, that you can cast from it as a bonus action (using your spell save DC if a save is necessary). To use the bead, you must be wearing the bracelet. Once a magic bead's spell is cast, that bead can't be used again until the next dawn. If a magic bead is removed from the bracelet, that bead loses its magic. If more beads are discovered, they can be added to the bracelet.
 
 The bracelet currently has beads of the following spells, listed with their associated Myōjin:
 
+- Inzanami-sama: *Spirit of Death*<sup>BMT</sup>
 - Netsu-sama: *Haste*
 - Kahei-sama: *Calm Emotions*
 
@@ -191,6 +202,18 @@ If this feather is held tightly, when the person holding the feather drops to 0 
 
 This feather can instead be used to return the recently deceased back to life. When placed on the body of a creature that has died within the last minute, they return to life with 1 hit point, as in the *Revivify* spell. This can't return to life a creature that has died of old age, nor can it restore any missing body parts. The feather is also consumed if used in this way.
 
+#### Statue of Preservation
+
+*Wondrous Item, Common, Minor (requires attunement)* </br>
+This small statue of a decaying body in meditation gives off a spectral, haunting aura. While this statue is within 300 feet of you, if you are attuned to it, you have Advantage on Death Saving Throws.
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
 #### Twin Dragon Daikyū
 
 *Weapon (Daikyū), Very Rare, Major (requires attunement)*</br>
@@ -199,6 +222,13 @@ This Daikyū is elegantly carved and decorated, painted a sheer white and detail
 You gain a +1 bonus to Attack and Damage Rolls made using this Daikyū. Attacks with this Daikyū deal either Fire or Force damage, instead of Piercing, chosen when you make the attack. On a hit, the Daikyū deals an extra 1d6 damage of the chosen type.
 
 In place of an attack, you can release a 150-foot long and 5-foot-wide Line of energy from the Daikyū. Each creature in the Line makes a Dexterity Saving Throw, taking 1d8 Fire damage and 1d8 Force damage on a failed save or half as much damage on a successful one. Once you use this feature, you cannot use it again until you complete a Short or Long Rest.
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
@@ -288,6 +318,27 @@ In addition, immediately after you cast an Abjuration, Enchantment, or Illusion 
 
 \page
 
+#### Ori, the Eight-Fold
+
+*Wondrous Item, Unique, Epic (Requires Attunement)* </br>
+Philosophy from Zāngkē speaks of the eight paths of life one must travel in order to find enlightenment. Less spoken of are those who lose their way on a path and find themselves trapped, their soul never to return.
+
+Ori (檻, 'Cage') is an octagonal mirror, 4 foot in length, with symbols on each side. When this mirror is viewed indirectly, its surface shows faint images of creatures. The mirror weighs 50 pounds, and it has AC 11, HP 10, Immunity to Poison and Psychic damage, and Vulnerability to Bludgeoning damage. It shatters and is destroyed when reduced to 0 Hit Points.
+
+If the mirror is hanging on a vertical surface and you are within 5 feet of it, you can take a Magic action and use a command word to activate it. It remains activated until you take a Magic action and repeat the command word to deactivate it.
+
+Any creature other than you that sees its reflection in the activated mirror while within 30 feet of the mirror must succeed on a DC 15 Charisma saving throw or be trapped, along with anything it is wearing or carrying, in one of the mirror's eight extradimensional cells. A creature that knows the mirror's nature makes the save with Advantage, and Constructs succeed on the save automatically.
+
+An extradimensional cell is an infinite expanse filled with thick fog that reduces visibility to 10 feet. Creatures trapped in the mirror's cells don't age, and they don't need to eat, drink, or sleep. A creature trapped within a cell can escape using magic that permits planar travel. Otherwise, the creature is confined to the cell until freed.
+
+If the mirror traps a creature but its eight extradimensional cells are already occupied, the mirror frees one trapped creature at random to accommodate the new prisoner. A freed creature appears in an unoccupied space within sight of the mirror but facing away from it. If the mirror is shattered, all creatures it contains are freed and appear in unoccupied spaces near it.
+
+While within 5 feet of the mirror, you can take a Magic action to name one creature trapped in it or call out a particular cell by number. The creature named or contained in the named cell appears as an image on the mirror's surface. You and the creature can then communicate.
+
+In a similar way, you can take a Magic action and use a second command word to free one creature trapped in the mirror. The freed creature appears, along with its possessions, in the unoccupied space nearest to the mirror and facing away from it.
+
+Placing the mirror inside an extradimensional space created by a Bag of Holding, Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind Total Cover is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+
 #### Tansa-ki, the Asteroid
 
 *Wondrous Item, Unique, Major (Requires Attunement)* </br>
@@ -297,7 +348,12 @@ Tansa-ki (探査機, 'Probe') is a hemisphere of grey moon-rock, with carved cir
 
 As an Action while holding Tansa-ki you can recall any record or piece of information previously stored, as a illusionary hologram appears above the rock's surface with the knowledge you request.
 
-\column
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
 
 #### Wakare, the Branching
 
@@ -314,7 +370,7 @@ If Wakare is ever broken, the spiritual energy stored within erupts as a wave of
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
@@ -324,7 +380,16 @@ If Wakare is ever broken, the spiritual energy stored within erupts as a wave of
 
 \column
 
-### The Starlight Regalia
+### The Starlight Regalia ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:96px,left:54px,width:375px,mix-blend-mode:normal}
+
+![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:395px,width:375px,mix-blend-mode:normal}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
@@ -1330,7 +1395,7 @@ Text about them
 
 }}
 
-{{#small-text-table,classTable,frame,wide
+{{#small-text-table,wide
 
 ##### Okamoto Behaviours
 
@@ -1432,7 +1497,7 @@ Text about them
 
 :
 
-{{#small-text-table,classTable,frame,wide
+{{#small-text-table,wide
 
 ##### Okamoto Vulnerable Areas
 
@@ -1611,7 +1676,7 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 ***Spellcasting (Alluring Form Only).*** The Ningyo casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 15):
 
-*1/day each:* Crown of Madness<sup>A,C</sup>, Dominate Person<sup>A,C</sup>, Invisibility<sup>A,C</sup>, Misty Step<sup>BA</sup>
+*1/day Each:* Crown of Madness<sup>A,C</sup>, Dominate Person<sup>A,C</sup>, Invisibility<sup>A,C</sup>, Misty Step<sup>BA</sup>
 
 ### Reactions
 
@@ -1634,7 +1699,7 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 {{monster,frame
 
-## Jiangshi Yakuza
+## Jiangshi Lackey
 
 *Medium Undead, Neutral Evil*
 
@@ -1703,13 +1768,14 @@ The Raijū can take up to two Reactions per round but only one per turn.
 ### Reactions
 
 ***Whip Around.*** *Trigger:* A creature the Jiangshi is not facing misses it with a Melee Attack. *Response:* The Jiangshi turns to face it and makes a **Crooked Claws** attack.
+
 }}
 
 \column
 
 {{monster,frame
 
-## Deathless Jiangshi
+## Jiangshi
 
 *Medium Undead, Neutral Evil*
 
@@ -1718,9 +1784,9 @@ The Raijū can take up to two Reactions per round but only one per turn.
 {{vitals
 
 **AC**         :: 16 (Natural Armor)
-**HP**         :: 119 (14d8 + 56)
+**HP**         :: 91 (14d8 + 28)
 \column
-**Initiative** :: -4 (6)
+**Initiative** :: -1 (9)
 **Speed**      :: 40 ft.
 
 }}
@@ -1729,26 +1795,26 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Str| 18|  +4  |  +7  |
+|Str| 18|  +4  |  +4  |
 |Int| 9 |  -1  |  -1  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Dex| 3 |  -4  |  -1  |
+|Dex| 7 |  -2  |  -2  |
 |Wis| 14|  +2  |  +2  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Con| 16|  +3  |  +3  |
+|Con| 14|  +2  |  +2  |
 |Cha| 10|  +0  |  +0  |
 
 }}
 
-**Resistances** :: Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks That Aren't Peachwood
-**Immunities**  :: Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
+**Resistances** :: Necrotic, Poison; <!-- Bludgeoning, Piercing, and Slashing from Nonmagical Attacks That Aren't Peachwood -->
+**Immunities**  :: Charmed, Exhaustion, Poisoned
 **Senses**      :: Blindsight 60 ft., Passive Perception 12
 **Languages**   :: Understands the languages it knew in life but cannot speak them
-**CR**          :: 7 (XP 3,900; PB +3)
+**CR**          :: 6 (XP 2,300; PB +3)
 
 }}
 
@@ -1758,23 +1824,22 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 ***Graceless Rigor.*** If the Jiangshi is hit with a Melee Attack from a direction it is not facing, it is pushed 5 feet away and must succeed on a DC 10 Dexterity saving throw or it has the Prone Condition.
 
+***Reflection Weakness.*** At the start of the Jiangshi's turn, if it can see its own reflection, it must make a DC 15 Wisdom Saving Throw or it has the Frightened Condition until the end of its turn
+
 ***Hopping Movement.*** When initiative is rolled, the Jiangshi selects a cardinal direction to face. The Jiangshi may move only in the direction it is facing, and may spend 5 feet of movement to turn up to 90 degrees or to stand from Prone.
 
 ### Actions
 
-***Multiattack.*** The Jiangshi makes three attacks, one of which it can replace with a use of its Drain Vitality.
+***Multiattack.*** The Jiangshi makes two Crooked Claw attacks and one Drain Vitality attack.
 
-***Crooked Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft. in the direction the Jiangshi is facing. *Hit:* 13 (2d8 + 4) slashing damage, plus one of the following effects:
+***Crooked Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft. in the direction the Jiangshi is facing. *Hit:* 13 (2d6 + 4) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 14) from one of two claws.
 
-- The target is Grappled (escape DC 15).
-- The target is pushed up to 5 feet away.
-- *Strength Saving Throw:* DC 15, the attacked target. *Failure:* The target has the Prone Condition.
-
-***Drain Vitality.*** The Jiangshi draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 15, a creature grappled by the Jiangshi. *Failure:* 18 (4d8) Necrotic damage. *Success:* Half damage. *Failure or Success:* The Jiangshi regains Hit Points equal to the amount of Necrotic damage dealt.
+***Drain Vitality.*** The Jiangshi draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 15, one creature within 5 feet that has the Grappled, Incapacitated, or Restrained condition. *Failure:* 18 (4d6) Necrotic damage. *Success:* Half damage. *Failure or Success:* The Jiangshi regains Hit Points equal to the amount of Necrotic damage dealt.
 
 ### Reactions
 
 ***Whip Around.*** *Trigger:* A creature the Jiangshi is not facing misses it with a Melee Attack. *Response:* The Jiangshi turns to face it and makes a **Crooked Claws** attack.
+
 }}
 
 {{pageNumber,auto}}
