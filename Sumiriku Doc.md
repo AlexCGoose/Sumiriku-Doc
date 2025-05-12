@@ -3676,13 +3676,13 @@ A Shakujō (錫杖) is a staff topped with a metal loop, with smaller metal ring
 
 }}
 
-:::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::
 
-### Weapon Tables ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:650px,left:55px,width:375px,mix-blend-mode:normal}
+### Weapon Tables ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:665px,left:55px,width:375px,mix-blend-mode:normal}
 
 \column
 
-:::::
+::::::::
 
 ## Weapons
 
