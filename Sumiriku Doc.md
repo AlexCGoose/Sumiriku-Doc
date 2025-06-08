@@ -2218,6 +2218,8 @@ When creating an Aberrant Form character, first pick an initial base species. Yo
 
 ## 鬼 - Oni Bloodline Form
 
+<!-- TODO - Decide on d6 vs D6, and 1 - 3 vs 1 to 3 -->
+
 Certain people have manifested features that show their blood connection to the Oni, infernal and malevolent spirits. This connection may be from somewhere in their family, or from some kind of pact or ritual. Some may make this connection as a desire for strength and power, but others may be born as such, and thus resent the cursed burden placed upon them. These people can be identified by physical characteristics, such as horns, fangs, or different coloured skin, that makes it clear to strangers their connection no matter how it was made.
 
 This infernal bloodline gives the people cursed with it enhanced strength and an intimidating aura, but they are also prone to enraged and violent outbursts. If these Oni-touched do not find ways to keep this rage in check, these acts frequently lead to them being &nbsp;shunned from society, abandoned by their &nbsp;families, and forced to wander Sumiriku &nbsp;&nbsp;alone.
@@ -2244,7 +2246,7 @@ As an Oni Bloodline, you gain these special traits:
 
 ***Ferocity.*** As an Oni you have a burning passion inside you that needs to be kept in check. Whenever you fail a D20 test you roll 1d4 and add that amount to your total Ferocity. Additionally, if you start your turn in combat while not Incapacitated, you increase your Ferocity by 1d4 plus the number of hostile creatures within 5 feet. If you are made Unconscious against your will, such as being reduced to 0 Hit Points, your Ferocity resets.
 
-***Rampage.*** If you start your turn with 15 or more Ferocity, you must succeed on a Wisdom Saving Throw (DC equal to your current Ferocity), or else you will be overcome with bloodlust. You must spend your turn moving up to your movement towards the nearest target and then attack them with Demon Fangs, expending all of your Ferocity to deal damage. If at least one ally and one enemy are both the closest creatures, roll 1d6; on a roll of 1-3 you attack an ally, and on a roll of 4-6 you attack an enemy. If no target is within range, you must take the Dash action and move as close as possible to the nearest target.
+***Rampage.*** If you start your turn with 15 or more Ferocity, you must succeed on a Wisdom Saving Throw (DC equal to your current Ferocity), or else you will be overcome with bloodlust. You must spend your turn moving up to your movement towards the nearest target and then attack them with Demon Fangs, expending all of your Ferocity to deal damage. If at least one ally and one enemy are both the closest creatures, roll 1d6; on a roll of 1 to 3 you attack an ally, and on a roll of 4 to 6 you attack an enemy. If no target is within range, you must take the Dash action and move as close as possible to the nearest target.
 
 ***Demon Fangs.*** You have grown fangs that show your demonic association. Your fanged bite is a Natural weapon, which counts as a Simple Melee weapon with which you are proficient. While above 10 Ferocity, you have Advantage on attacks with this bite. It deals 1d4 Piercing damage on a hit. When you attack with this weapon and hit a creature, you can expend any amount of Ferocity to deal an equal amount of additional damage with the attack.
 
@@ -2252,7 +2254,7 @@ As an Oni Bloodline, you gain these special traits:
 
 ##### Note: Gaining Ferocity
 
-You are only able to gain Ferocity when you fail d20 tests that you had a reasonable chance of succeeding at; you cannot build Ferocity by repeatedly attempting near impossible tasks. If it is unclear if you should gain Ferocity, the DM determines whether or not you do in that specific instance.
+You are only able to gain Ferocity when you fail D20 tests that you had a reasonable chance of succeeding at; you cannot build Ferocity by repeatedly attempting near impossible tasks. If it is unclear if you should gain Ferocity, the DM determines whether or not you do in that specific instance.
 
 }}
 
@@ -2316,7 +2318,7 @@ As a Yūrei Manifest, you gain these special traits:
 
 ***Ageless and Everlasting.*** You don't age, and effects that would cause you to age don't work on you. You also do not need to eat, drink, or breathe, but you do need to Sleep to prevent Exhaustion. When you do, instead of sleeping you disappear to Yomi, the undying realm.
 
-***Cling to Life.*** You roll a d12 in place of a d20 for Death Saving Throws. On a roll of 1 to 4 you get one failed save, on a roll of 5 to 8 you get one successful save, and on a roll of 9 to 12 you regain 1 Hit Point and become conscious. You cannot add any additional bonuses to this Saving Throw.
+***Cling to Life.*** You roll 1d6 in place of 1d20 for Death Saving Throws. On a roll of 1 or 2 you get one failed save, on a roll of 3 or 4 you get one successful save, and on a roll of 5 or 6 you regain 1 Hit Point and become conscious. You cannot add any additional bonuses to this Saving Throw.
 
 ***Pass Through Reality.*** You can use a Bonus Action to phase, allowing you to bypass the real and tangible. This phasing lasts until the end of your turn. While phasing, you can move through solid objects and creatures as if they were Difficult Terrain. If you stop phasing inside a creature or object, you are instantly shunted to the nearest unoccupied space and take 1d10 Force damage for every 5 feet you were forced to travel. You can phase a number of times equal to your Proficiency Bonus, and you regain all uses after you finish a Long Rest.
 
@@ -3613,7 +3615,7 @@ You have been trained in one of Sumiriku's theatre traditions, a historic yet ev
 **Tool Proficiency:**  :: Hanafuda Cards (Gaming Set)
 **Equipment:**         :: *Choose A or B;* (A) 2 Tantō, Hanafuda Cards (Gaming Set), Thieves' Tools, Kimono (Fine Clothes), 5 GP; or (B) 50 GP
 
-The Koware Jidai has caused clans and governments to be preoccupied, leaving an opening for those who seek to avoid the eye of the law. As a Yakuza you are part of a large criminal organisation, who aim to use the turmoil of the war for their own profit-seeking ends. Perhaps you intend to rise the ranks of your organisation and gain notoriety in the criminal world, or perhaps you merely are looking for a chance to rebel or to make some quick coin gambling.
+The Koware Jidai has caused clans and governments to be preoccupied, leaving an opening for those who seek to avoid the eye of the law. As a Yakuza you are part of a large criminal organisation, who aim to use the turmoil of the war for their own profit-seeking ends. Perhaps you intend to rise the ranks of your organisation and gain notoriety in the criminal world, or you may be simply looking for a chance to rebel or to make some quick coin gambling.
 
 {{note
 
@@ -4964,7 +4966,7 @@ The second tag is Rarity, which indicates how plentiful an item is and how likel
 
 The third tag is Power, which indicates the strength of the item's abilities and the impact it would have on a character's potential. The tiers of Power are Aesthetic, for items that do not confer any mechanical bonuses, Minor, Major, Epic, and Ultimate.
 
-There are a selection of additional tags that any item can have. Craftable is for items forged and transmuted by people's hands, which are also items that are easier to purchase or to have custom made. Mundane is for items that have no magical properties, and will continue to function under any anti-magic effects. Miracle is for items created by magical phenomena or rituals lost to time, such the item couldn't be created again. Sacred is for the Sacred Treasures of Sumiriku, items that have legendary tales told of them or have close ties to divinity.
+There are a selection of additional tags that any item can have. Craftable is for items forged and transmuted by people's hands, which are also items that are easier to purchase or to have custom made. Mundane is for items that have no magical properties, and will continue to function under any anti-magic effects. Miracle is for items created by magical phenomena or rituals lost to time, such that the item couldn't be created again. Sacred is for the Sacred Treasures of Sumiriku, items that have legendary tales told of them or have close ties to divinity.
 
 }}
 

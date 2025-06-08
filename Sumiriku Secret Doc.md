@@ -71,10 +71,13 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
       - [{{ Atsuki}}{{ 17}}](#p18)
       - [{{ Yuxuan}}{{ 18}}](#p19)
     - [{{ The Hyakushima Bandits}}{{ 19}}](#p20)
-    - [{{ Hoki Castle}}{{ 20}}](#p21)
+    - [{{ Clan Hoki}}{{ 20}}](#p21)
       - [{{ Hatsumomo}}{{ 21}}](#p22)
       - [{{ Daimyō Hidemaro}}{{ 22}}](#p23)
-    - [{{ Genji and Okamoto}}{{ 23}}](#p24)
+    - [{{ The Shadow Triad}}{{ 22}}](#p23)
+      - [{{ The Bai Crime Family}}{{ 22}}](#p23)
+    - [{{ Rouges and Rōnin}}{{ 23}}](#p24)
+      - [{{ Genji and Okamoto}}{{ 23}}](#p24)
     - [{{ Godaiyō}}{{ 25}}](#p26)
       - [{{ Raiju}}{{ 25}}](#p26)
     - [{{ Yokai}}{{ 26}}](#p27)
@@ -137,7 +140,7 @@ The second tag is Rarity, which indicates how plentiful an item is and how likel
 
 The third tag is Power, which indicates the strength of the item's abilities and the impact it would have on a character's potential. The levels of Power are Aesthetic, for items that do not confer any mechanical bonuses, Minor, Major, Epic, and Ultimate.
 
-There are a selection of additional tags that any item can have. Craftable is for items forged and transmuted by people's hands, which are also items that are easier to purchase or to have custom made. Mundane is for items that have no magical properties, and will continue to function under any anti-magic effects. Miracle is for items created by magical phenomena or rituals lost to time, such the item couldn't be created again. Sacred is for the Sacred Treasures of Sumiriku, items that have legendary tales told of them or have close ties to divinity.
+There are a selection of additional tags that any item can have. Craftable is for items forged and transmuted by people's hands, which are also items that are easier to purchase or to have custom made. Mundane is for items that have no magical properties, and will continue to function under any anti-magic effects. Miracle is for items created by magical phenomena or rituals lost to time, such that the item couldn't be created again. Sacred is for the Sacred Treasures of Sumiriku, items that have legendary tales told of them or have close ties to divinity.
 
 }}
 
@@ -304,7 +307,6 @@ This Jitte was a treasured weapon of Dojo Sensei Kenzo, which he had by his side
 #### Musei, the Unknown
 
 *Spellcasting Focus (Musical Instrument), Unique, Epic (Requires Attunement by a Bard)* </br>
-
 The body and neck of this elegant Shamisen are carved out of wood of the gyaku tree, which grow in the shadowiest parts of Kimyokai. An instrument fit for a most esteemed artist, instead Musei (無声, 'Voiceless') was owned by an anonymous traveling performer, who loved a human, and who lost a family.
 
 While holding this Shamisen, you gain a +2 bonus to Spell Attack Rolls and to the Saving Throws DCs of your Bard spells.
@@ -398,7 +400,7 @@ If Wakare is ever broken, the spiritual energy stored within erupts as a wave of
 
 \page
 
-# Allies, Monsters, and Villains
+# Allies, Monsters, Foes, and Villains
 
 Sumiriku is a dangerous place.
 
@@ -916,66 +918,11 @@ Many groups of bandits roam the roads and settlements of Sumiriku, who make thei
 
 \page
 
-## Hoki Castle
+## Clan Hoki
 
 Text about the castle
 
 \column
-
-{{monster,frame
-
-## Guard
-
-*Medium Humanoid, Lawful Neutral*
-
-{{stats
-
-{{vitals
-
-**AC**         :: 15 (Medium Armour)
-**HP**         :: 16 (3d8 + 3)
-\column
-**Initiative** :: +1 (11)
-**Speed**      :: 30 ft.
-
-}}
-
-{{tables
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 13|  +1  |  +1  |
-|Int| 10|  +0  |  +0  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12|  +1  |  +1  |
-|Wis| 12|  +1  |  +1  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12|  +1  |  +1  |
-|Cha| 10|  +0  |  +0  |
-
-}}
-
-**Skills** :: Perception +2
-**Senses** :: Passive Perception 12
-**CR**     :: 1/8 (XP 25; PB +2)
-
-}}
-
-### Actions
-
-***Hoko Yari.*** *Melee Attack Roll:* +3 to hit, reach 10 ft., one target. *Hit:* 4 (1d6 + 1) Piercing damage, or 5 (1d8 + 1) Piercing damage if used with two hands.
-
-***Jitte.*** *Melee Attack Roll:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) Bludgeoning damage.
-
-### Reactions
-
-***Disarm.*** *Trigger:* While the Guard is holding a Jitte, a Large or smaller creature targets the guard with a Melee Weapon Attack and misses. *Response---Strength or Dexterity Saving Throw (target's choice):* DC 10, attacking creature. *Failure:* The attacker drops the Weapon used for the attack at a point of the guard's choice within 10 feet of them.
-
-}}
 
 {{monster,frame
 
@@ -1244,8 +1191,7 @@ Text about Hidemaro
 
 ***Command Kabuto.*** Hidemaro wears a magical helmet called the Command Kabuto. While wearing the helmet, Animated Armors tuned to the helmet within 100 feet of the wearer will follow the wearer's commands (no action required).
 
-<!-- ***Mounted Combatant.*** While mounted on Kōyō, Hidemaro has Advantage on Attack Rolls against any creature that is within 5 feet of Kōyō and at least one Size smaller than him. 
-: -->
+<!-- ***Mounted Combatant.*** While mounted on Kōyō, Hidemaro has Advantage on Attack Rolls against any creature that is within 5 feet of Kōyō and at least one Size smaller than him. -->
 ***Warlord's Wrath (Antagonist Trait, Recharges after a Short or Long Rest).*** If Hidemaro is reduced to 0 Hit Points while Kōyō is still summoned, he doesn't die or fall unconscious. Instead Hidemaro regains all of his Hit Points, removes any Conditions he may be under, and Kōyō disappears into mist. Hidemaro additionally regains any spent uses of Legendary Resistance, and he can use any actions listed as Antagonist Actions for 1 hour.
 
 \column
@@ -1275,7 +1221,101 @@ Text about Hidemaro
 
 \page
 
-## Genji and Okamoto
+## The Shadow Triad
+
+Text about the triad
+
+\column
+
+{{monster,frame
+
+## Jiangshi Lackey
+
+*Medium Undead, Neutral Evil*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 14 (Natural Armor)
+**HP**         :: 52 (8d8 + 16)
+\column
+**Speed**      :: 30 ft.
+**Initiative** :: -4 (6)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 16|  +3  |  +5  |
+|Int| 9 |  -1  |  -1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 3 |  -4  |  -2  |
+|Wis| 12|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +2  |  +2  |
+|Cha| 12|  +1  |  +1  |
+
+}}
+
+**Resistances** :: Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks That Aren't Peachwood
+**Senses**      :: Blindsight 60 ft., Passive Perception 11
+**Languages**   :: Common, Zāngkē
+**CR**          :: 3 (XP 700; PB +2)
+
+}}
+
+### Traits
+
+***Breath Sight.*** A creature that is holding its breath may attempt to hide from the Jiangshi without obscurement.
+
+***Graceless Rigor.*** If the Jiangshi is hit with a Melee Attack from a direction it is not facing, it is pushed 5 feet away and has the Prone Condition.
+
+***Hopping Movement.*** When initiative is rolled, the Jiangshi selects a cardinal direction to face. The Jiangshi may move only in the direction it is facing, and may spend 5 feet of movement to turn up to 90 degrees or to stand from Prone.
+
+***Not Yet Turned.*** While the Jiangshi is at full health, any spells and abilities that detect the presence of undead fail, the Jiangshi's **Graceless Rigor** trait is ignored, the Jiangshi cannot use it's **Crooked Claws** attack, and the Jiangshi has 12 Dexterity.
+
+### Actions
+
+***Multiattack.*** The Jiangshi makes two attacks, one of which it can replace with a use of its Drain Vitality.
+
+***Tanto.*** *Melee or Ranged Attack Roll:* +5, reach 5 ft. or range 20/60 ft. *Hit:* 6 (1d4 + 3) Slashing damage.
+
+***Crooked Claws.*** *Melee Weapon Attack:*  +5, reach 5 ft. in the direction the Jiangshi is facing. *Hit:* 10 (2d6 + 3) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 12) from one of two claws.
+
+***Drain Vitality.*** The Jiangshi draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 13, a creature grappled by the Jiangshi. *Failure:* 9 (2d8) Necrotic damage. *Success:* Half damage. *Failure or Success:* The Jiangshi regains Hit Points equal to the amount of Necrotic damage dealt.
+
+### Reactions
+
+***Whip Around.*** *Trigger:* A creature the Jiangshi is not facing misses it with a Melee Attack. *Response:* The Jiangshi turns to face it and makes a **Crooked Claws** attack.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+### The Bai Crime Family
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
+## Rouges and Rōnin
+
+### Genji and Okamoto
 
 Text about them
 
@@ -1699,82 +1739,6 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 {{monster,frame
 
-## Jiangshi Lackey
-
-*Medium Undead, Neutral Evil*
-
-{{stats
-
-{{vitals
-
-**AC**         :: 14 (Natural Armor)
-**HP**         :: 52 (8d8 + 16)
-\column
-**Speed**      :: 30 ft.
-**Initiative** :: -4 (6)
-
-}}
-
-{{tables
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16|  +3  |  +5  |
-|Int| 9 |  -1  |  -1  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 3 |  -4  |  -2  |
-|Wis| 12|  +1  |  +1  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14|  +2  |  +2  |
-|Cha| 12|  +1  |  +1  |
-
-}}
-
-**Resistances** :: Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks That Aren't Peachwood
-**Senses**      :: Blindsight 60 ft., Passive Perception 11
-**Languages**   :: Common, Zāngkē
-**CR**          :: 3 (XP 700; PB +2)
-
-}}
-
-### Traits
-
-***Breath Sight.*** A creature that is holding its breath may attempt to hide from the Jiangshi without obscurement.
-
-***Graceless Rigor.*** If the Jiangshi is hit with a Melee Attack from a direction it is not facing, it is pushed 5 feet away and has the Prone Condition.
-
-***Hopping Movement.*** When initiative is rolled, the Jiangshi selects a cardinal direction to face. The Jiangshi may move only in the direction it is facing, and may spend 5 feet of movement to turn up to 90 degrees or to stand from Prone.
-
-***Not Yet Turned.*** While the Jiangshi is at full health, any spells and abilities that detect the presence of undead fail, the Jiangshi's **Graceless Rigor** trait is ignored, the Jiangshi cannot use it's **Crooked Claws** attack, and the Jiangshi has 12 Dexterity.
-
-### Actions
-
-***Multiattack.*** The Jiangshi makes two attacks, one of which it can replace with a use of its Drain Vitality.
-
-***Tanto.*** *Melee or Ranged Attack Roll:* +5, reach 5 ft. or range 20/60 ft. *Hit:* 6 (1d4 + 3) Slashing damage.
-
-***Crooked Claws.*** *Melee Attack Roll:* +5, reach 5 ft. in the direction the Jiangshi is facing. *Hit:* 10 (2d6 + 3) Slashing damage, plus one of the following effects:
-
-- The target is Grappled (escape DC 13).
-- The target is pushed up to 5 feet away.
-- *Strength Saving Throw:* DC 13, the attacked target. *Failure:* The target has the Prone Condition.
-
-***Drain Vitality.*** The Jiangshi draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 13, a creature grappled by the Jiangshi. *Failure:* 9 (2d8) Necrotic damage. *Success:* Half damage. *Failure or Success:* The Jiangshi regains Hit Points equal to the amount of Necrotic damage dealt.
-
-### Reactions
-
-***Whip Around.*** *Trigger:* A creature the Jiangshi is not facing misses it with a Melee Attack. *Response:* The Jiangshi turns to face it and makes a **Crooked Claws** attack.
-
-}}
-
-\column
-
-{{monster,frame
-
 ## Jiangshi
 
 *Medium Undead, Neutral Evil*
@@ -1850,6 +1814,70 @@ The Raijū can take up to two Reactions per round but only one per turn.
 \page
 
 ## Generic Foes
+
+### Guards
+
+{{monster,frame
+
+## Guard
+
+*Medium Humanoid, Lawful Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 15 (Medium Armour)
+**HP**         :: 16 (3d8 + 3)
+\column
+**Initiative** :: +1 (11)
+**Speed**      :: 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 13|  +1  |  +1  |
+|Int| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12|  +1  |  +1  |
+|Wis| 12|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12|  +1  |  +1  |
+|Cha| 10|  +0  |  +0  |
+
+}}
+
+**Skills** :: Perception +2
+**Senses** :: Passive Perception 12
+**CR**     :: 1/8 (XP 25; PB +2)
+
+}}
+
+### Actions
+
+***Hoko Yari.*** *Melee Attack Roll:* +3 to hit, reach 10 ft., one target. *Hit:* 4 (1d6 + 1) Piercing damage, or 5 (1d8 + 1) Piercing damage if used with two hands.
+
+***Jitte.*** *Melee Attack Roll:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) Bludgeoning damage.
+
+### Reactions
+
+***Disarm.*** *Trigger:* While the Guard is holding a Jitte, a Large or smaller creature targets the guard with a Melee Weapon Attack and misses. *Response---Strength or Dexterity Saving Throw (target's choice):* DC 10, attacking creature. *Failure:* The attacker drops the Weapon used for the attack at a point of the guard's choice within 10 feet of them.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
 
 ### Samurai and Ashigaru
 
@@ -2026,6 +2054,13 @@ The Raijū can take up to two Reactions per round but only one per turn.
 ***Trickshot (Recharge 5-6).***
 
 }}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
