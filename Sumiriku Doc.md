@@ -2420,7 +2420,7 @@ The intersection of skills between Barbarians and Monks are Sumōtori (相撲取
 
 \page
 
-### Path of the Kaijū - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Path of the Kaijū ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Wield the Titan's Wrath*
 </br>
@@ -2450,11 +2450,11 @@ You learn certain Exploits at the Alternate Barbarian levels in the table below.
 
 :
 
-#### Level 6: Titan's Slumber - TODO
+#### Level 6: Titan's Slumber
 
 While you rest your power grows; those that disrupt this hibernation should beware. When you complete a Long Rest, you gain Temporary Hit Points equal to your Constitution modifier plus your level. While you have these Temporary Hit Points, your Unarmoured Defense increased to 13 plus your Dexterity and Constitution modifiers, as your armoured scales build themselves around you.
 
-In addition, you are quick to strike from your slumber. You are able to make passive Wisdom (Perception) checks to listen for threats while Sleeping, you cannot have Disadvantage on your Initiative rolls while resting, and if you enter a combat while resting you are able to begin the combat by entering your Rage, before any other creatures get the chance to act.
+In addition, your heightened senses keep you dangerous, even in your slumber. You are aware of your surroundings even while Sleeping, and if you enter a combat with the Surprised condition you are able to begin the combat by entering your Rage, before any other creatures get the chance to act.
 
 \column
 
@@ -2485,7 +2485,7 @@ Your carapace armour has developed a protection against magical threats. While R
 
 \page
 
-#### Level 14: Alpha and Omega
+#### Level 14: Titanomachy
 
 You have become the pure embodiment of gigantic, destructive power. When you enter a Rage, you can choose to titanically empower your rage. When you do so, you grow to Huge if you were not already, and you gain Temporary Hit Points as if you used your Titan's Slumber feature. While your Rage persists, your Speed increases to 50 feet, you cannot be moved, knocked Prone, or have your Speed reduced against your will, and your Unarmed Strikes deal additional damage equal to one roll of your Exploit Die. At the end of this Rage you return to your original size. Once you use this feature, you must finish a Long Rest before you can use it again.
 
@@ -2556,17 +2556,31 @@ You are able to choose the medium of your artistry and your magic. Choose either
 
 The ink of your brush enhances your spellcasting. When you use your medium's tool to cast a spell, you can replace the Verbal components that spell may have with writing or drawing with your brush.
 
-In addition, if you target a creature with a spell, you can expend one use of your Bardic Inspiration to create an Ink Path between yourself and the creature that lasts for 1 minute. If your medium is Writing, the path is Difficult Terrain, and every creature other than you in contact with the path when it appears must succeed on a Dexterity Saving Throw against your Spell Save DC or fall Prone. If your medium is Painting, creatures can travel 10 feet along the path only using 5 feet of movement, and any creature in contact with the path when it appears gains 1d6 Temporary Hit Points. If you have already made an Ink Path, it disappears when you make a new one.
+In addition, when you cast a spell that targets a creature or a point within 60 feet of you, you can expend one use of your Bardic Inspiration to create an Ink Path along the ground between yourself and the target. This line stays on the ground where it was drawn and lasts for 1 minute. If your medium is Writing, the path is Difficult Terrain, and every creature other than you in contact with the path when it appears must succeed on a Dexterity Saving Throw against your Spell Save DC or have the Prone condition. If your medium is Painting, creatures can travel 10 feet along the path only using 5 feet of movement, and any creature in contact with the path when it appears gains 1d6 Temporary Hit Points. If you have already made an Ink Path, it disappears when you make a new one.
 
 \column
 
-#### Level 6: ??? - TODO
+#### Level 6: Creative Endeavours - TODO
 
-Text - TODO
+You are able to use your skills with a brush to create masterpieces. You gain one of the following features, depending on your choice of medium.
 
-#### Level 14: ??? - TODO
+*Writing.* You can use your calligraphy talent to craft Spell Scrolls. Using your Calligrapher's Supplies you are able to make a Spell Scroll of a spell you have prepared. It takes 2 hours per Spell Level to craft the Spell Scroll, and you must provide any material components required for the casting of the spell. You can only have one Spell Scroll crafted at any time; if you craft another Spell Scroll while you already have one, the previous Spell Scroll becomes inert.
 
-Text - TODO
+*Painting.* You can use your painter's talent
+
+In addition, you can use these talents to create forgeries. Your DM determines the length of time it takes to create a passable forgery, from an hour for a simple signature to multiple weeks for a large painting. To successfully determine that your creation is a fake, a creature must take the Study action to inspect the piece and succeed on an Intelligence (Investigation) check against your spell save DC.
+
+#### Level 14: Artistic Expression - TODO
+
+You gain one of the following features, depending on your choice of medium.
+
+*Writing.* When you cast a spell that forces a creature to make a Saving Throw, you can rewrite the spell to make it use a different Saving Throw.
+
+*Painting.* When you cast a spell that has an area of effect, you can redraw the spell to use a different area of effect.
+
+#### Level 14: Artistic Expression - TODO
+
+You no longer have a limit on the number of Ink Paths you can have at once. In addition, instead of making an Ink Path you can make an Ink Splotch, a 10 foot radius circle on the ground around the target, with the same effect as your Ink Paths.
 
 {{position:absolute,top:780px,left:450px,margin-bottom:-30px,align:right
 
@@ -2574,8 +2588,8 @@ Text - TODO
 
 }}
 
-{{imageMaskEdge8,--offset:34%,--rotation:0
-  ![ink](https://i.imgur.com/6OpYszC.jpeg){position:aboslute,bottom:-120px,left:-120px,width:130%}
+{{imageMaskEdge8,--offset:38%,--rotation:0
+  ![ink](https://i.imgur.com/6OpYszC.jpeg){position:aboslute,bottom:-160px,left:-120px,width:130%}
 }}
 
 {{pageNumber,auto}}
