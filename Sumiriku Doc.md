@@ -1449,9 +1449,9 @@ As a Kappa, you gain these special traits:
 
 ***Wellbeing.*** Kappa have an intuitive knowledge of medicine, particularly the skill of setting broken bones. You have Proficiency in the Medicine skill, and can attempt to stabilise an Unconscious creature as a Bonus Action rather than an Action.
 
-***Peace Magic.*** Starting at Character Level 5, you can cast the *Calm Emotions* spell with this trait. Once you cast *Calm Emotions* with this trait, you can't cast that spell with it again until you finish a Long Rest. You can also cast this spell using any Spell Slots you have of the appropriate Spell Slot Level.
+***Peace Magic.*** Starting at Character Level 5, you learn the *Calm Emotions* spell. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level.
 
-Intelligence, Wisdom, or Charisma is your Spellcasting Ability for these spells when you cast them with this trait (choose when you select this species).
+Intelligence, Wisdom, or Charisma is your Spellcasting Ability for this spell when you cast it with this trait (choose when you select this species).
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -1761,7 +1761,7 @@ You also gain the Obake (Shapechanger) creature type.
 
 ***Morphing Appearance.*** While in your regular form, your appearance is a hybrid between that of a human and of a fox. As an Action you can adjust your features, changing from being more human-like, to being more fox-like, or something in between. Your human and fox forms have their own unique appearance, and you cannot use this feature to disguise as someone else. You can also use this feature to show or hide your tails. To discern that you are not actually human, a creature can use its Action to inspect your appearance and must succeed on an Intelligence (Investigation) check (DC 8 plus your Charisma modifier and Proficiency Bonus).
 
-***Majestic Tails.*** At Character Level 4 you grow a second tail, signifying your personal growth and enlightenment. After every second level you gain from then, you grow another tail, to a maximum of 9. As a Reaction to yourself failing a D20 Test, you can add a bonus to your roll equal to the number of tails you have, potentially changing the result from a fail to a success. Once you use this feature, you must finish a Short Rest or Long Rest before you can use it again. When you grow your 9th tail, you also gain the Kami (Celestial) creature type.
+***Majestic Tails.*** At Character Level 4 you grow a second tail, signifying your personal growth and enlightenment. After every second level you gain from then, you grow another tail, to a maximum of 9. As a Reaction to yourself failing a D20 Test, you can add a bonus to your roll equal to the number of tails you have, potentially changing the result from a fail to a success. Once you use this feature, you must finish a Short Rest or Long Rest before you can use it again. When you grow your 9th tail, you also gain the Tennō (Celestial) creature type.
 
 ***Divine Messenger.*** You know the *Dancing Lights* and *Message* cantrips. You can cast these while in your Animal form. When you use the *Dancing Lights* cantrip from this feature, they have the appearance of floating flames called Kitsunebi.
 
@@ -2542,7 +2542,7 @@ In the Equipment section later in this part is a list of instruments specific to
 
 \page
 
-### College of Ink - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### College of Ink ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Create Magic with your Brushstrokes*
 </br>
@@ -2556,31 +2556,31 @@ You are able to choose the medium of your artistry and your magic. Choose either
 
 The ink of your brush enhances your spellcasting. When you use your medium's tool to cast a spell, you can replace the Verbal components that spell may have with writing or drawing with your brush.
 
-In addition, when you cast a spell that targets a creature or a point within 60 feet of you, you can expend one use of your Bardic Inspiration to create an Ink Path along the ground between yourself and the target. This line stays on the ground where it was drawn and lasts for 1 minute. If your medium is Writing, the path is Difficult Terrain, and every creature other than you in contact with the path when it appears must succeed on a Dexterity Saving Throw against your Spell Save DC or have the Prone condition. If your medium is Painting, creatures can travel 10 feet along the path only using 5 feet of movement, and any creature in contact with the path when it appears gains 1d6 Temporary Hit Points. If you have already made an Ink Path, it disappears when you make a new one.
+In addition, when you cast a spell that targets a creature or a point within 60 feet of you, you can expend one use of your Bardic Inspiration to create an Ink Zone, either as a line along the ground between yourself and the target or as a 10 foot radius circle on the ground centered on the target. This Ink Zone stays on the ground where it was drawn and lasts for 1 minute. If your medium is Writing, the path is Difficult Terrain, and each creature in contact with the path when it appears must succeed on a Dexterity Saving Throw against your Spell Save DC or have the Prone condition. If your medium is Painting, creatures can travel 10 feet along
 
 \column
 
-#### Level 6: Creative Endeavours - TODO
+the path only using 5 feet of movement, and you can grant any number of creatures in contact Temporary Hit Points equal to 1d6 plus your Bard Level.
+
+#### Level 6: Creative Endeavours
 
 You are able to use your skills with a brush to create masterpieces. You gain one of the following features, depending on your choice of medium.
 
 *Writing.* You can use your calligraphy talent to craft Spell Scrolls. Using your Calligrapher's Supplies you are able to make a Spell Scroll of a spell you have prepared. It takes 2 hours per Spell Level to craft the Spell Scroll, and you must provide any material components required for the casting of the spell. You can only have one Spell Scroll crafted at any time; if you craft another Spell Scroll while you already have one, the previous Spell Scroll becomes inert.
 
-*Painting.* You can use your painter's talent
+*Painting.* You can use your painter's talent to bring a facsimile of your artwork to life. You always have the *Silent Image* spell prepared. As a Bonus Action, you can cast this spell without expending a Spell Slot. If you do so the spell does not require concentration; it instead lasts for 10 minutes. Once you use this feature, you can't use it again until you finish a Long Rest.
 
-In addition, you can use these talents to create forgeries. Your DM determines the length of time it takes to create a passable forgery, from an hour for a simple signature to multiple weeks for a large painting. To successfully determine that your creation is a fake, a creature must take the Study action to inspect the piece and succeed on an Intelligence (Investigation) check against your spell save DC.
+<!-- In addition, you can use these talents to create forgeries. Your DM determines the length of time it takes to create a passable forgery, from an hour for a simple signature to multiple weeks for a large painting. To successfully determine that your creation is a fake, a creature must take the Study action to inspect the piece and succeed on an Intelligence (Investigation) check against your spell save DC. -->
 
-#### Level 14: Artistic Expression - TODO
+<!-- #### Level 14: Dual Discipline
 
-You gain one of the following features, depending on your choice of medium.
+Your technique transcends convention. You gain all the benefits of the medium you did not choose at level 3. Whenever you create an Ink Zone, you can choose which medium is used for it. -->
 
-*Writing.* When you cast a spell that forces a creature to make a Saving Throw, you can rewrite the spell to make it use a different Saving Throw.
+#### Level 14: Ultimate Artistry
 
-*Painting.* When you cast a spell that has an area of effect, you can redraw the spell to use a different area of effect.
+Your unparalleled mastery of the brush empowers your Ink Zones. If your medium is Writing, whenever a creature starts its turn in the zone, it must succeed on a Dexterity Saving Throw against your Spell Save DC or have the Prone condition. If your medium is Painting, whenever a creature starts its turn in a Painting Ink Zone, you can grant it Temporary Hit Points equal to 1d6 plus your Bard Level.
 
-#### Level 14: Artistic Expression - TODO
-
-You no longer have a limit on the number of Ink Paths you can have at once. In addition, instead of making an Ink Path you can make an Ink Splotch, a 10 foot radius circle on the ground around the target, with the same effect as your Ink Paths.
+<!-- Your unparalleled mastery of the brush empowers your Ink Zones. Whenever a creature starts its turn in a Writing Ink Zone, it must succeed on a Dexterity Saving Throw against your Spell Save DC or have the Prone condition. Whenever a creature starts its turn in a Painting Ink Zone, you can grant it Temporary Hit Points equal to 1d6 plus your Bard Level. -->
 
 {{position:absolute,top:780px,left:450px,margin-bottom:-30px,align:right
 
@@ -4163,7 +4163,7 @@ All Feats found in the 2024 D&D Player's Handbook are available to use within th
 
 ***Ability Score Increase.*** Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
 
-***Arcane Senses.*** You always have the *Detect Magic* and *Detect Thoughts* spells prepared, and can cast them using any Spell Slots you have. You can also cast these spells once each without expending a Spell Slot or requiring Verbal, Somatic, or Material components, and you regain the ability to do so when you finish a Long Rest. Your Spellcasting Ability for these spells is the ability increased by this feat. Detect Thoughts also gain a bonus depending on your lineage:
+***Arcane Senses.*** You always have the *Detect Magic* and *Detect Thoughts* spells prepared. You can cast these spells each without expending a Spell Slot or requiring Verbal, Somatic, or Material components. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat. Detect Thoughts also gain a bonus depending on your lineage:
 
 *Soratami.* When you cast *Detect Thoughts* for free with this feat, the creature you target will not know their thoughts are being read if you probe deeper, even if they succeed on the Saving Throw.
 
@@ -4261,7 +4261,7 @@ All Feats found in the 2024 D&D Player's Handbook are available to use within th
 
 ***Ability Score Increase.*** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 
-***Protective Aura.*** You always have the *Shield of Faith* spell prepared, and can cast it using any Spell Slots you have. You can also cast this spell once without expending a Spell Slot or requiring Material components, and you regain the ability to do so when you finish a Long Rest. Your Spellcasting Ability for these spells is the ability increased by this feat.
+***Protective Aura.*** You always have the *Shield of Faith* spell prepared. You can cast this spell without expending a Spell Slot or requiring Material components. Once you cast the spell this way, you can't cast the spell in this way again until you finish a Long Rest. You can also cast this spells using spell slots you have of the appropriate level. The spell's spellcasting ability is the ability increased by this feat.
 
 When you cast *Shield of Faith* for free using this feat, you can instead turn this shield into a large shell barrier. When you cast the spell targeting yourself, or as a Bonus Action while concentrating on the spell cast on yourself, you can choose to replace the effect of the spell with a 15-foot-radius Emanation. Creatures within the Emanation are considered to have Half Cover, which means that they have +2 to AC and to Dexterity Saving Throws when targeted from outside the barrier. You can turn this barrier back into Shield of Faith cast on yourself as a Bonus Action.
 
@@ -4579,7 +4579,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 ***Ability Score Increase.*** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 
-***Otherworldly Casting.*** You always have the *Misty Step* spell and one Level 1 spell of your choice prepared, and can cast these spells using any Spell Slots you have. The Level 1 spell must be from the Enchantment or Illusion schools of magic. You can also cast these spells once without expending a Spell Slot or requiring Material components, and you regain the ability to do so when you finish a Long Rest. Your Spellcasting Ability for these spells is the ability increased by this feat.
+***Otherworldly Casting.*** Choose one level 1 spell from the Enchantment or Illusion school of magic. You always have that spell and the *Misty Step* spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -4709,7 +4709,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 ***Ability Score Increase.*** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 
-***Underworldly Casting.*** You always have the *Invisibility* spell and one Level 1 spell of your choice prepared, and can cast these spells using any Spell Slots you have. The Level 1 spell must be from the Conjuration or Necromancy schools of magic. You can also cast these spells once without expending a Spell Slot or requiring Material components, and you regain the ability to do so when you finish a Long Rest. Your Spellcasting Ability for these spells is the ability increased by this feat.
+***Underworldly Casting.*** Choose one level 1 spell from the Conjuration or Necromancy school of magic. You always have that spell and the *Invisibility* spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
