@@ -1725,7 +1725,7 @@ Kajin-sama is a Kitsune Myōjin, the God of Revelry. Kajin-sama was chosen from 
 
 ![fox](https://i.imgur.com/wrqG8GM.png) {position:absolute,bottom:-50px,right:-85px,width:400px,transform:scaleX(-1),mix-blend-mode:normal,filter:brightness(100%),mix-blend-mode:normal}
 
-{{position:absolute,top:820px,left:370px,margin-bottom:-30px
+{{position:absolute,top:880px,left:370px,margin-bottom:-30px
 
 ##### A Kitsune disguised</br> as a Human
 
@@ -2454,7 +2454,7 @@ You learn certain Exploits at the Alternate Barbarian levels in the table below.
 
 While you rest your power grows; those that disrupt this hibernation should beware. When you complete a Long Rest, you gain Temporary Hit Points equal to your Constitution modifier plus your level. While you have these Temporary Hit Points, your Unarmoured Defense increased to 13 plus your Dexterity and Constitution modifiers, as your armoured scales build themselves around you.
 
-In addition, your heightened senses keep you dangerous, even in your slumber. You are aware of your surroundings even while Sleeping, and if you enter a combat with the Surprised condition you are able to begin the combat by entering your Rage, before any other creatures get the chance to act.
+In addition, your heightened senses keep you dangerous, even in your slumber. You are aware of your surroundings even while Sleeping, and if you enter a combat with the Surprised Condition you are able to begin the combat by entering your Rage, before any other creatures get the chance to act.
 
 \column
 
@@ -2542,7 +2542,7 @@ In the Equipment section later in this part is a list of instruments specific to
 
 \page
 
-### College of Ink ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### College of Ink - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Create Magic with your Brushstrokes*
 </br>
@@ -2556,11 +2556,11 @@ You are able to choose the medium of your artistry and your magic. Choose either
 
 The ink of your brush enhances your spellcasting. When you use your medium's tool to cast a spell, you can replace the Verbal components that spell may have with writing or drawing with your brush.
 
-In addition, when you cast a spell that targets a creature or a point within 60 feet of you, you can expend one use of your Bardic Inspiration to create an Ink Zone, either as a line along the ground between yourself and the target or as a 10 foot radius circle on the ground centered on the target. This Ink Zone stays on the ground where it was drawn and lasts for 1 minute. If your medium is Writing, the path is Difficult Terrain, and each creature in contact with the path when it appears must succeed on a Dexterity Saving Throw against your Spell Save DC or have the Prone condition. If your medium is Painting, creatures can travel 10 feet along
+In addition, when you cast a spell that targets a creature or a point within 60 feet of you, you can expend one use of your Bardic Inspiration to create an Ink Zone, either as a line along the ground between yourself and the target or as a 10 foot radius circle on the ground centered on the target. This Ink Zone stays on the ground where it was drawn and lasts for 1 minute. If your medium is Writing, the path is Difficult Terrain, and each creature in contact with the path when it appears must succeed on a Dexterity Saving Throw against your Spell Save DC or have the Prone Condition. If your medium is Painting, creatures can travel 10 feet within
 
 \column
 
-the path only using 5 feet of movement, and you can grant any number of creatures in contact Temporary Hit Points equal to 1d6 plus your Bard Level.
+the zone only using 5 feet of movement, and you can grant any number of creatures in contact Temporary Hit Points equal to 1d6 plus your Bard Level.
 
 #### Level 6: Creative Endeavours
 
@@ -2578,9 +2578,9 @@ Your technique transcends convention. You gain all the benefits of the medium yo
 
 #### Level 14: Ultimate Artistry
 
-Your unparalleled mastery of the brush empowers your Ink Zones. If your medium is Writing, whenever a creature starts its turn in the zone, it must succeed on a Dexterity Saving Throw against your Spell Save DC or have the Prone condition. If your medium is Painting, whenever a creature starts its turn in a Painting Ink Zone, you can grant it Temporary Hit Points equal to 1d6 plus your Bard Level.
+Your unparalleled mastery of the brush empowers your Ink Zones. If your medium is Writing, whenever a creature starts its turn in the zone, it must succeed on a Dexterity Saving Throw against your Spell Save DC or have the Prone Condition. If your medium is Painting, whenever a creature starts its turn in a Painting Ink Zone, you can grant it Temporary Hit Points equal to 1d6 plus your Bard Level.
 
-<!-- Your unparalleled mastery of the brush empowers your Ink Zones. Whenever a creature starts its turn in a Writing Ink Zone, it must succeed on a Dexterity Saving Throw against your Spell Save DC or have the Prone condition. Whenever a creature starts its turn in a Painting Ink Zone, you can grant it Temporary Hit Points equal to 1d6 plus your Bard Level. -->
+<!-- Your unparalleled mastery of the brush empowers your Ink Zones. Whenever a creature starts its turn in a Writing Ink Zone, it must succeed on a Dexterity Saving Throw against your Spell Save DC or have the Prone Condition. Whenever a creature starts its turn in a Painting Ink Zone, you can grant it Temporary Hit Points equal to 1d6 plus your Bard Level. -->
 
 {{position:absolute,top:780px,left:450px,margin-bottom:-30px,align:right
 
@@ -2588,7 +2588,7 @@ Your unparalleled mastery of the brush empowers your Ink Zones. If your medium i
 
 }}
 
-{{imageMaskEdge8,--offset:38%,--rotation:0
+{{imageMaskEdge8,--offset:34%,--rotation:0
   ![ink](https://i.imgur.com/6OpYszC.jpeg){position:aboslute,bottom:-160px,left:-120px,width:130%}
 }}
 

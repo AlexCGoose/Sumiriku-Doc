@@ -156,7 +156,7 @@ This saya, or katana scabbard, is light pink in colour, with silver detailing an
 #### Heartbreaker Kaiken
 
 *Weapon (Tantō), Common, Minor*</br>
-This style of knife, in a sheath disguised as a make-up box, is often carried in a sleeve or Kimono pocket for self-defence by Geisha or working girls. If you hit a creature with the Charmed condition with this Tantō the attack is a Critical Hit.
+This style of knife, in a sheath disguised as a make-up box, is often carried in a sleeve or Kimono pocket for self-defence by Geisha or working girls. If you hit a creature with the Charmed Condition with this Tantō the attack is a Critical Hit.
 
 #### Kyōsei Claw
 
@@ -311,7 +311,7 @@ The body and neck of this elegant Shamisen are carved out of wood of the gyaku t
 
 While holding this Shamisen, you gain a +2 bonus to Spell Attack Rolls and to the Saving Throws DCs of your Bard spells.
 
-In addition, immediately after you cast an Abjuration, Enchantment, or Illusion spell using a Spell Slot while holding this Shamisen, you can gain the Invisible condition for 1 minute and leave behind an exact illusionary duplicate of yourself in your current space. To all senses the illusion is perfectly lifelike, though physical interaction with it causes it to disappear. The illusion also disappears when you become visible. While it persists, all creatures assume the illusion is you for any feature that relies on your location, such as if you have given a creature the Frightened Condition. You can use this feature a number of times equal to your Charisma modifier, and you regain all expended uses when you finish a Long Rest.
+In addition, immediately after you cast an Abjuration, Enchantment, or Illusion spell using a Spell Slot while holding this Shamisen, you can gain the Invisible Condition for 1 minute and leave behind an exact illusionary duplicate of yourself in your current space. To all senses the illusion is perfectly lifelike, though physical interaction with it causes it to disappear. The illusion also disappears when you become visible. While it persists, all creatures assume the illusion is you for any feature that relies on your location, such as if you have given a creature the Frightened Condition. You can use this feature a number of times equal to your Charisma modifier, and you regain all expended uses when you finish a Long Rest.
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
@@ -1287,7 +1287,7 @@ Text about the triad
 
 ***Tanto.*** *Melee or Ranged Attack Roll:* +5, reach 5 ft. or range 20/60 ft. *Hit:* 6 (1d4 + 3) Slashing damage.
 
-***Crooked Claws.*** *Melee Weapon Attack:*  +5, reach 5 ft. in the direction the Jiangshi is facing. *Hit:* 10 (2d6 + 3) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 12) from one of two claws.
+***Crooked Claws.*** *Melee Weapon Attack:*  +5, reach 5 ft. in the direction the Jiangshi is facing. *Hit:* 10 (2d6 + 3) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled Condition (escape DC 12) from one of two claws.
 
 ***Drain Vitality.*** The Jiangshi draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 13, a creature grappled by the Jiangshi. *Failure:* 9 (2d8) Necrotic damage. *Success:* Half damage. *Failure or Success:* The Jiangshi regains Hit Points equal to the amount of Necrotic damage dealt.
 
@@ -1796,9 +1796,9 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 ***Multiattack.*** The Jiangshi makes two Crooked Claw attacks and one Drain Vitality attack.
 
-***Crooked Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft. in the direction the Jiangshi is facing. *Hit:* 13 (2d6 + 4) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 14) from one of two claws.
+***Crooked Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft. in the direction the Jiangshi is facing. *Hit:* 13 (2d6 + 4) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled Condition (escape DC 14) from one of two claws.
 
-***Drain Vitality.*** The Jiangshi draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 15, one creature within 5 feet that has the Grappled, Incapacitated, or Restrained condition. *Failure:* 18 (4d6) Necrotic damage. *Success:* Half damage. *Failure or Success:* The Jiangshi regains Hit Points equal to the amount of Necrotic damage dealt.
+***Drain Vitality.*** The Jiangshi draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 15, one creature within 5 feet that has the Grappled, Incapacitated, or Restrained Condition. *Failure:* 18 (4d6) Necrotic damage. *Success:* Half damage. *Failure or Success:* The Jiangshi regains Hit Points equal to the amount of Necrotic damage dealt.
 
 ### Reactions
 
