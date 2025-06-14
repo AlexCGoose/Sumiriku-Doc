@@ -585,7 +585,7 @@ Text about Makoto
 
 ### Bonus Actions
 
-***Hunter's Mark.*** Makoto marks a creature he can see within 60 feet of him, ending any marks Makoto has on other creatures. When Makoto or Kentaro hits the marked target with an attack, the target takes an additional 3 (1d6) damage
+***Hunter's Mark.*** Makoto marks a creature she can see within 60 feet of her, ending any marks Makoto has on other creatures. When Makoto or Kentaro hits the marked target with an attack, the target takes an additional 3 (1d6) damage
 
 }}
 
@@ -829,7 +829,7 @@ Text about Yuxuan
 
 **Focus.** Yuxuan also takes the Dodge action.
 
-***Shadow Step.*** Yuxuan teleports to a location he can see within 30 feet of him in Dim light or Darkness. After doing so, Yuxuan gains Advantage on the next Attack Roll he makes before the end of his turn.
+***Shadow Step.*** Yuxuan teleports up to 30 feet to an unoccupied space he can see in Dim light or Darkness. After doing so, Yuxuan gains Advantage on the next Attack Roll he makes before the end of his turn.
 
 ### Reactions
 
@@ -1625,7 +1625,151 @@ Text about the triad
 
 \page
 
+<!-- TODO - UPDATE SPELLCASTING FORMAT FOR OTHER STATBLOCKS AND ALSO WRITE NOTE ON SPELLCASTING LAYOUT -->
+
 ### The Bai Crime Family
+
+{{#creature,monster,frame
+
+## Daiyu, Black Lotus Matron
+
+*Medium Humanoid, Lawful Evil*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 17 (Natural Armour)
+**HP**         :: 132 (24d8 + 18)
+\column
+**Initiative** :: +3 (13)
+**Speed**      :: 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 10|  +0  |  +0  |
+|Int| 20|  +5  |  +10 |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 16|  +3  |  +3  |
+|Wis| 14|  +2  |  +7  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16|  +3  |  +3  |
+|Cha| 16|  +3  |  +3  |
+
+}}
+
+**Skills**      :: Arcana +10, Insight +7, Persuasion +8
+**Resistances** :: Necrotic
+**Senses**      :: Passive Perception 12
+**CR**          :: 13 (XP 5,900; PB +4)
+
+}}
+
+### Traits
+
+***Legendary Resistance (2/Day).*** If Daiyu fails a saving throw, she can choose to succeed instead.
+
+### Actions
+
+***Multiattack.*** Daiyu makes three Dark Pulse attacks.
+
+***Dark Pulse.*** Melee or Ranged Attack Roll: +10, reach 5 ft. or range 120 ft. *Hit:* 18 (3d8 + 5) Force damage. If the target has the Frightened condition, Daiyu has Advantage on the Attack Roll.
+
+***Spellcasting.*** Daiyu casts one of the following spells, using Intelligence as the Spellcasting Ability (spell save DC 18):
+
+**At will:** Mage Armour<sup>A</sup>, Mage Hand<sup>A</sup>
+</br>**2/day each:** Dimension Door<sup>A</sup>, Fear<sup>A, C</sup>
+</br>**1/day each:** Evard's Black Tentacles<sup>A, C</sup>, Finger of Death<sup>A</sup>, Teleport<sup>A</sup>
+
+### Bonus Actions
+
+***Death's Door.*** Daiyu teleports up to 30 feet to an unoccupied space she can see and leaves behind a terrifying vissage. *Charisma Saving Throw:* DC 18, each creature within 10 feet of the space Daiyu left. *Failure:* The target has the Frightened condition until the end of Daiyu's next turn.
+
+***Thanatophobia.*** Any creatures of Daiyu's chosing with the Frightened condition and within 60 feet of her loses 5 (2d4) maximum and current Hit Points.
+
+### Reactions
+
+***Night's Grasp.*** Daiyu casts Counterspell in response to the spell's trigger, using the same Spellcasting Ability as Spellcasting. If the target fails its saving throw, it has the Frightened condition until the end of its next turn.
+}}
+
+\column
+
+{{#creature,monster,frame
+
+## Saichuen, First Reborn
+
+*Medium Undead, Lawful Evil*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 18 (Natural Armor)
+**HP**         :: 91 (14d8 + 28)
+\column
+**Initiative** :: -1 (9)
+**Speed**      :: 40 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18|  +4  |  +4  |
+|Int| 9 |  -1  |  -1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 7 |  -2  |  -2  |
+|Wis| 14|  +2  |  +2  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +2  |  +2  |
+|Cha| 10|  +0  |  +0  |
+
+}}
+
+**Resistances** :: Necrotic, Poison; <!-- Bludgeoning, Piercing, and Slashing from Nonmagical Attacks That Aren't Peachwood -->
+**Immunities**  :: Charmed, Exhaustion, Poisoned
+**Senses**      :: Blindsight 60 ft., Passive Perception 12
+**Languages**   :: Understands the languages it knew in life but cannot speak them
+**CR**          :: 8 (XP 2,300; PB +3)
+
+}}
+
+### Traits
+
+***Breath Sight.*** A creature that is holding its breath may attempt to hide from the Jiangshi without obscurement.
+
+***Graceless Rigor.*** If the Jiangshi is hit with a Melee Attack from a direction it is not facing, it is pushed 5 feet away and must succeed on a DC 10 Dexterity saving throw or it has the Prone Condition.
+
+***Reflection Weakness.*** At the start of the Jiangshi's turn, if it can see its own reflection, it must make a DC 15 Wisdom Saving Throw or it has the Frightened Condition until the end of its turn
+
+***Hopping Movement.*** When initiative is rolled, the Jiangshi selects a cardinal direction to face. The Jiangshi may move only in the direction it is facing, and may spend 5 feet of movement to turn up to 90 degrees or to stand from Prone.
+
+### Actions
+
+***Multiattack.*** The Jiangshi makes two Crooked Claw attacks and one Drain Vitality attack.
+
+***Crooked Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft. in the direction the Jiangshi is facing. *Hit:* 13 (2d6 + 4) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled Condition (escape DC 14) from one of two claws.
+
+***Drain Vitality.*** The Jiangshi draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 15, one creature within 5 feet that has the Grappled, Incapacitated, or Restrained Condition. *Failure:* 18 (4d6) Necrotic damage. *Success:* Half damage. *Failure or Success:* The Jiangshi regains Hit Points equal to the amount of Necrotic damage dealt.
+
+### Reactions
+
+***Whip Around.*** *Trigger:* A creature the Jiangshi is not facing misses it with a Melee Attack. *Response:* The Jiangshi turns to face it and makes a **Crooked Claws** attack.
+
+}}
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
@@ -1990,7 +2134,7 @@ Text about Hidemaro
 
 ***Kōyō, Faithful Steed.*** At the start of initiative, Hidemaro summons and mounts his steed, the elk Kōyō. Kōyō is a Large Beast, with 13 AC and a 50 ft. Walk Speed. Hidemaro and Kōyō share Hit Points, but only one of them can take damage from a source at any one time. <!-- Some of Hidemaro's Villain Actions can only be used while mounted. -->
 
-***Legendary Resistance (1/Day).*** If Hidemaro fails a saving throw, it can choose to succeed instead.
+***Legendary Resistance (1/Day).*** If Hidemaro fails a saving throw, he can choose to succeed instead.
 
 ***Command Kabuto.*** Hidemaro wears a magical helmet called the Command Kabuto. While wearing the helmet, Animated Armors tuned to the helmet within 100 feet of the wearer will follow the wearer's commands (no action required).
 
