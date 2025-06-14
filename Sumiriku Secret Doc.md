@@ -63,39 +63,41 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
       - [{{ The Relics of Kumonoue}}{{ 12}}](#p13)
       - [{{ The Starlight Regalia}}{{ 12}}](#p13)
 
-  - ###### [{{ Allies, Monsters, and Villains}}{{ 14}}](#p15)
+  - ###### [{{ Allies, Monsters, and Villains}}{{ 13}}](#p14)
   
     - [{{ Allies}}{{ 14}}](#p15)
-      - [{{ Masuzō}}{{ 14}}](#p15)
-      - [{{ Makoto}}{{ 16}}](#p17)
-      - [{{ Atsuki}}{{ 17}}](#p18)
-      - [{{ Yuxuan}}{{ 18}}](#p19)
-    - [{{ The Hyakushima Bandits}}{{ 19}}](#p20)
-    - [{{ Clan Hoki}}{{ 20}}](#p21)
-      - [{{ Hatsumomo}}{{ 21}}](#p22)
-      - [{{ Daimyō Hidemaro}}{{ 22}}](#p23)
-    - [{{ The Shadow Triad}}{{ 22}}](#p23)
-      - [{{ The Bai Crime Family}}{{ 22}}](#p23)
-    - [{{ Rouges and Rōnin}}{{ 23}}](#p24)
-      - [{{ Genji and Okamoto}}{{ 23}}](#p24)
-    - [{{ Godaiyō}}{{ 25}}](#p26)
-      - [{{ Raiju}}{{ 25}}](#p26)
-    - [{{ Yokai}}{{ 26}}](#p27)
-      - [{{ Ningyo}}{{ 26}}](#p27)
-    - [{{ Undead}}{{ 27}}](#p28)
-      - [{{ Jiangshi}}{{ 27}}](#p28)
-    - [{{ Generic Foes}}{{ 28}}](#p29)
-      - [{{ Samurai and Ashigaru}}{{ 28}}](#p29)
+      - [{{ Atsuki}}{{ 14}}](#p15)
+      - [{{ Makoto}}{{ 15}}](#p16)
+      - [{{ Masuzō}}{{ 16}}](#p16)
+      - [{{ Yuxuan}}{{ 17}}](#p18)
+    - [{{ The Bound and Fraying Rope}}{{ 19}}](#p20)
+    - [{{ Generic Foes}}{{ 21}}](#p22)
+      - [{{ Guards}}{{ 21}}](#p22)
+      - [{{ Samurai and Ashigaru}}{{ 22}}](#p23)
+    - [{{ Godaiyō}}{{ 23}}](#p24)
+      - [{{ Raiju}}{{ 23}}](#p24)
+    - [{{ The Hyakushima Bandits}}{{ 25}}](#p26)
+    - [{{ Rouges and Rōnin}}{{ 27}}](#p28)
+      - [{{ Genji and Okamoto}}{{ 27}}](#p28)
+    - [{{ The Shadow Triad}}{{ 29}}](#p30)
+      - [{{ The Bai Crime Family}}{{ 30}}](#p31)
+    - [{{ Undead}}{{ 31}}](#p32)
+      - [{{ Jiangshi}}{{ 31}}](#p32)
+    - [{{ Clan Hoki}}{{ 33}}](#p34)
+      - [{{ Hatsumomo}}{{ 34}}](#p35)
+      - [{{ Daimyō Hidemaro}}{{ 35}}](#p36)
+    - [{{ Yokai}}{{ 37}}](#p38)
+      - [{{ Ningyo}}{{ 37}}](#p38)
 
-- ### [{{ PART 2 - The Living Lore}}{{ 29}}](#p30) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:795px,left:55px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 2 - The Living Lore}}{{ 39}}](#p40) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:883px,left:55px,width:245px,mix-blend-mode:normal}
 
-  - ###### [{{ Letters and Documents}}{{ 30}}](#p31)
+  - ###### [{{ Letters and Documents}}{{ 40}}](#p41)
   
-    - [{{ Sensei Kenzo’s Letter to the Students}}{{ 30}}](#p31)
-    - [{{ The Usagi’s Letter to Jun}}{{ 30}}](#p31)
-    - [{{ Haiku of the Fading Mire}}{{ 31}}](#p32)
-    - [{{ Cultist’s Poem}}{{ 31}}](#p32)
-    - [{{ Note to Sayuri from Kaito}}{{ 31}}](#p32)
+    - [{{ Cultist’s Poem}}{{ 40}}](#p41)
+    - [{{ Haiku of the Fading Mire}}{{ 40}}](#p41)
+    - [{{ Note to Sayuri from Kaito}}{{ 40}}](#p41)
+    - [{{ Sensei Kenzo’s Letter to the Students}}{{ 40}}](#p41)
+    - [{{ The Usagi’s Letter to Jun}}{{ 41}}](#p42)
 
 }}
 
@@ -266,6 +268,12 @@ This attachment grants you hidden hooked blades, designed after the claws of the
 
 }}
 
+{{position:absolute,top:730px,left:250px,margin-bottom:-50px
+
+##### A Shinobi</br>Prosthetic
+
+}}
+
 ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:61px,left:325px,width:460px,mix-blend-mode:normal}
 
 {{pageNumber,auto}}
@@ -393,18 +401,11 @@ If Wakare is ever broken, the spiritual energy stored within erupts as a wave of
 
 \page
 
-{{pageNumber,auto}}
-{{footnote PART 1 | THE INFINITE LIBRARY}}
-
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
-
-\page
-
 # Allies, Monsters, Foes, and Villains
 
 Sumiriku is a dangerous place.
 
-::::
+\column
 
 {{note
 
@@ -424,40 +425,36 @@ Notable and powerful characters will likely have additional types of actions the
 
 }}
 
-\column
-
-## Allies
-
-### Masuzō
-
-Text about Masuzō
-
-{{imageMaskCorner20,--offsetX:50%,--offsetY:-40%,--rotation:0
-  ![masuzo](https://i.imgur.com/6g3T16j.jpg){position:absolute,bottom:-100px,right:-300px,height:70%,transform:scaleX(1)}
-}}
-
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
-{{#creature,monster,frame
+## Allies
 
-## Masuzō, Might of the Mountain
+### Atsuki
 
-*Medium Yama-Otoko (Giant), Lawful Neutral*
+Text about Atsuki
+
+\column
+
+{{monster,frame
+
+## Atsuki of the Crescent Guard
+
+*Medium Humanoid (Tsukibito), True Neutral*
 
 {{stats
 
 {{vitals
 
-**AC**         :: 17
-**HP**         :: 50 (?d? + ?)
-**Speed**      :: 30 ft.
+**AC**         :: 17 (Improved Medium Armour)
+**HP**         :: 45 (6d10 + 12)
 \column
-**Initiative** :: +2 (12)
+**Initiative** :: +3 (13)
+**Speed**      :: 30 ft.
 
 }}
 
@@ -465,67 +462,63 @@ Text about Masuzō
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Str| 14|  +2  |  +2  |
-|Int| 10|  +0  |  +0  |
+|Str| 10|  +0  |  +3  |
+|Int| 16|  +3  |  +3  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Dex| 14|  +2  |  +2  |
-|Wis| 16|  +3  |  +3  |
+|Dex| 16|  +3  |  +3  |
+|Wis| 10|  +0  |  +0  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Con| 18|  +4  |  +4  |
-|Cha| 8 | --1  | --1  |
+|Con| 14|  +2  |  +5  |
+|Cha| 10|  +0  |  +0  |
 
 }}
 
-**Skills**      :: Medicine +6
-**Senses**      :: Passive Perception 13
-**Languages**   :: Common, Ōgarugo
-**CR**          :: ? (XP ?; PB +3; Level 5)
+**Skills** :: Acrobatics +6, Arcana +6, Athletics +3, History +6, Investigation +6, Persuasion +3,
+**Senses** :: passive Perception 10
+**CR**     :: 3 (XP 700; PB +3; Level 6)
 
 }}
+
+### Traits
+
+***Moon's Blessing.*** Atsuki floats above the ground while moving, ignoring ground-based Difficult Terrain.
+
+***Psionics (6/Day).*** Atsuki's psionic dice are 1d8, which they must use to activate their psionic abilities. Each psionic ability can be used once per day without expending a die. ☐☐☐☐☐☐
+
+***Psionic Strike (1/Turn).*** When Atsuki hits with a weapon attack, they can choose to deal an additional 7 (1d8 + 3) Force damage. ☐
 
 ### Actions
 
-***Multiattack.*** Masuzō makes two Martial Arts Attacks.
+***Multiattack.*** Atsuki makes two Moonflare Blade attacks.
 
-***Martial Arts Attack.*** *Melee Attack Roll:* +7, reach 5ft. *Hit:* 8 (1d8 + 4) Bludgeoning damage.
+***Moonflare Blade.*** *Melee Attack Roll:* +8, reach 5 ft. *Hit:* 8 (1d8 + 3) Force damage. **Cross.** If Atsuki hits with this attack, she can move to the opposite side of the creature hit without expending movement and without provoking Opportunity Attacks. This feature can be used only once on their turn.
 
-}}
+***Psionic Repositioning.*** Atsuki telekinetically moves a Large or smaller object (or willing ally) within 30 feet of them up to 30 feet to an unoccupied space it can see. They can also move an unsecured Tiny object or an unsecured simple or martial weapon to or from their hand. ☐
 
-\column
+### Bonus Actions
 
-{{note
+***Patient Stance.*** Atsuki enters the patient stance. While in this stance, Atsuki's Reaction attacks deal an additional 4 (1d8) damage. This stance ends after Atsuki attacks.
 
-<!-- ##### Note: Kettōdo and Rules for One on One Combat -->
-##### Note: Kettodo and Rules for One-on-one Combat
+***Second Wind (1/Day).*** Atsuki regains 11 (1d10 + 6) hit points and can move up to half their speed without provoking opportunity attacks.
 
-Kettōdo (決闘道, 'Way of the Duel') is a one-on-one mixed martial art and competition practiced across Sumiriku. Kettōdo is designed to be combination of a number of different martial arts developed by the many peoples of Sumiriku; the belief is that there is no best style, weapon, or approach for single combat, so to be an expert one must be equipped to combat every possible style. Rounds of Kettōdo are played to a set number of points, where each strike against the opponent is considered a point, as this is supposed to emulate the experience of attempting to strike down an opponent. Below are some modified rules for running one-on-one combat, that aims to make it more dynamic, tactical, and variable:
+### Reactions
 
-:
+***Psionic Field.*** *Trigger:* Atsuki (or an ally they can see within 30 feet) takes damage. *Response:* Atsuki reduces the damage by 7 (1d8 + 3). ☐
 
-&nbsp;&nbsp;&nbsp;**Movement.** Movement Speed is halved. You can choose to reduce your Movement Speed by a further 10 feet to take the Disengage action.
+***Slowfall.*** *Trigger:* Atsuki is falling. *Response:* Their rate of descent is reduced to 60 feet per round  for 1 minute. Atsuki takes no fall damage if they land while falling at this rate.
 
-**Initiative.** Initiative is rolled at the beginning of each round of combat.
-
-**Special Reactions.** Before each of your opponent's attacks you can make one of the following special combat actions in place of taking a Reaction, that does not consume your Reaction. You cannot use one of these actions and a Reaction on the same attack, and you cannot use one of these special actions after being hit in a turn:
-
-*Block.* You can roll a d6 and add the total to your AC against that attack.
-
-*Sidestep.* If the attack misses you you can make a Melee Weapon Attack against the opponent that attacked you.
-
-:
-
-When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent counts as a point. Duels are typically played to 5 points, or until a combatant resigns.
+***Quick Slash.*** *Trigger:* A creature within 10 feet of Atsuki attempts an Attack Roll. *Response:* Atsuki can move up to 5 feet before making a Moonflare Blade attack against the triggering creature at Advantage.
 
 }}
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -655,31 +648,56 @@ Text about Makoto
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
-### Atsuki
+### Masuzō
 
-Text about Atsuki
+Text about Masuzō
+
+{{note
+
+<!-- ##### Note: Kettōdo and Rules for One on One Combat -->
+##### Note: Kettodo and Rules for One-on-one Combat
+
+Kettōdo (決闘道, 'Way of the Duel') is a one-on-one mixed martial art and competition practiced across Sumiriku. Kettōdo is designed to be combination of a number of different martial arts developed by the many peoples of Sumiriku; the belief is that there is no best style, weapon, or approach for single combat, so to be an expert one must be equipped to combat every possible style. Rounds of Kettōdo are played to a set number of points, where each strike against the opponent is considered a point, as this is supposed to emulate the experience of attempting to strike down an opponent. Below are some modified rules for running one-on-one combat, that aims to make it more dynamic, tactical, and variable:
+
+:
+
+&nbsp;&nbsp;&nbsp;**Movement.** Movement Speed is halved. You can choose to reduce your Movement Speed by a further 10 feet to take the Disengage action.
+
+**Initiative.** Initiative is rolled at the beginning of each round of combat.
+
+**Special Reactions.** Before each of your opponent's attacks you can make one of the following special combat actions in place of taking a Reaction, that does not consume your Reaction. You cannot use one of these actions and a Reaction on the same attack, and you cannot use one of these special actions after being hit in a turn:
+
+*Block.* You can roll a d6 and add the total to your AC against that attack.
+
+*Sidestep.* If the attack misses you you can make a Melee Weapon Attack against the opponent that attacked you.
+
+:
+
+When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent counts as a point. Duels are typically played to 5 points, or until a combatant resigns.
+
+}}
 
 \column
 
-{{monster,frame
+{{#creature,monster,frame
 
-## Atsuki of the Crescent Guard
+## Masuzō, Might of the Mountain
 
-*Medium Humanoid (Tsukibito), True Neutral*
+*Medium Yama-Otoko (Giant), Lawful Neutral*
 
 {{stats
 
 {{vitals
 
-**AC**         :: 17 (Improved Medium Armour)
-**HP**         :: 45 (6d10 + 12)
-\column
-**Initiative** :: +3 (13)
+**AC**         :: 17
+**HP**         :: 50 (?d? + ?)
 **Speed**      :: 30 ft.
+\column
+**Initiative** :: +2 (12)
 
 }}
 
@@ -687,63 +705,50 @@ Text about Atsuki
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Str| 10|  +0  |  +3  |
-|Int| 16|  +3  |  +3  |
+|Str| 14|  +2  |  +2  |
+|Int| 10|  +0  |  +0  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Dex| 16|  +3  |  +3  |
-|Wis| 10|  +0  |  +0  |
+|Dex| 14|  +2  |  +2  |
+|Wis| 16|  +3  |  +3  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Con| 14|  +2  |  +5  |
-|Cha| 10|  +0  |  +0  |
+|Con| 18|  +4  |  +4  |
+|Cha| 8 | --1  | --1  |
 
 }}
 
-**Skills** :: Acrobatics +6, Arcana +6, Athletics +3, History +6, Investigation +6, Persuasion +3,
-**Senses** :: passive Perception 10
-**CR**     :: 3 (XP 700; PB +3; Level 6)
+**Skills**      :: Medicine +6
+**Senses**      :: Passive Perception 13
+**Languages**   :: Common, Ōgarugo
+**CR**          :: ? (XP ?; PB +3; Level 5)
 
 }}
-
-### Traits
-
-***Moon's Blessing.*** Atsuki floats above the ground while moving, ignoring ground-based Difficult Terrain.
-
-***Psionics (6/Day).*** Atsuki's psionic dice are 1d8, which they must use to activate their psionic abilities. Each psionic ability can be used once per day without expending a die. ☐☐☐☐☐☐
-
-***Psionic Strike (1/Turn).*** When Atsuki hits with a weapon attack, they can choose to deal an additional 7 (1d8 + 3) Force damage. ☐
 
 ### Actions
 
-***Multiattack.*** Atsuki makes two Moonflare Blade attacks.
+***Multiattack.*** Masuzō makes two Martial Arts Attacks.
 
-***Moonflare Blade.*** *Melee Attack Roll:* +8, reach 5 ft. *Hit:* 8 (1d8 + 3) Force damage. **Cross.** If Atsuki hits with this attack, she can move to the opposite side of the creature hit without expending movement and without provoking Opportunity Attacks. This feature can be used only once on their turn.
+***Martial Arts Attack.*** *Melee Attack Roll:* +7, reach 5ft. *Hit:* 8 (1d8 + 4) Bludgeoning damage.
 
-***Psionic Repositioning.*** Atsuki telekinetically moves a Large or smaller object (or willing ally) within 30 feet of them up to 30 feet to an unoccupied space it can see. They can also move an unsecured Tiny object or an unsecured simple or martial weapon to or from their hand. ☐
+}}
 
-### Bonus Actions
+{{imageMaskCorner20,--offsetX:50%,--offsetY:-40%,--rotation:0
+  ![masuzo](https://i.imgur.com/6g3T16j.jpg){position:absolute,bottom:-100px,right:-300px,height:70%,transform:scaleX(1)}
+}}
 
-***Patient Stance.*** Atsuki enters the patient stance. While in this stance, Atsuki's Reaction attacks deal an additional 4 (1d8) damage. This stance ends after Atsuki attacks.
+{{position:absolute,top:995px,right:365px,margin-bottom:-50px,text-align:right
 
-***Second Wind (1/Day).*** Atsuki regains 11 (1d10 + 6) hit points and can move up to half their speed without provoking opportunity attacks.
-
-### Reactions
-
-***Psionic Field.*** *Trigger:* Atsuki (or an ally they can see within 30 feet) takes damage. *Response:* Atsuki reduces the damage by 7 (1d8 + 3). ☐
-
-***Slowfall.*** *Trigger:* Atsuki is falling. *Response:* Their rate of descent is reduced to 60 feet per round  for 1 minute. Atsuki takes no fall damage if they land while falling at this rate.
-
-***Quick Slash.*** *Trigger:* A creature within 10 feet of Atsuki attempts an Attack Roll. *Response:* Atsuki can move up to 5 feet before making a Moonflare Blade attack against the triggering creature at Advantage.
+##### Masuzo in</br>meditation
 
 }}
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -835,6 +840,374 @@ Text about Yuxuan
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
+## The Bound and Fraying Rope
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
+## Generic Foes
+
+### Guards
+
+{{monster,frame
+
+## Guard
+
+*Medium Humanoid, Lawful Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 15 (Medium Armour)
+**HP**         :: 16 (3d8 + 3)
+\column
+**Initiative** :: +1 (11)
+**Speed**      :: 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 13|  +1  |  +1  |
+|Int| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12|  +1  |  +1  |
+|Wis| 12|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12|  +1  |  +1  |
+|Cha| 10|  +0  |  +0  |
+
+}}
+
+**Skills** :: Perception +2
+**Senses** :: Passive Perception 12
+**CR**     :: 1/8 (XP 25; PB +2)
+
+}}
+
+### Actions
+
+***Hoko Yari.*** *Melee Attack Roll:* +3 to hit, reach 10 ft., one target. *Hit:* 4 (1d6 + 1) Piercing damage, or 5 (1d8 + 1) Piercing damage if used with two hands.
+
+***Jitte.*** *Melee Attack Roll:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) Bludgeoning damage.
+
+### Reactions
+
+***Disarm.*** *Trigger:* While the Guard is holding a Jitte, a Large or smaller creature targets the guard with a Melee Weapon Attack and misses. *Response---Strength or Dexterity Saving Throw (target's choice):* DC 10, attacking creature. *Failure:* The attacker drops the Weapon used for the attack at a point of the guard's choice within 10 feet of them.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+### Samurai and Ashigaru
+
+{{monster,frame
+
+## Samurai Footman
+
+*Medium Humanoid, Lawful Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 17 (Heavy Armour)
+**HP**         :: 60 (8d8 + 24)
+**Speed**      :: 30 ft.
+\column
+**Initiative** :: +0 (10)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18|  +4  |  +4  |
+|Int| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10|  +0  |  +0  |
+|Wis| 12|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16|  +3  |  +3  |
+|Cha| 10|  +0  |  +0  |
+
+}}
+
+**CR** :: 3 (XP 700; PB +2)
+
+}}
+
+### Traits
+
+***Exploit Opening (3/Day).*** When the Samurai makes an attack, they have advantage on the attack roll.
+
+### Actions
+
+***Multiattack.*** The Samurai makes two Katana attacks.
+
+***Katana.*** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 9 (2d4 + 4) Slashing damage.
+
+### Bonus Actions
+
+***Bushidō Focus (1/Day).*** The Samurai takes the Dodge action. Whenever an attack misses them until the start of their next turn, they gain 5 Temporary Hit Points.
+
+}}
+
+\column
+
+{{monster,frame
+
+## Mounted Samurai
+
+*Large Humanoid, Lawful Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 17 (Heavy Armour)
+**HP**         :: 80 (10d8 + 36)
+\column
+**Initiative** :: +0 (10)
+**Speed**      :: 60 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 20|  +5  |  +8  |
+|Int| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10|  +0  |  +0  |
+|Wis| 14|  +2  |  +2  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +4  |  +4  |
+|Cha| 12|  +1  |  +1  |
+
+}}
+
+**CR** :: 6 (XP 2,300; PB +3)
+
+}}
+
+### Traits
+
+***Exploit Opening (3/Day).*** When the Samurai makes an attack, they have advantage on the attack roll.
+
+***Mounted Warrior.*** The Samurai fights on horseback. If the Samurai ever has the Prone Condition the horse flees, reducing the Samurai's size to Medium, their speed to 30 feet, and no longer letting them use the Trample action.
+
+### Actions
+
+***Multiattack.*** The Samurai makes two Naginata attacks.
+
+***Naginata.*** *Melee Attack Roll:* +8, reach 10 ft. *Hit:* 10 (1d10 + 5) Slashing damage.
+
+### Bonus Actions
+
+***Trample (1/Day).*** The Samurai moves up to their speed without provoking Opportunity Attacks, trampling anyone in their path. *Strength Saving Throw:* DC 17, all creatures the Samurai moves through. *Failure:* 18 (4d8) Bludgeoning damage, and the target has the Prone Condition if they are Large or smaller. *Success:* Half damage.
+
+}}
+
+{{monster,frame
+
+## Samurai Archer
+
+*Medium Humanoid, Lawful Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 15 (Light Armour)
+**HP**         :: 39 (6d8 + 12)
+\column
+**Initiative** :: +0 (10)
+**Speed**      :: 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 13|  +1  |  +1  |
+|Int| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 18|  +4  |  +4  |
+|Wis| 14|  +2  |  +2  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +2  |  +2  |
+|Cha| 12|  +1  |  +1  |
+
+}}
+
+**Senses** :: Passive Perception 14
+**CR**     :: 2 (XP 450; PB +2)
+
+}}
+
+### Traits
+
+***Exploit Opening (3/Day).*** When the Samurai makes an attack, they have advantage on the attack roll.
+
+***Snipe.*** When the Samurai hits a creature with a Ranged Weapon Attack with Advantage, they deal an extra 7 (2d6) Piercing damage.
+
+### Actions
+
+***Daikyū.*** *Melee Attack Roll:* +6, range 150/600 ft. *Hit:* 8 (1d8 + 4) Piercing damage.
+
+***Trickshot (Recharge 5-6).***
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
+## Godaiyō
+
+### Raijū
+
+{{monster,frame,wide
+
+## Raijū, Raging Bolt
+
+*Huge Elemental (Godaiyō, Air), Chaotic Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 16 (Natural Armour)
+**HP**         :: 156 (15d12 + 60)
+\column
+**Speed**      :: 50 ft., Fly 50 ft. (hover)
+**Initiative** :: +4 (14)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 21|  +5  |  +5  |
+|Int| 3 | --4  | --4  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 18|  +4  |  +4  |
+|Wis| 18|  +4  |  +4  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16|  +3  |  +3  |
+|Cha| 7 | --2  | --2  |
+
+}}
+
+**Skills**      :: Acrobatics +8, Perception +8, Stealth +8
+**Resistances** :: Cold, Poison, Thunder
+**Immunities**  :: Lightning; Dazed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Restrained
+**Senses**      :: Darkvision 60 ft., Passive Perception 18
+**Languages**   :: Ryūgo
+**CR**          :: 10 (XP 5000; PB +4)
+
+}}
+
+### Traits
+
+***Keen Hearing and Smell.*** The Raijū has Advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+***Legendary Resistance (1/Day).*** If the Raijū fails a saving throw, they can choose to succeed instead. Once their Legendary Resistance feature is used, they lose access to their Static Charge feature.
+
+***Spark Path.*** The Raijū leaves behind streaks of lightning as they move, which are 5 foot wide, shed dim light in a 20-foot radius, and last until the start of their next turn. *Dexterity Saving Throw:* DC 16, when this path first appears in a creature's space or a creature enters the path or ends their turn there. *Failure:* 7 (2d6) Lightning damage.
+
+***Static Charge.*** The Raijū's attacks and abilities can charge creatures with static electricity. When a charged creature takes Lightning damage, another charged creature within 15 feet of the first also takes 7 (2d6) Lightning damage.
+
+### Actions
+
+***Multiattack.*** The Raijū makes three Lightning Claws attacks. They can replace one of these with a use of Tail Bolt.
+
+***Lightning Claws.*** *Melee Attack Roll:* +9, reach 5 ft. *Hit:*  12 (2d6 + 5) Slashing damage plus 7 (2d6) Lightning damage, and the target must succeed on a DC 16 Constitution Saving Throw or become charged.
+
+***Tail Bolt.*** *Dexterity Saving Throw:* DC 16, each creature within 5 feet of a point within 60 feet. *Failure:* 21 (6d6) Lightning damage, and the target is Dazed and is charged. *Success:* Half damage, and the target is not Dazed or is charged.
+
+***Volt Vortex (Recharge 5-6).*** The Raijū spins wildling, kicking up a swirling storm. *Dexterity Saving Throw:* DC 17, all creatures within 10 feet of Raijū. *Failure:* 14 (4d6) Slashing damage and 14 (4d6) Lightning damage. *Success:* Half damage. A 15 foot radius storm emminating from the Raijū is created which lasts for 1 minute. The area of the storm is Heavily Obscured to any creatures outside of the storm, and any creature that ends their turn inside the storm takes 7 (2d6) Slashing damage and 7 (2d6) Lightning damage.
+
+### Reactions
+
+The Raijū can take up to two Reactions per round but only one per turn.
+
+***Galvanic Return.*** *Trigger:* The Raijū takes damage from a Melee Attack. *Response---Constitution Saving Throw:* DC 16, the target who triggered the reaction. *Failure:* The target becomes charged if they are not already, or if they are they take 7 (2d6) Lightning damage.
+
+***Bolt Dash.*** *Trigger:* The Raijū takes damage from a Ranged Attack. *Response:* The Raijū dashes up to 50 feet towards the creature that triggered the reaction without provoking Opportunity Attacks.
+
+***Absorb Energy.*** *Trigger:* A creature the Raijū sees ends their turn. *Response---Constitution Saving Throw:* DC 16, each charged creature within 120 feet. *Failure:* 7 (2d6) Lightning damage, the Raijū is healed for that amount, and the target loses charge. *Success:* The target loses charge.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
 ![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
@@ -917,394 +1290,6 @@ Many groups of bandits roam the roads and settlements of Sumiriku, who make thei
 ![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
-
-## Clan Hoki
-
-Text about the castle
-
-\column
-
-{{monster,frame
-
-## Animated Ō-yoroi
-
-*Medium Construct, Unaligned*
-
-{{stats
-
-{{vitals
-
-**AC**         :: 17 (Heavy Armour)
-**HP**         :: 26 (5d8 + 5)
-\column
-**Initiative** :: +0 (10)
-**Speed**      :: 25 ft.
-
-}}
-
-{{tables
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 14|  +2  |  +2  |
-|Int| 1 | --5  | --5  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10|  +0  |  +0  |
-|Wis| 3 | --4  | --4  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 13|  +1  |  +1  |
-|Cha| 1 | --5  | --5  |
-
-}}
-
-**Immunities** :: Poison, Psychic; Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-**Senses**     :: Blindsight 60 ft. (blind beyond this radius), passive Perception 6
-**CR**         :: 1 (XP 200; PB +2)
-
-}}
-
-### Traits
-
-***Antimagic Susceptibility.*** The armor is incapacitated while in the area of an antimagic field. If targeted by *Dispel Magic*, the armor must succeed on a Constitution saving throw against the caster's Spell Save DC or fall unconscious for 1 minute.
-
-***False Appearance.*** While the armor remains motionless, it is indistinguishable from a normal suit of armor.
-
-### Actions
-
-***Multiattack.*** The armor makes two attacks.
-
-***Katana.*** *Melee Attack ROll:* +4, reach 5 ft. *Hit:* 6 (2d4 + 2) Slashing damage.
-
-}}
-
-{{pageNumber,auto}}
-{{footnote PART 1 | THE INFINITE LIBRARY}}
-
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
-
-\page
-
-### Hatsumomo
-
-Text about Hatsumomo
-
-{{monster,frame
-
-## Amazura, Emaciated Terror
-
-*Large Beast, Unaligned*
-
-{{stats
-
-{{vitals
-
-**AC**         :: 12
-**HP**         :: 37 (5d10 + 10)
-\column
-**Initiative** :: +2 (12)
-**Speed**      :: 20 ft.
-
-}}
-
-{{tables
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 17|  +3  |  +3  |
-|Int| 3 | --4  | --4  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15|  +2  |  +2  |
-|Wis| 12|  +1  |  +1  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14|  +2  |  +2  |
-|Cha| 8 | --1  | --1  |
-
-}}
-
-**Skills** :: Perception +3, Stealth +6
-**Senses** :: Darkvision 60 ft., Passive Perception 13
-**CR**     :: 5 (XP ?; PB +2)
-
-}}
-
-### Traits
-
-***Keen Smell.*** Amazura has Advantage on Wisdom (Perception) checks that rely on smell.
-
-### Actions
-
-***Rend.*** *Melee Attack Roll:* +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage. If the target is a Large or smaller creature, it has the Prone Condition.
-
-### Villain Actions
-
-***Dreambleed (Requires Hatsumomo has been killed).*** The dark pigmentation begins to ooze out of Amazura's skin as she becomes a living nightmare. While in this state, her attacks deal an additional 1d4 damage, and the damage of her attacks can be Necrotic. In addition, any creature that starts their turn within 30 feet of Amazura and in line of sight to her must succeed on a DC 15 Wisdom Saving Throw or be Frightened by her until the start of their next turn.
-
-}}
-
-\column
-
-{{#creature,monster,frame
-
-## Hatsumomo, Catty Courtesan
-
-*Medium Humanoid, Lawful Evil*
-
-{{stats
-
-{{vitals
-
-**AC**         :: 15 (Protective Fan)
-**HP**         :: 29 (5d8 + 5)
-\column
-**Initiative** :: +3 (13)
-**Speed**      :: 30 ft.
-
-}}
-
-{{tables
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 8 | --1  | --1  |
-|Int| 10|  +0  |  +3  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16|  +3  |  +6  |
-|Wis| 10|  +0  |  +0  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12|  +1  |  +1  |
-|Cha| 18|  +4  |  +4  |
-
-}}
-
-**Skills**    :: Persuasion +7
-**Languages** :: Formal, Common
-**CR**        :: 5 (XP ?; PB +3; Level 5)
-
-}}
-
-### Traits
-
-***Sneak Attack (1/Turn).*** Hatsumomo deals an extra 10 (3d6) damage when it hits a target with a Weapon Attack and has Advantage on the Attack Roll, or when the target is within 5 feet of an ally of Hatsumomo that isn't incapacitated and Hatsumomo doesn't have Disadvantage on the Attack Roll.
-
-***Kakure-bi.*** Hatsumomo wields a magical Tessen called Kakure-bi. Kakure-bi appears to be a regular folding fan, but is instead a +1 Tessen with the Finesse property (included in Hatsumomo's attacks). The attributes of Kakure-bi are included in Hatsumomo's statblock.
-
-***Protective Fan.*** When Hatsumomo attacks with Kakure-bi or as a Bonus Action she can change it from closed to open or vice versa. While open, her attack instead deals 1d4 Slashing damage, but grants her an additional +1 AC. She starts with Kakure-bi open.
-
-### Actions
-
-***Kakure-bi.*** *Melee Attack: Roll* +8 , reach 5 ft. *Hit:* 6 (1d4 + 4) Slashing damage or 7 (1d6 + 4) Piercing Damage.
-
-### Bonus Actions
-
-***Change Style.*** Hatsumomo closes and opens Kakure-bi, changing the appearance of the fan and her kimono.
-
-***Cunning Action.*** Hatsumomo can take the Dash, Disengage, or Hide Action.
-
-***Protective Fan.*** Hatsumomo swaps Kakure-bi from open to closed or vice versa.
-
-***Tanto*** *Melee Attack Roll:* +7, reach 5 ft. *Hit:* 5 (1d4 + 3) Piercing damage.
-
-***Vicious Mockery.*** Hatsumomo talks down to her victim. *Wisdom Saving Throw:* DC 15, one creature Hatsumomo can see within 60 feet. *Failure:* 3 (1d6) Psychic damage and the target has Disadvantage on the next attack roll it makes before the end of its next turn.
-
-### Reactions
-
-***Uncanny Dodge.*** *Trigger:* Hatsumomo is hit by an attack from an attacker she can see. *Response:* Hatsumomo halves the damage that she takes from the attack.
-
-}}
-
-{{pageNumber,auto}}
-{{footnote PART 1 | THE INFINITE LIBRARY}}
-
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
-
-\page
-
-### Daimyō Hidemaro
-
-Text about Hidemaro
-
-:::::
-
-{{monster,wide,frame
-
-<!-- ## Daimyō Hidemaro, Spiteful Warlord -->
-## Hidemaro, Spiteful Daimyō
-
-*Medium Humanoid (Paladin), Lawful Evil*
-
-{{stats
-
-{{vitals
-
-**AC**         :: 17 (Heavy Armour) <!-- 19 (Extra Heavy Armour) -->
-**HP**         :: 67 (7d10 + 29)
-\column
-**Initiative** :: +2 (12)
-**Speed**      :: 30 ft.
-
-}}
-
-{{tables
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18|  +4  |  +4  |
-|Int| 11|  +0  |  +0  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 11|  +0  |  +0  |
-|Wis| 14|  +2  |  +5  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16|  +3  |  +3  |
-|Cha| 15|  +2  |  +5  |
-
-}}
-
-**Skills** :: Athletics +7, Intimidation +5
-**Senses** :: Passive Perception 12
-**CR**     :: 8 (XP 3,900; PB +3)
-
-}}
-
-### Traits
-
-***Kane-tsuki.*** Hidemaro wields a magical Kama Yari called Kane-tsuki. Kane-tsuki is a +1 Kama Yari (included in Hidemaro's attacks). *Constitution Saving Throw:* DC 15, when hit by Kane-tsuki, once per turn. *Failure:* The target has the Dazed and Deafened Condition until the end of their next turn. Creatures immune to the Deafened Condition are immune to this effect.
-
-***Kōyō, Faithful Steed.*** At the start of initiative, Hidemaro summons and mounts his steed, the elk Kōyō. Kōyō is a Large Beast, with 13 AC and a 50 ft. Walk Speed. Hidemaro and Kōyō share Hit Points, but only one of them can take damage from a source at any one time. <!-- Some of Hidemaro's Villain Actions can only be used while mounted. -->
-
-***Legendary Resistance (1/Day).*** If Hidemaro fails a saving throw, it can choose to succeed instead.
-
-***Command Kabuto.*** Hidemaro wears a magical helmet called the Command Kabuto. While wearing the helmet, Animated Armors tuned to the helmet within 100 feet of the wearer will follow the wearer's commands (no action required).
-
-<!-- ***Mounted Combatant.*** While mounted on Kōyō, Hidemaro has Advantage on Attack Rolls against any creature that is within 5 feet of Kōyō and at least one Size smaller than him. -->
-***Warlord's Wrath (Antagonist Trait, Recharges after a Short or Long Rest).*** If Hidemaro is reduced to 0 Hit Points while Kōyō is still summoned, he doesn't die or fall unconscious. Instead Hidemaro regains all of his Hit Points, removes any Conditions he may be under, and Kōyō disappears into mist. Hidemaro additionally regains any spent uses of Legendary Resistance, and he can use any actions listed as Antagonist Actions for 1 hour.
-
-\column
-
-### Actions
-
-***Multiattack.*** Hidemaro makes two attacks using Kane-tsuki.
-
-***Kane-tsuki.*** *Melee Attack Roll:* +8, reach 10 ft. *Hit:* 10 (1d10 + 5) Piercing damage plus 5 (1d8) Radiant damage. If Hidemaro is mounted, the target can be pushed up to 10 feet away from him.
-
-### Villain Actions
-
-***Steel Sweep.*** Hidemaro swings his Yari in front of him violently, empowered by holy energy. *Dexterity Saving Throw:* DC 13, each creature 60-foot cone. *Failure:* 4 (1d8) Radiant damage, and an additional 5 (1d10) Slashing damage if the target is within 10 feet of Hidemaro. *Success:* Half Damage.
-
-***Shimmering Leap.*** Kōyō jumps into the air, traveling up to 30 feet without provoking Opportunity Attacks. *Dexterity Saving Throw:* DC 13, each creature along the path of Kōyō's movement. *Failure:* The target shimmers in golden light for 1 minute, causing it to shed dim light in a 10-foot radius and be unable to benefit from the Invisible Condition.
-
-***Fear The Conquerer. (Antagonist Action)*** Hidemaro terrifies his foes. *Wisdom Saving Throw:* DC 13, each creature within 30 feet. *Failure:* The target is Frightened of Hidemaro for 1 minute. While Frightened in this way, a creature takes 3 (1d6) Psychic damage at the start of each of their turns. If a Frightened target ends its turn more than 30 feet away from Hidemaro, the target can repeat the Saving Throw, ending the effect on itself on a success.
-
-***Reverberations. (Antagonist Action)*** Hidemaro slams the ground, causing the sound of ringing to echo. *Constitution Saving Throw:* DC 13, each creature within 30 feet. *Failure:* 18 (4d8) Thunder damage and the target has the Dazed Condition for 1 minute (save repeats at end of turn). *Success:* Half Damage. *Success or Failure:* Creatures immune to the Deafened Condition are immune to this effect.
-
-}}
-
-{{pageNumber,auto}}
-{{footnote PART 1 | THE INFINITE LIBRARY}}
-
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
-
-\page
-
-## The Shadow Triad
-
-Text about the triad
-
-\column
-
-{{monster,frame
-
-## Jiangshi Lackey
-
-*Medium Undead, Neutral Evil*
-
-{{stats
-
-{{vitals
-
-**AC**         :: 14 (Natural Armor)
-**HP**         :: 52 (8d8 + 16)
-\column
-**Speed**      :: 30 ft.
-**Initiative** :: -4 (6)
-
-}}
-
-{{tables
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16|  +3  |  +5  |
-|Int| 9 |  -1  |  -1  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 3 |  -4  |  -2  |
-|Wis| 12|  +1  |  +1  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14|  +2  |  +2  |
-|Cha| 12|  +1  |  +1  |
-
-}}
-
-**Resistances** :: Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks That Aren't Peachwood
-**Senses**      :: Blindsight 60 ft., Passive Perception 11
-**Languages**   :: Common, Zāngkē
-**CR**          :: 3 (XP 700; PB +2)
-
-}}
-
-### Traits
-
-***Breath Sight.*** A creature that is holding its breath may attempt to hide from the Jiangshi without obscurement.
-
-***Graceless Rigor.*** If the Jiangshi is hit with a Melee Attack from a direction it is not facing, it is pushed 5 feet away and has the Prone Condition.
-
-***Hopping Movement.*** When initiative is rolled, the Jiangshi selects a cardinal direction to face. The Jiangshi may move only in the direction it is facing, and may spend 5 feet of movement to turn up to 90 degrees or to stand from Prone.
-
-***Not Yet Turned.*** While the Jiangshi is at full health, any spells and abilities that detect the presence of undead fail, the Jiangshi's **Graceless Rigor** trait is ignored, the Jiangshi cannot use it's **Crooked Claws** attack, and the Jiangshi has 12 Dexterity.
-
-### Actions
-
-***Multiattack.*** The Jiangshi makes two attacks, one of which it can replace with a use of its Drain Vitality.
-
-***Tanto.*** *Melee or Ranged Attack Roll:* +5, reach 5 ft. or range 20/60 ft. *Hit:* 6 (1d4 + 3) Slashing damage.
-
-***Crooked Claws.*** *Melee Weapon Attack:*  +5, reach 5 ft. in the direction the Jiangshi is facing. *Hit:* 10 (2d6 + 3) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled Condition (escape DC 12) from one of two claws.
-
-***Drain Vitality.*** The Jiangshi draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 13, a creature grappled by the Jiangshi. *Failure:* 9 (2d8) Necrotic damage. *Success:* Half damage. *Failure or Success:* The Jiangshi regains Hit Points equal to the amount of Necrotic damage dealt.
-
-### Reactions
-
-***Whip Around.*** *Trigger:* A creature the Jiangshi is not facing misses it with a Melee Attack. *Response:* The Jiangshi turns to face it and makes a **Crooked Claws** attack.
-
-}}
-
-{{pageNumber,auto}}
-{{footnote PART 1 | THE INFINITE LIBRARY}}
-
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
-
-\page
-
-### The Bai Crime Family
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
@@ -1557,25 +1542,27 @@ Text about them
 
 \page
 
-## Godaiyō
+## The Shadow Triad
 
-### Raijū
+Text about the triad
 
-{{monster,frame,wide
+\column
 
-## Raijū, Raging Bolt
+{{monster,frame
 
-*Huge Elemental (Godaiyō, Air), Chaotic Neutral*
+## Jiangshi Lackey
+
+*Medium Undead, Neutral Evil*
 
 {{stats
 
 {{vitals
 
-**AC**         :: 16 (Natural Armour)
-**HP**         :: 156 (15d12 + 60)
+**AC**         :: 14 (Natural Armor)
+**HP**         :: 52 (8d8 + 16)
 \column
-**Speed**      :: 50 ft., Fly 50 ft. (hover)
-**Initiative** :: +4 (14)
+**Speed**      :: 30 ft.
+**Initiative** :: -4 (6)
 
 }}
 
@@ -1583,59 +1570,51 @@ Text about them
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Str| 21|  +5  |  +5  |
-|Int| 3 | --4  | --4  |
+|Str| 16|  +3  |  +5  |
+|Int| 9 |  -1  |  -1  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Dex| 18|  +4  |  +4  |
-|Wis| 18|  +4  |  +4  |
+|Dex| 3 |  -4  |  -2  |
+|Wis| 12|  +1  |  +1  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Con| 16|  +3  |  +3  |
-|Cha| 7 | --2  | --2  |
+|Con| 14|  +2  |  +2  |
+|Cha| 12|  +1  |  +1  |
 
 }}
 
-**Skills**      :: Acrobatics +8, Perception +8, Stealth +8
-**Resistances** :: Cold, Poison, Thunder
-**Immunities**  :: Lightning; Dazed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Restrained
-**Senses**      :: Darkvision 60 ft., Passive Perception 18
-**Languages**   :: Ryūgo
-**CR**          :: 10 (XP 5000; PB +4)
+**Resistances** :: Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks That Aren't Peachwood
+**Senses**      :: Blindsight 60 ft., Passive Perception 11
+**Languages**   :: Common, Zāngkē
+**CR**          :: 3 (XP 700; PB +2)
 
 }}
 
 ### Traits
 
-***Keen Hearing and Smell.*** The Raijū has Advantage on Wisdom (Perception) checks that rely on hearing or smell.
+***Breath Sight.*** A creature that is holding its breath may attempt to hide from the Jiangshi without obscurement.
 
-***Legendary Resistance (1/Day).*** If the Raijū fails a saving throw, they can choose to succeed instead. Once their Legendary Resistance feature is used, they lose access to their Static Charge feature.
+***Graceless Rigor.*** If the Jiangshi is hit with a Melee Attack from a direction it is not facing, it is pushed 5 feet away and has the Prone Condition.
 
-***Spark Path.*** The Raijū leaves behind streaks of lightning as they move, which are 5 foot wide, shed dim light in a 20-foot radius, and last until the start of their next turn. *Dexterity Saving Throw:* DC 16, when this path first appears in a creature's space or a creature enters the path or ends their turn there. *Failure:* 7 (2d6) Lightning damage.
+***Hopping Movement.*** When initiative is rolled, the Jiangshi selects a cardinal direction to face. The Jiangshi may move only in the direction it is facing, and may spend 5 feet of movement to turn up to 90 degrees or to stand from Prone.
 
-***Static Charge.*** The Raijū's attacks and abilities can charge creatures with static electricity. When a charged creature takes Lightning damage, another charged creature within 15 feet of the first also takes 7 (2d6) Lightning damage.
+***Not Yet Turned.*** While the Jiangshi is at full health, any spells and abilities that detect the presence of undead fail, the Jiangshi's **Graceless Rigor** trait is ignored, the Jiangshi cannot use it's **Crooked Claws** attack, and the Jiangshi has 12 Dexterity.
 
 ### Actions
 
-***Multiattack.*** The Raijū makes three Lightning Claws attacks. They can replace one of these with a use of Tail Bolt.
+***Multiattack.*** The Jiangshi makes two attacks, one of which it can replace with a use of its Drain Vitality.
 
-***Lightning Claws.*** *Melee Attack Roll:* +9, reach 5 ft. *Hit:*  12 (2d6 + 5) Slashing damage plus 7 (2d6) Lightning damage, and the target must succeed on a DC 16 Constitution Saving Throw or become charged.
+***Tanto.*** *Melee or Ranged Attack Roll:* +5, reach 5 ft. or range 20/60 ft. *Hit:* 6 (1d4 + 3) Slashing damage.
 
-***Tail Bolt.*** *Dexterity Saving Throw:* DC 16, each creature within 5 feet of a point within 60 feet. *Failure:* 21 (6d6) Lightning damage, and the target is Dazed and is charged. *Success:* Half damage, and the target is not Dazed or is charged.
+***Crooked Claws.*** *Melee Weapon Attack:*  +5, reach 5 ft. in the direction the Jiangshi is facing. *Hit:* 10 (2d6 + 3) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled Condition (escape DC 12) from one of two claws.
 
-***Volt Vortex (Recharge 5-6).*** The Raijū spins wildling, kicking up a swirling storm. *Dexterity Saving Throw:* DC 17, all creatures within 10 feet of Raijū. *Failure:* 14 (4d6) Slashing damage and 14 (4d6) Lightning damage. *Success:* Half damage. A 15 foot radius storm emminating from the Raijū is created which lasts for 1 minute. The area of the storm is Heavily Obscured to any creatures outside of the storm, and any creature that ends their turn inside the storm takes 7 (2d6) Slashing damage and 7 (2d6) Lightning damage.
+***Drain Vitality.*** The Jiangshi draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 13, a creature grappled by the Jiangshi. *Failure:* 9 (2d8) Necrotic damage. *Success:* Half damage. *Failure or Success:* The Jiangshi regains Hit Points equal to the amount of Necrotic damage dealt.
 
 ### Reactions
 
-The Raijū can take up to two Reactions per round but only one per turn.
-
-***Galvanic Return.*** *Trigger:* The Raijū takes damage from a Melee Attack. *Response---Constitution Saving Throw:* DC 16, the target who triggered the reaction. *Failure:* The target becomes charged if they are not already, or if they are they take 7 (2d6) Lightning damage.
-
-***Bolt Dash.*** *Trigger:* The Raijū takes damage from a Ranged Attack. *Response:* The Raijū dashes up to 50 feet towards the creature that triggered the reaction without provoking Opportunity Attacks.
-
-***Absorb Energy.*** *Trigger:* A creature the Raijū sees ends their turn. *Response---Constitution Saving Throw:* DC 16, each charged creature within 120 feet. *Failure:* 7 (2d6) Lightning damage, the Raijū is healed for that amount, and the target loses charge. *Success:* The target loses charge.
+***Whip Around.*** *Trigger:* A creature the Jiangshi is not facing misses it with a Melee Attack. *Response:* The Jiangshi turns to face it and makes a **Crooked Claws** attack.
 
 }}
 
@@ -1646,85 +1625,7 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 \page
 
-## Yokai
-
-### Ningyo
-
-{{monster,frame,wide
-
-## Ningyo
-
-*Medium Fey (Yokai), Chaotic Neutral*
-
-{{stats
-
-{{vitals
-
-**AC**         :: 15 (Natural Armour)
-**HP**         :: 77 (14d8 + 14)
-\column
-**Initiative** :: +4 (14)
-**Speed**      :: 30 ft., Swim 60 ft.
-
-}}
-
-{{tables
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 12|  +1  |  +1  |
-|Int| 11|  +0  |  +0  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 18|  +4  |  +4  |
-|Wis| 14|  +2  |  +2  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12|  +1  |  +1  |
-|Cha| 18|  +4  |  +4  |
-
-}}
-
-**Skills**    :: Performance +7, Persuasion +7, Stealth +7
-**Senses**    :: Darkvision 60 ft., passive Perception 12
-**Languages** :: Kimyōkaigo
-**CR**        :: 5 (XP 1,800; PB +3)
-
-}}
-
-### Traits
-
-***Amphibious.*** The Ningyo can breathe air and water.
-
-***Illusionary Guise.*** The Ningyo begins combat in her Alluring Form, with the face of a beautiful woman. This appearance is an illusion, hiding the hideous being underneath. When the Ningyo is Bloodied, or if *Dispel Magic* is cast on the Ningyo or if she enters an area of an antimagic field, she changes into her Monstrous Form, changing some of the abilities she has access to.
-
-***Appealing Persona (Alluring Form Only).*** While in her Alluring Form creatures have Disadvantage against the Ningyo's attempts to inflict the Charmed Condition if the target can hear her and she is immune to the Charmed Condition
-
-***Blood Frenzy (Monstrous Form Only).*** While in her Monstrous Form the Ningyo has Advantage on all Attack Rolls and is immune to the Frightened Condition, but all Attack Rolls have against her have Advantage and she cannot cast or concentrate on spells.
-
-***Synchronised Swimming.*** While underwater the Ningyo can expend 5 feet of movement to jump up to 15 feet vertically into the air.
-
-### Actions
-
-***Multiattack.*** The Ningyo makes one Wave Strike attack or two Angler Claws attacks.
-
-***Wave Strike (Alluring Form Only).*** *Ranged Attack Roll:* +7, range 60 ft. *Hit:* 14 (3d8) Cold damage, and the target's Speed is reduced by 10 feet until the start of the Ningyo's next turn.
-
-***Angler Claws (Monstrous Form Only).*** *Melee Attack Roll:* +7, reach 5 ft. *Hit:* 14 (3d6 + 4) Necrotic damage.
-
-***Spellcasting (Alluring Form Only).*** The Ningyo casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 15):
-
-*1/day Each:* Crown of Madness<sup>A,C</sup>, Dominate Person<sup>A,C</sup>, Invisibility<sup>A,C</sup>, Misty Step<sup>BA</sup>
-
-### Reactions
-
-***Batting Eyelids (Alluring Form Only).*** *Trigger:* A creature the Ningyo can see attempts to hit her with an attack. *Response--Wisdom Saving Throw:* DC 15, the target triggering the attack. *Failure:* The target either choose a new target for the attack or lose the attack.
-
-***Fearsome Glare (Monstrous Form Only).*** *Trigger:* A creature the Ningyo can see within 15 feet of them hits her with an attack, *Response--Wisdom Saving Throw:* DC 15, each creature in a 15-foot cone. *Failure:* The target is Frightened of the Ningyo until the end of the Ningyo's next turn.
-
-}}
+### The Bai Crime Family
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
@@ -1813,24 +1714,160 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 \page
 
-## Generic Foes
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
 
-### Guards
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
+## Wakasa Clan
+
+Text about the castle
+
+\column
 
 {{monster,frame
 
-## Guard
+## Animated Ō-yoroi
 
-*Medium Humanoid, Lawful Neutral*
+*Medium Construct, Unaligned*
 
 {{stats
 
 {{vitals
 
-**AC**         :: 15 (Medium Armour)
-**HP**         :: 16 (3d8 + 3)
+**AC**         :: 17 (Heavy Armour)
+**HP**         :: 26 (5d8 + 5)
 \column
-**Initiative** :: +1 (11)
+**Initiative** :: +0 (10)
+**Speed**      :: 25 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 14|  +2  |  +2  |
+|Int| 1 | --5  | --5  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10|  +0  |  +0  |
+|Wis| 3 | --4  | --4  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 13|  +1  |  +1  |
+|Cha| 1 | --5  | --5  |
+
+}}
+
+**Immunities** :: Poison, Psychic; Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+**Senses**     :: Blindsight 60 ft. (blind beyond this radius), passive Perception 6
+**CR**         :: 1 (XP 200; PB +2)
+
+}}
+
+### Traits
+
+***Antimagic Susceptibility.*** The armor is incapacitated while in the area of an antimagic field. If targeted by *Dispel Magic*, the armor must succeed on a Constitution saving throw against the caster's Spell Save DC or fall unconscious for 1 minute.
+
+***False Appearance.*** While the armor remains motionless, it is indistinguishable from a normal suit of armor.
+
+### Actions
+
+***Multiattack.*** The armor makes two attacks.
+
+***Katana.*** *Melee Attack ROll:* +4, reach 5 ft. *Hit:* 6 (2d4 + 2) Slashing damage.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+### Hatsumomo
+
+Text about Hatsumomo
+
+{{monster,frame
+
+## Amazura, Emaciated Terror
+
+*Large Beast, Unaligned*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 12
+**HP**         :: 37 (5d10 + 10)
+\column
+**Initiative** :: +2 (12)
+**Speed**      :: 20 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 17|  +3  |  +3  |
+|Int| 3 | --4  | --4  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 15|  +2  |  +2  |
+|Wis| 12|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +2  |  +2  |
+|Cha| 8 | --1  | --1  |
+
+}}
+
+**Skills** :: Perception +3, Stealth +6
+**Senses** :: Darkvision 60 ft., Passive Perception 13
+**CR**     :: 5 (XP ?; PB +2)
+
+}}
+
+### Traits
+
+***Keen Smell.*** Amazura has Advantage on Wisdom (Perception) checks that rely on smell.
+
+### Actions
+
+***Rend.*** *Melee Attack Roll:* +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage. If the target is a Large or smaller creature, it has the Prone Condition.
+
+### Villain Actions
+
+***Dreambleed (Requires Hatsumomo has been killed).*** The dark pigmentation begins to ooze out of Amazura's skin as she becomes a living nightmare. While in this state, her attacks deal an additional 1d4 damage, and the damage of her attacks can be Necrotic. In addition, any creature that starts their turn within 30 feet of Amazura and in line of sight to her must succeed on a DC 15 Wisdom Saving Throw or be Frightened by her until the start of their next turn.
+
+}}
+
+\column
+
+{{#creature,monster,frame
+
+## Hatsumomo, Catty Courtesan
+
+*Medium Humanoid, Lawful Evil*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 15 (Protective Fan)
+**HP**         :: 29 (5d8 + 5)
+\column
+**Initiative** :: +3 (13)
 **Speed**      :: 30 ft.
 
 }}
@@ -1839,36 +1876,54 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Str| 13|  +1  |  +1  |
-|Int| 10|  +0  |  +0  |
+|Str| 8 | --1  | --1  |
+|Int| 10|  +0  |  +3  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Dex| 12|  +1  |  +1  |
-|Wis| 12|  +1  |  +1  |
+|Dex| 16|  +3  |  +6  |
+|Wis| 10|  +0  |  +0  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
 |Con| 12|  +1  |  +1  |
-|Cha| 10|  +0  |  +0  |
+|Cha| 18|  +4  |  +4  |
 
 }}
 
-**Skills** :: Perception +2
-**Senses** :: Passive Perception 12
-**CR**     :: 1/8 (XP 25; PB +2)
+**Skills**    :: Persuasion +7
+**Languages** :: Formal, Common
+**CR**        :: 5 (XP ?; PB +3; Level 5)
 
 }}
+
+### Traits
+
+***Sneak Attack (1/Turn).*** Hatsumomo deals an extra 10 (3d6) damage when it hits a target with a Weapon Attack and has Advantage on the Attack Roll, or when the target is within 5 feet of an ally of Hatsumomo that isn't incapacitated and Hatsumomo doesn't have Disadvantage on the Attack Roll.
+
+***Kakure-bi.*** Hatsumomo wields a magical Tessen called Kakure-bi. Kakure-bi appears to be a regular folding fan, but is instead a +1 Tessen with the Finesse property (included in Hatsumomo's attacks). The attributes of Kakure-bi are included in Hatsumomo's statblock.
+
+***Protective Fan.*** When Hatsumomo attacks with Kakure-bi or as a Bonus Action she can change it from closed to open or vice versa. While open, her attack instead deals 1d4 Slashing damage, but grants her an additional +1 AC. She starts with Kakure-bi open.
 
 ### Actions
 
-***Hoko Yari.*** *Melee Attack Roll:* +3 to hit, reach 10 ft., one target. *Hit:* 4 (1d6 + 1) Piercing damage, or 5 (1d8 + 1) Piercing damage if used with two hands.
+***Kakure-bi.*** *Melee Attack: Roll* +8 , reach 5 ft. *Hit:* 6 (1d4 + 4) Slashing damage or 7 (1d6 + 4) Piercing Damage.
 
-***Jitte.*** *Melee Attack Roll:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) Bludgeoning damage.
+### Bonus Actions
+
+***Change Style.*** Hatsumomo closes and opens Kakure-bi, changing the appearance of the fan and her kimono.
+
+***Cunning Action.*** Hatsumomo can take the Dash, Disengage, or Hide Action.
+
+***Protective Fan.*** Hatsumomo swaps Kakure-bi from open to closed or vice versa.
+
+***Tanto*** *Melee Attack Roll:* +7, reach 5 ft. *Hit:* 5 (1d4 + 3) Piercing damage.
+
+***Vicious Mockery.*** Hatsumomo talks down to her victim. *Wisdom Saving Throw:* DC 15, one creature Hatsumomo can see within 60 feet. *Failure:* 3 (1d6) Psychic damage and the target has Disadvantage on the next attack roll it makes before the end of its next turn.
 
 ### Reactions
 
-***Disarm.*** *Trigger:* While the Guard is holding a Jitte, a Large or smaller creature targets the guard with a Melee Weapon Attack and misses. *Response---Strength or Dexterity Saving Throw (target's choice):* DC 10, attacking creature. *Failure:* The attacker drops the Weapon used for the attack at a point of the guard's choice within 10 feet of them.
+***Uncanny Dodge.*** *Trigger:* Hatsumomo is hit by an attack from an attacker she can see. *Response:* Hatsumomo halves the damage that she takes from the attack.
 
 }}
 
@@ -1879,23 +1934,28 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 \page
 
-### Samurai and Ashigaru
+### Daimyō Hidemaro
 
-{{monster,frame
+Text about Hidemaro
 
-## Samurai Footman
+:::::
 
-*Medium Humanoid, Lawful Neutral*
+{{monster,wide,frame
+
+<!-- ## Daimyō Hidemaro, Spiteful Warlord -->
+## Hidemaro, Spiteful Daimyō
+
+*Medium Humanoid (Paladin), Lawful Evil*
 
 {{stats
 
 {{vitals
 
-**AC**         :: 17 (Heavy Armour)
-**HP**         :: 60 (8d8 + 24)
-**Speed**      :: 30 ft.
+**AC**         :: 17 (Heavy Armour) <!-- 19 (Extra Heavy Armour) -->
+**HP**         :: 67 (7d10 + 29)
 \column
-**Initiative** :: +0 (10)
+**Initiative** :: +2 (12)
+**Speed**      :: 30 ft.
 
 }}
 
@@ -1904,57 +1964,92 @@ The Raijū can take up to two Reactions per round but only one per turn.
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
 |Str| 18|  +4  |  +4  |
-|Int| 10|  +0  |  +0  |
+|Int| 11|  +0  |  +0  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Dex| 10|  +0  |  +0  |
-|Wis| 12|  +1  |  +1  |
+|Dex| 11|  +0  |  +0  |
+|Wis| 14|  +2  |  +5  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
 |Con| 16|  +3  |  +3  |
-|Cha| 10|  +0  |  +0  |
+|Cha| 15|  +2  |  +5  |
 
 }}
 
-**CR** :: 3 (XP 700; PB +2)
+**Skills** :: Athletics +7, Intimidation +5
+**Senses** :: Passive Perception 12
+**CR**     :: 8 (XP 3,900; PB +3)
 
 }}
 
 ### Traits
 
-***Exploit Opening (3/Day).*** When the Samurai makes an attack, they have advantage on the attack roll.
+***Kane-tsuki.*** Hidemaro wields a magical Kama Yari called Kane-tsuki. Kane-tsuki is a +1 Kama Yari (included in Hidemaro's attacks). *Constitution Saving Throw:* DC 15, when hit by Kane-tsuki, once per turn. *Failure:* The target has the Dazed and Deafened Condition until the end of their next turn. Creatures immune to the Deafened Condition are immune to this effect.
 
-### Actions
+***Kōyō, Faithful Steed.*** At the start of initiative, Hidemaro summons and mounts his steed, the elk Kōyō. Kōyō is a Large Beast, with 13 AC and a 50 ft. Walk Speed. Hidemaro and Kōyō share Hit Points, but only one of them can take damage from a source at any one time. <!-- Some of Hidemaro's Villain Actions can only be used while mounted. -->
 
-***Multiattack.*** The Samurai makes two Katana attacks.
+***Legendary Resistance (1/Day).*** If Hidemaro fails a saving throw, it can choose to succeed instead.
 
-***Katana.*** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 9 (2d4 + 4) Slashing damage.
+***Command Kabuto.*** Hidemaro wears a magical helmet called the Command Kabuto. While wearing the helmet, Animated Armors tuned to the helmet within 100 feet of the wearer will follow the wearer's commands (no action required).
 
-### Bonus Actions
-
-***Bushidō Focus (1/Day).*** The Samurai takes the Dodge action. Whenever an attack misses them until the start of their next turn, they gain 5 Temporary Hit Points.
-
-}}
+<!-- ***Mounted Combatant.*** While mounted on Kōyō, Hidemaro has Advantage on Attack Rolls against any creature that is within 5 feet of Kōyō and at least one Size smaller than him. -->
+***Warlord's Wrath (Antagonist Trait, Recharges after a Short or Long Rest).*** If Hidemaro is reduced to 0 Hit Points while Kōyō is still summoned, he doesn't die or fall unconscious. Instead Hidemaro regains all of his Hit Points, removes any Conditions he may be under, and Kōyō disappears into mist. Hidemaro additionally regains any spent uses of Legendary Resistance, and he can use any actions listed as Antagonist Actions for 1 hour.
 
 \column
 
-{{monster,frame
+### Actions
 
-## Mounted Samurai
+***Multiattack.*** Hidemaro makes two attacks using Kane-tsuki.
 
-*Large Humanoid, Lawful Neutral*
+***Kane-tsuki.*** *Melee Attack Roll:* +8, reach 10 ft. *Hit:* 10 (1d10 + 5) Piercing damage plus 5 (1d8) Radiant damage. If Hidemaro is mounted, the target can be pushed up to 10 feet away from him.
+
+### Villain Actions
+
+***Steel Sweep.*** Hidemaro swings his Yari in front of him violently, empowered by holy energy. *Dexterity Saving Throw:* DC 13, each creature 60-foot cone. *Failure:* 4 (1d8) Radiant damage, and an additional 5 (1d10) Slashing damage if the target is within 10 feet of Hidemaro. *Success:* Half Damage.
+
+***Shimmering Leap.*** Kōyō jumps into the air, traveling up to 30 feet without provoking Opportunity Attacks. *Dexterity Saving Throw:* DC 13, each creature along the path of Kōyō's movement. *Failure:* The target shimmers in golden light for 1 minute, causing it to shed dim light in a 10-foot radius and be unable to benefit from the Invisible Condition.
+
+***Fear The Conquerer. (Antagonist Action)*** Hidemaro terrifies his foes. *Wisdom Saving Throw:* DC 13, each creature within 30 feet. *Failure:* The target is Frightened of Hidemaro for 1 minute. While Frightened in this way, a creature takes 3 (1d6) Psychic damage at the start of each of their turns. If a Frightened target ends its turn more than 30 feet away from Hidemaro, the target can repeat the Saving Throw, ending the effect on itself on a success.
+
+***Reverberations. (Antagonist Action)*** Hidemaro slams the ground, causing the sound of ringing to echo. *Constitution Saving Throw:* DC 13, each creature within 30 feet. *Failure:* 18 (4d8) Thunder damage and the target has the Dazed Condition for 1 minute (save repeats at end of turn). *Success:* Half Damage. *Success or Failure:* Creatures immune to the Deafened Condition are immune to this effect.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
+## Yokai
+
+### Ningyo
+
+{{monster,frame,wide
+
+## Ningyo
+
+*Medium Fey (Yokai), Chaotic Neutral*
 
 {{stats
 
 {{vitals
 
-**AC**         :: 17 (Heavy Armour)
-**HP**         :: 80 (10d8 + 36)
+**AC**         :: 15 (Natural Armour)
+**HP**         :: 77 (14d8 + 14)
 \column
-**Initiative** :: +0 (10)
-**Speed**      :: 60 ft.
+**Initiative** :: +4 (14)
+**Speed**      :: 30 ft., Swim 60 ft.
 
 }}
 
@@ -1962,67 +2057,8 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Str| 20|  +5  |  +8  |
-|Int| 10|  +0  |  +0  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10|  +0  |  +0  |
-|Wis| 14|  +2  |  +2  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14|  +4  |  +4  |
-|Cha| 12|  +1  |  +1  |
-
-}}
-
-**CR** :: 6 (XP 2,300; PB +3)
-
-}}
-
-### Traits
-
-***Exploit Opening (3/Day).*** When the Samurai makes an attack, they have advantage on the attack roll.
-
-***Mounted Warrior.*** The Samurai fights on horseback. If the Samurai ever has the Prone Condition the horse flees, reducing the Samurai's size to Medium, their speed to 30 feet, and no longer letting them use the Trample action.
-
-### Actions
-
-***Multiattack.*** The Samurai makes two Naginata attacks.
-
-***Naginata.*** *Melee Attack Roll:* +8, reach 10 ft. *Hit:* 10 (1d10 + 5) Slashing damage.
-
-### Bonus Actions
-
-***Trample (1/Day).*** The Samurai moves up to their speed without provoking Opportunity Attacks, trampling anyone in their path. *Strength Saving Throw:* DC 17, all creatures the Samurai moves through. *Failure:* 18 (4d8) Bludgeoning damage, and the target has the Prone Condition if they are Large or smaller. *Success:* Half damage.
-
-}}
-
-{{monster,frame
-
-## Samurai Archer
-
-*Medium Humanoid, Lawful Neutral*
-
-{{stats
-
-{{vitals
-
-**AC**         :: 15 (Light Armour)
-**HP**         :: 39 (6d8 + 12)
-\column
-**Initiative** :: +0 (10)
-**Speed**      :: 30 ft.
-
-}}
-
-{{tables
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 13|  +1  |  +1  |
-|Int| 10|  +0  |  +0  |
+|Str| 12|  +1  |  +1  |
+|Int| 11|  +0  |  +0  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
@@ -2031,27 +2067,47 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Con| 14|  +2  |  +2  |
-|Cha| 12|  +1  |  +1  |
+|Con| 12|  +1  |  +1  |
+|Cha| 18|  +4  |  +4  |
 
 }}
 
-**Senses** :: Passive Perception 14
-**CR**     :: 2 (XP 450; PB +2)
+**Skills**    :: Performance +7, Persuasion +7, Stealth +7
+**Senses**    :: Darkvision 60 ft., passive Perception 12
+**Languages** :: Kimyōkaigo
+**CR**        :: 5 (XP 1,800; PB +3)
 
 }}
 
 ### Traits
 
-***Exploit Opening (3/Day).*** When the Samurai makes an attack, they have advantage on the attack roll.
+***Amphibious.*** The Ningyo can breathe air and water.
 
-***Snipe.*** When the Samurai hits a creature with a Ranged Weapon Attack with Advantage, they deal an extra 7 (2d6) Piercing damage.
+***Illusionary Guise.*** The Ningyo begins combat in her Alluring Form, with the face of a beautiful woman. This appearance is an illusion, hiding the hideous being underneath. When the Ningyo is Bloodied, or if *Dispel Magic* is cast on the Ningyo or if she enters an area of an antimagic field, she changes into her Monstrous Form, changing some of the abilities she has access to.
+
+***Appealing Persona (Alluring Form Only).*** While in her Alluring Form creatures have Disadvantage against the Ningyo's attempts to inflict the Charmed Condition if the target can hear her and she is immune to the Charmed Condition
+
+***Blood Frenzy (Monstrous Form Only).*** While in her Monstrous Form the Ningyo has Advantage on all Attack Rolls and is immune to the Frightened Condition, but all Attack Rolls have against her have Advantage and she cannot cast or concentrate on spells.
+
+***Synchronised Swimming.*** While underwater the Ningyo can expend 5 feet of movement to jump up to 15 feet vertically into the air.
 
 ### Actions
 
-***Daikyū.*** *Melee Attack Roll:* +6, range 150/600 ft. *Hit:* 8 (1d8 + 4) Piercing damage.
+***Multiattack.*** The Ningyo makes one Wave Strike attack or two Angler Claws attacks.
 
-***Trickshot (Recharge 5-6).***
+***Wave Strike (Alluring Form Only).*** *Ranged Attack Roll:* +7, range 60 ft. *Hit:* 14 (3d8) Cold damage, and the target's Speed is reduced by 10 feet until the start of the Ningyo's next turn.
+
+***Angler Claws (Monstrous Form Only).*** *Melee Attack Roll:* +7, reach 5 ft. *Hit:* 14 (3d6 + 4) Necrotic damage.
+
+***Spellcasting (Alluring Form Only).*** The Ningyo casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 15):
+
+*1/day Each:* Crown of Madness<sup>A,C</sup>, Dominate Person<sup>A,C</sup>, Invisibility<sup>A,C</sup>, Misty Step<sup>BA</sup>
+
+### Reactions
+
+***Batting Eyelids (Alluring Form Only).*** *Trigger:* A creature the Ningyo can see attempts to hit her with an attack. *Response--Wisdom Saving Throw:* DC 15, the target triggering the attack. *Failure:* The target either choose a new target for the attack or lose the attack.
+
+***Fearsome Glare (Monstrous Form Only).*** *Trigger:* A creature the Ningyo can see within 15 feet of them hits her with an attack, *Response--Wisdom Saving Throw:* DC 15, each creature in a 15-foot cone. *Failure:* The target is Frightened of the Ningyo until the end of the Ningyo's next turn.
 
 }}
 
@@ -2094,50 +2150,11 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 # Letters and Documents
 
-#### Sensei Kenzo's Letter to the Students
+#### Cultist's Poem
 
-A sensei should not pick a favourite student, so I shan't, but I do hope that it is you, Tatsuhiro Haruto, who finds message. I know I have been less than forthcoming about why I am being sent away, and what purpose Daimyō Wakasa has for me, and to tell the truth the details are being kept a mystery even to me. To tell more of the truth, I have kept this secret in order to be sure none of you follow me; I wish for you not to share my past, or to share my potential fate. I am being sent by the Daimyō to Nezumijima, back to some of my old haunts, to seek out some targets that are considered threats both to the clan and to the nation. I have been told that this is simply an investigation, relying on my access to former contacts, but I doubt I would be requested if it were not also for my other talents. As for why I have agreed to this, the Daimyō somehow knows of my past, more than any of you, and is able to hold that against me; for your safety I had no choice.
+The claw's grip strengthens around the night's jewel. Twin suns shine through autumn rain, falling on black lotus petals. By year's end the beast will make landfall. The bloodied arrow finds its mark.
 
-Whichever of you are reading this, the Dojo is yours for whatever you would need of it. I hope you can find a way to keep it as it was, to continue to train everyone under its roof, but I know that would be a greater challenge than I have ever faced. There will likely come a time where you will have to leave, to seek out a life elsewhere. For this I do not blame you, but I wish to know that all of you are safe, and you do not try to follow my path. Know that you are strong, that you are smart, and that you know what is just. Try to find, in your small corner of the world, the good you can do. And stay alive, for me.
-
-I left here my first jitte, as it felt the right time to part with it. It kept me safe for many years, may it keep you safe too.
-
-Haruto Kenzo.
-
-\column
-
-#### The Usagi's Letter to Jun
-
-Hello Juni-chan! The elder helped us pass on this letter to you, so we hope it finds you very well. We've been told of all the amazing things you've been up to; it sounds like you've had quite an incredible journey so far! Apparently you've grown your third tail just a few weeks ago, which is just so wonderful. To think that when you left you were just our sweet little baby. And we've been told that you've made some new friends, which is great news - Dad thought that you would stick by yourself the whole trip, but I knew that you'd meet so many amazing new people to adventure with. You better promise that when you get back you'll tell us all the stories of what you've been up to, okay?
-
-We've been very well at home, we hope you haven't been worrying about us too much while you've been traveling. I'm sure you've had enough to be worrying about as is. I've been helping Dad tend to his garden as much as he lets me; we've got lots of beautiful spider lilies growing but our hydrangeas never want to live very long, but we keep on trying anyway. The house has been a bit quieter without all your enthusiasm and energy, but we've been sure to keep busy. We'll make sure the home is extra nice for when you get back, and maybe we'll have some stories to tell you.
-
-The seers informed many of us villagers that war is picking up again, particularly in Sesujishima. Apparently there's been some inter clan conflict that's getting everyone riled up. Please be sensible and stay safe, for us? Both Dad and I are incredibly proud of you, no matter what. You've been so brave to go on this journey so far from home. We've been putting in our prayers for you, but we know that it'll all work out. We'll always be here for you if you need us, and please know that there's never any shame in needing our help.
-
-We can't wait to see you again.
-
-Lots of love,
-
-Mum and Dad Usagi.
-
-<!-- {{#default-table,classTable,frame
-
-##### Moonfolk Lineage
-
-| Lineage  | 1st-Level Feature                                     | 5th-Level Feature                                          |
-|:---------|:------------------------------------------------------|:-----------------------------------------------------------|
-| Soratami | 1 | 2 |
-| Moritami | 1 | 2 |
-| Maigomin | 1 | 2 |
-
-}} -->
-
-{{pageNumber,auto}}
-{{footnote PART 2 | THE LIVING LORE}}
-
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
-
-\page
+May we return the flame.
 
 #### Haiku of the Fading Mire
 
@@ -2157,14 +2174,6 @@ Be blind to sorrow,\
 Let it not lead you astray.\
 A hand will guide you.
 
-\column
-
-#### Cultist's Poem
-
-The claw's grip strengthens around the night's jewel. Twin suns shine through autumn rain, falling on black lotus petals. By year's end the beast will make landfall. The bloodied arrow finds its mark.
-
-May we return the flame.
-
 #### Note to Sayuri from Kaito
 
 Hello there,
@@ -2174,6 +2183,39 @@ I really hope you're doing well dear. I'd had hoped you'd join me at our luxury 
 I greatly hope to see you soon,
 
 Kaito
+
+\column
+
+#### Sensei Kenzo's Letter to the Students
+
+A sensei should not pick a favourite student, so I shan't, but I do hope that it is you, Tatsuhiro Haruto, who finds message. I know I have been less than forthcoming about why I am being sent away, and what purpose Daimyō Wakasa has for me, and to tell the truth the details are being kept a mystery even to me. To tell more of the truth, I have kept this secret in order to be sure none of you follow me; I wish for you not to share my past, or to share my potential fate. I am being sent by the Daimyō to Nezumijima, back to some of my old haunts, to seek out some targets that are considered threats both to the clan and to the nation. I have been told that this is simply an investigation, relying on my access to former contacts, but I doubt I would be requested if it were not also for my other talents. As for why I have agreed to this, the Daimyō somehow knows of my past, more than any of you, and is able to hold that against me; for your safety I had no choice.
+
+Whichever of you are reading this, the Dojo is yours for whatever you would need of it. I hope you can find a way to keep it as it was, to continue to train everyone under its roof, but I know that would be a greater challenge than I have ever faced. There will likely come a time where you will have to leave, to seek out a life elsewhere. For this I do not blame you, but I wish to know that all of you are safe, and you do not try to follow my path. Know that you are strong, that you are smart, and that you know what is just. Try to find, in your small corner of the world, the good you can do. And stay alive, for me.
+
+I left here my first jitte, as it felt the right time to part with it. It kept me safe for many years, may it keep you safe too.
+
+Haruto Kenzo.
+
+{{pageNumber,auto}}
+{{footnote PART 2 | THE LIVING LORE}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
+#### The Usagi's Letter to Jun
+
+Hello Juni-chan! The elder helped us pass on this letter to you, so we hope it finds you very well. We've been told of all the amazing things you've been up to; it sounds like you've had quite an incredible journey so far! Apparently you've grown your third tail just a few weeks ago, which is just so wonderful. To think that when you left you were just our sweet little baby. And we've been told that you've made some new friends, which is great news - Dad thought that you would stick by yourself the whole trip, but I knew that you'd meet so many amazing new people to adventure with. You better promise that when you get back you'll tell us all the stories of what you've been up to, okay?
+
+We've been very well at home, we hope you haven't been worrying about us too much while you've been traveling. I'm sure you've had enough to be worrying about as is. I've been helping Dad tend to his garden as much as he lets me; we've got lots of beautiful spider lilies growing but our hydrangeas never want to live very long, but we keep on trying anyway. The house has been a bit quieter without all your enthusiasm and energy, but we've been sure to keep busy. We'll make sure the home is extra nice for when you get back, and maybe we'll have some stories to tell you.
+
+The seers informed many of us villagers that war is picking up again, particularly in Sesujishima. Apparently there's been some inter clan conflict that's getting everyone riled up. Please be sensible and stay safe, for us? Both Dad and I are incredibly proud of you, no matter what. You've been so brave to go on this journey so far from home. We've been putting in our prayers for you, but we know that it'll all work out. We'll always be here for you if you need us, and please know that there's never any shame in needing our help.
+
+We can't wait to see you again.
+
+Lots of love,
+
+Mum and Dad Usagi.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | THE LIVING LORE}}
@@ -2192,3 +2234,15 @@ Kaito
 {{frontCover}}
 
 ![background image](https://i.imgur.com/0EKIQqi.jpeg){position:absolute,bottom:0,left:0,height:100.5%}
+
+<!-- {{#default-table,classTable,frame
+
+##### Moonfolk Lineage
+
+| Lineage  | 1st-Level Feature                                     | 5th-Level Feature                                          |
+|:---------|:------------------------------------------------------|:-----------------------------------------------------------|
+| Soratami | 1 | 2 |
+| Moritami | 1 | 2 |
+| Maigomin | 1 | 2 |
+
+}} -->
