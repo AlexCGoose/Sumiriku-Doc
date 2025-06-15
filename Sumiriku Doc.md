@@ -1761,7 +1761,7 @@ You also gain the Obake (Shapechanger) creature type.
 
 ***Morphing Appearance.*** While in your regular form, your appearance is a hybrid between that of a human and of a fox. As an Action you can adjust your features, changing from being more human-like, to being more fox-like, or something in between. Your human and fox forms have their own unique appearance, and you cannot use this feature to disguise as someone else. You can also use this feature to show or hide your tails. To discern that you are not actually human, a creature can use its Action to inspect your appearance and must succeed on an Intelligence (Investigation) check (DC 8 plus your Charisma modifier and Proficiency Bonus).
 
-***Majestic Tails.*** At Character Level 4 you grow a second tail, signifying your personal growth and enlightenment. After every second level you gain from then, you grow another tail, to a maximum of 9. As a Reaction to yourself failing a D20 Test, you can add a bonus to your roll equal to the number of tails you have, potentially changing the result from a fail to a success. Once you use this feature, you must finish a Short Rest or Long Rest before you can use it again. When you grow your 9th tail, you also gain the Tennō (Celestial) creature type.
+***Majestic Tails.*** At Character Level 4 you grow a second tail, signifying your personal growth and enlightenment. After every second level you gain from then, you grow another tail, to a maximum of 9. As a Reaction to yourself failing a D20 Test, you can add a bonus to your roll equal to the number of tails you have, potentially changing the result from a fail to a success. Once you use this feature, you must finish a Short or Long Rest before you can use it again. When you grow your 9th tail, you also gain the Tennō (Celestial) creature type.
 
 ***Divine Messenger.*** You know the *Dancing Lights* and *Message* cantrips. You can cast these while in your Animal form. When you use the *Dancing Lights* cantrip from this feature, they have the appearance of floating flames called Kitsunebi.
 
@@ -2452,7 +2452,7 @@ You learn certain Exploits at the Alternate Barbarian levels in the table below.
 
 #### Level 6: Titan's Slumber
 
-While you rest your power grows; those that disrupt this hibernation should beware. When you complete a Long Rest, you gain Temporary Hit Points equal to your Constitution modifier plus your level. While you have these Temporary Hit Points, your Unarmoured Defense increased to 13 plus your Dexterity and Constitution modifiers, as your armoured scales build themselves around you.
+While you rest your power grows; those that disrupt this hibernation should beware. When you complete a Long Rest, you gain Temporary Hit Points equal to your Constitution modifier plus your level. While you have these Temporary Hit Points, your Unarmoured Defence increased to 13 plus your Dexterity and Constitution modifiers, as your armoured scales build themselves around you.
 
 In addition, your heightened senses keep you dangerous, even in your slumber. You are aware of your surroundings even while Sleeping, and if you enter a combat with the Surprised Condition you are able to begin the combat by entering your Rage, before any other creatures get the chance to act.
 
@@ -2568,7 +2568,7 @@ You are able to use your skills with a brush to create masterpieces. You gain on
 
 *Writing.* You can use your calligraphy talent to craft Spell Scrolls. Using your Calligrapher's Supplies you are able to make a Spell Scroll of a spell you have prepared. It takes 2 hours per Spell Level to craft the Spell Scroll, and you must provide any material components required for the casting of the spell. You can only have one Spell Scroll crafted at any time; if you craft another Spell Scroll while you already have one, the previous Spell Scroll becomes inert.
 
-*Painting.* You can use your painter's talent to bring a facsimile of your artwork to life. You always have the *Silent Image* spell prepared. As a Bonus Action, you can cast this spell without expending a Spell Slot. If you do so the spell does not require concentration; it instead lasts for 10 minutes. Once you use this feature, you can't use it again until you finish a Long Rest.
+*Painting.* You can use your painter's talent to bring a facsimile of your artwork to life. You always have the *Silent Image* spell prepared. As a Bonus Action, you can cast this spell without expending a Spell Slot. If you do so the spell does not require concentration; it instead lasts for 10 minutes. Once you use this feature, you can't use it again until you finish a Short or Long Rest.
 
 <!-- In addition, you can use these talents to create forgeries. Your DM determines the length of time it takes to create a passable forgery, from an hour for a simple signature to multiple weeks for a large painting. To successfully determine that your creation is a fake, a creature must take the Study action to inspect the piece and succeed on an Intelligence (Investigation) check against your spell save DC. -->
 

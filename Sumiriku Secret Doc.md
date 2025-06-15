@@ -601,7 +601,7 @@ Text about Makoto
 
 {{vitals
 
-**AC**         :: 16 (13 + Makoto's PB, Natural Armor)
+**AC**         :: 16 (13 + Makoto's PB, Natural Armour)
 \column
 **Initiative** :: +4 (14)
 **Speed**      :: 40 ft.
@@ -796,6 +796,7 @@ Text about Yuxuan
 }}
 
 **Senses** :: Darkvision 60 ft.; Passive Perception 13
+**Gear**   :: Zhē
 **CR**     :: ? (XP ?; PB +4; Level 9)
 
 }}
@@ -825,7 +826,7 @@ Text about Yuxuan
 
 **Focus.** Yuxuan makes an additional Unarmed Strike.
 
-***Patient Defense.*** Yuxuan takes the Disengage action.
+***Patient Defence.*** Yuxuan takes the Disengage action.
 
 **Focus.** Yuxuan also takes the Dodge action.
 
@@ -1214,7 +1215,7 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 ## The Hyakushima Bandits
 
-Many groups of bandits roam the roads and settlements of Sumiriku, who make their living by preying on defenseless civilians and taking whatever food and valuables they can find. One such group is found in middle Sesujishima, lead by the fearsome Kanehisa and his second in command, Akitake. Though they appear to be targeting the humble village of Hyakushima to steal the result of their harvest, Kanehisa has kept secret some ulterior motives. He has been instructed by the Daimyō of Clan Wakasa to retrieve a girl, Hajime, and bring her back to him, though he doesn't know what the Daimyō wants with her.
+Many groups of bandits roam the roads and settlements of Sumiriku, who make their living by preying on defenceless civilians and taking whatever food and valuables they can find. One such group is found in middle Sesujishima, lead by the fearsome Kanehisa and his second in command, Akitake. Though they appear to be targeting the humble village of Hyakushima to steal the result of their harvest, Kanehisa has kept secret some ulterior motives. He has been instructed by the Daimyō of Clan Wakasa to retrieve a girl, Hajime, and bring her back to him, though he doesn't know what the Daimyō wants with her.
 
 \column
 
@@ -1314,7 +1315,7 @@ Text about them
 
 {{vitals
 
-**AC**         :: 13 (Natural Armor)
+**AC**         :: 13 (Natural Armour)
 **HP**         :: 5 (2d4 + 1)
 \column
 **Initiative** :: +4 (14)
@@ -1558,7 +1559,7 @@ Text about the triad
 
 {{vitals
 
-**AC**         :: 14 (Natural Armor)
+**AC**         :: 14 (Natural Armour)
 **HP**         :: 52 (8d8 + 16)
 \column
 **Speed**      :: 30 ft.
@@ -1585,7 +1586,7 @@ Text about the triad
 
 }}
 
-**Resistances** :: Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks That Aren't Peachwood
+**Resistances** :: Necrotic <!-- ; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks That Aren't Peachwood -->
 **Senses**      :: Blindsight 60 ft., Passive Perception 11
 **Languages**   :: Common, Zāngkē
 **CR**          :: 3 (XP 700; PB +2)
@@ -1639,8 +1640,8 @@ Text about the triad
 
 {{vitals
 
-**AC**         :: 17 (Natural Armour)
-**HP**         :: 132 (24d8 + 18)
+**AC**         :: 16
+**HP**         :: 172 (23d8 + 69)
 \column
 **Initiative** :: +3 (13)
 **Speed**      :: 30 ft.
@@ -1669,7 +1670,8 @@ Text about the triad
 **Skills**      :: Arcana +10, Insight +7, Persuasion +8
 **Resistances** :: Necrotic
 **Senses**      :: Passive Perception 12
-**CR**          :: 13 (XP 5,900; PB +4)
+**Languages**   :: Sumirikugo, Formal Sumirikugo, Zankego
+**CR**          :: 13 (XP 5,900; PB +5)
 
 }}
 
@@ -1679,13 +1681,13 @@ Text about the triad
 
 ### Actions
 
-***Multiattack.*** Daiyu makes three Dark Pulse attacks.
+***Multiattack.*** Daiyu makes four Dark Pulse attacks.
 
-***Dark Pulse.*** Melee or Ranged Attack Roll: +10, reach 5 ft. or range 120 ft. *Hit:* 18 (3d8 + 5) Force damage. If the target has the Frightened condition, Daiyu has Advantage on the Attack Roll.
+***Dark Pulse.*** Melee or Ranged Attack Roll: +10, reach 5 ft. or range 150 ft. *Hit:* 22 (3d10 + 5) Necrotic damage. If the target has the Frightened condition, Daiyu has Advantage on the Attack Roll.
 
 ***Spellcasting.*** Daiyu casts one of the following spells, using Intelligence as the Spellcasting Ability (spell save DC 18):
 
-**At will:** Mage Armour<sup>A</sup>, Mage Hand<sup>A</sup>
+**At will:** Mage Armour<sup>A</sup> (included in AC), Mage Hand<sup>A</sup>
 </br>**2/day each:** Dimension Door<sup>A</sup>, Fear<sup>A, C</sup>
 </br>**1/day each:** Evard's Black Tentacles<sup>A, C</sup>, Finger of Death<sup>A</sup>, Teleport<sup>A</sup>
 
@@ -1697,7 +1699,7 @@ Text about the triad
 
 ### Reactions
 
-***Night's Grasp.*** Daiyu casts Counterspell in response to the spell's trigger, using the same Spellcasting Ability as Spellcasting. If the target fails its saving throw, it has the Frightened condition until the end of its next turn.
+***Night's Grasp.*** Daiyu casts Counterspell in response to the spell's trigger, using the same Spellcasting Ability as Spellcasting. If the target fails its Saving Throw, it has the Frightened condition until the end of its next turn.
 }}
 
 \column
@@ -1712,11 +1714,11 @@ Text about the triad
 
 {{vitals
 
-**AC**         :: 18 (Natural Armor)
-**HP**         :: 91 (14d8 + 28)
+**AC**         :: 15 (Unarmoured Defence)
+**HP**         :: 170 (20d8 + 80)
 \column
-**Initiative** :: -1 (9)
-**Speed**      :: 40 ft.
+**Initiative** :: +0 (10)
+**Speed**      :: 50 ft.
 
 }}
 
@@ -1724,50 +1726,57 @@ Text about the triad
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Str| 18|  +4  |  +4  |
-|Int| 9 |  -1  |  -1  |
+|Str| 20|  +5  |  +9  |
+|Int| 12|  +1  |  +1  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Dex| 7 |  -2  |  -2  |
-|Wis| 14|  +2  |  +2  |
+|Dex| 12|  +1  |  +5  |
+|Wis| 16|  +3  |  +3  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Con| 14|  +2  |  +2  |
-|Cha| 10|  +0  |  +0  |
+|Con| 18|  +4  |  +8  |
+|Cha| 12|  +1  |  +1  |
 
 }}
 
-**Resistances** :: Necrotic, Poison; <!-- Bludgeoning, Piercing, and Slashing from Nonmagical Attacks That Aren't Peachwood -->
-**Immunities**  :: Charmed, Exhaustion, Poisoned
-**Senses**      :: Blindsight 60 ft., Passive Perception 12
-**Languages**   :: Understands the languages it knew in life but cannot speak them
-**CR**          :: 8 (XP 2,300; PB +3)
+**Skills**      :: Athletics +9, Intimidation +9, Perception +7
+**Resistances** :: Bludgeoning, Necrotic, Piercing, Poison, Slashsing
+**Immunities**  :: Charmed, Exhaustion, Frightened, Poisoned
+**Senses**      :: Blindsight 60 ft., Passive Perception 17
+**Languages**   :: Sumirikugo, Formal Sumirikugo, Zankego
+**CR**          :: 9 (XP 2,300; PB +4)
 
 }}
 
 ### Traits
 
-***Breath Sight.*** A creature that is holding its breath may attempt to hide from the Jiangshi without obscurement.
+***Legendary Resistance (1/Day).*** If Saichuen fails a saving throw, he can choose to succeed instead.
 
-***Graceless Rigor.*** If the Jiangshi is hit with a Melee Attack from a direction it is not facing, it is pushed 5 feet away and must succeed on a DC 10 Dexterity saving throw or it has the Prone Condition.
+<!-- ***Rage.*** At the start of his turn, Saichuen can become Enraged. While Enraged he has advantage on Strength checks and is resistant to Bludgeoning, Piercing. He loses his Enraged status if he begins its turn without having made an Attack Roll since the start of its previous turn. -->
 
-***Reflection Weakness.*** At the start of the Jiangshi's turn, if it can see its own reflection, it must make a DC 15 Wisdom Saving Throw or it has the Frightened Condition until the end of its turn
+***Undying Rage*** Saichuen cannot fall below 0 Hit Points. He can only die if he is at 0 Hit Points at the end of his turn.
 
-***Hopping Movement.*** When initiative is rolled, the Jiangshi selects a cardinal direction to face. The Jiangshi may move only in the direction it is facing, and may spend 5 feet of movement to turn up to 90 degrees or to stand from Prone.
+***Ravenous.*** When Saichuen makes his first attack on his turn, he can choose to attack recklessly, giving himself Advantage on Attack Rolls until the end of his turn and Advantage on all Attack Rolls made against him until the start of its next turn.
+
+***Reflection Weakness.*** At the start of Saichuen's turn, if he can see his own reflection, he must make a DC 15 Wisdom Saving Throw or he has the Frightened Condition until the end of its turn.
+
+***Rigor Mortis.*** When initiative is rolled, Saichuen selects a cardinal direction to face. Saichuen may move only in the direction he is facing, and may spend 5 feet of movement to turn up to 90 degrees or to stand from Prone.
 
 ### Actions
 
-***Multiattack.*** The Jiangshi makes two Crooked Claw attacks and one Drain Vitality attack.
+***Multiattack.*** Saichuen makes two Crooked Claw attacks and one Drain Vitality attack.
 
-***Crooked Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft. in the direction the Jiangshi is facing. *Hit:* 13 (2d6 + 4) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled Condition (escape DC 14) from one of two claws.
+***Crooked Claws.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft. in the direction the Jiangshi is facing. *Hit:* 14 (2d6 + 5) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled Condition (escape DC 17) from one of two claws.
 
-***Drain Vitality.*** The Jiangshi draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 15, one creature within 5 feet that has the Grappled, Incapacitated, or Restrained Condition. *Failure:* 18 (4d6) Necrotic damage. *Success:* Half damage. *Failure or Success:* The Jiangshi regains Hit Points equal to the amount of Necrotic damage dealt.
+***Drain Vitality.*** Saichuen draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 15, one creature within 5 feet that has the Grappled, Incapacitated, or Restrained Condition. *Failure:* The target loses 18 (4d6) maximum and current Hit Points and Saichuen gains that many current Hit Points. *Success:* The target loses half as many current hit points.
 
-### Reactions
+***Intimidating Presence (1/Day)***. Each creature within 60 feet of Saichuen that can see and hear him must succeed on a DC 15 Wisdom Saving Throw or become frightened of the barbarian for 1 minute. An affected creature can repeat its saving throw at the end of each of its turns only if the barbarian is out of line of sight, ending the effect on a success. A creature that succeeds on a saving throw from this effect is immune to the barbarian’s intimidating presence for 24 hours.
 
-***Whip Around.*** *Trigger:* A creature the Jiangshi is not facing misses it with a Melee Attack. *Response:* The Jiangshi turns to face it and makes a **Crooked Claws** attack.
+### Bonus Actions
+
+***Dead Dive.*** Saichuen moves up to 30 feet in a straight line, stopping if he comes in contact with a creature. *Dexterity Saving Throw:* DC 15, the first creature comes into contact with with this movement. *Failure:* The target has the Grappled and Prone Conditions.
 
 }}
 
@@ -1792,7 +1801,7 @@ Text about the triad
 
 {{vitals
 
-**AC**         :: 16 (Natural Armor)
+**AC**         :: 16 (Natural Armour)
 **HP**         :: 91 (14d8 + 28)
 \column
 **Initiative** :: -1 (9)
@@ -1819,7 +1828,7 @@ Text about the triad
 
 }}
 
-**Resistances** :: Necrotic, Poison; <!-- Bludgeoning, Piercing, and Slashing from Nonmagical Attacks That Aren't Peachwood -->
+**Resistances** :: Necrotic, Poison <!-- ; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks That Aren't Peachwood -->
 **Immunities**  :: Charmed, Exhaustion, Poisoned
 **Senses**      :: Blindsight 60 ft., Passive Perception 12
 **Languages**   :: Understands the languages it knew in life but cannot speak them
@@ -1833,9 +1842,9 @@ Text about the triad
 
 ***Graceless Rigor.*** If the Jiangshi is hit with a Melee Attack from a direction it is not facing, it is pushed 5 feet away and must succeed on a DC 10 Dexterity saving throw or it has the Prone Condition.
 
-***Reflection Weakness.*** At the start of the Jiangshi's turn, if it can see its own reflection, it must make a DC 15 Wisdom Saving Throw or it has the Frightened Condition until the end of its turn
-
 ***Hopping Movement.*** When initiative is rolled, the Jiangshi selects a cardinal direction to face. The Jiangshi may move only in the direction it is facing, and may spend 5 feet of movement to turn up to 90 degrees or to stand from Prone.
+
+***Reflection Weakness.*** At the start of the Jiangshi's turn, if it can see its own reflection, it must make a DC 15 Wisdom Saving Throw or it has the Frightened Condition until the end of its turn.
 
 ### Actions
 
@@ -1916,13 +1925,13 @@ Text about the castle
 
 ### Traits
 
-***Antimagic Susceptibility.*** The armor is incapacitated while in the area of an antimagic field. If targeted by *Dispel Magic*, the armor must succeed on a Constitution saving throw against the caster's Spell Save DC or fall unconscious for 1 minute.
+***Antimagic Susceptibility.*** The armour is incapacitated while in the area of an antimagic field. If targeted by *Dispel Magic*, the armour must succeed on a Constitution saving throw against the caster's Spell Save DC or fall unconscious for 1 minute.
 
-***False Appearance.*** While the armor remains motionless, it is indistinguishable from a normal suit of armor.
+***False Appearance.*** While the armour remains motionless, it is indistinguishable from a normal suit of armour.
 
 ### Actions
 
-***Multiattack.*** The armor makes two attacks.
+***Multiattack.*** The armour makes two attacks.
 
 ***Katana.*** *Melee Attack ROll:* +4, reach 5 ft. *Hit:* 6 (2d4 + 2) Slashing damage.
 
@@ -2136,7 +2145,7 @@ Text about Hidemaro
 
 ***Legendary Resistance (1/Day).*** If Hidemaro fails a saving throw, he can choose to succeed instead.
 
-***Command Kabuto.*** Hidemaro wears a magical helmet called the Command Kabuto. While wearing the helmet, Animated Armors tuned to the helmet within 100 feet of the wearer will follow the wearer's commands (no action required).
+***Command Kabuto.*** Hidemaro wears a magical helmet called the Command Kabuto. While wearing the helmet, Animated Armours tuned to the helmet within 100 feet of the wearer will follow the wearer's commands (no action required).
 
 <!-- ***Mounted Combatant.*** While mounted on Kōyō, Hidemaro has Advantage on Attack Rolls against any creature that is within 5 feet of Kōyō and at least one Size smaller than him. -->
 ***Warlord's Wrath (Antagonist Trait, Recharges after a Short or Long Rest).*** If Hidemaro is reduced to 0 Hit Points while Kōyō is still summoned, he doesn't die or fall unconscious. Instead Hidemaro regains all of his Hit Points, removes any Conditions he may be under, and Kōyō disappears into mist. Hidemaro additionally regains any spent uses of Legendary Resistance, and he can use any actions listed as Antagonist Actions for 1 hour.
