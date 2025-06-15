@@ -868,6 +868,157 @@ Text about Yuxuan
 
 \page
 
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+### The Twin Sons
+
+{{monster,frame
+
+## Kaito, Blue Oni
+
+*Medium Humanoid, Lawful Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 15
+**HP**         :: ?? (20d8 + ??)
+\column
+**Initiative** :: +1 (11)
+**Speed**      :: 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| ? |  +?  |  +?  |
+|Int| ? |  +?  |  +?  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14|  +2  |  +?  |
+|Wis| ? |  +?  |  +?  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| ? |  +?  |  +?  |
+|Cha| 20|  +5  |  +?  |
+
+}}
+
+**Skills** :: Perception +2
+**Senses** :: Passive Perception 12
+**CR**     :: 9 (XP 2,300; PB +4)
+
+}}
+
+### Traits
+
+***Scroll-Bound.***
+
+### Actions
+
+***Eldritch Blast (2 Attacks).*** *Ranged Spell Attack.* +8 to hit, up to three targets. *Hit:* 9 (1d10 + 4) Force damage, and Kaito can move the creature in a straight line up to 10 feet closer or further away.
+
+***Pact Casting.*** Kaito casts one of the following spells, using Charisma as the Spellcasting Ability (spell save DC 17):
+
+**At will:** Mage Armour<sup>A</sup> (included in AC), Mage Hand<sup>A</sup>
+</br>**2/day combined:** Dimension Door<sup>A</sup>, Hold Person<sup>A, C</sup>, Fireball<sup>A</sup> (Fifth Level)
+
+***As Above, So Below (1/Day).*** *Charisma Saving Throw:* DC 17, one target within 30 feet. *Failure:* The target gets thrown through Makoku. It takes 8d10 Psychic damage and it has the Incapacitated condition until the end of your next turn, when it returns to the space it previously occupied or the nearest unoccupied space.
+
+### Bonus Actions
+
+***Third Eye of Scorn.*** Kaito scorns a creature he can see within 90 feet of him. Hayato deals an extra 1d6 Fire damage to the target whenever he hits it with an attack roll. This lasts until the creature dies or Hayato uses his Bonus Action to scorn a different creature.
+
+***Fel Step.*** Kaito teleports up to 30 feet to an unoccupied space he can see and leaves behind a 10 foot radus sphere of fire in the space he left, that lasts until the end of Kaito's next turn. Any creature that enters the fire or starts their turn there takes 9 (2d8) Fire damage.
+
+}}
+
+\column
+
+{{monster,frame
+
+## Hayato, Red Oni
+
+*Medium Humanoid, Lawful Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 15 (Medium Armour)
+**HP**         :: ?? (3d8 + 3)
+\column
+**Initiative** :: +1 (11)
+**Speed**      :: 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| ? |  +?  |  +?  |
+|Int| ? |  +?  |  +?  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| ? |  +?  |  +?  |
+|Wis| ? |  +?  |  +?  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| ? |  +?  |  +?  |
+|Cha| 18|  +4  |  +?  |
+
+}}
+
+**Skills** :: Perception +2
+**Senses** :: Passive Perception 12
+**CR**     :: 9 (XP 2,300; PB +4)
+
+}}
+
+### Traits
+
+***Chain-Bound.***
+
+***Infernal Chains.*** The first time Hayato hits with a weapon attack on his turn, the target must succeed on a DC 17 Strength Saving Throw or they have the Prone condition.
+
+### Actions
+
+***Multiattack.*** Hayato makes three attacks, either with the Kusarigama Sickle or Kusarigama Chain. He must make at least one attack with each weapon.
+
+***Kusarigama Sickle.*** *Melee Attack Roll:* +8 to hit, reach 5 ft., one target. *Hit:* 9 (1d8 + 4) Slashing damage, plus 4 (1d8) Fire damage.
+
+***Kusarigama Chain.*** *Melee Attack Roll:* +8 to hit, reach 10 ft., one target. *Hit:* 8 (1d6 + 4) Bludgeoning damage, plus 4 (1d8) Fire damage.
+
+***As Above, So Below (1/Day).*** *Charisma Saving Throw:* DC 17, one target within 30 feet. *Failure:* The target gets thrown through Makoku. It takes 8d10 Psychic damage and it has the Incapacitated condition until the end of your next turn, when it returns to the space it previously occupied or the nearest unoccupied space.
+
+### Bonus Actions
+
+***Third Eye of Judgement.*** Hayato judges a creature he can see within 90 feet of him. Hayato deals an extra 1d6 Fire damage to the target whenever he hits it with an attack roll. This lasts until the creature dies or Hayato uses his Bonus Action to judge a different creature.
+
+***Hate Step.*** Hayato teleports up to 30 feet to an unoccupied space within 30 feet of the creature he is judging, and then lets out a wave of heat. Any creature within a 10 foot radius of Hayato after he teleports takes 9 (2d8) Fire damage.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
 ## Generic Foes
 
 ### Guards
@@ -1772,7 +1923,7 @@ Text about the triad
 
 ***Drain Vitality.*** Saichuen draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 15, one creature within 5 feet that has the Grappled, Incapacitated, or Restrained Condition. *Failure:* The target loses 18 (4d6) maximum and current Hit Points and Saichuen gains that many current Hit Points. *Success:* The target loses half as many current hit points.
 
-***Intimidating Presence (1/Day)***. Each creature within 60 feet of Saichuen that can see and hear him must succeed on a DC 15 Wisdom Saving Throw or become frightened of the barbarian for 1 minute. An affected creature can repeat its saving throw at the end of each of its turns only if the barbarian is out of line of sight, ending the effect on a success. A creature that succeeds on a saving throw from this effect is immune to the barbarian’s intimidating presence for 24 hours.
+<!-- ***Intimidating Presence (1/Day)***. Each creature within 60 feet of Saichuen that can see and hear him must succeed on a DC 15 Wisdom Saving Throw or become frightened of the barbarian for 1 minute. An affected creature can repeat its saving throw at the end of each of its turns only if the barbarian is out of line of sight, ending the effect on a success. A creature that succeeds on a saving throw from this effect is immune to the barbarian’s intimidating presence for 24 hours. -->
 
 ### Bonus Actions
 
@@ -2271,6 +2422,89 @@ Text about Hidemaro
 
 \page
 
+{{monster,frame
+
+## ???
+
+*??? ???, ??? ???*
+
+{{stats
+
+{{vitals
+
+**AC**         :: ?? (???)
+**HP**         :: ?? (?d? + ?)
+\column
+**Initiative** :: +? (??)
+**Speed**      :: ?? ft., ??? ?? ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| ? |  +?  |  +?  |
+|Int| ? |  +?  |  +?  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| ? |  +?  |  +?  |
+|Wis| ? |  +?  |  +?  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| ? |  +?  |  +?  |
+|Cha| ? |  +?  |  +?  |
+
+}}
+
+**Skills**      :: ??? +?
+**Resistances** :: ???
+**Immunities**  :: ???; ???
+**Senses**      :: ???, Passive Perception ??
+**Gear**        :: ???
+**Languages**   :: Sumirikugo, ???
+**CR**          :: ? (XP ?; PB +?)
+
+}}
+
+### Traits
+
+***???.*** ???
+
+***Legendary Resistance (?/Day).*** If ??? fails a Saving Throw, ??? can choose to succeed instead.
+
+***??? (Antagonist Trait, Recharges after a Short or Long Rest).*** ???.
+
+### Actions
+
+***Multiattack.*** ???.
+
+***???*** *??? Attack Roll:* +? to hit, reach ? ft., one target. *Hit:* ? (?d? + ?) ??? damage.
+
+### Bonus Actions
+
+***???.*** *??? Saving Throw:* DC ??, ???. *Failure:* ???. *Success:* ???.
+
+### Reactions
+
+??? can take up to ??? Reactions per round but only one per turn.
+
+***???.*** *Trigger:* ???. *Response* ???.
+
+### Legendary Actions
+
+***???.*** ???.
+
+***??? (Antagonist Action).*** ???.
+
+### Villain Actions
+
+***???.*** ???.
+
+}}
+
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
@@ -2399,3 +2633,92 @@ Mum and Dad Usagi.
 | Maigomin | 1 | 2 |
 
 }} -->
+
+<!--
+
+STATBLOCK TEMPLATE
+
+{{monster,frame
+
+## ???
+
+*??? ???, ??? ???*
+
+{{stats
+
+{{vitals
+
+**AC**         :: ?? (???)
+**HP**         :: ?? (?d? + ?)
+\column
+**Initiative** :: +? (??)
+**Speed**      :: ?? ft., ??? ?? ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| ? |  +?  |  +?  |
+|Int| ? |  +?  |  +?  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| ? |  +?  |  +?  |
+|Wis| ? |  +?  |  +?  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| ? |  +?  |  +?  |
+|Cha| ? |  +?  |  +?  |
+
+}}
+
+**Skills**      :: ??? +?
+**Resistances** :: ???
+**Immunities**  :: ???; ???
+**Senses**      :: ???, Passive Perception ??
+**Gear**        :: ???
+**Languages**   :: Sumirikugo, ???
+**CR**          :: ? (XP ?; PB +?)
+
+}}
+
+### Traits
+
+***???.*** ???
+
+***Legendary Resistance (?/Day).*** If ??? fails a Saving Throw, ??? can choose to succeed instead.
+
+***??? (Antagonist Trait, Recharges after a Short or Long Rest).*** ???.
+
+### Actions
+
+***Multiattack.*** ???.
+
+***???*** *??? Attack Roll:* +? to hit, reach ? ft., one target. *Hit:* ? (?d? + ?) ??? damage.
+
+### Bonus Actions
+
+***???.*** *??? Saving Throw:* DC ??, ???. *Failure:* ???. *Success:* ???.
+
+### Reactions
+
+??? can take up to ??? Reactions per round but only one per turn.
+
+***???.*** *Trigger:* ???. *Response* ???.
+
+### Legendary Actions
+
+***???.*** ???.
+
+***??? (Antagonist Action).*** ???.
+
+### Villain Actions
+
+***???.*** ???.
+
+}}
+
+-->
