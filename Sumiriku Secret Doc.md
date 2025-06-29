@@ -71,33 +71,33 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
       - [{{ Masuzō}}{{ 16}}](#p16)
       - [{{ Yuxuan}}{{ 17}}](#p18)
     - [{{ The Bound and Fraying Rope}}{{ 19}}](#p20)
-    - [{{ Generic Foes}}{{ 21}}](#p22)
-      - [{{ Guards}}{{ 21}}](#p22)
-      - [{{ Samurai and Ashigaru}}{{ 22}}](#p23)
-    - [{{ Godaiyō}}{{ 23}}](#p24)
-      - [{{ Raiju}}{{ 23}}](#p24)
-    - [{{ The Hyakushima Bandits}}{{ 25}}](#p26)
-    - [{{ Rouges and Rōnin}}{{ 27}}](#p28)
-      - [{{ Genji and Okamoto}}{{ 27}}](#p28)
-    - [{{ The Shadow Triad}}{{ 29}}](#p30)
-      - [{{ The Bai Crime Family}}{{ 30}}](#p31)
-    - [{{ Undead}}{{ 31}}](#p32)
-      - [{{ Jiangshi}}{{ 31}}](#p32)
-    - [{{ Clan Hoki}}{{ 33}}](#p34)
-      - [{{ Hatsumomo}}{{ 34}}](#p35)
-      - [{{ Daimyō Hidemaro}}{{ 35}}](#p36)
-    - [{{ Yokai}}{{ 37}}](#p38)
-      - [{{ Ningyo}}{{ 37}}](#p38)
+    - [{{ Generic Foes}}{{ 23}}](#p24)
+      - [{{ Guards}}{{ 23}}](#p24)
+      - [{{ Samurai and Ashigaru}}{{ 24}}](#p25)
+    - [{{ Godaiyō}}{{ 25}}](#p26)
+      - [{{ Raiju}}{{ 25}}](#p26)
+    - [{{ The Hyakushima Bandits}}{{ 27}}](#p28)
+    - [{{ Rouges and Rōnin}}{{ 29}}](#p30)
+      - [{{ Genji and Okamoto}}{{ 29}}](#p30)
+    - [{{ The Shadow Triad}}{{ 31}}](#p32)
+      - [{{ The Bai Crime Family}}{{ 32}}](#p33)
+    - [{{ Undead}}{{ 33}}](#p34)
+      - [{{ Jiangshi}}{{ 33}}](#p34)
+    - [{{ Clan Hoki}}{{ 35}}](#p36)
+      - [{{ Hatsumomo}}{{ 36}}](#p37)
+      - [{{ Daimyō Hidemaro}}{{ 37}}](#p38)
+    - [{{ Yokai}}{{ 39}}](#p40)
+      - [{{ Ningyo}}{{ 39}}](#p40)
 
-- ### [{{ PART 2 - The Living Lore}}{{ 39}}](#p40) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:883px,left:55px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 2 - The Living Lore}}{{ 41}}](#p42) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:883px,left:55px,width:245px,mix-blend-mode:normal}
 
-  - ###### [{{ Letters and Documents}}{{ 40}}](#p41)
+  - ###### [{{ Letters and Documents}}{{ 42}}](#p43)
   
-    - [{{ Cultist’s Poem}}{{ 40}}](#p41)
-    - [{{ Haiku of the Fading Mire}}{{ 40}}](#p41)
-    - [{{ Note to Sayuri from Kaito}}{{ 40}}](#p41)
-    - [{{ Sensei Kenzo’s Letter to the Students}}{{ 40}}](#p41)
-    - [{{ The Usagi’s Letter to Jun}}{{ 41}}](#p42)
+    - [{{ Cultist’s Poem}}{{ 42}}](#p43)
+    - [{{ Haiku of the Fading Mire}}{{ 42}}](#p43)
+    - [{{ Note to Sayuri from Kaito}}{{ 42}}](#p43)
+    - [{{ Sensei Kenzo’s Letter to the Students}}{{ 42}}](#p43)
+    - [{{ The Usagi’s Letter to Jun}}{{ 43}}](#p44)
 
 }}
 
@@ -444,7 +444,7 @@ Text about Atsuki
 
 ## Atsuki of the Crescent Guard
 
-*Medium Humanoid (Tsukibito), True Neutral*
+*Medium Humanoid (Tsukibito, Fighter), Neutral*
 
 {{stats
 
@@ -477,9 +477,11 @@ Text about Atsuki
 
 }}
 
-**Skills** :: Acrobatics +6, Arcana +6, Athletics +3, History +6, Investigation +6, Persuasion +3,
-**Senses** :: passive Perception 10
-**CR**     :: 3 (XP 700; PB +3; Level 6)
+**Skills**    :: Acrobatics +6, Arcana +6, Athletics +3, History +6, Investigation +6, Persuasion +3
+**Senses**    :: Passive Perception 10
+**Gear**      :: Moonflare Blade
+**Languages** :: Eiseigo, Sumirikugo
+**CR**        :: 3 (XP 700; PB +3; Level 6) <!-- TODO - Class Level Statblock - PB too high -->
 
 }}
 
@@ -495,9 +497,9 @@ Text about Atsuki
 
 ***Multiattack.*** Atsuki makes two Moonflare Blade attacks.
 
-***Moonflare Blade.*** *Melee Attack Roll:* +8, reach 5 ft. *Hit:* 8 (1d8 + 3) Force damage. **Cross.** If Atsuki hits with this attack, she can move to the opposite side of the creature hit without expending movement and without provoking Opportunity Attacks. This feature can be used only once on their turn.
+***Moonflare Blade.*** *Melee Attack Roll:* +8, reach 5 ft. *Hit:* 8 (1d8 + 3) Force damage. **Cross.** If Atsuki hits with this attack, they can move to the opposite side of the creature hit without expending movement and without provoking Opportunity Attacks. This feature can be used only once on their turn.
 
-***Psionic Repositioning.*** Atsuki telekinetically moves a Large or smaller object (or willing ally) within 30 feet of them up to 30 feet to an unoccupied space it can see. They can also move an unsecured Tiny object or an unsecured simple or martial weapon to or from their hand. ☐
+***Psionic Repositioning.*** Atsuki telekinetically moves a Large or smaller object (or willing ally) within 30 feet of them up to 30 feet to an unoccupied space they can see. They can also move an unsecured Tiny object or an unsecured simple or martial weapon to or from their hand. ☐
 
 ### Bonus Actions
 
@@ -522,22 +524,138 @@ Text about Atsuki
 
 \page
 
+### Chie
+
+{{note
+
+<!-- ##### Note: Kettōdo and Rules for One on One Combat -->
+##### Note: Creature Spellcasting
+
+Some creatures have the ability to cast spells, with use of the spellcasting feature or some other similar feature. These spells will be listed out inside the creature statblock, alongside how many times per day they can be used or any other cost restriction. Most spells a creature can cast will be Actions, but superscript next to the name of the spell indicates the spell's casting time; A for Action, BA for Bonus Action, R for Reaction, or L for anything longer than an Action. Additionally, any spell that requires Concentration will have a C in superscript next to the name of the spell.
+
+}}
+
+\column
+
+{{monster,frame
+
+## Chie, Swift Brush
+
+*Medium Humanoid (Tsukibito, Bard), Chaotic Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: ?? (???)
+**HP**         :: ?? (?d? + ?)
+\column
+**Initiative** :: +? (??)
+**Speed**      :: ?? ft., ??? ?? ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| ? |  +?  |  +?  |
+|Int| ? |  +?  |  +?  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| ? |  +?  |  +?  |
+|Wis| ? |  +?  |  +?  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| ? |  +?  |  +?  |
+|Cha| ? |  +?  |  +?  |
+
+}}
+
+**Skills**      :: ??? +?
+**Resistances** :: ???
+**Immunities**  :: ???; ???
+**Senses**      :: ???, Passive Perception ??
+**Gear**        :: ???
+**Languages**   :: Sumirikugo, ???
+**CR**          :: ? (XP ?; PB +?)
+
+}}
+
+### Traits
+
+***???.*** ???
+
+***Legendary Resistance (?/Day).*** If ??? fails a Saving Throw, ??? can choose to succeed instead.
+
+***??? (Antagonist Trait, Recharges after a Short or Long Rest).*** ???.
+
+### Actions
+
+***Multiattack.*** ???.
+
+***???*** *??? Attack Roll:* +? to hit, reach ? ft. *Hit:* ? (?d? + ?) ??? damage.
+
+***Spellcasting.*** ??? casts one of the following spells, using ??? as the Spellcasting Ability (spell save DC ??):
+
+**At will:** ???<sup>???</sup>
+</br>**2/day each:** ???<sup>???</sup>
+</br>**1/day each:** ???<sup>???</sup>
+
+### Bonus Actions
+
+***???.*** *??? Saving Throw:* DC ??, ???. *Failure:* ???. *Success:* ???.
+
+### Reactions
+
+??? can take up to ??? Reactions per round but only one per turn.
+
+***???.*** *Trigger:* ???. *Response* ???.
+
+### Legendary Actions
+
+***???.*** ???.
+
+***??? (Antagonist Action).*** ???.
+
+### Villain Actions
+
+***???.*** ???.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
 ### Makoto
 
 Text about Makoto
 
 {{monster,frame
 
-## Makoto, Wandering Rōnin
+## Makoto, Wandering Rōnin - TODO
 
-*Medium Humanoid (Human), True Neutral*
+*Medium Humanoid (Human, Ranger), Neutral*
 
 {{stats
 
 {{vitals
 
 **AC**         :: 16 (Medium Armour)
-**HP**         :: 41 (6d8 + 10)
+**HP**         :: 41 (6d8 + 10) <!-- TODO - Class Level Statblock - HP too low -->
 \column
 **Initiative** :: +3 (13)
 
@@ -564,8 +682,11 @@ Text about Makoto
 
 }}
 
-**Senses** :: passive Perception 13
-**CR**     :: 3 (XP 700; PB +3; Level 6)
+**Skills**    :: Deception +5, Medicine +6, Perception +6, Survival, +6
+**Senses**    :: Passive Perception 13
+**Gear**      :: Katana, Hankyū
+**Languages** :: Sumirikugo, Thieves’ Cant
+**CR**        :: 3 (XP 700; PB +3; Level 6) <!-- TODO - Class Level Statblock - PB too high -->
 
 }}
 
@@ -629,13 +750,13 @@ Text about Makoto
 
 }}
 
-**CR** :: -- (PB +3, equals Makoto's PB)
+**CR** :: --- (PB +3, equals Makoto's PB)
 
 }}
 
 ### Traits
 
-***Charge.*** If Kentaro moved at least 20 feet straight toward the target before the hit, the target takes an extra 1d6 Slashing damage, and the target has the Prone Condition if it is a Large or smaller creature.
+***Charge.*** If Kentaro moved at least 20 feet straight toward the target before the hit, the target takes an extra 1d6 Slashing damage, and the target has the Prone Condition if they are a Large or smaller creature.
 
 ***Follower.*** Kentaro gains +3 (Makoto's PB) to any ability check or saving throw that he makes.
 
@@ -685,9 +806,9 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 {{#creature,monster,frame
 
-## Masuzō, Might of the Mountain
+## Masuzō, Might of the Mountain - TODO
 
-*Medium Yama-Otoko (Giant), Lawful Neutral*
+*Large Humanoid Giant (Ōgaru, Monk), Lawful Neutral*
 
 {{stats
 
@@ -720,10 +841,10 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 }}
 
-**Skills**      :: Medicine +6
-**Senses**      :: Passive Perception 13
-**Languages**   :: Common, Ōgarugo
-**CR**          :: ? (XP ?; PB +3; Level 5)
+**Skills**    :: Athletics +5, Religion +3, Medicine +6
+**Senses**    :: Passive Perception 13
+**Languages** :: Sumirikugo, Ōgarugo
+**CR**        :: 3 (XP 700; PB +3; Level 6)
 
 }}
 
@@ -756,20 +877,30 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 Text about Yuxuan
 
+{{imageMaskCorner20,--offsetX:-47%,--offsetY:-45%,--rotation:0
+  ![masuzo](https://i.imgur.com/KYuQDOa.jpeg){position:absolute,bottom:-25px,left:-50px,height:60%,transform:scaleX(1)}
+}}
+
+{{position:absolute,top:560px,left:330px,margin-bottom:-50px,text-align:left
+
+##### Yuxuan
+
+}}
+
 \column
 
 {{#creature,monster,frame
 
 ## Yuxuan, the Immortal Fist
 
-*Medium Humanoid, Chaotic Good*
+*Medium Humanoid Undead (Human, Monk), Chaotic Good*
 
 {{stats
 
 {{vitals
 
 **AC**         :: 17 (Natural Armour)
-**HP**         :: 63 (9d8 + 18)
+**HP**         :: 63 (9d8 + 18) <!-- TODO - Class Level Statblock - HP too low -->
 \column
 **Initiative** :: +4 (14)
 **Speed**      :: 50 ft.
@@ -795,9 +926,12 @@ Text about Yuxuan
 
 }}
 
-**Senses** :: Darkvision 60 ft.; Passive Perception 13
-**Gear**   :: Zhē
-**CR**     :: ? (XP ?; PB +4; Level 9)
+**Skills**      :: Athletics +5, Acrobatics +8, Intimidation +4, Perception +7
+**Resistances** :: Necrotic
+**Senses**      :: Darkvision 60ft., Passive Perception 17
+**Gear**        :: Zhē
+**Languages**   :: Sumirikugo, Zāngkēgo
+**CR**          :: 5 (XP 1,800; PB +4; Level 9) <!-- TODO - Class Level Statblock - PB too high -->
 
 }}
 
@@ -815,14 +949,16 @@ Text about Yuxuan
 
 ***Multiattack.*** Yuxuan makes two Unarmed Strikes.
 
-***Unarmed Strike.*** *Melee Weapon Attack.* +8, reach 5 ft. *Hit:* 8 (1d8 + 4) Bludgeoning damage.
+***Unarmed Strike.*** *Melee Attack Roll:* +8, reach 5 ft. *Hit:* 8 (1d8 + 4) Bludgeoning damage.
 
-***Spellcasting.*** Yuxuan casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 14):</br>&nbsp;*0 Focus Points:* Minor Illusion<sup>A,C</sup>
-</br>&nbsp;*1 Focus Point:* Darkness<sup>A,C</sup> (Yuxuan can see within the spell's area when cast this way)
+***Spellcasting.*** Yuxuan casts one of the following spells, requiring no material components and using Wisdom as the Spellcasting Ability (spell save DC 14):
+
+**0 Focus Points:** Minor Illusion<sup>A,C</sup>
+</br>**1 Focus Point:** Darkness<sup>A,C</sup> (Yuxuan can see within the spell's area when cast this way)
 
 ### Bonus Actions
 
-***Unarmed Strike.*** *Melee Weapon Attack.* +8, reach 5 ft. *Hit:* 8 (1d8 + 4) Bludgeoning damage.
+***Unarmed Strike.*** *Melee Attack Roll:* +8, reach 5 ft. *Hit:* 8 (1d8 + 4) Bludgeoning damage.
 
 **Focus.** Yuxuan makes an additional Unarmed Strike.
 
@@ -834,7 +970,7 @@ Text about Yuxuan
 
 ### Reactions
 
-***Deflect Attacks.*** *Trigger:* Yuxuan is hit by an attack that would deal Bludgeoning, Piercing, or Slashing damage. *Response:* Yuxuan reduces the damage by 18 (1d10 + 13). If this reduces the damage to 0, Yuxuan can spend a Focus Point to redirect the kinetic force of the attack to a creature it can see within 30 feet of it. The target must succeed on a DC 14 Dexterity Saving Throw or take 13 (2d8 + 4) Force damage.
+***Deflect Attacks.*** *Trigger:* Yuxuan is hit by an attack that would deal Bludgeoning, Piercing, or Slashing damage. *Response:* Yuxuan reduces the damage by 18 (1d10 + 13). If this reduces the damage to 0, Yuxuan can spend a Focus Point to redirect the kinetic force of the attack to a creature he can see within 30 feet of him. The target must succeed on a DC 14 Dexterity Saving Throw or take 13 (2d8 + 4) Force damage.
 
 }}
 
@@ -854,12 +990,197 @@ Text about Yuxuan
 
 ## The Bound and Fraying Rope
 
+\column
+
+{{monster,frame
+
+## Bound Cultist
+
+*Medium Humanoid, Lawful Evil*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 15 (Improved Medium Armour)
+**HP**         :: 91 (14d8 + 28)
+\column
+**Initiative** :: +0 (10)
+**Speed**      :: 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 16|  +3  |  +3  |
+|Int| 12|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10|  +0  |  +0  |
+|Wis| 16|  +3  |  +3  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +2  |  +2  |
+|Cha| 12|  +1  |  +1  |
+
+}}
+
+**Skills**      :: Arcana +4, Perception +6, Religion +4
+**Senses**      :: Passive Perception 16
+**Languages**   :: Ryūgo, Sumirikugo
+**CR**          :: 5 (XP 1,800; PB +3)
+
+}}
+
+### Actions
+
+***Multiattack.*** The cultist makes two attacks.
+
+***Five-Flame Torch*** *Melee Attack Roll:* +6 to hit, reach 5 ft. *Hit:* 18 (4d6 + 4) damage of a type chosen by the cultist: Bludgeoning, Fire, Force, Cold, or Thunder.
+
+}}
+
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
 ![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
+
+### Cult Footsoldiers
+
+{{monster,frame
+
+## Taeko, Battle Hardened
+
+*Small Humanoid (Kappa, Fighter), Lawful Evil*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 18 (Shell)
+**HP**         :: 113 (15d8 + 45)
+\column
+**Initiative** :: +1 (11)
+**Speed**      :: 25 ft., Swim Speed 25 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18|  +4  |  +7  |
+|Int| 12|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12|  +1  |  +1  |
+|Wis| 14|  +2  |  +2  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16|  +3  |  +6  |
+|Cha| 12|  +1  |  +1  |
+
+}}
+
+**Skills**      :: Athletics +7, Intimidation +4
+**Senses**      :: Passive Perception 12
+**Gear**        :: Tetsubō
+**Languages**   :: Sumirikugo, Ryūgo
+**CR**          :: 6 (XP 2,300; PB +3)
+
+}}
+
+### Traits
+
+***Topple.*** Once per turn, when Taeko deals damage with an attack, he can force the target to succeed on a DC 15 Strength Saving Throw or they take an additional 5 (1d10) Bludgeoning damage and have the Prone Condition.
+
+### Actions
+
+***Multiattack.*** Taeko makes two Tetsubō attacks.
+
+***Tetsubō*** *Melee Attack Roll:* +7 to hit, reach 5 ft. *Hit:* 11 (2d6 + 4) Bludgeoning damage, and the target is pushed up to 10 feet away from Taeko.
+
+***Shell Spin (1/Day).*** Taeko spins, moving up to 25 feet in a straight line. *Dexterity Saving Throw:* DC 15, each creature in the path of Taeko's movement. *Failure:* The target takes 21 (6d6) Bludgeoning damage and have the Prone and Dazed Conditions.
+
+### Bonus Actions
+
+***Turtle Up (1/Day).*** Taeko takes the Dodge action. Whenever an attack misses him until the start of his next turn, Taeko gains 5 Temporary Hit Points and the attacker takes 4 (1d6) Bludgeoning damage.
+
+}}
+
+\column
+
+{{monster,frame
+
+## Chiya, The Bloodied Arrow - TODO
+
+*Medium Humanoid (Kitsune, Shapechanger), Lawful Evil*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 16
+**HP**         :: 110 (17d8 + 34)
+\column
+**Initiative** :: +4 (14)
+**Speed**      :: 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 14|  +2  |  +2  |
+|Int| 13|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 18|  +4  |  +4  |
+|Wis| 16|  +3  |  +7  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +2  |  +2  |
+|Cha| 20|  +5  |  +9  |
+
+}}
+
+**Skills**      :: Deception +9, Persuasion +9, Religion +5
+**Senses**      :: Passive Perception 13
+**Languages**   :: Ryūgo, Sumirikugo
+**CR**          :: 10 (XP 5,900; PB +4)
+
+}}
+
+### Traits
+
+***Shifter.*** Chiya has the Obake (Shapechanger) creature type.
+
+### Actions
+
+***Multiattack.*** Chiya makes two Pact Dagger attacks. She can replace any number of these attacks with uses of March Order.
+
+***Pact Dagger.*** *Melee Attack Roll:* +9 to hit, reach 5 ft. *Hit:* 8 (1d4 + 5) Piercing damage plus 18 (4d8) damage of a type chosen by Chiya: Bludgeoning, Fire, Force, Cold, or Thunder.
+
+***March Order.*** Chiya commands a cultist friendly to her that she can see within 60 feet. That cultist must use their reaction to move up to their speed towards a target and then make a single weapon attack against them.
+
+***Spellcasting.*** DC 17 ???
+
+### Bonus Actions
+
+***Kitsune Disguise.*** Chiya shape-shifts into a Medium Humanoid, or she returns to her true Kitsune form. Her game statistics are the same in each form. Any equipment she is wearing or carrying isn't transformed.
+
+}}
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
@@ -877,20 +1198,22 @@ Text about Yuxuan
 
 ### The Twin Sons
 
+<!-- TODO - FIX THESE BASED ON THE SCREENSHOTS -->
+
 {{monster,frame
 
 ## Kaito, Blue Oni
 
-*Medium Humanoid, Lawful Neutral*
+*Medium Humanoid Fiend (Human, Warlock), Neutral Evil*
 
 {{stats
 
 {{vitals
 
-**AC**         :: 15
-**HP**         :: ?? (20d8 + ??)
+**AC**         :: 15 (Mage Armour)
+**HP**         :: 150 (20d8 + 60)
 \column
-**Initiative** :: +1 (11)
+**Initiative** :: +3 (13)
 **Speed**      :: 30 ft.
 
 }}
@@ -899,48 +1222,50 @@ Text about Yuxuan
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Str| ? |  +?  |  +?  |
-|Int| ? |  +?  |  +?  |
+|Str| 15|  +2  |  +2  |
+|Int| 12|  +1  |  +1  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Dex| 14|  +2  |  +?  |
-|Wis| ? |  +?  |  +?  |
+|Dex| 16|  +3  |  +7  |
+|Wis| 12|  +1  |  +5  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Con| ? |  +?  |  +?  |
-|Cha| 20|  +5  |  +?  |
+|Con| 16|  +3  |  +3  |
+|Cha| 20|  +5  |  +9  |
 
 }}
 
-**Skills** :: Perception +2
-**Senses** :: Passive Perception 12
-**CR**     :: 9 (XP 2,300; PB +4)
+**Skills**      :: Deception +9, Intimidation +9, Persuasion +9
+**Resistances** :: Cold
+**Senses**      :: Passive Perception 11
+**Gear**        :: Portable Hole
+**Languages**   :: Formal Sumirikugo, Onigo, Sumirikugo
+**CR**          :: 9 (XP 2,300; PB +4)
 
 }}
 
 ### Traits
 
-***Scroll-Bound.***
+***Ego.*** If a creature attempts to threaten, intimidate, or goad Kaito, he must attempt a DC 20 Wisdom Saving Throw. If he fails he is forced to target the creature that triggered the Saving Throw with any attacks, spells and abilities he uses and he cannot move away from said creature until the end of this next turn.
 
 ### Actions
 
-***Eldritch Blast (2 Attacks).*** *Ranged Spell Attack.* +8 to hit, up to three targets. *Hit:* 9 (1d10 + 4) Force damage, and Kaito can move the creature in a straight line up to 10 feet closer or further away.
+***Eldritch Blast (2 Attacks).*** *Ranged Attack Roll:* +9 to hit, range 120 ft. *Hit:* 11 (1d10 + 5) Force damage, and Kaito can move the creature in a straight line up to 10 feet closer or further away.
 
 ***Pact Casting.*** Kaito casts one of the following spells, using Charisma as the Spellcasting Ability (spell save DC 17):
 
 **At will:** Mage Armour<sup>A</sup> (included in AC), Mage Hand<sup>A</sup>
-</br>**2/day combined:** Dimension Door<sup>A</sup>, Hold Person<sup>A, C</sup>, Fireball<sup>A</sup> (Fifth Level)
+</br>**3/day combined:** Dimension Door<sup>A</sup>, Hex<sup>BA,C</sup>, Hold Person<sup>A,C</sup>, Fireball<sup>A</sup> (Fifth Level)
 
-***As Above, So Below (1/Day).*** *Charisma Saving Throw:* DC 17, one target within 30 feet. *Failure:* The target gets thrown through Makoku. It takes 8d10 Psychic damage and it has the Incapacitated condition until the end of your next turn, when it returns to the space it previously occupied or the nearest unoccupied space.
+***Oni Fangs.*** *Melee Attack Roll:* +6 to hit, reach 5ft. *Hit:* 7 (1d8 + 2) Piercing damage. If the target of this attack is causing Kaito's Ego trait to be active, he has Advantage on Attack Rolls against them with this attack.
+
+***As Above, So Below (1/Day).*** *Charisma Saving Throw:* DC 17, one target within 30 feet. *Failure:* The target gets thrown through Makoku. They take 8d10 Psychic damage and they have the Incapacitated condition until the end of Kaito's next turn, when they return to the space they previously occupied or the nearest unoccupied space.
 
 ### Bonus Actions
 
-***Third Eye of Scorn.*** Kaito scorns a creature he can see within 90 feet of him. Hayato deals an extra 1d6 Fire damage to the target whenever he hits it with an attack roll. This lasts until the creature dies or Hayato uses his Bonus Action to scorn a different creature.
-
-***Fel Step.*** Kaito teleports up to 30 feet to an unoccupied space he can see and leaves behind a 10 foot radus sphere of fire in the space he left, that lasts until the end of Kaito's next turn. Any creature that enters the fire or starts their turn there takes 9 (2d8) Fire damage.
-
+***Fel Step.*** Kaito teleports up to 30 feet to an unoccupied space he can see and leaves behind a wave of lethargy. *Dexterity Saving Throw:* DC 17, each creature within 10 feet of the space Kaito left. *Failure:* The target takes 9 (2d8) Cold damage and has their speed reduced by 10 feet until the end of their next turn.
 }}
 
 \column
@@ -949,16 +1274,16 @@ Text about Yuxuan
 
 ## Hayato, Red Oni
 
-*Medium Humanoid, Lawful Neutral*
+*Medium Humanoid Fiend (Human, Warlock), Neutral Evil*
 
 {{stats
 
 {{vitals
 
-**AC**         :: 15 (Medium Armour)
-**HP**         :: ?? (3d8 + 3)
+**AC**         :: 17 (Improved Medium Armour)
+**HP**         :: 170 (20d8 + 80)
 \column
-**Initiative** :: +1 (11)
+**Initiative** :: +2 (12)
 **Speed**      :: 30 ft.
 
 }}
@@ -967,30 +1292,33 @@ Text about Yuxuan
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Str| ? |  +?  |  +?  |
-|Int| ? |  +?  |  +?  |
+|Str| 18|  +4  |  +4  |
+|Int| 16|  +3  |  +7  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Dex| ? |  +?  |  +?  |
-|Wis| ? |  +?  |  +?  |
+|Dex| 14|  +2  |  +2  |
+|Wis| 10|  +0  |  +0  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Con| ? |  +?  |  +?  |
-|Cha| 18|  +4  |  +?  |
+|Con| 18|  +4  |  +4  |
+|Cha| 20|  +5  |  +9  |
 
 }}
 
-**Skills** :: Perception +2
-**Senses** :: Passive Perception 12
-**CR**     :: 9 (XP 2,300; PB +4)
+**Skills**      :: Intimidation +9, Investigation +7, Perception +4
+**Resistances** :: Fire
+**Senses**      :: Passive Perception 14
+**Gear**        :: Improved Medium Armour
+**Languages**   :: Formal Sumirikugo, Onigo, Sumirikugo
+**CR**          :: 9 (XP 2,300; PB +4)
 
 }}
 
 ### Traits
 
-***Chain-Bound.***
+***Ego.*** If a creature attempts to threaten, intimidate, or goad Kaito, he must attempt a DC 15 Wisdom Saving Throw. If he fails he is forced to target the creature that triggered the Saving Throw with any attacks, spells and abilities he uses and he cannot move away from said creature until the end of this next turn.
 
 ***Infernal Chains.*** The first time Hayato hits with a weapon attack on his turn, the target must succeed on a DC 17 Strength Saving Throw or they have the Prone condition.
 
@@ -998,11 +1326,13 @@ Text about Yuxuan
 
 ***Multiattack.*** Hayato makes three attacks, either with the Kusarigama Sickle or Kusarigama Chain. He must make at least one attack with each weapon.
 
-***Kusarigama Sickle.*** *Melee Attack Roll:* +8 to hit, reach 5 ft., one target. *Hit:* 9 (1d8 + 4) Slashing damage, plus 4 (1d8) Fire damage.
+***Kusarigama Sickle.*** *Melee Attack Roll:* +9 to hit, reach 5 ft. *Hit:* 10 (1d8 + 5) Slashing damage, plus 4 (1d8) Fire damage.
 
-***Kusarigama Chain.*** *Melee Attack Roll:* +8 to hit, reach 10 ft., one target. *Hit:* 8 (1d6 + 4) Bludgeoning damage, plus 4 (1d8) Fire damage.
+***Kusarigama Chain.*** *Melee Attack Roll:* +9 to hit, reach 10 ft. *Hit:* 9 (1d6 + 5) Bludgeoning damage, plus 4 (1d8) Fire damage.
 
-***As Above, So Below (1/Day).*** *Charisma Saving Throw:* DC 17, one target within 30 feet. *Failure:* The target gets thrown through Makoku. It takes 8d10 Psychic damage and it has the Incapacitated condition until the end of your next turn, when it returns to the space it previously occupied or the nearest unoccupied space.
+***Oni Fangs.*** *Melee Attack Roll:* +8 to hit, reach 5ft. *Hit:* 9 (1d8 + 4) Piercing damage. If the target of this attack is causing Hayato's Ego trait to be active, he has Advantage on Attack Rolls against them with this attack.
+
+***As Above, So Below (1/Day).*** *Charisma Saving Throw:* DC 17, one target within 30 feet. *Failure:* The target gets thrown through Makoku. They take 8d10 Psychic damage and they have the Incapacitated condition until the end of Hayato's next turn, when they return to the space they previously occupied or the nearest unoccupied space.
 
 ### Bonus Actions
 
@@ -1060,9 +1390,11 @@ Text about Yuxuan
 
 }}
 
-**Skills** :: Perception +2
-**Senses** :: Passive Perception 12
-**CR**     :: 1/8 (XP 25; PB +2)
+**Skills**    :: Perception +3
+**Senses**    :: Passive Perception 13
+**Gear**      :: Hoko Yari, Jitte
+**Languages** :: Sumirikugo
+**CR**        :: 1/8 (XP 25; PB +2)
 
 }}
 
@@ -1099,9 +1431,9 @@ Text about Yuxuan
 
 **AC**         :: 17 (Heavy Armour)
 **HP**         :: 60 (8d8 + 24)
-**Speed**      :: 30 ft.
 \column
 **Initiative** :: +0 (10)
+**Speed**      :: 30 ft.
 
 }}
 
@@ -1124,13 +1456,78 @@ Text about Yuxuan
 
 }}
 
-**CR** :: 3 (XP 700; PB +2)
+**Skills**    :: Perception +3
+**Senses**    :: Passive Perception 13
+**Gear**      :: Katana
+**Languages** :: Formal Sumirikugo, Sumirikugo
+**CR**        :: 3 (XP 700; PB +2)
 
 }}
 
 ### Traits
 
 ***Exploit Opening (3/Day).*** When the Samurai makes an attack, they have advantage on the attack roll.
+
+### Actions
+
+***Multiattack.*** The Samurai makes two Katana attacks.
+
+***Katana.*** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 9 (2d4 + 4) Slashing damage.
+
+### Bonus Actions
+
+***Bushidō Focus (1/Day).*** The Samurai takes the Dodge action. Whenever an attack misses them until the start of their next turn, they gain 5 Temporary Hit Points.
+
+}}
+
+{{monster,frame
+
+## Samurai Duelist
+
+*Medium Humanoid, Lawful Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 15 (Light Armour)
+**HP**         :: 60 (8d8 + 24)
+\column
+**Initiative** :: +4 (14)
+**Speed**      :: 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 13|  +1  |  +1  |
+|Int| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 18|  +4  |  +4  |
+|Wis| 14|  +2  |  +2  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16|  +3  |  +3  |
+|Cha| 10|  +0  |  +0  |
+
+}}
+
+**Skills**    :: Perception +4
+**Senses**    :: Passive Perception 14
+**Gear**      :: Katana
+**Languages** :: Formal Sumirikugo, Sumirikugo
+**CR**        :: 3 (XP 700; PB +2)
+
+}}
+
+### Traits
+
+***Exploit Opening (3/Day).*** When the Samurai makes an attack, they have Advantage on the Attack Roll.
 
 ### Actions
 
@@ -1183,13 +1580,17 @@ Text about Yuxuan
 
 }}
 
-**CR** :: 6 (XP 2,300; PB +3)
+**Skills**    :: Animal Handling +5, Perception +5
+**Senses**    :: Passive Perception 15
+**Gear**      :: Naginata
+**Languages** :: Formal Sumirikugo, Sumirikugo
+**CR**        :: 6 (XP 2,300; PB +3)
 
 }}
 
 ### Traits
 
-***Exploit Opening (3/Day).*** When the Samurai makes an attack, they have advantage on the attack roll.
+***Exploit Opening (3/Day).*** When the Samurai makes an attack, they have Advantage on the Attack Roll.
 
 ***Mounted Warrior.*** The Samurai fights on horseback. If the Samurai ever has the Prone Condition the horse flees, reducing the Samurai's size to Medium, their speed to 30 feet, and no longer letting them use the Trample action.
 
@@ -1207,7 +1608,7 @@ Text about Yuxuan
 
 {{monster,frame
 
-## Samurai Archer
+## Samurai Archer - TODO
 
 *Medium Humanoid, Lawful Neutral*
 
@@ -1242,14 +1643,17 @@ Text about Yuxuan
 
 }}
 
-**Senses** :: Passive Perception 14
-**CR**     :: 2 (XP 450; PB +2)
+**Skills**    :: Perception +4
+**Senses**    :: Passive Perception 14
+**Gear**      :: Daikyū
+**Languages** :: Formal Sumirikugo, Sumirikugo
+**CR**        :: 2 (XP 450; PB +2)
 
 }}
 
 ### Traits
 
-***Exploit Opening (3/Day).*** When the Samurai makes an attack, they have advantage on the attack roll.
+***Exploit Opening (3/Day).*** When the Samurai makes an attack, they have Advantage on the Attack Roll.
 
 ***Snipe.*** When the Samurai hits a creature with a Ranged Weapon Attack with Advantage, they deal an extra 7 (2d6) Piercing damage.
 
@@ -1276,7 +1680,7 @@ Text about Yuxuan
 
 ## Raijū, Raging Bolt
 
-*Huge Elemental (Godaiyō, Air), Chaotic Neutral*
+*Huge Elemental (Air), Chaotic Neutral*
 
 {{stats
 
@@ -1336,7 +1740,7 @@ Text about Yuxuan
 
 ***Tail Bolt.*** *Dexterity Saving Throw:* DC 16, each creature within 5 feet of a point within 60 feet. *Failure:* 21 (6d6) Lightning damage, and the target is Dazed and is charged. *Success:* Half damage, and the target is not Dazed or is charged.
 
-***Volt Vortex (Recharge 5-6).*** The Raijū spins wildling, kicking up a swirling storm. *Dexterity Saving Throw:* DC 17, all creatures within 10 feet of Raijū. *Failure:* 14 (4d6) Slashing damage and 14 (4d6) Lightning damage. *Success:* Half damage. A 15 foot radius storm emminating from the Raijū is created which lasts for 1 minute. The area of the storm is Heavily Obscured to any creatures outside of the storm, and any creature that ends their turn inside the storm takes 7 (2d6) Slashing damage and 7 (2d6) Lightning damage.
+***Volt Vortex (Recharge 5-6).*** The Raijū spins wildling, kicking up a swirling storm. *Dexterity Saving Throw:* DC 17, all creatures within 10 feet of Raijū. *Failure:* 14 (4d6) Slashing damage and 14 (4d6) Lightning damage. *Success:* Half damage. A 15 foot radius storm emanating from the Raijū is created which lasts for 1 minute. The area of the storm is Heavily Obscured to any creatures outside of the storm, and any creature that ends their turn inside the storm takes 7 (2d6) Slashing damage and 7 (2d6) Lightning damage.
 
 ### Reactions
 
@@ -1364,7 +1768,7 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 \page
 
-## The Hyakushima Bandits
+## The Hyakushima Bandits - TODO
 
 Many groups of bandits roam the roads and settlements of Sumiriku, who make their living by preying on defenceless civilians and taking whatever food and valuables they can find. One such group is found in middle Sesujishima, lead by the fearsome Kanehisa and his second in command, Akitake. Though they appear to be targeting the humble village of Hyakushima to steal the result of their harvest, Kanehisa has kept secret some ulterior motives. He has been instructed by the Daimyō of Clan Wakasa to retrieve a girl, Hajime, and bring her back to him, though he doesn't know what the Daimyō wants with her.
 
@@ -1372,7 +1776,7 @@ Many groups of bandits roam the roads and settlements of Sumiriku, who make thei
 
 {{#creature,monster,frame
 
-## Kanehisa
+## Kanehisa - TODO
 
 *Medium Humanoid, Chaotic Evil*
 
@@ -1407,10 +1811,10 @@ Many groups of bandits roam the roads and settlements of Sumiriku, who make thei
 
 }}
 
-**Skills**    :: Perception +2, Investigation -1
-**Senses**    :: Passive Perception 9
-**Languages** :: Common
-**CR**        :: 1 (XP ?; PB +2)
+**Skills**    :: Perception +2, Investigation +3
+**Senses**    :: Passive Perception 11
+**Languages** :: Sumirikugo, Thieves’ Cant
+**CR**        :: 3 (XP ?; PB +2)
 
 }}
 
@@ -1418,7 +1822,7 @@ Many groups of bandits roam the roads and settlements of Sumiriku, who make thei
 
 ***Legendary Resistance (1/Day).*** If Kanehisa fails a Saving Throw, he can choose to succeed instead.
 
-***Exploit Opening (2/Day).*** When Kanehisa makes an attack, they can choose to have Advantage on the Attack Roll
+***Exploit Opening (2/Day).*** When Kanehisa makes an attack, he can choose to have Advantage on the Attack Roll
 
 ### Actions
 
@@ -1469,7 +1873,7 @@ Text about them
 **AC**         :: 13 (Natural Armour)
 **HP**         :: 5 (2d4 + 1)
 \column
-**Initiative** :: +4 (14)
+**Initiative** :: +1 (11)
 **Speed**      :: 20 ft., Swim 20 ft.
 
 }}
@@ -1493,7 +1897,10 @@ Text about them
 
 }}
 
-**CR** :: 1/8 (XP 5; PB +2)
+**Skills**    :: Stealth +3, Survival +1
+**Senses**    :: Blindsight 30ft., Passive Perception 9
+**Languages** :: ---
+**CR**        :: 1/8 (XP 25; PB +2)
 
 }}
 
@@ -1515,7 +1922,7 @@ Text about them
 
 ## Genji, Crab Rider
 
-*Medium Humanoid (Bunagaya), Chaotic Evil*
+*Medium Humanoid (Bunagaya, Ranger), Chaotic Evil*
 
 {{stats
 
@@ -1548,9 +1955,11 @@ Text about them
 
 }}
 
-**Immunities** :: Poison, Psychic
-**Senses**     :: passive Perception 13
-**CR**         :: 6 (XP 2,300; PB +3)
+**Skills**    :: Animal Handling +7, Athletics +5, Perception +6, Survival +6
+**Senses**    :: Passive Perception 16
+**Gear**      :: Daikyū, Tantō, Bag of Satsumas
+**Languages** :: Shīsāgo, Sumirikugo
+**CR**        :: 6 (XP 2,300; PB +3)
 
 }}
 
@@ -1581,7 +1990,7 @@ Text about them
 | Rampage        | Okamoto's Chaos Threshold is reduced to 0, or Genji has been subdued or killed. | **Effect.** Okamoto aggressively targets the party.</br>**Gained Features.** Body Slam Villain Action.</br>**Lost Features.** Burrow Speed. |
 | Lonely         | Genji is separated from Okamoto. | **Effect.** Okamoto tries to protect Genji.</br>**Gained Features.** Unburrow Villain Action |
 | Blinded        | Okamoto's Eyestalks area is exploited. | **Effect.** Okamoto goes blind, and must see using Blindsight. |
-| Death Throws   | Okamoto has three exploited vulnerable areas. | **Effect.** Okamoto's shell splits, reducing his AC by 5.</br>**Finishing Blow.** Okamoto is destroyed when it takes damage equal to its Finishing Blow in a single turn. |
+| Death Throws   | Okamoto has three exploited vulnerable areas. | **Effect.** Okamoto's shell splits, reducing his AC by 5.</br>**Finishing Blow.** Okamoto is destroyed when he takes damage equal to his Finishing Blow in a single turn. |
 
 }}
 
@@ -1632,9 +2041,10 @@ Text about them
 
 }}
 
-**Skills** :: Stealth +6
-**Senses** :: Blindsight 30 ft., passive Perception 9
-**CR**     :: 10 (XP ?; PB +4)
+**Skills**    :: Stealth +6, Survival +3
+**Senses**    :: Blindsight 30ft., Passive Perception 9
+**Languages** :: ---
+**CR**        :: 10 (XP 5,900; PB +4)
 
 }}
 
@@ -1644,13 +2054,13 @@ Text about them
 
 ***Close to the Ground.*** Medium creatures can move under Okamoto while he has the Prone Condition, but cannot move through him otherwise.
 
-***Crusher.*** A creature that starts its turn grappled by Okamoto takes 10 Bludgeoning damage.
+***Crusher.*** A creature that starts their turn grappled by Okamoto takes 10 Bludgeoning damage.
 
-***Kaiju Fortitude.*** Okamoto is immune to any spell or effect that would alter its form or move it to another plane of existence against its will.
+***Kaiju Fortitude.*** Okamoto is immune to any spell or effect that would alter his form or move his to another plane of existence against his will.
 
-***Legendary Resistance (1/Day).*** If Okamoto fails a Saving Throw, it can choose to succeed instead.
+***Legendary Resistance (1/Day).*** If Okamoto fails a Saving Throw, he can choose to succeed instead.
 
-***Shell Camouflage.*** While the crab remains motionless with its eyestalks and pincers tucked close to its body, it hides within the sand. A creature within 30 feet of it can discern its true nature with a successful DC 15 Intelligence (Nature) check.
+***Shell Camouflage.*** While the crab remains motionless with his eyestalks and pincers tucked close to his body, he hides within the sand. A creature within 30 feet of him can discern his true nature with a successful DC 15 Intelligence (Nature) check.
 
 \column
 
@@ -1737,36 +2147,40 @@ Text about the triad
 
 }}
 
+**Skills**      :: Deception +4, Slight of Hand -2
 **Resistances** :: Necrotic <!-- ; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks That Aren't Peachwood -->
 **Senses**      :: Blindsight 60 ft., Passive Perception 11
-**Languages**   :: Common, Zāngkē
+**Gear**        :: Tantō
+**Languages**   :: Sumirikugo, Zāngkēgo
 **CR**          :: 3 (XP 700; PB +2)
 
 }}
 
 ### Traits
 
-***Breath Sight.*** A creature that is holding its breath may attempt to hide from the Jiangshi without obscurement.
+***Breath Sight.*** A creature that is holding their breath may attempt to hide from the Jiangshi without obscurement.
 
-***Graceless Rigor.*** If the Jiangshi is hit with a Melee Attack from a direction it is not facing, it is pushed 5 feet away and has the Prone Condition.
+***Graceless Rigor.*** If the Jiangshi is hit with a Melee Attack from a direction they are not facing, they are pushed 5 feet away and has the Prone Condition.
 
-***Hopping Movement.*** When initiative is rolled, the Jiangshi selects a cardinal direction to face. The Jiangshi may move only in the direction it is facing, and may spend 5 feet of movement to turn up to 90 degrees or to stand from Prone.
+***Hopping Movement.*** When initiative is rolled, the Jiangshi selects a cardinal direction to face. The Jiangshi may move only in the direction they are facing, and may spend 5 feet of movement to turn up to 90 degrees or to stand from Prone.
 
-***Not Yet Turned.*** While the Jiangshi is at full health, any spells and abilities that detect the presence of undead fail, the Jiangshi's **Graceless Rigor** trait is ignored, the Jiangshi cannot use it's **Crooked Claws** attack, and the Jiangshi has 12 Dexterity.
+***Not Yet Turned.*** While the Jiangshi is at full health, any spells and abilities that detect the presence of undead fail, the Jiangshi's **Graceless Rigor** and ***Reflection Weakness*** traits are ignored, the Jiangshi cannot use their **Crooked Claws** attack, and the Jiangshi has 12 Dexterity.
+
+***Reflection Weakness.*** At the start of the Jiangshi's turn, if they can see their own reflection, they must make a DC 15 Wisdom Saving Throw or they have the Frightened Condition until the end of their turn.
 
 ### Actions
 
-***Multiattack.*** The Jiangshi makes two attacks, one of which it can replace with a use of its Drain Vitality.
+***Multiattack.*** The Jiangshi makes two attacks, one of which they can replace with a use of their Drain Vitality.
 
-***Tanto.*** *Melee or Ranged Attack Roll:* +5, reach 5 ft. or range 20/60 ft. *Hit:* 6 (1d4 + 3) Slashing damage.
+***Tantō.*** *Melee or Ranged Attack Roll:* +5, reach 5 ft. or range 20/60 ft. *Hit:* 6 (1d4 + 3) Slashing damage.
 
-***Crooked Claws.*** *Melee Weapon Attack:*  +5, reach 5 ft. in the direction the Jiangshi is facing. *Hit:* 10 (2d6 + 3) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled Condition (escape DC 12) from one of two claws.
+***Crooked Claws.*** *Melee Weapon Attack:*  +5, reach 5 ft. in the direction the Jiangshi is facing. *Hit:* 10 (2d6 + 3) Slashing damage. If the target is a Medium or smaller creature, they have the Grappled Condition (escape DC 13) from one of two claws.
 
-***Drain Vitality.*** The Jiangshi draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 13, a creature grappled by the Jiangshi. *Failure:* 9 (2d8) Necrotic damage. *Success:* Half damage. *Failure or Success:* The Jiangshi regains Hit Points equal to the amount of Necrotic damage dealt.
+***Drain Vitality.*** The Jiangshi draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 14, a creature within 5 feet that is willing or that has the Grappled, Incapacitated, or Restrained condition. *Failure:* 9 (2d8) Necrotic damage. The target's Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and the Jiangshi regains Hit Points equal to that amount.
 
 ### Reactions
 
-***Whip Around.*** *Trigger:* A creature the Jiangshi is not facing misses it with a Melee Attack. *Response:* The Jiangshi turns to face it and makes a **Crooked Claws** attack.
+***Whip Around.*** *Trigger:* A creature the Jiangshi is not facing misses them with a Melee Attack. *Response:* The Jiangshi turns to face the creature that triggered the reaction and makes a **Crooked Claws** attack.
 
 }}
 
@@ -1785,7 +2199,7 @@ Text about the triad
 
 ## Daiyu, Black Lotus Matron
 
-*Medium Humanoid, Lawful Evil*
+*Medium Humanoid (Human), Lawful Evil*
 
 {{stats
 
@@ -1821,7 +2235,7 @@ Text about the triad
 **Skills**      :: Arcana +10, Insight +7, Persuasion +8
 **Resistances** :: Necrotic
 **Senses**      :: Passive Perception 12
-**Languages**   :: Sumirikugo, Formal Sumirikugo, Zankego
+**Languages**   :: Formal Sumirikugo, Sumirikugo, Zāngkēgo
 **CR**          :: 13 (XP 5,900; PB +5)
 
 }}
@@ -1829,6 +2243,8 @@ Text about the triad
 ### Traits
 
 ***Legendary Resistance (2/Day).*** If Daiyu fails a saving throw, she can choose to succeed instead.
+
+***Thanatophobia.*** At the start of Daiyu's turn, any creatures of her choosing with the Frightened condition and within 90 feet of her takes 5 (2d4) Necrotic damage and their Hit Point maximum is reduced by an amount equal to the damage taken.
 
 ### Actions
 
@@ -1839,18 +2255,16 @@ Text about the triad
 ***Spellcasting.*** Daiyu casts one of the following spells, using Intelligence as the Spellcasting Ability (spell save DC 18):
 
 **At will:** Mage Armour<sup>A</sup> (included in AC), Mage Hand<sup>A</sup>
-</br>**2/day each:** Dimension Door<sup>A</sup>, Fear<sup>A, C</sup>
-</br>**1/day each:** Evard's Black Tentacles<sup>A, C</sup>, Finger of Death<sup>A</sup>, Teleport<sup>A</sup>
+</br>**2/day each:** Dimension Door<sup>A</sup>, Evard's Black Tentacles<sup>A,C</sup>, Fear<sup>A,C</sup>, Lightning Bolt<sup>A</sup>
+</br>**1/day each:** Finger of Death<sup>A</sup>, Teleport<sup>A</sup>
 
 ### Bonus Actions
 
-***Death's Door.*** Daiyu teleports up to 30 feet to an unoccupied space she can see and leaves behind a terrifying vissage. *Charisma Saving Throw:* DC 18, each creature within 10 feet of the space Daiyu left. *Failure:* The target has the Frightened condition until the end of Daiyu's next turn.
-
-***Thanatophobia.*** Any creatures of Daiyu's chosing with the Frightened condition and within 60 feet of her loses 5 (2d4) maximum and current Hit Points.
+***Death's Door.*** Daiyu teleports up to 30 feet to an unoccupied space she can see and leaves behind a terrifying visage. *Charisma Saving Throw:* DC 18, each creature within 10 feet of the space Daiyu left. *Failure:* The target has the Frightened condition until the end of Daiyu's next turn.
 
 ### Reactions
 
-***Night's Grasp.*** Daiyu casts Counterspell in response to the spell's trigger, using the same Spellcasting Ability as Spellcasting. If the target fails its Saving Throw, it has the Frightened condition until the end of its next turn.
+***Night's Grasp.*** Daiyu casts Counterspell in response to the spell's trigger, using the same Spellcasting Ability as Spellcasting. If the target fails their Saving Throw, they have the Frightened condition until the end of their next turn.
 }}
 
 \column
@@ -1868,7 +2282,7 @@ Text about the triad
 **AC**         :: 15 (Unarmoured Defence)
 **HP**         :: 170 (20d8 + 80)
 \column
-**Initiative** :: +0 (10)
+**Initiative** :: +1 (11)
 **Speed**      :: 50 ft.
 
 }}
@@ -1893,10 +2307,10 @@ Text about the triad
 }}
 
 **Skills**      :: Athletics +9, Intimidation +9, Perception +7
-**Resistances** :: Bludgeoning, Necrotic, Piercing, Poison, Slashsing
+**Resistances** :: Bludgeoning, Necrotic, Piercing, Poison, Slashing
 **Immunities**  :: Charmed, Exhaustion, Frightened, Poisoned
 **Senses**      :: Blindsight 60 ft., Passive Perception 17
-**Languages**   :: Sumirikugo, Formal Sumirikugo, Zankego
+**Languages**   :: Formal Sumirikugo, Sumirikugo, Zāngkēgo
 **CR**          :: 9 (XP 2,300; PB +4)
 
 }}
@@ -1919,15 +2333,15 @@ Text about the triad
 
 ***Multiattack.*** Saichuen makes two Crooked Claw attacks and one Drain Vitality attack.
 
-***Crooked Claws.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft. in the direction the Jiangshi is facing. *Hit:* 14 (2d6 + 5) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled Condition (escape DC 17) from one of two claws.
+***Crooked Claws.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft. in the direction Saichuen is facing. *Hit:* 14 (2d6 + 5) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled Condition (escape DC 17) from one of two claws.
 
-***Drain Vitality.*** Saichuen draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 15, one creature within 5 feet that has the Grappled, Incapacitated, or Restrained Condition. *Failure:* The target loses 18 (4d6) maximum and current Hit Points and Saichuen gains that many current Hit Points. *Success:* The target loses half as many current hit points.
+***Drain Vitality.*** Saichuen draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 16, one creature within 5 feet that is willing or that has the Grappled, Incapacitated, or Restrained condition. *Failure:* 23 (5d8) Necrotic damage. The target's Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and Saichuen regains Hit Points equal to that amount.
 
 <!-- ***Intimidating Presence (1/Day)***. Each creature within 60 feet of Saichuen that can see and hear him must succeed on a DC 15 Wisdom Saving Throw or become frightened of the barbarian for 1 minute. An affected creature can repeat its saving throw at the end of each of its turns only if the barbarian is out of line of sight, ending the effect on a success. A creature that succeeds on a saving throw from this effect is immune to the barbarian’s intimidating presence for 24 hours. -->
 
 ### Bonus Actions
 
-***Dead Dive.*** Saichuen moves up to 30 feet in a straight line, stopping if he comes in contact with a creature. *Dexterity Saving Throw:* DC 15, the first creature comes into contact with with this movement. *Failure:* The target has the Grappled and Prone Conditions.
+***Dead Dive.*** Saichuen moves up to 30 feet in a straight line, stopping if he comes in contact with a creature. *Dexterity Saving Throw:* DC 16, the first creature comes into contact with with this movement. *Failure:* The target has the Grappled and Prone Conditions.
 
 }}
 
@@ -1955,7 +2369,7 @@ Text about the triad
 **AC**         :: 16 (Natural Armour)
 **HP**         :: 91 (14d8 + 28)
 \column
-**Initiative** :: -1 (9)
+**Initiative** :: -2 (8)
 **Speed**      :: 40 ft.
 
 }}
@@ -1979,35 +2393,36 @@ Text about the triad
 
 }}
 
+**Skills**      :: Survival +5
 **Resistances** :: Necrotic, Poison <!-- ; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks That Aren't Peachwood -->
 **Immunities**  :: Charmed, Exhaustion, Poisoned
 **Senses**      :: Blindsight 60 ft., Passive Perception 12
-**Languages**   :: Understands the languages it knew in life but cannot speak them
+**Languages**   :: Understands the languages they knew in life but cannot speak them
 **CR**          :: 6 (XP 2,300; PB +3)
 
 }}
 
 ### Traits
 
-***Breath Sight.*** A creature that is holding its breath may attempt to hide from the Jiangshi without obscurement.
+***Breath Sight.*** A creature that is holding their breath may attempt to hide from the Jiangshi without obscurement.
 
-***Graceless Rigor.*** If the Jiangshi is hit with a Melee Attack from a direction it is not facing, it is pushed 5 feet away and must succeed on a DC 10 Dexterity saving throw or it has the Prone Condition.
+***Graceless Rigor.*** If the Jiangshi is hit with a Melee Attack from a direction they are not facing, they are pushed 5 feet away and must succeed on a DC 10 Dexterity Saving Throw or they have the Prone Condition.
 
-***Hopping Movement.*** When initiative is rolled, the Jiangshi selects a cardinal direction to face. The Jiangshi may move only in the direction it is facing, and may spend 5 feet of movement to turn up to 90 degrees or to stand from Prone.
+***Hopping Movement.*** When initiative is rolled, the Jiangshi selects a cardinal direction to face. The Jiangshi may move only in the direction they are facing, and may spend 5 feet of movement to turn up to 90 degrees or to stand from Prone.
 
-***Reflection Weakness.*** At the start of the Jiangshi's turn, if it can see its own reflection, it must make a DC 15 Wisdom Saving Throw or it has the Frightened Condition until the end of its turn.
+***Reflection Weakness.*** At the start of the Jiangshi's turn, if they can see their own reflection, they must make a DC 15 Wisdom Saving Throw or they has the Frightened Condition until the end of their turn.
 
 ### Actions
 
 ***Multiattack.*** The Jiangshi makes two Crooked Claw attacks and one Drain Vitality attack.
 
-***Crooked Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft. in the direction the Jiangshi is facing. *Hit:* 13 (2d6 + 4) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled Condition (escape DC 14) from one of two claws.
+***Crooked Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft. in the direction the Jiangshi is facing. *Hit:* 13 (2d6 + 4) Slashing damage. If the target is a Medium or smaller creature, they has the Grappled Condition (escape DC 14) from one of two claws.
 
-***Drain Vitality.*** The Jiangshi draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 15, one creature within 5 feet that has the Grappled, Incapacitated, or Restrained Condition. *Failure:* 18 (4d6) Necrotic damage. *Success:* Half damage. *Failure or Success:* The Jiangshi regains Hit Points equal to the amount of Necrotic damage dealt.
+***Drain Vitality.*** Saichuen draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 15, one creature within 5 feet that is willing or that has the Grappled, Incapacitated, or Restrained condition. *Failure:* 14 (3d8) Necrotic damage. The target's Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and the Jiangshi regains Hit Points equal to that amount.
 
 ### Reactions
 
-***Whip Around.*** *Trigger:* A creature the Jiangshi is not facing misses it with a Melee Attack. *Response:* The Jiangshi turns to face it and makes a **Crooked Claws** attack.
+***Whip Around.*** *Trigger:* A creature the Jiangshi is not facing misses them with a Melee Attack. *Response:* The Jiangshi turns to face the target the triggered the reaction and makes a **Crooked Claws** attack.
 
 }}
 
@@ -2069,20 +2484,22 @@ Text about the castle
 }}
 
 **Immunities** :: Poison, Psychic; Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-**Senses**     :: Blindsight 60 ft. (blind beyond this radius), passive Perception 6
+**Senses**     :: Blindsight 60 ft. (blind beyond this radius), Passive Perception 6
+**Gear**       :: Katana
+**Languages**  :: ---
 **CR**         :: 1 (XP 200; PB +2)
 
 }}
 
 ### Traits
 
-***Antimagic Susceptibility.*** The armour is incapacitated while in the area of an antimagic field. If targeted by *Dispel Magic*, the armour must succeed on a Constitution saving throw against the caster's Spell Save DC or fall unconscious for 1 minute.
+***Antimagic Susceptibility.*** The Armour is incapacitated while in the area of an antimagic field. If targeted by *Dispel Magic*, the Armour must succeed on a Constitution Saving Throw against the caster's Spell Save DC or have the Unconscious Condition for 1 minute.
 
-***False Appearance.*** While the armour remains motionless, it is indistinguishable from a normal suit of armour.
+***False Appearance.*** While the Armour remains motionless, it is indistinguishable from a normal suit of Armour.
 
 ### Actions
 
-***Multiattack.*** The armour makes two attacks.
+***Multiattack.*** The Armour makes two attacks.
 
 ***Katana.*** *Melee Attack ROll:* +4, reach 5 ft. *Hit:* 6 (2d4 + 2) Slashing damage.
 
@@ -2138,7 +2555,8 @@ Text about Hatsumomo
 
 **Skills** :: Perception +3, Stealth +6
 **Senses** :: Darkvision 60 ft., Passive Perception 13
-**CR**     :: 5 (XP ?; PB +2)
+**Languages** :: ---
+**CR**     :: 2 (XP 450; PB +2)
 
 }}
 
@@ -2162,14 +2580,14 @@ Text about Hatsumomo
 
 ## Hatsumomo, Catty Courtesan
 
-*Medium Humanoid, Lawful Evil*
+*Medium Humanoid (Human, Rogue), Lawful Evil*
 
 {{stats
 
 {{vitals
 
 **AC**         :: 15 (Protective Fan)
-**HP**         :: 29 (5d8 + 5)
+**HP**         :: 29 (5d8 + 5) <!-- TODO - Class Level Statblock - HP too low -->
 \column
 **Initiative** :: +3 (13)
 **Speed**      :: 30 ft.
@@ -2195,19 +2613,21 @@ Text about Hatsumomo
 
 }}
 
-**Skills**    :: Persuasion +7
-**Languages** :: Formal, Common
-**CR**        :: 5 (XP ?; PB +3; Level 5)
+**Skills**    :: Insight +3, Persuasion +7
+**Senses**    :: Passive Perception 10
+**Gear**      :: Kakure-bi
+**Languages** :: Formal Sumirikugo, Sumirikugo
+**CR**        :: 3 (XP 700; PB +3; Level 5) <!-- TODO - Class Level Statblock - PB too high -->
 
 }}
 
 ### Traits
 
-***Sneak Attack (1/Turn).*** Hatsumomo deals an extra 10 (3d6) damage when it hits a target with a Weapon Attack and has Advantage on the Attack Roll, or when the target is within 5 feet of an ally of Hatsumomo that isn't incapacitated and Hatsumomo doesn't have Disadvantage on the Attack Roll.
+***Sneak Attack (1/Turn).*** Hatsumomo deals an extra 10 (3d6) damage when it hits a target with a Weapon Attack and has Advantage on the Attack Roll, or when the target is within 5 feet of an ally of Hatsumomo that isn't incapacitated and Hatsumomo doesn't have Disadvantage on the Attack Roll. <!-- TODO - Class Level Statblock - Damage high? -->
 
 ***Kakure-bi.*** Hatsumomo wields a magical Tessen called Kakure-bi. Kakure-bi appears to be a regular folding fan, but is instead a +1 Tessen with the Finesse property (included in Hatsumomo's attacks). The attributes of Kakure-bi are included in Hatsumomo's statblock.
 
-***Protective Fan.*** When Hatsumomo attacks with Kakure-bi or as a Bonus Action she can change it from closed to open or vice versa. While open, her attack instead deals 1d4 Slashing damage, but grants her an additional +1 AC. She starts with Kakure-bi open.
+***Protective Fan.*** When Hatsumomo attacks with Kakure-bi, or as a Bonus Action, she can change Kakure-bi from closed to open or vice versa. While open, her attack instead deals 1d4 Slashing damage, but grants her an additional +1 AC. She starts with Kakure-bi open.
 
 ### Actions
 
@@ -2221,9 +2641,9 @@ Text about Hatsumomo
 
 ***Protective Fan.*** Hatsumomo swaps Kakure-bi from open to closed or vice versa.
 
-***Tanto*** *Melee Attack Roll:* +7, reach 5 ft. *Hit:* 5 (1d4 + 3) Piercing damage.
+***Tantō*** *Melee Attack Roll:* +7, reach 5 ft. *Hit:* 5 (1d4 + 3) Piercing damage.
 
-***Vicious Mockery.*** Hatsumomo talks down to her victim. *Wisdom Saving Throw:* DC 15, one creature Hatsumomo can see within 60 feet. *Failure:* 3 (1d6) Psychic damage and the target has Disadvantage on the next attack roll it makes before the end of its next turn.
+***Vicious Mockery.*** Hatsumomo talks down to her victim. *Wisdom Saving Throw:* DC 15, one creature Hatsumomo can see within 60 feet. *Failure:* 3 (1d6) Psychic damage and the target has Disadvantage on the next attack roll they makes before the end of their next turn.
 
 ### Reactions
 
@@ -2249,7 +2669,7 @@ Text about Hidemaro
 <!-- ## Daimyō Hidemaro, Spiteful Warlord -->
 ## Hidemaro, Spiteful Daimyō
 
-*Medium Humanoid (Paladin), Lawful Evil*
+*Medium Humanoid (Human, Paladin), Lawful Evil*
 
 {{stats
 
@@ -2282,9 +2702,11 @@ Text about Hidemaro
 
 }}
 
-**Skills** :: Athletics +7, Intimidation +5
-**Senses** :: Passive Perception 12
-**CR**     :: 8 (XP 3,900; PB +3)
+**Skills**    :: Athletics +7, Intimidation +5
+**Senses**    :: Passive Perception 12
+**Gear**      :: Kane-tsuki
+**Languages** :: Formal Sumirikugo, Sumirikugo
+**CR**        :: 8 (XP 3,900; PB +3)
 
 }}
 
@@ -2313,9 +2735,9 @@ Text about Hidemaro
 
 ***Steel Sweep.*** Hidemaro swings his Yari in front of him violently, empowered by holy energy. *Dexterity Saving Throw:* DC 13, each creature 60-foot cone. *Failure:* 4 (1d8) Radiant damage, and an additional 5 (1d10) Slashing damage if the target is within 10 feet of Hidemaro. *Success:* Half Damage.
 
-***Shimmering Leap.*** Kōyō jumps into the air, traveling up to 30 feet without provoking Opportunity Attacks. *Dexterity Saving Throw:* DC 13, each creature along the path of Kōyō's movement. *Failure:* The target shimmers in golden light for 1 minute, causing it to shed dim light in a 10-foot radius and be unable to benefit from the Invisible Condition.
+***Shimmering Leap.*** Kōyō jumps into the air, traveling up to 30 feet without provoking Opportunity Attacks. *Dexterity Saving Throw:* DC 13, each creature along the path of Kōyō's movement. *Failure:* The target shimmers in golden light for 1 minute, causing them to shed dim light in a 10-foot radius and be unable to benefit from the Invisible Condition.
 
-***Fear The Conquerer. (Antagonist Action)*** Hidemaro terrifies his foes. *Wisdom Saving Throw:* DC 13, each creature within 30 feet. *Failure:* The target is Frightened of Hidemaro for 1 minute. While Frightened in this way, a creature takes 3 (1d6) Psychic damage at the start of each of their turns. If a Frightened target ends its turn more than 30 feet away from Hidemaro, the target can repeat the Saving Throw, ending the effect on itself on a success.
+***Fear The Conquerer. (Antagonist Action)*** Hidemaro terrifies their foes. *Wisdom Saving Throw:* DC 13, each creature within 30 feet. *Failure:* The target is Frightened of Hidemaro for 1 minute. While Frightened in this way, a creature takes 3 (1d6) Psychic damage at the start of each of their turns. If a Frightened target ends their turn more than 30 feet away from Hidemaro, the target can repeat the Saving Throw, ending the effect on itself on a success.
 
 ***Reverberations. (Antagonist Action)*** Hidemaro slams the ground, causing the sound of ringing to echo. *Constitution Saving Throw:* DC 13, each creature within 30 feet. *Failure:* 18 (4d8) Thunder damage and the target has the Dazed Condition for 1 minute (save repeats at end of turn). *Success:* Half Damage. *Success or Failure:* Creatures immune to the Deafened Condition are immune to this effect.
 
@@ -2343,7 +2765,7 @@ Text about Hidemaro
 
 ## Ningyo
 
-*Medium Fey (Yokai), Chaotic Neutral*
+*Medium Fey, Chaotic Neutral*
 
 {{stats
 
@@ -2405,13 +2827,13 @@ Text about Hidemaro
 
 ***Spellcasting (Alluring Form Only).*** The Ningyo casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 15):
 
-*1/day Each:* Crown of Madness<sup>A,C</sup>, Dominate Person<sup>A,C</sup>, Invisibility<sup>A,C</sup>, Misty Step<sup>BA</sup>
+**1/day Each:** Crown of Madness<sup>A,C</sup>, Dominate Person<sup>A,C</sup>, Invisibility<sup>A,C</sup>, Misty Step<sup>BA</sup>
 
 ### Reactions
 
 ***Batting Eyelids (Alluring Form Only).*** *Trigger:* A creature the Ningyo can see attempts to hit her with an attack. *Response--Wisdom Saving Throw:* DC 15, the target triggering the attack. *Failure:* The target either choose a new target for the attack or lose the attack.
 
-***Fearsome Glare (Monstrous Form Only).*** *Trigger:* A creature the Ningyo can see within 15 feet of them hits her with an attack, *Response--Wisdom Saving Throw:* DC 15, each creature in a 15-foot cone. *Failure:* The target is Frightened of the Ningyo until the end of the Ningyo's next turn.
+***Fearsome Glare (Monstrous Form Only).*** *Trigger:* A creature the Ningyo can see within 15 feet of her hits her with an attack, *Response--Wisdom Saving Throw:* DC 15, each creature in a 15-foot cone. *Failure:* The target is Frightened of the Ningyo until the end of the Ningyo's next turn.
 
 }}
 
@@ -2481,7 +2903,7 @@ Text about Hidemaro
 
 ***Multiattack.*** ???.
 
-***???*** *??? Attack Roll:* +? to hit, reach ? ft., one target. *Hit:* ? (?d? + ?) ??? damage.
+***???*** *??? Attack Roll:* +? to hit, reach ? ft. *Hit:* ? (?d? + ?) ??? damage.
 
 ### Bonus Actions
 
@@ -2633,92 +3055,3 @@ Mum and Dad Usagi.
 | Maigomin | 1 | 2 |
 
 }} -->
-
-<!--
-
-STATBLOCK TEMPLATE
-
-{{monster,frame
-
-## ???
-
-*??? ???, ??? ???*
-
-{{stats
-
-{{vitals
-
-**AC**         :: ?? (???)
-**HP**         :: ?? (?d? + ?)
-\column
-**Initiative** :: +? (??)
-**Speed**      :: ?? ft., ??? ?? ft.
-
-}}
-
-{{tables
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| ? |  +?  |  +?  |
-|Int| ? |  +?  |  +?  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| ? |  +?  |  +?  |
-|Wis| ? |  +?  |  +?  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| ? |  +?  |  +?  |
-|Cha| ? |  +?  |  +?  |
-
-}}
-
-**Skills**      :: ??? +?
-**Resistances** :: ???
-**Immunities**  :: ???; ???
-**Senses**      :: ???, Passive Perception ??
-**Gear**        :: ???
-**Languages**   :: Sumirikugo, ???
-**CR**          :: ? (XP ?; PB +?)
-
-}}
-
-### Traits
-
-***???.*** ???
-
-***Legendary Resistance (?/Day).*** If ??? fails a Saving Throw, ??? can choose to succeed instead.
-
-***??? (Antagonist Trait, Recharges after a Short or Long Rest).*** ???.
-
-### Actions
-
-***Multiattack.*** ???.
-
-***???*** *??? Attack Roll:* +? to hit, reach ? ft., one target. *Hit:* ? (?d? + ?) ??? damage.
-
-### Bonus Actions
-
-***???.*** *??? Saving Throw:* DC ??, ???. *Failure:* ???. *Success:* ???.
-
-### Reactions
-
-??? can take up to ??? Reactions per round but only one per turn.
-
-***???.*** *Trigger:* ???. *Response* ???.
-
-### Legendary Actions
-
-***???.*** ???.
-
-***??? (Antagonist Action).*** ???.
-
-### Villain Actions
-
-***???.*** ???.
-
-}}
-
--->
