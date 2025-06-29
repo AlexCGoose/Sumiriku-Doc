@@ -1754,6 +1754,16 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 }}
 
+{{imageMaskEdge1,--offset:10%,--rotation:0
+  ![raiju](https://i.imgur.com/FWfXlMb.jpeg){position:absolute,bottom:-600px,left:-1px,height:100%}
+}}
+
+{{position:absolute,top:730px,left:320px,margin-bottom:-50px,text-align:left
+
+##### A Raiju
+
+}}
+
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
@@ -2834,6 +2844,26 @@ Text about Hidemaro
 ***Batting Eyelids (Alluring Form Only).*** *Trigger:* A creature the Ningyo can see attempts to hit her with an attack. *Response--Wisdom Saving Throw:* DC 15, the target triggering the attack. *Failure:* The target either choose a new target for the attack or lose the attack.
 
 ***Fearsome Glare (Monstrous Form Only).*** *Trigger:* A creature the Ningyo can see within 15 feet of her hits her with an attack, *Response--Wisdom Saving Throw:* DC 15, each creature in a 15-foot cone. *Failure:* The target is Frightened of the Ningyo until the end of the Ningyo's next turn.
+
+}}
+
+{{imageMaskCorner21,--offsetX:-60%,--offsetY:-50%,--rotation:0
+  ![alluring](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/095488ed-f01d-4fe3-b642-3024e163728a/da916si-54eafc5c-1c1b-45af-80af-ba1b11766273.png/v1/fit/w_600,h_860,q_70,strp/mermaid_ii_by_paolapieretti_da916si-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODYwIiwicGF0aCI6IlwvZlwvMDk1NDg4ZWQtZjAxZC00ZmUzLWI2NDItMzAyNGUxNjM3MjhhXC9kYTkxNnNpLTU0ZWFmYzVjLTFjMWItNDVhZi04MGFmLWJhMWIxMTc2NjI3My5wbmciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.-0Vk2jAGkekkqk6ulM-_vifdEPmDMLyXOAb1x5CQei4){position:absolute,bottom:-10px,left:-25px,height:50%}
+}}
+
+{{imageMaskCorner21,--offsetX:61%,--offsetY:-50%,--rotation:0
+  ![monstrous](https://i.imgur.com/40E5YKj.png){position:absolute,bottom:-1px,right:-100px,height:50%}
+}}
+
+{{position:absolute,top:880px,left:340px,margin-bottom:-50px,text-align:left
+
+##### An Alluring</br>Ningyo
+
+}}
+
+{{position:absolute,top:1020px,right:330px,margin-bottom:-50px,text-align:right
+
+##### A Monstrous</br>Ningyo
 
 }}
 
