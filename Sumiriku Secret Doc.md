@@ -92,7 +92,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
     - [{{ Yokai}}{{ 41}}](#p42)
       - [{{ Ningyo}}{{ 41}}](#p42)
 
-- ### [{{ PART 2 - The Living Lore}}{{ 43}}](#p44) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:883px,left:55px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 2 - The Living Lore}}{{ 43}}](#p44) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:925px,left:55px,width:245px,mix-blend-mode:normal}
 
   - ###### [{{ Letters and Documents}}{{ 44}}](#p45)
   
@@ -3045,7 +3045,7 @@ Haruto Kenzo.
 
 \page
 
-#### The Usagi's Letter to Jun
+#### The Usagis' Letter to Jun
 
 Hello Juni-chan! The elder helped us pass on this letter to you, so we hope it finds you very well. We've been told of all the amazing things you've been up to; it sounds like you've had quite an incredible journey so far! Apparently you've grown your third tail just a few weeks ago, which is just so wonderful. To think that when you left you were just our sweet little baby. And we've been told that you've made some new friends, which is great news - Dad thought that you would stick by yourself the whole trip, but I knew that you'd meet so many amazing new people to adventure with. You better promise that when you get back you'll tell us all the stories of what you've been up to, okay?
 
