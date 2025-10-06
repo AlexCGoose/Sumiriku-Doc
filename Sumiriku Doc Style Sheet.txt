@@ -220,13 +220,12 @@ Extra Light Orange	= #fde4c7 = 25% Opacity of Orange */
 
 .toc h3 {
 	font-size      : 115%;
-	margin-bottom  : 0.3em;
 }
 
 .toc h4, .toc h5, .toc h6 {
 	font-size      : 100%;
-	margin-top     : -0.55em;
 	margin-bottom  : 0em;
+	margin-top     : -0.2em;
 }
 
 /* Fixes size of "Player's Guide" on page 2 */

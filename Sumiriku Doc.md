@@ -8,7 +8,7 @@
 
 # The Shattered States of Sumiriku
 
-## Player's Guide v0.769
+## Player's Guide
 
 ![line](https://i.imgur.com/FN4VAkw.png) {position:absolute,top:321px,left:175px,width:450px}
 
@@ -18,7 +18,7 @@
 
 {{footnote
 
-The contents of this document is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
+The contents of this document is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. Version Number 0.108.
 
 }}
 
@@ -34,11 +34,11 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 {{toc
 
-- ### [{{ Foreword - On Culture, Adaptation, and Appropriation}}{{ 3}}](#p4) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:142px,left:55px,width:245px,mix-blend-mode:normal}
+- ### [{{ Foreword - On Culture, Adaptation, and Appropriation}}{{ 3}}](#p4) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:128px,left:55px,width:245px,mix-blend-mode:normal}
 
 - ###### [{{ Language and Translation}}{{ 3}}](#p4)
 
-- ### [{{ PART 1 - History and Religion}}{{ 4}}](#p5) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:202px,left:55px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 1 - History and Religion}}{{ 4}}](#p5) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:175px,left:55px,width:245px,mix-blend-mode:normal}
 
 - ###### [{{ The Land of Ink and Blood}}{{ 5}}](#p6)
 
@@ -70,7 +70,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 - ###### [{{ Major Deities}}{{ 15}}](#p16)
 
-- ###### [{{ Historical Periods - TODO}}{{ 19}}](#p20)
+- ###### [{{ Historical Periods}}{{ 19}}](#p20)
 
   - [{{ Akegata Jidai (Dawning Era)}}{{ 19}}](#p20)
   - [{{ Kaika Jidai (Blooming Era)}}{{ 19}}](#p20)
@@ -80,15 +80,15 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
   - [{{ Assei Jidai (Tyrannical Era)}}{{ 22}}](#p23)
   - [{{ Bunretsu Jidai (Divided Era)}}{{ 23}}](#p24)
   - [{{ Tōgō Jidai (Unification Era)}}{{ 24}}](#p25)
-    - [{{ The Tale of the Emperor's Climb - TODO}}{{ 25}}](#p26)
-  - [{{ Guntai Jidai (Military Era) - TODO}}{{ 26}}](#p27)
-  - [{{ Koware Jidai (Shattered States Era) - TODO}}{{ 27}}](#p28)
+    - [{{ The Tale of the Emperor's Climb}}{{ 25}}](#p26)
+  - [{{ Guntai Jidai (Military Era)}}{{ 26}}](#p27)
+  - [{{ Koware Jidai (Shattered States Era)}}{{ 27}}](#p28)
 
 }}
 
 {{toc
 
-- ### [{{ PART 2 - Character Options}}{{ 28}}](#p29) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:129px,left:285px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 2 - Character Options}}{{ 28}}](#p29) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:115px,left:285px,width:245px,mix-blend-mode:normal}
 
 - ###### [{{ Character Species}}{{ 29}}](#p30)
 
@@ -102,10 +102,10 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
   - [{{ Kawauso (Otter)}}{{ 40}}](#p41)
   - [{{ Kitsune (Fox)}}{{ 41}}](#p42)
   - [{{ Kisuru (Crane)}}{{ 43}}](#p44)
-  - [{{ Bunagaya (Halfling) - TODO}}{{ 45}}](#p46)
-  - [{{ Korpokkur (Dwarf) - TODO}}{{ 46}}](#p47)
+  - [{{ Bunagaya (Halfling)}}{{ 45}}](#p46)
+  - [{{ Korpokkur (Dwarf)}}{{ 46}}](#p47)
   - [{{ Ryūson (Dragonborn)}}{{ 47}}](#p48)
-  - [{{ Human - TODO}}{{ 50}}](#p51)
+  - [{{ Human}}{{ 50}}](#p51)
 
 - ###### [{{ Aberrant Forms}}{{ 51}}](#p52)
 
@@ -116,34 +116,34 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 - ###### [{{ Classes and Subclasses}}{{ 55}}](#p56)
 
   - [{{ Barbarian}}{{ 55}}](#p56)
-    - [{{ Path of the Kaijū - TODO}}{{ 56}}](#p57)
+    - [{{ Path of the Kaijū}}{{ 56}}](#p57)
   - [{{ Bard}}{{ 57}}](#p58)
-    - [{{ College of Ink - TODO}}{{ 58}}](#p59)
+    - [{{ College of Ink}}{{ 58}}](#p59)
   - [{{ Blood Hunter}}{{ 59}}](#p60)
     - [{{ Order of the Shifthunters}}{{ 59}}](#p60)
-  - [{{ Cleric - TODO}}{{ 61}}](#p62)
-    - [{{ Duality Domain - TODO}}{{ 61}}](#p62)
-    - [{{ Sea Domain - TODO}}{{ 62}}](#p63)
-    - [{{ Sky Domain - TODO}}{{ 62}}](#p63)
-  - [{{ Druid - TODO}}{{ 63}}](#p64)
-    - [{{ Circle of Blossoms - TODO}}{{ 63}}](#p64)
-    - [{{ Circle of Disaster - TODO}}{{ 64}}](#p65)
-  - [{{ Fighter - TODO}}{{ 65}}](#p66)
-    - [{{ Tempest Blade - TODO}}{{ 65}}](#p66)
-  - [{{ Monk - TODO}}{{ 65}}](#p66)
-    - [{{ Way of the Raging Demon - TODO}}{{ 65}}](#p66)
-  - [{{ Paladin - TODO}}{{ 65}}](#p66)
-    - [{{ Oath of Bushidō - TODO}}{{ 65}}](#p66)
-  - [{{ Ranger - TODO}}{{ 65}}](#p66)
-    - [{{ Spirit Trainer - TODO}}{{ 65}}](#p66)
-  - [{{ Rogue - TODO}}{{ 67}}](#p68)
+  - [{{ Cleric}}{{ 61}}](#p62)
+    - [{{ Duality Domain}}{{ 61}}](#p62)
+    - [{{ Sea Domain}}{{ 62}}](#p63)
+    - [{{ Sky Domain}}{{ 62}}](#p63)
+  - [{{ Druid}}{{ 63}}](#p64)
+    - [{{ Circle of Blossoms}}{{ 63}}](#p64)
+    - [{{ Circle of Disaster}}{{ 64}}](#p65)
+  - [{{ Fighter}}{{ 65}}](#p66)
+    - [{{ Tempest Blade}}{{ 65}}](#p66)
+  - [{{ Monk}}{{ 65}}](#p66)
+    - [{{ Way of the Raging Demon}}{{ 65}}](#p66)
+  - [{{ Paladin}}{{ 65}}](#p66)
+    - [{{ Oath of Bushidō}}{{ 65}}](#p66)
+  - [{{ Ranger}}{{ 65}}](#p66)
+    - [{{ Spirit Trainer}}{{ 65}}](#p66)
+  - [{{ Rogue}}{{ 67}}](#p68)
     - [{{ Dagger Dancer Archetype}}{{ 67}}](#p68)
-  - [{{ Sorcerer - TODO}}{{ 68}}](#p67)
-    - [{{ Soulflame Sorcery - TODO}}{{ 68}}](#p69)
-  - [{{ Warlock - TODO}}{{ 68}}](#p69)
-    - [{{ Dragonlord Patron - TODO}}{{ 68}}](#p69)
-  - [{{ Wizard - TODO}}{{ 68}}](#p69)
-    - [{{ Astrologer - TODO}}{{ 68}}](#p69)
+  - [{{ Sorcerer}}{{ 68}}](#p67)
+    - [{{ Soulflame Sorcery}}{{ 68}}](#p69)
+  - [{{ Warlock}}{{ 68}}](#p69)
+    - [{{ Dragonlord Patron}}{{ 68}}](#p69)
+  - [{{ Wizard}}{{ 68}}](#p69)
+    - [{{ Astrologer}}{{ 68}}](#p69)
 
 }}
 
@@ -156,35 +156,35 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 - ###### [{{ Weapons, Armour, and Equipment}}{{ 75}}](#p76)
 
-  - [{{ Weapons - TODO}}{{ 75}}](#p76)
+  - [{{ Weapons}}{{ 75}}](#p76)
   - [{{ Armour}}{{ 81}}](#p82)
-  - [{{ Equipment - TODO}}{{ 82}}](#p83)
+  - [{{ Equipment}}{{ 82}}](#p83)
 
 - ###### [{{ Feats}}{{ 83}}](#p82)
 
-  - [{{ Species Feats - TODO}}{{ 83}}](#p84)
+  - [{{ Species Feats}}{{ 83}}](#p84)
   - [{{ General Feats}}{{ 91}}](#p92)
 
-- ### [{{ PART 3 - Geography and Culture}}{{ 96}}](#p97) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:300px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 3 - Geography and Culture}}{{ 96}}](#p97) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:312px,left:515px,width:245px,mix-blend-mode:normal}
 
-- ###### [{{ Maps of Sumiriku and the World - TODO}}{{ 97}}](#p98)
+- ###### [{{ Maps of Sumiriku and the World}}{{ 97}}](#p98)
 
-- ###### [{{ Landscapes and Landmarks - TODO}}{{ 99}}](#p100)
+- ###### [{{ Landscapes and Landmarks}}{{ 99}}](#p100)
 
-- ###### [{{ Calendar and Notable Events - TODO}}{{ 102}}](#p103)
+- ###### [{{ Calendar and Notable Events}}{{ 102}}](#p103)
 
   - [{{ Seasons}}{{ 102}}](#p103)
   - [{{ Important Days}}{{ 102}}](#p103)
     - [{{ Shōtenbi (Ascension Day)}}{{ 102}}](#p103)
-    - [{{ Tanabata (Seventh Evening) - TODO}}{{ 102}}](#p103)
+    - [{{ Tanabata (Seventh Evening)}}{{ 102}}](#p103)
     - [{{ Ganjitsu (New Year's Day)}}{{ 103}}](#p104)
     - [{{ Hyakki Chitsuki (Hundred Oni Blood Moon)}}{{ 103}}](#p104)
 
-- ###### [{{ Important People and Groups - TODO}}{{ 105}}](#p106)
+- ###### [{{ Important People and Groups}}{{ 105}}](#p106)
 
-- ###### [{{ Sacred Treasures and other Magic Items - TODO}}{{ 106}}](#p107)
+- ###### [{{ Sacred Treasures and other Magic Items}}{{ 106}}](#p107)
 
-- ### [{{ EXTRA - Appendices}}{{ 107}}](#p108) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:594px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ EXTRA - Appendices}}{{ 107}}](#p108) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:566px,left:515px,width:245px,mix-blend-mode:normal}
 
 - ###### [{{ Appendix A - Creature Stat Blocks}}{{ 108}}](#p109)
 
@@ -194,11 +194,11 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 - ###### [{{ Appendix D - Rule Change Glossary}}{{ 132}}](#p133)
 
-- ###### [{{ Appendix E - Reference Images - TODO}}{{ 141}}](#p142)
+- ###### [{{ Appendix E - Reference Images}}{{ 140}}](#p141)
 
-- ### [{{ CREDITS - TODO}}{{ 146}}](#p147) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:744px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ CREDITS}}{{ 145}}](#p146) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:719px,left:515px,width:245px,mix-blend-mode:normal}
 
-- ###### [{{ Special Thanks}}{{ 146}}](#p147)
+- ###### [{{ Special Thanks}}{{ 145}}](#p146)
 
 }}
 
@@ -332,7 +332,7 @@ Magic permeates all things throughout the realms, but this mystical nature is mo
 
 ![yokai](https://i.imgur.com/jAktCLu.png) {position:absolute,left:50px,bottom:50px,width:425px,filter:brightness(80%),opacity:95%}
 
-{{position:absolute,bottom:120px,left:360px,margin-bottom:-30px,align:right
+{{position:absolute,bottom:140px,left:370px,margin-bottom:-30px,align:right
 
 ##### A Tsukumogami </br> called Karakasa-obake
 
@@ -375,7 +375,7 @@ Each of the elemental planes, or Godaikai, are believed to be controlled by a Go
   ![asmodeus](https://cdnb.artstation.com/p/assets/images/images/022/887/595/large/omu-rizer-oni-b-small.jpg?1577107001){position:absolute,right:-250px,bottom:-1px,height:110%}
 }}
 
-{{position:absolute,bottom:80px,left:-360px,margin-bottom:-30px,text-align:right
+{{position:absolute,bottom:80px,left:-370px,margin-bottom:-30px,text-align:right
 
 ##### A depiction of </br> an Oni Lord
 
@@ -472,11 +472,11 @@ The dwelling place of the 14 Ō-Hoshikuzushin, progenitors of all else that is. 
 
 ## Kumonoue (雲の上, </br> 'Above the Clouds')
 
-The realm of most of the Myōjin, the primary deities and greatest Kami of Sumiriku, alongside their Kami followers. The realm is believed to be a paradise of white clouds, gentle breezes, and the lightest rain. In the past the Myōjin were able to travel to and from Kumonoue with the Niji-no-Ukihashi (虹の浮橋, 'Floating Rainbow Bridge'), but after its destruction they are more cut off from the world. Despite this separation, the presence of each of these Myōjin can be felt at the many shrines across the realms that are dedicated to them. These Shrines to the Myōjin are almost always built at an elevation, so the worshipers will feel closer to Kumonoue.
+The realm of most of the Myōjin, the primary deities and greatest Kami of Sumiriku, alongside their Kami followers. The realm is believed to be a paradise of white clouds, gentle breezes, and the lightest rain. In the past the Myōjin were able to travel to and from Kumonoue with the Niji-no-Ukihashi (虹の浮橋, 'Floating Rainbow Bridge'), but after its destruction they are more cut off from the world. Despite this separation, the presence of each of these Myōjin can be felt at the many shrines across the realms that are dedicated to them. These shrines to the Myōjin are almost always built at an elevation, so the worshipers will feel closer to Kumonoue.
 
 ## Utsushiyo (現し世, </br> 'The Manifest World')
 
-The world of the real and tangible, of the living and breathing, of ink and blood. Considered to be the locus around which all other Realms pivot. Alongside Sumiriku and the lands beyond, the twin suns, Hikariōna (光嫗, 'Light Mother') and Ikariōna (怒り嫗, 'Rage Mother'), as well as the moon, Eisei (衛星, 'Satellite'), are considered part of Utsushiyo. The primary species of Sumiriku all dwell here. Many of the Kami, of all types and varieties, dwell within Utsushiyo's parallel spirit plane; the heightened presence of this plane is often marked by shrines and Torii gates. In the present day the appreciation of this great landscape has diminished, as Utsushiyo has just become a battlefield for the nation-wide War.
+The world of the real and tangible, of the living and breathing, of ink and blood. Considered to be the locus around which all other Realms pivot. Alongside Sumiriku and the lands beyond, the twin suns, Hikariōna (光嫗, 'Light Mother') and Ikariōna (怒り嫗, 'Rage Mother'), as well as the moon, Eisei (衛星, 'Satellite'), are considered part of Utsushiyo. The primary species of Sumiriku all dwell here. Many of the Kami, of all types and varieties, dwell within Utsushiyo's parallel spirit plane; the heightened presence of this plane is often marked by shrines and Torii gates. In the present day the appreciation of this great landscape has diminished, as Utsushiyo has just become a battlefield for the nation-wide war.
 
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
@@ -592,17 +592,9 @@ Creatures that come from one of these realms are chaotic beings that reflect and
 
 # Zodiac and the Creation Myth
 
-![zodiac](https://i.imgur.com/r2X5mqw.png) {width:530px,position:absolute;left:50%;transform:translateX(-50%)}
-
-{{position:absolute,top:575px,left:550px,margin-bottom:-30px,align:right
-
-##### The Zodiac </br> wheel
-
-}}
-
 ::::::::::::::::::::::::::::::::::::::
 
-{{#fancy I}}{{#after-fancy n the beginning of creation, there was said}} to be nothing but Void, a sea of deep stillness, a place lacking in any contrast or duality. Magically, from this space the first spark and twinkle of starlight appeared. Eventually more and more of this starlight formed, danced together, and took shape as the first of the Ō-Hoshikuzushin (大星屑神, 'Great Stardust Deity'), Ō-Seiza-Ryū (大星座竜, 'Great Constellation Dragon'). In turn, 13 more </br>Ō-Hoshikuzushin were born from the nothingness, and they brought with them emotion and conflict, passion and calm, into the realm that would become known as Hoshikuzuten (星屑天, 'Stardust Heaven').
+{{#fancy I}}{{#after-fancy n the beginning of creation, there was}}</br>said to be nothing but Void, a sea of deep stillness, a place lacking in any contrast or duality. Magically, from this space the first spark and twinkle of starlight appeared. Eventually more and more of this starlight formed, danced together, and took shape as the first of the Ō-Hoshikuzushin (大星屑神, 'Great Stardust Deity'), Ō-Seiza-Ryū (大星座竜, 'Great Constellation Dragon'). In turn, 13 more </br>Ō-Hoshikuzushin were born from the nothingness, and they brought with them emotion and conflict, passion and calm, into the realm that would become known as Hoshikuzuten (星屑天, 'Stardust Heaven').
 
 After spending many moments together, the Ō-Hoshikuzushin found themselves complacent, in a world that was falling back to stillness. This was when Ō-Seiza-Nezumi (大星座鼠, 'Great Constellation Mouse') had an ingenious idea to bring energy, life, and death back to the world, which she shared with her close friend </br>Ō-Seiza-Ryū. Ō-Seiza-Ryū, delighted by the idea,
 
@@ -615,6 +607,14 @@ conjured up a scroll out of the starlight that surrounded them, and unfurled it 
 This creation fuels the idea of In'yō, the belief in the cosmic balance of light and dark; the black ink gives meaning to the white paper and the white paper gives meaning to the black ink.
 
 The Zodiac is a cycle of the 14 </br>Ō-Hoshikuzushin, which repeats after every 14 years. Every year is represented by one of these animals, who signify the tone of the year and the personalities of the people who were born during said year. The complete Zodiac, in order, goes; Dragon, Rabbit, Monkey, Turtle, Raccoon-Dog, Fox, Koi, Mouse, Lion-Cat, Roc, Boar, Otter, Crane, Badger.
+
+![zodiac](https://i.imgur.com/r2X5mqw.png) {position:absolute,top:100px,left:130px,width:530px}
+
+{{position:absolute,top:575px,left:550px,margin-bottom:-30px,align:right
+
+##### The Zodiac </br> wheel
+
+}}
 
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
@@ -719,7 +719,7 @@ minds and the ability to take humanoid forms. They continued to see each other e
 
 \page
 
-# Historical Periods - TODO
+# Historical Periods
 
 Historians and scholars of Sumiriku divide time into specific periods, known as Jidai (時代, 'Era'). These eras are divided up based on the political and spiritual landscape of Sumiriku at the time; a change in era frequently coincides with a change in political leadership.
 
@@ -779,9 +779,7 @@ During this era treasures were gifted to the world, treasures that would go on t
 
 — Reki, Lorekeeper
 
-}}
-
-TODO - INCORPORATE TEXT INTO TALES, REMOVE COOL FONT -->
+}} -->
 
 The following is a passage from 'The History of Sumiriku', a set of tales recorded and collated by the Living Lorekeepers:
 
@@ -789,7 +787,7 @@ The following is a passage from 'The History of Sumiriku', a set of tales record
 
 "At this time the world was still adolescent, not yet fully formed out of chaotic nothingness. It was from this chaos that dangers to the world arose, threats that oft wished to return existence to the darkness from whence it came. These threats came in many forms, from natural to supernatural. Our ancestors, though talented in their own right and perhaps more spiritually attuned than we are, relied on the talents of the Kami to protect themselves.
 
-On one fateful day the the greatest of these dangers revealed themselves—the Oni. An Oni is an infernal beings of malevolence and destruction, horned, three-eyed, and fork-tongued. These creatures manifested from fear and anger in the realm of Makoku, to festering within the earth. Being trapped in a land without sky, unable to be blessed by the suns and the stars, caused these Oni to grow a deep resentment for our home and our parallel spiritual world. As this resentment grew, so did a desire, and so did a plan.
+On one fateful day the the greatest of these dangers revealed themselves—the Oni. An Oni is an infernal beings of malevolence and destruction, horned, three-eyed, and fork-tongued. These creatures manifested from fear and anger in the realm of Makoku, festering within the earth. Being trapped in a land without sky, unable to be blessed by the suns and the stars, caused these Oni to grow a deep resentment for our home and our parallel spiritual world. As this resentment grew, so did a desire, and so did a plan.
 
 The Blood War began the moment the Oni shattered the barrier between realms. No longer were we safe, safely separated from danger; the Oni were here, and they were coming. Using their dark magic they blotted out the sky, protecting them from the radiance of the twin suns and forcing the world into endless night. Their aim was to feast on spirits, to gorge themselves on our and the Kami's lifeblood alike. The Oni came as a chaotic swarm, but quickly organised; lesser Oni started to follow the leadership of commanders and lords, such as the fearsome Daimyō Asudeu.
 
@@ -811,7 +809,7 @@ When the Oni arrived Tomomi-sama was ready to face them head on. Wielding the mi
 
 }}
 
-<!-- TODO - MAKE A SPOKEN HISTORY - MAYBE TO A SCHOOL/GROUP OF CHILDREN -->
+<!-- SUGGESTION - MAKE A SPOKEN HISTORY - MAYBE TO A SCHOOL/GROUP OF CHILDREN -->
 
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
@@ -924,15 +922,19 @@ Kamuy-Kemnu ('God-Bleed') is the Anagumago name for the tallest mountain in Ryug
 
 The nation struggled to adjust to the power vacuum left by Tamata-no-Orochi's defeat. Without centralised leadership the people became fractured, and local lords moved in to pick up the pieces. Though there was much greater peace and prosperity than there was under the tyrant, many of these lords, or Daimyō, had learned from her methods. As a result of Tamata-no-Orochi's actions many of the land's treasures and artifacts were lost, being scattered, destroyed, or left to rust in tombs. The people of Sumiriku were also in the process of rebuilding their spiritual connection to the Kami and Myōjin, previously severed by the destruction of shrines and of Niji-no-Ukihashi. Sumiriku's dark age left the people and the land weakened, no longer ready to defend themselves.
 
-It is in this divided time that Tokuzō-tennō was born. The son of humble rice farmers in western Sesujishima, Tokuzō-tennō had felt a strong connection to the spiritual realm from an early age. He sought to learn the ways of Daidō and become a Kannushi, but abandoning the farm and traveling to the nearest shrine complex was not something him and his family could afford. Instead Tokuzō-tennō filled his spare time with reconstructing the local shrine, which had been destroyed in the previous era. While labouring to painstakingly replicate each detail by hand, he also taught others of the Kami and Myōjin, telling tales of these spirits and helping those who listened feel the connection that he felt.
+It is in this divided time that Tokuzō-tennō was born. The son of humble rice farmers in western Sesujishima, Tokuzō-tennō had felt a strong connection to the spiritual realm from an early age. He sought to learn the ways of Daidō and become a kannushi, but abandoning the farm and traveling to the nearest shrine complex was not something him and his family could afford. Instead Tokuzō-tennō filled his spare time with reconstructing the local shrine, which had been destroyed in the previous era. While labouring to painstakingly replicate each detail by hand, he also taught others of the Kami and Myōjin, telling tales of these spirits and helping those who listened feel the connection that he felt.
 
 When complete, the shrine stood as remarkable symbol of individual dedication and worship. As he gazed at his years of work, Tokuzō-tennō was stunned to find himself greeted by an unusual visitor—a fox spirit sent by Kajin-sama herself. Tokuzō-tennō had believed he had visions in his sleep of the Kami communing with him, but until this moment he had written them off as having a vivid imagination. The fox congratulated him on his labours, and explained to him that through his work he had become a voice for the Kami, a conduit between physical and spiritual existence.
+
+\column
+
+**TODO - REVISION - IMPORTANT**
 
 <!-- As he gazed at his years of work, Tokuzō-tennō was stunned to find himself greeted by an unusual visitor—a fox spirit sent by Kajin-sama herself. The Myōjin had a vital mission for him, the fox explained. The world needed a unifier, a spiritual centre, someone to be a voice for the Kami. Tokuzō-tennō understood the gravity of this responsibility but, despite not fully knowing the task set before him, he was quick to accept.
 
 The fox said that to be ordained as the leader of Sumiriku and its people he would need to gather the Starlight Regalia, the treasures left to the world by the Ō-Hoshikuzushin. She believed that with the holy power of these relics in Tokuzō-tennō's possession both mortals and spirits would accept him as their true ruler and rally around him no matter what. However, she also cautioned him that if could not retrieve these treasures, the people of Sumiriku may be in great peril. On the mainland, across Kaminoumi, the fearsome Sunset Horde had conquered much of the region. Now, the nomadic warrior tribe had set their next target to cross the sea and invade Sumiriku. If Tokuzō-tennō was unable to wield the power of the Regalia the people would be swiftly crushed by the Horde. -->
 
-<!-- TODO - MAKE MORE VAGUE -->
+<!-- MAKE MORE VAGUE -->
 
 <!-- To aid in his quest, the fox gifted Tokuzō-tennō a golden Roc called Kinyoku (金翼, 'Golden Wing'), for him to soar through the skys of Sumiriku upon. Tokuzō-tennō saddled the glorious creature and took off on his mission with great haste. He knew well the tales of these treasures, how the descended from the highest heavens at times of great need, and he also knew the peoples these treasures were gifted to, peoples spread far and wide across Sumiriku. He traveled to these places in turn, the northern tropics of Sanzaishima, the flat plains of Ochinodojima, and the southern peaks of Ryugenshima, hoping to learn of some rumors or stories, clues as to what happened to these relics through the centuries. Instead he found that each one was kept safe in a family home or public shrine, still treasured by their native communities and worshiped so many generations since their arrival. Despite being welcomed by these communities, Tokuzō-tennō knew that they would be hesitant to part with something they held so dear, though the fate of the land required it.
 
@@ -959,17 +961,21 @@ He did not know if he would be able to take each Regalia by force, or steal them
 
 After the battle all agreed that Tokuzō-tennō should be Sumiriku's first leader, with domain over both body and spirit. Within the new city of Heian-kyō, near the finding place of Tasogare-no-Kagami, a grand palace was built to be the home of Tokuzō-tennō and his family, and to be the seat of power for the nation. On that year's summer solstice, within the inner sanctum of the palace, a coronation ceremony was held to ordain Tokuzō-tennō as the first Emperor of Sumiriku. The glory of the Starlight Regalia as well as the suns' zenith flowed into Tokuzō-tennō, granting him a unparalleled spiritual connection. This power, along with the symbols of the palace, the Myōjin Throne, and the Starlight Regalia, these all became representations of the Emperor's right to rule. This sacred day was known as the first Shōtenbi (昇天日, 'Ascension Day'), and marked a joyous end of the divided era.
 
-{{position:absolute,top:805px,left:75px,margin-bottom:-30px
+{{position:absolute,top:740px,right:190px,margin-bottom:-30px,text-align:center
 
-##### The failed invasion of the Sunset Horde
+##### The failed invasion of</br>the Sunset Horde
 
 }}
 
-{{imageMaskEdge1,--offset:33%,--rotation:0
+{{imageMaskEdge1,--offset:30%,--rotation:0
+  ![invasion](https://i.imgur.com/cuCrlMu.jpeg){position:aboslute,top:770px,left:-10px,width:105%}
+}}
+
+<!-- {{imageMaskEdge1,--offset:33%,--rotation:0
   ![invasion](https://www.fujiarts.com/japanese-prints/k358/083k358f.jpg){position:aboslute,top:770px,left:-10px,width:105%}
-}}
+}} -->
 
-<!-- TODO - FINISH REWRITE TO SHOW THAT HE LEARNED TO NEGOTIATE WITH PEOPLE -->
+<!-- FINISH REWRITE TO SHOW THAT HE LEARNED TO NEGOTIATE WITH PEOPLE -->
 
 <!-- Tokuzō-tennō began his mission with great haste, scouring the far reaches of Sumiriku to find the Starlight Regalia. As he traveled, he met with many locals and discussed with them folk tales and rumours, clues to the whereabouts of these great treasures.
 
@@ -995,7 +1001,7 @@ Unification was a slow and steady process. Word spread far of the first Shōtenb
 
 In his travels he brought all people into his fold, into what could now truly be considered the nation of Sumiriku. To delegate responsibility communities still followed the decrees of their local lords, giving each region under the Emperor some amount of autonomy. These people became Daimyō, leaders of familial land-owning clans and delegates to the imperial court. He also popularised the practice of Daidō, making it the nation's official religion.
 
-Once this nation and its government had been established Sumiriku entered a period of long-lasting stability. It was not a time without strife, but one with hope in greater measure. Tokuzo-tennō passed away shortly after seeing the unified nation, his soul recognising his journey was complete—he was buried and enshrined at the home-town shrine he had build those many decades prior. He left the position and responsibility of Emperor, the rites of the ascension and the Starlight Regalia, to his only daughter, Otoha-tennō. Thus began the imperial line, where the role of Sumiriku's spiritual leader would be passed from parent to child for all of history.
+Once this nation and its government had been established, Sumiriku entered a period of long-lasting stability. It was not a time without strife, but one with hope in greater measure. Tokuzo-tennō passed away shortly after seeing the unified nation, his soul recognising his journey was complete—he was buried and enshrined in his home town, at the very place he had laboured at those many decades prior. He left the position and responsibility of Emperor, the rites of the ascension and the Starlight Regalia, to his only daughter, Otoha-tennō. Thus began the imperial line, where the role of Sumiriku's spiritual leader would be passed from parent to child for all of history.
 
 <!-- Unification was a slow and steady process. Word began to spread of Sumiriku's first emperor, of how he defended the land from invaders, of his spiritual connection, and his recent coronation. Despite—or perhaps because of—the near millennia of strife the nation had lived through, many were hesitant to accept a new great ruler. Tokuzo-tennō knew, as he had known before his ascension, that a true leader is made not by feats of strength or holy blessings, but by the faith of their people. To this end he set out again, this time to spread the good word of his rule, of Sumiriku's newest era.
 
@@ -1008,17 +1014,27 @@ In his travels he brought all people into his fold, into what could now truly be
 
 \page
 
-&nbsp;Over generations the responsibility of the Emperor waned. They were still the voice of the Myōjin, the one who cared for both spirit and mortal, and they were also the muse and patron for a great variety of art, poetry, and culture. However, as time passed and the population grew, conflict returned, conflict that could not be resolved with artistic pleasantries. To defend themselves people turned to the armies of their Daimyō or to private militias, led by a noble class of warrior called the Samurai (侍). As these groups became more and more responsible for the lives of the citizens their power and influence grew, an influence that could soon surpass even the Emperor.
+&nbsp;<!-- The influence of the Emperor persisted for generations. Though Daidō was a dispersed religion the Emperor was always seen as its central figurehead, praised in ceremony far and wide. They were also considered the first pillar of Sumiriku's government, and in charge of their first army. Local lords were required to support each region and uphold the law, but all of them swore absolute fealty to the Emperor and their inner circle. Onmyōji Art Muse-->
 
-#### The Tale of the Emperor's Climb - TODO
+As time passed and the population grew conflict returned, conflict that could not be resolved with spiritual leadership and artistic pleasantries. This kind of conflict required well prepared leadership and skilled soldiers, neither of which the Emperor could provide. To defend themselves people instead turned to the armies of their Daimyō or to private militias, led by a noble class of warrior called the Samurai (侍). As these groups became more and more responsible for the lives of the citizens their power and influence grew, an influence that could soon surpass even the Emperor.
+</br>
+**TODO - REVISION - IMPORTANT**
+
+<!-- Expand this last paragraph into two paragraphs -->
+
+#### The Tale of the Emperor's Climb
 
 {{quote
 
-"The birth of the Emperor's daughter was a small miracle."
+"The birth of the Emperor's daughter was a small miracle. Tokuzo-tennō and his beloved wife, Isuzu-kōtei, had long tried to conceive and were sadly unsuccessful, so the news of her pregnancy was a joy shared with the whole nation. Pilgrims traveled from to Heian-kyo from far and wide to welcome the child's arrival, to see the dawn of the new imperial lineage. However, many of these travelers would still be on the road when Isuzu-kōtei unexpectedly went into labour. For the Imperial Highnesses, the hours surrounding their child's birth had become more fearful than celebratory. Their daughter was born small, cold, struggling to breathe. Our current apothecaries <!-- physicians --> would say that her birth was premature, and that her heart was shrunken and weak. Despite this, her parents held her, saw her barely open eyes, blushed cheeks, strands of brunette hair, and they knew how beautiful and strong she was. Thus the world was introduced to the imperial heir, Otoha-hime.
+
+The nation's greatest naturalists and kannushi were summoned with much urgency, and with their help she survived her first months, the fears of her parents and the nation alleviated. Despite the luxuries granted to her by her noble birth—riches, protection, and good medicine—life was still a challenge for the princess."
 
 {{attribution *The History of Sumiriku*}}
 
 }}
+
+**TODO - UNFINISHED - IMPORTANT**
 
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
@@ -1033,11 +1049,11 @@ In his travels he brought all people into his fold, into what could now truly be
 
 {{#date-heading
 
-### 0 - 1851 AA
+### 1852 - 2127 AA
 
 }}
 
-TODO
+**TODO - NOT STARTED - IMPORTANT**
 
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
@@ -1056,7 +1072,7 @@ TODO
 
 }}
 
-TODO
+**TODO - NOT STARTED - IMPORTANT**
 
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
@@ -1910,13 +1926,13 @@ Intelligence, Wisdom, or Charisma is your Spellcasting Ability for these spells 
 
 ::::::::::::::::::::
 
-## ぶながや - Bunagaya (Halfling) - TODO
-
-Text - TODO
+## ぶながや - Bunagaya (Halfling)
 
 Bunagaya, also known as Kijimuna (きじむな).
 
 There's a common Sumirikugo saying that goes "When playing cards, the shark at the table is the Bunagaya", meaning that your greatest foe is often the one that is most unassuming. This saying comes from the fact that, despite their affable and optimistic outlook, Bunagaya are either exceptionally skilled or exceptionally lucky gamblers, and some have taken pots against far more accomplished players while seeming to not properly understand the rules.
+
+**TODO - UNFINISHED - IMPORTANT**
 
 \column
 
@@ -1966,9 +1982,9 @@ Refer to the Appendix D for updated rules on Nets, an Adventuring Gear rather th
 
 ::::::::::::::::::::
 
-## ころぽっくる - Korpokkur (Dwarf) - TODO
+## ころぽっくる - Korpokkur (Dwarf)
 
-Text - TODO
+**TODO - NOT STARTED - IMPORTANT**
 
 \column
 
@@ -2094,7 +2110,7 @@ You can use this Breath Weapon a number of times equal to your Proficiency Bonus
 
 :
 
-&nbsp***Draconic Resistance.*** You have resistance to the damage type associated with your Dragon-Kami Ancestry.
+&nbsp;***Draconic Resistance.*** You have resistance to the damage type associated with your Dragon-Kami Ancestry.
 
 ***Orochi Ascendant.*** When you reach Character Level 5, you become able to tap into some of the power of your great Dragon ancestors. As an Action you can channel this power, becoming immune to the damage type associated with your Dragon-Kami Ancestry trait for 1 minute, or until you end the channelling with a Bonus Action. While you are channelling this power, once on your turn when you hit with an Attack Roll or deal damage with your Breath Weapon, you can have the attack or Breath Weapon deal an additional 1d6 damage of the type determined by your Dragon-Kami Ancestry trait. Once you use this trait, you can't do so again until you finish a Long Rest.
 
@@ -2146,9 +2162,9 @@ You can use this Breath Weapon a number of times equal to your Proficiency Bonus
 
 ::::::::::::::::::::::::::::::::
 
-## 人 - Human - TODO
+## 人 - Human
 
-Text - TODO
+**TODO - NOT STARTED - IMPORTANT**
 
 \column
 
@@ -2218,8 +2234,6 @@ When creating an Aberrant Form character, first pick an initial base species. Yo
 
 ## 鬼 - Oni Bloodline Form
 
-<!-- TODO - Decide on d6 vs D6, and 1 - 3 vs 1 to 3 -->
-
 Certain people have manifested features that show their blood connection to the Oni, infernal and malevolent spirits. This connection may be from somewhere in their family, or from some kind of pact or ritual. Some may make this connection as a desire for strength and power, but others may be born as such, and thus resent the cursed burden placed upon them. These people can be identified by physical characteristics, such as horns, fangs, or different coloured skin, that makes it clear to strangers their connection no matter how it was made.
 
 This infernal bloodline gives the people cursed with it enhanced strength and an intimidating aura, but they are also prone to enraged and violent outbursts. If these Oni-touched do not find ways to keep this rage in check, these acts frequently lead to them being &nbsp;shunned from society, abandoned by their &nbsp;families, and forced to wander Sumiriku &nbsp;&nbsp;alone.
@@ -2246,7 +2260,7 @@ As an Oni Bloodline, you gain these special traits:
 
 ***Ferocity.*** As an Oni you have a burning passion inside you that needs to be kept in check. Whenever you fail a D20 test you roll 1d4 and add that amount to your total Ferocity. Additionally, if you start your turn in combat while not Incapacitated, you increase your Ferocity by 1d4 plus the number of hostile creatures within 5 feet. If you are made Unconscious against your will, such as being reduced to 0 Hit Points, your Ferocity resets.
 
-***Rampage.*** If you start your turn with 15 or more Ferocity, you must succeed on a Wisdom Saving Throw (DC equal to your current Ferocity), or else you will be overcome with bloodlust. You must spend your turn moving up to your movement towards the nearest target and then attack them with Demon Fangs, expending all of your Ferocity to deal damage. If at least one ally and one enemy are both the closest creatures, roll 1d6; on a roll of 1 to 3 you attack an ally, and on a roll of 4 to 6 you attack an enemy. If no target is within range, you must take the Dash action and move as close as possible to the nearest target.
+***Rampage.*** If you start your turn with 15 or more Ferocity, you must succeed on a Wisdom Saving Throw (DC equal to your current Ferocity), or else you will be overcome with bloodlust. You must spend your turn moving up to your movement towards the nearest target and then attack them with Demon Fangs, expending all of your Ferocity to deal damage. If at least one ally and one enemy are both the closest creatures, roll a d6; on a roll of 1 to 3 you attack an ally, and on a roll of 4 to 6 you attack an enemy. If no target is within range, you must take the Dash action and move as close as possible to the nearest target.
 
 ***Demon Fangs.*** You have grown fangs that show your demonic association. Your fanged bite is a Natural weapon, which counts as a Simple Melee weapon with which you are proficient. While above 10 Ferocity, you have Advantage on attacks with this bite. It deals 1d4 Piercing damage on a hit. When you attack with this weapon and hit a creature, you can expend any amount of Ferocity to deal an equal amount of additional damage with the attack.
 
@@ -2318,7 +2332,7 @@ As a Yūrei Manifest, you gain these special traits:
 
 ***Ageless and Everlasting.*** You don't age, and effects that would cause you to age don't work on you. You also do not need to eat, drink, or breathe, but you do need to Sleep to prevent Exhaustion. When you do, instead of sleeping you disappear to Yomi, the undying realm.
 
-***Cling to Life.*** You roll 1d6 in place of 1d20 for Death Saving Throws. On a roll of 1 or 2 you get one failed save, on a roll of 3 or 4 you get one successful save, and on a roll of 5 or 6 you regain 1 Hit Point and become conscious. You cannot add any additional bonuses to this Saving Throw.
+***Cling to Life.*** You roll a d6 in place of a d20 for Death Saving Throws. On a roll of 1 or 2 you get one failed save, on a roll of 3 or 4 you get one successful save, and on a roll of 5 or 6 you regain 1 Hit Point and become conscious. You cannot add any additional bonuses to this Saving Throw.
 
 ***Pass Through Reality.*** You can use a Bonus Action to phase, allowing you to bypass the real and tangible. This phasing lasts until the end of your turn. While phasing, you can move through solid objects and creatures as if they were Difficult Terrain. If you stop phasing inside a creature or object, you are instantly shunted to the nearest unoccupied space and take 1d10 Force damage for every 5 feet you were forced to travel. You can phase a number of times equal to your Proficiency Bonus, and you regain all uses after you finish a Long Rest.
 
@@ -2422,6 +2436,8 @@ The intersection of skills between Barbarians and Monks are Sumōtori (相撲取
 
 ### Path of the Kaijū ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
+**TODO - REVISION**
+</br>
 *Wield the Titan's Wrath*
 </br>
 Those who walk the Path of the Kaijū are living proof of the existence of Sumiriku's most destructive creatures. Though it is unknown how they forged this bond with beings of myth, in their veins flows the same blood as these mysterious titans of destruction, wrath, and carnage. Rumours still swirl about the Kaijū's status, their power, and their intentions, but one trait is agreed upon; their driving force is rage.
@@ -2434,7 +2450,7 @@ As a Bonus Action you can swing your tail around to trip your foes. Each creatur
 
 #### Level 3: Kaijū Exploits
 
-You learn certain Exploits at the Alternate Barbarian levels in the table below. These don't count against your number of Exploits Known and can't be switched upon gaining a level.
+You learn certain Exploits at the Alternate Barbarian Levels in the table below. These don't count against your number of Exploits Known and can't be switched upon gaining a Level.
 
 {{#small-text-table
 
@@ -2452,7 +2468,7 @@ You learn certain Exploits at the Alternate Barbarian levels in the table below.
 
 #### Level 6: Titan's Slumber
 
-While you rest your power grows; those that disrupt this hibernation should beware. When you complete a Long Rest, you gain Temporary Hit Points equal to your Constitution modifier plus your level. While you have these Temporary Hit Points, your Unarmoured Defence increased to 13 plus your Dexterity and Constitution modifiers, as your armoured scales build themselves around you.
+While you rest your power grows; those that disrupt this hibernation should beware. When you complete a Long Rest, you gain Temporary Hit Points equal to your Constitution modifier plus your Character Level. While you have these Temporary Hit Points, your Unarmoured Defence increased to 13 plus your Dexterity and Constitution modifiers, as your armoured scales build themselves around you.
 
 In addition, your heightened senses keep you dangerous, even in your slumber. You are aware of your surroundings even while Sleeping, and if you enter a combat with the Surprised Condition you are able to begin the combat by entering your Rage, before any other creatures get the chance to act.
 
@@ -2542,8 +2558,10 @@ In the Equipment section later in this part is a list of instruments specific to
 
 \page
 
-### College of Ink - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### College of Ink ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
+**TODO - REVISION**
+</br>
 *Create Magic with your Brushstrokes*
 </br>
 The name Sumiriku translates to 'Land of Ink', in reference to the cosmic ink used by the </br>Ō-Hoshikuzushin to draw the islands' shores. Brushwork on canvas, in all its many forms, has always been a sacred and greatly appreciated art, from the elite classes to the common folk. Those that learn of the College of Ink turn their talent with the brush to pure, artistic magic.
@@ -2556,11 +2574,11 @@ You are able to choose the medium of your artistry and your magic. Choose either
 
 The ink of your brush enhances your spellcasting. When you use your medium's tool to cast a spell, you can replace the Verbal components that spell may have with writing or drawing with your brush.
 
-In addition, when you cast a spell that targets a creature or a point within 60 feet of you, you can expend one use of your Bardic Inspiration to create an Ink Zone, either as a line along the ground between yourself and the target or as a 10 foot radius circle on the ground centered on the target. This Ink Zone stays on the ground where it was drawn and lasts for 1 minute. If your medium is Writing, the path is Difficult Terrain, and each creature in contact with the path when it appears must succeed on a Dexterity Saving Throw against your Spell Save DC or have the Prone Condition. If your medium is Painting, creatures can travel 10 feet within
+In addition, when you cast a spell that targets a creature or a point within 60 feet of you, you can expend one use of your Bardic Inspiration to create an Ink Zone, either as a line along the ground between yourself and the target or as a 10 foot radius circle on the ground centered on the target. This Ink Zone stays on the ground where it was drawn and lasts for 1 minute. If your medium is Writing, the path is Difficult Terrain, and each creature in contact with the path when it appears must succeed on a Dexterity Saving Throw against your Spell Save DC or have the Prone Condition. If your medium is Painting, creatures can travel 10 feet
 
 \column
 
-the zone only using 5 feet of movement, and you can grant any number of creatures in contact Temporary Hit Points equal to 1d6 plus your Bard Level.
+within the zone only using 5 feet of movement, and you can grant any number of creatures in contact Temporary Hit Points equal to 1d6 plus your Bard Level.
 
 #### Level 6: Creative Endeavours
 
@@ -2618,6 +2636,8 @@ In the shadowy corners of the world there exist a select few, who have taken a m
 
 ### Order of the Shiftstalkers ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
+**TODO - REVISION**
+</br>
 *Transform and Track Yōkai Shapechangers*
 </br>
 To most people, Yōkai seem like nothing more than curious miscreants, mischief makers - few recognise the true danger these otherworldly beings can bring. Dwelling within Kimyōkai, creatures of great power plot and scheme at the downfall of the manifest world and their control over both realms. The world's protection comes from Yokai hunters calling themselves the Shiftstalkers, who have mastered using the Yokai's techniques of disguise, trickery, and manipulation against them.
@@ -2694,7 +2714,7 @@ You have learned the most foul of Yokai powers; the ability to feast on a foe's 
 
 ##### Note: Adapting to Original Blood Hunter
 
-test
+**TODO - NOT STARTED**
 
 }}
 
@@ -2705,9 +2725,9 @@ test
 
 \page
 
-## Cleric - TODO
+## Cleric
 
-Text - TODO
+**TODO - NOT STARTED**
 
 {{imageMaskCorner28,--offsetX:-52%,--offsetY:-50%,--rotation:0
   ![shrine](https://data.ukiyo-e.org/jaodb/images/Kawase_Hasui-Shinto_and_its_Architecture-Yasukuni_Shrine_Tokyo-00043700-120311-F12.jpg){position:absolute,left:-200px,bottom:-250px,height:90%,transform:scaleX(1)}
@@ -2725,11 +2745,13 @@ Text - TODO
 
 \column
 
-### Duality Domain - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Duality Domain ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
+**TODO - NOT STARTED**
+</br>
 *Bring Balance in All Things*
 </br>
-Dualness - Text - TODO
+???
 
 #### Level 3: Domain Spells
 
@@ -2746,21 +2768,21 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 }}
 
-#### Level 3: ??? - TODO
+#### Level 3: ???
 
-Text - TODO
+???
 
-#### Level 3: ??? - TODO
+#### Level 3: ???
 
-Text - TODO
+???
 
-#### Level 6: ??? - TODO
+#### Level 6: ???
 
-Text - TODO
+???
 
-#### Level 17: ??? - TODO
+#### Level 17: ???
 
-Text - TODO
+???
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -2769,11 +2791,13 @@ Text - TODO
 
 \page
 
-### Sea Domain - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Sea Domain ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
+**TODO - UNFINISHED**
+</br>
 *Embrace the Boundless Ocean*
 </br>
-Ocean - Text - TODO
+???
 
 #### Level 3: Domain Spells
 
@@ -2790,29 +2814,31 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 }}
 
-#### Level 3: ??? - TODO
+#### Level 3: ???
 
-Text - TODO
+???
 
-#### Level 3: ??? - TODO
+#### Level 3: ???
 
-Text - TODO
+???
 
-#### Level 6: ??? - TODO
+#### Level 6: ???
 
-Text - TODO
+???
 
-#### Level 17: ??? - TODO
+#### Level 17: ???
 
-Text - TODO
+???
 
 \column
 
-### Sky Domain - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Sky Domain ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
+**TODO - UNFINISHED**
+</br>
 *Soar with Clouds Adrift*
 </br>
-Soaring - Text - TODO
+???
 
 #### Level 3: Domain Spells
 
@@ -2829,21 +2855,21 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 }}
 
-#### Level 3: ??? - TODO
+#### Level 3: ???
 
-Text - TODO
+???
 
-#### Level 3: ??? - TODO
+#### Level 3: ???
 
-Text - TODO
+???
 
-#### Level 6: ??? - TODO
+#### Level 6: ???
 
-Text - TODO
+???
 
-#### Level 17: ??? - TODO
+#### Level 17: ???
 
-Can cast Wind Walk? Text - TODO
+??? <!-- SUGGESTION - WIND WALK? -->
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -2864,17 +2890,19 @@ Can cast Wind Walk? Text - TODO
 
 ::::::::::::::::::::::::::::::::::::
 
-## Druid - TODO
+## Druid
 
-Text - TODO
+**TODO - NOT STARTED**
 
 \column
 
-### Circle of Blossoms - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Circle of Blossoms ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
+**TODO - REVISION**
+</br>
 *Make Life and Colour Bloom*
 </br>
-Flowers - Text - TODO
+???
 
 #### Level 3: Circle Spells
 
@@ -2920,11 +2948,13 @@ Your plants can hinder as well as heal. Whenever you use your Healing Bloom feat
 
 You have perfected your ability to nurture your magical garden. Whenever you use your Healing Bloom feature, you create two Blooms instead of one.
 
-### Circle of Disaster - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:411px,left:55px,width:375px,mix-blend-mode:normal}
+### Circle of Disaster ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:411px,left:55px,width:375px,mix-blend-mode:normal}
 
+**TODO - REVISION**
+</br>
 *Control Nature's Climactic Forces*
 </br>
-Natural Disasters
+???
 
 #### Level 3: Circle of Disaster Spells
 
@@ -2986,21 +3016,21 @@ Whenever you finish a Long Rest, choose one type of disaster: earthquake, erupti
 
 }}
 
-#### Level 3: ??? - TODO
+#### Level 3: ???
 
-Fear on Spells - TODO
+??? <!-- Fear on Spells -->
 
-#### Level 6: ??? - TODO
+#### Level 6: ???
 
-Combine Disasters - TODO
+??? <!-- Combine Disasters -->
 
-#### Level 10: ??? - TODO
+#### Level 10: ???
 
-Summon Elemental - Text - TODO
+??? <!-- Summon Elemental -->
 
-#### Level 14: ??? - TODO
+#### Level 14: ???
 
-Earthquake, Incendiary Cloud, Tsunami, Whirlwind<sup>XGE</sup> - Text - TODO
+??? <!-- Earthquake, Incendiary Cloud, Tsunami, Whirlwind<sup>XGE</sup> -->
 
 {{imageMaskCorner18,--offsetX:62%,--offsetY:45%,--rotation:0
   ![pyromancy](https://i.imgur.com/MxTTme9.jpg){position:absolute,top:-1px,right:-250px,width:100%}
@@ -3019,115 +3049,123 @@ Earthquake, Incendiary Cloud, Tsunami, Whirlwind<sup>XGE</sup> - Text - TODO
 
 \page
 
-## Fighter - TODO
+## Fighter
 
-Text - TODO
+**TODO - NOT STARTED**
 
-### Tempest Blade - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:125px,left:55px,width:375px,mix-blend-mode:normal}
+### Tempest Blade ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:125px,left:55px,width:375px,mix-blend-mode:normal}
 
+**TODO - NOT STARTED**
+</br>
 *Strike like the Wind*
 </br>
-Text - TODO
+???
 
-#### Level 3: - TODO
+#### Level 3: ???
 
-Text - TODO
+???
 
-#### Level 7: - TODO
+#### Level 7: ???
 
-Text - TODO
+???
 
-#### Level 10: - TODO
+#### Level 10: ???
 
-Text - TODO
+???
 
-#### Level 15: - TODO
+#### Level 15: ???
 
-Text - TODO
+???
 
-#### Level 18: Last Breath - TODO
+#### Level 18: Last Breath
 
-Text - TODO
+???
 
-## Monk - TODO
+## Monk
 
-Text - TODO
+**TODO - NOT STARTED**
 
-### Way of the Raging Demon - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:487px,left:55px,width:375px,mix-blend-mode:normal}
+### Way of the Raging Demon ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:504px,left:55px,width:375px,mix-blend-mode:normal}
 
+**TODO - NOT STARTED**
+</br>
 *Surge of Killing Intent*
 </br>
-Text - TODO
+???
 
-#### Level 3: Satsui no Hado - TODO
+#### Level 3: Satsui no Hado
 
-Text - TODO
+???
 
-#### Level 6: Satsui no Hado - TODO
+#### Level 6: ???
 
-Text - TODO
+???
 
-#### Level 11: Satsui no Hado - TODO
+#### Level 11: ???
 
-Text - TODO
+???
 
-#### Level 17: Shun Goku Satsu - TODO
+#### Level 17: Shun Goku Satsu
 
-Text - TODO
+???
 
 \column
 
-## Paladin - TODO
+## Paladin
 
-Text - TODO
+**TODO - NOT STARTED**
 
-### Oath of Bushidō - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:125px,left:400px,width:375px,mix-blend-mode:normal}
+### Oath of Bushidō ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:125px,left:400px,width:375px,mix-blend-mode:normal}
 
+**TODO - NOT STARTED**
+</br>
 *Uphold your Code, Honour your Daimyō*
 </br>
-Text - TODO
+???
 
-#### Level 3: - TODO
+#### Level 3: ???
 
-Text - TODO
+???
 
-#### Level 7: - TODO
+#### Level 7: ???
 
-Text - TODO
+???
 
-#### Level 15: - TODO
+#### Level 15: ???
 
-Text - TODO
+???
 
-#### Level 20: - TODO
+#### Level 20: ???
 
-Text - TODO
+???
 
-## Ranger - TODO
+## Ranger
 
-Text - TODO
+**TODO - NOT STARTED**
 
-### Spirit Trainer - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:442px,left:400px,width:375px,mix-blend-mode:normal}
+### Spirit Trainer ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:459px,left:400px,width:375px,mix-blend-mode:normal}
 
+**TODO - NOT STARTED**
+</br>
 *Lead your Team of Spirit Companions*
 </br>
-Text - TODO
+???
 
-#### Level 3: - TODO
+#### Level 3: ???
 
-Text - TODO
+???
 
-#### Level 7: - TODO
+#### Level 7: ???
 
-Text - TODO
+???
 
-#### Level 11: - TODO
+#### Level 11: ???
 
-Text - TODO
+???
 
-#### Level 15: - TODO
+#### Level 15: ???
 
-Text - TODO
+???
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -3143,15 +3181,17 @@ Text - TODO
 
 \page
 
-## Rogue - TODO
+## Rogue
 
-Text - TODO
+**TODO - NOT STARTED**
 
-### Dagger Dancer - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:125px,left:55px,width:375px,mix-blend-mode:normal}
+### Dagger Dancer ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:125px,left:55px,width:375px,mix-blend-mode:normal}
 
+**TODO - REVISION**
+</br>
 *Gracefully Step and Strike*
 </br>
-Text - TODO
+???
 
 #### Level 3: Dazzling Style
 
@@ -3206,83 +3246,89 @@ This state lasts for 1 minute, or until you lose your concentration (as if you w
 
 \page
 
-## Sorcerer - TODO
+## Sorcerer
 
-Text - TODO
+**TODO - NOT STARTED**
 
-### Soulflame Sorcery - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:125px,left:55px,width:375px,mix-blend-mode:normal}
+### Soulflame Sorcery ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:125px,left:55px,width:375px,mix-blend-mode:normal}
 
+**TODO - NOT STARTED**
+</br>
 *Ignite with Spiritual Energy*
 </br>
-Text - TODO
+???
 
-#### Level 3: - TODO
+#### Level 3: ???
 
-Text - TODO
+???
 
-#### Level 6: - TODO
+#### Level 6: ???
 
-Text - TODO
+???
 
-#### Level 14: - TODO
+#### Level 14: ???
 
-Text - TODO
+???
 
-#### Level 18: - TODO
+#### Level 18: ???
 
-Text - TODO
+???
 
-## Warlock - TODO
+## Warlock
 
-Text - TODO
+**TODO - NOT STARTED**
 
-### Dragonlord Patron - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:442px,left:55px,width:375px,mix-blend-mode:normal}
+### Dragonlord Patron ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:459px,left:55px,width:375px,mix-blend-mode:normal}
 
+**TODO - NOT STARTED**
+</br>
 *Pledge Allegiance to Draconic Tyrants*
 </br>
-Text - TODO
+???
 
-#### Level 3: - TODO
+#### Level 3: ???
 
-Text - TODO
+???
 
-#### Level 6: - TODO
+#### Level 6: ???
 
-Text - TODO
+???
 
-#### Level 10: - TODO
+#### Level 10: ???
 
-Text - TODO
+???
 
-#### Level 14: - TODO
+#### Level 14: ???
 
-Text - TODO
+???
 
-## Wizard - TODO
+## Wizard
 
-Text - TODO
+**TODO - NOT STARTED**
 
-### Astrologer - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:760px,left:55px,width:375px,mix-blend-mode:normal}
+### Astrologer ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:795px,left:55px,width:375px,mix-blend-mode:normal}
 
+**TODO - NOT STARTED**
+</br>
 *Draw on the Magic of the Stars*
 </br>
-Text - TODO
+???
 
-#### Level 3: - TODO
+#### Level 3: ???
 
-Text - TODO
+???
 
-#### Level 6: - TODO
+#### Level 6: ???
 
-Text - TODO
+???
 
-#### Level 10: - TODO
+#### Level 10: ???
 
-Text - TODO
+???
 
-#### Level 14: - TODO
+#### Level 14: ???
 
-Text - TODO
+???
 
 {{position:absolute,text-align:right,top:350px,right:305px,margin-bottom:-30px
 
@@ -3358,38 +3404,39 @@ On the next page is a table with all Languages known across Sumiriku. Sumirikugo
 
 | Language               | Description             |
 |:-----------------------|:------------------------|
+| Akumago                  | The language of the foul demons known as Oni. A corrupted form of Sumirikugo, twisted the same way the Oni were within their dwelling at the core of the world. |
 | Anagumago              | The native language of the peoples of Ryugenshima. Commonly associated with Korpokkur, the species of people uniquely native to there. |
 | Eiseigo                |  A unique script and dialect developed by the Soratami, intended to gatekeep their knowledge of the arcane. Speakers of Sumirikugo can reasonably communicate with speakers of Eiseigo, but most of the spell scrolls and texts found in a Soratami library would be unreadable unless one has studied Eiseigo. |
 | Formal Sumirikugo      | A version of Sumiriku spoken and written with specific intonation and word choices, intended to communicate a high level of status and intelligence. Members of high society would likely look down on those who do not know the specifics of speaking in the formal style. |
-| Ōgarugo                | A unique dialect of Sumirikugo spoken by isolated communities of Ōgaru, developed enough to become mostly unintelligible by Sumirikugo speakers. Ancient ritual tablets made by Oni cults were likely written in Ōgarugo. |
+| Ōgarugo                | A unique dialect of Sumirikugo spoken by isolated communities of Ōgaru, developed enough to become mostly unintelligible by Sumirikugo speakers. Ōgaru are know for ritual chants and war cries performed in Ōgarugo. |
 | Kimyōkaigo             | A language learned by the creatures from Kimyōkai, the Yōkai realm. The Obake, Kappa, and Akki are likely to be taught this language from birth, given their connection to said realm. |
 | Ryūgo                  | The language that was introduced to Sumiriku by the Dragon-Kami. Often the first language learned by the Ryūson. |
 | Saruruigo              | A language developed by the Masaru people, utilising cries and other sounds specific to their unique vocal chords. It's believed that this language helps them communicate with other, not-sapient simians. |
-| Shingo                 | The first language of Sumiriku, taught by the deities and known by other holy beings. Devout followers may also come to learn this language. |
 
 }}
 
-{{imageMaskCorner19,--offsetX:53%,--offsetY:50%,--rotation:0
+{{imageMaskCorner19,--offsetX:53%,--offsetY:55%,--rotation:0
   ![scholar](https://64.media.tumblr.com/f3483504dc7926d62b7af96e6809cb8e/tumblr_o41ke948ll1vn68joo1_1280.jpg){position:aboslute,top:-30px,right:-140px,width:100%}
 }}
 
-{{position:absolute,top:450px,right:270px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:400px,right:270px,margin-bottom:-30px,text-align:right
 
 ##### A Scholar reviews </br> documents in </br> many languages
 
 }}
 
-::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::
 
 {{#default-table
 
 | Language               | Description             |
 |:-----------------------|:------------------------|
+| Shingo                 | The first language of Sumiriku, taught by the deities and known by other holy beings. Devout followers may also come to learn this language. |
 | Shīsāgo                | The native language of the peoples of Sairikudō, the collection of northern islands. Commonly associated with Bunagaya, the species of people uniquely native to there. |
 | Shizengo               | A set of ancient words and secretive symbols, used only by those in harmony with the forest. The replacement language for Druidic. |
 | Sumiriku Sign Language | A language that communicates entirely with hand gestures, rather than with one's voice. Taught to help communication between those who are deaf, mute, or hard of hearing. |
 | Sumirikugo             | The shared lingua franca across all of Sumiriku. All characters start knowing this language. |
-| Thieves' Cant          | A set of code words and slang, used by criminals to hide their illegal actions behind more innocuous language. |
+| Yakuza Zokugo          | A set of code words and slang, used by criminals to hide their illegal actions behind more innocuous language. The replacement language for Thieves' Cant. |
 
 }}
 
@@ -3408,7 +3455,7 @@ On the next page is a table with all Languages known across Sumiriku. Sumirikugo
 **Feat:**              :: Crafter
 **Skill Proficiency:** :: Athletics, Nature
 **Tool Proficiency:**  :: Carpenter's Tools
-**Equipment:**         :: *Choose A or B;* (A) Carpenter's Tools, <!-- TODO - ADD THESE TO EQUIPMENT SECTION - (with Ryoba (両刃, 'Dual Edge') and Kanna (鉋, 'Plane')) --> Ono, 2 Pouches, Traveler's Clothes, 25 GP; or (B) 50 GP
+**Equipment:**         :: *Choose A or B;* (A) Carpenter's Tools, <!-- ADD THESE TO EQUIPMENT SECTION - (with Ryoba (両刃, 'Dual Edge') and Kanna (鉋, 'Plane')) --> Ono, 2 Pouches, Traveler's Clothes, 25 GP; or (B) 50 GP
 
 You are practiced in the art of Sumiriku woodworking, which involves the use of intricate joinery and minimal nails. Whether you have been creating Yosegi-zaiku mosaics, Kumiko panels, furniture, or even houses, you have shown yourself to to have a dedication to the craft, a precise hand, and an eye for detail.
 
@@ -3613,7 +3660,7 @@ You have been trained in one of Sumiriku's theatre traditions, a historic yet ev
   ![mountain-path](https://i.imgur.com/uzOHbmP.jpeg){position:absolute,top:-75px,width:101%}
 }}
 
-{{position:absolute,top:400px,left:320px,margin-bottom:-30px
+{{position:absolute,top:400px,left:250px,margin-bottom:-30px
 
 ##### The path of a Yamabushi
 
@@ -3692,13 +3739,13 @@ A Shakujō (錫杖) is a staff topped with a metal loop, with smaller metal ring
 
 }}
 
-::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::
 
-### Weapon Tables ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:665px,left:55px,width:375px,mix-blend-mode:normal}
+### Weapon Tables ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:658px,left:55px,width:375px,mix-blend-mode:normal}
 
 \column
 
-::::::::
+:::::
 
 ## Weapons
 
@@ -3710,19 +3757,11 @@ As Sumiriku is a nation beset with conflict, it is understandable that it is a p
 
 New weapon properties are explained on the next page. Some of the other weapon properties have been updated, which are explained in Appendix D.
 
-Weapon Masteries are new to 2024 D&D, which add additional features to weapons for some classes. If you play a class with access to Weapon Masteries, each weapon has an associated mastery. All Weapon Masteries, including and adjusted Masteries and one new Mastery, can be found in Appendix D.
+Weapon Masteries are new to 2024 D&D, which add additional features to weapons for some classes. If you play a class with access to Weapon Masteries, each weapon has an associated mastery. Adjusted Masteries can be found in Appendix D.
+
+The Weapon Mastery prerequisites show which Masteries are applicable to which weapons. If a game feature lets you replace a weapon's Mastery property with another one, that weapon must meet any prerequisite specified for the new property.
 
 }}
-
-<!-- TODO - UPDATE TO FOLLOWING AFTER CHANGE
-
-##### Note: Weapon Properties and Masteries
-
-New weapon properties are explained on the next page. Some of the other weapon properties have been updated, which are explained in Appendix D.
-
-Weapon Masteries are new to 2024 D&D, which add additional features to weapons for some classes. If you play a class with access to Weapon Masteries, each weapon has an associated mastery. Adjusted Masteries and one new Mastery can be found in Appendix D.
-
--->
 
 {{#weapon-table,wide
 
@@ -3782,7 +3821,7 @@ Weapon Masteries are new to 2024 D&D, which add additional features to weapons f
 
 | Weapon      | Damage           | Properties                                                 | Mastery |
 |:------------|:-----------------|:-----------------------------------------------------------|:--------|
-| Daikyū      | 1d8 Piercing     | Ammunition (Range 150/600), Heavy, Strong-Draw, Two-Handed | Graze   |
+| Daikyū      | 1d8 Piercing     | Ammunition (Range 150/600), Heavy, Strong-Draw, Two-Handed | Slow    |
 | Hinawajū    | 1d12 Piercing    | Ammunition (Range 100/400), Firearm, Loading, Two-Handed   | Push    |
 
 }}
@@ -3797,11 +3836,11 @@ A weapon with the Chain Weapon property is made of two weapons connected togethe
 
 If a creature at most one size larger than you targets you with a Melee Weapon Attack and misses while you are wielding a weapon with the Disarming property, you can use your Reaction to attempt to disarm the attacker. They must succeed on a Strength or Dexterity Saving Throw (DC 8 plus your Athletics modifier), or they drop the weapon used for the attack at a point of your choice within 10 feet of them.
 
-\column
-
 #### Firearm
 
 You are required to gain a separate proficiency in Firearms in addition to a proficiency in weapons in order to be proficient in attacks with Firearms. Against a target wearing Medium or Heavy Armour, you can treat Damage Rolls from Firearms that are less than half their maximum value as instead being half that maximum value.
+
+\column
 
 #### Protective Fan
 
@@ -3811,6 +3850,14 @@ When you attack with a weapon with the Protective Fan property, or as a Bonus Ac
 
 When you hit with a weapon that has the Strong-Draw property, you can add 1 plus half your Strength modifier (rounded down) to the damage.
 
+### Weapon Masteries ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:800px,left:400px,width:375px,mix-blend-mode:normal}
+
+#### Cross
+
+*Prerequisite: Melee Weapon, Finesse or Versatile Property*
+</br>
+If you use the Attack action and hit a creature with a Melee Attack using this weapon, you can move to the opposite side of the creature without expending movement and without provoking Opportunity Attacks. You can use this movement only once on your turn.
+
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
@@ -3818,7 +3865,7 @@ When you hit with a weapon that has the Strong-Draw property, you can add 1 plus
 
 \page
 
-### Weapon Descriptions - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Weapon Descriptions ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 #### Bō (棒)
 
@@ -3914,33 +3961,37 @@ Appendix E contains real-world photos and reference images for each of the weapo
 
 If there is one weapon which Sumiriku will be known for, it is the Katana. A Katana is characterised by a curved, single-edged blade, typically 60 to 80 cm long, with a circular or squared guard and long grip to accommodate two hands, though some chose to wield one with a single hand. Katanas are the most common weapon for a Samurai to use, as it is a weapon equally as useful in a castle as on a battlefield, but many Rōnin and warrior monks also gravitate to the weapon. The light-weight build and sleek shape also make it a weapon equally useful for those who fight with pure might and those who fight with swiftness and finesse. A Katana is held at the side sharp edge pointed upward, often alongside a Wakizashi, the pair of which is called a Daishō. A well forged and decorated Katana or Daishō is considered a signifier of high status for a Samurai and a true dedication to the craft for a swordsmith. The most famous Katana is one of the Starlight Regalia and former blade of Yūkan-sama, Kūshokiri.
 
-#### Kusarigama (鎖鎌) - TODO
+#### Kusarigama (鎖鎌)
 
-Text - TODO
+**TODO - NOT STARTED**
 
-#### Naginata (長刀術) - TODO
+#### Naginata (長刀術)
 
-Text - TODO - A very similar weapon is the Nagamaki (長巻). A Nagamaki is an Ōdachi, or greatsword, where more of the blade is covered by the handle, giving it equivalent reach and slashing power as the Naginata.
+**TODO - UNFINISHED**
 
-#### Nunchaku (ヌンチャク) - TODO
+A very similar weapon is the Nagamaki (長巻). A Nagamaki is an Ōdachi, or greatsword, where more of the blade is covered by the handle, giving it equivalent reach and slashing power as the Naginata.
 
-Text - TODO
+#### Nunchaku (ヌンチャク)
 
-#### Ōdachi (大太刀) - TODO
+**TODO - NOT STARTED**
 
-Text - TODO - Also known as Nodachi (野太刀), or Field Sword.
+#### Ōdachi (大太刀)
 
-#### Ōtsuchi (大槌) - TODO
+**TODO - UNFINISHED**
 
-Text - TODO
+Also known as Nodachi (野太刀), or Field Sword.
 
-#### Sai (釵) - TODO
+#### Ōtsuchi (大槌)
 
-Text - TODO
+**TODO - NOT STARTED**
 
-#### Sentōno (戦闘斧) - TODO
+#### Sai (釵)
 
-Text - TODO
+**TODO - NOT STARTED**
+
+#### Sentōno (戦闘斧)
+
+**TODO - NOT STARTED**
 
 {{note
 
@@ -3950,29 +4001,29 @@ Sentōno is an invented term for a Greataxe equivalent, from 'Sentō' (戦闘, '
 
 }}
 
-#### Su Yari (素槍) - TODO
+#### Su Yari (素槍)
 
-Text - TODO
+**TODO - NOT STARTED**
 
-#### Tessen (鉄扇) - TODO
+#### Tessen (鉄扇)
 
-Text - TODO
+**TODO - NOT STARTED**
 
-#### Tetsubō (鉄棒) - TODO
+#### Tetsubō (鉄棒)
 
-Text - TODO
+**TODO - NOT STARTED**
 
-#### Wakizashi (脇差) - TODO
+#### Wakizashi (脇差)
 
-Text - TODO
+**TODO - NOT STARTED**
 
-#### Daikyū (大弓) - TODO
+#### Daikyū (大弓)
 
-Text - TODO
+**TODO - NOT STARTED**
 
-#### Hinawajū (火縄銃) - TODO
+#### Hinawajū (火縄銃)
 
-Text - TODO
+**TODO - NOT STARTED**
 
 {{note
 
@@ -4080,35 +4131,43 @@ You require training in Traditional items in addition to Armour and Shield Train
 
 \page
 
-## Equipment - TODO
+## Equipment
 
 Despite the violence that rages all around, Sumiriku is still also known for its many great artisans and craftspeople. Much of the equipment an adventurer may find or use on their journey was likely custom made by delicate hands.
+</br>
+**TODO - ADD MORE CATEGORIES**
 
-### Ceremonial Items - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:215px,left:55px,width:375px,mix-blend-mode:normal}
+### Carpenter's Tools ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:232px,left:55px,width:375px,mix-blend-mode:normal}
 
-Kannushi and Miko each have special dress and tools, and are involved in the performances and blessings that occur at the shrine. They use a ceremonial wooden wand decorated with paper streamers called Shide as part of these rituals; with two streamers the wand is called a Gohei and with many it is called an Ōnusa. Plucking a sacred Shortbow is involved in many ceremonies, as it is believed that the sound of the string is enough to scare away Oni. Tamagashi are bundles of tree branches used as offerings. Ofuda are paper talismans, used to write down people's prayers to the Kami or for storing spells.
+**TODO - NOT STARTED**
 
-Text - TODO
+<!-- ADD THESE TO EQUIPMENT SECTION - (with Ryoba (両刃, 'Dual Edge') and Kanna (鉋, 'Plane')) -->
 
-### Gaming Sets ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:527px,left:55px,width:375px,mix-blend-mode:normal}
+### Gaming Sets ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:292px,left:55px,width:375px,mix-blend-mode:normal}
 
-#### Hanafuda - TODO
+#### Hanafuda
 
-Text - TODO
+**TODO - NOT STARTED**
 
 #### Igo
 
 Igo (囲碁) is a traditional board game, brought to Sumiriku from the foreign nation of Zāngkē. Igo is played on a 19 by 19 grid, where players take turns placing black and white stones onto points on the grid in order to capture their opponents pieces and secure territory; the winner is determined by the player with a greater combined territory and number of captured stones. The game is a beloved part of the imperial courts, as the game is thought to be a demonstration of a player's intellect and high-level thinking, as well as connecting them to the sacred belief of In'yō. A full Igo set is made of many hand-made and luxury components; a large wooden board with table feet called a Goban (碁盤), two rounded wooden bowls, and a full set of black and white double-convex stones, called Goishi (碁石), typically made of clamshell and slate. The luxury of this production makes Igo a game for only the most affluent of citizens.
 
-#### Shōkettō - TODO
+#### Shōkettō
 
-General's duel - Text - TODO
+**TODO - UNFINISHED**
+</br>General's Duel
 
 \column
 
-### Instruments - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Holy Symbols ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
-Text - TODO
+Kannushi and Miko each have special dress and tools, and are involved in the performances and blessings that occur at the shrine. They use a ceremonial wooden wand decorated with paper streamers called Shide as part of these rituals; with two streamers the wand is called a Gohei and with many it is called an Ōnusa. Plucking a sacred Shortbow is involved in many ceremonies, as it is believed that the sound of the string is enough to scare away Oni. Tamagashi are bundles of tree branches used as offerings. Ofuda are paper talismans, used to write down people's prayers to the Kami or for storing spells.
+</br>**TODO - REVISION**
+
+### Instruments ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:375px,left:400px,width:375px,mix-blend-mode:normal}
+
+**TODO - NOT STARTED**
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -4163,7 +4222,7 @@ All Feats found in the 2024 D&D Player's Handbook are available to use within th
 
 ***Ability Score Increase.*** Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
 
-***Arcane Senses.*** You always have the *Detect Magic* and *Detect Thoughts* spells prepared. You can cast these spells each without expending a Spell Slot or requiring Verbal, Somatic, or Material components. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat. Detect Thoughts also gain a bonus depending on your lineage:
+***Arcane Senses.*** You always have the *Detect Magic* and *Detect Thoughts* spells prepared. You can cast these spells each without expending a Spell Slot or requiring Verbal, Somatic, or Material components. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' Spellcasting Ability is the ability increased by this feat. Detect Thoughts also gain a bonus depending on your lineage:
 
 *Soratami.* When you cast *Detect Thoughts* for free with this feat, the creature you target will not know their thoughts are being read if you probe deeper, even if they succeed on the Saving Throw.
 
@@ -4261,7 +4320,7 @@ All Feats found in the 2024 D&D Player's Handbook are available to use within th
 
 ***Ability Score Increase.*** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 
-***Protective Aura.*** You always have the *Shield of Faith* spell prepared. You can cast this spell without expending a Spell Slot or requiring Material components. Once you cast the spell this way, you can't cast the spell in this way again until you finish a Long Rest. You can also cast this spells using spell slots you have of the appropriate level. The spell's spellcasting ability is the ability increased by this feat.
+***Protective Aura.*** You always have the *Shield of Faith* spell prepared. You can cast this spell without expending a Spell Slot or requiring Material components. Once you cast the spell this way, you can't cast the spell in this way again until you finish a Long Rest. You can also cast this spells using spell slots you have of the appropriate level. The spell's Spellcasting Ability is the ability increased by this feat.
 
 When you cast *Shield of Faith* for free using this feat, you can instead turn this shield into a large shell barrier. When you cast the spell targeting yourself, or as a Bonus Action while concentrating on the spell cast on yourself, you can choose to replace the effect of the spell with a 15-foot-radius Emanation. Creatures within the Emanation are considered to have Half Cover, which means that they have +2 to AC and to Dexterity Saving Throws when targeted from outside the barrier. You can turn this barrier back into Shield of Faith cast on yourself as a Bonus Action.
 
@@ -4438,14 +4497,15 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 \column
 
-### Oni Embraced - TODO ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Oni Embraced ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Species Feat (Prerequisite: Level 8+, Oni Bloodline, not having the Oni Purified feat)*
 </br>You've fully taken on the demonic part of yourself. You may believe that you can suppress the Oni and use its power, or the spirit inside you may have co-opted your body for its own ends. Either way, your physical demonic characteristics become more prominent, and you also gain the following benefits.
 
 ***Third Eye of Predation.*** You open a third eye to see into the spirit realm; a blood-red abyss full of Kami ready to be devoured. You can see into the Ethereal Plane with this third eye. While looking into the Ethereal Plane you can also see the beating life force of all creatures within 100 feet of you on the same plane as you, even if they are behind full cover. You can also tell from this sense the creature's levels of stress and fear.
 
-***Onslaught.*** Text - TODO
+***Onslaught.***
+</br>**TODO - UNFINISHED - IMPORTANT**
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -4579,7 +4639,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 ***Ability Score Increase.*** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 
-***Otherworldly Casting.*** Choose one level 1 spell from the Enchantment or Illusion school of magic. You always have that spell and the *Misty Step* spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
+***Otherworldly Casting.*** Choose one level 1 spell from the Enchantment or Illusion school of magic. You always have that spell and the *Misty Step* spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' Spellcasting Ability is the ability increased by this feat.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -4709,7 +4769,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 ***Ability Score Increase.*** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 
-***Underworldly Casting.*** Choose one level 1 spell from the Conjuration or Necromancy school of magic. You always have that spell and the *Invisibility* spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
+***Underworldly Casting.*** Choose one level 1 spell from the Conjuration or Necromancy school of magic. You always have that spell and the *Invisibility* spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' Spellcasting Ability is the ability increased by this feat.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
@@ -4745,9 +4805,11 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 \page
 
-# Maps of Sumiriku and the World - TODO
+# Maps of Sumiriku and the World
 
-T {{width:5px}}ext - TODO
+##
+
+**TODO - NOT STARTED**
 
 ![island-map](https://i.imgur.com/v4wZLoX.png) {position:absolute,top:200px,left:74px,width:1440px,opacity:85%}
 
@@ -4767,9 +4829,11 @@ T {{width:5px}}ext - TODO
 
 \page
 
-# Landscapes and Landmarks - TODO
+# Landscapes and Landmarks
 
-T {{width:5px}}ext - TODO
+##
+
+**TODO - NOT STARTED**
 
 {{pageNumber,auto}}
 {{footnote PART 3 | GEOGRAPHY AND CULTURE}}
@@ -4812,7 +4876,7 @@ T {{width:5px}}ext - TODO
 
 \page
 
-# Calendar and Notable Events - TODO
+# Calendar and Notable Events
 
 T {{width:5px}}he Sumiriku calendar is divided into 14 months, to match the 14 Zodiac animals, or Ō-Hoshikuzushin. The first and last months, Ichigatsu and Jūyogatsu, are two weeks long, and every other month is 4 weeks long. The 'Months' table shows the name and length of each month.
 
@@ -4888,7 +4952,8 @@ The day of the summer solstice, the longest day of the year. It is said that the
 
 ### Tanabata (七夕, 'Evening of the </br>Seventh') - 7th of Shichigatsu ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:803px,left:400px,width:375px,mix-blend-mode:normal}
 
-A day of wish-making. Text - TODO
+A day of wish-making.
+</br>**TODO - UNFINISHED**
 
 {{pageNumber,auto}}
 {{footnote PART 3 | GEOGRAPHY AND CULTURE}}
@@ -4927,7 +4992,7 @@ The end of the current year and the beginning of the next. Ganjitsu also falls o
 
 ### Hyakki Chitsuki (百鬼血月, 'Hundred Oni Blood Moon') ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:426px,left:400px,width:375px,mix-blend-mode:normal}
 
-The Oni first poured out of their realm in Makoku, lead by their Oni Lords, during the Kaika Jidai, and plunged the world into darkness and horror. These Oni started a seemingly endless night by blotting out the sky, protecting themselves from the radiance of the twin suns during their assault. It took the wisdom of Tomomi-sama wielding Tasogare-no-Kagami in order to push the Oni back, return the suns and the stars to the sky, and seal them away within their realm, in a conflict now known as the Blood War. This entombment was not perfect however, and the Oni have discovered how to temporarily break their imprisonment and briefly bring chaos back to the real world.
+The Oni first poured out of their realm in Makoku, lead by their Oni Lords, during the Kaika Jidai, and plunged the world into darkness and horror. These Oni started a seemingly endless night by blotting out the sky, protecting themselves from the radiance of the twin suns during their assault. It took the wisdom of Tomomi-sama, wielding Tasogare-no-Kagami, in order to push the Oni back. She helped return the suns and the stars to the sky, and sealed the Oni away within their realm, ending the a conflict now known as the Blood War. This entombment was not perfect however, and the Oni have discovered how to temporarily break their imprisonment and briefly bring chaos back to the real world.
 
 The escape of the Oni causes a night of terror, known as the Hyakki Chitsuki, where these demonic beings hunt for people and kami alike to prey and feast upon. The timing of this night is unpredictable as it only occurs around once in a generation or so, but, like an earthquake or a volcanic eruption, it always seems to come when the population of Utsushiyo is the most complacent, the most forgetful of their place in the hierarchy of realms. The Oni still must flee in fear before the rising of the suns, at least until they can darken the sky again, but that still gives them one terrible night to do what they please. If one is ever out at night and sees the moon turn red and the sky rain blood then they should pray for safety, for the Oni are coming.
 
@@ -4938,9 +5003,11 @@ The escape of the Oni causes a night of terror, known as the Hyakki Chitsuki, wh
 
 \page
 
-# Important People and Groups - TODO
+# Important People and Groups
 
-T {{width:5px}}ext - TODO
+##
+
+**TODO - NOT STARTED**
 
 {{pageNumber,auto}}
 {{footnote PART 3 | GEOGRAPHY AND CULTURE}}
@@ -4966,9 +5033,11 @@ T {{width:5px}}ext - TODO
 
 \page
 
-# Sacred Treasures and other Magic Items - TODO
+# Sacred Treasures and other Magic Items
 
-T {{width:5px}}ext - TODO
+##
+
+**TODO - NOT STARTED**
 
 {{note
 
@@ -4976,16 +5045,18 @@ T {{width:5px}}ext - TODO
 
 All Magic Items listed here and in Stories & Secrets have a selection of keyword tags associated with them, which describe some of the qualities of the item. The first tag is the Type. The Types for Magic Items are Ammunition, Armour, Instrument, Potion, Prosthetic, Ring, Scroll, Spellcasting Focus, Tattoo, Weapon, or Wondrous Item for items that don't fit any of the other categories (there exist other item types for non-magical items). An item may have multiple of these types.
 
-The second tag is Rarity, which indicates how plentiful an item is and how likely it is to come across the item. The five tiers of Rarity are Common, Uncommon, Rare, Very Rare, and Unique. Common items are often small, simple magical items or consumable items, such as Potions and low-level Spell Scrolls. There should only be one copy of each Unique item in existence, but this does not necessarily mean the item is more powerful or valuable; an item can be Unique for its provenance even if it has the same traits as more common items.
+The second tag is Rarity, which indicates how plentiful an item is and how likely it is to come across the item. The five levels of Rarity are Common, Uncommon, Rare, Very Rare, and Unique. Common items are often small, simple magical items or consumable items, such as Potions and low level Spell Scrolls. There should only be one copy or a select few copies of each Unique item in existence, but this does not necessarily mean the item is more powerful or valuable; an item can be Unique for its provenance even if it has the same traits as more common items.
 
-The third tag is Power, which indicates the strength of the item's abilities and the impact it would have on a character's potential. The tiers of Power are Aesthetic, for items that do not confer any mechanical bonuses, Minor, Major, Epic, and Ultimate.
+The third tag is Power, which indicates the strength of the item's abilities and the impact it would have on a character's potential. The levels of Power are Aesthetic, for items that do not confer any mechanical bonuses, Minor, Major, Epic, and Ultimate.
 
-There are a selection of additional tags that any item can have. Craftable is for items forged and transmuted by people's hands, which are also items that are easier to purchase or to have custom made. Mundane is for items that have no magical properties, and will continue to function under any anti-magic effects. Miracle is for items created by magical phenomena or rituals lost to time, such that the item couldn't be created again. Sacred is for the Sacred Treasures of Sumiriku, items that have legendary tales told of them or have close ties to divinity.
+There are also other tags that any item can have. Craftable is for items forged and transmuted by people's hands, which are also items that are easier to purchase or to have custom made. Mundane is for items that have no magical properties, and will continue to function under any anti-magic effects. Miracle is for items created by magical phenomena or rituals lost to time, such that the item couldn't be created again. Sacred is for the Sacred Treasures of Sumiriku, items that have legendary tales told of them or have close ties to divinity.
 
 }}
 
 ## Sacred Treasures
 
+**TODO - UNFINISHED**
+</br>
 Two groups of sacred treasures
 
 - Relics of Kumonoue
@@ -6011,7 +6082,7 @@ Below is an list of the spells changed in this document, with a brief descriptio
 | Leomund's Tiny Hut        | <span style="color:red">No longer a ritual, dome has an AC and HP</span>                                                                                                                         |
 | Plant Growth              | <span style="color:red">Made Difficult Terrain</span>                                                                                                                                            |
 | Spirit Guardians          | Replaces Speed reduction with increased movement cost, <span style="color:red">creatures only take damage if emanation is moved on your turn</span>                                              |
-| Conjure Minor Elementals  | <span style="color:red">Instances of damaged capped to twice per turn</span>                                                                 |
+| Conjure Minor Elementals  | <span style="color:red">Instances of damaged capped to twice per turn</span>                                                                                                                     |
 | Evard's Black Tentacles   | <span style="color:red">Save repeats at end of targets' turns,</span> <span style="color:green">no Action to escape</span>                                                                       |
 | Leomund's Secret Chest    | <span style="color:green">No random chance of losing chest</span>                                                                                                                                |
 | Phantasmal Killer         | <span style="color:green">Damage increased by 2d10</span>                                                                                                                                        |
@@ -7204,9 +7275,7 @@ Most spells and effects that grant Temporary Hit Points have a duration associat
 
 ## Weapon Masteries
 
-Some classes, subclasses, and feats let characters gain access to Weapon Masteries with weapons of their choice, allowing them to use the Weapon Mastery property when they attack with that weapon. Below is the list of all the Mastery properties, some of which are new and some of which have been modified from the 2024 D&D Player's Handbook.
-
-The Weapon Mastery prerequisites show which Masteries are applicable to which weapons. If a game feature lets you replace a weapon's Mastery property with another one, that weapon must meet any prerequisite specified for the new property.
+Some classes, subclasses, and feats let characters gain access to Weapon Masteries with weapons of their choice, allowing them to use the Weapon Mastery property when they attack with that weapon. The following is the list of the Mastery properties which have been modified from the 2024 D&D Player's Handbook.
 
 \column
 
@@ -7214,31 +7283,33 @@ The Weapon Mastery prerequisites show which Masteries are applicable to which we
 
 *Prerequisite: Melee Weapon, Heavy Property*
 </br>
-If you hit a creature with a Melee Attack using this weapon, you can deal damage to every creature of your choice adjacent to the target and within the weapon's reach. This damage is equal to the weapon's damage. You can deal this extra damage only once per turn.
+If you hit a creature with a Melee Attack using this weapon, you can deal damage to every creature of your choice adjacent to the target and within the weapon's reach. This damage is equal to one roll of the weapon's damage die. You can deal this extra damage only once per turn.
 
-### Cross ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:231px,left:400px,width:375px,mix-blend-mode:normal}
-
-*Prerequisite: Melee Weapon, Finesse or Versatile Property*
-</br>
-If you use the Attack action and hit a creature with a Melee Attack using this weapon, you can move to the opposite side of the creature without expending movement and without provoking Opportunity Attacks. You can use this movement only once on your turn.
-
-### Graze ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:418px,left:400px,width:375px,mix-blend-mode:normal}
-
-*Prerequisite: Melee Weapon, Heavy Property*
-</br>
-If your Attack Roll with this weapon misses a creature, you can deal damage to that creature equal to the Ability Modifier you used to make the Attack Roll. This damage is the same type dealt by the weapon, and the damage can't be increased in any other way, other than increasing the Ability Modifier.
-
-### Nick ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:604px,left:400px,width:375px,mix-blend-mode:normal}
+### Nick ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:249px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Prerequisite: Light Property*
 </br>
 When you make the extra attack of the Light property, you can make it as part of the Attack action, instead of as a Bonus Action. You can still make this extra attack only once per turn, and this extra attack still does not apply any Weapon Mastery properties.
 
-### Push ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:771px,left:400px,width:375px,mix-blend-mode:normal}
+### Push ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:417px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Prerequisite: Heavy, Two-Handed, or Versatile Property*
 </br>
 If you hit a creature with this weapon, you can push the creature up to 10 feet away from you if it is no more than one size larger than you. This movement is stopped by terrain and other creatures the same size or larger than the hit creature.
+
+### Topple ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:603px,left:400px,width:375px,mix-blend-mode:normal}
+
+*Prerequisite: Heavy, Reach, or Versatile Property*
+</br>
+If you hit a creature with this weapon and exceed its AC by 5 or more, you may force the creature to have the Prone Condition.
+
+## Weapon Properties
+
+The following Weapon Properties have been updated:
+
+### Heavy ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:812px,left:400px,width:375px,mix-blend-mode:normal}
+
+Creatures that are Medium or Larger must have a Strength of 13 or higher or they have Disadvantage on Attack Rolls when attacking with a Heavy weapon. Creatures that are Small need a Strength of 15 or higher to not attack at Disadvantage, and Tiny creatures can't attack with this weapon.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -7247,42 +7318,9 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 
 \page
 
-### Sap ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-*Prerequisite: None*
-</br>
-If you hit a creature with this weapon, you can reduce its Speed by 10 feet until the start of your next turn. If you hit the creature more than once with this property, the Speed reduction doesn't exceed 10 feet.
-
-### Topple ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:214px,left:55px,width:375px,mix-blend-mode:normal}
-
-*Prerequisite: Heavy, Reach, or Versatile Property*
-</br>
-If you hit a creature with this weapon and exceed its AC by 5 or more, you can force the creature to go Prone.
-
-### Vex ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:346px,left:55px,width:375px,mix-blend-mode:normal}
-
-*Prerequisite: Ammunition, Finesse, or Light Property*
-</br>
-If you hit a creature with this weapon, you have Advantage on your next Attack Roll against that creature before the end of your next turn.
-
-## Weapon Properties
-
-The following Weapon Properties have been updated:
-
-### Heavy ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:556px,left:55px,width:375px,mix-blend-mode:normal}
-
-Creatures that are Medium or Larger must have a Strength of 13 or higher or they have Disadvantage on Attack Rolls when attacking with a Heavy weapon. Creatures that are Small need a Strength of 15 or higher to not attack at Disadvantage, and Tiny creatures can't attack with this weapon.
-
-### Light ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:723px,left:55px,width:375px,mix-blend-mode:normal}
+### Light ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 When you take the Attack action on your turn and attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon you hold in your other hand, you must be holding both weapons when you make these attacks, and you don't add your Ability Modifier to the extra attack's damage, unless that modifier is negative. This Bonus Action attack cannot apply any Weapon Mastery properties.
-
-{{pageNumber,auto}}
-{{footnote EXTRA | APPENDICES}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
-
-\page
 
 ## Wild Shape and Transformations
 
@@ -7311,7 +7349,7 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -7457,7 +7495,7 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -7518,7 +7556,7 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -7579,7 +7617,7 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -7640,7 +7678,7 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -7710,22 +7748,19 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
 # Credits
 
+##
+
+**TODO - NOT STARTED**
+
 ## Special Thanks
 
 Very special thanks to Raluca Patria for her incredible assistance with map creation, research, review, ideation, and being a constant source of support and encouragement. This never would have been possible without her.
-
-{{pageNumber,auto}}
-{{footnote EXTRA | APPENDICES}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
-
-\page
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
@@ -7735,7 +7770,7 @@ Very special thanks to Raluca Patria for her incredible assistance with map crea
 \page
 
 {{imageMaskEdge1,--offset:11.5cm,--rotation:180
-  ![Background image](https://upload.wikimedia.org/wikipedia/commons/d/d0/100_views_edo_008.jpg){position:absolute,top:-80px,left:-25px,width:110%}
+  ![nensho](https://upload.wikimedia.org/wikipedia/commons/d/d0/100_views_edo_008.jpg){position:absolute,top:-80px,left:-25px,width:110%}
 }}
 
 {{position:absolute,bottom:100px,left:0px,margin-bottom:-30px,text-align:center

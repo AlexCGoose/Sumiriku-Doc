@@ -1,5 +1,3 @@
-<!-- ----- TODO - CHECK IF DOCUMENT MATCHES LAYOUT AND CAPITALISATION RULES - TODO ----- -->
-
 {{frontCover}}
 
 ![cover](https://i.imgur.com/t6uDxEI.jpeg){position:absolute,bottom:0,left:0,height:100.5%}
@@ -10,7 +8,7 @@
 
 # The Shattered States of Sumiriku
 
-## Stories & Secrets v0.1
+## Stories & Secrets
 
 ![line](https://i.imgur.com/iCxIyLL.png) {position:absolute,top:321px,left:175px,width:450px}
 
@@ -20,7 +18,7 @@
 
 {{footnote
 
-The contents of this document is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
+The contents of this document is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. Version Number 0.108.
 
 }}
 
@@ -36,73 +34,126 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 {{toc
 
-- ### [{{ PART 1 - The Infinite Library}}{{ 3}}](#p4) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:129px,left:55px,width:245px,mix-blend-mode:normal}
+- ### [{{ Foreword - For Dungeon Masters' Eyes Only}}{{ 3}}](#p4) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:129px,left:55px,width:245px,mix-blend-mode:normal}
 
-  - ###### [{{ Items and Treasures}}{{ 4}}](#p5)
+- ###### [{{ Forget-Me-Not}}{{ 3}}](#p4)
+
+- ### [{{ PART 1 - The Infinite Library}}{{ 4}}](#p5) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:176px,left:55px,width:245px,mix-blend-mode:normal}
+
+- ###### [{{ Items and Treasures}}{{ 5}}](#p6)
   
-    - [{{ Magic Items}}{{ 4}}](#p5)
-      - [{{ Blossom-Blade Saya}}{{ 4}}](#p5)
-      - [{{ Kyōsei Claw}}{{ 4}}](#p5)
-      - [{{ Noh Mask of the Noppera-bō}}{{ 5}}](#p6)
-      - [{{ Prayer Beads to the Myōjin}}{{ 5}}](#p6)
-      - [{{ Red Feather?}}{{ 5}}](#p6)
-      - [{{ Statue of Preservation}}{{ 5}}](#p6)
-      - [{{ Twin Dragon Daikyū }}{{ 6}}](#p7)
-      - [{{ Prostheses}}{{ 8}}](#p9)
-        - [{{ Shinobi Prosthetic}}{{ 8}}](#p9)
-        - [{{ Shuko Claws}}{{ 8}}](#p9)
-    - [{{ Unique Items}}{{ 9}}](#p10)
-      - [{{ Kakure-bi, the Concealed}}{{ 9}}](#p10)
-      - [{{ Kane-tsuki, the Warcaller}}{{ 9}}](#p10)
-      - [{{ Kenzo's Jitte}}{{ 9}}](#p10)
-      - [{{ Musei, the Unknown}}{{ 9}}](#p10)
-      - [{{ Ori, the Eight-Fold}}{{ 10}}](#p11)
-      - [{{ Tansa-Ki, the Asteroid}}{{ 10}}](#p11)
-      - [{{ Wakare, the Branching}}{{ 11}}](#p12)
-    - [{{ Sacred Treasures}}{{ 12}}](#p13)
-      - [{{ The Relics of Kumonoue}}{{ 12}}](#p13)
-      - [{{ The Starlight Regalia}}{{ 12}}](#p13)
+  - [{{ Magic Items}}{{ 5}}](#p6)
+    - [{{ Blossom-Blade Saya}}{{ 5}}](#p6)
+    - [{{ Heartbreaker Kaiken}}{{ 5}}](#p6)
+    - [{{ Hōō Feather}}{{ 5}}](#p6)
+    - [{{ Hōō Sensu}}{{ 6}}](#p7)
+    - [{{ Nimbus Sake}}{{ 6}}](#p7)
+    - [{{ Noh Mask of the Noppera-bō}}{{ 6}}](#p7)
+    - [{{ Prayer Beads to the Myōjin}}{{ 6}}](#p7)
+    - [{{ Statue of Preservation}}{{ 6}}](#p7)
+    - [{{ Twin Dragon Daikyū }}{{ 7}}](#p8)
+    - [{{ Unwinding Uwa-obi }}{{ 7}}](#p8)
+    - [{{ Prostheses}}{{ 9}}](#p10)
+      - [{{ Kyōsei Claw}}{{ 9}}](#p10)
+      - [{{ Shinobi Prosthetic}}{{ 9}}](#p10)
+      - [{{ Shuko Claws}}{{ 10}}](#p11)
+      - [{{ Hookshot Hand}}{{ 10}}](#p11)
+  - [{{ Unique Items}}{{ 11}}](#p12)
+    - [{{ Jade Bear Claw}}{{ 11}}](#p12)
+    - [{{ Jun's Bamboo Leg}}{{ 11}}](#p12)
+    - [{{ Kakure-bi, the Concealed}}{{ 11}}](#p12)
+    - [{{ Kane-tsuki, the Warcaller}}{{ 11}}](#p12)
+    - [{{ Kenzo's Jitte}}{{ 12}}](#p13)
+    - [{{ Musei, the Unknown}}{{ 12}}](#p13)
+    - [{{ Ori, the Eight-Fold}}{{ 12}}](#p13)
+    - [{{ Tansa-Ki, the Asteroid}}{{ 13}}](#p14)
+    - [{{ Wakare, the Branching}}{{ 13}}](#p14)
+  - [{{ Sacred Treasures}}{{ 14}}](#p15)
+    - [{{ The Relics of Kumonoue}}{{ 14}}](#p15)
+    - [{{ The Starlight Regalia}}{{ 14}}](#p15)
 
-  - ###### [{{ Allies, Monsters, and Villains}}{{ 13}}](#p14)
-  
-    - [{{ Allies}}{{ 14}}](#p15)
-      - [{{ Atsuki}}{{ 14}}](#p15)
-      - [{{ Chie}}{{ 15}}](#p16)
-      - [{{ Makoto}}{{ 17}}](#p18)
-      - [{{ Masuzō}}{{ 18}}](#p19)
-      - [{{ Yuxuan}}{{ 19}}](#p20)
-    - [{{ The Bound and Fraying Rope}}{{ 21}}](#p22)
-      - [{{ Cult Footsoldiers}}{{ 22}}](#p23)
-      - [{{ The Twin Sons}}{{ 24}}](#p25)
-    - [{{ Generic Foes}}{{ 25}}](#p26)
-      - [{{ Guards}}{{ 25}}](#p26)
-      - [{{ Samurai and Ashigaru}}{{ 26}}](#p27)
-    - [{{ Godaiyō}}{{ 27}}](#p28)
-      - [{{ Raiju}}{{ 27}}](#p28)
-    - [{{ The Hyakushima Bandits}}{{ 29}}](#p30)
-    - [{{ Rouges and Rōnin}}{{ 31}}](#p32)
-      - [{{ Genji and Okamoto}}{{ 31}}](#p32)
-    - [{{ The Shadow Triad}}{{ 33}}](#p34)
-      - [{{ The Bai Crime Family}}{{ 34}}](#p35)
-    - [{{ Undead}}{{ 35}}](#p36)
-      - [{{ Jiangshi}}{{ 33}}](#p36)
-    - [{{ Wakasa Clan}}{{ 37}}](#p38)
-      - [{{ Hatsumomo}}{{ 38}}](#p39)
-      - [{{ Daimyō Hidemaro}}{{ 39}}](#p40)
-    - [{{ Yokai}}{{ 41}}](#p42)
-      - [{{ Ningyo}}{{ 41}}](#p42)
+- ###### [{{ Allies, Monsters, Foes, and Villains}}{{ 15}}](#p16)
 
-- ### [{{ PART 2 - The Living Lore}}{{ 43}}](#p44) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:925px,left:55px,width:245px,mix-blend-mode:normal}
-
-  - ###### [{{ Letters and Documents}}{{ 44}}](#p45)
-  
-    - [{{ Cultist’s Poem}}{{ 44}}](#p45)
-    - [{{ Haiku of the Fading Mire}}{{ 44}}](#p45)
-    - [{{ Note to Sayuri from Kaito}}{{ 44}}](#p45)
-    - [{{ Sensei Kenzo’s Letter to the Students}}{{ 44}}](#p45)
-    - [{{ The Usagi’s Letter to Jun}}{{ 45}}](#p46)
+  - [{{ Akki}}{{ 16}}](#p17)
+    - [{{ Toku-Toku's Fire Cult}}{{ 17}}](#p18)
+  - [{{ Allies}}{{ 20}}](#p21)
+    - [{{ Atsuki}}{{ 20}}](#p21)
+    - [{{ Chie}}{{ 21}}](#p22)
+    - [{{ Makoto}}{{ 23}}](#p24)
+    - [{{ Masuzō}}{{ 24}}](#p25)
+    <!-- - [{{ Yaeko}}{{ 24}}](#p25)  +2? -->
+    - [{{ Yuxuan}}{{ 25}}](#p26)
+  - [{{ The Bound and Fraying Rope}}{{ 27}}](#p28)
+    - [{{ Cult Footsoldiers}}{{ 28}}](#p29)
+    - [{{ The Twin Sons}}{{ 30}}](#p31)
+  - [{{ Generic Foes}}{{ 31}}](#p32)
+    - [{{ Guards}}{{ 31}}](#p32)
+    - [{{ Samurai and Ashigaru}}{{ 32}}](#p33)
+  - [{{ Godaiyō}}{{ 33}}](#p34)
+    - [{{ Raijū}}{{ 33}}](#p34)
+  - [{{ The Hyakushima Bandits}}{{ 35}}](#p36)
+  - [{{ King of Iron Fist Tournament Fighters}}{{ 37}}](#p38)
 
 }}
+
+{{toc
+
+- ######
+
+  - [{{ Rouges and Rōnin}}{{ 39}}](#p40)
+    - [{{ Genji and Okamoto}}{{ 39}}](#p40)
+  - [{{ The Shadow Triad}}{{ 41}}](#p42)
+    - [{{ The Bai Crime Family}}{{ 42}}](#p43)
+  - [{{ Tenno}}{{ 43}}](#p44)
+    - [{{ Baku}}{{ 43}}](#p44)
+  - [{{ Undead}}{{ 45}}](#p46)
+    - [{{ Jiangshi}}{{ 45}}](#p46)
+  - [{{ The Unknown Fire}}{{ 47}}](#p48)
+  - [{{ Wakasa Clan}}{{ 49}}](#p50)
+    - [{{ Hatsumomo}}{{ 50}}](#p51)
+    - [{{ Daimyō Hidemaro}}{{ 51}}](#p52)
+  - [{{ Yokai}}{{ 53}}](#p54)
+    - [{{ Kamaitachi}}{{ 53}}](#p54)
+    - [{{ Nijimu-onna}}{{ 53}}](#p54) <!-- +2 -->
+    - [{{ Ningyo}}{{ 53}}](#p54) <!-- +2? -->
+    - [{{ Suiko}}{{ 53}}](#p54) <!-- +2? -->
+
+- ### [{{ PART 2 - The Living Lore}}{{ 55}}](#p56) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:376px,left:285px,width:245px,mix-blend-mode:normal}
+
+- ###### [{{ Letters and Documents}}{{ 56}}](#p57)
+  
+  - [{{ Cultist’s Poem}}{{ 56}}](#p57)
+  - [{{ Haiku of the Fading Mire}}{{ 56}}](#p57)
+  - [{{ Note to Sayuri from Kaito}}{{ 56}}](#p57)
+  - [{{ Sensei Kenzo’s Letter to the Students}}{{ 56}}](#p57)
+  - [{{ The Usagi’s Letter to Jun}}{{ 57}}](#p58)
+
+}}
+
+\page
+
+# Foreword
+
+{{wide,margin-bottom:0px
+
+## For Dungeon Masters' Eyes Only
+
+}}
+
+{{#fancy T}}{{#after-fancy &nbsp;his book is divided into two sections.}}
+
+The first, *The Infinite Library*, acts as a repository for information about all things mechanical. This includes setting specific magic items, creatures, and additional feats and rules not shown in the Player's Guide. The second section is *The Living Lore*, which describes in greater detail knowledge about the world, including that which player characters may not be privy to and instead may discover on their journeys. This section features in-world text, such as sections of books, poems, and letters, as well as more specific information on the many locations and organisations within Sumiriku.
+
+\column
+
+### Forget-Me-Not ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:132px,left:395px,width:375px,mix-blend-mode:normal}
+
+**TODO - NOT STARTED - UNIMPORTANT**
+
+{{pageNumber,auto}}
+{{footnote PART 1 | FOREWORD}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
@@ -125,15 +176,15 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
 # Items And Treasures
 
-Some text
+Myth and folklore of Sumiriku are filled with important artefacts, relics who's powers were required in times of need or weapons elevated to legendary status by their wielders. These items, many currently enshrined or kept as treasured heirlooms, help connect this storied history to our present day.
 
-:::::
+The following lists a number of unique magic items that can be found within the setting of Sumiriku. These items feature lore explaining their origin, design, or use, as well as mechanical information for using the item.
 
 {{note
 
@@ -145,7 +196,7 @@ The second tag is Rarity, which indicates how plentiful an item is and how likel
 
 The third tag is Power, which indicates the strength of the item's abilities and the impact it would have on a character's potential. The levels of Power are Aesthetic, for items that do not confer any mechanical bonuses, Minor, Major, Epic, and Ultimate.
 
-There are a selection of additional tags that any item can have. Craftable is for items forged and transmuted by people's hands, which are also items that are easier to purchase or to have custom made. Mundane is for items that have no magical properties, and will continue to function under any anti-magic effects. Miracle is for items created by magical phenomena or rituals lost to time, such that the item couldn't be created again. Sacred is for the Sacred Treasures of Sumiriku, items that have legendary tales told of them or have close ties to divinity.
+There are also other tags that any item can have. Craftable is for items forged and transmuted by people's hands, which are also items that are easier to purchase or to have custom made. Mundane is for items that have no magical properties, and will continue to function under any anti-magic effects. Miracle is for items created by magical phenomena or rituals lost to time, such that the item couldn't be created again. Sacred is for the Sacred Treasures of Sumiriku, items that have legendary tales told of them or have close ties to divinity.
 
 }}
 
@@ -153,33 +204,46 @@ There are a selection of additional tags that any item can have. Craftable is fo
 
 ## Magic Items
 
+<!-- "Once you use this property, you can't use it again until the next dawn." -->
+<!-- "This ___ has _ charges and regains 1d_ expended charges daily at dawn. While holding the ___, you can ___ and expend 1 charge to..." -->
+
 #### Blossom-Blade Saya
 
-*Wondrous Item, Rare, Aesthetic* </br>
+*Wondrous Item, Rare, Aesthetic, Craftable* </br>
 This saya, or katana scabbard, is light pink in colour, with silver detailing and a purple sageo cord. When a katana is drawn from this saya, strongly scented sakura blossoms appear traveling along the path of the draw, alongside a swift gust of wind, before they disperse into the open air.
 
 #### Heartbreaker Kaiken
 
-*Weapon (Tantō), Common, Minor*</br>
+*Weapon (Tantō), Common, Minor, Craftable*</br>
 This style of knife, in a sheath disguised as a make-up box, is often carried in a sleeve or Kimono pocket for self-defence by Geisha or working girls. If you hit a creature with the Charmed Condition with this Tantō the attack is a Critical Hit.
 
-#### Kyōsei Claw
+#### Hōō Feather
 
-*Prosthetic (Arm), Rare, Minor* </br>
-This prosthetic arm is actually a sentient ooze, attached to a host for protection in a symbiotic relationship. The claw is a dark purple colour, with multiple toothy protrusions, including a mouth in the palm of the hand.
+*Wondrous Item, Very Rare, Epic* </br>
+This large feather is a bright gradient in colour, from a deep red at the base to white at the tip. This feather was found among the belongings of Toku-Toku, a cult leader and pyromaniac. It seems that this feather has properties of healing flame.
 
-**Unarmed Strikes.** You can use this claw to make Unarmed Strikes. When you hit with them, the strike deals 1d6 + your Strength Modifier Necrotic damage, instead of the Bludgeoning damage normal for an Unarmed Strike.
+If this feather is held tightly, when the person holding the feather drops to 0 Hit Points, they are instead brought back in a fiery resurrection. They are healed a number of Hit Points equal to half their Maximum Hit Points, and all creatures within 5 feet of them must attempt a DC 14 Dexterity Saving Throw. They take 3d6 Fire damage on a failed save, or half that on a successful save. The feather is consumed if used in this way.
 
-**Tether Lance.** Once per Long Rest, you can make a Ranged Unarmed Strike with the claw, with a Short Range of 15 feet and a Long Range of 30 feet. On hit the target takes damage as normal can also be pulled up to 15 feet towards you.
-
-**Parasitic Personality.** The Kyōsei Claw has a personality of its own, though of little intelligence. However, it has demands that need to be satiated, and it seems to have an influence over the personality of its host. If the claw has not received the taste of flesh, either by being fed by hand or by dealing damage to a creature, it may become uncooperative.
+This feather can instead be used to return the recently deceased back to life. When placed on the body of a creature that has died within the last minute, they return to life with 1 hit point, as in the *Revivify* spell. This can't return to life a creature that has died of old age, nor can it restore any missing body parts. The feather is also consumed if used in this way.
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
+
+#### Hōō Sensu
+
+*Wondrous Item, Very Rare, Epic*</br>
+This fan, constructed out of feathers, was displayed in a golden statue of a Hōō, mystical birds of fire and radiance. The fan has 4 charges. As a Magic Action you can twirl the fan in a performance to emit golden flames in a 20-foot Emanation. Make a DC 15 Charisma (Performance) check. On a successful check, one creature of your choice in the Emanation gains a Heroic Reroll or has Disadvantage on their next Saving Throw until the end of your next turn. On a success or fail. allies in the Emanation gain Temporary Hit Points and other creatures of your choice in the Emanation take Fire damage equal to 2 times the fan's remaining charges. Once this property of the fan is used, it cannot be used again until the next dawn.
+
+While holding the fan, you can take a Magic Action and expend a charge to cast *Revivify*, without requiring any Material Components. The fan becomes non-magical once all charges are used. The fan can be disassembled into a number of Hōō Feathers equal to the charges remaining, at which point it becomes non-magical.
+
+#### Nimbus Sake
+
+*Wondrous Item, Very Rare, Major, Craftable*</br>
+**TODO - NOT STARTED - IMPORTANT**
 
 #### Noh Mask of the Noppera-bō
 
@@ -188,27 +252,18 @@ This mask appears to be a traditional Noh theatre mask, depicting someone with c
 
 When you put on the mask you can choose to cast the Disguise Self spell. The spell lasts until you take of the mask, and the DC of the Intelligence (Investigation) for discovering the illusion is 20. While wearing the mask you are unable to speak, or cast spells requiring verbal components.
 
-#### Prayer Beads to the Myōjin
+\column
+
+#### Prayer Beads to the Myōjin <!-- CONSIDER REBALANCE - REGULAR CAST TIME/ONLY ONE SPELL PER DAY -->
 
 *Wondrous Item, Rare, Major (requires attunement by a Wisdom caster)* </br>
-This bracelet of wooden prayer beads, known as an ōjuzu, has been made to help recite prayer to the Myōjin, the most divine of the Kami. In addition to the many non-magical wooden beads, the bracelet has a number of magical beads, each one engraved with the name of one of the Myōjin. Each magical bead contains a specific spell related to that Myōjin, that you can cast from it as a bonus action (using your spell save DC if a save is necessary). To use the bead, you must be wearing the bracelet. Once a magic bead's spell is cast, that bead can't be used again until the next dawn. If a magic bead is removed from the bracelet, that bead loses its magic. If more beads are discovered, they can be added to the bracelet.
+This bracelet of wooden prayer beads, known as an ōjuzu, has been made to help recite prayer to the Myōjin, the most divine of the Kami. In addition to the many non-magical wooden beads, the bracelet has a number of magical beads, each one engraved with the name of one of the Myōjin. Each magical bead contains a specific spell related to that Myōjin, that you can cast from it as a Bonus Action. To use the bead, you must be wearing the bracelet. Once a magic bead's spell is cast, that bead can't be used again until the next dawn. The spells use your Spellcasting Ability and Spell Save DC. If a magic bead is removed from the bracelet, that bead loses its magic. If more beads are discovered, they can be added to the bracelet.
 
 The bracelet currently has beads of the following spells, listed with their associated Myōjin:
 
 - Inzanami-sama: *Spirit of Death*<sup>BMT</sup>
 - Netsu-sama: *Haste*
 - Kahei-sama: *Calm Emotions*
-
-\column
-
-#### Red Feather?
-
-*Wondrous Item, Very Rare, Epic* </br>
-This large feather is a bright gradient in colour, from a deep red at the base to white at the tip. This feather was found among the belongings of Toku-Toku, a cult leader and pyromaniac. It seems that this feather has properties of healing flame.
-
-If this feather is held tightly, when the person holding the feather drops to 0 hit points, they are instead brought back in a fiery resurrection. They are healed a number of hit points equal to half their maximum hit points, and all creatures within 5 feet of them must attempt a DC 14 Dexterity saving throw. They take 3d6 fire damage on a failed save, or half that on a successful save. The feather is consumed if used in this way.
-
-This feather can instead be used to return the recently deceased back to life. When placed on the body of a creature that has died within the last minute, they return to life with 1 hit point, as in the *Revivify* spell. This can't return to life a creature that has died of old age, nor can it restore any missing body parts. The feather is also consumed if used in this way.
 
 #### Statue of Preservation
 
@@ -218,7 +273,7 @@ This small statue of a decaying body in meditation gives off a spectral, hauntin
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -229,14 +284,12 @@ This Daikyū is elegantly carved and decorated, painted a sheer white and detail
 
 You gain a +1 bonus to Attack and Damage Rolls made using this Daikyū. Attacks with this Daikyū deal either Fire or Force damage, instead of Piercing, chosen when you make the attack. On a hit, the Daikyū deals an extra 1d6 damage of the chosen type.
 
-In place of an attack, you can release a 150-foot long and 5-foot-wide Line of energy from the Daikyū. Each creature in the Line makes a Dexterity Saving Throw, taking 1d8 Fire damage and 1d8 Force damage on a failed save or half as much damage on a successful one. Once you use this feature, you cannot use it again until you complete a Short or Long Rest.
+This magic weapon has 3 charges and regains 1d3 charges daily at dawn. While holding this Daikyū, in place of an attack, you can spend a charge and  release a 150-foot long and 5-foot-wide Line of energy from it. Each creature in the Line makes a Dexterity Saving Throw, taking 1d8 Fire damage and 1d8 Force damage on a failed save or half as much damage on a successful one.
 
-{{pageNumber,auto}}
-{{footnote PART 1 | THE INFINITE LIBRARY}}
+#### Unwinding Uwa-obi
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
-
-\page
+*Wondrous Item, Rare, Minor, Craftable*</br>
+This obi, specifically designed for Samurai or Shinobi to carry their weapons, contains a tiny amount of chronomantic magic, letting the wearer take back a strike and leave only the wound. This belt has space to carry eight Ranged Thrown Weapons, four Light Melee Weapons or two Melee Weapons without the Two-Handed property. While wearing this belt, if you make an attack with a Thrown Weapon that had been carried in the belt, it returns to the belt immediately after the attack concludes, no matter the distance between you and the weapon.
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
@@ -245,39 +298,84 @@ In place of an attack, you can release a 150-foot long and 5-foot-wide Line of e
 
 \page
 
-![arm](https://i.imgur.com/euSgduk.png) {position:absolute,bottom:75px,left:60px,height:90%}
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
 
-\column
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
-{{wide,#bigger-column-right
+\page
 
 ### Prostheses
 
+{{note
+
+##### Note: What are Prostheses?
+
+Prostheses are items, either mundane or magical, that help replicate the function of a missing limb or other body part. D&D characters, much like many people in the real world, may be without these body parts, and prostheses can help them continue their adventuring. These protheses items are intended to help characters with amputations or other physically disabled characters, but some could be used with characters without these disabilities. Each item has in its description how it functions and how the character interfaces with it; you can assume they function the same as their equivalent body part unless specified otherwise. Most prostheses come with benefits to the wearer, but also drawbacks. Some players may want to make characters who are amputees, or have it be part of their character's journey; work with these players to find a solution that is narratively and functionally satisfying, that adheres to the character concept and allows them to be a part of the game. Also note that these are sensitive topics, that not all players in the game may be comfortable with, so be sure to use safety tools and properly consult with your players about what areas may be off limits to them.
+
+<!--  This advice goes for not just prostheses, but all representations of disability in games. -->
+
+}}
+
+#### Kyōsei Claw
+
+*Prosthetic (Arm), Rare, Minor* </br>
+This prosthetic arm is actually a sentient ooze, attached to a host for protection in a symbiotic relationship. The claw is a dark purple colour, with multiple toothy protrusions, including a mouth in the palm of the hand.
+
+You can use this claw to make Unarmed Strikes. When you hit with them, the strike deals 1d6 + your Strength Modifier Necrotic damage, instead of the Bludgeoning damage normal for an Unarmed Strike.
+
+This claw has three charges, and regains 1d3 expended charges daily at dawn. In place of an Unarmed Strike, you can expend 1 charge to make a Ranged Unarmed Strike with the claw, with a Short Range of 15 feet and a Long Range of 30 feet. If you hit a Large or smaller creature with this Attack, you can pull the creature up to 15 feet towards you.
+
+The Kyōsei Claw has a personality of its own, though of little intelligence. However, it has demands that need to be satiated, and it seems to have an influence over the personality of its host. If the claw has not received the taste of flesh, either by being fed by hand or by dealing damage to a creature, it may become uncooperative.
+
+\column
+
 #### Shinobi Prosthetic
 
-*Prosthetic (Arm), Very Rare, Major (Requires Attunement)* </br>
-This highly advanced prosthetic, created by esteemed craftsperson Rumiko, combines stone, rope, steel, and bone into a form that mimics a normal arm. A combination of engineering and magic allows the wielder to command the prosthetic as they would their missing arm, though they receive no sensation from it and the precision they can get is never quite the same. The magic incorporated into the prosthetic is confounding; the mechanics of the limb are mundane but the embed magic is required to control it. Specially for the new owner, the tips of the fingers have been filed down into small claws.
+*Prosthetic (Arm), Very Rare, Major (Requires Attunement), Craftable* </br>
+This highly advanced prosthetic, created by esteemed craftsperson Rumiko, combines stone, rope, steel, and bone into a form that mimics a normal arm. A combination of engineering and magic allows the wielder to command the prosthetic as they would their missing arm, though they receive no sensation from it and the precision they can get is never quite the same. The magic incorporated into the prosthetic is confounding; the mechanics of the limb are mundane but embedded magic is required to control it. Specially for the new owner, the tips of the fingers have been filed down into small claws.
 
-Despite the impressive feat of engineering, a device as complex as this is likely to encounter issues. You can use this prosthetic as a regular arm, able to perform all actions that you would normally. Whenever you attempt a D20 test requiring use of this prosthetic, such as lifting a heavy object or making an Attack Roll, and you roll a 1 you fail the action and the prosthetic jams, and is unusable until it is fixed. You also must attempt a D20 test to see if the prosthetic jams if you attempt an action with your prosthetic that does not require a D20 test, such as casting a spell with Somatic components. While your prosthetic is jammed you can use your Action to make a DC 15 Dexterity (Sleight of Hand) check to fix the arm. You can add proficiency to this roll if you have proficiency with Carpenter's tools, Tinker's tools, or Thieves' tools and you use them to help fix the arm. Another creature can also attempt this fix as an action. If this check is failed, the arm is broken and will need repairs.
+Despite the impressive feat of engineering, a device as complex as this is likely to encounter issues. You can use this prosthetic as a regular arm, able to perform all actions that you would normally. Whenever you attempt a D20 test requiring use of this prosthetic, such as lifting a heavy object or making an Attack Roll, and you roll a 1, you fail the action and the prosthetic jams; it becomes unusable until it is fixed. You also must attempt a D20 test to see if the prosthetic jams if you attempt an action with your prosthetic that does not require a D20 test, such as casting a spell with Somatic components. While your prosthetic is jammed you can use your Action to make a DC 15 Dexterity (Sleight of Hand) check to fix the arm. You can add proficiency to this roll if you have proficiency with Carpenter's tools, Tinker's tools, or Thieves' tools and you use them to help fix the arm. Another creature can also attempt this fix as an action. If this check is failed, the arm is broken and will need repairs.
 
 You can repair the arm over a Short or Long Rest. You can attempt the same check once per rest, this time at DC 10, to repair an arm or to remove a jam. If you have proficiency with Carpenter's tools, Tinker's tools, or Thieves' tools and use them in the repairs you succeed without needing to make a check.
 
 Your prosthetic has space for an attachment under the bone. You can manually swap attachments over a Short or Long Rest.
 
+![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+{{#big-column
+
+#### Hookshot Hand
+
+*Wondrous Item (Shinobi Prosthetic Attachment), Very Rare, Major, Mundane, Craftable* </br>
+
+This attachment replaces the connection between the hand and the wrist with a length of chain, looped under the arm. While this attachment is set into a Shinobi Prosthetic you are wearing, if you are not holding an item in the prosthetic hand, you can launch your hand towards a ledge, branch, beam, or other fixed surface within 20 feet, either as a Bonus Action or as a Reaction to falling. Your hand then attaches to that surface until you use a Bonus Action to detach your hand and reel it back in. When your hand is attached, you have Advantage on Ability Checks made to move along the chain, such as to climb a vertical surface, swim against a current, or walk against a strong wind, and you can’t move or be moved more than 20 feet away from the point to which the hand is attached.
+
+Alternatively, you can use a Bonus Action you attempt to grapple a creature within 20 feet of you that is at most one size larger than you. If the target is grappled this way, their Speed is not reduced but they cannot move more than 20 feet away from you.
+
 #### Shuko Claws
 
-*Wondrous Item (Shinobi Prosthetic Attachment), Very Rare, Minor, Mundane* </br>
-This attachment grants you hidden hooked blades, designed after the claws of the Nekotaiyō to help climb perilous heights. As a Bonus Action you can extend or retract these claws. While extended, you gain a Climb Speed equal to half of your Speed. In addition, you can use these claws to make Unarmed Strikes, which deal 1d4 + your Strength Modifier Slashing damage, instead of the Bludgeoning damage normal for an Unarmed Strike, and you can reduce the target's Speed 10 feet until the start of your next turn. This ability can only be used once per creature per round.
+*Wondrous Item (Shinobi Prosthetic Attachment), Very Rare, Minor, Mundane, Craftable* </br>
+This attachment grants you hidden hooked blades, designed after the claws of the Nekotaiyō to help climb perilous heights. While this attachment is set into a Shinobi Prosthetic you are wearing, as a Bonus Action you can extend or retract these claws. While extended, you gain a Climb Speed equal to half of your Speed. In addition, you can use these claws to make Unarmed Strikes, which deal 1d4 + your Strength Modifier Slashing damage, instead of the Bludgeoning damage normal for an Unarmed Strike, and you can reduce the target's Speed 10 feet until the start of your next turn. This Speed reduction can only apply once per creature per round.
 
 }}
 
-{{position:absolute,top:730px,left:250px,margin-bottom:-50px
+\column
+
+![arm](https://i.imgur.com/euSgduk.png) {position:absolute,bottom:35px,left:450px,height:95%}
+
+{{position:absolute,top:745px,right:280px,margin-bottom:-50px,text-align:right
 
 ##### A Shinobi</br>Prosthetic
 
 }}
-
-![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:61px,left:325px,width:460px,mix-blend-mode:normal}
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
@@ -286,13 +384,47 @@ This attachment grants you hidden hooked blades, designed after the claws of the
 
 \page
 
-<!-- #### Hookshot Hand
-
-*Wondrous Item (Shinobi Prosthetic Attachment), Very Rare, Minor, Mundane* </br> -->
-
 ## Unique Items
 
-Some Text
+#### Jade Bear Claw
+
+*Weapon (Tantō), Unique, Major (Requires Attunement by a Druid), Miracle* </br>
+This single claw is but a fragment of the complete statue, said to be carved from a chunk of Suikuma's flesh and containing the pure essence of Jikai. While holding the magic weapon, you gain a +1 bonus to Attack and Damage Rolls made with it, you can use it as a Spellcasting Focus for your Druid spells, and you gain a +1 bonus to Spell Attack Rolls and to the Saving Throw DCs of your Druid spells. In addition, you have Advantage on all Wisdom (Survival) checks you make while holding this item.
+
+#### Jun's Bamboo Leg
+
+*Prosthetic (Leg), Unique, Major (Requires Attunement by a Druid), Miracle* </br>
+After inserting a fragment of elemental jade inside a crack in the stalk of bamboo, Jun's hastily made peg-leg has magically sprouted. It is now a mass of intertwined bamboo plants, the bends and roots forming the shape of a digitigrade fox leg.
+
+Through a primal bond, you can move and feel through this leg as if it were your own. The leg requires force to remove, and becomes non-magical if it is removed. You have the base Walking Speed of your species while wearing this leg, and also you ignore the effects of Difficult Terrain imposed by plants.
+
+The jade piece encased in this leg allows it to channel magic. While wearing this leg, you can use this as a Spellcasting Focus for your Druid spells, and you gain a +1 bonus to Spell Attack Rolls and to the Saving Throw DCs of your Druid spells.
+
+The leg needs at least 1 hour each day spent in watered soil to keep working. If the leg does not receive this care it begins to wither; it still functions as a leg, but it no longer functions as a Spellcasting Focus and you no longer ignore the effects of Difficult Terrain imposed by plants. Once the leg has spent at least 1 hour in watered soil it is restored to normal. If you fail a Saving Throw against an effect that deals Fire damage, the leg burns and shrivels up. It no longer functions as a leg, loses all features and halves your base Walking Speed, but is still bonded to you. The leg can be restored if it spends a Long Rest in watered soil.
+
+<!--
+
+#### Jun's Bamboo Leg
+
+*Prosthetic (Leg), Unique, Major (Requires Attunement by a Druid)*
+
+After inserting a fragment of elemental jade inside a crack in the stalk of bamboo, Jun's hastily made peg-leg has magically sprouted. It is now a mass of intertwined bamboo plants, the bends and roots forming the shape of a digitigrade fox leg, which continue to grow and shift.
+
+**Nature's Bond.** Through primal magic, you can move and feel through this leg as if it were your own. The leg requires force to remove, and becomes non-magical if it is removed.
+
+**Undergrowth Traversal.** You have the base Walking Speed of your species while wearing this leg, and also you ignore the effects of Difficult Terrain imposed by plants.
+
+**Enhanced Spellcasting Focus.** The jade piece encased in this leg allows it to channel magic. While wearing this leg, you can use this as a Spellcasting Focus for your Druid spells, and you gain a +1 bonus to Spell Attack Rolls and to the Saving Throw DCs of your Druid spells.
+
+**Gardening.** As one would care for a plant, this leg requires upkeep to maintain. The leg needs at least 1 hour each day spent in watered soil, which can be while asleep, as well as pruning and trimming. If the leg does not receive this care it begins to wither; it still functions as a leg, but it no longer has the Enhanced Spellcasting Focus feature and you no longer ignore the effects of Difficult Terrain imposed by plants. Once the leg has spent at least 1 hour in watered soil it is no longer withered and regains those features.
+
+If you fail a Saving Throw against an effect that deals Fire damage, the leg burns and shrivels up. It no longer functions as a leg, losing all features and halving your base Walking Speed, but it is still bonded to you. The leg can be restored if it spends a Long Rest in watered soil.
+
+-->
+
+<!-- Sasa-no-tabiji -->
+
+\column
 
 #### Kakure-bi, the Concealed
 
@@ -308,7 +440,12 @@ It has long been the belief of Clan Wakasa that the role of the Daimyō is to le
 
 Kane-tsuki (鐘つき, 'Bell-Ringer') is a magical Kama Yari, gold-tipped and decorated with bells, that has been passed through the generations of Wakasa leaders. You gain a +1 bonus to Attack and Damage Rolls made with this magic weapon. Whenever a creature is hit by an attack with this weapon, they must succeed on a DC 15 Constitution Saving Throw or be Dazed and Deafened until the end of their next turn. Creatures immune to the Deafened Condition are immune to this effect. This ability can be used only once per turn.
 
-\column
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
 
 #### Kenzo's Jitte
 
@@ -317,19 +454,12 @@ This Jitte was a treasured weapon of Dojo Sensei Kenzo, which he had by his side
 
 #### Musei, the Unknown
 
-*Spellcasting Focus (Musical Instrument), Unique, Epic (Requires Attunement by a Bard)* </br>
-The body and neck of this elegant Shamisen are carved out of wood of the gyaku tree, which grow in the shadowiest parts of Kimyokai. An instrument fit for a most esteemed artist, instead Musei (無声, 'Voiceless') was owned by an anonymous traveling performer, who loved a human, and who lost a family.
+*Spellcasting Focus (Musical Instrument), Unique, Epic (Requires Attunement by a Bard), Craftable* </br>
+The body and neck of this elegant Shamisen are carved out of wood of the gyaku tree, which grow in the shadowiest parts of Kimyokai. An instrument fit for a most esteemed artist, Musei (無声, 'Voiceless') was instead owned by an anonymous traveling performer, who loved a human, and who lost a family.
 
 While holding this Shamisen, you gain a +2 bonus to Spell Attack Rolls and to the Saving Throws DCs of your Bard spells.
 
-In addition, immediately after you cast an Abjuration, Enchantment, or Illusion spell using a Spell Slot while holding this Shamisen, you can gain the Invisible Condition for 1 minute and leave behind an exact illusionary duplicate of yourself in your current space. To all senses the illusion is perfectly lifelike, though physical interaction with it causes it to disappear. The illusion also disappears when you become visible. While it persists, all creatures assume the illusion is you for any feature that relies on your location, such as if you have given a creature the Frightened Condition. You can use this feature a number of times equal to your Charisma modifier, and you regain all expended uses when you finish a Long Rest.
-
-{{pageNumber,auto}}
-{{footnote PART 1 | THE INFINITE LIBRARY}}
-
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
-
-\page
+This Shamisen has 3 charges, and regains 1d3 charges daily at dawn. Immediately after you cast an Abjuration, Enchantment, or Illusion spell using a Spell Slot while holding this Shamisen, you can spend a charge to gain the Invisible Condition for 1 minute and leave behind an exact illusionary duplicate of yourself in your current space. To all senses the illusion is perfectly lifelike, though physical interaction with it causes it to disappear. The illusion also disappears when you become visible. While it persists, all creatures assume the illusion is you for any feature that relies on your location, such as if you have given a creature the Frightened Condition.
 
 #### Ori, the Eight-Fold
 
@@ -352,15 +482,6 @@ In a similar way, you can take a Magic action and use a second command word to f
 
 Placing the mirror inside an extradimensional space created by a Bag of Holding, Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind Total Cover is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
-#### Tansa-ki, the Asteroid
-
-*Wondrous Item, Unique, Major (Requires Attunement)* </br>
-The greatest desire of the Infinite Library is to recover the Orb of All Knowledge, Zenchi-No-Tama, left for them by Mikazuki-sama. If it cannot be found, it instead must be recreated.
-
-Tansa-ki (探査機, 'Probe') is a hemisphere of grey moon-rock, with carved circles on the flat face and embedded marble details. Over the course of 1 minute while holding Tansa-ki, you can touch a creature, alive or dead, a magic item, a book or document, or any other appropriate object as determined by your DM to learn information about the object and store it within Tansa-ki. If you touch a creature you learn the creature's statblock. If you touch a magic item you learn the item's properties, as if you had cast the Identify spell on it. If you touch a book or document, you record all of the information contained within the document. When touching any other appropriate object you can learn and record information of your choosing and the DMs approval about that object, such as its appearance or construction.
-
-As an Action while holding Tansa-ki you can recall any record or piece of information previously stored, as a illusionary hologram appears above the rock's surface with the knowledge you request.
-
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
@@ -368,9 +489,20 @@ As an Action while holding Tansa-ki you can recall any record or piece of inform
 
 \page
 
+#### Tansa-ki, the Asteroid
+
+*Wondrous Item, Unique, Major (Requires Attunement)* </br>
+The greatest desire of the Infinite Library is to recover the Orb of All Knowledge, Zenchi-No-Tama, left for them by Mikazuki-sama. If it cannot be found, it instead must be recreated.
+
+Tansa-ki (探査機, 'Probe') is a hemisphere of grey moon-rock, with carved circles on the flat face and embedded marble details. Over the course of 1 minute while holding Tansa-ki, you can touch a creature, alive or dead, a magic item, a book or document, or any other appropriate object as determined by your DM to learn information about the object and store it within Tansa-ki. If you touch a creature you learn the creature's stat block. If you touch a magic item you learn the item's properties, as if you had cast the Identify spell on it. If you touch a book or document, you record all of the information contained within the document. When touching any other appropriate object you can learn and record information of your choosing and the DMs approval about that object, such as its appearance or construction.
+
+As an Action while holding Tansa-ki you can recall any record or piece of information previously stored, as a illusionary hologram appears above the rock's surface with the knowledge you request.
+
+\column
+
 #### Wakare, the Branching
 
-*Spellcasting Focus (Holy Symbol), Unique, Major (Requires Attunement by a Cleric or Paladin)* </br>
+*Spellcasting Focus (Holy Symbol), Unique, Major (Requires Attunement by a Cleric or Paladin), Miracle* </br>
 
 Those that pray to the great Kodama Iname wish for balance in all things, and understand that life and death, joy and suffering, these are but two branches on the same tree.
 
@@ -391,9 +523,13 @@ If Wakare is ever broken, the spiritual energy stored within erupts as a wave of
 
 ### The Relics of Kumonoue
 
+**TODO - NOT STARTED - UNIMPORTANT**
+
 \column
 
 ### The Starlight Regalia ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:96px,left:54px,width:375px,mix-blend-mode:normal}
+
+**TODO - NOT STARTED - UNIMPORTANT**
 
 ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:395px,width:375px,mix-blend-mode:normal}
 
@@ -406,13 +542,31 @@ If Wakare is ever broken, the spiritual energy stored within erupts as a wave of
 
 # Allies, Monsters, Foes, and Villains
 
-Sumiriku is a dangerous place.
+Dangers lie in every corner of Sumiriku. A traveler on the roads might encounter armed clan checkpoints, roaming bandits, or even a rouge Samurai wishing to test their blade, and those are merely the threats of fellow citizens. Venture into Sumiriku's mountains, forests, and waters and you may find even greater terror, unknowable in nature and otherworldly in origin.
+
+The following are a selection of different stat blocks of different people and creatures that adventurers in Sumiriku my fight against or alongside. These stat blocks are divided up in two ways. The first is by creature type, such as Oni (Fiends), Undead, and Yokai (Fey). The second is by affiliation or organisation; stat blocks for members of specific cults, clans, or criminal organisations can all be found together.
+
+{{note
+
+##### Note: Saving Throws in Stat Blocks
+
+Many creatures have the ability to afflict other creatures with debilitating effects and conditions if they fail a specified Saving Throw. Sometimes the affected target(s) are able to repeat the Saving Throw at the end of each of their turns, ending the effect on a success, which is indicated by the "(save repeats at end of turn)" text. Most effects that apply to creatures have some specified duration, after which the effect ends; If a stat block does not specify a duration for an effect, assume it lasts until the end of the combat.
+
+}}
+
+{{note
+
+##### Note: Spellcasting in Stat Blocks
+
+Some creatures have the ability to cast spells, with use of the spellcasting feature or some other similar feature. These spells will be listed out inside the creature stat block, alongside how many times per day they can be used or any other cost restriction. Most spells a creature can cast will be Actions, but superscript next to the name of the spell indicates the spell's casting time; A for Action, BA for Bonus Action, R for Reaction, or L for anything longer than an Action. Additionally, any spell that requires Concentration will have a C in superscript next to the name of the spell. Spells not included in the Player's Handbook will also have the acronym of the spell's source book in superscript next to the spell name.
+
+}}
 
 \column
 
 {{note
 
-##### Note: Special Actions in Statblocks
+##### Note: Special Actions in Stat Blocks
 
 Notable and powerful characters will likely have additional types of actions they can take when compared to a generic creature. Below is a list of these actions, along with an explanation of what they mean:
 
@@ -435,17 +589,397 @@ Notable and powerful characters will likely have additional types of actions the
 
 \page
 
+## Akki
+
+**TODO - NOT STARTED - UNIMPORTANT**
+
+\column
+
+{{monster,frame
+
+## Akki Scrapper
+
+**TODO - NOT STARTED - UNIMPORTANT**
+
+*Small Humanoid (Akki), Chaotic Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: ?? (???)
+**HP**         :: ?? (?d? + ?)
+\column
+**Initiative** :: +? (??)
+**Speed**      :: ?? ft., ??? ?? ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| ? |  +?  |  +?  |
+|Int| ? |  +?  |  +?  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| ? |  +?  |  +?  |
+|Wis| ? |  +?  |  +?  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| ? |  +?  |  +?  |
+|Cha| ? |  +?  |  +?  |
+
+}}
+
+**Skills**      :: ??? +?
+**Resistances** :: ???
+**Immunities**  :: ???; ???
+**Senses**      :: ???, Passive Perception ??
+**Gear**        :: ???
+**Languages**   :: Sumirikugo, ???
+**CR**          :: ? (XP ?; PB +?)
+
+}}
+
+### Traits
+
+***???.*** ???
+
+***Legendary Resistance (?/Day).*** If ??? fails a Saving Throw, ??? can choose to succeed instead.
+
+***??? (Antagonist Trait, Recharges after a Short or Long Rest).*** ???.
+
+### Actions
+
+***Multiattack.*** ???.
+
+***???*** *??? Attack Roll:* +? to hit, reach ? ft. *Hit:* ? (?d? + ?) ??? damage.
+
+### Bonus Actions
+
+***???.*** *??? Saving Throw:* DC ??, ???. *Failure:* ???. *Success:* ???.
+
+### Reactions
+
+??? can take up to ??? Reactions per round but only one per turn.
+
+***???.*** *Trigger:* ???. *Response* ???.
+
+### Legendary Actions
+
+***???.*** ???.
+
+***??? (Antagonist Action).*** ???.
+
+### Villain Actions
+
+***???.*** ???.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
+### Toku-Toku's Fire Cult
+
+Toku-Toku is an Akki shaman and an advisor to his Gobbo Clan Daiymo, Ato-Ato. However, he is secretly building a violent cult movement under Ato-Ato's nose. They believe that a cleansing fire is coming to sweep over the land, letting it be reborn from the ashes. Their aims are to spread this holy blaze; they have planted makeshift bombs around the nearby village of Yamanoma, and, if not stopped, will burn it to the ground.
+
+![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+
+{{position:absolute,top:315px,left:265px,margin-bottom:-50px,text-align:left
+
+##### An Akki</br>Cult Member
+
+}}
+
+{{imageMaskCenter4,--offsetX:-45%,--offsetY:4%,--rotation:0
+  ![pyroshaman](https://i.imgur.com/a9QehOT.jpeg){position:aboslute,top:250px,left:-60px,width:60%,transform:scaleX(-1)}
+}}
+
+{{position:absolute,top:950px,left:470px,margin-bottom:-50px,text-align:left
+
+##### Toku-Toku's boar,</br>Moesashi
+
+}}
+
+{{imageMaskCorner30,--offsetX:-60%,--offsetY:-60%,--rotation:0
+  ![moesashi](https://i.imgur.com/qVEWZ5g.jpeg){position:aboslute,bottom:-20px,left:-310px,width:100%,transform:scaleX(1)}
+}}
+
+\column
+
+{{monster,frame
+
+## Akki Pyroshaman
+
+**TODO - UNFINISHED - UNIMPORTANT**
+
+*Small Humanoid (Akki, Druid), Chaotic Evil*
+
+{{stats
+
+{{vitals
+
+**AC**         :: ?? (???) <!-- 15 (Medium Armour) -->
+**HP**         :: ?? (?d? + ?) <!-- 16 (3d8 + 3) -->
+\column
+**Initiative** :: +? (??)
+**Speed**      :: 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| ? |  +?  |  +?  |
+|Int| ? |  +?  |  +?  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| ? |  +?  |  +?  |
+|Wis| ? |  +?  |  +?  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| ? |  +?  |  +?  |
+|Cha| ? |  +?  |  +?  |
+
+}}
+
+<!-- {{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 9 |  -1  |  -1  |
+|Int| 12|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12|  +1  |  +1  |
+|Wis| 14|  +2  |  +2  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12|  +1  |  +1  |
+|Cha| 9 |  -1  |  -1  |
+
+}} -->
+
+**Skills**      :: ??? +?
+**Senses**      :: Passive Perception ?? <!-- 14 -->
+**Gear**        :: Bo
+**Languages**   :: Sumirikugo, Shizengo
+**CR**          :: ? (XP ?; PB +?)
+
+}}
+
+### Actions
+
+***Enchanted Bo.*** *Melee Attack Roll:* +4 to hit, reach 5 ft. *Hit:* 6 (1d8 + 2) Bludgeonging damage. <!-- plus 4 (1d8) Fire damage. -->
+
+***Spellcasting.*** The Akki Pyroshaman casts one of the following spells, using Wisdom as the Spellcasting Ability (Spell Save DC ??): <!-- 12, +4 to hit with Spell Attacks -->
+
+<!-- At will: Druidcraft, Shill, Create Bonfire -->
+**1/day each:** Burning Hands<sup>A</sup>, Scorching Ray<sup>A</sup>
+
+### Bonus Actions
+
+***Explosive Escape.*** The Akki Pyroshaman takes the Disengage Action. When they do so, they can choose to create a 5-foot-radius Heavily Obscured area centred on them, that lasts until the end of their next turn.
+
+}}
+
+{{monster,frame
+
+## Moesashi, the Flame-Boar
+
+*Large Elemental (Fire), Unaligned*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 13
+**HP**         :: 42 (5d10 + 5) <!-- 30 -->
+\column
+**Initiative** :: +0 (10)
+**Speed**      :: 40 ft..
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 17|  +3  |  +5  |
+|Int| 2 |  -4  |  -4  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10|  +0  |  +0  |
+|Wis| 7 |  -2  |  -2  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16|  +3  |  +3  |
+|Cha| 5 |  -3  |  -3  |
+
+}}
+
+**Senses**      :: Passive Perception 8
+**Languages**   :: -
+**CR**          :: 2 (XP 450; PB +2)
+
+}}
+
+### Traits
+
+***Intensifying Flame*** Moesashi has Advantage on Melee Attack Rolls while it is Bloodied.
+
+<!-- Charge. If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 3 (1d6) slashing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone. -->
+
+### Actions
+
+***Blazing Tusk*** *Melee Attack Roll:* +5 to hit, reach 5 ft. *Hit:* 10 (2d6 + 3) Fire damage. If the target is a Large or smaller creature and Moesashi moved 20+ feet straight toward it immediately before the hit, the target takes an extra 7 (2d6) Fire damage and has the Prone Condition.
+
+<!-- Tusk. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) Fire damage. -->
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+{{imageMaskEdge5,--offset:8%,--rotation:180
+  ![toku-toku](https://i.imgur.com/uKY44gI.png){position:absolute,top:-1px,width:100%}
+}}
+
+{{position:absolute,top:40px,left:100px,margin-bottom:-50px,text-align:left
+
+##### Toku-Toku, Fire</br>Cult Leader
+
+}}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+{{monster,frame,wide
+
+## Toku-Toku, Pyrozealot
+
+*Small Humanoid (Akki, Druid), Chaotic Evil*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 17 (Basic Medium Armour, Wooden Shield)
+**HP**         :: ?? (?d? + ?) <!-- 27 (5d8 + 5) -->
+\column
+**Initiative** :: +2 (12)
+**Speed**      :: 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 9 |  -1  |  -1  |
+|Int| 12|  +1  |  +4  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14|  +2  |  +2  |
+|Wis| 17|  +3  |  +6  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12|  +1  |  +1  |
+|Cha| 9 |  -1  |  -1  |
+
+}}
+
+**Skills**      :: Medicine +6, Nature +4, Perception +6
+**Senses**      :: Passive Perception 16
+**Gear**        :: 2x Hōō Feather
+**Languages**   :: Sumirikugo, Shizengo
+**CR**          :: ? (XP ?; PB +3)
+
+}}
+
+**TODO - UNFINISHED - UNIMPORTANT**
+
+### Traits
+
+***Hōō Feather.*** Toku-Toku is clutching a Hōō Feather. When he reaches 0 Hit Points while holding the feather, he regains half his Maximum Hit Points, and all creatures within 5 feet of him must succeed on a DC 14 Dexterity Saving Throw or take 7 (2d6) Fire damage.
+
+***Legendary Resistance (1/Day).*** If Toku-Toku fails a Saving Throw, he can choose to succeed instead.
+
+### Actions
+
+<!-- Multiattack? -->
+
+***Fire Starter.*** *Melee or Ranged Attack Roll:* +6 to hit, reach 5 ft. or range 60 *Hit:* ? (?d? + ?) Fire damage.
+
+***Spellcasting.*** Toku-Toku casts one of the following spells, using Wisdom as the Spellcasting Ability (Spell Save DC 14):
+
+<!-- At will: Druidcraft, Produce Flame, Create Bonfire -->
+**2/day each:** Burning Hands<sup>A</sup>, Cure Wounds<sup>A</sup>, Scorching Ray<sup>A</sup>
+</br>**1/day each:** Erupting Earth<sup>XGE, A</sup>, Flaming Sphere<sup>A, C</sup>
+
+***Mind Aflame (1/Day).*** Toku-Toku attempts to enter the mind of a creature and cause them to dream of fire and destruction. *Wisdom Saving Throw:* DC 14, one creature Toku-Toku can see within 60 feet. *Failure:* 14 (3d8) Psychic damage. The target has the Frightened Condition while they can see fire and has has Disadvantage on Saving Throws of effects that deal Fire damage for 1 hour (save repeats at end of turn). *Success:* Half damage.
+
+### Bonus Actions
+
+***Explosive Escape.*** Toku-Toku takes the Disengage Action. When he does so, he can choose to create a 5-foot-radius Heavily Obscured area centred on him, that lasts until the end of his next turn.
+
+### Villain Actions
+
+***Hog Out.*** Toku-Toku summons Moesashi, the Flame-Boar, in an unoccupied space within 30 feet that he can see. *Dexterity Saving Throw:* DC 14, each creature within 10 feet of Moesashi other than Toku-Toku. *Failure:* 7 (2d6) Fire damage.
+
+***Hog Ride.*** Toku-Toku transforms into a flaming boar and both he and Moesashi travel up to 30 feet in straight lines without provoking Opportunity Attacks. *Dexterity Saving Throw:* DC 14, each creature along either path. *Failure:* 7 (2d6) Fire damage.
+
+***Whole Hog.*** Toku-Toku commands Moesashi to slam the ground in one last attack of desperation. *Strength Saving Throw:* DC 14, each creature in a 30-foot Emanation centered on Moesashi. *Failure:* 11 (3d6) Bludgeoning damage plus Fire damage equal to Moesashi's current Hit Points, and the target has the Prone condition. *Success:* Half Bludgeoning damage only. *Failure or Success:* Moesashi disappears.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
 ## Allies
 
-### Atsuki
+### Atsuki ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:95px,left:54px,width:375px,mix-blend-mode:normal}
 
-Text about Atsuki
+**TODO - NOT STARTED - UNIMPORTANT**
 
 \column
 
 {{monster,frame
 
 ## Atsuki of the Crescent Guard
+
+**TODO - REVISION - UNIMPORTANT - CONVERT FROM CLASS STAT BLOCK**
 
 *Medium Humanoid (Tsukibito, Fighter), Neutral*
 
@@ -484,7 +1018,7 @@ Text about Atsuki
 **Senses**    :: Passive Perception 10
 **Gear**      :: Moonflare Blade
 **Languages** :: Eiseigo, Sumirikugo
-**CR**        :: 3 (XP 700; PB +3; Level 6) <!-- TODO - Class Level Statblock - PB too high -->
+**CR**        :: 3 (XP 700; PB +3; Level 6) <!-- TODO - Class Level Stat block - PB too high -->
 
 }}
 
@@ -508,7 +1042,7 @@ Text about Atsuki
 
 ***Patient Stance.*** Atsuki enters the patient stance. While in this stance, Atsuki's Reaction attacks deal an additional 4 (1d8) damage. This stance ends after Atsuki attacks.
 
-***Second Wind (1/Day).*** Atsuki regains 11 (1d10 + 6) hit points and can move up to half their speed without provoking opportunity attacks.
+***Second Wind (1/Day).*** Atsuki regains 11 (1d10 + 6) hit points and can move up to half their speed without provoking Opportunity Attacks.
 
 ### Reactions
 
@@ -527,22 +1061,17 @@ Text about Atsuki
 
 \page
 
-### Chie
+### Chie ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
-{{note
-
-<!-- ##### Note: Kettōdo and Rules for One on One Combat -->
-##### Note: Creature Spellcasting
-
-Some creatures have the ability to cast spells, with use of the spellcasting feature or some other similar feature. These spells will be listed out inside the creature statblock, alongside how many times per day they can be used or any other cost restriction. Most spells a creature can cast will be Actions, but superscript next to the name of the spell indicates the spell's casting time; A for Action, BA for Bonus Action, R for Reaction, or L for anything longer than an Action. Additionally, any spell that requires Concentration will have a C in superscript next to the name of the spell.
-
-}}
+**TODO - NOT STARTED - UNIMPORTANT**
 
 \column
 
 {{monster,frame
 
 ## Chie, Swift Brush
+
+**TODO - NOT STARTED - UNIMPORTANT**
 
 *Medium Humanoid (Tsukibito, Bard), Chaotic Neutral*
 
@@ -601,7 +1130,7 @@ Some creatures have the ability to cast spells, with use of the spellcasting fea
 
 ***???*** *??? Attack Roll:* +? to hit, reach ? ft. *Hit:* ? (?d? + ?) ??? damage.
 
-***Spellcasting.*** ??? casts one of the following spells, using ??? as the Spellcasting Ability (spell save DC ??):
+***Spellcasting.*** ??? casts one of the following spells, using ??? as the Spellcasting Ability (Spell Save DC ??):
 
 **At will:** ???<sup>???</sup>
 </br>**2/day each:** ???<sup>???</sup>
@@ -643,11 +1172,11 @@ Some creatures have the ability to cast spells, with use of the spellcasting fea
 
 \page
 
-### Makoto
+### Makoto ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
-Text about Makoto
+**TODO - NOT STARTED - UNIMPORTANT**
 
-{{monster,frame
+<!-- {{monster,frame
 
 ## Makoto, Wandering Rōnin - TODO
 
@@ -658,7 +1187,7 @@ Text about Makoto
 {{vitals
 
 **AC**         :: 16 (Medium Armour)
-**HP**         :: 41 (6d8 + 10) <!-- TODO - Class Level Statblock - HP too low -->
+**HP**         :: 41 (6d8 + 10) TODO - Class Level Stat block - HP too low
 \column
 **Initiative** :: +3 (13)
 
@@ -688,8 +1217,8 @@ Text about Makoto
 **Skills**    :: Deception +5, Medicine +6, Perception +6, Survival, +6
 **Senses**    :: Passive Perception 13
 **Gear**      :: Katana, Hankyū
-**Languages** :: Sumirikugo, Thieves’ Cant
-**CR**        :: 3 (XP 700; PB +3; Level 6) <!-- TODO - Class Level Statblock - PB too high -->
+**Languages** :: Sumirikugo, Yakuza Zokugo
+**CR**        :: 3 (XP 700; PB +3; Level 6) TODO - Class Level Stat block - PB too high
 
 }}
 
@@ -697,7 +1226,7 @@ Text about Makoto
 
 ***Spellcaster.*** Makoto is a 6th Level Ranger, and has 6 spells prepared. Her Spell Save DC is 15.
 
-***Man's Best Friend.*** Makoto fights alongside her blade-wielding companion Kentaro. Kentaro has a separate statblock, which improves alongside Makoto.
+***Man's Best Friend.*** Makoto fights alongside her blade-wielding companion Kentaro. (Kentaro has a separate stat block, which improves alongside Makoto.)
 
 ### Actions
 
@@ -711,11 +1240,129 @@ Text about Makoto
 
 ***Hunter's Mark.*** Makoto marks a creature she can see within 60 feet of her, ending any marks Makoto has on other creatures. When Makoto or Kentaro hits the marked target with an attack, the target takes an additional 3 (1d6) damage
 
-}}
+}} -->
 
 \column
 
 {{monster,frame
+
+## Makoto, Wandering Rōnin
+
+*Medium Humanoid (Human, Ranger), Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 16 (Medium Armour)
+**HP**         :: 130 (20d8 + 40)
+\column
+**Initiative** :: +4 (14)
+
+}}
+
+**Speed**      :: 40 ft., Climb 40 ft., Swim 40 ft.
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 13|  +1  |  +4  |
+|Int| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 18|  +4  |  +7  |
+|Wis| 16|  +3  |  +3  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +2  |  +2  |
+|Cha| 14|  +2  |  +2  |
+
+}}
+
+**Skills**    :: Animal Handling +6, Deception +5, Medicine +6, Perception +6, Survival +6
+**Senses**    :: Passive Perception 13
+**Gear**      :: Katana, Hankyū
+**Languages** :: Sumirikugo, Yakuza Zokugo
+**CR**        :: 6 (XP 2,300; PB +3)
+
+}}
+
+### Traits
+
+***Man's Best Friend.*** Makoto fights alongside her blade-wielding companion Kentaro.
+
+### Actions
+
+***Multiattack.*** Makoto makes two Attacks.
+
+***Katana.*** *Melee Attack Roll:* +7, reach 5 ft. *Hit:* 9 (2d4 + 4) Slashing damage. **Cross.** *Hit:* Makoto can move to the opposite side of the creature hit without expending movement and without provoking Opportunity Attacks. This feature can be used only once on her turn.
+
+***Hankyū.*** *Ranged Attack Roll:* +7 to hit, range 80/320 ft., one target. *Hit:* 8 (1d6 + 4) Piercing damage. **Vex.** *Hit:* The next Attack Roll Makoto or Kentaro makes against the target before the end of her next turn has Advantage.
+
+***Spellcasting.*** Makoto casts one of the following spells, using Wisdom as the Spellcasting Ability (Spell Save DC 14):
+
+**2/day each:** Hail of Thorns<sup>BA</sup>, Zephyr Strike<sup>XGE, BA, C</sup>
+</br>**1/day each:** Spike Growth<sup>A, C</sup>, Summon Beast<sup>A, C</sup>
+
+### Bonus Actions
+
+***Hunter's Mark.*** Makoto marks a creature she can see within 60 feet of her, ending any marks Makoto has on other creatures. When Makoto or Kentaro hits the marked target with an attack, the target takes an additional 4 (1d6) damage.
+
+}}
+
+{{monster,frame
+
+## Kentaro, Waddling Rōnin
+
+*Tiny Beast, Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 16
+**HP**         :: 90 (20d4 + 40)
+\column
+**Initiative** :: +2 (12)
+**Speed**      :: 40 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 10|  +0  |  +0  |
+|Int| 5 |  -3  |  -3  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 18|  +4  |  +4  |
+|Wis| 16|  +3  |  +3  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +2  |  +2  |
+|Cha| 12|  +1  |  +1  |
+
+}}
+
+**CR** :: 5 (XP 1,800; PB +3)
+
+}}
+
+### Actions
+
+***Multiattack.*** Kentaro makes two Wakizashi attacks.
+
+***Wakizashi.*** *Melee Attack Roll:* +7, reach 5 ft. *Hit:* 8 (1d6 + 4) Slashing damage. **Cross.** *Hit:* Kentaro can move to the opposite side of the creature hit without expending movement and without provoking Opportunity Attacks. This feature can be used only once on her turn.
+
+}}
+
+<!-- {{monster,frame
 
 ## Kentaro, Waddling Rōnin
 
@@ -767,7 +1414,7 @@ Text about Makoto
 
 ***Slash.*** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 10 (1d8 + 5) Slashing damage. **Cross.** If Kentaro hits with this attack, she can move to the opposite side of the creature hit without expending movement and without provoking Opportunity Attacks. This feature can be used only once on her turn.
 
-}}
+}} -->
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
@@ -776,9 +1423,9 @@ Text about Makoto
 
 \page
 
-### Masuzō
+### Masuzō ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
-Text about Masuzō
+**TODO - NOT STARTED - UNIMPORTANT**
 
 {{note
 
@@ -789,7 +1436,7 @@ Kettōdo (決闘道, 'Way of the Duel') is a one-on-one mixed martial art and co
 
 :
 
-&nbsp;&nbsp;&nbsp;**Movement.** Movement Speed is halved. You can choose to reduce your Movement Speed by a further 10 feet to take the Disengage action.
+&nbsp;&nbsp;&nbsp;**Movement.** Movement Speed is halved. You can choose to reduce your Movement Speed by a further 10 feet to take the Disengage action. You can alternatively choose to reduce your Movement Speed by a further 10 feet to give yourself Advantage on Saving Throws against being Grappled, Shoved, or moved against your will.
 
 **Initiative.** Initiative is rolled at the beginning of each round of combat.
 
@@ -809,7 +1456,9 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 {{#creature,monster,frame
 
-## Masuzō, Might of the Mountain - TODO
+## Masuzō, Might of the Mountain
+
+**TODO - UNFINISHED - UNIMPORTANT**
 
 *Large Humanoid Giant (Ōgaru, Monk), Lawful Neutral*
 
@@ -847,7 +1496,7 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 **Skills**    :: Athletics +5, Religion +3, Medicine +6
 **Senses**    :: Passive Perception 13
 **Languages** :: Sumirikugo, Ōgarugo
-**CR**        :: 3 (XP 700; PB +3; Level 6)
+**CR**        :: 3 (XP 700; PB +3)
 
 }}
 
@@ -876,9 +1525,9 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 \page
 
-### Yuxuan
+### Yuxuan ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
-Text about Yuxuan
+**TODO - NOT STARTED - UNIMPORTANT**
 
 {{imageMaskCorner20,--offsetX:-47%,--offsetY:-45%,--rotation:0
   ![masuzo](https://i.imgur.com/KYuQDOa.jpeg){position:absolute,bottom:-25px,left:-50px,height:60%,transform:scaleX(1)}
@@ -896,6 +1545,8 @@ Text about Yuxuan
 
 ## Yuxuan, the Immortal Fist
 
+**TODO - REVISION - URGENT - CONVERT FROM CLASS STAT BLOCK**
+
 *Medium Humanoid Undead (Human, Monk), Chaotic Good*
 
 {{stats
@@ -903,7 +1554,7 @@ Text about Yuxuan
 {{vitals
 
 **AC**         :: 17 (Natural Armour)
-**HP**         :: 63 (9d8 + 18) <!-- TODO - Class Level Statblock - HP too low -->
+**HP**         :: 63 (9d8 + 18) <!-- TODO - Class Level Stat block - HP too low -->
 \column
 **Initiative** :: +4 (14)
 **Speed**      :: 50 ft.
@@ -934,7 +1585,7 @@ Text about Yuxuan
 **Senses**      :: Darkvision 60ft., Passive Perception 17
 **Gear**        :: Zhē
 **Languages**   :: Sumirikugo, Zāngkēgo
-**CR**          :: 5 (XP 1,800; PB +4; Level 9) <!-- TODO - Class Level Statblock - PB too high -->
+**CR**          :: 5 (XP 1,800; PB +4; Level 9) <!-- TODO - Class Level Stat block - PB too high -->
 
 }}
 
@@ -954,7 +1605,7 @@ Text about Yuxuan
 
 ***Unarmed Strike.*** *Melee Attack Roll:* +8, reach 5 ft. *Hit:* 8 (1d8 + 4) Bludgeoning damage.
 
-***Spellcasting.*** Yuxuan casts one of the following spells, requiring no material components and using Wisdom as the Spellcasting Ability (spell save DC 14):
+***Spellcasting.*** Yuxuan casts one of the following spells, requiring no material components and using Wisdom as the Spellcasting Ability (Spell Save DC 14):
 
 **0 Focus Points:** Minor Illusion<sup>A,C</sup>
 </br>**1 Focus Point:** Darkness<sup>A,C</sup> (Yuxuan can see within the spell's area when cast this way)
@@ -993,13 +1644,15 @@ Text about Yuxuan
 
 ## The Bound and Fraying Rope
 
+**TODO - NOT STARTED - UNIMPORTANT**
+
 \column
 
 {{monster,frame
 
 ## Bound Cultist
 
-*Medium Humanoid, Lawful Evil*
+*Small or Medium Humanoid, Lawful Evil*
 
 {{stats
 
@@ -1054,7 +1707,9 @@ Text about Yuxuan
 
 \page
 
-### Cult Footsoldiers
+### Cult Footsoldiers ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+
+**TODO - NOT STARTED - UNIMPORTANT**
 
 {{monster,frame
 
@@ -1123,7 +1778,9 @@ Text about Yuxuan
 
 {{monster,frame
 
-## Chiya, The Bloodied Arrow - TODO
+## Chiya, The Bloodied Arrow
+
+**TODO - UNFINISHED - UNIMPORTANT**
 
 *Medium Humanoid (Kitsune, Shapechanger), Lawful Evil*
 
@@ -1165,10 +1822,6 @@ Text about Yuxuan
 
 }}
 
-### Traits
-
-***Shifter.*** Chiya has the Obake (Shapechanger) creature type.
-
 ### Actions
 
 ***Multiattack.*** Chiya makes two Pact Dagger attacks. She can replace any number of these attacks with uses of March Order.
@@ -1199,9 +1852,9 @@ Text about Yuxuan
 
 \page
 
-### The Twin Sons
+### The Twin Sons ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
-<!-- TODO - FIX THESE BASED ON THE SCREENSHOTS -->
+**TODO - NOT STARTED - UNIMPORTANT**
 
 {{monster,frame
 
@@ -1244,7 +1897,7 @@ Text about Yuxuan
 **Resistances** :: Cold
 **Senses**      :: Passive Perception 11
 **Gear**        :: Portable Hole
-**Languages**   :: Formal Sumirikugo, Onigo, Sumirikugo
+**Languages**   :: Akumago, Formal Sumirikugo, Sumirikugo
 **CR**          :: 9 (XP 2,300; PB +4)
 
 }}
@@ -1257,14 +1910,14 @@ Text about Yuxuan
 
 ***Eldritch Blast (2 Attacks).*** *Ranged Attack Roll:* +9 to hit, range 120 ft. *Hit:* 11 (1d10 + 5) Force damage, and Kaito can move the creature in a straight line up to 10 feet closer or further away.
 
-***Pact Casting.*** Kaito casts one of the following spells, using Charisma as the Spellcasting Ability (spell save DC 17):
+***Pact Casting.*** Kaito casts one of the following spells, using Charisma as the Spellcasting Ability (Spell Save DC 17):
 
 **At will:** Mage Armour<sup>A</sup> (included in AC), Mage Hand<sup>A</sup>
 </br>**3/day combined:** Dimension Door<sup>A</sup>, Hex<sup>BA,C</sup>, Hold Person<sup>A,C</sup>, Fireball<sup>A</sup> (Fifth Level)
 
 ***Oni Fangs.*** *Melee Attack Roll:* +6 to hit, reach 5ft. *Hit:* 7 (1d8 + 2) Piercing damage. If the target of this attack is causing Kaito's Ego trait to be active, he has Advantage on Attack Rolls against them with this attack.
 
-***As Above, So Below (1/Day).*** *Charisma Saving Throw:* DC 17, one target within 30 feet. *Failure:* The target gets thrown through Makoku. They take 8d10 Psychic damage and they have the Incapacitated condition until the end of Kaito's next turn, when they return to the space they previously occupied or the nearest unoccupied space.
+***As Above, So Below (1/Day).*** *Charisma Saving Throw:* DC 17, one target within 30 feet. *Failure:* The target gets thrown through Makoku. They take 8d10 Psychic damage and they have the Incapacitated Condition until the end of Kaito's next turn, when they return to the space they previously occupied or the nearest unoccupied space.
 
 ### Bonus Actions
 
@@ -1314,16 +1967,16 @@ Text about Yuxuan
 **Resistances** :: Fire
 **Senses**      :: Passive Perception 14
 **Gear**        :: Improved Medium Armour
-**Languages**   :: Formal Sumirikugo, Onigo, Sumirikugo
+**Languages**   :: Akumago, Formal Sumirikugo, Sumirikugo
 **CR**          :: 9 (XP 2,300; PB +4)
 
 }}
 
 ### Traits
 
-***Ego.*** If a creature attempts to threaten, intimidate, or goad Kaito, he must attempt a DC 15 Wisdom Saving Throw. If he fails he is forced to target the creature that triggered the Saving Throw with any attacks, spells and abilities he uses and he cannot move away from said creature until the end of this next turn.
+***Ego.*** If a creature attempts to threaten, intimidate, or goad Hayato, he must attempt a DC 15 Wisdom Saving Throw. If he fails he is forced to target the creature that triggered the Saving Throw with any attacks, spells and abilities he uses and he cannot move away from said creature until the end of this next turn.
 
-***Infernal Chains.*** The first time Hayato hits with a weapon attack on his turn, the target must succeed on a DC 17 Strength Saving Throw or they have the Prone condition.
+***Infernal Chains.*** The first time Hayato hits with a weapon attack on his turn, the target must succeed on a DC 17 Strength Saving Throw or they have the Prone Condition.
 
 ### Actions
 
@@ -1335,7 +1988,7 @@ Text about Yuxuan
 
 ***Oni Fangs.*** *Melee Attack Roll:* +8 to hit, reach 5ft. *Hit:* 9 (1d8 + 4) Piercing damage. If the target of this attack is causing Hayato's Ego trait to be active, he has Advantage on Attack Rolls against them with this attack.
 
-***As Above, So Below (1/Day).*** *Charisma Saving Throw:* DC 17, one target within 30 feet. *Failure:* The target gets thrown through Makoku. They take 8d10 Psychic damage and they have the Incapacitated condition until the end of Hayato's next turn, when they return to the space they previously occupied or the nearest unoccupied space.
+***As Above, So Below (1/Day).*** *Charisma Saving Throw:* DC 17, one target within 30 feet. *Failure:* The target gets thrown through Makoku. They take 8d10 Psychic damage and they have the Incapacitated Condition until the end of Hayato's next turn, when they return to the space they previously occupied or the nearest unoccupied space.
 
 ### Bonus Actions
 
@@ -1354,13 +2007,17 @@ Text about Yuxuan
 
 ## Generic Foes
 
-### Guards
+**TODO - NOT STARTED - UNIMPORTANT**
+
+### Guards ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:124px,left:54px,width:375px,mix-blend-mode:normal}
+
+**TODO - NOT STARTED - UNIMPORTANT**
 
 {{monster,frame
 
 ## Guard
 
-*Medium Humanoid, Lawful Neutral*
+*Small or Medium Humanoid, Lawful Neutral*
 
 {{stats
 
@@ -1420,13 +2077,17 @@ Text about Yuxuan
 
 \page
 
-### Samurai and Ashigaru
+### Samurai and Ashigaru ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+
+**TODO - NOT STARTED - UNIMPORTANT**
 
 {{monster,frame
 
 ## Samurai Footman
 
-*Medium Humanoid, Lawful Neutral*
+**TODO - REVISION**
+
+*Small or Medium Humanoid, Lawful Neutral*
 
 {{stats
 
@@ -1487,7 +2148,9 @@ Text about Yuxuan
 
 ## Samurai Duelist
 
-*Medium Humanoid, Lawful Neutral*
+**TODO - REVISION**
+
+*Small or Medium Humanoid, Lawful Neutral*
 
 {{stats
 
@@ -1550,6 +2213,8 @@ Text about Yuxuan
 
 ## Mounted Samurai
 
+**TODO - REVISION**
+
 *Large Humanoid, Lawful Neutral*
 
 {{stats
@@ -1611,9 +2276,11 @@ Text about Yuxuan
 
 {{monster,frame
 
-## Samurai Archer - TODO
+## Samurai Archer
 
-*Medium Humanoid, Lawful Neutral*
+**TODO - UNFINISHED**
+
+*Small or Medium Humanoid, Lawful Neutral*
 
 {{stats
 
@@ -1677,7 +2344,13 @@ Text about Yuxuan
 
 ## Godaiyō
 
-### Raijū
+**TODO - NOT STARTED - UNIMPORTANT**
+
+\column
+
+### Raijū ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:395px,width:375px,mix-blend-mode:normal}
+
+**TODO - NOT STARTED - UNIMPORTANT**
 
 {{monster,frame,wide
 
@@ -1729,7 +2402,7 @@ Text about Yuxuan
 
 ***Keen Hearing and Smell.*** The Raijū has Advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-***Legendary Resistance (1/Day).*** If the Raijū fails a saving throw, they can choose to succeed instead. Once their Legendary Resistance feature is used, they lose access to their Static Charge feature.
+***Legendary Resistance (1/Day).*** If the Raijū fails a Saving Throw, they can choose to succeed instead. Once their Legendary Resistance feature is used, they lose access to their Static Charge feature.
 
 ***Spark Path.*** The Raijū leaves behind streaks of lightning as they move, which are 5 foot wide, shed dim light in a 20-foot radius, and last until the start of their next turn. *Dexterity Saving Throw:* DC 16, when this path first appears in a creature's space or a creature enters the path or ends their turn there. *Failure:* 7 (2d6) Lightning damage.
 
@@ -1781,17 +2454,21 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 \page
 
-## The Hyakushima Bandits - TODO
+## The Hyakushima Bandits
 
 Many groups of bandits roam the roads and settlements of Sumiriku, who make their living by preying on defenceless civilians and taking whatever food and valuables they can find. One such group is found in middle Sesujishima, lead by the fearsome Kanehisa and his second in command, Akitake. Though they appear to be targeting the humble village of Hyakushima to steal the result of their harvest, Kanehisa has kept secret some ulterior motives. He has been instructed by the Daimyō of Clan Wakasa to retrieve a girl, Hajime, and bring her back to him, though he doesn't know what the Daimyō wants with her.
+
+**TODO - MISSING STATBLOCKS - UNIMPORTANT**
 
 \column
 
 {{#creature,monster,frame
 
-## Kanehisa - TODO
+## Kanehisa
 
-*Medium Humanoid, Chaotic Evil*
+**TODO - UNFINISHED - UNIMPORTANT**
+
+*Medium Humanoid (Human, Fighter), Chaotic Evil*
 
 {{stats
 
@@ -1867,11 +2544,163 @@ Many groups of bandits roam the roads and settlements of Sumiriku, who make thei
 
 \page
 
+## King of Iron Fist Tournament Fighters
+
+**TODO - NOT STARTED - UNIMPORTANT**
+
+{{monster,frame
+
+## Zaku-Zeku, Gunjustsu Master
+
+*Small Humanoid (Akki), Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 17 (Medium Armour)
+**HP**         :: 130 (20d6 + 60)
+\column
+**Initiative** :: +4 (14)
+**Speed**      :: 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 15|  +2  |  +2  |
+|Int| 8 |  -1  |  -1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 18|  +4  |  +7  |
+|Wis| 16|  +3  |  +3  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16|  +3  |  +6  |
+|Cha| 8 |  -1  |  -1  |
+
+}}
+
+**Skills**      :: Acrobatics +7, Perception +6, Survival +6
+**Senses**      :: Passive Perception 16
+**Gear**        :: Hinawajū
+**Languages**   :: Sumirikugo
+**CR**          :: 6 (XP 2,300; PB +3)
+
+}}
+
+### Traits
+
+***Buckshot.*** If Zaku-Zeku makes an attack with Her Special Hinawajū against a target within 5 feet of her, the target must attempt a DC 15 Constitution Saving Throw. On a failed save, the target takes 11 (3d6) Fire damage and is pushed backwards 5 feet. On a successful save, the target takes half as much damage. Zaku-Zeku can then choose to move backwards 5 feet without provoking Opportunity Attacks.
+
+### Actions
+
+***Her Special Hinawajū.*** *Ranged Attack Roll:* +7 to hit, range 100/400 ft. *Hit:* 15 (2d12 + 4) Piercing damage. If the target is wearing Medium or Heavy Armour, this attack deals a minimum of 15 Piercing damage.
+
+***Bonk.*** *Melee Attack Roll:* +5 to hit, reach 5 ft. *Hit:* 6 (1d6 + 2) Bludgeoning damage.
+
+### Bonus Actions
+
+***Explosive Escape.*** Zaku-Zeku takes the Disengage Action. When she does so, she chooses from the following:
+
+**Smoke Bomb.** She creates a 5-foot-radius Heavily Obscured area centred on her, that lasts until the end of her next turn.
+</br>**Detonate.** She sets off a miniature explosion. *Dexterity Saving Throw:* DC 15, all creatures within a 10-foot Emanation originating from Zaku-Zeku including herself. *Fail:* 11 (3d6) Fire damage. *Success:* Half damage.
+
+}}
+
+\column
+
+{{monster,frame
+
+## Stormcaller
+
+*Large Humanoid Giant (Ōgaru, Sorcerer), Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 13
+**HP**         :: 105 (14d10 + 28)
+\column
+**Initiative** :: -1 (9)
+**Speed**      :: 35 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 13|  +1  |  +1  |
+|Int| 9 |  -1  |  +2  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 9 |  -1  |  -1  |
+|Wis| 13|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +2  |  +2  |
+|Cha| 16|  +3  |  +6  |
+
+}}
+
+**Skills**      :: Athletics +4, Persuasion +6, Intimidation +6
+**Resistances** :: Lightning, Thunder
+**Senses**      :: Passive Perception 11
+**Languages**   :: Ōgarugo, Sumirikugo
+**CR**          :: 6 (XP 2,300; PB +3)
+
+}}
+
+### Traits
+
+***Carried on the Wind.*** Immediately after Stormcaller casts a spell, he can move up to 10 feet in any direction without provoking Opportunity Attacks.
+
+### Actions
+
+***Multiattack.*** Stormcaller makes three Roar of the Mountain attacks.
+
+***Roar of the Mountain*** *Melee or Ranged Attack Roll:* +6 to hit, reach 5 ft. or range 120 ft. *Hit:* 12 (2d8 + 3) Lightning damage.
+
+***Spellcasting.*** Stormcaller casts one of the following spells, using Charisma as the Spellcasting Ability (Spell Save DC 14):
+
+**2/day each:** Gust of Wind<sup>A, C</sup>, Mirror Image<sup>A</sup>, Thunderwave<sup>A</sup>
+</br>**1/day each:** Call Lightning<sup>A, C</sup>, Lightning Bolt<sup>A</sup>
+
+### Reactions
+
+***Static Shield (2/Day).*** *Trigger:* Stormcaller is hit by an attack by a creature he can see within 120 feet. *Response* Stormcaller increases his AC by 5 for the attack. If the attack then misses, he can make a Roar of the Mountain attack against the target that triggered the reaction.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
 ## Rouges and Rōnin
 
-### Genji and Okamoto
+**TODO - NOT STARTED - UNIMPORTANT**
 
-Text about them
+### Genji and Okamoto ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:123px,left:54px,width:375px,mix-blend-mode:normal}
+
+**TODO - NOT STARTED - UNIMPORTANT**
 
 {{monster,frame
 
@@ -1935,7 +2764,7 @@ Text about them
 
 ## Genji, Crab Rider
 
-*Medium Humanoid (Bunagaya, Ranger), Chaotic Evil*
+*Small Humanoid (Bunagaya, Ranger), Chaotic Evil*
 
 {{stats
 
@@ -2119,7 +2948,7 @@ Text about them
 
 ## The Shadow Triad
 
-Text about the triad
+**TODO - NOT STARTED - UNIMPORTANT**
 
 \column
 
@@ -2127,7 +2956,7 @@ Text about the triad
 
 ## Jiangshi Lackey
 
-*Medium Undead, Neutral Evil*
+*Small or Medium Undead, Neutral Evil*
 
 {{stats
 
@@ -2165,7 +2994,7 @@ Text about the triad
 **Senses**      :: Blindsight 60 ft., Passive Perception 11
 **Gear**        :: Tantō
 **Languages**   :: Sumirikugo, Zāngkēgo
-**CR**          :: 3 (XP 700; PB +2)
+**CR**          :: 3 (XP 700; PB +2) <!-- SUGGESTION - CHECK DIFFICULTY -->
 
 }}
 
@@ -2189,7 +3018,7 @@ Text about the triad
 
 ***Crooked Claws.*** *Melee Weapon Attack:*  +5, reach 5 ft. in the direction the Jiangshi is facing. *Hit:* 10 (2d6 + 3) Slashing damage. If the target is a Medium or smaller creature, they have the Grappled Condition (escape DC 13) from one of two claws.
 
-***Drain Vitality.*** The Jiangshi draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 14, a creature within 5 feet that is willing or that has the Grappled, Incapacitated, or Restrained condition. *Failure:* 9 (2d8) Necrotic damage. The target's Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and the Jiangshi regains Hit Points equal to that amount.
+***Drain Vitality.*** The Jiangshi draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 14, a creature within 5 feet that is willing or that has the Grappled, Incapacitated, or Restrained Condition. *Failure:* 9 (2d8) Necrotic damage. The target's Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and the Jiangshi regains Hit Points equal to that amount.
 
 ### Reactions
 
@@ -2204,9 +3033,11 @@ Text about the triad
 
 \page
 
-<!-- TODO - UPDATE SPELLCASTING FORMAT FOR OTHER STATBLOCKS AND ALSO WRITE NOTE ON SPELLCASTING LAYOUT -->
+<!-- SUGGESTION - UPDATE SPELLCASTING FORMAT FOR OTHER STAT BLOCKS -->
 
-### The Bai Crime Family
+### The Bai Crime Family ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+
+**TODO - NOT STARTED - UNIMPORTANT**
 
 {{#creature,monster,frame
 
@@ -2257,15 +3088,15 @@ Text about the triad
 
 ***Legendary Resistance (2/Day).*** If Daiyu fails a saving throw, she can choose to succeed instead.
 
-***Thanatophobia.*** At the start of Daiyu's turn, any creatures of her choosing with the Frightened condition and within 90 feet of her takes 5 (2d4) Necrotic damage and their Hit Point maximum is reduced by an amount equal to the damage taken.
+***Thanatophobia.*** At the start of Daiyu's turn, any creatures of her choosing with the Frightened Condition and within 90 feet of her takes 5 (2d4) Necrotic damage and their Hit Point maximum is reduced by an amount equal to the damage taken.
 
 ### Actions
 
 ***Multiattack.*** Daiyu makes four Dark Pulse attacks.
 
-***Dark Pulse.*** Melee or Ranged Attack Roll: +10, reach 5 ft. or range 150 ft. *Hit:* 22 (3d10 + 5) Necrotic damage. If the target has the Frightened condition, Daiyu has Advantage on the Attack Roll.
+***Dark Pulse.*** Melee or Ranged Attack Roll: +10, reach 5 ft. or range 150 ft. *Hit:* 22 (3d10 + 5) Necrotic damage. If the target has the Frightened Condition, Daiyu has Advantage on the Attack Roll.
 
-***Spellcasting.*** Daiyu casts one of the following spells, using Intelligence as the Spellcasting Ability (spell save DC 18):
+***Spellcasting.*** Daiyu casts one of the following spells, using Intelligence as the Spellcasting Ability (Spell Save DC 18):
 
 **At will:** Mage Armour<sup>A</sup> (included in AC), Mage Hand<sup>A</sup>
 </br>**2/day each:** Dimension Door<sup>A</sup>, Evard's Black Tentacles<sup>A,C</sup>, Fear<sup>A,C</sup>, Lightning Bolt<sup>A</sup>
@@ -2273,11 +3104,11 @@ Text about the triad
 
 ### Bonus Actions
 
-***Death's Door.*** Daiyu teleports up to 30 feet to an unoccupied space she can see and leaves behind a terrifying visage. *Charisma Saving Throw:* DC 18, each creature within 10 feet of the space Daiyu left. *Failure:* The target has the Frightened condition until the end of Daiyu's next turn.
+***Death's Door.*** Daiyu teleports up to 30 feet to an unoccupied space she can see and leaves behind a terrifying visage. *Charisma Saving Throw:* DC 18, each creature within 10 feet of the space Daiyu left. *Failure:* The target has the Frightened Condition until the end of Daiyu's next turn.
 
 ### Reactions
 
-***Night's Grasp.*** Daiyu casts Counterspell in response to the spell's trigger, using the same Spellcasting Ability as Spellcasting. If the target fails their Saving Throw, they have the Frightened condition until the end of their next turn.
+***Night's Grasp.*** Daiyu casts Counterspell in response to the spell's trigger, using the same Spellcasting Ability as Spellcasting. If the target fails their Saving Throw, they have the Frightened Condition until the end of their next turn.
 }}
 
 \column
@@ -2348,7 +3179,7 @@ Text about the triad
 
 ***Crooked Claws.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft. in the direction Saichuen is facing. *Hit:* 14 (2d6 + 5) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled Condition (escape DC 17) from one of two claws.
 
-***Drain Vitality.*** Saichuen draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 16, one creature within 5 feet that is willing or that has the Grappled, Incapacitated, or Restrained condition. *Failure:* 23 (5d8) Necrotic damage. The target's Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and Saichuen regains Hit Points equal to that amount.
+***Drain Vitality.*** Saichuen draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 16, one creature within 5 feet that is willing or that has the Grappled, Incapacitated, or Restrained Condition. *Failure:* 23 (5d8) Necrotic damage. The target's Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and Saichuen regains Hit Points equal to that amount.
 
 <!-- ***Intimidating Presence (1/Day)***. Each creature within 60 feet of Saichuen that can see and hear him must succeed on a DC 15 Wisdom Saving Throw or become frightened of the barbarian for 1 minute. An affected creature can repeat its saving throw at the end of each of its turns only if the barbarian is out of line of sight, ending the effect on a success. A creature that succeeds on a saving throw from this effect is immune to the barbarian’s intimidating presence for 24 hours. -->
 
@@ -2365,15 +3196,213 @@ Text about the triad
 
 \page
 
+## Tenno
+
+**TODO - NOT STARTED - UNIMPORTANT**
+
+### Baku ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:395px,width:375px,mix-blend-mode:normal}
+
+**TODO - NOT STARTED - UNIMPORTANT**
+
+{{monster,frame,wide
+
+## Cursed Baku
+
+**TODO - REVISION - UNIMPORTANT**
+
+*Large Celestial, Neutral Evil*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 17
+**HP**         :: 199 (19d10 + 95)
+\column
+**Initiative** :: +12 (?22)
+**Speed**      :: 40 ft., Fly 50 ft. (hover)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 21|  +5  |  +5  |
+|Int| 16|  +3  |  +9  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10|  +0  |  +0  |
+|Wis| 21|  +5  |  +11 |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 20|  +5  |  +11 |
+|Cha| 12|  +2  |  +2  |
+
+}}
+
+**Skills**      :: Insight +11, Perception +11, Religion +9
+**Resistances** :: Radiant
+**Immunities**  :: Psychic
+**Senses**      :: Truesight 120ft, Passive Perception 22
+**Languages**   :: Shingo
+**CR**          :: 17 (XP 18,000; PB +6)
+
+}}
+
+### Traits
+
+***Celestial Awareness.*** The Baku has Advantage on Saving Throws to avoid or end the Charmed or Frightened Condition.
+
+***Legendary Resistance (2/Day).*** If the Baku fails a Saving Throw, they can choose to succeed instead.
+
+***To Sleep, Perchance To Dream.*** Some of the Baku's features cause creatures to fall asleep. A sleeping creature has the Unconscious Condition. Creatures put to sleep by one of the Baku's features can make a DC 18 Wisdom Saving Throw at the end of each of their turns to wake up, and an adjacent creature can use their Action to also let the sleeping creature make this Saving Throw. The only other ways they can wake up is if the Unconscious Condition is ended, or if the Baku deals damage to them with Celestial Tusk or Comet Dash. Creatures that do not need to sleep are immune to these effects.
+
+### Actions
+
+***Multiattack.*** The Baku makes two Celestial Tusk attacks and uses Nap Time.
+
+***Celestial Tusk*** *Melee Attack Roll:* +12 to hit, reach 5 ft. *Hit:* 10 (1d6 + 6) Piercing damage, plus 10 (3d6) Radiant damage.
+
+***Nap Time.*** *Wisdom Saving Throw:* DC 19, one creature the Baku can see within 60 feet. *Failure:* The creature begins to sleep.
+
+***Sleepwalking (1/Day).*** The Baku causes all sleeping creatures within 60 feet of them to begin to act without thinking. They stand up and follow all of the commands of the Baku to the best of their ability until their sleep ends.
+
+***Spellcasting.*** The Baku casts one of the following spells, using Wisdom as the Spellcasting Ability (Spell Save DC 19):
+
+**2/day each:** Greater Invisibility<sup>A</sup>, Modify Memory<sup>A</sup>
+
+### Reactions
+
+***Daydreamer.*** *Trigger:* The Baku succeeds on a Saving Throw to avoid the Charmed or Frightened condition. *Response--Wisdom Saving Throw:* DC 19, the creature that triggered the reaction. *Failure:* The target is Charmed or Frightened, whichever was prevented. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+
+### Legendary Actions
+
+The Baku has 2 Legendary Action uses per round.
+
+***Comet Dash.*** The Baku makes its tusks glow then dashes up to 30 feet to an unoccupied space it can see. *Dexterity Saving Throw:* DC 19, every creature along the path of the Baku's movement. *Failure:* The creature takes 10 (3d6) Piercing damage plus 10 (3d6) Radiant damage, is pushed back 10 feet and gains the Prone condition. *Success:* Half damage.
+
+***Dreamcloud.*** The Baku creates a pink cloud of sleepiness as a 20-foot radius Sphere centered on themselves, that lasts until the end of the Baku's next turn. The Sphere is Heavily Obscured. *Constitution Saving Throw:* DC 19, any creature that starts its turn inside the Dreamcloud. *Failure:* The creature falls asleep.
+
+***Dream Devour.*** The Baku consumes the dreams of the unconscious. Each sleeping creatures within a 30-foot Emanation originating from the Baku takes 36 (8d6) Psychic damage.
+
+}}
+
+<!-- {{monster,frame,wide
+
+## Cursed Baku
+
+*Large Celestial, Neutral Evil*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 17
+**HP**         :: 199 (19d10 + 95)
+\column
+**Initiative** :: +12 (?22)
+**Speed**      :: 40 ft., Fly 50 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 21|  +5  |  +5  |
+|Int| 16|  +3  |  +9  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10|  +0  |  +0  |
+|Wis| 21|  +5  |  +11 |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 20|  +5  |  +11 |
+|Cha| 12|  +2  |  +2  |
+
+}}
+
+**Skills**      :: Insight +11, Perception +11, Religion +9
+**Resistances** :: Radiant
+**Immunities**  :: Psychic
+**Senses**      :: Truesight 120ft, Passive Perception 22
+**Languages**   :: Shingo
+**CR**          :: 17 (XP 18,000; PB +6)
+
+}}
+
+### Traits
+
+***Celestial Awareness.*** The Baku has Advantage on Saving Throws to avoid or end the Charmed or Frightened Condition.
+
+***Dreams and Nightmares*** The Baku can cause sleeping creatures to have either dreams or nightmares. At the start of the Baku's turn, it restores 7 (2d6) health for each dreaming creature. Each creature that has nightmares takes 14 (4d6) Psychic damage at the start of each of their turns.
+
+***Legendary Resistance (2/Day).*** If the Baku fails a Saving Throw, they can choose to succeed instead.
+
+***To Sleep, Perchance To Dream.*** Some of the Baku's features cause creatures to fall asleep. A sleeping creature has the Unconscious Condition. Creatures put to sleep by one of the Baku's features can repeat the Saving Throw at the end of each of their turns to wake up, and an adjacent creature can use their Action to also let the sleeping creature repeat the Saving Throw. The only other way they can wake up is if the Baku attacks them with Celestial Tusk. Creatures that do not need to sleep are immune to these effects.
+
+### Actions
+
+***Multiattack.*** The Baku makes two Celestial Tusk attacks and uses Nap Time.
+
+***Celestial Tusk*** *Melee Attack Roll:* +12 to hit, reach 5 ft. *Hit:* 10 (1d6 + 6) Piercing damage, plus 10 (3d6) Psychic damage.
+
+***Nap Time.*** *Wisdom Saving Throw:* DC 19, one creature the Baku can see within 60 feet. *Failure:* The creature begins to sleep. This sleep can cause the creature to have either dreams or nightmares, the Baku's choice.
+
+***Sleepwalking (1/Day).*** The Baku causes all sleeping creatures within 60 feet of them to begin to act without thinking. They stand up and follow all of the commands of the Baku to the best of their ability until their sleep ends.
+
+***Spellcasting.*** The Baku casts one of the following spells, using Wisdom as the Spellcasting Ability (Spell Save DC 19):
+
+**2/day each:** Greater Invisibility<sup>A</sup>, Modify Memory<sup>A</sup>
+
+### Reactions
+
+***Daydreamer.*** *Trigger:* The Baku succeeds on a Saving Throw to avoid the Charmed or Frightened condition. *Response--Wisdom Saving Throw:* DC 19, the creature that triggered the reaction. *Failure:* The target is Charmed or Frightened, whichever was prevented. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+
+### Legendary Actions
+
+The Baku has 2 Legendary Action Uses per round.
+
+***Dream Dash.*** The Baku moves up to 30 feet to an unoccupied space it can see and leaves behind a trail of Dreamcloud that lasts until the start of its next turn. *Constitution Saving Throw:* DC 19, any creature that starts its turn inside the Dreamcloud. *Failure:* The creature falls asleep and dreams.
+
+***Night Terrors.*** The Baku creates a wave of dreariness . *Wisdom Saving Throw:* DC 18, any creature that starts its turn inside the Dreamcloud. *Failure:* The creature falls asleep.
+
+***Eat It Through The Dreams.*** The Baku consumes the dreams of the unconscious. Each sleeping creatures within a 30-foot Emanation originating from the Baku takes 36 (8d6) Psychic damage.
+
+}} -->
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
 ## Undead
 
-### Jiangshi
+**TODO - NOT STARTED - UNIMPORTANT**
+
+### Jiangshi ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:123px,left:54px,width:375px,mix-blend-mode:normal}
+
+**TODO - NOT STARTED - UNIMPORTANT**
 
 {{monster,frame
 
 ## Jiangshi
 
-*Medium Undead, Neutral Evil*
+*Small or Medium Undead, Neutral Evil*
 
 {{stats
 
@@ -2431,7 +3460,7 @@ Text about the triad
 
 ***Crooked Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft. in the direction the Jiangshi is facing. *Hit:* 13 (2d6 + 4) Slashing damage. If the target is a Medium or smaller creature, they has the Grappled Condition (escape DC 14) from one of two claws.
 
-***Drain Vitality.*** Saichuen draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 15, one creature within 5 feet that is willing or that has the Grappled, Incapacitated, or Restrained condition. *Failure:* 14 (3d8) Necrotic damage. The target's Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and the Jiangshi regains Hit Points equal to that amount.
+***Drain Vitality.*** Saichuen draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 15, one creature within 5 feet that is willing or that has the Grappled, Incapacitated, or Restrained Condition. *Failure:* 14 (3d8) Necrotic damage. The target's Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and the Jiangshi regains Hit Points equal to that amount.
 
 ### Reactions
 
@@ -2453,9 +3482,194 @@ Text about the triad
 
 \page
 
+## The Unknown Fire
+
+**TODO - NOT STARTED - UNIMPORTANT**
+
+{{monster,frame
+
+## Kiba, Blademaw
+
+*Medium Humanoid (Kisuru, Blood Hunter), Lawful Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 16
+**HP**         :: 150 (20d8 + 60)
+\column
+**Initiative** :: +4 (14)
+**Speed**      :: 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 12|  +1  |  +1  |
+|Int| 15|  +2  |  +5  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 18|  +4  |  +7  |
+|Wis| 13|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16|  +3  |  +6  |
+|Cha| 10|  +0  |  +0  |
+
+}}
+
+**Skills**      :: Investigation +5, Religion +4, Survival +4
+**Senses**      :: Passive Perception 11
+**Languages**   :: Kimyōkaigo, Sumirikugo
+**CR**          :: 7 (XP 2,900; PB +3)
+
+}}
+
+### Traits
+
+***Otherworldly Senses.*** Kiba can detect the presence of Shapechangers within 60 feet of her, and has Advantage on saves against Illusion magic.
+
+***Rites and Sacrifices.*** Kiba knows a number of Rites, of which she can use 3 per day. Whenever she uses a Rite, she takes 5 (1d8) Necrotic damage.
+
+***Tessaiga.*** Kiba wields a Tsukumogami weapon called Tessaiga. It is a +1 Katana, which is factored into her attacks. Tessaiga is attached to her, and she cannot be disarmed from it by any means.
+
+### Actions
+
+***Multiattack.*** Kiba makes two attacks with Tessaiga.
+
+***Tessaiga*** *Melee Attack Roll:* +8 to hit, reach 5 ft. *Hit:* 10 (2d4 + 5) Slashing damage plus 5 (1d8) Psychic damage.
+
+***Blood Boiling (1/Day; Requires Kiba be Bloodied).*** Kiba makes her blood run hot for 1 minute, or until she has the Incapacitated Condition. While in this state she can make an additional attack with Tessaiga when she takes the Multiattack action and she gets a +2 bonus to AC. If she ends her turn and has not dealt damage to a hostile creature since the end of her previous turn, she takes 5 (1d8) Necrotic damage.
+
+<!-- Alter Self -->
+
+### Bonus Actions
+
+***Crimson Kanji.*** Kiba marks a creature she damaged this turn within 60 feet of her, ending any marks she has on other creatures. The first time the marked target deals damage to Kiba on its turn, it must succeed on a DC 15 Intelligence Saving Throw or take 9 (2d8) Psychic damage.
+
+***Senseless Rite.*** *Constitution Saving Throw:* DC 15, one creature Kiba can see within 30 feet. *Failure:* The target has the Blinded and Deafened Conditions, and cannot speak, for 1 minute (save repeats at end of turn).
+
+***Siphoning Rite.*** *Charisma Saving Throw:* DC 15, one creature Kiba can touch. *Failure:* The target takes 14 (3d8) Necrotic damage, and Kiba gains that many Temporary Hit Points.
+
+### Reactions
+
+***Blinding Rite.*** *Trigger:* Kiba is hit by an attack. *Response:* The attacker must subtract 1d8 from each of their Attack Rolls they make until the end of turn, potentially turning the hit into a miss.
+
+<!-- ***Glide.*** *Trigger:* Kiba is falling 10 feet or more. *Response* Kiba slows her fall to 60 feet per round until she lands. She can act normally while falling this way, and takes 0 damage when landing. -->
+
+}}
+
+\column
+
+{{monster,frame
+
+## Kugi, Hammerfall
+
+**TODO - UNFINISHED - UNIMPORTANT**
+
+*Small Humanoid (Masaru, Blood Hunter), Lawful Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 15
+**HP**         :: 187 (22d6 + 110)
+\column
+**Initiative** :: +? (??)
+**Speed**      :: 25 ft., climb 25 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18|  +4  |  +4  |
+|Int| 16|  +3  |  +6  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 13|  +1  |  +4  |
+|Wis| ? |  +?  |  +?  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 20|  +5  |  +?  |
+|Cha| ? |  +?  |  +?  |
+
+}}
+
+**Skills**      :: Stealth +?
+**Resistances** :: ???
+**Immunities**  :: ???; ???
+**Senses**      :: ???, Passive Perception ??
+**Gear**        :: ???
+**Languages**   :: Sumirikugo, ???
+**CR**          :: ? (XP ?; PB +3)
+
+}}
+
+### Traits
+
+***???.*** ???
+
+***Legendary Resistance (?/Day).*** If ??? fails a Saving Throw, ??? can choose to succeed instead.
+
+***??? (Antagonist Trait, Recharges after a Short or Long Rest).*** ???.
+
+### Actions
+
+***Multiattack.*** Kugi makes two attacks, either with Ōtsuchi or Blue Flame Blast.
+
+***Ōtsuchi*** *Melee Attack Roll:* +? to hit, reach ? ft. *Hit:* ? (1d12 + ?) Bludgeoning damage, plus ? (1d12) Fire damage.
+
+***Blue Flame Blast*** *Ranged Attack Roll:* +? to hit, range 60 ft. *Hit:* ? (2d8 + ?) Fire damage.
+
+### Bonus Actions
+
+***???.*** *??? Saving Throw:* DC ??, ???. *Failure:* ???. *Success:* ???.
+
+### Reactions
+
+??? can take up to ??? Reactions per round but only one per turn.
+
+***???.*** *Trigger:* ???. *Response* ???.
+
+### Legendary Actions
+
+***???.*** ???.
+
+***??? (Antagonist Action).*** ???.
+
+### Villain Actions
+
+***???.*** ???.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
 ## Wakasa Clan
 
-Text about the castle
+**TODO - NOT STARTED - UNIMPORTANT**
 
 \column
 
@@ -2525,9 +3739,9 @@ Text about the castle
 
 \page
 
-### Hatsumomo
+### Hatsumomo ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
-Text about Hatsumomo
+**TODO - NOT STARTED - UNIMPORTANT**
 
 {{monster,frame
 
@@ -2593,6 +3807,8 @@ Text about Hatsumomo
 
 ## Hatsumomo, Catty Courtesan
 
+**TODO - REVISION - UNIMPORTANT - CONVERT FROM CLASS STAT BLOCK**
+
 *Medium Humanoid (Human, Rogue), Lawful Evil*
 
 {{stats
@@ -2600,7 +3816,7 @@ Text about Hatsumomo
 {{vitals
 
 **AC**         :: 15 (Protective Fan)
-**HP**         :: 29 (5d8 + 5) <!-- TODO - Class Level Statblock - HP too low -->
+**HP**         :: 29 (5d8 + 5) <!-- Class Level Stat block - HP too low -->
 \column
 **Initiative** :: +3 (13)
 **Speed**      :: 30 ft.
@@ -2630,15 +3846,15 @@ Text about Hatsumomo
 **Senses**    :: Passive Perception 10
 **Gear**      :: Kakure-bi
 **Languages** :: Formal Sumirikugo, Sumirikugo
-**CR**        :: 3 (XP 700; PB +3; Level 5) <!-- TODO - Class Level Statblock - PB too high -->
+**CR**        :: 3 (XP 700; PB +3; Level 5) <!--  Class Level Stat block - PB too high -->
 
 }}
 
 ### Traits
 
-***Sneak Attack (1/Turn).*** Hatsumomo deals an extra 10 (3d6) damage when it hits a target with a Weapon Attack and has Advantage on the Attack Roll, or when the target is within 5 feet of an ally of Hatsumomo that isn't incapacitated and Hatsumomo doesn't have Disadvantage on the Attack Roll. <!-- TODO - Class Level Statblock - Damage high? -->
+***Sneak Attack (1/Turn).*** Hatsumomo deals an extra 10 (3d6) damage when it hits a target with a Weapon Attack and has Advantage on the Attack Roll, or when the target is within 5 feet of an ally of Hatsumomo that isn't incapacitated and Hatsumomo doesn't have Disadvantage on the Attack Roll. <!-- TODO - Class Level Stat block - Damage high? -->
 
-***Kakure-bi.*** Hatsumomo wields a magical Tessen called Kakure-bi. Kakure-bi appears to be a regular folding fan, but is instead a +1 Tessen with the Finesse property (included in Hatsumomo's attacks). The attributes of Kakure-bi are included in Hatsumomo's statblock.
+***Kakure-bi.*** Hatsumomo wields a magical Tessen called Kakure-bi. Kakure-bi appears to be a regular folding fan, but is instead a +1 Tessen with the Finesse property (included in Hatsumomo's attacks). The attributes of Kakure-bi are included in Hatsumomo's stat block.
 
 ***Protective Fan.*** When Hatsumomo attacks with Kakure-bi, or as a Bonus Action, she can change Kakure-bi from closed to open or vice versa. While open, her attack instead deals 1d4 Slashing damage, but grants her an additional +1 AC. She starts with Kakure-bi open.
 
@@ -2671,9 +3887,9 @@ Text about Hatsumomo
 
 \page
 
-### Daimyō Hidemaro
+### Daimyō Hidemaro ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
-Text about Hidemaro
+**TODO - NOT STARTED - UNIMPORTANT**
 
 :::::
 
@@ -2772,7 +3988,11 @@ Text about Hidemaro
 
 ## Yokai
 
-### Ningyo
+**TODO - NOT STARTED - UNIMPORTANT**
+
+### Ningyo ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:395px,width:375px,mix-blend-mode:normal}
+
+**TODO - NOT STARTED - UNIMPORTANT**
 
 {{monster,frame,wide
 
@@ -2838,7 +4058,7 @@ Text about Hidemaro
 
 ***Angler Claws (Monstrous Form Only).*** *Melee Attack Roll:* +7, reach 5 ft. *Hit:* 14 (3d6 + 4) Necrotic damage.
 
-***Spellcasting (Alluring Form Only).*** The Ningyo casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 15):
+***Spellcasting (Alluring Form Only).*** The Ningyo casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (Spell Save DC 15):
 
 **1/day Each:** Crown of Madness<sup>A,C</sup>, Dominate Person<sup>A,C</sup>, Invisibility<sup>A,C</sup>, Misty Step<sup>BA</sup>
 
@@ -2877,89 +4097,6 @@ Text about Hidemaro
 
 \page
 
-{{monster,frame
-
-## ???
-
-*??? ???, ??? ???*
-
-{{stats
-
-{{vitals
-
-**AC**         :: ?? (???)
-**HP**         :: ?? (?d? + ?)
-\column
-**Initiative** :: +? (??)
-**Speed**      :: ?? ft., ??? ?? ft.
-
-}}
-
-{{tables
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| ? |  +?  |  +?  |
-|Int| ? |  +?  |  +?  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| ? |  +?  |  +?  |
-|Wis| ? |  +?  |  +?  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| ? |  +?  |  +?  |
-|Cha| ? |  +?  |  +?  |
-
-}}
-
-**Skills**      :: ??? +?
-**Resistances** :: ???
-**Immunities**  :: ???; ???
-**Senses**      :: ???, Passive Perception ??
-**Gear**        :: ???
-**Languages**   :: Sumirikugo, ???
-**CR**          :: ? (XP ?; PB +?)
-
-}}
-
-### Traits
-
-***???.*** ???
-
-***Legendary Resistance (?/Day).*** If ??? fails a Saving Throw, ??? can choose to succeed instead.
-
-***??? (Antagonist Trait, Recharges after a Short or Long Rest).*** ???.
-
-### Actions
-
-***Multiattack.*** ???.
-
-***???*** *??? Attack Roll:* +? to hit, reach ? ft. *Hit:* ? (?d? + ?) ??? damage.
-
-### Bonus Actions
-
-***???.*** *??? Saving Throw:* DC ??, ???. *Failure:* ???. *Success:* ???.
-
-### Reactions
-
-??? can take up to ??? Reactions per round but only one per turn.
-
-***???.*** *Trigger:* ???. *Response* ???.
-
-### Legendary Actions
-
-***???.*** ???.
-
-***??? (Antagonist Action).*** ???.
-
-### Villain Actions
-
-***???.*** ???.
-
-}}
-
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
@@ -2991,6 +4128,10 @@ Text about Hidemaro
 \page
 
 # Letters and Documents
+
+##
+
+**TODO - NOT STARTED - UNIMPORTANT**
 
 #### Cultist's Poem
 
@@ -3066,6 +4207,17 @@ Mum and Dad Usagi.
 
 \page
 
+#### Kindred Spirits
+
+*General Feat (Prerequisite: Level 4+, at least 2 Levels in Druid and 2 Levels in Voyager)*
+</br>You have combined your animistic abilities together into something new, gaining the following benefits.
+
+***Ability Score Increase.*** Increase your Constitution, Wisdom, or Charisma score by 1, to a maximum of 20.
+
+***Multidisciplinary.*** Any features or items you have that refer to Druid traits, spells, and abilities also apply for traits, spells, and abilities from your Voyager features as well as from Species features and items, and vice versa. You can use a Druidic Focus as a Spellcasting Focus for your Voyager Spells.
+
+***Drift Compatible.*** When you assume a Wild Shape form, you now gain a number of Temporary Hit Points equal to your Druid Level plus your Voyager Level, instead of just your Druid Level, and while you are in your Wild Shape form you gain the benefits of each of your spirits as if they were drifting with you.
+
 {{pageNumber,auto}}
 {{footnote PART 2 | THE LIVING LORE}}
 
@@ -3087,4 +4239,93 @@ Mum and Dad Usagi.
 | Moritami | 1 | 2 |
 | Maigomin | 1 | 2 |
 
-}} -->
+}} 
+
+{{monster,frame
+
+## ???
+
+*??? ???, ??? ???*
+
+{{stats
+
+{{vitals
+
+**AC**         :: ?? (???)
+**HP**         :: ?? (?d? + ?)
+\column
+**Initiative** :: +? (??)
+**Speed**      :: ?? ft., ??? ?? ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| ? |  +?  |  +?  |
+|Int| ? |  +?  |  +?  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| ? |  +?  |  +?  |
+|Wis| ? |  +?  |  +?  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| ? |  +?  |  +?  |
+|Cha| ? |  +?  |  +?  |
+
+}}
+
+**Skills**      :: ??? +?
+**Resistances** :: ???
+**Immunities**  :: ???; ???
+**Senses**      :: ???, Passive Perception ??
+**Gear**        :: ???
+**Languages**   :: Sumirikugo, ???
+**CR**          :: ? (XP ?; PB +?)
+
+}}
+
+### Traits
+
+***???.*** ???
+
+***Legendary Resistance (?/Day).*** If ??? fails a Saving Throw, ??? can choose to succeed instead.
+
+***??? (Antagonist Trait, Recharges after a Short or Long Rest).*** ???.
+
+### Actions
+
+***Multiattack.*** ???.
+
+***???*** *??? Attack Roll:* +? to hit, reach ? ft. *Hit:* ? (?d? + ?) ??? damage.
+
+***Spellcasting.*** ??? casts one of the following spells, using ??? as the Spellcasting Ability (Spell Save DC ??, +? to hit with Spell Attacks):
+
+**At will:** ???<sup>???</sup>
+</br>**2/day each:** ???<sup>???</sup>
+</br>**1/day each:** ???<sup>???</sup>
+
+### Bonus Actions
+
+***???.*** *??? Saving Throw:* DC ??, ???. *Failure:* ???. *Success:* ???.
+
+### Reactions
+
+??? can take up to ??? Reactions per round but only one per turn.
+
+***???.*** *Trigger:* ???. *Response* ???.
+
+### Legendary Actions
+
+***???.*** ???.
+
+***??? (Antagonist Action).*** ???.
+
+### Villain Actions
+
+***???.*** ???.
+
+}}-->
