@@ -18,7 +18,7 @@
 
 {{footnote
 
-The contents of this document is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. Version Number 0.108.
+The contents of this document is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. Version Number v0.109.
 
 }}
 
@@ -789,7 +789,7 @@ The following is a passage from 'The History of Sumiriku', a set of tales record
 
 On one fateful day the the greatest of these dangers revealed themselves—the Oni. An Oni is an infernal beings of malevolence and destruction, horned, three-eyed, and fork-tongued. These creatures manifested from fear and anger in the realm of Makoku, festering within the earth. Being trapped in a land without sky, unable to be blessed by the suns and the stars, caused these Oni to grow a deep resentment for our home and our parallel spiritual world. As this resentment grew, so did a desire, and so did a plan.
 
-The Blood War began the moment the Oni shattered the barrier between realms. No longer were we safe, safely separated from danger; the Oni were here, and they were coming. Using their dark magic they blotted out the sky, protecting them from the radiance of the twin suns and forcing the world into endless night. Their aim was to feast on spirits, to gorge themselves on our and the Kami's lifeblood alike. The Oni came as a chaotic swarm, but quickly organised; lesser Oni started to follow the leadership of commanders and lords, such as the fearsome Daimyō Asudeu.
+The Blood War began the moment the Oni shattered the barrier between realms. No longer were we safe, safely separated from danger; the Oni were here, and they were coming. Using their dark magics they blotted out the sky, protecting them from the radiance of the twin suns and forcing the world into endless night. Their aim was to feast on spirits, to gorge themselves on our and the Kami's lifeblood alike. The Oni came as a chaotic swarm, but quickly organised; lesser Oni started to follow the leadership of commanders and lords, such as the fearsome Daimyō Asudeu.
 
 During this carnage there was a Kitsune woman named Tomomi-sama, an oracle and mother who lived in Ochinodojima, in a place that would become the great capital, Heian-kyō. In her quaint home she alone cared for her two children, as her husband was fighting in the brutal war against the Oni. By foxfire and candlelight she tried to brighten the lives of her children and calm their fears—but the
 
@@ -1014,7 +1014,13 @@ In his travels he brought all people into his fold, into what could now truly be
 
 \page
 
-&nbsp;<!-- The influence of the Emperor persisted for generations. Though Daidō was a dispersed religion the Emperor was always seen as its central figurehead, praised in ceremony far and wide. They were also considered the first pillar of Sumiriku's government, and in charge of their first army. Local lords were required to support each region and uphold the law, but all of them swore absolute fealty to the Emperor and their inner circle. Onmyōji Art Muse-->
+&nbsp;<!-- The influence of the Emperor persisted for generations. Though Daidō was a dispersed religion the Emperor was always seen as its central figurehead, praised in ceremony far and wide. They were also considered the first pillar of Sumiriku's government, and in charge of their first army. Local lords were required to support each region and uphold the law, but all of them swore absolute fealty to the Emperor and their inner circle. Onmyōji Art Muse -->
+
+<!-- For nearly two millennia, the Emperor was consistently Sumiriku's source of power, political and religious leader, as well as being the epicenter of art and culture.
+
+imperial line remained the beating heart of power, politics, and culture within Sumiriku. 
+
+For nearly two millennia the power and importance of this imperial line rarely waned. -->
 
 As time passed and the population grew conflict returned, conflict that could not be resolved with spiritual leadership and artistic pleasantries. This kind of conflict required well prepared leadership and skilled soldiers, neither of which the Emperor could provide. To defend themselves people instead turned to the armies of their Daimyō or to private militias, led by a noble class of warrior called the Samurai (侍). As these groups became more and more responsible for the lives of the citizens their power and influence grew, an influence that could soon surpass even the Emperor.
 </br>
@@ -1028,7 +1034,17 @@ As time passed and the population grew conflict returned, conflict that could no
 
 "The birth of the Emperor's daughter was a small miracle. Tokuzo-tennō and his beloved wife, Isuzu-kōtei, had long tried to conceive and were sadly unsuccessful, so the news of her pregnancy was a joy shared with the whole nation. Pilgrims traveled from to Heian-kyo from far and wide to welcome the child's arrival, to see the dawn of the new imperial lineage. However, many of these travelers would still be on the road when Isuzu-kōtei unexpectedly went into labour. For the Imperial Highnesses, the hours surrounding their child's birth had become more fearful than celebratory. Their daughter was born small, cold, struggling to breathe. Our current apothecaries <!-- physicians --> would say that her birth was premature, and that her heart was shrunken and weak. Despite this, her parents held her, saw her barely open eyes, blushed cheeks, strands of brunette hair, and they knew how beautiful and strong she was. Thus the world was introduced to the imperial heir, Otoha-hime.
 
-The nation's greatest naturalists and kannushi were summoned with much urgency, and with their help she survived her first months, the fears of her parents and the nation alleviated. Despite the luxuries granted to her by her noble birth—riches, protection, and good medicine—life was still a challenge for the princess."
+The nation's greatest naturalists and kannushi were summoned with much urgency, and with their help she survived her first months, the fears of her parents and the nation alleviated. Despite the luxuries granted to her by her noble birth—riches, protection, and good medicine—life was still a challenge for the princess. <!-- Otoha-hime grew from a tiny newborn, to an infant eager to crawl, to a child full of personality. --> When she was well she was, as her parents would call her, radiant; she was less
+
+}}
+
+\column
+
+{{#quotation,quote
+
+gregarious than her father, but she was exceptionally bright, endlessly curious, and full of spirit. Though, there were many days where she was not well, not her true, radiant self. Those days were instead a struggle, sometimes a struggle merely to sleep at night and wake in the morning."
+
+<!-- she struggle against herself, against her condition, sometimes merely to sleep at night and to wake in the morning. <!-- Her royal parents, desperate to find some kind of cure or solution, had their lands searched far and wide for anyone who may be able to help. Many people passed through the sacred halls of the palace, and though some were able -->
 
 {{attribution *The History of Sumiriku*}}
 
@@ -1931,7 +1947,7 @@ Intelligence, Wisdom, or Charisma is your Spellcasting Ability for these spells 
 Bunagaya, also known as Kijimuna (きじむな).
 
 There's a common Sumirikugo saying that goes "When playing cards, the shark at the table is the Bunagaya", meaning that your greatest foe is often the one that is most unassuming. This saying comes from the fact that, despite their affable and optimistic outlook, Bunagaya are either exceptionally skilled or exceptionally lucky gamblers, and some have taken pots against far more accomplished players while seeming to not properly understand the rules.
-
+</br>
 **TODO - UNFINISHED - IMPORTANT**
 
 \column
@@ -2164,7 +2180,11 @@ You can use this Breath Weapon a number of times equal to your Proficiency Bonus
 
 ## 人 - Human
 
-**TODO - NOT STARTED - IMPORTANT**
+To a visitor from one of the realms beyond Utsushiyo, witnessing the denizens of Sumiriku for the first time, they may consider Humans to be the least noteworthy people. They appear to lack the unique advantages that the members of Sumiriku's other species possess, the magical qualities or traits that differentiate themselves from each other. How is it then, the visitor would be forced to ponder, that these Humans have become the dominant presence in almost every corner of these islands?
+
+The Humans of Sumiriku are believed to have been made in the image of the first Myōjin, Yōzanagi-sama and Inzanami-sama. Humans take their appearance from this couple; they typically appear light to tan skinned, mostly hairless apart from dark hair on their head, and adults average around 5 to 6 feet tall. However, their creators also gave them a different blessing, that of willpower. Humans are known as a species to have an incredible amount of determination, commonly paired with a similar amount of reckless confidence and an ability to adapt to nearly any situation. <!-- This desire to face any challenge and adaptability in overcoming them has led humans to incredible success to find home in every climate -->
+
+Yūkan-sama is a Human, and the latest member of the Myōjin. He is the God of Will.
 
 \column
 
@@ -3762,6 +3782,8 @@ Weapon Masteries are new to 2024 D&D, which add additional features to weapons f
 The Weapon Mastery prerequisites show which Masteries are applicable to which weapons. If a game feature lets you replace a weapon's Mastery property with another one, that weapon must meet any prerequisite specified for the new property.
 
 }}
+
+<!-- TODO - FIX THE MASTERIES -->
 
 {{#weapon-table,wide
 
@@ -6409,7 +6431,7 @@ The webs are flammable. If the webs are exposed to fire they burn away in 1 roun
 **Range:**        :: 60 feet
 **Components:**   :: S
 **Duration:**     :: Instantaneous
-You attempt to interrupt a creature in the process of casting a spell. The creature makes a Constitution Saving Throw. If the Spell Slot Level used to cast this spell is greater than the level of the spell being inturupted, the creature automatically fails the Saving Throw. On a failed save, the spell dissipates with no effect, and the Action, Bonus Action, or Reaction used to cast it is wasted. If that spell was cast with a Spell Slot, the slot isn't expended.
+You attempt to interrupt a creature in the process of casting a spell. The creature makes a Constitution Saving Throw. If the Spell Slot Level used to cast this spell is greater than the level of the spell being interrupted, the creature automatically fails the Saving Throw. On a failed save, the spell dissipates with no effect, and the Action, Bonus Action, or Reaction used to cast it is wasted. If that spell was cast with a Spell Slot, the slot isn't expended.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}

@@ -18,7 +18,7 @@
 
 {{footnote
 
-The contents of this document is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. Version Number 0.108.
+The contents of this document is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. Version Number v0.109.
 
 }}
 
@@ -86,13 +86,15 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
   - [{{ The Bound and Fraying Rope}}{{ 27}}](#p28)
     - [{{ Cult Footsoldiers}}{{ 28}}](#p29)
     - [{{ The Twin Sons}}{{ 30}}](#p31)
-  - [{{ Generic Foes}}{{ 31}}](#p32)
-    - [{{ Guards}}{{ 31}}](#p32)
-    - [{{ Samurai and Ashigaru}}{{ 32}}](#p33)
-  - [{{ Godaiyō}}{{ 33}}](#p34)
-    - [{{ Raijū}}{{ 33}}](#p34)
-  - [{{ The Hyakushima Bandits}}{{ 35}}](#p36)
-  - [{{ King of Iron Fist Tournament Fighters}}{{ 37}}](#p38)
+  - [{{ The Coil}}{{ 31}}](#p32)
+    - [{{ Mamushi}}{{ 32}}](#p33)
+  - [{{ Generic Foes}}{{ 33}}](#p34)
+    - [{{ Guards}}{{ 33}}](#p34)
+    - [{{ Samurai and Ashigaru}}{{ 34}}](#p35)
+  - [{{ Godaiyō}}{{ 37}}](#p38)
+    - [{{ Raijū}}{{ 37}}](#p38)
+  - [{{ The Hyakushima Bandits}}{{ 39}}](#p40)
+  - [{{ King of Iron Fist Tournament Fighters}}{{ 41}}](#p42)
 
 }}
 
@@ -100,33 +102,34 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 - ######
 
-  - [{{ Rouges and Rōnin}}{{ 39}}](#p40)
-    - [{{ Genji and Okamoto}}{{ 39}}](#p40)
-  - [{{ The Shadow Triad}}{{ 41}}](#p42)
-    - [{{ The Bai Crime Family}}{{ 42}}](#p43)
-  - [{{ Tenno}}{{ 43}}](#p44)
-    - [{{ Baku}}{{ 43}}](#p44)
-  - [{{ Undead}}{{ 45}}](#p46)
-    - [{{ Jiangshi}}{{ 45}}](#p46)
-  - [{{ The Unknown Fire}}{{ 47}}](#p48)
-  - [{{ Wakasa Clan}}{{ 49}}](#p50)
-    - [{{ Hatsumomo}}{{ 50}}](#p51)
-    - [{{ Daimyō Hidemaro}}{{ 51}}](#p52)
-  - [{{ Yokai}}{{ 53}}](#p54)
-    - [{{ Kamaitachi}}{{ 53}}](#p54)
-    - [{{ Nijimu-onna}}{{ 53}}](#p54) <!-- +2 -->
-    - [{{ Ningyo}}{{ 53}}](#p54) <!-- +2? -->
-    - [{{ Suiko}}{{ 53}}](#p54) <!-- +2? -->
+  - [{{ Rouges and Rōnin}}{{ 43}}](#p44)
+    - [{{ Genji and Okamoto}}{{ 43}}](#p44)
+  - [{{ The Shadow Triad}}{{ 45}}](#p46)
+    - [{{ The Bai Crime Family}}{{ 46}}](#p47)
+  - [{{ Tenno}}{{ 47}}](#p48)
+    - [{{ Baku}}{{ 47}}](#p48)
+  - [{{ Undead}}{{ 49}}](#p50)
+    - [{{ Jiangshi}}{{ 49}}](#p50)
+  - [{{ The Unknown Fire}}{{ 51}}](#p52)
+  - [{{ Wakasa Clan}}{{ 53}}](#p54)
+    - [{{ Hatsumomo}}{{ 54}}](#p55)
+    - [{{ Daimyō Hidemaro}}{{ 55}}](#p56)
+  - [{{ Yokai}}{{ 57}}](#p58)
+    - [{{ Kamaitachi}}{{ 57}}](#p58)
+    - [{{ Nijimu-onna}}{{ 58}}](#p59) <!-- +2 -->
+    - [{{ Ningyo}}{{ 58}}](#p59) <!-- +2? -->
+    - [{{ Nue}}{{ 58}}](#p59) <!-- +2? -->
+    - [{{ Suiko}}{{ 58}}](#p59) <!-- +2? -->
 
-- ### [{{ PART 2 - The Living Lore}}{{ 55}}](#p56) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:376px,left:285px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 2 - The Living Lore}}{{ 59}}](#p60) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:376px,left:285px,width:245px,mix-blend-mode:normal}
 
-- ###### [{{ Letters and Documents}}{{ 56}}](#p57)
+- ###### [{{ Letters and Documents}}{{ 60}}](#p61)
   
-  - [{{ Cultist’s Poem}}{{ 56}}](#p57)
-  - [{{ Haiku of the Fading Mire}}{{ 56}}](#p57)
-  - [{{ Note to Sayuri from Kaito}}{{ 56}}](#p57)
-  - [{{ Sensei Kenzo’s Letter to the Students}}{{ 56}}](#p57)
-  - [{{ The Usagi’s Letter to Jun}}{{ 57}}](#p58)
+  - [{{ Cultist’s Poem}}{{ 60}}](#p61)
+  - [{{ Haiku of the Fading Mire}}{{ 60}}](#p61)
+  - [{{ Note to Sayuri from Kaito}}{{ 60}}](#p61)
+  - [{{ Sensei Kenzo’s Letter to the Students}}{{ 60}}](#p61)
+  - [{{ The Usagi’s Letter to Jun}}{{ 61}}](#p62)
 
 }}
 
@@ -243,7 +246,9 @@ While holding the fan, you can take a Magic Action and expend a charge to cast *
 #### Nimbus Sake
 
 *Wondrous Item, Very Rare, Major, Craftable*</br>
-**TODO - NOT STARTED - IMPORTANT**
+This white gourd of sake, the mixture within made by the most esteemed Masaru brewers, is perpetually cool to the touch and damp with condensation. Despite felling full, attempting to drink from the gourd normally results in only a few drops of sake. Instead, by taking the Magic Action and tipping the gourd upside down a small fluffy cloud, a cylinder 3 foot in diameter and 1 foot deep, comes out of the gourd and hovers in a space within 5 feet of you. The cloud can fly with a Fly Speed of 80 feet, and moves according to your directions while you are within 30 feet of it. The cloud can carry a maximum of 400 lb, but its Fly Speed is halved if it carries more than 200 lb. If you are within 5 feet of the cloud, you can take the Magic Action while holding the gourd to return the cloud to the inside of the gourd.
+
+\column
 
 #### Noh Mask of the Noppera-bō
 
@@ -251,8 +256,6 @@ While holding the fan, you can take a Magic Action and expend a charge to cast *
 This mask appears to be a traditional Noh theatre mask, depicting someone with closed eyes and small facial features, perhaps asleep or in quiet contemplation. The mask appears to have been imbued with some illusionary magic, though whether this is a blessing or a curse is unclear.
 
 When you put on the mask you can choose to cast the Disguise Self spell. The spell lasts until you take of the mask, and the DC of the Intelligence (Investigation) for discovering the illusion is 20. While wearing the mask you are unable to speak, or cast spells requiring verbal components.
-
-\column
 
 #### Prayer Beads to the Myōjin <!-- CONSIDER REBALANCE - REGULAR CAST TIME/ONLY ONE SPELL PER DAY -->
 
@@ -1292,7 +1295,7 @@ Toku-Toku is an Akki shaman and an advisor to his Gobbo Clan Daiymo, Ato-Ato. Ho
 
 ### Traits
 
-***Man's Best Friend.*** Makoto fights alongside her blade-wielding companion Kentaro.
+***Man's Best Friend.*** Makoto fights alongside her blade-wielding companion, Kentaro.
 
 ### Actions
 
@@ -1350,7 +1353,7 @@ Toku-Toku is an Akki shaman and an advisor to his Gobbo Clan Daiymo, Ato-Ato. Ho
 
 }}
 
-**CR** :: 5 (XP 1,800; PB +3)
+**CR** :: 4 (XP 1,100; PB +2)
 
 }}
 
@@ -1358,7 +1361,7 @@ Toku-Toku is an Akki shaman and an advisor to his Gobbo Clan Daiymo, Ato-Ato. Ho
 
 ***Multiattack.*** Kentaro makes two Wakizashi attacks.
 
-***Wakizashi.*** *Melee Attack Roll:* +7, reach 5 ft. *Hit:* 8 (1d6 + 4) Slashing damage. **Cross.** *Hit:* Kentaro can move to the opposite side of the creature hit without expending movement and without provoking Opportunity Attacks. This feature can be used only once on her turn.
+***Wakizashi.*** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 8 (1d6 + 4) Slashing damage. **Cross.** *Hit:* Kentaro can move to the opposite side of the creature hit without expending movement and without provoking Opportunity Attacks. This feature can be used only once on his turn.
 
 }}
 
@@ -2005,6 +2008,249 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 \page
 
+## The Coil
+
+**TODO - NOT STARTED - UNIMPORTANT**
+
+{{monster,frame
+
+## Coil Assassin
+
+*Small or Medium Humanoid, Lawful Evil*
+
+{{stats
+
+{{vitals
+
+**AC**         :: ?? (???)
+**HP**         :: ?? (?d? + ?)
+\column
+**Initiative** :: +? (??)
+**Speed**      :: ?? ft., ??? ?? ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 11|  +?  |  +?  |
+|Int| ? |  +?  |  +?  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| ? |  +?  |  +?  |
+|Wis| ? |  +?  |  +?  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| ? |  +?  |  +?  |
+|Cha| ? |  +?  |  +?  |
+
+}}
+
+**Skills**      :: ??? +?
+**Resistances** :: ???
+**Immunities**  :: ???; ???
+**Senses**      :: ???, Passive Perception ??
+**Gear**        :: Kunai
+**Languages**   :: Sumirikugo, Yakuza Speak
+**CR**          :: 6 (XP ?; PB +3)
+
+}}
+
+### Traits
+
+***Get Over Here (1/Turn).*** When the Coil Assassin hits a creature with a ranged Kunai attack, if the target is within 20 feet of them, they can move the target up to 15 feet towards them.
+
+***Sneak Attack (1/Turn).*** The Coil Assassin deals an extra 14 (4d6) damage when they hit a target with a Weapon Attack and has Advantage on the Attack Roll, or when the target is within 5 feet of an ally of Coil Assassin that doesn't have the Incapacitated Condition and Coil Assassin doesn't have disadvantage on the Attack Roll.
+
+### Actions
+
+***Multiattack.*** The Coil Assassin makes three Kunai attacks.
+
+***Kunai*** *Melee or Ranged Attack Roll:* +7 to hit, reach 5 ft. or range 20/60 ft. *Hit:* 7 (1d4 + 4) Piercing damage.
+
+### Bonus Actions
+
+***Cunning Action.*** The Coil Assassin takes the Dash, Disengage, or Hide Action.
+
+}}
+
+\column
+
+{{monster,frame
+
+## Samurai Archer
+
+**TODO - UNFINISHED**
+
+*Small or Medium Humanoid, Lawful Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 15 (Light Armour)
+**HP**         :: 39 (6d8 + 12)
+\column
+**Initiative** :: +0 (10)
+**Speed**      :: 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 13|  +1  |  +1  |
+|Int| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 18|  +4  |  +4  |
+|Wis| 14|  +2  |  +2  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +2  |  +2  |
+|Cha| 12|  +1  |  +1  |
+
+}}
+
+**Skills**    :: Perception +4
+**Senses**    :: Passive Perception 14
+**Gear**      :: Daikyū
+**Languages** :: Formal Sumirikugo, Sumirikugo
+**CR**        :: 2 (XP 450; PB +2)
+
+}}
+
+### Traits
+
+***Exploit Opening (3/Day).*** When the Samurai makes an attack, they have Advantage on the Attack Roll.
+
+***Snipe.*** When the Samurai hits a creature with a Ranged Weapon Attack with Advantage, they deal an extra 7 (2d6) Piercing damage.
+
+### Actions
+
+***Daikyū.*** *Melee Attack Roll:* +6, range 150/600 ft. *Hit:* 8 (1d8 + 4) Piercing damage.
+
+***Trickshot (Recharge 5-6).***
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+### Mamushi ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+
+**TODO - NOT STARTED - UNIMPORTANT**
+
+\column
+
+{{monster,frame
+
+## Mamushi, Death's Coil
+
+**TODO - NOT STARTED**
+
+*Medium Humanoid, Neutral Evil*
+
+{{stats
+
+{{vitals
+
+**AC**         :: ?? (???)
+**HP**         :: ?? (?d? + ?)
+\column
+**Initiative** :: +? (??)
+**Speed**      :: ?? ft., ??? ?? ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| ? |  +?  |  +?  |
+|Int| ? |  +?  |  +?  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| ? |  +?  |  +?  |
+|Wis| ? |  +?  |  +?  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| ? |  +?  |  +?  |
+|Cha| ? |  +?  |  +?  |
+
+}}
+
+**Skills**      :: ??? +?
+**Resistances** :: ???
+**Immunities**  :: ???; ???
+**Senses**      :: ???, Passive Perception ??
+**Gear**        :: ???
+**Languages**   :: Sumirikugo, ???
+**CR**          :: ? (XP ?; PB +?)
+
+}}
+
+### Traits
+
+***???.*** ???
+
+***Legendary Resistance (?/Day).*** If ??? fails a Saving Throw, ??? can choose to succeed instead.
+
+***??? (Antagonist Trait, Recharges after a Short or Long Rest).*** ???.
+
+### Actions
+
+***Multiattack.*** ???.
+
+***???*** *??? Attack Roll:* +? to hit, reach ? ft. *Hit:* ? (?d? + ?) ??? damage.
+
+***Spellcasting.*** ??? casts one of the following spells, using ??? as the Spellcasting Ability (Spell Save DC ??, +? to hit with Spell Attacks):
+
+**At will:** ???<sup>???</sup>
+</br>**2/day each:** ???<sup>???</sup>
+</br>**1/day each:** ???<sup>???</sup>
+
+### Bonus Actions
+
+***???.*** *??? Saving Throw:* DC ??, ???. *Failure:* ???. *Success:* ???.
+
+### Reactions
+
+??? can take up to ??? Reactions per round but only one per turn.
+
+***???.*** *Trigger:* ???. *Response* ???.
+
+### Legendary Actions
+
+***???.*** ???.
+
+***??? (Antagonist Action).*** ???.
+
+### Villain Actions
+
+***???.*** ???.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
 ## Generic Foes
 
 **TODO - NOT STARTED - UNIMPORTANT**
@@ -2081,7 +2327,235 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
+\column
+
+<!-- Current work - search here - line 2330 -->
+
 {{monster,frame
+
+## Samurai Footman
+
+*Small or Medium Humanoid, Lawful Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 19 <!-- 17 (Heavy Armour) -->
+**HP**         :: 58 (9d8 + 18)
+\column
+**Initiative** :: +0 (10)
+**Speed**      :: 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18|  +4  |  +4  |
+|Int| 11|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 11|  +0  |  +0  |
+|Wis| 11|  +0  |  +2  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +2  |  +4  |
+|Cha| 15|  +2  |  +2  |
+
+}}
+
+**Gear**       :: Extra Heavy Armour, Naginata, Daikyū
+**Immunities** :: Frightened
+**Senses**     :: Passive Perception 10
+**Languages**  :: Formal Sumirikugo, Sumirikugo
+**CR**         :: 3 (XP 700; PB +2)
+
+}}
+
+### Traits
+
+<!-- ***Bushidō.*** The Samurai has Advantage on an attack roll against a creature if none of the Samurai's allies are within 5 feet of the creature. -->
+
+<!-- ***Bushidō.*** If a creature hits the Samurai with an attack, the Samurai get Advantage on Attack Rolls against that creature until the end of their next turn. -->
+
+***Bushidō.*** When the Samurai doesn't have the Incapacitated Condition and they are reduced to 0 Hit Point but not killed outright, they can make an attack against an enemy (no action required). They have Advantage on the Arrack Roll.
+
+### Actions
+
+***Multiattack.*** The Samurai makes two attacks, using Daikyū or Naginata in any combination.
+
+***Daikyū.*** *Ranged Attack Roll:* +2, range 150/600 ft. *Hit:* 8 (1d8 + 3) Piercing damage.
+
+***Naginata.*** *Melee Attack Roll:* +6, reach 10 ft. *Hit:* 10 (1d10 + 4) Slashing damage.
+
+### Reactions
+
+***Parry.*** *Trigger:* The Samurai is hit by a Melee Attack Roll while holding a weapon. *Response:* The Samurai adds 2 to their AC against that attack, possibly causing it to miss.
+
+<!--
+
+### Bonus Actions
+
+***Bushidō Focus (1/Day).*** The Samurai takes the Dodge action. Whenever an attack misses them until the start of their next turn, they gain 5 Temporary Hit Points.
+
+-->
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
+{{monster,frame
+
+## Samurai Duelist
+
+*Small or Medium Humanoid, Lawful Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 16
+**HP**         :: 65 (10d8 + 20)
+\column
+**Initiative** :: +0 (10)
+**Speed**      :: 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 11|  +0  |  +0  |
+|Int| 11|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 18|  +4  |  +4  |
+|Wis| 11|  +0  |  +2  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +2  |  +4  |
+|Cha| 15|  +2  |  +2  |
+
+}}
+
+**Gear**       :: Improved Light Armour, Katana, Hankyū
+**Immunities** :: Frightened
+**Senses**     :: Passive Perception 10
+**Languages**  :: Formal Sumirikugo, Sumirikugo
+**CR**         :: 3 (XP 700; PB +2)
+
+}}
+
+### Traits
+
+<!-- ***Bushidō.*** The Samurai has Advantage on an attack roll against a creature if none of the Samurai's allies are within 5 feet of the creature. -->
+
+***Bushidō.*** If a creature hits the Samurai with an attack, the Samurai get Advantage on Attack Rolls against that creature until the end of their next turn.
+
+### Actions
+
+***Multiattack.*** The Samurai makes two attacks, using Hankyū or Katana in any combination.
+
+***Hankyū.*** *Ranged Attack Roll:* +2, range 80/320 ft. *Hit:* 8 (1d6 + 4) Piercing damage.
+
+***Katana.*** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 9 (2d4 + 4) Slashing damage.
+
+### Reactions
+
+***Counterstrike.*** *Trigger:* A creature the Samurai can see makes a Melee Attack Roll against them and misses. *Response* The Samurai makes a Weapon Attack against the target.
+
+}}
+
+\column
+
+{{monster,frame
+
+## Samurai Archer
+
+*Small or Medium Humanoid, Lawful Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 17
+**HP**         :: 50 (9d8 + 9)
+\column
+**Initiative** :: +0 (10)
+**Speed**      :: 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 15|  +2  |  +2  |
+|Int| 11|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 18|  +4  |  +6  |
+|Wis| 14|  +2  |  +4  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12|  +1  |  +1  |
+|Cha| 13|  +1  |  +1  |
+
+}}
+
+**Skills**     :: Perception +4
+**Gear**       :: Daikyū, Improved Medium Armour, Wakizashi
+**Immunities** :: Frightened
+**Senses**     :: Passive Perception 14
+**Languages**  :: Formal Sumirikugo, Sumirikugo
+**CR**         :: 3 (XP 700; PB +2)
+
+}}
+
+### Traits
+
+***Bushidō.*** If a creature hits the Samurai with an attack, the Samurai get Advantage on Attack Rolls against that creature until the end of their next turn.
+
+### Actions
+
+***Multiattack.*** The Samurai makes two attacks, using Daikyū or Wakizashi in any combination.
+
+***Daikyū.*** *Melee Attack Roll:* +6, range 150/600 ft. *Hit:* 10 (1d8 + 5) Piercing damage, plus 7 (2d6) Piercing damage if the attack was made with Advantage.
+
+***Wakizashi.*** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 8 (1d6 + 4) Slashing damage, plus 7 (2d6) Slashing damage if the attack was made with Advantage.
+
+### Bonus Actions
+
+***Aim.*** The Samurai has Advantage on the next Attack Roll in makes during the current turn.
+
+### Reactions
+
+***Uncanny Dodge.*** *Trigger:* The Samurai is hit by an Attack Roll. *Response:* The Samurai halves the damage (round down) it takes from that attack.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+<!-- {{monster,frame
 
 ## Samurai Footman
 
@@ -2142,70 +2616,7 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 ***Bushidō Focus (1/Day).*** The Samurai takes the Dodge action. Whenever an attack misses them until the start of their next turn, they gain 5 Temporary Hit Points.
 
-}}
-
-{{monster,frame
-
-## Samurai Duelist
-
-**TODO - REVISION**
-
-*Small or Medium Humanoid, Lawful Neutral*
-
-{{stats
-
-{{vitals
-
-**AC**         :: 15 (Light Armour)
-**HP**         :: 60 (8d8 + 24)
-\column
-**Initiative** :: +4 (14)
-**Speed**      :: 30 ft.
-
-}}
-
-{{tables
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 13|  +1  |  +1  |
-|Int| 10|  +0  |  +0  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 18|  +4  |  +4  |
-|Wis| 14|  +2  |  +2  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16|  +3  |  +3  |
-|Cha| 10|  +0  |  +0  |
-
-}}
-
-**Skills**    :: Perception +4
-**Senses**    :: Passive Perception 14
-**Gear**      :: Katana
-**Languages** :: Formal Sumirikugo, Sumirikugo
-**CR**        :: 3 (XP 700; PB +2)
-
-}}
-
-### Traits
-
-***Exploit Opening (3/Day).*** When the Samurai makes an attack, they have Advantage on the Attack Roll.
-
-### Actions
-
-***Multiattack.*** The Samurai makes two Katana attacks.
-
-***Katana.*** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 9 (2d4 + 4) Slashing damage.
-
-### Bonus Actions
-
-***Bushidō Focus (1/Day).*** The Samurai takes the Dodge action. Whenever an attack misses them until the start of their next turn, they gain 5 Temporary Hit Points.
-
-}}
+}} -->
 
 \column
 
@@ -2271,67 +2682,6 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 ### Bonus Actions
 
 ***Trample (1/Day).*** The Samurai moves up to their speed without provoking Opportunity Attacks, trampling anyone in their path. *Strength Saving Throw:* DC 17, all creatures the Samurai moves through. *Failure:* 18 (4d8) Bludgeoning damage, and the target has the Prone Condition if they are Large or smaller. *Success:* Half damage.
-
-}}
-
-{{monster,frame
-
-## Samurai Archer
-
-**TODO - UNFINISHED**
-
-*Small or Medium Humanoid, Lawful Neutral*
-
-{{stats
-
-{{vitals
-
-**AC**         :: 15 (Light Armour)
-**HP**         :: 39 (6d8 + 12)
-\column
-**Initiative** :: +0 (10)
-**Speed**      :: 30 ft.
-
-}}
-
-{{tables
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 13|  +1  |  +1  |
-|Int| 10|  +0  |  +0  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 18|  +4  |  +4  |
-|Wis| 14|  +2  |  +2  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14|  +2  |  +2  |
-|Cha| 12|  +1  |  +1  |
-
-}}
-
-**Skills**    :: Perception +4
-**Senses**    :: Passive Perception 14
-**Gear**      :: Daikyū
-**Languages** :: Formal Sumirikugo, Sumirikugo
-**CR**        :: 2 (XP 450; PB +2)
-
-}}
-
-### Traits
-
-***Exploit Opening (3/Day).*** When the Samurai makes an attack, they have Advantage on the Attack Roll.
-
-***Snipe.*** When the Samurai hits a creature with a Ranged Weapon Attack with Advantage, they deal an extra 7 (2d6) Piercing damage.
-
-### Actions
-
-***Daikyū.*** *Melee Attack Roll:* +6, range 150/600 ft. *Hit:* 8 (1d8 + 4) Piercing damage.
-
-***Trickshot (Recharge 5-6).***
 
 }}
 
@@ -3866,7 +4216,7 @@ The Baku has 2 Legendary Action Uses per round.
 
 ***Change Style.*** Hatsumomo closes and opens Kakure-bi, changing the appearance of the fan and her kimono.
 
-***Cunning Action.*** Hatsumomo can take the Dash, Disengage, or Hide Action.
+***Cunning Action.*** Hatsumomo takes the Dash, Disengage, or Hide Action.
 
 ***Protective Fan.*** Hatsumomo swaps Kakure-bi from open to closed or vice versa.
 
@@ -3990,7 +4340,186 @@ The Baku has 2 Legendary Action Uses per round.
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
-### Ningyo ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:395px,width:375px,mix-blend-mode:normal}
+### Kamaitachi ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:124px,left:54px,width:375px,mix-blend-mode:normal}
+
+**TODO - NOT STARTED - UNIMPORTANT**
+
+\column
+
+{{monster,frame
+
+## Kamaitachi
+
+*Small Fey, Chaotic Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 13
+**HP**         :: 22 (4d6 + 8)
+\column
+**Initiative** :: +3 (13)
+**Speed**      :: 40 ft., Climb 40 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 5 |  -3  |  -3  |
+|Int| 7 |  -2  |  -2  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 16|  +3  |  +3  |
+|Wis| 13|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +2  |  +2  |
+|Cha| 10|  +0  |  +0  |
+
+}}
+
+**Skills**      :: Acrobatics +5, Perception +3, Stealth +7
+**Senses**      :: Darkvision 60 ft., Passive Perception 13
+**Languages**   :: ---
+**CR**          :: ? (XP ?; PB +?)
+
+}}
+
+### Traits
+
+***Dust Devil.*** While the Kamaitachi has the Invisible Condition, they float 1 foot above the ground and ignore difficult terrain. If the Kamaitachi has the Invisible Condition, it can replace one attack from their Multiattack action with a use of Wind Slash.
+
+### Actions
+
+***Leaf Storm (1/Day).*** *Dexterity Saving Throw:* DC ??, ???. *Failure:* ???. *Success:* ???.
+
+***Multiattack.*** ???.
+
+***Sickle Claw.*** *Melee Attack Roll:* +5 to hit, reach 5 ft. *Hit:* 6 (1d4 + 3) Slashing damage.
+
+***Wind Slash (Requires the Kamaitachi have the Invisible Condition).*** The Kamaitachi moves up to their Speed towards a creature, while remaining Invisible, before making a Sickle Claw attack against them. If the attack hits, the target instead takes 7 (1d3 + 3) Slashing damage at the start of their next turn, and the Kamaitachi moves an additional 40 feet in a straight line past the target, without provoking an Opportunity Attack from the target creature.
+
+### Bonus Actions
+
+***Hide.*** The Kamaitachi takes the Hide Action.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+### Nijimu-onna ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+
+**TODO - NOT STARTED - UNIMPORTANT**
+
+\column
+
+{{monster,frame
+
+## ???
+
+*??? ???, ??? ???*
+
+{{stats
+
+{{vitals
+
+**AC**         :: ?? (???)
+**HP**         :: ?? (?d? + ?)
+\column
+**Initiative** :: +? (??)
+**Speed**      :: ?? ft., ??? ?? ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| ? |  +?  |  +?  |
+|Int| ? |  +?  |  +?  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| ? |  +?  |  +?  |
+|Wis| ? |  +?  |  +?  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| ? |  +?  |  +?  |
+|Cha| ? |  +?  |  +?  |
+
+}}
+
+**Skills**      :: ??? +?
+**Resistances** :: ???
+**Immunities**  :: ???; ???
+**Senses**      :: ???, Passive Perception ??
+**Gear**        :: ???
+**Languages**   :: Sumirikugo, ???
+**CR**          :: ? (XP ?; PB +?)
+
+}}
+
+### Traits
+
+***???.*** ???
+
+***Legendary Resistance (?/Day).*** If ??? fails a Saving Throw, ??? can choose to succeed instead.
+
+***??? (Antagonist Trait, Recharges after a Short or Long Rest).*** ???.
+
+### Actions
+
+***Multiattack.*** ???.
+
+***???*** *??? Attack Roll:* +? to hit, reach ? ft. *Hit:* ? (?d? + ?) ??? damage.
+
+***Spellcasting.*** ??? casts one of the following spells, using ??? as the Spellcasting Ability (Spell Save DC ??, +? to hit with Spell Attacks):
+
+**At will:** ???<sup>???</sup>
+</br>**2/day each:** ???<sup>???</sup>
+</br>**1/day each:** ???<sup>???</sup>
+
+### Bonus Actions
+
+***???.*** *??? Saving Throw:* DC ??, ???. *Failure:* ???. *Success:* ???.
+
+### Reactions
+
+??? can take up to ??? Reactions per round but only one per turn.
+
+***???.*** *Trigger:* ???. *Response* ???.
+
+### Legendary Actions
+
+***???.*** ???.
+
+***??? (Antagonist Action).*** ???.
+
+### Villain Actions
+
+***???.*** ???.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
+### Ningyo ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -4328,4 +4857,18 @@ Mum and Dad Usagi.
 
 ***???.*** ???.
 
-}}-->
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px} -->
+
+<!-- \page -->
+
+<!-- {{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px} -->
+
+<!-- \page -->
