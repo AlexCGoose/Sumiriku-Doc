@@ -1,0 +1,667 @@
+/* TODO - FIX NOTO SERIF JP FONT */
+
+@import url('https://rawcdn.githack.com/AlexCGoose/Font/05386e25949715580318f830f1100b40096cf551/EdoSZ.css');
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@200..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Hina+Mincho&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=BIZ+UDPMincho:wght@400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Chiron+Sung+HK:ital,wght@0,200..900;1,200..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cactus+Classical+Serif&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Sawarabi+Mincho&display=swap');
+
+/* ----- COLOURS ----- */
+/* Dark Red			= #541718
+Red					= #c03436
+Orange				= #f7931e
+Light Orange		= #fbc98e
+Extra Light Orange	= #fde4c7 = 25% Opacity of Orange */
+
+
+
+
+
+/* ----- PAGE SETTINGS ----- */
+
+/* A4 Page Size */
+.page {
+	width  : 210mm;
+	height : 296.8mm;
+}
+
+/* Sets background page texture for each page */
+.page {
+	background-image : url(https://i.imgur.com/vjljz6I.png);
+	background-size  : cover;
+}
+
+.page:nth-of-type(odd) {
+	background-image : url(https://i.imgur.com/XpSFj2e.png);
+	background-size  : cover;
+}
+
+/* Page footer image - Imgur line coloured in Sumiriku Orange */
+.page:after {
+	background-image   : none;
+	background-size    : cover;
+	background-color   : #f7931e; /* Sumiriku Orange */
+	-webkit-mask-image : url('https://i.imgur.com/TLmc0GL.png');
+	-webkit-mask-size  : cover;
+	mix-blend-mode     : normal;
+	opacity            : 1;
+	filter             : brightness(1.0);
+}
+
+
+
+
+/* ----- TEXT SETTINGS ----- */
+
+/* Sets headings to Sumiriku Red */
+.page h1, .page h2, .page h3, .page h4, .page h5, .page h6 {
+    color : #c03436; /* Sumiriku Red */
+}
+
+/* Heading settings for H3 - Sets font and size - Bottom border colour set to Sumiriku Orange */
+.page h3 {
+    padding-bottom : 0.2em;
+    border-bottom  : 2px solid #f7931e; /* Sumiriku Orange */
+}
+
+/* Drop Cap letter settings - Sets font to handwriting and colour to black */
+.page h1 + p::first-letter {
+	font-family    : 'Edo SZ';
+	font-size      : 2.65cm;
+	color          : #000000; /* Black */
+	line-height    : 1em;
+	padding-right  : 0.05em;
+	padding-left   : 5px;
+	margin-left    : 0px;
+	margin-top     : -0.3cm;
+	padding-bottom : 2px;
+	margin-bottom  : -12px;
+	float          : left;
+}
+
+/* Fancy and After-Fancy classes recreate section beginning with drop cap letter and small caps after - for when section starts part way down page */
+#fancy {
+	font-family    : 'Edo SZ';
+	font-size      : 2.65cm;
+	color          : #000000; /* Black */
+	line-height    : 1em;
+	padding-right  : 0.05em;
+	padding-left   : 5px;
+	margin-left    : 0px;
+	margin-top     : -0.3cm;
+	padding-bottom : 2px;
+	margin-bottom  : -12px;
+	float          : left;
+}
+
+#after-fancy {
+	font-variant   : small-caps;
+}
+
+/* Quote without changed first line - for if it goes over multiple columns/pages */
+#quotation  p:first-line {
+	font-size      : 100%;
+	font-variant   : normal;
+	font-style     : italic;
+}
+
+/* Page footer text settings */
+.page .footnote {
+	color          : #f7931e; /* Sumiriku Orange */
+}
+
+/* Page Number settings - Sets text to white */
+.page .pageNumber {
+	line-height    : 16px;
+	color          : #ffffff; /* White */
+}
+
+
+
+
+/* ----- FONT TESTING ----- */
+
+/* ----- NOTO SERIF ----- */
+
+/* Main text settings */
+
+#noto-font {
+	font-family    : 'Noto Serif';
+}
+
+/* Heading settings for H1 - Sets font and size */
+#noto-font h1 {
+	font-family    : 'Noto Serif';
+	/* font-weight    : 900; */
+	/* font-size      : .9cm; */
+}
+
+/*Heading settings for H2 - Sets font and size */
+#noto-font h2 {
+	font-family    : 'Noto Serif';
+	/* line-height    : 1.1; */
+	/* font-weight    : 900; */
+	/* font-size      : .6cm; */
+	/* padding-bottom : 0.2em; */
+}
+
+/* Heading settings for H3 - Sets font and size - Bottom border colour set to Sumiriku Orange */
+#noto-font h3 {
+	font-family    : 'Noto Serif';
+	/* font-weight    : 800; */
+	/* font-size      : .45cm; */
+	/* padding-bottom : 0.2em; */
+	border-bottom  : 2px solid #f7931e; /* Sumiriku Orange */
+	/* margin-top     : 0em; */
+}
+
+/* Heading settings for H4 - Sets font and size */
+#noto-font h4 {
+	font-family    : 'Noto Serif';
+	/* font-weight    : 700; */
+	/* font-size      : .4cm; */
+}
+
+/* Heading settings for H5 - Sets font and size */
+#noto-font h5 {
+    font-family    : 'Noto Serif';
+	/* font-weight    : 600; */
+	/* padding-bottom : 0em;*/
+	/* font-size      : .4cm; */
+}
+
+/* Heading settings for H6 - Sets font and size */
+#noto-font h6 {
+	font-family    : 'Noto Serif';
+	/* font-weight    : 700; */
+	/* font-size      : .4cm; */
+	/* padding-top    : 0.5em; */
+	/* padding-bottom : 0.2em; */
+}
+
+/* ----- NOTO SERIF JP ----- */
+
+/* Main text settings */
+
+#noto-jp-font {
+	font-family    : 'Noto Serif JP';
+}
+
+/* Heading settings for H1 - Sets font and size */
+#noto-jp-font h1 {
+	font-family    : 'Noto Serif JP';
+	/* font-weight    : 900; */
+	/* font-size      : .9cm; */
+}
+
+/*Heading settings for H2 - Sets font and size */
+#noto-jp-font h2 {
+	font-family    : 'Noto Serif JP';
+	/* line-height    : 1.1; */
+	/* font-weight    : 900; */
+	/* font-size      : .6cm; */
+	/* padding-bottom : 0.2em; */
+}
+
+/* Heading settings for H3 - Sets font and size - Bottom border colour set to Sumiriku Orange */
+#noto-jp-font h3 {
+	font-family    : 'Noto Serif JP';
+	/* font-weight    : 800; */
+	/* font-size      : .45cm; */
+	/* padding-bottom : 0.2em; */
+	border-bottom  : 2px solid #f7931e; /* Sumiriku Orange */
+	/* margin-top     : 0em; */
+}
+
+/* Heading settings for H4 - Sets font and size */
+#noto-jp-font h4 {
+	font-family    : 'Noto Serif JP';
+	/* font-weight    : 700; */
+	/* font-size      : .4cm; */
+}
+
+/* Heading settings for H5 - Sets font and size */
+#noto-jp-font h5 {
+    font-family    : 'Noto Serif JP';
+	/* font-weight    : 600; */
+	/* padding-bottom : 0em;*/
+	/* font-size      : .4cm; */
+}
+
+/* Heading settings for H6 - Sets font and size */
+#noto-jp-font h6 {
+	font-family    : 'Noto Serif JP';
+	/* font-weight    : 700; */
+	/* font-size      : .4cm; */
+	/* padding-top    : 0.5em; */
+	/* padding-bottom : 0.2em; */
+}
+
+/* ----- HINA MINCHO ----- */
+
+/* Main text settings */
+
+#hina-font {
+	font-family    : 'Hina Mincho';
+}
+
+/* Heading settings for H1 - Sets font and size */
+#hina-font h1 {
+	font-family    : 'Hina Mincho';
+	/* font-weight    : 900; */
+	/* font-size      : .9cm; */
+}
+
+/*Heading settings for H2 - Sets font and size */
+#hina-font h2 {
+	font-family    : 'Hina Mincho';
+	/* line-height    : 1.1; */
+	/* font-weight    : 900; */
+	/* font-size      : .6cm; */
+	/* padding-bottom : 0.2em; */
+}
+
+/* Heading settings for H3 - Sets font and size - Bottom border colour set to Sumiriku Orange */
+#hina-font h3 {
+	font-family    : 'Hina Mincho';
+	/* font-weight    : 800; */
+	/* font-size      : .45cm; */
+	/* padding-bottom : 0.2em; */
+	border-bottom  : 2px solid #f7931e; /* Sumiriku Orange */
+	/* margin-top     : 0em; */
+}
+
+/* Heading settings for H4 - Sets font and size */
+#hina-font h4 {
+	font-family    : 'Hina Mincho';
+	/* font-weight    : 700; */
+	/* font-size      : .4cm; */
+}
+
+/* Heading settings for H5 - Sets font and size */
+#hina-font h5 {
+    font-family    : 'Hina Mincho';
+	/* font-weight    : 600; */
+	/* padding-bottom : 0em;*/
+	/* font-size      : .4cm; */
+}
+
+/* Heading settings for H6 - Sets font and size */
+#hina-font h6 {
+	font-family    : 'Hina Mincho';
+	/* font-weight    : 700; */
+	/* font-size      : .4cm; */
+	/* padding-top    : 0.5em; */
+	/* padding-bottom : 0.2em; */
+}
+
+/* ----- BIZ UDPMINCHO ----- */
+
+/* Main text settings */
+
+#biz-font {
+	font-family    : 'BIZ UDPMincho';
+}
+
+/* Heading settings for H1 - Sets font and size */
+#biz-font h1 {
+	font-family    : 'BIZ UDPMincho';
+	/* font-weight    : 900; */
+	/* font-size      : .9cm; */
+}
+
+/*Heading settings for H2 - Sets font and size */
+#biz-font h2 {
+	font-family    : 'BIZ UDPMincho';
+	/* line-height    : 1.1; */
+	/* font-weight    : 900; */
+	/* font-size      : .6cm; */
+	/* padding-bottom : 0.2em; */
+}
+
+/* Heading settings for H3 - Sets font and size - Bottom border colour set to Sumiriku Orange */
+#biz-font h3 {
+	font-family    : 'BIZ UDPMincho';
+	/* font-weight    : 800; */
+	/* font-size      : .45cm; */
+	/* padding-bottom : 0.2em; */
+	border-bottom  : 2px solid #f7931e; /* Sumiriku Orange */
+	/* margin-top     : 0em; */
+}
+
+/* Heading settings for H4 - Sets font and size */
+#biz-font h4 {
+	font-family    : 'BIZ UDPMincho';
+	/* font-weight    : 700; */
+	/* font-size      : .4cm; */
+}
+
+/* Heading settings for H5 - Sets font and size */
+#biz-font h5 {
+    font-family    : 'BIZ UDPMincho';
+	/* font-weight    : 600; */
+	/* padding-bottom : 0em;*/
+	/* font-size      : .4cm; */
+}
+
+/* Heading settings for H6 - Sets font and size */
+#biz-font h6 {
+	font-family    : 'BIZ UDPMincho';
+	/* font-weight    : 700; */
+	/* font-size      : .4cm; */
+	/* padding-top    : 0.5em; */
+	/* padding-bottom : 0.2em; */
+}
+
+/* ----- CHIRON SUNG HK ----- */
+
+/* Main text settings */
+
+#chiron-font {
+	font-family    : 'Chiron Sung HK';
+}
+
+/* Heading settings for H1 - Sets font and size */
+#chiron-font h1 {
+	font-family    : 'Chiron Sung HK';
+	/* font-weight    : 900; */
+	/* font-size      : .9cm; */
+}
+
+/*Heading settings for H2 - Sets font and size */
+#chiron-font h2 {
+	font-family    : 'Chiron Sung HK';
+	/* line-height    : 1.1; */
+	/* font-weight    : 900; */
+	/* font-size      : .6cm; */
+	/* padding-bottom : 0.2em; */
+}
+
+/* Heading settings for H3 - Sets font and size - Bottom border colour set to Sumiriku Orange */
+#chiron-font h3 {
+	font-family    : 'Chiron Sung HK';
+	/* font-weight    : 800; */
+	/* font-size      : .45cm; */
+	/* padding-bottom : 0.2em; */
+	border-bottom  : 2px solid #f7931e; /* Sumiriku Orange */
+	/* margin-top     : 0em; */
+}
+
+/* Heading settings for H4 - Sets font and size */
+#chiron-font h4 {
+	font-family    : 'Chiron Sung HK';
+	/* font-weight    : 700; */
+	/* font-size      : .4cm; */
+}
+
+/* Heading settings for H5 - Sets font and size */
+#chiron-font h5 {
+    font-family    : 'Chiron Sung HK';
+	/* font-weight    : 600; */
+	/* padding-bottom : 0em;*/
+	/* font-size      : .4cm; */
+}
+
+/* Heading settings for H6 - Sets font and size */
+#chiron-font h6 {
+	font-family    : 'Chiron Sung HK';
+	/* font-weight    : 700; */
+	/* font-size      : .4cm; */
+	/* padding-top    : 0.5em; */
+	/* padding-bottom : 0.2em; */
+}
+
+/* ----- CACTUS CLASSICAL SERIF ----- */
+
+/* Main text settings */
+
+#cactus-font {
+	font-family    : 'Cactus Classical Serif';
+}
+
+/* Heading settings for H1 - Sets font and size */
+#cactus-font h1 {
+	font-family    : 'Cactus Classical Serif';
+	/* font-weight    : 900; */
+	/* font-size      : .9cm; */
+}
+
+/*Heading settings for H2 - Sets font and size */
+#cactus-font h2 {
+	font-family    : 'Cactus Classical Serif';
+	/* line-height    : 1.1; */
+	/* font-weight    : 900; */
+	/* font-size      : .6cm; */
+	/* padding-bottom : 0.2em; */
+}
+
+/* Heading settings for H3 - Sets font and size - Bottom border colour set to Sumiriku Orange */
+#cactus-font h3 {
+	font-family    : 'Cactus Classical Serif';
+	/* font-weight    : 800; */
+	/* font-size      : .45cm; */
+	/* padding-bottom : 0.2em; */
+	border-bottom  : 2px solid #f7931e; /* Sumiriku Orange */
+	/* margin-top     : 0em; */
+}
+
+/* Heading settings for H4 - Sets font and size */
+#cactus-font h4 {
+	font-family    : 'Cactus Classical Serif';
+	/* font-weight    : 700; */
+	/* font-size      : .4cm; */
+}
+
+/* Heading settings for H5 - Sets font and size */
+#cactus-font h5 {
+    font-family    : 'Cactus Classical Serif';
+	/* font-weight    : 600; */
+	/* padding-bottom : 0em;*/
+	/* font-size      : .4cm; */
+}
+
+/* ----- SAWARABI MINCHO ----- */
+
+/* Main text settings */
+
+#sawarabi-font {
+	font-family    : 'Sawarabi Mincho';
+}
+
+/* Heading settings for H1 - Sets font and size */
+#sawarabi-font h1 {
+	font-family    : 'Sawarabi Mincho';
+	/* font-weight    : 900; */
+	/* font-size      : .9cm; */
+}
+
+/*Heading settings for H2 - Sets font and size */
+#sawarabi-font h2 {
+	font-family    : 'Sawarabi Mincho';
+	/* line-height    : 1.1; */
+	/* font-weight    : 900; */
+	/* font-size      : .6cm; */
+	/* padding-bottom : 0.2em; */
+}
+
+/* Heading settings for H3 - Sets font and size - Bottom border colour set to Sumiriku Orange */
+#sawarabi-font h3 {
+	font-family    : 'Sawarabi Mincho';
+	/* font-weight    : 800; */
+	/* font-size      : .45cm; */
+	/* padding-bottom : 0.2em; */
+	border-bottom  : 2px solid #f7931e; /* Sumiriku Orange */
+	/* margin-top     : 0em; */
+}
+
+/* Heading settings for H4 - Sets font and size */
+#sawarabi-font h4 {
+	font-family    : 'Sawarabi Mincho';
+	/* font-weight    : 700; */
+	/* font-size      : .4cm; */
+}
+
+/* Heading settings for H5 - Sets font and size */
+#sawarabi-font h5 {
+    font-family    : 'Sawarabi Mincho';
+	/* font-weight    : 600; */
+	/* padding-bottom : 0em;*/
+	/* font-size      : .4cm; */
+}
+
+/* Heading settings for H6 - Sets font and size */
+#sawarabi-font h6 {
+	font-family    : 'Sawarabi Mincho';
+	/* font-weight    : 700; */
+	/* font-size      : .4cm; */
+	/* padding-top    : 0.5em; */
+	/* padding-bottom : 0.2em; */
+}
+
+/* ----- HOMEBREWERY DEFAULT ----- */
+
+#default {
+
+}
+
+/* ----- TIMES NEW ROMAN? ----- */
+
+/* Main text settings */
+
+#unknown-font {
+	font-family    : 'Unknown';
+}
+
+/* Heading settings for H1 - Sets font and size */
+#unknown-font h1 {
+	font-family    : 'Unknown';
+	/* font-weight    : 900; */
+	/* font-size      : .9cm; */
+}
+
+/*Heading settings for H2 - Sets font and size */
+#unknown-font h2 {
+	font-family    : 'Unknown';
+	/* line-height    : 1.1; */
+	/* font-weight    : 900; */
+	/* font-size      : .6cm; */
+	/* padding-bottom : 0.2em; */
+}
+
+/* Heading settings for H3 - Sets font and size - Bottom border colour set to Sumiriku Orange */
+#unknown-font h3 {
+	font-family    : 'Unknown';
+	/* font-weight    : 800; */
+	/* font-size      : .45cm; */
+	/* padding-bottom : 0.2em; */
+	border-bottom  : 2px solid #f7931e; /* Sumiriku Orange */
+	/* margin-top     : 0em; */
+}
+
+/* Heading settings for H4 - Sets font and size */
+#unknown-font h4 {
+	font-family    : 'Unknown';
+	/* font-weight    : 700; */
+	/* font-size      : .4cm; */
+}
+
+/* Heading settings for H5 - Sets font and size */
+#unknown-font h5 {
+    font-family    : 'Unknown';
+	/* font-weight    : 600; */
+	/* padding-bottom : 0em;*/
+	/* font-size      : .4cm; */
+}
+
+/* Heading settings for H6 - Sets font and size */
+#unknown-font h6 {
+	font-family    : 'Unknown';
+	/* font-weight    : 700; */
+	/* font-size      : .4cm; */
+	/* padding-top    : 0.5em; */
+	/* padding-bottom : 0.2em; */
+}
+
+/* ----- CURRENT ----- */
+
+/* Main text settings */
+
+/* Sets font size for all text */
+.page#p9 {
+	font-size : 90%;
+}
+
+/* Heading settings for H1 - Sets font and size */
+#current-font h1 {
+	font-family    : 'Unknown';
+	font-weight    : 900;
+	font-size      : .9cm;
+}
+
+/*Heading settings for H2 - Sets font and size */
+#current-font h2 {
+	font-family    : 'Unknown';
+	line-height    : 1.1;
+	font-weight    : 900;
+	font-size      : .6cm;
+	padding-bottom : 0.2em;
+}
+
+/* Heading settings for H3 - Sets font and size - Bottom border colour set to Sumiriku Orange */
+#current-font h3 {
+	font-family    : 'Unknown';
+	font-weight    : 800;
+	font-size      : .45cm;
+	padding-bottom : 0.2em;
+	border-bottom  : 2px solid #f7931e; /* Sumiriku Orange */
+	margin-top     : 0em;
+}
+
+/* Increases gap between paragraph and heading 3 */
+#current-font p + h3 {
+	margin-top     : 0.8em;
+}
+
+/* Decreases gap between heading 2 and heading 3 */
+#current-font h2 + h3 {
+	margin-top     : 0.2em;
+}
+
+/* Decreases gap between heading 2 and heading 4 */
+#current-font h2 + h4 {
+	margin-top     : 0.2em;
+}
+
+/* Heading settings for H4 - Sets font and size */
+#current-font h4 {
+	font-family    : 'Unknown';
+	font-weight    : 700;
+	font-size      : .4cm;
+}
+
+/* Heading settings for H5 - Sets font and size */
+#current-font h5 {
+    font-family    : 'Unknown';
+	font-weight    : 600;
+	padding-bottom : 0em;
+	font-size      : .4cm;
+}
+
+/* Heading settings for H6 - Sets font and size */
+#current-font h6 {
+	font-family    : 'Unknown';
+	font-weight    : 700;
+	font-size      : .4cm;
+	padding-top    : 0.5em;
+	padding-bottom : 0.2em;
+}

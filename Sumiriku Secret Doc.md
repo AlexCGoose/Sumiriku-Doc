@@ -18,7 +18,7 @@
 
 {{footnote
 
-The contents of this document is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. Version Number v0.109.
+The contents of this document is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. Version Number v0.110.
 
 }}
 
@@ -116,20 +116,20 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
     - [{{ Daimyō Hidemaro}}{{ 55}}](#p56)
   - [{{ Yokai}}{{ 57}}](#p58)
     - [{{ Kamaitachi}}{{ 57}}](#p58)
-    - [{{ Nijimu-onna}}{{ 58}}](#p59) <!-- +2 -->
-    - [{{ Ningyo}}{{ 58}}](#p59) <!-- +2? -->
-    - [{{ Nue}}{{ 58}}](#p59) <!-- +2? -->
-    - [{{ Suiko}}{{ 58}}](#p59) <!-- +2? -->
+    - [{{ Nijimu-onna}}{{ 58}}](#p59)
+    - [{{ Ningyo}}{{ 59}}](#p60)
+    - [{{ Nue}}{{ 60}}](#p61)
+    - [{{ Suiko}}{{ 60}}](#p61)
 
-- ### [{{ PART 2 - The Living Lore}}{{ 59}}](#p60) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:376px,left:285px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 2 - The Living Lore}}{{ 61}}](#p62) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:376px,left:285px,width:245px,mix-blend-mode:normal}
 
-- ###### [{{ Letters and Documents}}{{ 60}}](#p61)
+- ###### [{{ Letters and Documents}}{{ 62}}](#p63)
   
-  - [{{ Cultist’s Poem}}{{ 60}}](#p61)
-  - [{{ Haiku of the Fading Mire}}{{ 60}}](#p61)
-  - [{{ Note to Sayuri from Kaito}}{{ 60}}](#p61)
-  - [{{ Sensei Kenzo’s Letter to the Students}}{{ 60}}](#p61)
-  - [{{ The Usagi’s Letter to Jun}}{{ 61}}](#p62)
+  - [{{ Cultist’s Poem}}{{ 62}}](#p63)
+  - [{{ Haiku of the Fading Mire}}{{ 62}}](#p63)
+  - [{{ Note to Sayuri from Kaito}}{{ 62}}](#p63)
+  - [{{ Sensei Kenzo’s Letter to the Students}}{{ 62}}](#p63)
+  - [{{ The Usagi’s Letter to Jun}}{{ 63}}](#p64)
 
 }}
 
@@ -497,7 +497,7 @@ Placing the mirror inside an extradimensional space created by a Bag of Holding,
 *Wondrous Item, Unique, Major (Requires Attunement)* </br>
 The greatest desire of the Infinite Library is to recover the Orb of All Knowledge, Zenchi-No-Tama, left for them by Mikazuki-sama. If it cannot be found, it instead must be recreated.
 
-Tansa-ki (探査機, 'Probe') is a hemisphere of grey moon-rock, with carved circles on the flat face and embedded marble details. Over the course of 1 minute while holding Tansa-ki, you can touch a creature, alive or dead, a magic item, a book or document, or any other appropriate object as determined by your DM to learn information about the object and store it within Tansa-ki. If you touch a creature you learn the creature's stat block. If you touch a magic item you learn the item's properties, as if you had cast the Identify spell on it. If you touch a book or document, you record all of the information contained within the document. When touching any other appropriate object you can learn and record information of your choosing and the DMs approval about that object, such as its appearance or construction.
+Tansa-ki (探査機, 'Probe') is a hemisphere of grey moon-rock, with carved circles on the flat face and embedded marble details. Over the course of 1 minute while holding Tansa-ki, you can touch a creature, alive or dead, a magic item, a book or document, or any other appropriate object as determined by your DM to learn information about the object and store it within Tansa-ki. If you touch a creature you learn the creature's stat block. If you touch a magic item you learn the item's properties, as if you had cast the *Identify* spell on it. If you touch a book or document, you record all of the information contained within the document. When touching any other appropriate object you can learn and record information of your choosing and the DMs approval about that object, such as its appearance or construction.
 
 As an Action while holding Tansa-ki you can recall any record or piece of information previously stored, as a illusionary hologram appears above the rock's surface with the knowledge you request.
 
@@ -597,6 +597,8 @@ Notable and powerful characters will likely have additional types of actions the
 **TODO - NOT STARTED - UNIMPORTANT**
 
 \column
+
+<!-- TODO - Fix Statblock Average Damage - Average = half of die size>
 
 {{monster,frame
 
@@ -2022,79 +2024,10 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 {{vitals
 
-**AC**         :: ?? (???)
-**HP**         :: ?? (?d? + ?)
+**AC**         :: 16
+**HP**         :: 66 (12d8 + 12)
 \column
-**Initiative** :: +? (??)
-**Speed**      :: ?? ft., ??? ?? ft.
-
-}}
-
-{{tables
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 11|  +?  |  +?  |
-|Int| ? |  +?  |  +?  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| ? |  +?  |  +?  |
-|Wis| ? |  +?  |  +?  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| ? |  +?  |  +?  |
-|Cha| ? |  +?  |  +?  |
-
-}}
-
-**Skills**      :: ??? +?
-**Resistances** :: ???
-**Immunities**  :: ???; ???
-**Senses**      :: ???, Passive Perception ??
-**Gear**        :: Kunai
-**Languages**   :: Sumirikugo, Yakuza Speak
-**CR**          :: 6 (XP ?; PB +3)
-
-}}
-
-### Traits
-
-***Get Over Here (1/Turn).*** When the Coil Assassin hits a creature with a ranged Kunai attack, if the target is within 20 feet of them, they can move the target up to 15 feet towards them.
-
-***Sneak Attack (1/Turn).*** The Coil Assassin deals an extra 14 (4d6) damage when they hit a target with a Weapon Attack and has Advantage on the Attack Roll, or when the target is within 5 feet of an ally of Coil Assassin that doesn't have the Incapacitated Condition and Coil Assassin doesn't have disadvantage on the Attack Roll.
-
-### Actions
-
-***Multiattack.*** The Coil Assassin makes three Kunai attacks.
-
-***Kunai*** *Melee or Ranged Attack Roll:* +7 to hit, reach 5 ft. or range 20/60 ft. *Hit:* 7 (1d4 + 4) Piercing damage.
-
-### Bonus Actions
-
-***Cunning Action.*** The Coil Assassin takes the Dash, Disengage, or Hide Action.
-
-}}
-
-\column
-
-{{monster,frame
-
-## Samurai Archer
-
-**TODO - UNFINISHED**
-
-*Small or Medium Humanoid, Lawful Neutral*
-
-{{stats
-
-{{vitals
-
-**AC**         :: 15 (Light Armour)
-**HP**         :: 39 (6d8 + 12)
-\column
-**Initiative** :: +0 (10)
+**Initiative** :: +4 (14)
 **Speed**      :: 30 ft.
 
 }}
@@ -2108,35 +2041,104 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Dex| 18|  +4  |  +4  |
-|Wis| 14|  +2  |  +2  |
+|Dex| 18|  +4  |  +6  |
+|Wis| 11|  +0  |  +0  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Con| 14|  +2  |  +2  |
-|Cha| 12|  +1  |  +1  |
+|Con| 13|  +1  |  +1  |
+|Cha| 16|  +3  |  +5  |
 
 }}
 
-**Skills**    :: Perception +4
-**Senses**    :: Passive Perception 14
-**Gear**      :: Daikyū
-**Languages** :: Formal Sumirikugo, Sumirikugo
-**CR**        :: 2 (XP 450; PB +2)
+**Skills**      :: Acrobatics +6, Intimidation +5, Stealth +8
+**Gear**        :: Improved Light Armour, Kunai
+**Senses**      :: Passive Perception 10
+**Languages**   :: Sumirikugo, Yakuza Zokugo
+**CR**          :: 4 (XP 1,100; PB +2)
 
 }}
 
 ### Traits
 
-***Exploit Opening (3/Day).*** When the Samurai makes an attack, they have Advantage on the Attack Roll.
-
-***Snipe.*** When the Samurai hits a creature with a Ranged Weapon Attack with Advantage, they deal an extra 7 (2d6) Piercing damage.
+***Evasion.*** If the Assassin is subjected to an effect that allows it to make a Dexterity Saving Throw to take only half damage, the Assassin instead takes no damage if it succeeds on the save and only half damage if it fails. It can't use this trait if it has the Incapacitated condition.
 
 ### Actions
 
-***Daikyū.*** *Melee Attack Roll:* +6, range 150/600 ft. *Hit:* 8 (1d8 + 4) Piercing damage.
+***Multiattack.*** The Assassin makes two Kunai attacks.
 
-***Trickshot (Recharge 5-6).***
+***Kunai*** *Melee or Ranged Attack Roll:* +7 to hit, reach 5 ft. or range 20/60 ft. *Hit:* 6 (1d4 + 4) Piercing damage plus 7 (2d6) Poison damage. If this attack is a Ranged Attack and the target is within 20 feet of the Assassin, the Assassin can move the target up to 15 feet towards them.
+
+### Bonus Actions
+
+***Cunning Action.*** The Assassin takes the Dash, Disengage, or Hide Action.
+
+}}
+
+\column
+
+{{monster,frame
+
+## Coil Brute
+
+*Small or Medium Humanoid, Lawful Evil*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 16
+**HP**         :: 90 (12d8 + 36)
+\column
+**Initiative** :: +2 (12)
+**Speed**      :: 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 17|  +3  |  +5  |
+|Int| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14|  +2  |  +2  |
+|Wis| 11|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16|  +3  |  +5  |
+|Cha| 14|  +2  |  +4  |
+
+}}
+
+**Skills**      :: Athletics +5, Intimidation +4
+**Gear**        :: Improved Medium Armour
+**Senses**      :: Passive Perception 10
+**Languages**   :: Sumirikugo, Yakuza Zokugo
+**CR**          :: 4 (XP 1,100; PB +2)
+
+}}
+
+### Traits
+
+***Brute Tactics.*** The Brute has Advantage on an attack roll against a creature if at least one of the Brute's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+
+### Actions
+
+***Multiattack.*** The Brute makes two attacks, using Grab or Haymaker in any combination.
+
+***Grab*** *Melee Attack Roll:* +5 to hit, reach 5 ft. *Hit:* 7 (1d8 + 3) Bludgeoning damage. If the target is a Medium or smaller creature, is has the Grappled condition (escape DC 13). Until this grapple ends, the Brute can't grab another creature
+
+***Haymaker*** *Melee Attack Roll:* +5 to hit, reach 5 ft. *Hit:* 7 (1d8 + 3) Bludgeoning damage, or 12 (2d8 + 3) Bludgeoning damage against a target with the Grappled condition.
+
+***Throw.*** The Brute throws one Medium or smaller creature they are grappling or object they are holding up to 30 feet horizontally. If the thrown target is a creature, they fall prone after this throw. If the thrown target would enter the space of a creature or solid object that is no more than one size smaller than it, the thrown target collides with it and stops in the nearest unoccupied space, taking 3 (1d6) Bludgeoning damage for every 10 feet it was thrown. A Large or smaller creature hit by this thrown target must succeed on a DC 13 Dexterity Saving Throw or take the same amount of damage and fall prone.
+
+### Reactions
+
+***Meat Shield.*** *Trigger:* The Brute is hit by a Ranged Attack Roll while grappling a creature. *Response:* The Brute adds 2 to their AC against that attack, possibly causing it to miss. If this bonus causes the attack to miss, it hits the grappled creature instead.
 
 }}
 
@@ -2329,8 +2331,6 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 \column
 
-<!-- Current work - search here - line 2330 -->
-
 {{monster,frame
 
 ## Samurai Footman
@@ -2341,8 +2341,8 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 {{vitals
 
-**AC**         :: 19 <!-- 17 (Heavy Armour) -->
-**HP**         :: 58 (9d8 + 18)
+**AC**         :: 19
+**HP**         :: 65 (10d8 + 20)
 \column
 **Initiative** :: +0 (10)
 **Speed**      :: 30 ft.
@@ -2378,31 +2378,19 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 ### Traits
 
-<!-- ***Bushidō.*** The Samurai has Advantage on an attack roll against a creature if none of the Samurai's allies are within 5 feet of the creature. -->
-
-<!-- ***Bushidō.*** If a creature hits the Samurai with an attack, the Samurai get Advantage on Attack Rolls against that creature until the end of their next turn. -->
-
-***Bushidō.*** When the Samurai doesn't have the Incapacitated Condition and they are reduced to 0 Hit Point but not killed outright, they can make an attack against an enemy (no action required). They have Advantage on the Arrack Roll.
+***Bushidō.*** When the Samurai doesn't have the Incapacitated Condition and they are reduced to 0 Hit Point but not killed outright, they can make an attack against an enemy (no action required). They have Advantage on the Attack Roll.
 
 ### Actions
 
 ***Multiattack.*** The Samurai makes two attacks, using Daikyū or Naginata in any combination.
 
-***Daikyū.*** *Ranged Attack Roll:* +2, range 150/600 ft. *Hit:* 8 (1d8 + 3) Piercing damage.
+***Daikyū.*** *Ranged Attack Roll:* +2, range 150/600 ft. *Hit:* 7 (1d8 + 3) Piercing damage.
 
-***Naginata.*** *Melee Attack Roll:* +6, reach 10 ft. *Hit:* 10 (1d10 + 4) Slashing damage.
+***Naginata.*** *Melee Attack Roll:* +6, reach 10 ft. *Hit:* 9 (1d10 + 4) Slashing damage.
 
 ### Reactions
 
 ***Parry.*** *Trigger:* The Samurai is hit by a Melee Attack Roll while holding a weapon. *Response:* The Samurai adds 2 to their AC against that attack, possibly causing it to miss.
-
-<!--
-
-### Bonus Actions
-
-***Bushidō Focus (1/Day).*** The Samurai takes the Dodge action. Whenever an attack misses them until the start of their next turn, they gain 5 Temporary Hit Points.
-
--->
 
 }}
 
@@ -2460,9 +2448,7 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 ### Traits
 
-<!-- ***Bushidō.*** The Samurai has Advantage on an attack roll against a creature if none of the Samurai's allies are within 5 feet of the creature. -->
-
-***Bushidō.*** If a creature hits the Samurai with an attack, the Samurai get Advantage on Attack Rolls against that creature until the end of their next turn.
+***Bushidō.*** When the Samurai doesn't have the Incapacitated Condition and they are reduced to 0 Hit Point but not killed outright, they can make an attack against an enemy (no action required). They have Advantage on the Attack Roll.
 
 ### Actions
 
@@ -2490,8 +2476,8 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 {{vitals
 
-**AC**         :: 17
-**HP**         :: 50 (9d8 + 9)
+**AC**         :: 15
+**HP**         :: 55 (10d8 + 10)
 \column
 **Initiative** :: +0 (10)
 **Speed**      :: 30 ft.
@@ -2502,12 +2488,12 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Str| 15|  +2  |  +2  |
+|Str| 13|  +1  |  +1  |
 |Int| 11|  +0  |  +0  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Dex| 18|  +4  |  +6  |
+|Dex| 16|  +3  |  +5  |
 |Wis| 14|  +2  |  +4  |
 
 |   |   |  MOD | SAVE |
@@ -2518,7 +2504,7 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 }}
 
 **Skills**     :: Perception +4
-**Gear**       :: Daikyū, Improved Medium Armour, Wakizashi
+**Gear**       :: Daikyū, Improved Light Armour, Wakizashi
 **Immunities** :: Frightened
 **Senses**     :: Passive Perception 14
 **Languages**  :: Formal Sumirikugo, Sumirikugo
@@ -2528,15 +2514,15 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 ### Traits
 
-***Bushidō.*** If a creature hits the Samurai with an attack, the Samurai get Advantage on Attack Rolls against that creature until the end of their next turn.
+***Bushidō.*** When the Samurai doesn't have the Incapacitated Condition and they are reduced to 0 Hit Point but not killed outright, they can make an attack against an enemy (no action required). They have Advantage on the Attack Roll.
 
 ### Actions
 
 ***Multiattack.*** The Samurai makes two attacks, using Daikyū or Wakizashi in any combination.
 
-***Daikyū.*** *Melee Attack Roll:* +6, range 150/600 ft. *Hit:* 10 (1d8 + 5) Piercing damage, plus 7 (2d6) Piercing damage if the attack was made with Advantage.
+***Daikyū.*** *Melee Attack Roll:* +5, range 150/600 ft. *Hit:* 8 (1d8 + 4) Piercing damage, plus 7 (2d6) Piercing damage if the attack was made with Advantage.
 
-***Wakizashi.*** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 8 (1d6 + 4) Slashing damage, plus 7 (2d6) Slashing damage if the attack was made with Advantage.
+***Wakizashi.*** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Slashing damage, plus 7 (2d6) Slashing damage if the attack was made with Advantage.
 
 ### Bonus Actions
 
@@ -2554,71 +2540,6 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 ![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
-
-<!-- {{monster,frame
-
-## Samurai Footman
-
-**TODO - REVISION**
-
-*Small or Medium Humanoid, Lawful Neutral*
-
-{{stats
-
-{{vitals
-
-**AC**         :: 17 (Heavy Armour)
-**HP**         :: 60 (8d8 + 24)
-\column
-**Initiative** :: +0 (10)
-**Speed**      :: 30 ft.
-
-}}
-
-{{tables
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18|  +4  |  +4  |
-|Int| 10|  +0  |  +0  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10|  +0  |  +0  |
-|Wis| 12|  +1  |  +1  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16|  +3  |  +3  |
-|Cha| 10|  +0  |  +0  |
-
-}}
-
-**Skills**    :: Perception +3
-**Senses**    :: Passive Perception 13
-**Gear**      :: Katana
-**Languages** :: Formal Sumirikugo, Sumirikugo
-**CR**        :: 3 (XP 700; PB +2)
-
-}}
-
-### Traits
-
-***Exploit Opening (3/Day).*** When the Samurai makes an attack, they have advantage on the attack roll.
-
-### Actions
-
-***Multiattack.*** The Samurai makes two Katana attacks.
-
-***Katana.*** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 9 (2d4 + 4) Slashing damage.
-
-### Bonus Actions
-
-***Bushidō Focus (1/Day).*** The Samurai takes the Dodge action. Whenever an attack misses them until the start of their next turn, they gain 5 Temporary Hit Points.
-
-}} -->
-
-\column
 
 {{monster,frame
 
@@ -4312,13 +4233,13 @@ The Baku has 2 Legendary Action Uses per round.
 
 ### Villain Actions
 
-***Steel Sweep.*** Hidemaro swings his Yari in front of him violently, empowered by holy energy. *Dexterity Saving Throw:* DC 13, each creature 60-foot cone. *Failure:* 4 (1d8) Radiant damage, and an additional 5 (1d10) Slashing damage if the target is within 10 feet of Hidemaro. *Success:* Half Damage.
+***Steel Sweep.*** Hidemaro swings his Yari in front of him violently, empowered by holy energy. *Dexterity Saving Throw:* DC 13, each creature in a 60-foot cone. *Failure:* 4 (1d8) Radiant damage, and an additional 5 (1d10) Slashing damage if the target is within 10 feet of Hidemaro. *Success:* Half Damage.
 
 ***Shimmering Leap.*** Kōyō jumps into the air, traveling up to 30 feet without provoking Opportunity Attacks. *Dexterity Saving Throw:* DC 13, each creature along the path of Kōyō's movement. *Failure:* The target shimmers in golden light for 1 minute, causing them to shed dim light in a 10-foot radius and be unable to benefit from the Invisible Condition.
 
-***Fear The Conquerer. (Antagonist Action)*** Hidemaro terrifies their foes. *Wisdom Saving Throw:* DC 13, each creature within 30 feet. *Failure:* The target is Frightened of Hidemaro for 1 minute. While Frightened in this way, a creature takes 3 (1d6) Psychic damage at the start of each of their turns. If a Frightened target ends their turn more than 30 feet away from Hidemaro, the target can repeat the Saving Throw, ending the effect on itself on a success.
+***Fear The Conquerer. (Antagonist Action)*** Hidemaro terrifies their foes. *Wisdom Saving Throw:* DC 13, each creature in a 30-foot Emanation originating from Hidemaro. *Failure:* The target is Frightened of Hidemaro for 1 minute. While Frightened in this way, a creature takes 3 (1d6) Psychic damage at the start of each of their turns. If a Frightened target ends their turn more than 30 feet away from Hidemaro, the target can repeat the Saving Throw, ending the effect on itself on a success.
 
-***Reverberations. (Antagonist Action)*** Hidemaro slams the ground, causing the sound of ringing to echo. *Constitution Saving Throw:* DC 13, each creature within 30 feet. *Failure:* 18 (4d8) Thunder damage and the target has the Dazed Condition for 1 minute (save repeats at end of turn). *Success:* Half Damage. *Success or Failure:* Creatures immune to the Deafened Condition are immune to this effect.
+***Reverberations. (Antagonist Action)*** Hidemaro slams the ground, causing the sound of ringing to echo. *Constitution Saving Throw:* DC 13, each creature in a 30-foot Emanation originating from Hidemaro. *Failure:* 18 (4d8) Thunder damage and the target has the Dazed Condition for 1 minute (save repeats at end of turn). *Success:* Half Damage. *Success or Failure:* Creatures immune to the Deafened Condition are immune to this effect.
 
 }}
 
@@ -4386,7 +4307,7 @@ The Baku has 2 Legendary Action Uses per round.
 **Skills**      :: Acrobatics +5, Perception +3, Stealth +7
 **Senses**      :: Darkvision 60 ft., Passive Perception 13
 **Languages**   :: ---
-**CR**          :: ? (XP ?; PB +?)
+**CR**          :: 1 (XP ?; PB +?)
 
 }}
 
@@ -4396,13 +4317,13 @@ The Baku has 2 Legendary Action Uses per round.
 
 ### Actions
 
-***Leaf Storm (1/Day).*** *Dexterity Saving Throw:* DC ??, ???. *Failure:* ???. *Success:* ???.
+***Leaf Storm (1/Day).*** *Dexterity Saving Throw:* DC 13, each creature in a 5-foot Emanation originating from the Kamaitachi. *Failure:* 8 (2d4 + 3) Slashing damage. After using this ability, 5-foot radius Sphere of dust centered on the Kamaitachi is created that lasts until the end of its next turn. The Sphere is Heavily Obscured.
 
-***Multiattack.*** ???.
+***Multiattack.*** The Kamaitachi makes two Sickle Claw attacks. If they have the Invisible Condition, they can replace one attack with a use of Wind Slash.
 
 ***Sickle Claw.*** *Melee Attack Roll:* +5 to hit, reach 5 ft. *Hit:* 6 (1d4 + 3) Slashing damage.
 
-***Wind Slash (Requires the Kamaitachi have the Invisible Condition).*** The Kamaitachi moves up to their Speed towards a creature, while remaining Invisible, before making a Sickle Claw attack against them. If the attack hits, the target instead takes 7 (1d3 + 3) Slashing damage at the start of their next turn, and the Kamaitachi moves an additional 40 feet in a straight line past the target, without provoking an Opportunity Attack from the target creature.
+***Wind Slash (Requires the Kamaitachi have the Invisible Condition).*** The Kamaitachi moves up to their Speed towards a creature, while remaining Invisible, before making a Sickle Claw attack against them. If the attack hits, the target instead takes 8 (2d4 + 3) Slashing damage at the start of their next turn, and the Kamaitachi moves an additional 40 feet in a straight line past the target, without provoking an Opportunity Attack from the 13target creature.
 
 ### Bonus Actions
 
@@ -4626,6 +4547,80 @@ The Baku has 2 Legendary Action Uses per round.
 
 \page
 
+### Nue ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+
+**TODO - NOT STARTED - UNIMPORTANT**
+
+{{monster,frame
+
+## Nue
+
+*Large Fey, Neutral Evil*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 14
+**HP**         :: 119 (14d10 + 42)
+\column
+**Initiative** :: +3 (13)
+**Speed**      :: 50 ft., Climb 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 19|  +4  |  +6  |
+|Int| 3 |  -4  |  -4  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 17|  +3  |  +5  |
+|Wis| 14|  +2  |  +2  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 17|  +3  |  +3  |
+|Cha| 12|  +1  |  +1  |
+
+}}
+
+**Skills**      :: Perception +5, Stealth +9
+**Senses**      :: Darkvision 60 ft., Passive Perception 15
+**Languages**   :: Understands Saruruigo but can't speak
+**CR**          :: 8 (XP 3,900; PB +3)
+
+}}
+
+### Traits
+
+***Double Vision.*** The Nue has Advantage on Saving Throws to avoid or end the Blinded Condition. Additionally, the Nue has Advantage on Perception checks that involve sight.
+
+***Soaring Leap.*** With a 10-foot running start, the Nue can Long Jump up to 25 feet.
+
+### Actions
+
+***Multiattack.*** The Nue makes one Claw attack, one Bite attack, and one Fang attack. They can replace a Bite attack with a use of Night's Song if available.
+
+***Bite*** *Melee Attack Roll:* +7 to hit, reach 5 ft. *Hit:* 13 (2d8 + 4) Piercing damage, or 22 (4d8 + 4) Piercing damage if the Nue had Advantage on the Attack Roll.
+
+***Claw*** *Melee Attack Roll:* +7 to hit, reach 5 ft. *Hit:* 17 (3d8 + 4) Slashing damage. If the target is a Large or smaller creature, it has the Prone condition.
+
+***Fang*** *Melee Attack Roll:* +6 to hit, reach 5 ft. *Hit:* 7 (1d8 + 3) Piercing damage, plus 4 (1d8) Poison damage. The target is Poisoned until the start of the Nue's next turn.
+
+***Night's Song (Recharge 5-6).*** *Constitution Saving Throw:* DC 15, each creature in a 15-foot Cone. *Failure:* 27 (6d8) Thunder damage, and the target has the Deafened and Frightened Condition for 1 minute (save repeats at end of turn). *Success:* Half damage.
+
+***Return to Mist (1/Day).*** The Nue casts *Gaseous Form*, targeting themselves.
+
+### Bonus Actions
+
+***Nimble Escape.*** The Nue takes the Disengage or Hide action.
+
+}}
+
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
@@ -4808,10 +4803,10 @@ Mum and Dad Usagi.
 }}
 
 **Skills**      :: ??? +?
+**Gear**        :: ???
 **Resistances** :: ???
 **Immunities**  :: ???; ???
 **Senses**      :: ???, Passive Perception ??
-**Gear**        :: ???
 **Languages**   :: Sumirikugo, ???
 **CR**          :: ? (XP ?; PB +?)
 

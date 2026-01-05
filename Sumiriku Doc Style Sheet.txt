@@ -1,3 +1,5 @@
+/* TODO - FIX NOTO SERIF JP FONT */
+
 @import url('https://rawcdn.githack.com/AlexCGoose/Font/05386e25949715580318f830f1100b40096cf551/EdoSZ.css');
 
 /* ----- COLOURS ----- */
@@ -80,7 +82,7 @@ Extra Light Orange	= #fde4c7 = 25% Opacity of Orange */
 	color : #c03436; /* Sumiriku Red */
 }
 
-/*Heading settings for H1 - Sets font and size */
+/* Heading settings for H1 - Sets font and size */
 .page h1 {
 	font-family    : 'Noto Serif JP';
 	font-weight    : 900;
