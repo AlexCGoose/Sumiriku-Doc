@@ -85,7 +85,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
     - [{{ Yuxuan}}{{ 25}}](#p26)
   - [{{ The Bound and Fraying Rope}}{{ 27}}](#p28)
     - [{{ Cult Footsoldiers}}{{ 28}}](#p29)
-    - [{{ The Twin Sons}}{{ 30}}](#p31)
+    - [{{ The Severed Siblings}}{{ 30}}](#p31)
   - [{{ The Coil}}{{ 31}}](#p32)
     - [{{ Mamushi}}{{ 32}}](#p33)
   - [{{ Generic Foes}}{{ 33}}](#p34)
@@ -108,28 +108,29 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
     - [{{ The Bai Crime Family}}{{ 46}}](#p47)
   - [{{ Tenno}}{{ 47}}](#p48)
     - [{{ Baku}}{{ 47}}](#p48)
-  - [{{ Undead}}{{ 49}}](#p50)
-    - [{{ Jiangshi}}{{ 49}}](#p50)
-  - [{{ The Unknown Fire}}{{ 51}}](#p52)
-  - [{{ Wakasa Clan}}{{ 53}}](#p54)
-    - [{{ Hatsumomo}}{{ 54}}](#p55)
-    - [{{ Daimyō Hidemaro}}{{ 55}}](#p56)
-  - [{{ Yokai}}{{ 57}}](#p58)
-    - [{{ Kamaitachi}}{{ 57}}](#p58)
-    - [{{ Nijimu-onna}}{{ 58}}](#p59)
-    - [{{ Ningyo}}{{ 59}}](#p60)
-    - [{{ Nue}}{{ 60}}](#p61)
-    - [{{ Suiko}}{{ 60}}](#p61)
+  - [{{ The Twin Sons}}{{ 49}}](#p50)
+  - [{{ Undead}}{{ 51}}](#p52)
+    - [{{ Jiangshi}}{{ 51}}](#p52)
+  - [{{ The Unknown Fire}}{{ 53}}](#p54)
+  - [{{ Wakasa Clan}}{{ 55}}](#p56)
+    - [{{ Hatsumomo}}{{ 56}}](#p57)
+    - [{{ Daimyō Hidemaro}}{{ 57}}](#p58)
+  - [{{ Yokai}}{{ 59}}](#p60)
+    - [{{ Kamaitachi}}{{ 59}}](#p60)
+    - [{{ Nijimu-onna}}{{ 60}}](#p61)
+    - [{{ Ningyo}}{{ 61}}](#p62)
+    - [{{ Nue}}{{ 62}}](#p63)
+    - [{{ Suiko}}{{ 62}}](#p63)
 
-- ### [{{ PART 2 - The Living Lore}}{{ 61}}](#p62) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:376px,left:285px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 2 - The Living Lore}}{{ 63}}](#p64) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:376px,left:285px,width:245px,mix-blend-mode:normal}
 
-- ###### [{{ Letters and Documents}}{{ 62}}](#p63)
+- ###### [{{ Letters and Documents}}{{ 64}}](#p65)
   
-  - [{{ Cultist’s Poem}}{{ 62}}](#p63)
-  - [{{ Haiku of the Fading Mire}}{{ 62}}](#p63)
-  - [{{ Note to Sayuri from Kaito}}{{ 62}}](#p63)
-  - [{{ Sensei Kenzo’s Letter to the Students}}{{ 62}}](#p63)
-  - [{{ The Usagi’s Letter to Jun}}{{ 63}}](#p64)
+  - [{{ Cultist’s Poem}}{{ 64}}](#p65)
+  - [{{ Haiku of the Fading Mire}}{{ 64}}](#p65)
+  - [{{ Note to Sayuri from Kaito}}{{ 64}}](#p65)
+  - [{{ Sensei Kenzo’s Letter to the Students}}{{ 64}}](#p65)
+  - [{{ The Usagi’s Letter to Jun}}{{ 65}}](#p66)
 
 }}
 
@@ -532,7 +533,17 @@ If Wakare is ever broken, the spiritual energy stored within erupts as a wave of
 
 ### The Starlight Regalia ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:96px,left:54px,width:375px,mix-blend-mode:normal}
 
-**TODO - NOT STARTED - UNIMPORTANT**
+**TODO - UNFINISHED**
+
+#### Ryūsei-Namida
+
+*Wondrous Item, Unique, Ultimate (Requires Attunement), Miracle* </br>
+
+When the great Constellation Dragon wept for the first and only time, his single tear fell as a shooting star, carving a trail of sparkling light across the sky. The act of kindness that moved him so incredibly was blessed by the arrival of this magatama, containing within it the power to change hearts and minds, worth wielding only by those who show upmost empathy.
+
+Ryūsei-Namida (流星涙, ‘Meteor Tear’) is one of the three Sacred Treasures, unique gifts from from the starlight realm of Hoshikuzuten, representing the virtue of Benevolence. It is in the form of a magatama, a curved jewel, worn as a necklace. While wearing this magatama, if a creature is the only target of a Intelligence, Wisdom, or Charisma Saving Throw, you can redirect the effect causing the Saving Throw to yourself. If you do, you gain Advantage on the Saving Throw.
+
+The powers of this fragment of the illuminated realm appear to have dulled with time, ages gone unused. These abilities may grow with use, or with exposure to the other Starlight Regalia.
 
 ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:395px,width:375px,mix-blend-mode:normal}
 
@@ -1443,13 +1454,17 @@ Kettōdo (決闘道, 'Way of the Duel') is a one-on-one mixed martial art and co
 
 &nbsp;&nbsp;&nbsp;**Movement.** Movement Speed is halved. You can choose to reduce your Movement Speed by a further 10 feet to take the Disengage action. You can alternatively choose to reduce your Movement Speed by a further 10 feet to give yourself Advantage on Saving Throws against being Grappled, Shoved, or moved against your will.
 
+**Knock Back.** The first attack a combatant makes in a turn may move their opponent. If the attack hits, they may push the target creature up to 5 feet straight away from them. If the attack misses, they may force the creature to succeed on a Strength Saving Throw or be pushed 5 feet straight away from them. The DC is 8 + the attacker's Athletics modifier.
+
 **Initiative.** Initiative is rolled at the beginning of each round of combat.
 
-**Special Reactions.** Before each of your opponent's attacks you can make one of the following special combat actions in place of taking a Reaction, that does not consume your Reaction. You cannot use one of these actions and a Reaction on the same attack, and you cannot use one of these special actions after being hit in a turn:
+**Special Reactions.** Each combattant gains two new reactions, though they can still only use one per round.
 
-*Block.* You can roll a d6 and add the total to your AC against that attack.
+*Block.* In reaction to being targeted by an attack, you can roll 1d6 and add the total to your AC against that attack.
 
-*Sidestep.* If the attack misses you you can make a Melee Weapon Attack against the opponent that attacked you.
+*Sidestep.* In reaction to being targeted by an attack, you can move up to 5 feet, but not out of the range of the attack. If the attack misses, you can make a Melee Weapon Attack against the opponent that attacked you.
+
+**Damage.** If playing to knock out rather than for points, damage is rounded up to the nearest 10.
 
 :
 
@@ -1517,7 +1532,7 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
   ![masuzo](https://i.imgur.com/6g3T16j.jpg){position:absolute,bottom:-100px,right:-300px,height:70%,transform:scaleX(1)}
 }}
 
-{{position:absolute,top:995px,right:365px,margin-bottom:-50px,text-align:right
+{{position:absolute,top:1010px,right:365px,margin-bottom:-50px,text-align:right
 
 ##### Masuzo in</br>meditation
 
@@ -1533,6 +1548,14 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 ### Yuxuan ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
+
+{{note
+
+##### Note: Zhē
+
+Yuxuan wields Zhē, a magical Jian, or shortsword. This sword is polished to a perfect reflectiveness, and it glows if there are any Celestials, Fey, Fiends, or Undead within 60 feet.
+
+}}
 
 {{imageMaskCorner20,--offsetX:-47%,--offsetY:-45%,--rotation:0
   ![masuzo](https://i.imgur.com/KYuQDOa.jpeg){position:absolute,bottom:-25px,left:-50px,height:60%,transform:scaleX(1)}
@@ -1550,18 +1573,16 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 ## Yuxuan, the Immortal Fist
 
-**TODO - REVISION - URGENT - CONVERT FROM CLASS STAT BLOCK**
-
 *Medium Humanoid Undead (Human, Monk), Chaotic Good*
 
 {{stats
 
 {{vitals
 
-**AC**         :: 17 (Natural Armour)
-**HP**         :: 63 (9d8 + 18) <!-- TODO - Class Level Stat block - HP too low -->
+**AC**         :: 18 <!-- (Unarmoured Defence) -->
+**HP**         :: 121 (22d8 + 22)
 \column
-**Initiative** :: +4 (14)
+**Initiative** :: +5 (15)
 **Speed**      :: 50 ft.
 
 }}
@@ -1575,22 +1596,22 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Dex| 18|  +4  |  +8  |
+|Dex| 20|  +5  |  +9  |
 |Wis| 16|  +3  |  +3  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Con| 15|  +2  |  +2  |
-|Cha| 10|  +0  |  +0  |
+|Con| 12|  +1  |  +1  |
+|Cha| 12|  +1  |  +1  |
 
 }}
 
 **Skills**      :: Athletics +5, Acrobatics +8, Intimidation +4, Perception +7
 **Resistances** :: Necrotic
 **Senses**      :: Darkvision 60ft., Passive Perception 17
-**Gear**        :: Zhē
+**Gear**        :: Zhē (Shortsword)
 **Languages**   :: Sumirikugo, Zāngkēgo
-**CR**          :: 5 (XP 1,800; PB +4; Level 9) <!-- TODO - Class Level Stat block - PB too high -->
+**CR**          :: 9 (XP 5,000; PB +4;)
 
 }}
 
@@ -1598,38 +1619,33 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 ***Evasion.*** When Yuxuan makes a Dexterity Saving Throw to avoid damage, he takes no damage on a successful save and half damage on a failed save.
 
-***Focus (10/Day).*** Yuxuan can expend Focus Points to enhance his features and abilities, as noted. ☐☐☐☐☐☐☐☐☐☐
+***Stunning Strike (1/Turn).*** When Yuxuan hits a creature with a Martial Arts attack, he can force the creature to make a DC 15 Constitution Saving Throw. On a failed save, the target has the Stunned Condition until the start of Yuxuan's next turn. On a successful save, the target's speed is halved until the start of Yuxuan’s turn, and the next attack roll made against the target before then has Advantage.
 
-***Fright or Flight.*** During his turn Yuxuan gains a fly speed equal to his speed and can hover.
+***Unyielding.*** At the end of each of his turns, Yuxuan can remove one of the following conditions from himself: Charmed, Frightened, or Poisoned.
 
-***Stunning Strike (1/Turn).*** *Constitution Saving Throw:* DC 14, a creature Yuxuan has just hit with an Unarmed Strike, 1 Focus Point. *Failure:* The target is stunned until the start of Yuxuan’s next turn. *Success:* The target’s speed is halved until the start of Yuxuan’s turn, and the next attack roll made against the target before then has Advantage.
+<!-- ***Zhē.*** Yuxuan wields Zhē, a magical Shortsword. This sword is polished to a perfect reflectiveness, and it glows if there are any Celestials, Fiends, or Undead within 60 feet. -->
 
 ### Actions
 
-***Multiattack.*** Yuxuan makes two Unarmed Strikes.
+***Multiattack.*** Yuxuan makes two Martial Arts attacks. He can replace one attacks with a use of Drain Vitality.
 
-***Unarmed Strike.*** *Melee Attack Roll:* +8, reach 5 ft. *Hit:* 8 (1d8 + 4) Bludgeoning damage.
+***Martial Arts.*** *Melee Attack Roll:* +8, reach 5 ft. *Hit:* 9 (1d8 + 5) Slashing or Bludgeoning damage.
 
-***Spellcasting.*** Yuxuan casts one of the following spells, requiring no material components and using Wisdom as the Spellcasting Ability (Spell Save DC 14):
+***Drain Vitality.*** *Constitution Saving Throw:* DC 15, one creature within 5 feet that is willing or that has the Grappled, Incapacitated, or Restrained Condition. *Failure:* 14 (3d8) Necrotic damage. Yuxuan gains Temporary Hit Points equal to the damage dealt.
 
-**0 Focus Points:** Minor Illusion<sup>A,C</sup>
-</br>**1 Focus Point:** Darkness<sup>A,C</sup> (Yuxuan can see within the spell's area when cast this way)
+***Snuff Out (1/Day).*** Yuxuan creates a 30-foot-radius Sphere of magical darkness centered on himself for 1 minute, or until Yuxuan gains the Incapacitated Condition. Darkvision can't see through this darkness, and nonmagical light can't illuminate it.
 
 ### Bonus Actions
 
-***Unarmed Strike.*** *Melee Attack Roll:* +8, reach 5 ft. *Hit:* 8 (1d8 + 4) Bludgeoning damage.
+***Flurry of Blows.*** Yuxuan makes three Martial Arts attacks.
 
-**Focus.** Yuxuan makes an additional Unarmed Strike.
+***Patient Defence.*** Yuxuan takes the Disengage and Dodge action.
 
-***Patient Defence.*** Yuxuan takes the Disengage action.
-
-**Focus.** Yuxuan also takes the Dodge action.
-
-***Shadow Step.*** Yuxuan teleports up to 30 feet to an unoccupied space he can see in Dim light or Darkness. After doing so, Yuxuan gains Advantage on the next Attack Roll he makes before the end of his turn.
+***Undead Glide.*** Yuxuan moves up to 30 feet in a straight line in any direction. If he ends this movement in a space of Dim Light or Darkness, he can make a Martial Arts attack or use Drain Vitality.
 
 ### Reactions
 
-***Deflect Attacks.*** *Trigger:* Yuxuan is hit by an attack that would deal Bludgeoning, Piercing, or Slashing damage. *Response:* Yuxuan reduces the damage by 18 (1d10 + 13). If this reduces the damage to 0, Yuxuan can spend a Focus Point to redirect the kinetic force of the attack to a creature he can see within 30 feet of him. The target must succeed on a DC 14 Dexterity Saving Throw or take 13 (2d8 + 4) Force damage.
+***Deflect Attacks.*** *Trigger:* Yuxuan is hit by a Ranged Attack. *Response:* Yuxuan reduces the damage by 16 (1d10 + 10). If this reduces the damage to 0, Yuxuan can force a creature he can see within 30 feet of him to succeed on a DC 15 Dexterity Saving Throw or take 5 (2d8 + 5) Necrotic damage.
 
 }}
 
@@ -1857,25 +1873,24 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 \page
 
-### The Twin Sons ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+### The Severed Siblings ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
-**TODO - NOT STARTED - UNIMPORTANT**
+{{monster,wide,frame
 
-{{monster,frame
+<!-- ## Daimyō Hidemaro, Spiteful Warlord -->
+## Okiko, Son of Embers
 
-## Kaito, Blue Oni
-
-*Medium Humanoid Fiend (Human, Warlock), Neutral Evil*
+*Gargantuan Dragon (Godai), Neutral Evil*
 
 {{stats
 
 {{vitals
 
-**AC**         :: 15 (Mage Armour)
-**HP**         :: 150 (20d8 + 60)
+**AC**         :: 18
+**HP**         :: 121* (9d12 + 63)
 \column
-**Initiative** :: +3 (13)
-**Speed**      :: 30 ft.
+**Initiative** :: +12 (22)
+**Speed**      :: 5 ft., Fly 80 ft., Swim 80 ft.
 
 }}
 
@@ -1883,123 +1898,100 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Str| 15|  +2  |  +2  |
+|Str| 25|  +7  |  +7  |
 |Int| 12|  +1  |  +1  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Dex| 16|  +3  |  +7  |
-|Wis| 12|  +1  |  +5  |
+|Dex| 23|  +6  |  +12 |
+|Wis| 13|  +2  |  +8  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Con| 16|  +3  |  +3  |
-|Cha| 20|  +5  |  +9  |
+|Con| 25|  +7  |  +7  |8
+|Cha| 21|  +5  |  +5  |
 
 }}
 
-**Skills**      :: Deception +9, Intimidation +9, Persuasion +9
-**Resistances** :: Cold
-**Senses**      :: Passive Perception 11
-**Gear**        :: Portable Hole
-**Languages**   :: Akumago, Formal Sumirikugo, Sumirikugo
-**CR**          :: 9 (XP 2,300; PB +4)
+**Skills**          :: Athletics +13, Perception +7, Intimidation +11
+**Immunities**      :: Fire
+**Senses**          :: Darkvision 120 ft., Passive Perception 12
+**Languages**       :: Sumirikugo, Ryūgo
+**CR**              :: 17 (XP 18,000; PB +6)
 
 }}
 
 ### Traits
 
-***Ego.*** If a creature attempts to threaten, intimidate, or goad Kaito, he must attempt a DC 20 Wisdom Saving Throw. If he fails he is forced to target the creature that triggered the Saving Throw with any attacks, spells and abilities he uses and he cannot move away from said creature until the end of this next turn.
+***Burning Rage (Antagonist Trait, Recharges after a Short or Long Rest).*** The first time Okiko is reduced to 0 Hit Points, he doesn't die or fall unconscious. Instead Okiko regains all of his Hit Points, removes any Conditions he may be under, and regains any spent uses of *Extinguish* and of *Breath of Fire*<!-- and of his Villain Actions -->. After this, he can also use any actions listed as Antagonist Actions for 1 hour.
+
+***Disfigured.*** Okiko has Disadvantage on Saving Throws to avoid or end the Blinded or Deafened Condition. Additionally, Okiko has Disadvantage on Wisdom (Perception) checks that involve sight or hearing.
+
+***Ember Magic*** Okiko can cast spells as part of his abilities, requiring no Material components and using Charisma as the Spellcasting Ability (Spell Save DC 19, +11 to hit with Spell Attacks). <!-- In addition, he can cast the following spells: -->
+
+<!-- **At will:** *Detect Magic*<sup>A, C</sup> -->
+
+***Extinguish (1/Day).*** If Okiko fails a Saving Throw, he can choose to succeed instead. If he does so, all creatures and areas that are on fire cease to be on fire.
+
+***Immolate.*** Whenever Okiko deals Fire damage to a creature with an Attack, Spell, or other Action, he also sets them on fire for 1 minute. A creature who is on fire at the start of their turn takes 4 (1d6) Fire damage, or 7 (2d6) Fire damage if Okiko has used *Burning Rage*. The creature on fire or another creature within 5 feet of them can use their action to extinguish the flames. If a creature who is already on fire is set on fire again, the damage isn't cumulative, but the duration is reset.
+
+***Serpentine.*** Okiko's serpentine body allows him to occupy another creature's space and vice versa. Okiko can move through any opening large enough for a Large creature.
+
+<!--***Smoke Blackens the Skies.*** After Okiko has used *Burning Rage*, the air around him becomes filled with heat and smoke. Whenever a creature enters Okiko's space or ends their turn there, they must succeed on a DC 20 Constitution Saving Throw or take 7 (2d6) Fire damage.-->
 
 ### Actions
 
-***Eldritch Blast (2 Attacks).*** *Ranged Attack Roll:* +9 to hit, range 120 ft. *Hit:* 11 (1d10 + 5) Force damage, and Kaito can move the creature in a straight line up to 10 feet closer or further away.
+***Multiattack.*** Okiko makes three Rend attacks. He can replace one attack with casting *Scorching Ray*.
 
-***Pact Casting.*** Kaito casts one of the following spells, using Charisma as the Spellcasting Ability (Spell Save DC 17):
+<!-- ***Multiattack.*** Okiko makes three Rend attacks. He can replace one attack with a use of Devour, or with casting *Scorching Ray*. -->
 
-**At will:** Mage Armour<sup>A</sup> (included in AC), Mage Hand<sup>A</sup>
-</br>**3/day combined:** Dimension Door<sup>A</sup>, Hex<sup>BA,C</sup>, Hold Person<sup>A,C</sup>, Fireball<sup>A</sup> (Fifth Level)
+***Rend.*** *Melee Attack Roll:* +13, reach 5 ft. *Hit:* 18 (2d10 + 7) Slashing damage. <!-- (Grab people in big bite?) -->
 
-***Oni Fangs.*** *Melee Attack Roll:* +6 to hit, reach 5ft. *Hit:* 7 (1d8 + 2) Piercing damage. If the target of this attack is causing Kaito's Ego trait to be active, he has Advantage on Attack Rolls against them with this attack.
+<!-- ***Devour.*** *Melee Attack Roll:* +14, reach 5 ft. *Hit:* 13 (1d10 + 8) Slashing damage plus 7 (2d6) Fire damage. If the target is a Large or smaller creature, it has the Grappled condition. While Grappled, the target has Disadvantage on Dexterity Saving Throws. <!-- (Grab people in big bite?) -->
 
-***As Above, So Below (1/Day).*** *Charisma Saving Throw:* DC 17, one target within 30 feet. *Failure:* The target gets thrown through Makoku. They take 8d10 Psychic damage and they have the Incapacitated Condition until the end of Kaito's next turn, when they return to the space they previously occupied or the nearest unoccupied space.
+***Breath of Fire (Recharge 5-6).*** *Dexterity Saving Throw:* DC 19, each creature in a 100-foot-long, 10-foot-wide Line. *Failure:* 59 (17d6) Fire damage. *Success:* Half damage. After, the area is set alight until the end of Okiko's next turn. For the duration, the area is Difficult Terrain, and a creature who enters the area for the first time on a turn or ends their turn there takes 7 (2d6) Fire damage.
 
-### Bonus Actions
+<!-- ***Spellcasting*** Okiko casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (Spell Save DC 20, +12 to hit with Spell Attacks): -->
 
-***Fel Step.*** Kaito teleports up to 30 feet to an unoccupied space he can see and leaves behind a wave of lethargy. *Dexterity Saving Throw:* DC 17, each creature within 10 feet of the space Kaito left. *Failure:* The target takes 9 (2d8) Cold damage and has their speed reduced by 10 feet until the end of their next turn.
-}}
-
-\column
-
-{{monster,frame
-
-## Hayato, Red Oni
-
-*Medium Humanoid Fiend (Human, Warlock), Neutral Evil*
-
-{{stats
-
-{{vitals
-
-**AC**         :: 17 (Improved Medium Armour)
-**HP**         :: 170 (20d8 + 80)
-\column
-**Initiative** :: +2 (12)
-**Speed**      :: 30 ft.
-
-}}
-
-{{tables
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18|  +4  |  +4  |
-|Int| 16|  +3  |  +7  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14|  +2  |  +2  |
-|Wis| 10|  +0  |  +0  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 18|  +4  |  +4  |
-|Cha| 20|  +5  |  +9  |
-
-}}
-
-**Skills**      :: Intimidation +9, Investigation +7, Perception +4
-**Resistances** :: Fire
-**Senses**      :: Passive Perception 14
-**Gear**        :: Improved Medium Armour
-**Languages**   :: Akumago, Formal Sumirikugo, Sumirikugo
-**CR**          :: 9 (XP 2,300; PB +4)
-
-}}
-
-### Traits
-
-***Ego.*** If a creature attempts to threaten, intimidate, or goad Hayato, he must attempt a DC 15 Wisdom Saving Throw. If he fails he is forced to target the creature that triggered the Saving Throw with any attacks, spells and abilities he uses and he cannot move away from said creature until the end of this next turn.
-
-***Infernal Chains.*** The first time Hayato hits with a weapon attack on his turn, the target must succeed on a DC 17 Strength Saving Throw or they have the Prone Condition.
-
-### Actions
-
-***Multiattack.*** Hayato makes three attacks, either with the Kusarigama Sickle or Kusarigama Chain. He must make at least one attack with each weapon.
-
-***Kusarigama Sickle.*** *Melee Attack Roll:* +9 to hit, reach 5 ft. *Hit:* 10 (1d8 + 5) Slashing damage, plus 4 (1d8) Fire damage.
-
-***Kusarigama Chain.*** *Melee Attack Roll:* +9 to hit, reach 10 ft. *Hit:* 9 (1d6 + 5) Bludgeoning damage, plus 4 (1d8) Fire damage.
-
-***Oni Fangs.*** *Melee Attack Roll:* +8 to hit, reach 5ft. *Hit:* 9 (1d8 + 4) Piercing damage. If the target of this attack is causing Hayato's Ego trait to be active, he has Advantage on Attack Rolls against them with this attack.
-
-***As Above, So Below (1/Day).*** *Charisma Saving Throw:* DC 17, one target within 30 feet. *Failure:* The target gets thrown through Makoku. They take 8d10 Psychic damage and they have the Incapacitated Condition until the end of Hayato's next turn, when they return to the space they previously occupied or the nearest unoccupied space.
+<!-- **At will:** *Command* (Level 2 version)<sup>A</sup>, *Detect Magic*<sup>A, C</sup>, *Fireball*<sup>A</sup>, *Scorching Ray*<sup>A</sup>, *Wall of Fire*<sup>A, C</sup> -->
 
 ### Bonus Actions
 
-***Third Eye of Judgement.*** Hayato judges a creature he can see within 90 feet of him. Hayato deals an extra 1d6 Fire damage to the target whenever he hits it with an attack roll. This lasts until the creature dies or Hayato uses his Bonus Action to judge a different creature.
+***Dart.*** Okiko moves up to half his Speed. *Strength or Dexterity Saving Throw (Target Chooses):* DC 15, each creature on or holding onto Okiko, and each creature within 5 feet of Okiko when he begins to move. *Failure:* The target gains the Prone Condition. If the target was on or holding onto Okiko, they lose grip and begin to fall.
 
-***Hate Step.*** Hayato teleports up to 30 feet to an unoccupied space within 30 feet of the creature he is judging, and then lets out a wave of heat. Any creature within a 10 foot radius of Hayato after he teleports takes 9 (2d8) Fire damage.
+### Reactions
+
+***Pyretic Counter*** Okiko casts *Counterspell*. If a spell is countered this way, the caster of the spell is set on fire.
+
+<!-- ***Smoke Shield.*** *Trigger:* Okiko is targeted by a Ranged Attack. *Response:* Okiko creates a 20-foot radius Sphere of smoke around himself, a Heavily Obscured area that disappears after the attack is made. *Constitution Saving Throw:* DC 15, each creature that needs to breathe and is within the smoke when it is made. *Failure:* The creature takes 5 (1d8) Poison damage and has the Poisoned condition until the end of their next turn. -->
+
+### Villain Actions
+
+<!-- ***Dragon Stuff.*** (Dash, Firenado)
+
+***Dragon Stuff (Antagonist Action).*** (Meteors?) -->
+
+***Flame Mage.*** Okiko casts *Fireball*.
+
+***Ignition Magus*** Okiko casts *Haste*. Okiko does not become Incapacitated or have his Speed become 0 when this spell ends.
+
+<!-- ***Dragon Comet.*** Okiko moves up to half his speed in a straight line without provoking Opportunity Attacks. *Dexterity Saving Throw:* DC 20, each creature in the path of Okiko's movement. *Failure:* 21 (6d6) Fire damage. -->
+
+<!-- ***Begone (Antagonist Action).*** Okiko casts *Banishment* at 5th level. -->
+
+***Pyre Archmagus (Antagonist Action).*** Okiko casts both *Wall of Fire* and *Delayed Blast Fireball* at the same time, concentrating on both spells at once.
+
+}}
+
+{{note,wide
+
+##### Note: Climbing on Creatures
+
+Many creatures of imposing size may require players to climb them, much like they would any other piece of terrain, in order to close in for a strike. A creature may attempt to grab hold of a creature two or more sizes larger than themselves; to do this, the target must succeed on a Dexterity Saving Throw against the smaller creature's Grapple DC. If the target fails, the smaller creature enters the larger creatures's space, has a grip on the larger creature, is moved with the larger creature, and can climb the larger creature as if it were terrain. The larger creature can still attack the smaller creature, and they can take the Escape a Grapple action in order to remove the smaller creature's grip on them.
+
+If a creature reaches a place on a larger creature, they can stand and ballance without needing to be grappling the creature. The smaller creature can spend half of their movement to Brace themselves, granting them Advantage on any Strength or Dexterity Saving Throws to avoid being moved against their will. It is up to the DM's discretion as to whether creatures Grappling or Bracing on larger creatures can be attacked by those larger creatures.
+
+<!--  This advice goes for not just prostheses, but all representations of disability in games. -->
 
 }}
 
@@ -2681,7 +2673,7 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 
 ### Actions
 
-***Multiattack.*** The Raijū makes three Lightning Claws attacks. They can replace one of these with a use of Tail Bolt.
+***Multiattack.*** The Raijū makes three Lightning Claws attacks. They can replace one attack with a use of Tail Bolt.
 
 ***Lightning Claws.*** *Melee Attack Roll:* +9, reach 5 ft. *Hit:*  12 (2d6 + 5) Slashing damage plus 7 (2d6) Lightning damage, and the target must succeed on a DC 16 Constitution Saving Throw or become charged.
 
@@ -2957,6 +2949,143 @@ Many groups of bandits roam the roads and settlements of Sumiriku, who make thei
 ![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
+
+{{monster,frame
+
+## Kuchan, Winter's Hide
+
+*Small Humanoid (Koppukur, Druid), Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 17
+**HP**         :: 187 (22d8 + 28)
+\column
+**Initiative** :: +1 (11)
+**Speed**      :: 25 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 16|  +3  |  +3  |
+|Int| 14|  +2  |  +5  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14|  +2  |  +2  |
+|Wis| 19|  +4  |  +7  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 18|  +4  |  +4  |
+|Cha| 12|  +1  |  +1  |
+
+}}
+
+**Skills**      :: Insight +7, Nature +5, Perception +7, Survival +7
+**Resistances** :: Poison
+**Gear**        :: Sentōno
+**Senses**      :: Passive Perception 17
+**Languages**   :: Anagumago, Sumirikugo
+**CR**          :: 7 (XP 2,300; PB +3)
+
+}}
+
+### Traits
+
+***Frostbite.*** Once per turn when Kuchan hits with a Sentōno attack on an attack in her badger-bear form, she deals an additional 7 (1d12) Cold damage.
+
+### Actions
+
+***Multiattack.*** Kuchan makes two Sentōno attacks and one use of Spellcasting.
+
+***Sentōno*** *Melee Attack Roll:* +6 to hit, reach 5 ft. *Hit:* 10 (1d12 + 3) Slashing damage.
+
+***Spellcasting.*** Kuchan casts one of the following spells, using Charisma as the Spellcasting Ability (Spell Save DC 15):
+
+**At will:** Animal Messenger<sup>A</sup>, Beast Sense<sup>A, C</sup>, Speak with Animals<sup>A</sup>, Ray of Frost<sup>A</sup>
+</br>**2/day each:** Ice Knife<sup>A</sup>
+</br>**1/day each:** Cone of Cold<sup>A</sup>, Stoneskin<sup>A, C</sup>
+
+### Bonus Actions
+
+***Change Shape (5/Day)*** Kuchan magically transforms into a badger-bear. Kuchan can remain in that form for up to 2 hours. Kuchan reverts to her true form if she is incapacitated or dies. She can revert to her true form using a Bonus Action.
+
+While Kuchan is transformed, her stat block is replaced by the stat block of that form, except she keeps her current hit points, her hit point maximum, her Frostbite trait, this Bonus Action, her Shattering Shield reaction, her alignment, and her Intelligence, Wisdom, and Charisma scores.
+
+### Reactions
+
+***Shattering Shield (2/Day).*** *Trigger:* Kuchan is hit by an attack. *Response* Kuchan reduces the attack's damage by 9 (1d12 + 4). If this does not reduce the damage of the attack to 0, the attacker takes Cold damage equal to the damage reduced this way.
+
+}}
+
+\column
+
+{{monster,frame
+
+## Badger-Bear
+
+*Large Beast, Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 13
+**HP**         :: 59 (7d10 + 21)
+\column
+**Initiative** :: +1 (11)
+**Speed**      :: 40 ft., Burrow 40 ft., Climb 40 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 20|  +5  |  +5  |
+|Int| 3 |  -4  |  -4  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12|  +1  |  +1  |
+|Wis| 12|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 17|  +3  |  +3  |
+|Cha| 7 |  -2  |  -2  |
+
+}}
+
+**Skills**      :: Perception +4,
+**Resistances** :: Cold
+**Senses**      :: Darkvision 60 ft., Passive Perception 15
+**Languages**   :: ---
+**CR**          :: 3 (XP 700; PB +2)
+
+}}
+
+### Traits
+
+***Keen Smell.*** The badger-bear has Advantage on Wisdom (Perception) checks that rely on smell.
+
+### Actions
+
+***Multiattack.*** The badger-bear makes two Rend attacks.
+
+***Rend*** *Melee Attack Roll:* +7 to hit, reach 5 ft. *Hit:* 14 (2d8 + 5) Slashing damage.
+
+### Bonus Actions
+
+***Tunneler (1/Day).*** The badger-bear digs underground, tunnels up to 40 feet in a straight line, then suddenly unburrows. *Dexterity Saving Thrown:* DC 16, each creature within the space the badger-bear unburrows. *Failure:* 18 (4d8) Bludgeoning damage, and the target gains the Prone condition.
+
+}}
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
@@ -3661,6 +3790,166 @@ The Baku has 2 Legendary Action Uses per round.
 
 \page
 
+## The Twin Sons
+
+**TODO - NOT STARTED - UNIMPORTANT**
+
+{{monster,frame
+
+## Kaito, Blue Oni
+
+*Medium Humanoid Fiend (Human, Warlock), Neutral Evil*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 15 (Mage Armour)
+**HP**         :: 150 (20d8 + 60)
+\column
+**Initiative** :: +3 (13)
+**Speed**      :: 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 15|  +2  |  +2  |
+|Int| 12|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 16|  +3  |  +7  |
+|Wis| 12|  +1  |  +5  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16|  +3  |  +3  |
+|Cha| 20|  +5  |  +9  |
+
+}}
+
+**Skills**      :: Deception +9, Intimidation +9, Persuasion +9
+**Resistances** :: Cold
+**Senses**      :: Passive Perception 11
+**Gear**        :: Portable Hole
+**Languages**   :: Akumago, Formal Sumirikugo, Sumirikugo
+**CR**          :: 9 (XP 2,300; PB +4)
+
+}}
+
+### Traits
+
+***Ego.*** If a creature attempts to threaten, intimidate, or goad Kaito, he must attempt a DC 20 Wisdom Saving Throw. If he fails he is forced to target the creature that triggered the Saving Throw with any attacks, spells and abilities he uses and he cannot move away from said creature until the end of this next turn.
+
+### Actions
+
+***Eldritch Blast (2 Attacks).*** *Ranged Attack Roll:* +9 to hit, range 120 ft. *Hit:* 11 (1d10 + 5) Force damage, and Kaito can move the creature in a straight line up to 10 feet closer or further away.
+
+***Pact Casting.*** Kaito casts one of the following spells, using Charisma as the Spellcasting Ability (Spell Save DC 17):
+
+**At will:** Mage Armour<sup>A</sup> (included in AC), Mage Hand<sup>A</sup>
+</br>**3/day combined:** Dimension Door<sup>A</sup>, Hex<sup>BA,C</sup>, Hold Person<sup>A,C</sup>, Fireball<sup>A</sup> (Fifth Level)
+
+***Oni Fangs.*** *Melee Attack Roll:* +6 to hit, reach 5ft. *Hit:* 7 (1d8 + 2) Piercing damage. If the target of this attack is causing Kaito's Ego trait to be active, he has Advantage on Attack Rolls against them with this attack.
+
+***As Above, So Below (1/Day).*** *Charisma Saving Throw:* DC 17, one target within 30 feet. *Failure:* The target gets thrown through Makoku. They take 8d10 Psychic damage and they have the Incapacitated Condition until the end of Kaito's next turn, when they return to the space they previously occupied or the nearest unoccupied space.
+
+### Bonus Actions
+
+***Fel Step.*** Kaito teleports up to 30 feet to an unoccupied space he can see and leaves behind a wave of lethargy. *Dexterity Saving Throw:* DC 17, each creature within 10 feet of the space Kaito left. *Failure:* The target takes 9 (2d8) Cold damage and has their speed reduced by 10 feet until the end of their next turn.
+}}
+
+\column
+
+{{monster,frame
+
+## Hayato, Red Oni
+
+*Medium Humanoid Fiend (Human, Warlock), Neutral Evil*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 17 (Improved Medium Armour)
+**HP**         :: 170 (20d8 + 80)
+\column
+**Initiative** :: +2 (12)
+**Speed**      :: 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18|  +4  |  +4  |
+|Int| 16|  +3  |  +7  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14|  +2  |  +2  |
+|Wis| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 18|  +4  |  +4  |
+|Cha| 20|  +5  |  +9  |
+
+}}
+
+**Skills**      :: Intimidation +9, Investigation +7, Perception +4
+**Resistances** :: Fire
+**Senses**      :: Passive Perception 14
+**Gear**        :: Improved Medium Armour
+**Languages**   :: Akumago, Formal Sumirikugo, Sumirikugo
+**CR**          :: 9 (XP 2,300; PB +4)
+
+}}
+
+### Traits
+
+***Ego.*** If a creature attempts to threaten, intimidate, or goad Hayato, he must attempt a DC 15 Wisdom Saving Throw. If he fails he is forced to target the creature that triggered the Saving Throw with any attacks, spells and abilities he uses and he cannot move away from said creature until the end of this next turn.
+
+***Infernal Chains.*** The first time Hayato hits with a weapon attack on his turn, the target must succeed on a DC 17 Strength Saving Throw or they have the Prone Condition.
+
+### Actions
+
+***Multiattack.*** Hayato makes three attacks, either with the Kusarigama Sickle or Kusarigama Chain. He must make at least one attack with each weapon.
+
+***Kusarigama Sickle.*** *Melee Attack Roll:* +9 to hit, reach 5 ft. *Hit:* 10 (1d8 + 5) Slashing damage, plus 4 (1d8) Fire damage.
+
+***Kusarigama Chain.*** *Melee Attack Roll:* +9 to hit, reach 10 ft. *Hit:* 9 (1d6 + 5) Bludgeoning damage, plus 4 (1d8) Fire damage.
+
+***Oni Fangs.*** *Melee Attack Roll:* +8 to hit, reach 5ft. *Hit:* 9 (1d8 + 4) Piercing damage. If the target of this attack is causing Hayato's Ego trait to be active, he has Advantage on Attack Rolls against them with this attack.
+
+***As Above, So Below (1/Day).*** *Charisma Saving Throw:* DC 17, one target within 30 feet. *Failure:* The target gets thrown through Makoku. They take 8d10 Psychic damage and they have the Incapacitated Condition until the end of Hayato's next turn, when they return to the space they previously occupied or the nearest unoccupied space.
+
+### Bonus Actions
+
+***Third Eye of Judgement.*** Hayato judges a creature he can see within 90 feet of him. Hayato deals an extra 1d6 Fire damage to the target whenever he hits it with an attack roll. This lasts until the creature dies or Hayato uses his Bonus Action to judge a different creature.
+
+***Hate Step.*** Hayato teleports up to 30 feet to an unoccupied space within 30 feet of the creature he is judging, and then lets out a wave of heat. Any creature within a 10 foot radius of Hayato after he teleports takes 9 (2d8) Fire damage.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
 ## Undead
 
 **TODO - NOT STARTED - UNIMPORTANT**
@@ -3731,7 +4020,7 @@ The Baku has 2 Legendary Action Uses per round.
 
 ***Crooked Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft. in the direction the Jiangshi is facing. *Hit:* 13 (2d6 + 4) Slashing damage. If the target is a Medium or smaller creature, they has the Grappled Condition (escape DC 14) from one of two claws.
 
-***Drain Vitality.*** Saichuen draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 15, one creature within 5 feet that is willing or that has the Grappled, Incapacitated, or Restrained Condition. *Failure:* 14 (3d8) Necrotic damage. The target's Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and the Jiangshi regains Hit Points equal to that amount.
+***Drain Vitality.*** The Jiangshi draws the life force out from the forehead of a creature. *Constitution Saving Throw:* DC 15, one creature within 5 feet that is willing or that has the Grappled, Incapacitated, or Restrained Condition. *Failure:* 14 (3d8) Necrotic damage. The target's Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and the Jiangshi regains Hit Points equal to that amount.
 
 ### Reactions
 
@@ -4265,8 +4554,6 @@ The Baku has 2 Legendary Action Uses per round.
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
-\column
-
 {{monster,frame
 
 ## Kamaitachi
@@ -4307,7 +4594,7 @@ The Baku has 2 Legendary Action Uses per round.
 **Skills**      :: Acrobatics +5, Perception +3, Stealth +7
 **Senses**      :: Darkvision 60 ft., Passive Perception 13
 **Languages**   :: ---
-**CR**          :: 1 (XP ?; PB +?)
+**CR**          :: 1 (XP 200; PB +2)
 
 }}
 
@@ -4323,11 +4610,75 @@ The Baku has 2 Legendary Action Uses per round.
 
 ***Sickle Claw.*** *Melee Attack Roll:* +5 to hit, reach 5 ft. *Hit:* 6 (1d4 + 3) Slashing damage.
 
-***Wind Slash (Requires the Kamaitachi have the Invisible Condition).*** The Kamaitachi moves up to their Speed towards a creature, while remaining Invisible, before making a Sickle Claw attack against them. If the attack hits, the target instead takes 8 (2d4 + 3) Slashing damage at the start of their next turn, and the Kamaitachi moves an additional 40 feet in a straight line past the target, without provoking an Opportunity Attack from the 13target creature.
+***Wind Slash (Requires the Kamaitachi have the Invisible Condition).*** The Kamaitachi moves up to their Speed towards a creature, while remaining Invisible, before making a Sickle Claw attack against them. If the attack hits, the target instead takes 8 (2d4 + 3) Slashing damage at the start of their next turn, and the Kamaitachi moves an additional 40 feet in a straight line past the target, without provoking an Opportunity Attack from the target creature.
 
 ### Bonus Actions
 
 ***Hide.*** The Kamaitachi takes the Hide Action.
+
+}}
+
+\column
+
+{{monster,frame
+
+## Kamaitachi Elite
+
+*Small Fey, Chaotic Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 16
+**HP**         :: 84 (14d6 + 42)
+\column
+**Initiative** :: +8 (18)
+**Speed**      :: 40 ft., Climb 40 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 5 |  -3  |  -3  |
+|Int| 7 |  -2  |  -2  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 20|  +5  |  +5  |
+|Wis| 16|  +3  |  +3  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16|  +3  |  +3  |
+|Cha| 13|  +1  |  +1  |
+
+}}
+
+**Skills**      :: Acrobatics +8, Perception +6, Stealth +11
+**Senses**      :: Darkvision 60 ft., Passive Perception 13
+**Languages**   :: ---
+**CR**          :: 5 (XP 1800; PB +3)
+
+}}
+
+### Traits
+
+***Dust Devil.*** While the Kamaitachi has the Invisible Condition, they float 1 foot above the ground and ignore difficult terrain. If the Kamaitachi has the Invisible Condition, it can replace one attack from their Multiattack action with a use of Wind Slash.
+
+### Actions
+
+***Multiattack.*** The Kamaitachi makes five Sickle Claw attacks. If they have the Invisible Condition, they can replace one attack with a use of Wind Slash.
+
+***Sickle Claw.*** *Melee Attack Roll:* +8 to hit, reach 5 ft. *Hit:* 8 (1d4 + 5) Slashing damage.
+
+***Wind Slash (Requires the Kamaitachi have the Invisible Condition).*** The Kamaitachi moves up to their Speed towards a creature, while remaining Invisible, before making a Sickle Claw attack against them. If the attack hits, the target instead takes 18 (5d4 + 5) Slashing damage at the start of their next turn, and the Kamaitachi moves an additional 40 feet in a straight line past the target, without provoking an Opportunity Attack from the target creature.
+
+### Bonus Actions
+
+***Dust Tornado.*** *Dexterity Saving Throw:* DC 15, each creature in a 5-foot Emanation originating from the Kamaitachi. *Failure:* 9 (1d6 + 5) Slashing damage. After using this ability, 5-foot radius Sphere of dust centered on the Kamaitachi is created that lasts until the end of its next turn. The Sphere is Heavily Obscured. The Kamaitachi then takes the Hide action.
 
 }}
 
@@ -4802,13 +5153,14 @@ Mum and Dad Usagi.
 
 }}
 
-**Skills**      :: ??? +?
-**Gear**        :: ???
-**Resistances** :: ???
-**Immunities**  :: ???; ???
-**Senses**      :: ???, Passive Perception ??
-**Languages**   :: Sumirikugo, ???
-**CR**          :: ? (XP ?; PB +?)
+**Skills**          :: ??? +?
+**Vulnerabilities** :: ???
+**Resistances**     :: ???
+**Immunities**      :: ???; ???
+**Gear**            :: ???
+**Senses**          :: ???, Passive Perception ??
+**Languages**       :: Sumirikugo, ???
+**CR**              :: ? (XP ?; PB +?)
 
 }}
 
