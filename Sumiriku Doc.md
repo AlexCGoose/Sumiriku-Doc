@@ -242,7 +242,7 @@ Where possible within this book, I have tried to provide translations of terms a
 }}
 
 {{imageMaskEdge7,--offset:10cm,--rotation:180
-  ![amaterasu](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/A_man_confronted_with_an_apparition_of_the_Fox_goddess.jpg/800px-A_man_confronted_with_an_apparition_of_the_Fox_goddess.jpg){position:absolute,bottom:-50px,left:0px,height:110%}
+  ![inari](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%201/A%20Man%20Confronted%20with%20an%20Apparition%20of%20the%20Fox%20Goddess%20-%20Utagawa%20Yoshitora%20-%20upload.wikimedia.org%2Bwikipedia%2Bcommons%2B0%2B02%2BA_man_confronted_with_an_apparition_of_the_Fox_goddess.jpg){position:absolute,bottom:-50px,left:0px,height:110%}
 }}
 
 {{pageNumber,auto}}
