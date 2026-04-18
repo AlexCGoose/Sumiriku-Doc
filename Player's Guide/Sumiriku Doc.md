@@ -1,6 +1,6 @@
 {{frontCover}}
 
-![cover](https://i.imgur.com/f0DTPJN.jpeg){position:absolute,bottom:0,left:0,height:100.5%}
+![cover](https://github.com/AlexCGoose/Sumiriku-Doc/blob/main/Images/Player's%20Guide/Covers%20and%20Graphics/Front%20Cover%20(The%20Battle%20of%20Onin%20during%20the%20Onin%20War%20(1467-1477)%20-%20Utagawa%20Yoshitora).png?raw=true){position:absolute,bottom:0,left:0,height:100.5%}
 
 \page
 
@@ -10,9 +10,9 @@
 
 ## Player's Guide
 
-![line](https://i.imgur.com/FN4VAkw.png) {position:absolute,top:321px,left:175px,width:450px}
+![diamond](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Inside%20Cover%20Diamond.png) {position:absolute,top:321px,left:175px,width:450px}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:400px,left:175px,width:450px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:400px,left:175px,width:450px}
 
 {{wide,text-align:center
 
@@ -34,11 +34,11 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 {{toc
 
-- ### [{{ Foreword - On Culture, Adaptation, and Appropriation}}{{ 3}}](#p4) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:128px,left:55px,width:245px,mix-blend-mode:normal}
+- ### [{{ Foreword - On Culture, Adaptation, and Appropriation}}{{ 3}}](#p4) ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:142px,left:55px,width:245px,mix-blend-mode:normal}
 
 - ###### [{{ Language and Translation}}{{ 3}}](#p4)
 
-- ### [{{ PART 1 - History and Religion}}{{ 4}}](#p5) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:175px,left:55px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 1 - History and Religion}}{{ 4}}](#p5) ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:203px,left:55px,width:245px,mix-blend-mode:normal}
 
 - ###### [{{ The Land of Ink and Blood}}{{ 5}}](#p6)
 
@@ -88,7 +88,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 {{toc
 
-- ### [{{ PART 2 - Character Options}}{{ 28}}](#p29) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:115px,left:285px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 2 - Character Options}}{{ 28}}](#p29) ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:129px,left:285px,width:245px,mix-blend-mode:normal}
 
 - ###### [{{ Character Species}}{{ 29}}](#p30)
 
@@ -165,7 +165,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
   - [{{ Species Feats}}{{ 83}}](#p84)
   - [{{ General Feats}}{{ 91}}](#p92)
 
-- ### [{{ PART 3 - Geography and Culture}}{{ 96}}](#p97) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:312px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 3 - Geography and Culture}}{{ 96}}](#p97) ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:313px,left:515px,width:245px,mix-blend-mode:normal}
 
 - ###### [{{ Maps of Sumiriku and the World}}{{ 97}}](#p98)
 
@@ -184,7 +184,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 - ###### [{{ Sacred Treasures and other Magic Items}}{{ 106}}](#p107)
 
-- ### [{{ EXTRA - Appendices}}{{ 107}}](#p108) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:566px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ EXTRA - Appendices}}{{ 107}}](#p108) ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:611px,left:515px,width:245px,mix-blend-mode:normal}
 
 - ###### [{{ Appendix A - Creature Stat Blocks}}{{ 108}}](#p109)
 
@@ -196,7 +196,9 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 - ###### [{{ Appendix E - Reference Images}}{{ 140}}](#p141)
 
-- ### [{{ CREDITS}}{{ 145}}](#p146) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:719px,left:515px,width:245px,mix-blend-mode:normal}
+- ### [{{ CREDITS}}{{ 145}}](#p146) ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:778px,left:515px,width:245px,mix-blend-mode:normal}
+
+- ###### [{{ Artist Credits}}{{ 145}}](#p146)
 
 - ###### [{{ Special Thanks}}{{ 145}}](#p146)
 
@@ -212,20 +214,20 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 }}
 
-{{#fancy S}}{{#after-fancy umiriku is heavily inspired by the}} history and traditions of Japan and of Japanese peoples, a culture that I am not a part of. It is clear that adaptation of existing cultures is frequently done inappropriately and disrespectfully, regardless of the intent of the work. Works such as those often treat real people, their religion, tradition, and history, as an aesthetic choice that can be overlaid on a narrative without much thought to meaning or execution. Worse are works that have a non-native protagonist, frequently a surrogate for a white author, who "discovers" the "strange" "exotic" land or any other gross descriptors, or even has to save said place from a threat the locals could not handle on their own.
+{{#fancy S}}{{#after-fancy umiriku is heavily inspired by the}} and traditions of Japan and of Japanese peoples, a culture that I am not a part of. It is clear that adaptation of existing cultures is frequently done inappropriately and disrespectfully, regardless of the intent of the work. Works such as those often treat real people, their religion, tradition, and history, as an aesthetic choice that can be overlaid on a narrative without much thought to meaning or execution. Worse are works that have a non-native protagonist, frequently a surrogate for a white author, who "discovers" the "strange" "exotic" land or any other gross descriptors, or even has to save said place from a threat the locals could not handle on their own.
 
 I have deliberately taken care and used many genuine sources to try to present this setting as authentic, accurate, and free from fetishisation or stereotype, while also leaving room for adaptation to a magical fantasy setting. I also tried to guarantee that the content presented here is distinct to a Japanese setting, so as to not conflate East Asian countries into a homogenous group. Nearby locations are referenced but I chose to only explore them a small amount, to allow more space to flesh out this specific setting and to enable characters to feel more grounded and fully realised. Though there may be mistakes or inaccuracies, I hope you can see that this setting comes from an authentic place of good faith, that does not want to disparage or misappropriate. I also hope and ask that you extend the same good faith when creating a character and playing in this setting, in order to not disparage and avoid any harmful tropes. Thank you for reading, and enjoy!
 
 \column
 
-### Language and Translation ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:134px,left:400px,width:375px,mix-blend-mode:normal}
+### Language and Translation ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:136px,left:400px,width:375px,mix-blend-mode:normal}
 
 Where possible within this book, I have tried to provide translations of terms and names used, as well as how those terms would be written out in the native language of Sumiriku. These characters are either kanji or hiragana, and sometimes both forms of writing out a term are used. Sometimes pronunciation of these terms and names may be challenging for people who don't speak Japanese, and I know that I frequently use the wrong vowel sounds in the wrong places. I do ask that you try or attempt correct pronunciations, use real Japanese names for characters and such, and avoid rejecting out of hand names and terms from other languages.
 
 {{pageNumber,auto}}
 {{footnote FOREWORD}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -235,20 +237,20 @@ Where possible within this book, I have tried to provide translations of terms a
 
 ## History and Religion
 
-{{position:absolute,top:1025px,left:180px,margin-bottom:-50px
+{{position:absolute,top:1025px,left:130px,margin-bottom:-50px
 
 ##### The Kami Goddess Kajin-sama, disguised as a human, <br> appears with her fox companion before a samurai
 
 }}
 
 {{imageMaskEdge7,--offset:10cm,--rotation:180
-  ![inari](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%201/A%20Man%20Confronted%20with%20an%20Apparition%20of%20the%20Fox%20Goddess%20-%20Utagawa%20Yoshitora%20-%20upload.wikimedia.org%2Bwikipedia%2Bcommons%2B0%2B02%2BA_man_confronted_with_an_apparition_of_the_Fox_goddess.jpg){position:absolute,bottom:-50px,left:0px,height:110%}
+  ![amaterasu](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%201/A%20Man%20Confronted%20with%20an%20Apparition%20of%20the%20Fox%20Goddess%20-%20Utagawa%20Yoshitora%20-%20upload.wikimedia.org%2Bwikipedia%2Bcommons%2B0%2B02%2BA_man_confronted_with_an_apparition_of_the_Fox_goddess.jpg){position:absolute,bottom:-50px,left:0px,height:110%}
 }}
 
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -268,32 +270,34 @@ soldiers could aim to become great leaders. To an outsider it would appear that 
 
 The Daimyō were steadily becoming more unimpressed with the current shogunate, especially those furthest from Heain-kyō, as they came to feel that they lacked the local autonomy they deserved and that they were being unfairly exploited by the ruling caste. Even farmers, devastated by famines and natural disasters, began to take up arms and lead uprisings, forming their own armies. This all came to a head during a succession crisis within the Shogunate, when a neighbouring clan with a claim to leadership built up an army and led a march on Heain-kyō. The result of this conflict was catastrophic, burning down much of Heain-kyō's perimeter settlements and decimating the army loyal to the Shōgun. Those that returned to the Shōgun were in for a greater shock however, as they discovered that he had been assassinated in their absence, a declaration of war tied to the Kunai in his back. This caused the instantaneous collapse of the shogunate, which coincided with the mysterious disappearance of the Emperor with no clear successor. The land descend into martial chaos, into a time now known as the Koware Jidai (壊れ時代, 'Shattered States Era'). Each Daimyō and their clans believes that they should be given authority to rule over Sumiriku, and they have attempted to prove that right on the battlefield. For over a century since that fateful day in Heain-kyō, war is all there has been.
 
-{{position:relative,top:5px,left:20px,margin-bottom:-30px
+{{position:relative,left:20px,margin-bottom:-30px
 
 ##### The war to begin the Koware Jidai
 
 }}
 
-{{imageMaskEdge7,--offset:33%,--rotation:0
+{{imageMaskEdge7,--offset:29%,--rotation:0
   ![onin](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Onin-War-1467-1477-The-Battle-of-Onin-by-Utagawa-Yoshitora.png/1920px-Onin-War-1467-1477-The-Battle-of-Onin-by-Utagawa-Yoshitora.png){position:aboslute,top:600px,left:-200px,height:50%}
 }}
 
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
 # Spiritualism and the Kami
 
-Sumiriku is still a deeply spiritual place, despite the blood that may cover its soil. In the saga of creation it is said that Sumiriku was created by the stardust deities first, being drawn at the centre of the great cosmic map, and so it is the place where the spiritual and the tangible intersect the most. The drawing of this map is the foundation of the belief of In'yō, cosmic balance and duality, as the ink on the page gives form and meaning to the blank paper, and the blank page gives contrast to the ink. The outbreak of the Koware Jidai has caused a variety of responses in those that feel a deep religious connection; some have stuck to pacifist beliefs, trying to protect and care for a shrine or monastery while remaining isolated from the wider world, whereas others have decided to take up arms in the name of what they believe.
+Sumiriku is still a deeply spiritual place, despite the blood that may cover its soil. In the saga of creation it is said that Sumiriku was created by the stardust deities first, being drawn at the centre of the great cosmic map, and so it is the place where the spiritual and the tangible intersect the most. The drawing of this map is the foundation of the belief of In'yō, cosmic balance and duality; as the ink on the page gives form and meaning to the blank paper, and the blank page gives contrast to the ink. The outbreak of the Koware Jidai has caused a variety of responses in those that feel a deep religious connection; some have stuck to pacifist beliefs, trying to protect and care for a shrine or monastery while remaining isolated from the wider world, whereas others have decided to take up arms in the name of what they believe.
 
 ## Daidō and Kami
 
 The people of Sumiriku share belief in a polytheistic and animistic religion called Daidō (大道, 'The Great Way'), that states that the physical world is surrounded, joined, and tied together by spirits and their spiritual realm. Everyone and everything is created with some spiritual essence that exists alongside their physical being. This essence transcends form, identity, and even plane of existence; everything born to or formed by the world is alike in spirit. Some spirits can flow freely, while others may exist within people, objects, natural phenomena, landmarks, emotions, ideas, or worldly forces.
 
-When one of these spirits receives significant veneration, the spirit becomes a Kami (神, 'Deity' or 'Spirit'), a holy and blessed being. These Kami are only spiritual beings, but some are able to manifest for themselves a physical form, if they seek to have an audience with someone or to act in the physical world. The Kami are uncountable in their number and with infinite variation; people describe counting all of the Kami as "counting each grain of rice in a field", a saying for an impossible task. People will pray to and worship any number of Kami in their lifetime, whether through ritual at a shrine or within their day-to-day activity, and these worshipped Kami may be both of beings or places and of emotions or ideas. From the greatest dragons and deities, to tiny saplings and drops of dew, to holy people, to even the spirits of passed nobles; If one is worthy of worship, they become Kami.
+When one of these spirits receives significant veneration, the spirit becomes a Kami (神, 'Deity' or 'Spirit'), a holy and blessed being. These Kami are only spiritual beings, but some are able to manifest for themselves a physical form, if they seek to have an audience with someone or to act in the physical world. The Kami are uncountable in their number and with infinite variation; people describe counting all of the Kami as "counting each grain of rice in a field", a saying for an impossible task. People will pray to and worship any number of Kami in their lifetime, whether through ritual at a shrine or within their day-to-day activity, and these worshipped Kami may be both of beings or places and of emotions or ideas. From the greatest dragons and deities, to tiny saplings and drops of dew, to holy people, to even the spirits of passed nobles; if one is worthy of worship, they become Kami.
+
+\column
 
 ## Shrines and Prayer
 
@@ -303,20 +307,20 @@ These shrines can differ greatly in scale and grandeur. The grandest among them 
 
 No matter their size or shape, shrines are typically always at a raised position, with stairs leading up to them. It is believed that this brings them, and the worshippers who visit them, closer to Kumonoue, the realm of the Myōjin.
 
-{{position:relative,top:-1px,left:30px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:625px,left:425px
 
 ##### A Shrine to a Kami, raised out of the water
 
 }}
 
-{{imageMaskCorner20,--offsetX:45%,--offsetY:-60%,--rotation:0
-  ![shrine](https://i.imgur.com/EgyNG9i.png){position:aboslute,bottom:-5px,right:-130px,width:80%}
+{{imageMaskCorner20,--offsetX:50%,--offsetY:-50%,--rotation:0,--scaleX:1.1,--scaleY:0.85
+  ![shrine](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%201/Spiritualism%20and%20the%20Kami/Shrine%20(Edited)%20-%20Unknown.png){position:aboslute,bottom:-5px,right:-150px,width:80%}
 }}
 
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -324,17 +328,17 @@ No matter their size or shape, shrines are typically always at a raised position
 
 Magic permeates all things throughout the realms, but this mystical nature is most pronounced for a few groups of creatures. Many of these beings have infiltrated Sumiriku by passing through the veil between realms, crossing from the far shore of the unknown to the near shore of the real and tangible. These magical beings often become the basis for many a folk story, fable, or legendary tale. The study of these creatures has increased in recent times, but still many mysteries surround their existence. The response from the populace to them is varied, from reverence as a Kami, to anger and hostility, to pure and unadulterated terror.
 
-{{imageMaskCorner8,--offsetX:-45%,--offsetY:-26%,--rotation:90,--scaleX:115%,--scaleY:115%
-  ![march](https://cdnb.artstation.com/p/assets/images/images/032/318/945/large/rio-sabda-ya.jpg?1606107881){position:absolute,bottom:700px,left:-500px,height:80%,transform:rotate(-90deg)}
+{{imageMaskCorner29,--offsetX:-50%,--offsetY:-50%,--scaleX:0.93,--scaleY:1.15
+  ![march](https://cdnb.artstation.com/p/assets/images/images/032/318/945/large/rio-sabda-ya.jpg?1606107881){position:absolute,bottom:0px,left:-150px,height:80%,}
 }}
 
-![yokai-shadow](https://i.imgur.com/jAktCLu.png) {position:absolute,left:-50px,bottom:-175px,width:425px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.3)skewX(15deg),mix-blend-mode:multiply}
+![yokai-shadow](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%201/Creatures%20of%20Legend/Yokai%20Monsters%20Karakasa-obake%20(Edited)%20-%20Loneanimator%20-%20deviantart.com%2Bloneanimator%2Bart%2BYokai-Monsters-Karakasa-obake-275715513.png) {position:absolute,left:-50px,bottom:-175px,width:440px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.3)skewX(15deg),mix-blend-mode:multiply}
 
-![yokai](https://i.imgur.com/jAktCLu.png) {position:absolute,left:50px,bottom:50px,width:425px,filter:brightness(80%),opacity:95%}
+![yokai](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%201/Creatures%20of%20Legend/Yokai%20Monsters%20Karakasa-obake%20(Edited)%20-%20Loneanimator%20-%20deviantart.com%2Bloneanimator%2Bart%2BYokai-Monsters-Karakasa-obake-275715513.png) {position:absolute,left:50px,bottom:50px,width:440px,filter:brightness(80%),opacity:95%}
 
-{{position:absolute,bottom:140px,left:370px,margin-bottom:-30px,align:right
+{{position:absolute,bottom:130px,left:400px,margin-bottom:-30px,align:right
 
-##### A Tsukumogami </br> called Karakasa-obake
+##### A Tsukumogami known </br> as Kasa-obake
 
 }}
 
@@ -346,16 +350,16 @@ Yōkai (妖怪, 'Strange Apparition') is an umbrella term that encompasses all t
 
 In folklore, people first speculated Yōkai to be the cause of unexplainable phenomenon; noises in the night with no source, people getting lost on paths they walk each day, mysterious lights off in the distance. These events were initially explained by mischievous and antagonistic beings from another world, the Yōkai, who sought to terrorise unsuspecting people before returning to the shadows.
 
-In time, people have come to know, study, and bond with Yokai, finding them similar to creatures we share in the physical world except more bizarre, more mystical, less confined to the rules of the universe. It appears that the real world influences the creation of Yōkai, as they often take naturalistic forms such as animals and trees, but more recently Yōkai known as &nbsp;&nbsp;&nbsp;&nbsp;Tsukumogami (付喪神) have been found &nbsp;&nbsp;&nbsp;&nbsp;which appear disguised as man-made &nbsp;&nbsp;&nbsp;&nbsp;objects.
+In time, people have come to know, study, and bond with Yokai, finding them similar to creatures we share in the physical world except more bizarre, more mystical, less confined to the rules of the universe. It appears that the real world influences the creation of Yōkai, as they often take naturalistic forms such as animals and trees, but more recently Yōkai known as Tsukumogami (付喪神) have been found which {{width:60px}}appear disguised as man-made objects.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Yōkai are often seen as sly and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mischievous creatures, though some &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;are more serious and menacing and &nbsp;&nbsp;&nbsp;some are far more gregarious. Different &nbsp;&nbsp;Yōkai appear to have different capacities for &nbsp;knowledge and individuality, with some being people in their own right and others being closer to animals. However, it should be noted that this only describes those creatures that have crossed the barrier into the real world, and those that live deeper within Kimyōkai and Yomi may be far stranger, beyond imagination.
+{{width:60px}}Yōkai are often seen as sly and {{width:60px}}mischievous creatures, though some {{width:40px}}are more serious and menacing and some {{width:60px}}are far more gregarious. Different {{width:80px}}Yōkai appear to have different {{width:40px}}capacities for knowledge and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;individuality, with some being people in their own right and others being closer to animals. However, it should be noted that this only describes those creatures that have crossed the barrier into the real world, and those that live deeper within Kimyōkai and Yomi may be far stranger, beyond imagination.
 
 Kappa, Akki, Tanuki, Kawauso, Kitsune, Kisuru all have in part some Yōkai ancestry, and it is rumoured that other people exist who have Yōkai within their bloodline.
 
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -371,11 +375,11 @@ Godaiyō (五大妖, 'Elemental Sprites') are beings formed wholly out of a sing
 
 Each of the elemental planes, or Godaikai, are believed to be controlled by a Godaiyō elder, the most powerful being of each element. These planes have a specific connection to different corners of the world; Sumiriku is most strongly associated with Hikai, the realm of fire, and the family line of the Emperor is said to have a specific connection to the Vermillion Bird, Suzaku (朱雀).
 
-{{imageMaskEdge7,--offset:10%,--rotation:270
+{{imageMaskEdge7,--offset:8%,--rotation:270
   ![asmodeus](https://cdnb.artstation.com/p/assets/images/images/022/887/595/large/omu-rizer-oni-b-small.jpg?1577107001){position:absolute,right:-250px,bottom:-1px,height:110%}
 }}
 
-{{position:absolute,bottom:80px,left:-370px,margin-bottom:-30px,text-align:right
+{{position:absolute,bottom:80px,left:-380px,text-align:right
 
 ##### A depiction of </br> an Oni Lord
 
@@ -384,18 +388,17 @@ Each of the elemental planes, or Godaikai, are believed to be controlled by a Go
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-{{imageMaskEdge5,--offset:7%,--rotation:90
+{{imageMaskEdge7,--offset:8%,--rotation:90,--scaleY:0.8
   ![dragon](https://cdnb.artstation.com/p/assets/images/images/027/674/515/large/simone-torcasio-azure-dragon1.jpg?1592231718){position:absolute,left:-375px,bottom:-400px,height:150%}
 }}
 
-{{position:absolute,bottom:80px,left:400px,margin-bottom:-30px,text-align:left
+{{position:absolute,bottom:130px,left:380px,text-align:left
 
-<!-- ##### A Water </br>Godai Ryū -->
-##### A Water </br>Godai Ryu
+##### A Water </br>Godai Ryū
 
 }}
 
@@ -412,7 +415,7 @@ The other group of Ryū are the Godai Ryū. Connected with the Godai elements th
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -430,12 +433,11 @@ Holy Manifestations can come in a number of different forms, each with different
 
 Across Sumiriku, stories and rumours tell of calamitous creatures, laying dormant but waiting for their chance to bring destruction to the world. Avatars of the earth's wrath, oceanic monsters, ominous Yōkai, even aberrations from beyond the stars; the only thing that unites these supposed creatures is their titanic size and power. Those who believe in these creatures claim they would dwarf even the great Ryū. Only time will tell if these rumours are true...
 
-{{imageMaskEdge5,--offset:7%,--rotation:-90
-  <!-- ![kirin](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f9104437-622c-475e-8209-69e7e7a41dc7/deqpxv9-35cfef21-8d58-4e28-be5e-a27fe700350a.png/v1/fit/w_828,h_1184,q_70,strp/kirin_by_duskyvel_deqpxv9-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgzMSIsInBhdGgiOiJcL2ZcL2Y5MTA0NDM3LTYyMmMtNDc1ZS04MjA5LTY5ZTdlN2E0MWRjN1wvZGVxcHh2OS0zNWNmZWYyMS04ZDU4LTRlMjgtYmU1ZS1hMjdmZTcwMDM1MGEucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.YXG-spnd8od9FxFUqRWvcTtaKBVZ3sRv3LtK6ZG1qRs){position:absolute,right:-175px,bottom:-1px,height:101%} -->
-  ![kirin](https://i.imgur.com/68wwRB8.jpeg){position:absolute,right:-175px,bottom:-1px,height:101%}
+{{imageMaskEdge7,--offset:7%,--rotation:-90,--scaleY:0.8
+  ![kirin](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f9104437-622c-475e-8209-69e7e7a41dc7/deqpxv9-35cfef21-8d58-4e28-be5e-a27fe700350a.png/v1/fit/w_828,h_1184,q_70,strp/kirin_by_duskyvel_deqpxv9-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgzMSIsInBhdGgiOiIvZi9mOTEwNDQzNy02MjJjLTQ3NWUtODIwOS02OWU3ZTdhNDFkYzcvZGVxcHh2OS0zNWNmZWYyMS04ZDU4LTRlMjgtYmU1ZS1hMjdmZTcwMDM1MGEucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.8SzZag2h7Rmi5GZdaTip4kbD-tR0pg4G3PvuNAIz1Kg){position:absolute,right:-175px,bottom:-1px,height:101%}
 }}
 
-{{position:absolute,bottom:100px,left:220px,margin-bottom:-30px,text-align:left
+{{position:absolute,bottom:120px,right:395px,margin-bottom:-30px,text-align:right
 
 ##### A Kirin, an example of </br>a Holy Manifestation
 
@@ -444,7 +446,7 @@ Across Sumiriku, stories and rumours tell of calamitous creatures, laying dorman
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -458,14 +460,14 @@ Below are the list of the Realms connected to Sumiriku:
 
 The dwelling place of the 14 Ō-Hoshikuzushin, progenitors of all else that is. This is the realm where the events of creation took place, with the unfurling of the great cosmic map. This realm lies far beyond the clouds, among the stars in the sky. This place is so distant from the tangible world as to be fully abstract, so no one can truly know what it would be like to exist within it. The presence of this realm is not understood but is instead felt, in the glow of the constellations in the night sky and in the Starlight Regalia, the most sacred of treasures, under strict ownership of the Emperor.
 
-{{position:relative,top:50px,left:20px,margin-bottom:-30px
+{{position:relative,top:40px,left:10px
 
 ##### A bustling city street in Utsushiyo
 
 }}
 
-{{imageMaskEdge1,--offset:28%,--rotation:0
-  ![utsushiyo](https://cdnb.artstation.com/p/assets/images/images/005/992/331/large/derek-weselake-gionfestivalderek.jpg?1495230579){position:aboslute,top:680px,left:-1px,width:101%}
+{{imageMaskEdge1,--offset:42.5%,--rotation:0,--scaleY:0.5
+  ![utsushiyo](https://cdnb.artstation.com/p/assets/images/images/005/992/331/large/derek-weselake-gionfestivalderek.jpg?1495230579){position:aboslute,bottom:-25px,left:-1px,width:101%}
 }}
 
 \column
@@ -481,18 +483,17 @@ The world of the real and tangible, of the living and breathing, of ink and bloo
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-{{position:absolute,top:410px,left:145px,margin-bottom:-30px,align:right
+{{position:relative,top:350px,left:0px,margin-bottom:-30px,text-align:center
 
-<!-- ##### A river in Kimyōkai -->
-##### A river in Kimyokai
+##### A river in</br>Kimyōkai
 
 }}
 
-{{imageMaskCorner12,--offsetX:-55%,--offsetY:50%,--rotation:0
+{{imageMaskCorner12,--offsetX:-55%,--offsetY:51%,--rotation:0
   ![kimyōkai](https://i.pinimg.com/originals/27/0b/a4/270ba4ead334851a467146b3c8c90942.jpg){position:aboslute,top:-55px,left:-1px,width:50%}
 }}
 
@@ -502,7 +503,7 @@ The world of the real and tangible, of the living and breathing, of ink and bloo
 ::::
 ::::
 ::::
-::::
+:::
 
 ## Kimyōkai </br> (奇妙界, 'Weird World')
 
@@ -510,26 +511,26 @@ The true home of many of the Yōkai, Kimyōkai can be seen as a surreal reflecti
 
 \column
 
-&nbsp;Most of the Yōkai who emerge from here are curious, mischievous tricksters, and frequently take on forms of beings found in nature, such as animals and trees. More recently it has been seen the influence the physical world is having on the beings of Kimyōkai, as Yōkai known as Tsukumogami, which take the form of crafted objects, have started being found crossing the gap between the realms. Some of the Sumiriku species, namely the four Obake, the Kappa, and the Akki, have one foot forever kept in the pool that is Kimyōkai.
+&nbsp;&nbsp;&nbsp;&nbsp;Most of the Yōkai who emerge from here are curious, mischievous tricksters, and frequently take on forms of beings found in nature, such as animals and trees. More recently it has been seen the influence the physical world is having on the beings of Kimyōkai, as Yōkai known as Tsukumogami, which take the form of crafted objects, have started being found crossing the gap between the realms. Some of the Sumiriku species, namely the four Obake, the Kappa, and the Akki, have one foot forever kept in the pool that is Kimyōkai.
 
 ## Yomi (黄泉, 'Dying Land')
 
 The place for the dead, for spirits who have expended the time they had. The depths of this realm extend beneath Utsushiyo and Kimyōkai, as a macabre, decaying version of the worlds above. The Myōjin Yōzanagi-sama attempted to seal away the path to Yomi with a massive boulder, but the connection still seeps through at places associated with death, such as swamps, crypts, and graves. People often avoid these places for fear that they might be dragged down to the depths of Yomi themselves, so they have been reclaimed by the moss and decay. The dead find their afterlife here a meditative purgatory, with no judgement taken on the actions of one's life, but travelers who find themselves here might consider Yomi as a place of disorienting horrors. A select few Yōkai are native to Yomi, and they are charged with preserving and protecting the realm, though some take it upon themselves to sneak away to Utsushiyo and bring fear to the living. The Myōjin Inzanami-sama descended here from Kumonoue after she decided that her work was done.
 
-{{position:relative,top:35px,left:100px,margin-bottom:-30px
+{{position:relative,top:60px,left:0px,margin-bottom:-30px,text-align:center
 
-##### A river in Yomi
+##### A river in</br> Yomi
 
 }}
 
-{{imageMaskEdge5,--offset:34%,--rotation:0
+{{imageMaskEdge5,--offset:57.5%,--rotation:0,--scaleY:0.5
   ![yomi](https://cdna.artstation.com/p/media_assets/images/images/000/304/018/large/Yomi_River_Scene.jpg?1539545470){position:aboslute,top:740px,left:-1px,width:101%}
 }}
 
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -578,21 +579,20 @@ Creatures that come from one of these realms are chaotic beings that reflect and
 
 {{position:absolute,top:1040px,left:385px,margin-bottom:-30px,align:right
 
-<!-- ##### Fūkai -->
-##### Fukai
+##### Fūkai
 
 }}
 
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
 # Zodiac and the Creation Myth
 
-::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::
 
 {{#fancy I}}{{#after-fancy n the beginning of creation, there was}}</br>said to be nothing but Void, a sea of deep stillness, a place lacking in any contrast or duality. Magically, from this space the first spark and twinkle of starlight appeared. Eventually more and more of this starlight formed, danced together, and took shape as the first of the Ō-Hoshikuzushin (大星屑神, 'Great Stardust Deity'), Ō-Seiza-Ryū (大星座竜, 'Great Constellation Dragon'). In turn, 13 more </br>Ō-Hoshikuzushin were born from the nothingness, and they brought with them emotion and conflict, passion and calm, into the realm that would become known as Hoshikuzuten (星屑天, 'Stardust Heaven').
 
@@ -600,7 +600,7 @@ After spending many moments together, the Ō-Hoshikuzushin found themselves comp
 
 \column
 
-::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::
 
 conjured up a scroll out of the starlight that surrounded them, and unfurled it to reveal an empty map of the world beneath them. Then, with a constellation brush and ink of void, they collaborated together to draw the shores and coast of what would become Sumiriku. These </br>Ō-Hoshikuzushin, and their home in Hoshikuzuten, can still be seen by those with keen eyes and open spirits when looking up into the constellations that form in the night sky.
 
@@ -608,9 +608,9 @@ This creation fuels the idea of In'yō, the belief in the cosmic balance of ligh
 
 The Zodiac is a cycle of the 14 </br>Ō-Hoshikuzushin, which repeats after every 14 years. Every year is represented by one of these animals, who signify the tone of the year and the personalities of the people who were born during said year. The complete Zodiac, in order, goes; Dragon, Rabbit, Monkey, Turtle, Raccoon-Dog, Fox, Koi, Mouse, Lion-Cat, Roc, Boar, Otter, Crane, Badger.
 
-![zodiac](https://i.imgur.com/r2X5mqw.png) {position:absolute,top:100px,left:130px,width:530px}
+![zodiac](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%201/Zodiac/Zodiac.png) {position:absolute,top:100px,left:120px,width:550px}
 
-{{position:absolute,top:575px,left:550px,margin-bottom:-30px,align:right
+{{position:absolute,top:600px,left:555px,margin-bottom:-30px,align:right
 
 ##### The Zodiac </br> wheel
 
@@ -619,7 +619,7 @@ The Zodiac is a cycle of the 14 </br>Ō-Hoshikuzushin, which repeats after every
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -627,7 +627,7 @@ The Zodiac is a cycle of the 14 </br>Ō-Hoshikuzushin, which repeats after every
 
 T {{width:5px}}he Myōjin (明神, 'Shining Deity'), also known as the Ōkami (大神, 'Great Deity'), are Kami second only to the </br>Ō-Hoshikuzushin in terms of their divinity and greatness, and are worshipped by the citizens of Sumiriku as deities over whole domains. Some of these beings were born as Myōjin, but many were people who transcended themselves to become Kami and then be placed among the Myōjin. The Myōjin spend much of their time within the realm known as Kumonoue, but they can enter Utsushiyo by crossing a bridge called the Niji-no-Ukihashi. Below is a list of the Myōjin, with a description of their traits and deeds, as well as the unique domain they have control over.
 
-### The Obake Quadruplets ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:405px,left:55px,width:375px,mix-blend-mode:normal}
+### The Obake Quadruplets ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:390px,left:55px,width:375px,mix-blend-mode:normal}
 
 The Obake Quadruplets are four sibling deities, one of each of Sumiriku's shapeshifting species. Each born as animals in a place of deep forest, they would all meet again each time a year passed. After 15 years they discovered that they had all become shapeshifters, with expanded
 
@@ -635,19 +635,19 @@ The Obake Quadruplets are four sibling deities, one of each of Sumiriku's shapes
 
 minds and the ability to take humanoid forms. They continued to see each other every year, going their separate ways and learning much of the world around them in the meantime. After 100 years of being an Obake, when the four met again, they ascended to be among the Myōjin.
 
-{{imageMaskCorner29,--offsetX:55%,--offsetY:75%,--rotation:0
+{{imageMaskCorner29,--offsetX:55%,--offsetY:77%,--rotation:0
   ![kumonoue](https://assets.moxfield.net/cards/card-EZyw7-art_crop.jpg){position:aboslute,top:-1px,right:-140px,width:80%}
 }}
 
-{{position:absolute,top:350px,right:260px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:330px,right:265px,margin-bottom:-30px,text-align:right
 
-##### A depiction of </br> Kumonoue, the holy </br> realm of the Myojin
+##### A depiction of </br> Kumonoue, the holy </br> realm of the Myōjin
 
 }}
 
 {{#god-table,wide
 
-##### The 14 Myojin
+##### The 14 Myōjin
 
 | Name                              | Description                                                                        | Primary Domain |
 |:----------------------------------|:-----------------------------------------------------------------------------------|:--------------:|
@@ -661,7 +661,7 @@ minds and the ability to take humanoid forms. They continued to see each other e
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -681,7 +681,7 @@ minds and the ability to take humanoid forms. They continued to see each other e
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -698,7 +698,7 @@ minds and the ability to take humanoid forms. They continued to see each other e
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -715,13 +715,25 @@ minds and the ability to take humanoid forms. They continued to see each other e
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
 # Historical Periods
 
 Historians and scholars of Sumiriku divide time into specific periods, known as Jidai (時代, 'Era'). These eras are divided up based on the political and spiritual landscape of Sumiriku at the time; a change in era frequently coincides with a change in political leadership.
+
+<!-- TODO HIII - UP TO HERE WITH CHANGES TO DOC AND STYLE SHEET - NEED TO 
+
+1. UPDATE ALL THE TABLES
+2. ADD DIACRITICS ANYWHERE THEY WERE MISSING BEFORE
+3. MOVE THE IMAGES TO GITHUB AND RELINK
+4. UPDATE POSITIONING OF EVERYTHING (INCLUDING ALL THE UNDERLINES)
+5. OTHER FIXES
+6. PORT CHANGES TO REAL DOC AND COMMIT
+7. REPEAT FOR SECRET DOC
+
+EZ!!! -->
 
 {{note
 
@@ -766,7 +778,7 @@ During this era treasures were gifted to the world, treasures that would go on t
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -791,7 +803,9 @@ On one fateful day the the greatest of these dangers revealed themselves—the O
 
 The Blood War began the moment the Oni shattered the barrier between realms. No longer were we safe, safely separated from danger; the Oni were here, and they were coming. Using their dark magics they blotted out the sky, protecting them from the radiance of the twin suns and forcing the world into endless night. Their aim was to feast on spirits, to gorge themselves on our and the Kami's lifeblood alike. The Oni came as a chaotic swarm, but quickly organised; lesser Oni started to follow the leadership of commanders and lords, such as the fearsome Daimyō Asudeu.
 
-During this carnage there was a Kitsune woman named Tomomi-sama, an oracle and mother who lived in Ochinodojima, in a place that would become the great capital, Heian-kyō. In her quaint home she alone cared for her two children, as her husband was fighting in the brutal war against the Oni. By foxfire and candlelight she tried to brighten the lives of her children and calm their fears—but the
+During this carnage there was a Kitsune woman named Tomomi-sama, an oracle and mother who lived in Ochinodojima, in a place that would become the great capital, Heian-kyō. In her quaint home she alone cared for her two children, as her husband was fighting in the brutal war against the Oni. By foxfire and candlelight she tried to brighten the lives of her children and calm their fears—but the darkness could not be held back forever. Through her scrying she saw the armies of Makoku approaching, ready to assault her home.
+
+Tomomi-sama found the time to hide her
 
 }}
 
@@ -799,11 +813,9 @@ During this carnage there was a Kitsune woman named Tomomi-sama, an oracle and m
 
 {{#quotation,quote
 
-darkness could not be held back forever. Through her scrying she saw the armies of Makoku approaching, ready to assault her home.
+children, to tell them bedtime stories, to sing lullabies, and to calm their nerves—she knew the Oni hunted by sensing fear. After she believed they were safe and hidden she attempted to come up with some sort of plan, but her mind only came up blank. It was at this moment that a spirit of starlight revealed itself to her, in the form of a small fox. Out of desperation she followed the little herald through her home, which led her to an antique heirloom mirror. Curious, she lifted up the mirror and dusted it of, causing it to begin to shine with sparkling starlight. Inside the refection of the mirror Tomomi-sama saw something she recognised as an oracle; she saw truth, the divined understanding of her past and future revealed to her. What she witnessed in the mirror was a manifestation of what she had feared most, that her husband had been lost in the Oni rampage. However she also received a premonition of hope, that the horde would be pushed back, light would return to the sky, and that somehow she would bring about this future. Seeing this she set into action.
 
-Tomomi-sama found the time to hide her children, to tell them bedtime stories, to sing lullabies, and to calm their nerves—she knew the Oni hunted by sensing fear. After she believed they were safe and hidden she attempted to come up with some sort of plan, but her mind only came up blank. It was at this moment that a spirit of starlight revealed itself to her, in the form of a small fox. Out of desperation she followed the little herald through her home, which led her to an antique heirloom mirror. Curious, she lifted up the mirror and dusted it of, causing it to begin to shine with sparkling starlight. Inside the refection of the mirror Tomomi-sama saw something she recognised as an oracle; she saw truth, the divined understanding of her past and future revealed to her. What she witnessed in the mirror was a manifestation of what she had feared most, that her husband had been lost in the Oni rampage. However she also received a premonition of hope, that the horde would be pushed back, light would return to the sky, and that somehow she would bring about this future. Seeing this she set into action.
-
-When the Oni arrived Tomomi-sama was ready to face them head on. Wielding the mirror, she forced the approaching monsters to stare into its preordaining reflection. She anticipated that this would cause the Oni to flee in terror, but what she did not expect was a ray of radiant sunlight to emit from the mirror, burning away the army where they stood. She came to understand that this mirror was a blessing from Hoshikuzuten, a unique and sacred artifact, which she named Tasogare-no-Kagami (黄昏の鏡, 'Mirror of Twilight'). With her wits and the gift of Tasogare-no-Kagami she was able to help push back the Oni from the land, end the endless night the world was under, and seal away the demons back in the pit they crawled out of. Thus, under the light of the Twin Suns, ends the Tale of the Blood War, and of the sagacious Tomomi-sama."
+When the Oni arrived Tomomi-sama was ready to face them head on. Wielding the mirror, she forced the approaching monsters to stare into its preordaining reflection. She anticipated that this would cause the Oni to flee in terror, but what she did not expect was a ray of radiant sunlight to emit from the mirror, burning away the army where they stood. She came to understand that this mirror was a blessing from Hoshikuzuten, a unique and sacred artifact, which she named Tasogare-no-Kagami<!-- (黄昏の鏡, 'Mirror of Twilight') -->. With her wits and the gift of Tasogare-no-Kagami she was able to help push back the Oni from the land, end the endless night the world was under, and seal away the demons back in the pit they crawled out of. Thus, under the light of the Twin Suns, ends the Tale of the Blood War, and of the sagacious Tomomi-sama."
 
 {{attribution *The History of Sumiriku*}}
 
@@ -814,7 +826,7 @@ When the Oni arrived Tomomi-sama was ready to face them head on. Wielding the mi
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -828,17 +840,19 @@ Despite being peaceful times, a dark tide was approaching their island. The sham
 
 Their words of warning, of the destruction that may come to their land, soon reached the lord of the island. Though he acted as if he was greatly mournful about the news, secretly he made quick plans to flee from the island with his family. Upon learning of this Kazuko-hime was distraught; her father was so heartless to abandon his people, people who did not have the resources he did to evacuate from the coming danger, and leave them to the whims of nature. She decided to refuse her father's instructions, and chose to stay with her people until the end came. Until then she helped as many as she could, and wondered if there was a way to prevent this imminent threat. She had a feeling that whatever was causing this must be alive in some way, and so perhaps kindness could be key to her island's survival. When the time cane, when waves tall as mountains towered over the land, Kazuko-hime was waiting at the shore.
 
+Witness to these events was the eldest starlight Kami, Ō-Seiza-Ryū. The dragon watched the destruction of the world unfurl beneath him, the shattering of islands on his perfect map. He also saw
+
 }}
 
 \column
 
 {{#quotation,quote
 
-&nbsp;&nbsp;Witness to these events was the eldest starlight Kami, Ō-Seiza-Ryū. The dragon watched the destruction of the world unfurl beneath him, the shattering of islands on his perfect map. He also saw this princess' great kindness, her selflessness in the face of despair. Seeing this contrast, this light in a moment of darkness, touched at Ō-Seiza-Ryū's heart, and for the first time he shed a single tear, which fell onto the map.
+this princess' great kindness, her selflessness in the face of despair. Seeing this contrast, this light in a moment of darkness, touched at Ō-Seiza-Ryū's heart, and for the first time he shed a single tear, which fell onto the map.
 
 From where Kazuko-hime stood, she saw a shooting star descend through the sky towards her, a trail of light blue streaking through the sky behind it. Instinctively she reached out her hand, and the meteor landed gently in her palm. Upon landing, a sphere of blue energy emanated out from the meteor to protect the island, pushing back the incoming tsunami. After the light and noise had subsided, Kazuko-hime adjusted her eyes to see in her hand a magatama, a sacred jewel made from the tear of the constellation dragon. She also saw her island, unscathed from the expected disaster, and something beginning to rise out of the water.
 
-What appeared before her was a kaijū, a bestial titan awoken from its underwater slumber. Within the creature's eyes Kazuko-hime saw rage, but she also saw confusion, and pain. In that moment she chose to reach out to the creature, stretching out a hand to it and singing to it a traditional tune she learned as a child. The creature, initially set on a path of destruction, became receptive to her, and the hatred in its eyes began to fade. She touched the head of the massive creature as it knelt down and blessed it, and she felt it thank her in its own way. After it turned back into the ocean, leaving their island in safety. From then Princess Kazuko-hime was the new lord of the island, and she always kept with her the magatama she was gifted that day, that became known as Ryūsei-Namida (流星涙, 'Meteor Tear'). Thus ends the tale of the Compassionate Princess."
+What appeared before her was a kaijū, a bestial titan awoken from its underwater slumber. Within the creature's eyes Kazuko-hime saw rage, but she also saw confusion, and pain. In that moment she chose to reach out to the creature, stretching out a hand to it and singing to it a traditional tune she learned as a child. The creature, initially set on a path of destruction, became receptive to her, and the hatred in its eyes began to fade. She touched the head of the massive creature as it knelt down and blessed it, and she felt it thank her in its own way. After it turned back into the ocean, leaving their island in safety. From then Princess Kazuko-hime was the new lord of the island, and she always kept with her the magatama she was gifted that day, that became known as Ryūsei-Namida<!--(流星涙, 'Meteor Tear')-->. Thus ends the tale of the Compassionate Princess."
 
 {{attribution *The History of Sumiriku*}}
 
@@ -847,21 +861,21 @@ What appeared before her was a kaijū, a bestial titan awoken from its underwate
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-{{imageMaskEdge6,--offset:35%,--rotation:180
-  ![tamata](https://i.imgur.com/5T662Dv.jpeg){position:absolute,top:-0px,width:101%}
+{{imageMaskEdge6,--offset:34%,--rotation:180
+  ![tamata](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%201/Historical%20Periods/With%20%E2%80%9CWhere%20no%20one%20goes%E2%80%9D%20-%20Taiyaki%20-%20x.com%2Btai2m%2Bstatus%2B1694655261762633821.jpg){position:absolute,top:-0px,width:101%}
 }}
 
-{{position:absolute,top:335px,left:150px,margin-bottom:-30px,text-align:center
+{{position:absolute,top:350px,left:150px,margin-bottom:-30px,text-align:center
 
 ##### Tamata-no-Orochi </br> soars through the sky
 
 }}
 
-::::::::::::::::::
+::::::::::::::::::::
 
 ## Assei Jidai
 
@@ -877,13 +891,13 @@ The end of the Kaika Jidai came suddenly. Throughout much of that time, somethin
 
 Tamata-no-Orochi's arrival took the Myōjin by surprise, giving her the perfect chance to strike. Her first act was to destroy Niji-no-Ukihashi, separating the Myōjin from their followers below. As rainbow shards fell from the sky, she declared herself the one true lord of all of Sumiriku, with no equal remaining to threaten her rule. To ensure that not even the Kami could stop her she had shrines across the land destroyed, replaced by ones that enshrined a fragment of herself, dedicated to worship of the one true Myōjin. To sate her cruel desires, some people we even forced to be sacrifices, the dragon feasting on the suffering she caused. From a perch she made in the crater of Kamuy-Kemnu she watched the suns rise over all that was hers.
 
-For nearly two centuries the people of Sumiriku lived in the shadow of the Tyrant Dragon-Kami. Some attempted to plot, to seek some way end the reign of terror, though their effort was to little avail. Most people instead accepted their plight, attempting to get by and avoid her wrath. This lasted until Yūkan-sama,
+For nearly two centuries the people of Sumiriku lived in the shadow of the Tyrant Dragon-Kami. Some attempted to plot, to seek some way end the reign of terror, though their effort was to little avail. Most people instead accepted their plight, attempting to get by and avoid her wrath. This lasted until Yūkan-sama, at the time just a mortal Rōnin (浪人, 'Drifter'),
 
 \column
 
-::::::::::::::::::::::
+::::::::::::::::::::::::::::
 
-at the time just a mortal Rōnin (浪人, 'Drifter'), climbed to the peak of Kamuy-Kemnu alone and challenged the great tyrant; his partner, Kushinada, was soon to be a sacrifice. Noticing his incredible bravery, as well as the near insurmountable challenge ahead of him, Ō-Seiza-Nezumi appeared before Yūkan-sama, balancing on the blunt edge of his blade. They blessed this blade with their starlight touch, transforming it into the third Starlight Regalia, Kūshokiri (空所切, 'Void Cutter'). After a hard-fought battle, with the combination of his incredible skill and newly-acquired weapon, Yūkan-sama was able to defeat Tamata-no-Orochi. Her many heads were severed and what remained of her was sealed away within the earth, marking the end of her terrible rule, and of the Kaika Jidai.
+climbed to the peak of Kamuy-Kemnu alone and challenged the great tyrant; his partner, Kushinada, was soon to be a sacrifice. Noticing his incredible bravery, as well as the near insurmountable challenge ahead of him, Ō-Seiza-Nezumi appeared before Yūkan-sama, balancing on the blunt edge of his blade. They blessed this blade with their starlight touch, transforming it into the third Starlight Regalia, Kūshokiri (空所切, 'Void Cutter'). After a hard-fought battle, with the combination of his incredible skill and newly-acquired weapon, Yūkan-sama was able to defeat Tamata-no-Orochi. Her many heads were severed and what remained of her was sealed away within the earth, marking the end of her terrible rule, and of the Kaika Jidai.
 
 After his great act, Yūkan-sama continued to live out his days, spending time with his wife and working as a noble Rōnin. It was noted that he rarely acknowledging how his bravery had saved the world. When he passed, he ascended to godhood, his deeds venerated enough to place him among the Myōjin.
 
@@ -906,7 +920,7 @@ Kamuy-Kemnu ('God-Bleed') is the Anagumago name for the tallest mountain in Ryug
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -929,6 +943,10 @@ When complete, the shrine stood as remarkable symbol of individual dedication an
 \column
 
 **TODO - REVISION - IMPORTANT**
+
+<!--(流星涙, 'Meteor Tear')-->
+
+<!-- (黄昏の鏡, 'Mirror of Twilight') -->
 
 <!-- As he gazed at his years of work, Tokuzō-tennō was stunned to find himself greeted by an unusual visitor—a fox spirit sent by Kajin-sama herself. The Myōjin had a vital mission for him, the fox explained. The world needed a unifier, a spiritual centre, someone to be a voice for the Kami. Tokuzō-tennō understood the gravity of this responsibility but, despite not fully knowing the task set before him, he was quick to accept.
 
@@ -953,27 +971,23 @@ He did not know if he would be able to take each Regalia by force, or steal them
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-&nbsp;Before long, the first of the horde's ships made landfall, where Sumiriku's army was prepared to meet them. These units were quickly cut down by sword and spear, and those that lived found themselves without the reinforcements they had expected. Instead, their ships were thrown off course by the sudden appearance of swirling typhoons and whirlpools—on Tokuzō-tennō's command even the Kami fought to protect the land. Some ships managed to turn and flee from the carnage, the rest found themselves ripped apart, dragged under the waves, or met with swift death on the land. Before long the battle was over, the united nation of Sumiriku victorious. Never again would an army invade their shores, not while the union prospered.
+&nbsp;&nbsp;&nbsp;&nbsp;Before long, the first of the horde's ships made landfall, where Sumiriku's army was prepared to meet them. These units were quickly cut down by sword and spear, and those that lived found themselves without the reinforcements they had expected. Instead, their ships were thrown off course by the sudden appearance of swirling typhoons and whirlpools—on Tokuzō-tennō's command even the Kami fought to protect the land. Some ships managed to turn and flee from the carnage, the rest found themselves ripped apart, dragged under the waves, or met with swift death on the land. Before long the battle was over, the united nation of Sumiriku victorious. Never again would an army invade their shores, not while the union prospered.
 
 After the battle all agreed that Tokuzō-tennō should be Sumiriku's first leader, with domain over both body and spirit. Within the new city of Heian-kyō, near the finding place of Tasogare-no-Kagami, a grand palace was built to be the home of Tokuzō-tennō and his family, and to be the seat of power for the nation. On that year's summer solstice, within the inner sanctum of the palace, a coronation ceremony was held to ordain Tokuzō-tennō as the first Emperor of Sumiriku. The glory of the Starlight Regalia as well as the suns' zenith flowed into Tokuzō-tennō, granting him a unparalleled spiritual connection. This power, along with the symbols of the palace, the Myōjin Throne, and the Starlight Regalia, these all became representations of the Emperor's right to rule. This sacred day was known as the first Shōtenbi (昇天日, 'Ascension Day'), and marked a joyous end of the divided era.
 
-{{position:absolute,top:740px,right:190px,margin-bottom:-30px,text-align:center
+{{position:absolute,top:690px,right:190px,margin-bottom:-30px,text-align:center
 
 ##### The failed invasion of</br>the Sunset Horde
 
 }}
 
-{{imageMaskEdge1,--offset:30%,--rotation:0
-  ![invasion](https://i.imgur.com/cuCrlMu.jpeg){position:aboslute,top:770px,left:-10px,width:105%}
+{{imageMaskEdge8,--offset:28%,--rotation:0
+  ![invasion](https://www.fujiarts.com/japanese-prints/k358/083k358f.jpg){position:aboslute,bottom:-35px,left:-20px,width:105%}
 }}
-
-<!-- {{imageMaskEdge1,--offset:33%,--rotation:0
-  ![invasion](https://www.fujiarts.com/japanese-prints/k358/083k358f.jpg){position:aboslute,top:770px,left:-10px,width:105%}
-}} -->
 
 <!-- FINISH REWRITE TO SHOW THAT HE LEARNED TO NEGOTIATE WITH PEOPLE -->
 
@@ -1010,7 +1024,7 @@ In his travels he brought all people into his fold, into what could now truly be
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -1034,7 +1048,7 @@ As time passed and the population grew conflict returned, conflict that could no
 
 "The birth of the Emperor's daughter was a small miracle. Tokuzo-tennō and his beloved wife, Isuzu-kōtei, had long tried to conceive and were sadly unsuccessful, so the news of her pregnancy was a joy shared with the whole nation. Pilgrims traveled from to Heian-kyo from far and wide to welcome the child's arrival, to see the dawn of the new imperial lineage. However, many of these travelers would still be on the road when Isuzu-kōtei unexpectedly went into labour. For the Imperial Highnesses, the hours surrounding their child's birth had become more fearful than celebratory. Their daughter was born small, cold, struggling to breathe. Our current apothecaries <!-- physicians --> would say that her birth was premature, and that her heart was shrunken and weak. Despite this, her parents held her, saw her barely open eyes, blushed cheeks, strands of brunette hair, and they knew how beautiful and strong she was. Thus the world was introduced to the imperial heir, Otoha-hime.
 
-The nation's greatest naturalists and kannushi were summoned with much urgency, and with their help she survived her first months, the fears of her parents and the nation alleviated. Despite the luxuries granted to her by her noble birth—riches, protection, and good medicine—life was still a challenge for the princess. <!-- Otoha-hime grew from a tiny newborn, to an infant eager to crawl, to a child full of personality. --> When she was well she was, as her parents would call her, radiant; she was less
+The nation's greatest naturalists and kannushi were summoned with much urgency, and with their help she survived her first months, the fears of her parents and the nation alleviated. Despite the luxuries granted to her by her noble birth—riches, protection, and good medicine—life was still a challenge for the princess. <!-- Otoha-hime grew from a tiny newborn, to an infant eager to crawl, to a child full of personality. --> When she was well she was, as her parents would call her, radiant; she was less gregarious than her father, but she was exceptionally bright, endlessly curious, and full of spirit. Though, there were many days where she was not well, not her true, radiant self. Those days were instead a struggle, sometimes a struggle merely to sleep at night and wake in the morning."
 
 }}
 
@@ -1042,7 +1056,7 @@ The nation's greatest naturalists and kannushi were summoned with much urgency, 
 
 {{#quotation,quote
 
-gregarious than her father, but she was exceptionally bright, endlessly curious, and full of spirit. Though, there were many days where she was not well, not her true, radiant self. Those days were instead a struggle, sometimes a struggle merely to sleep at night and wake in the morning."
+&nbsp;&nbsp;&nbsp;&nbsp;TODO
 
 <!-- she struggle against herself, against her condition, sometimes merely to sleep at night and to wake in the morning. <!-- Her royal parents, desperate to find some kind of cure or solution, had their lands searched far and wide for anyone who may be able to help. Many people passed through the sacred halls of the palace, and though some were able -->
 
@@ -1055,7 +1069,7 @@ gregarious than her father, but she was exceptionally bright, endlessly curious,
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -1074,7 +1088,7 @@ gregarious than her father, but she was exceptionally bright, endlessly curious,
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -1093,7 +1107,7 @@ gregarious than her father, but she was exceptionally bright, endlessly curious,
 {{pageNumber,auto}}
 {{footnote PART 1 | HISTORY AND RELIGION}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -1104,11 +1118,10 @@ gregarious than her father, but she was exceptionally bright, endlessly curious,
 ## Character Options
 
 {{imageMaskEdge7,--offset:10cm,--rotation:180
-  <!-- ![umezawa](https://www.coolstuffinc.com/s3_image.php?img=http://s3.gatheringmagic.com/uploads/2022/10/12/JA_1.jpg){position:absolute,top:0px,left:-400px,height:100%} -->
-  ![umezawa](https://i.imgur.com/1YSsqD5.png){position:absolute,top:0px,left:-400px,height:100%}
+  ![umezawa](https://www.coolstuffinc.com/s3_image.php?img=http://s3.gatheringmagic.com/uploads/2022/10/12/JA_1.jpg){position:absolute,top:0px,left:-400px,height:100%}
 }}
 
-{{position:absolute,bottom:125px,left:-120px,margin-bottom:-30px
+{{position:absolute,bottom:115px,left:-125px,margin-bottom:-30px
 
 ##### An imperial guard during practice
 
@@ -1117,7 +1130,7 @@ gregarious than her father, but she was exceptionally bright, endlessly curious,
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png){position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png){position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -1127,11 +1140,11 @@ T {{width:5px}}here are many species that make up the peoples of Sumiriku, who c
 
 In this section you will find details on the appearance, culture, and traits of each of Sumiriku's fourteen different species, as well as mechanical details for playing as each of these species. There are also a selection of variant options presented called Aberrant Forms, beings who have been altered by otherworldly forces.
 
-{{imageMaskCenter1,--offsetX:-24%,--offsetY:-10%,--rotation:0,--scaleX:55%,--scaleY:55%
-  ![safekeeping](https://i.imgur.com/c51zhx6.jpg){position:absolute,top:200px,right:70px,height:66%}
+{{imageMaskCorner21,--offsetX:-53%,--offsetY:-50%,--rotation:0
+  ![safekeeping](https://github.com/AlexCGoose/Sumiriku-Doc/blob/main/Images/Player's%20Guide/Part%202/Character%20Species/Tamiyo's%20Safekeeping%20(Edit)%20-%20Aurore%20Folny%20-%20aurorefolny.com+projects+6bX2XW.png?raw=true){position:absolute,bottom:0px,left:-125px,height:600px}
 }}
 
-{{position:relative,top:460px,left:-20px,margin-bottom:-30px,text-align:center
+{{position:relative,top:145px,left:-20px,margin-bottom:-30px,text-align:center
 
 ##### A Tsukibito blessing a Human
 
@@ -1140,23 +1153,22 @@ In this section you will find details on the appearance, culture, and traits of 
 \column
 
 {{text-align:center
-  ![nekotaiyō](https://i.imgur.com/j75dT9I.png){position:absolute,left:440px,top:30px,width:260px,margin-bottom:-25px,filter:opacity(100%)}
+  ![nekotaiyō](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Samurai%20Katze%20(Edit)%20-%20Stella%20Langecker%20-%20Unknown.png){position:absolute,left:440px,top:20px,width:300px,margin-bottom:-25px,filter:opacity(100%)}
 }}
 
-{{imageMaskCorner10,--offsetX:48%,--offsetY:45%,--rotation:0
+{{imageMaskCorner20,--offsetX:50%,--offsetY:57.5%,--rotation:0
   ![red-building](https://data.ukiyo-e.org/artelino/images/7519g1.jpg){position:aboslute,top:-100px,right:-50px,width:70%,transform:scaleX(-1),filter:opacity(90%)}
 }}
 
 ::::::::::::::::::::::
 
-{{position:absolute,top:400px,left:680px,text-align:left
+{{position:relative,top:80px,left:105px,text-align:left
 
-<!-- ##### A Nekotaiyō </br> rōnin -->
-##### A Nekotaiyo </br> ronin
+##### A Nekotaiyō rōnin
 
 }}
 
-:::
+:::::::
 
 {{#big-column
 
@@ -1173,11 +1185,11 @@ The Myōjin Netsu-sama is a Nekotaiyō, and the God of the Suns.
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-### Nekotaiyō Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Nekotaiyō Traits ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 **Creature Type:** :: Humanoid
 **Size:**          :: Small or Medium (About 3-5 feet tall), chosen when you select this species
@@ -1200,29 +1212,28 @@ As a Nekotaiyō, you gain these special traits:
 
 *Hikariōna's Luminance.* Your fur has the ability to ignite in radiance gifted from the Light Mother. As an Action you can make a section of your fur, such as your mane or tail tips, ignite into light, shedding Bright light for 30 feet and Dim Light for a further 30 feet. This light counts as sunlight. You can dispel this light as an Action or as a Bonus Action.
 
-{{imageMaskEdge1,--offset:5%,--rotation:270
-  ![nekotaiyō-2](https://i.imgur.com/PtPMEyu.jpg){position:absolute,right:-410px,bottom:0px,height:100%}
+{{imageMaskEdge8,--offset:7%,--rotation:270,--scaleY:0.7
+  ![nekotaiyō-2](https://d.furaffinity.net/art/aoikit/1419272449/1419272449.aoikit_samuraicat.png){position:absolute,right:-410px,bottom:0px,height:100%}
 }}
 
-{{position:absolute,top:1000px,right:370px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:950px,right:410px,margin-bottom:-30px,text-align:right
 
-<!-- ##### A Nekotaiyō </br> samurai -->
-##### A Nekotaiyo </br> samurai
+##### A Nekotaiyō </br> samurai
 
 }}
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-{{#big-column-right
+\column
 
 ## 月人 - Tsukibito (Moonfolk)
 
-Tsukibito are associated with rabbits, and are believed to have first lived on the moon, Eisei, before arriving on Sumiriku; The people of Sumiriku believe they can see a face of a Tsukibito when they look up at Eisei. This connection with the moon gives many Tsukibito some power over gravity, as well as a somewhat alien mind to most of the other peoples of Sumiriku. Tsukibito have long hair that is often seen tied up in almost &nbsp;&nbsp;&nbsp;gravity-defying buns and ears that fall like &nbsp;&nbsp;&nbsp;ribbons, frequently wrapped around the hair &nbsp;&nbsp;&nbsp;buns to hide their length. Tsukibito are long-lived, typically reaching maturity around age 20 and living anywhere from 200-250 years. Those that place their feet on the ground stand an average of around 5 to 6 feet tall.
+Tsukibito are associated with rabbits, and are believed to have first lived on the moon, Eisei, before arriving on Sumiriku; The people of Sumiriku believe they can see a face of a Tsukibito when they look up at Eisei. This connection with the moon gives many Tsukibito some power over gravity, as well as a somewhat alien mind to most of the other peoples of Sumiriku. Tsukibito have long hair that is often {{width:20px}}seen tied up in almost gravity-defying buns {{width:20px}}and ears that fall like ribbons, frequently &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wrapped around the hair buns to hide their {{width:20px}}length. Tsukibito are long-lived, typically reaching maturity around age 20 and living anywhere from 200-250 years. Those that place their feet on the ground stand an average of around 5 to 6 feet tall.
 
 There are three variants of Moonfolk. The most common are the Soratami (空民), or Skyfolk, who are said to have been the first Tsukibito, who descended from their birthplace on the Moon. They have very fair and sheer white skin, traditionally decorated with delicate, sweeping purple tattoos, and frequently live in floating palaces and settlements. Within these settlements they are known to keep extensive records, histories, and any other scholarly information they can gather. They also are most commonly seen levitating just slightly, as to not dirty themselves by touching the ground.
 
@@ -1233,29 +1244,26 @@ Maigomin (迷子民), or Lostfolk, are said to not receive the blessing of the m
 Most Tsukibito have tried to keep independence and neutrality during the Warring States period, which is easily achieved by the floating cities of the Soratami. The most contact the Soratami have is with the schools they have established, believed to be the best education one can get in Sumiriku, though some think that the true purpose of those schools is political influence.
 
 The deity Mikazuki-sama is a Soratami, and the God of the Moon.
-
+{{imageMaskEdge7,--offset:8%,--rotation:90,--scaleY:0.7
+  ![tsukibito-layer-woman](https://images.squarespace-cdn.com/content/v1/562e2633e4b0b7066d01cbfa/1446476319150-W9WLGOPLVG0DVYVBFVWG/141615-Tamiyo%2C+the+Moon+Sage-Big.jpg){position:absolute,right:250px,bottom:-100px,height:110%}
 }}
 
-{{imageMaskEdge7,--offset:10%,--rotation:90
-  ![tsukibito-layer-woman](https://i.imgur.com/e47A7AQ.jpg){position:absolute,right:250px,bottom:-100px,height:110%}
-}}
+![tsukibito-layer-telescope](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Tamiyo%2C%20the%20Moon%20Sage%20(MTG)%20(Telescope%20Crop)%20-%20Eric%20Deschamps%20-%20ericdeschamps.com%2Bmagic.png){position:absolute,right:250px,bottom:-100px,height:110%}
 
-![tsukibito-layer-telescope](https://i.imgur.com/xsUlvo0.png){position:absolute,right:250px,bottom:-100px,height:110%}
+{{position:absolute,top:1045px,left:395px,margin-bottom:-30px
 
-{{position:absolute,top:1030px,left:370px,margin-bottom:-30px
-
-##### A Tsukibito </br> scholar
+##### A Tsukibito scholar
 
 }}
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-### Tsukibito Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Tsukibito Traits ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 **Creature Type:** :: Humanoid
 **Size:**          :: Medium (About 5 feet tall)
@@ -1270,24 +1278,24 @@ As a Tsukibito, you gain these special traits:
 
 ***Enlightened Mind.*** You gain Proficiency in Investigation, as well as one of the following skills; Arcana, History, Nature, or Religion.
 
-{{imageMaskCorner19,--offsetX:47%,--offsetY:55%,--rotation:0
-  ![tsukibito-2](https://i.imgur.com/pKVi0wU.jpg){position:aboslute,top:-30px,right:-200px,width:110%}
+{{imageMaskCorner19,--offsetX:50%,--offsetY:55%,--rotation:0,--scaleX:1.05
+  ![tsukibito-2](https://i.redd.it/0eb5cqj612mg1.jpeg){position:aboslute,top:-30px,right:-200px,width:110%}
 }}
 
-{{position:absolute,top:435px,left:475px,margin-bottom:-30px
+{{position:absolute,top:440px,left:480px,margin-bottom:-30px
 
 ##### Tsukibito guards
 
 }}
 
-::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::
 
 {{#default-table,wide
 
 ##### Moonfolk Lineage
 
-| Lineage  | Level 1 | Level 5 |
-|:---------|:--------|:--------|
+| Lineage | Level 1 | Level 5 |
+| :- | :- | :- |
 | Soratami | You can float about 1 foot above the ground, as long as you are above solid ground or the surface of a calm liquid. Your Floating Speed is equal to your Speed. You can float anywhere you could normally walk, and you ignore ground-based Difficult Terrain while floating. If you suffer a Condition that reduces your Speed to 0 or you gain the Prone Condition, you stop floating and begin to fall. | As a Reaction to falling, you can slow your rate of descent to 60 feet per round. This slow fall lasts for up to 1 minute. If you land while falling at this decreased rate you take no fall damage and begin floating above the ground. You must be able to float to use this feature. |
 | Moritami | As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be standing on or touching earth, dirt, or foliage to use this Tremorsense. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. | You can spend 10 minutes surveying the ground around you to sense past travelers in the area. You get to know how many creatures have passed through here in the past day, what creature types they are, which directions they have travelled, and who was here most recently. You can also learn of the local geography, such as terrain, bodies of water, and local flora and fauna. This feature doesn't work in man-made spaces such as buildings, roads, and cities. Once you use this feature, you must finish a Long Rest before you can use it again. |
 | Maigomin | The range of your Darkvision increases to 120 feet. | You gain Advantage on Wisdom (Perception) checks that rely on sight while in Dim Light or Darkness and you can make out details of even extremely distant creatures and objects as small as 2 feet across. |
@@ -1297,27 +1305,27 @@ As a Tsukibito, you gain these special traits:
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-{{imageMaskCorner21,--offsetX:-53%,--offsetY:55%,--rotation:0
-  ![cliffs](https://i.imgur.com/0qaMZhi.jpg){position:aboslute,top:-55px,left:-1px,width:100%}
+{{imageMaskCorner21,--offsetX:-53%,--offsetY:53%,--rotation:0
+  ![cliffs](https://www.alayna.net/images/gallery/fullsize/mtg/swift.jpg){position:aboslute,top:-55px,left:-1px,width:100%}
 }}
 
-![masaru-shadow](https://i.imgur.com/DWVSw4u.png) {position:absolute,left:-100px,top:100px,width:490px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleY(0.2)skewX(17deg),mix-blend-mode:multiply}
+![masaru-shadow](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Masaru%20(Seigai)%20(Edit)%20-%20Unknown.png) {position:absolute,left:-100px,top:100px,width:490px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleY(0.2)skewX(17deg),mix-blend-mode:multiply}
 
-{{imageMaskCorner21,--offsetX:-56%,--offsetY:40%,--rotation:0,--filter:opacity(80%)
-  ![masaru](https://i.imgur.com/DWVSw4u.png) {position:absolute,left:-120px,top:40px,width:490px,margin-bottom:-25px,filter:brightness(95%),opacity:100%,mix-blend-mode:normal,transform:scaleX(-1)rotate(5deg)}
+{{imageMaskCorner21,--offsetX:-54%,--offsetY:50%,--rotation:0,--filter:opacity(80%),--scaleY:2
+  ![masaru](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Masaru%20(Seigai)%20(Edit)%20-%20Unknown.png) {position:absolute,left:-120px,top:40px,width:490px,margin-bottom:-25px,filter:brightness(95%),opacity:100%,mix-blend-mode:normal,transform:scaleX(-1)rotate(5deg)}
 }}
 
-{{position:absolute,top:470px,left:285px,text-align:ce
+{{position:absolute,top:505px,left:280px
 
 ##### A Masaru on </br> a branch
 
 }}
 
-::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::
 
 ## 真猿 - Masaru (Macaque)
 
@@ -1329,7 +1337,7 @@ The Myōjin Sonsora-sama is a Masaru, and the God of the Sky.
 
 \column
 
-### Masaru Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Masaru Traits ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 **Creature Type:** :: Humanoid
 **Size:**          :: Small (About 2-3 feet tall)
@@ -1350,11 +1358,11 @@ As a Masaru, you gain these special traits:
 
 ***Monkey Business.*** You can use either Wisdom (Animal Handling) or Charisma (Persuasion) checks when trying to communicate with non-sapient simians, and you have Advantage on these Ability Checks.
 
-{{imageMaskCorner12,--offsetX:55%,--offsetY:-52%,--rotation:0
-  ![hot-spring](https://cdn.cardsrealm.com/images/cartas/neo-kamigawa-neon-dynasty/en/crop-med/invigorating-hot-spring-223.jpeg?8705){position:aboslute,bottom:-1px,right:-200px,height:40%}
+{{imageMaskCorner12,--offsetX:53%,--offsetY:-50%,--rotation:0,--scaleY:1.05
+  ![hot-spring](https://cdn.cardsrealm.com/images/cartas/neo-kamigawa-neon-dynasty/en/crop-med/invigorating-hot-spring-223.jpeg?8705){position:aboslute,bottom:-1px,right:-300px,height:50%}
 }}
 
-{{position:absolute,top:720px,left:250px,text-align:center
+{{position:absolute,top:670px,right:310px,text-align:right
 
 ##### A Masaru in </br> a hot spring
 
@@ -1363,13 +1371,13 @@ As a Masaru, you gain these special traits:
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
 ## おおがる - Ōgaru (Ogre)
 
-Ōgaru are the largest of Sumiriku's sapient species, towering beings of strength and might. The tallest of the Ōgaru can grow up to 11 feet tall, if measured to the peak of their horns or head crests. Ōgaru age slowly, being fully grown at around 30 years old and live for an average of 120 to 130 years. The name Ōgaru does not have a direct translation into Sumirikugo, but within the original Ōgaru dialect the name was said to mean 'Great Beings' or 'To Grow Large'. They are believed to have first lived in communities within Sumiriku's mountains and caves, though some now take to the swampland. Different Ōgaru have many different colours of skin, from light greys to faded blues, reds, and purples.
+Ōgaru are the largest of Sumiriku's sapient species, towering beings of strength and might. The tallest of the Ōgaru can grow up to 11 feet tall, if measured to the peak of their horns or head crests. Ōgaru age slowly, being fully grown at around 30 years old and live for an average of 120 to 130 years. The name Ōgaru does not have a direct translation into Sumirikugo, but within the original Ōgaru dialect the name was said to mean 'Great Beings' or 'To Grow Large'. </br>They are believed to have first lived in communities within Sumiriku's mountains and caves, though some now take to the swampland. Different Ōgaru have many different colours of skin, from light greys to faded blues, reds, and purples.
 
 Their stature and tough exterior make the Ōgaru almost impervious, which helps them survive in the toughest conditions. Ōgaru mostly only know the pain they inflict upon themselves, overexerting themselves in order to prove their own force of will. However, these characteristics also impede Ōgaru from living among the more developed civilisations of Sumiriku, and they are frequently shunned as a result. Some people prefer to use the derogatory term Ō-Bakemono (大化け物), meaning 'Great Monster', as a way to address Ōgaru.
 
@@ -1377,38 +1385,36 @@ Their stature and tough exterior make the Ōgaru almost impervious, which helps 
 
 The deities of Bōfū-sama and Sekirai-sama are conjoined Ōgaru twins, and are the Gods of Wind and of Thunder.
 
-{{imageMaskEdge5,--offset:5%,--rotation:270
-  ![ogaru](https://i.imgur.com/6g3T16j.jpg){position:absolute,right:-480px,bottom:-1px,height:101%}
+{{imageMaskEdge7,--offset:7%,--rotation:270,--scaleY:0.8
+  ![ogaru](https://images.squarespace-cdn.com/content/v1/581a9a15414fb5c2f5854382/1698707190028-MSTHI16Y67OWCO7WIN6D/421003+Kosei+Penitent+Warlord+.jpg){position:absolute,right:-480px,bottom:-1px,height:101%}
 }}
 
-{{position:absolute,top:965px,left:-380px,text-align:right
+{{position:absolute,top:970px,left:-390px,text-align:right
 
-<!-- ##### An Ōgaru </br> in prayer -->
-##### An Ogaru </br> in prayer
+##### An Ōgaru </br> in prayer
 
 }}
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-{{imageMaskEdge5,--offset:5%,--rotation:90
-  ![ogaru-2](https://cdna.artstation.com/p/assets/images/images/003/575/974/large/slawek-kosciukiewicz-oni1.jpg?1475179838){position:absolute,right:250px,bottom:-1px,height:101%}
+{{imageMaskEdge7,--offset:8%,--rotation:90,--scaleY:0.8
+  ![ogaru-2](https://cdna.artstation.com/p/assets/images/images/003/575/974/large/slawek-kosciukiewicz-oni1.jpg){position:absolute,right:250px,bottom:-1px,height:101%}
 }}
 
-{{position:absolute,top:1000px,left:380px,text-align:left
+{{position:absolute,top:960px,left:380px,text-align:left
 
-<!-- ##### An Ōgaru, influenced by the </br> dark magic of an Oni -->
-##### An Ogaru, influenced by the </br> dark magic of an Oni
+##### An Ōgaru, influenced by the </br> dark magic of an Oni
 
 }}
 
 \column
 
-### Ōgaru Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Ōgaru Traits ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 **Creature Type:** :: Humanoid, Yama-Otoko (Giant)
 **Size:**          :: Large (About 8-10 feet tall)
@@ -1434,25 +1440,25 @@ You can use this trait a number of times equal to your Proficiency Bonus, and yo
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-{{imageMaskCorner11,--offsetX:-49%,--offsetY:56%,--rotation:0
-  ![waterfall](https://data.ukiyo-e.org/artelino/images/49835g1.jpg){position:aboslute,top:-100px,left:-100px,width:70%,transform:scaleX(-1),filter:opacity(90%)}
+{{imageMaskCorner11,--offsetX:-50%,--offsetY:53%,--rotation:0
+  ![waterfall](https://data.ukiyo-e.org/artelino/images/49835g1.jpg){position:aboslute,top:-60px,left:-100px,width:70%,transform:scaleX(-1),filter:opacity(90%)}
 }}
 
-![kappa-shadow](https://i.imgur.com/nVOvBl0.png) {position:absolute,left:40px,top:150px,width:225px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(-1)scaleY(0.2)skewX(-17deg),mix-blend-mode:multiply}
+![kappa-shadow](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Kappa%20(Seigai)%20-%20Unknown.png) {position:absolute,left:40px,top:150px,width:250px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(-1)scaleY(0.2)skewX(-17deg),mix-blend-mode:multiply}
 
-![kappa](https://i.imgur.com/nVOvBl0.png) {position:absolute,left:80px,top:40px,width:225px,margin-bottom:0px,filter:brightness(100%),opacity:100%,transform:scaleX(-1)}
+![kappa](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Kappa%20(Seigai)%20-%20Unknown.png) {position:absolute,left:80px,top:40px,width:250px,margin-bottom:0px,filter:brightness(100%),opacity:100%,transform:scaleX(-1)}
 
-{{position:absolute,top:310px,left:300px,text-align:left
+{{position:absolute,top:350px,left:300px,text-align:left
 
 ##### A peaceful </br> Kappa
 
 }}
 
-::::::::::::::::::::::
+::::::::::::::::::::::::::
 
 ## 河童 - Kappa (Tortle)
 
@@ -1464,7 +1470,7 @@ Kahei-sama is a Kappa Myōjin, the God of Peace.
 
 \column
 
-### Kappa Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Kappa Traits ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 **Creature Type:** :: Humanoid
 **Size:**          :: Small or Medium (About 3-5 feet tall), chosen when you select this species
@@ -1485,10 +1491,20 @@ As a Kappa, you gain these special traits:
 
 Intelligence, Wisdom, or Charisma is your Spellcasting Ability for this spell when you cast it with this trait (choose when you select this species).
 
+![splotch-green](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Splotch.png) {position:absolute,right:130px,bottom:80px,width:180px,mix-blend-mode:multiply,filter:hue-rotate(100deg),opacity:50%,transform:rotate(-90deg)}
+
+![cucumber](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Cucumber%20-%20Unknown.png){position:absolute,right:120px,bottom:90px,width:200px}
+
+{{position:relative,top:185px,left:0px,text-align:center
+
+##### Cucumbers, Kappa's favourite food
+
+}}
+
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png){position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png){position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -1498,13 +1514,13 @@ Akki translates to 'Little Monster', which is a name that Akki have taken with p
 
 Akki are known for their appreciation of mayhem, strategy, and fire. They have built many friendships with Godaiyō and Kami of fire, and are also believed to be the first people to discover the existence of explosive powder within their mines. This explosive powder is likely to be the very same that they excrete through their carapace. The secrets they know about these explosive weapons are kept to the Akki, which may be because none of them actually understand it properly. The most common explosive device in Sumiriku, the Shinobi Smoke Bomb, is directly inspired by the Akki's ability to create plumes of ash and smoke as a distraction to escape predators. Akki names are typically double-barreled, rhyming, and with simple syllables, such as Ishi-Ishi, Zo-Zu, or Goro-Goro.
 
-{{imageMaskCorner20,--offsetX:-47%,--offsetY:-59%,--rotation:0
-  ![akki-layer-background](https://peteventers.com/images/ChampionsKamigawa/KikiJikiMirrorBreaker.jpg) {position:absolute,bottom:-10px,left:-100px,width:80%,mix-blend-mode:normal}
+{{imageMaskCorner20,--offsetX:-50%,--offsetY:-58%,--rotation:0
+  ![akki-layer-background](https://peteventers.com/images/ChampionsKamigawa/KikiJikiMirrorBreaker.jpg) {position:absolute,bottom:-10px,left:-100px,width:85%,mix-blend-mode:normal}
 }}
 
-![akki-layer-guy](https://i.imgur.com/DtL6D4i.png) {position:absolute,bottom:-10px,left:-100px,width:80%,mix-blend-mode:normal}
+![akki-layer-guy](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Kiki%20Jiki%2C%20Mirror%20Breaker%20(MTG)%20(Edit)%20-%20Pete%20Venters%20-%20peteventers.com%2Bimages%2BChampionsKamigawa%2BKikiJikiMirrorBreaker.png) {position:absolute,bottom:-10px,left:-100px,width:85%,mix-blend-mode:normal}
 
-{{position:absolute,top:700px,left:330px,text-align:left
+{{position:absolute,top:675px,left:330px,text-align:left
 
 ##### An Akki </br> sorcerer
 
@@ -1512,21 +1528,21 @@ Akki are known for their appreciation of mayhem, strategy, and fire. They have b
 
 \column
 
-{{imageMaskCorner9,--offsetX:57.5%,--offsetY:47.5%,--rotation:0
-  ![akki](https://i.imgur.com/5WoZJ8Q.jpg){position:aboslute,top:-50px,right:-50px,width:80%,filter:opacity(100%)}
+{{imageMaskCorner9,--offsetX:57.5%,--offsetY:40%,--rotation:0
+  ![akki](https://cdnb.artstation.com/p/assets/images/images/045/754/045/large/mike-jordana-gorogoroforartstation.jpg){position:aboslute,top:-20px,right:-50px,width:80%,filter:opacity(100%)}
 }}
 
-{{position:absolute,top:315px,right:290px,text-align:right
+{{position:absolute,top:400px,right:290px,text-align:right
 
 ##### An Akki </br> warrior
 
 }}
 
-:::::::::::::::::::::
+:::::::::::::::::::::::::::::
 
-&nbsp;Gobo-Gobo-sama is an Akki deity, the God of War. Almost every Akki gathering claims to be the only true heir of his clan, Clan Gobo.
+&nbsp;&nbsp;&nbsp;&nbsp;Gobo-Gobo-sama is an Akki deity, the God of War. Almost every Akki gathering claims to be the only true heir of his clan, Clan Gobo.
 
-### Akki Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:434px,left:400px,width:375px,mix-blend-mode:normal}
+### Akki Traits ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:522px,left:400px,width:375px,mix-blend-mode:normal}
 
 **Creature Type:** :: Humanoid
 **Size:**          :: Small (About 2-3 feet tall)
@@ -1541,34 +1557,34 @@ As an Akki, you gain these special traits:
 
 ***Fury of the Small.*** When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your Proficiency Bonus. You can use this trait a number of times equal to your Proficiency Bonus, regaining all expended uses when you finish a Long Rest, and you can use it no more than once per turn.
 
-***Explosive Escape.*** You can take the Disengage or Hide action as a Bonus Action on each of your turns. When you take the Disengage action, you can choose to kick up a cloud of black smoke from your carapace, creating a 5-foot-radius Heavily Obscured area &nbsp;centred on you. This cloud lasts until the &nbsp;&nbsp;end of your next turn.
+***Explosive Escape.*** You can take the Disengage or Hide action as a Bonus Action on each of your {{width:40px}}turns. When you take the Disengage {{width:70px}}action, you can choose to kick up a {{width:70px}}cloud of black smoke from your {{width:70px}}carapace, creating a 5-foot-radius {{width:70px}}Heavily Obscured area centred on {{width:70px}}you. This cloud lasts until the end of {{width:90px}}your next turn.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-{{imageMaskCorner11,--offsetX:-49%,--offsetY:60%,--rotation:0
+{{imageMaskCorner11,--offsetX:-50%,--offsetY:60%,--rotation:0
   ![autumn](https://data.ukiyo-e.org/jaodb/images/Asano_Takeji-8_Views_of_Kinki-Kofukuji_Autumn-00032794-021013-F12.jpg){position:aboslute,top:-15px,left:-25px,width:60%,filter:opacity(80%)brightness(75%),transform:scaleX(-1)}
 }}
 
-![obake-shadow](https://i.imgur.com/NFObIIY.png) {position:absolute,left:00px,top:160px,width:225px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleY(0.2)skewX(17deg),mix-blend-mode:multiply}
+![obake-shadow](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Tanuki%20and%20kitsune%20commission%20(Edit)%20-%20Dliok%20-%20deviantart.com%2Bdliok%2Bart%2BTanuki-and-kitsune-commission-722794639.png) {position:absolute,left:00px,top:160px,width:225px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleY(0.2)skewX(17deg),mix-blend-mode:multiply}
 
-![obake](https://i.imgur.com/NFObIIY.png){position:absolute,top:-00px,left:-00px,width:400px,filter:brightness(90%)}
+![obake](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Tanuki%20and%20kitsune%20commission%20(Edit)%20-%20Dliok%20-%20deviantart.com%2Bdliok%2Bart%2BTanuki-and-kitsune-commission-722794639.png){position:absolute,top:-00px,left:-00px,width:400px,filter:brightness(90%)}
 
-{{position:absolute,top:275px,left:120px,margin-bottom:-30px
+{{position:absolute,top:285px,left:115px,margin-bottom:-30px
 
 ##### Two Obake, a Tanuki and A Kitsune,</br> in their animal forms
 
 }}
 
-:::::::::::::::::::
+:::::::::::::::::::::
 
 ## The Obake
 
-Native to Sumiriku are four species of Obake (お化け, 'Shapeshifter'), creatures related to the Yōkai which are capable of shapeshifting between humanoid and animal forms. These creatures are the Tanuki, the Kawauso, the Kitsune, and the Kisuru. Each of the Obake species can trace their origins to the Yokai realm, Kimyōkai, and they are said to come into existence when an animal lives a particularly long life, though Obake parents do give birth to Obake children. All Obake either reach maturity or ascend from their animal existence after 15 years.
+Native to Sumiriku are four species of Obake </br>(お化け, 'Shapeshifter'), creatures related to the Yōkai which are capable of shapeshifting between humanoid and animal forms. These creatures are the Tanuki, the Kawauso, the Kitsune, and the Kisuru. Each of the Obake species can trace their origins to the Yokai realm, Kimyōkai, and they are said to come into existence when an animal lives a particularly long life, though Obake parents do give birth to Obake children. All Obake either reach maturity or ascend from their animal existence after 15 years.
 
 Most all Obake have a natural instinct to use their shapeshifting powers to cause mischief, performing potentially harmful or just manipulative pranks on unwitting individuals.
 
@@ -1584,11 +1600,11 @@ Tanuki nowadays are most commonly farmers and agriculturalists and mostly keep t
 
 The deity Hanamai-sama is a Tanuki, and the God of Rice.
 
-{{imageMaskEdge1,--offset:17%,scale,--rotation:-0,
-  ![tanuki](https://i.imgur.com/sWq29Yj.png){position:absolute,bottom:-65px,left:-1px,width:101%}
+{{imageMaskEdge7,--offset:19%,--rotation:-0,--scaleX:-1,revealImage
+  ![tanuki](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Danzaburou%20Recolor%202%20(SMITE)%20(Edit)%20-%20Ramza%20Ardyputra%20-%20artstation.com%2Bartwork%2B48kVDl.png){position:absolute,bottom:-45px,left:-1px,width:101%}
 }}
 
-{{position:absolute,top:660px,left:425px,margin-bottom:-30px
+{{position:relative,top:35px,left:50px,margin-bottom:-30px
 
 ##### A Tanuki having a snack
 
@@ -1597,11 +1613,11 @@ The deity Hanamai-sama is a Tanuki, and the God of Rice.
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-### Tanuki Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Tanuki Traits ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 **Creature Type:** :: Humanoid, Obake (Shapechanger)
 **Size:**          :: Small (About 2-3 feet tall)
@@ -1622,7 +1638,7 @@ You also gain the Obake (Shapechanger) creature type.
 
 \column
 
-::::::::::::::::::::
+:::::::::::::::::::::
 
 {{note
 
@@ -1632,35 +1648,35 @@ Refer to Appendix A for creature stat blocks, and Appendix D for rules on Transf
 
 }}
 
-{{imageMaskCorner20,--offsetX:44%,--offsetY:-45%,--rotation:0
+{{imageMaskCorner20,--offsetX:50%,--offsetY:-50%,--rotation:0,--scaleX:1.1,--scaleY:1.15
   ![rice-field](https://data.ukiyo-e.org/aggv/images/21823.jpg){position:absolute,bottom:-1px,right:-20px,width:60%,mix-blend-mode:multiply}
 }}
 
-![tanuki-2-Shadow](https://i.imgur.com/1tYAEQr.png) {position:absolute,bottom:-185px,right:-75px,width:445px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.2)skewX(-17deg),mix-blend-mode:multiply}
+![raccoon-dog-shadow](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Raccoon%20dog%20babies%20(Edit)%20-%20Astarcis%20-%20x.com%2B_Astarcis%2Bstatus%2B1426557797647503365.png) {position:absolute,bottom:-20px,left:85px,width:475px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(-1)scaleY(0.2)skewX(17deg),mix-blend-mode:multiply}
 
-![raccoon-dog-shadow](https://i.imgur.com/WK8JJLy.png) {position:absolute,bottom:-30px,left:95px,width:445px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(-1)scaleY(0.2)skewX(17deg),mix-blend-mode:multiply}
+![tanuki-2-Shadow](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Tanuki%20(Seigai)%20-%20Unknown.png) {position:absolute,bottom:-185px,right:-90px,width:475px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.2)skewX(-17deg),mix-blend-mode:multiply}
 
-![raccoon-dog](https://i.imgur.com/WK8JJLy.png) {position:absolute,bottom:50px,left:60px,width:445px,transform:scaleX(-1),mix-blend-mode:normal}
+![raccoon-dog](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Raccoon%20dog%20babies%20(Edit)%20-%20Astarcis%20-%20x.com%2B_Astarcis%2Bstatus%2B1426557797647503365.png) {position:absolute,bottom:70px,left:50px,width:475px,transform:scaleX(-1),mix-blend-mode:normal}
 
-![tanuki-2](https://i.imgur.com/KcZRz9o.png) {position:absolute,bottom:50px,right:15px,width:445px,mix-blend-mode:normal}
+![tanuki-2](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Tanuki%20(Seigai)%20-%20Unknown.png) {position:absolute,bottom:50px,right:0px,width:475px,mix-blend-mode:normal}
 
-![splotch](https://i.imgur.com/UPUX4zG.png) {position:absolute,top:35px,right:50px,width:250px,mix-blend-mode:multiply,filter:hue-rotate(90deg),opacity:50%}
+![splotch-darkgreen](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Splotch.png) {position:absolute,top:35px,right:50px,width:250px,mix-blend-mode:multiply,filter:hue-rotate(90deg),opacity:50%}
 
-![onigiri](https://i.imgur.com/cz5AxYf.png) {position:absolute,top:65px,right:50px,width:275px,mix-blend-mode:normal}
+![onigiri](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Onigiri%20Watercolor%20-%20Rattanachomphoo%20Wilairat%20-%20vecteezy.com%2Bpng%2B9661476-onigiri-japanese-food-hand-painted-illustration.png) {position:absolute,top:65px,right:50px,width:275px,mix-blend-mode:normal}
 
-{{position:absolute,top:775px,left:75px,margin-bottom:-30px
+{{position:absolute,top:725px,left:75px,margin-bottom:-30px
 
 ##### A Tanuki in their raccoon-dog form
 
 }}
 
-{{position:absolute,top:510px,left:450px,margin-bottom:-30px
+{{position:absolute,top:470px,left:440px,margin-bottom:-30px
 
 ##### A Tanuki in their humanoid form
 
 }}
 
-{{position:absolute,top:300px,left:450px,margin-bottom:-30px
+{{position:absolute,top:305px,left:450px,margin-bottom:-30px
 
 ##### An Onigiri
 
@@ -1669,7 +1685,7 @@ Refer to Appendix A for creature stat blocks, and Appendix D for rules on Transf
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -1681,25 +1697,25 @@ Kawauso run extensive trade networks through the rivers that they control, using
 
 Zaikawa-sama is a Kawauso Myōjin, the God of Riches.
 
-{{imageMaskCorner20,--offsetX:-46%,--offsetY:-45%,--rotation:0
-  ![river](https://data.ukiyo-e.org/mfa/images/sc206961.jpg){position:absolute,bottom:-40px,left:-400px,width:130%,mix-blend-mode:multiply}
+{{imageMaskCorner20,--offsetX:-50%,--offsetY:-50%,--rotation:0,--scaleX:1.1,--scaleY:1.15
+  ![river](https://data.ukiyo-e.org/mfa/images/sc206961.jpg){position:absolute,bottom:-28px,left:-400px,width:130%,mix-blend-mode:multiply}
 }}
 
-![river-otter-shadow](https://i.imgur.com/RyAcsiz.png) {position:absolute,bottom:-40px,left:280px,width:400px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.2)skewX(-17deg),mix-blend-mode:multiply}
+![river-otter-shadow](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Otter%20painting%20(Edit)%20-%20Unknown.png) {position:absolute,bottom:-50px,left:290px,width:475px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.2)skewX(-17deg),mix-blend-mode:multiply}
 
-![kawauso-shadow](https://i.imgur.com/geNGo02.png) {position:absolute,bottom:-175px,left:70px,width:445px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.2)skewX(-17deg),mix-blend-mode:multiply}
+![kawauso-shadow](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Kawauso%20(Seigai)%20-%20Unknown.png) {position:absolute,bottom:-175px,left:70px,width:445px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.2)skewX(-17deg),mix-blend-mode:multiply}
 
-![river-otter](https://i.imgur.com/RyAcsiz.png) {position:absolute,bottom:35px,left:250px,width:400px,transform:scaleX(1),mix-blend-mode:normal,filter:brightness(90%)}
+![river-otter](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Otter%20painting%20(Edit)%20-%20Unknown.png) {position:absolute,bottom:35px,left:225px,width:475px,transform:scaleX(1),mix-blend-mode:normal,filter:brightness(90%)}
 
-![kawauso](https://i.imgur.com/geNGo02.png) {position:absolute,bottom:50px,left:-10px,width:445px,mix-blend-mode:normal}
+![kawauso](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Kawauso%20(Seigai)%20-%20Unknown.png) {position:absolute,bottom:50px,left:10px,width:475px,mix-blend-mode:normal}
 
-{{position:absolute,top:490px,left:165px,margin-bottom:-30px
+{{position:absolute,top:460px,left:200px,margin-bottom:-30px
 
 ##### A Kawauso in their</br> humanoid form
 
 }}
 
-{{position:absolute,top:900px,left:615px,margin-bottom:-30px
+{{position:absolute,top:765px,left:615px,margin-bottom:-30px
 
 ##### A Kawauso in</br> their otter form
 
@@ -1707,7 +1723,7 @@ Zaikawa-sama is a Kawauso Myōjin, the God of Riches.
 
 \column
 
-### Kawauso Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Kawauso Traits ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 **Creature Type:** :: Humanoid, Obake (Shapechanger)
 **Size:**          :: Small (About 2-3 feet tall)
@@ -1731,15 +1747,15 @@ You also know the *Magic Stone* cantrip. Intelligence, Wisdom, or Charisma is yo
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-{{imageMaskEdge1,--offset:6%,--rotation:90
+{{imageMaskEdge1,--offset:2%,--rotation:90,--scaleY:0.5
   ![kitsune-human](https://cdnb.artstation.com/p/assets/images/images/010/255/953/large/yu-cheng-hong-tamamo-no-mae-render-f-retouch-1new-2018.jpg?1523443494){position:absolute,bottom:-30px,left:-250px,height:105%}
 }}
 
-{{#big-column-right
+\column
 
 ## 狐 - Kitsune (Fox)
 
@@ -1751,19 +1767,17 @@ Another trait that separates Kitsune from the other Obake is their ability to ta
 
 Kajin-sama is a Kitsune Myōjin, the God of Revelry. Kajin-sama was chosen from all the Myōjin to be responsible for sending messages to the mortal world, and so the Kitsune have been blessed with the gifts for sharing the words of the Myōjin.
 
-}}
+![fox-shadow](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Kitsune%20(Edit%202)%20-%20VixenArtz%20-%20deviantart.com%2Bvixenartz%2Bart%2BKitsune-651607831.png) {position:absolute,bottom:-120px,left:535px,width:400px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.3)skewX(-17deg),mix-blend-mode:multiply}
 
-![fox-shadow](https://i.imgur.com/iBLEISy.png) {position:absolute,bottom:-120px,left:535px,width:400px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.3)skewX(-17deg),mix-blend-mode:multiply}
+![fox](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Kitsune%20(Edit)%20-%20VixenArtz%20-%20deviantart.com%2Bvixenartz%2Bart%2BKitsune-651607831.png) {position:absolute,bottom:-50px,right:-85px,width:400px,transform:scaleX(-1),mix-blend-mode:normal,filter:brightness(100%),mix-blend-mode:normal}
 
-![fox](https://i.imgur.com/wrqG8GM.png) {position:absolute,bottom:-50px,right:-85px,width:400px,transform:scaleX(-1),mix-blend-mode:normal,filter:brightness(100%),mix-blend-mode:normal}
-
-{{position:absolute,top:880px,left:370px,margin-bottom:-30px
+{{position:absolute,top:830px,left:410px,margin-bottom:-30px
 
 ##### A Kitsune disguised</br> as a Human
 
 }}
 
-{{position:absolute,top:980px,right:270px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:970px,right:280px,margin-bottom:-30px,text-align:right
 
 ##### A Kitsune in</br> their fox form
 
@@ -1772,13 +1786,11 @@ Kajin-sama is a Kitsune Myōjin, the God of Revelry. Kajin-sama was chosen from 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-### Kitsune Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-{{#big-column
+### Kitsune Traits ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 **Creature Type:** :: Humanoid, Obake (Shapechanger)
 **Size:**          :: Medium (About 4-6 feet tall)
@@ -1797,11 +1809,9 @@ You also gain the Obake (Shapechanger) creature type.
 
 ***Divine Messenger.*** You know the *Dancing Lights* and *Message* cantrips. You can cast these while in your Animal form. When you use the *Dancing Lights* cantrip from this feature, they have the appearance of floating flames called Kitsunebi.
 
-}}
-
 \column
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 {{note
 
@@ -1811,15 +1821,15 @@ Refer to Appendix A for creature stat blocks, and Appendix D for rules on Transf
 
 }}
 
-![fox-shadow](https://i.imgur.com/iBLEISy.png) {position:absolute,bottom:-120px,left:-265px,width:400px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.3)skewX(-17deg),mix-blend-mode:multiply}
+![fox-shadow](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Kitsune%20(Edit%202)%20-%20VixenArtz%20-%20deviantart.com%2Bvixenartz%2Bart%2BKitsune-651607831.png) {position:absolute,bottom:-120px,left:-265px,width:400px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.3)skewX(-17deg),mix-blend-mode:multiply}
 
-![fox](https://i.imgur.com/H5UanUI.png) {position:absolute,bottom:-50px,left:-315px,width:400px,transform:scaleX(-1),mix-blend-mode:normal,filter:brightness(100%),mix-blend-mode:normal}
+![fox](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Kitsune%20(Edit)%20-%20VixenArtz%20-%20deviantart.com%2Bvixenartz%2Bart%2BKitsune-651607831.png) {position:absolute,bottom:-50px,left:-315px,width:400px,transform:scaleX(-1),mix-blend-mode:normal,filter:brightness(100%),mix-blend-mode:normal}
 
-{{imageMaskEdge1,--offset:6%,--rotation:270
-  ![lightpaws](https://i.imgur.com/dJuS9ow.png){position:absolute,bottom:-1px,left:-100px,height:101%}
+{{imageMaskEdge1,--rotation:270,--scaleY:0.5,--offset:2%
+  ![lightpaws](https://files.mtg.wiki/Light-Paws.jpg){position:absolute,bottom:-1px,left:-100px,height:101%}
 }}
 
-{{position:absolute,top:1050px,right:375px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:1020px,right:410px,margin-bottom:-30px,text-align:right
 
 ##### A Kitsune in their</br>humanoid form
 
@@ -1828,21 +1838,21 @@ Refer to Appendix A for creature stat blocks, and Appendix D for rules on Transf
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-![splotch](https://i.imgur.com/UPUX4zG.png) {position:absolute,top:0px,left:40px,width:300px,mix-blend-mode:multiply,filter:hue-rotate(0deg)brightness(125%)grayscale(100%),opacity:50%,transform:rotate(40deg)}
+![splotch](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Splotch.png) {position:absolute,top:40px,left:70px,width:300px,mix-blend-mode:multiply,filter:hue-rotate(0deg)brightness(125%)grayscale(100%),opacity:50%,transform:rotate(40deg)}
 
-![origami](https://i.imgur.com/9INHZIt.png) {position:absolute,top:50px,left:-00px,width:400px,mix-blend-mode:normal,filter:brightness(100%)grayscale(100%),transform:scaleX(1)rotate(0deg)}
+![origami](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Watercolor%20of%20Origami%20Crane%20(Edit)%20-%20Sarah%20DuBree%20-%20Unknown.png) {position:absolute,top:80px,left:20px,width:400px,mix-blend-mode:normal,filter:brightness(100%)grayscale(100%),transform:scaleX(1)rotate(0deg)}
 
-{{position:absolute,top:325px,left:200px,margin-bottom:-30px
+{{position:absolute,top:370px,left:210px,margin-bottom:-30px
 
 ##### An Origami Crane
 
 }}
 
-:::::::::::::::::::::::
+:::::::::::::::::::::::::::
 
 ## 忌鶴 - Kisuru (Crane)
 
@@ -1854,23 +1864,23 @@ The deity Ochiwa-sama is a Kisuru, and the God of Mourning.
 
 \column
 
-{{imageMaskCorner10,--offsetX:48%,--offsetY:40%,--rotation:0
+{{imageMaskCorner10,--offsetX:48%,--offsetY:40%,--rotation:0,reveal
   ![cranes](https://data.ukiyo-e.org/artelino/images/52796g1.jpg){position:absolute,top:-20px,right:-30px,width:70%,transform:scaleX(-1),filter:opacity(90%)}
 }}
 
-![kisuru-shadow](https://i.imgur.com/XHzPTC5.png) {position:absolute,top:225px,left:500px,width:375px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.2)skewX(-17deg),mix-blend-mode:multiply}
+![kisuru-shadow](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Red%20Tides%20Crane%20(Edit)%20-%20zhiyan%20yin%20-%20Unknown.png) {position:absolute,top:225px,left:500px,width:375px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.2)skewX(-17deg),mix-blend-mode:multiply}
 
-![kisuru](https://i.imgur.com/XHzPTC5.png) {position:absolute,top:-20px,left:375px,width:425px,mix-blend-mode:normal,transform:scaleX(1)}
+![kisuru](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Red%20Tides%20Crane%20(Edit)%20-%20zhiyan%20yin%20-%20Unknown.png) {position:absolute,top:-20px,left:375px,width:425px,mix-blend-mode:normal,transform:scaleX(1)}
 
-{{position:absolute,top:450px,right:300px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:540px,right:130px,margin-bottom:-30px,text-align:right
 
-##### A Kisuru</br> martial leader
+##### A Kisuru martial leader
 
 }}
 
-::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::
 
-### Kisuru Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:554px,left:400px,width:375px,mix-blend-mode:normal}
+### Kisuru Traits ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:607px,left:400px,width:375px,mix-blend-mode:normal}
 
 **Creature Type:** :: Humanoid, Obake (Shapechanger)
 **Size:**          :: Medium (about 6-8 feet tall)
@@ -1883,6 +1893,8 @@ As a Kisuru, you gain these special traits:
 
 You also gain the Obake (Shapechanger) creature type.
 
+:
+
 {{note
 
 ##### Note: Modified Rules
@@ -1894,34 +1906,33 @@ Refer to Appendix A for creature stat blocks, and Appendix D for rules on Transf
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-{{imageMaskCorner20,--offsetX:47.5%,--offsetY:-10%,--rotation:0
+{{imageMaskEdge6,--rotation:270,--offset:10%,--scaleY:0.75
   ![kisuru-noble](https://64.media.tumblr.com/36701eef9f5daddf370f1639571327a5/tumblr_nu83hqQFsZ1sn8yxwo1_1280.jpg){position:absolute,bottom:-10px,right:-100px,height:60%,transform:scaleX(-1)}
 }}
 
-{{position:absolute,top:1000px,right:400px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:1020px,right:375px,margin-bottom:-30px,text-align:right
 
 ##### A Kisuru</br> noble
 
 }}
 
-{{imageMaskEdge6,--offset:10%,--rotation:180
-  <!-- ![kisuru-3](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d539de9a-5455-47fa-bd13-ddef61522719/dckhbfo-20706d5b-2451-4877-b386-5cccdb045bee.png/v1/fill/w_1063,h_752,q_70,strp/l5r_crane_samurai_by_wildjamdraws_dckhbfo-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEzMiIsInBhdGgiOiJcL2ZcL2Q1MzlkZTlhLTU0NTUtNDdmYS1iZDEzLWRkZWY2MTUyMjcxOVwvZGNraGJmby0yMDcwNmQ1Yi0yNDUxLTQ4NzctYjM4Ni01Y2NjZGIwNDViZWUucG5nIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.DxB9jp24SQemVfIPpUjYd62VLPD_KhzZrFdMigutl5c){position:absolute,top:-1px,left:-1px,width:101%} -->
-  ![kisuru-monk](https://i.imgur.com/eVluDsS.jpeg){position:absolute,top:-1px,left:-1px,width:101%}
+{{imageMaskEdge6,--offset:10%,--rotation:180,--scaleY:0.75
+  ![kisuru-monk](https://wildjam-illustration.com/wp-content/uploads/2019/12/Wildjam_2019_cranesam_final_1920.jpg){position:absolute,top:-1px,left:-1px,width:101%}
 }}
 
-{{position:absolute,top:535px,left:100px,margin-bottom:-30px
+{{position:absolute,top:550px,left:100px,margin-bottom:-30px
 
 ##### A Kisuru warrior monk
 
 }}
 
-:::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::
 
-&nbsp;***Glide.*** When you are in a fall of 10 feet or more, you can use your Reaction to extend your wings and slow your fall to 60 feet per round, for up to 1 minute. While falling in this way you can glide a number of feet equal to your Speed per turn, and you take 0 damage from the fall when you land. You determine the direction of the glide, and you can act as normal while slowly falling.
+&nbsp;&nbsp;&nbsp;&nbsp;***Glide.*** When you are in a fall of 10 feet or more, you can use your Reaction to extend your wings and slow your fall to 60 feet per round, for up to 1 minute. While falling in this way you can glide a number of feet equal to your Speed per turn, and you take 0 damage from the fall when you land. You determine the direction of the glide, and you can act as normal while slowly falling.
 
 ***Protection Magic.*** You know the *Spare the Dying* cantrip. Starting at Character Level 3, you can cast the *Ceremony* spell with this trait. Starting at Character Level 5, you can also cast the *Gentle Repose* spell with this trait. Once you cast *Ceremony* or *Gentle Repose* with this trait, you can't cast that spell with it again until you finish a Long Rest. You can also cast either of those spells using any Spell Slots you have of the appropriate Spell Slot Level.
 
@@ -1930,15 +1941,15 @@ Intelligence, Wisdom, or Charisma is your Spellcasting Ability for these spells 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-{{imageMaskEdge1,--offset:27.5%,--rotation:180
+{{imageMaskEdge1,--offset:30%,--rotation:180
   ![ocean](https://data.ukiyo-e.org/mfa/images/sc208833.jpg){position:absolute,top:-800px,right:-80px,width:120%,transform:scaleX(-1),mix-blend-mode:multiply}
 }}
 
-![bunagaya](https://i.imgur.com/a1qOUbm.png) {position:absolute,top:20px,left:200px,width:300px,mix-blend-mode:normal}
+![bunagaya](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Bunagaya%20(Seigai)%20-%20Unknown.png) {position:absolute,top:20px,left:200px,height:300px,mix-blend-mode:normal}
 
 ::::::::::::::::::::
 
@@ -1954,7 +1965,7 @@ There's a common Sumirikugo saying that goes "When playing cards, the shark at t
 
 ::::::::::::::::::::
 
-### Bunagaya Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:352px,left:400px,width:375px,mix-blend-mode:normal}
+### Bunagaya Traits ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:335px,left:400px,width:375px,mix-blend-mode:normal}
 
 **Creature Type:** :: Humanoid
 **Size:**          :: Small (About 3 feet tall)
@@ -1986,15 +1997,15 @@ Refer to the Appendix D for updated rules on Nets, an Adventuring Gear rather th
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-{{imageMaskEdge1,--offset:27.5%,--rotation:180
+{{imageMaskEdge1,--offset:30%,--rotation:180
   ![mountain](https://data.ukiyo-e.org/mfa/images/sc233208.jpg){position:absolute,top:-100px,right:-40px,width:110%,transform:scaleX(1),mix-blend-mode:multiply}
 }}
 
-![korpokkur](https://i.imgur.com/H1Pu2fU.png) {position:absolute,top:10px,left:250px,width:250px,mix-blend-mode:normal}
+![korpokkur](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Korpokkur%20(Seigai)%20-%20Unknown.png) {position:absolute,top:10px,left:250px,height:300px,mix-blend-mode:normal}
 
 ::::::::::::::::::::
 
@@ -2006,7 +2017,7 @@ Refer to the Appendix D for updated rules on Nets, an Adventuring Gear rather th
 
 ::::::::::::::::::::
 
-### Korpokkur Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:352px,left:400px,width:375px,mix-blend-mode:normal}
+### Korpokkur Traits ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:335px,left:400px,width:375px,mix-blend-mode:normal}
 
 **Creature Type:** :: Humanoid
 **Size:**          :: Small (about 2-4 feet tall)
@@ -2030,56 +2041,56 @@ As a Korpokkur, you gain these special traits:
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
 ## 竜孫 - Ryūson (Dragonborn)
 
-Of all the peoples of Sumiriku, it is perhaps the Ryūson that are the most distinct. The first Ryūson were said to have hatched from eggs forged by the great Ryū, or Dragons, of Sumiriku, and were made in the image of said Ryū. The Ryūson take an appearance akin to the serpentine look of their ancestors, except in a humanoid form, with scaled skin, brightly coloured hair, and two pronged horns protruding backward. They also share the magical affinity of their ancestors, being able to conjure up and breathe out gusts of magic to thwart their foes. Male Ryūson also have prominent whiskers and often beards, of the same colour as their hair, whereas female Ryūson have more elegant horns. Ryūson typically stand at a similar hight to humans at around 5 to 7 feet, but this doesn't take into account their serpentine tails that sometimes grow to the length of their bodies. Ryūson typically live around 150 years, and those </br>that live careful lives can frequently exceed </br>this. This longer life, combined with the relatively recent creation of the Godai </br>Ryūson as a species, gives some Ryūson pause about their place in a larger world. Some Ryūson, those with the strongest familial ties, can trace their lineage directly back to the first eggs forged by the Dragon-Kami.
+Of all the peoples of Sumiriku, it is perhaps the Ryūson that are the most distinct. The first Ryūson were said to have hatched from eggs forged by the great Ryū, or Dragons, of Sumiriku, and were made in the image of said Ryū. The Ryūson take an appearance akin to the serpentine look of their ancestors, except in a humanoid form, with scaled skin, brightly coloured hair, and two pronged horns protruding backward. They also share the magical affinity of their ancestors, being able to conjure up and breathe out gusts of magic to thwart their foes. Male Ryūson also have prominent whiskers and often beards, of the same colour as their hair, whereas female Ryūson have more elegant horns. Ryūson typically stand at a similar hight to humans at around 5 to 7 feet, but this doesn't take into account their serpentine tails that </br>sometimes grow to the length of their </br>bodies. Ryūson typically live around 150 </br>years, and those that live careful lives can frequently exceed this. This longer life, combined with the relatively recent creation </br>of the Godai Ryūson as a species, gives some Ryūson pause about their place in a larger world. Some Ryūson, those with the strongest familial ties, can trace their lineage directly </br>back to the first eggs forged by the </br>Dragon-Kami.
 
-Ryūson come in many styles, in association with the types of Ryū in existence across Sumiriku. The Kinzoku Ryūson were the first </br>of their kind, forged by the original Kinzoku </br>Ryū. They have scales that glint in the colours of precious metals, gold, silver, or bronze, and their hair and horns match this noble visage. Like the Kinzoku Ryū the traits of these Ryūson are tied to water and rain, and stories of these Ryūson portray them as sharing in draconic nobility. In contrast, the Godai Ryūson lack a connection to such noble beings, and are often believed to have a similar self-serving nature as their creator Ryū. These Ryūson possess an affinity for one of the base elements that construct the universe, and the colour of their scales and hair evoke that element.
+Ryūson come in many styles, in </br>association with the types of Ryū in </br>existence across Sumiriku. The Kinzoku Ryūson were the first of their kind, forged by the original Kinzoku Ryū. They have scales that glint in the colours of precious metals, gold, silver, </br>or bronze, and their hair and horns match this noble visage. Like the Kinzoku Ryū the traits of these Ryūson are tied to water and rain, and stories of these Ryūson portray them as sharing in draconic nobility. In contrast, the Godai Ryūson lack a connection to such noble beings, and are often believed to have a similar self-serving nature as their creator Ryū. These Ryūson possess an affinity for one of the base elements that construct the universe, and the colour of their scales and hair evoke that element.
+
+Ryūson frequently take up military positions, as warriors or bodyguards. Their Dragon lineage grants them impressive dedication and willpower, though they often lack an ideology or belief to direct that strength.
 
 \column
 
-&nbsp;Ryūson frequently take up military positions, as warriors or bodyguards. Their Dragon lineage grants them impressive dedication and willpower, though they often lack an ideology or belief to direct that strength.
+&nbsp;&nbsp;&nbsp;&nbsp;Ryūson are unique in that they lack representation from among the Myōjin. </br>Tamata-No-Orochi, the God of Tyranny, was felled and imprisoned long ago, and no deity has replaced her. Only a few still worship her, and in her stead there are many Dragon-Kami that receive worship particularly from Ryūson.
 
-Ryūson are unique in that they lack representation from among the Myōjin. </br>Tamata-No-Orochi, the God of Tyranny, was felled and imprisoned long ago, and no deity has replaced her. Only a few still worship her, and in her stead there are many Dragon-Kami that receive worship particularly from Ryūson.
-
-{{imageMaskCorner20,--offsetX:45%,--offsetY:-25%,--rotation:0
+{{imageMaskCorner20,--offsetX:45%,--offsetY:-22%,--rotation:0,revealI
   ![burning](https://cdnb.artstation.com/p/assets/images/images/013/237/305/large/matt-lara-honnoji2.jpg?1538679777){position:absolute,bottom:-50px,right:-175px,width:90%,mix-blend-mode:multiply}
 }}
 
-![ryuson-shadow](https://i.imgur.com/iBLEISy.png) {position:absolute,bottom:-80px,right:-50px,width:400px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.3)skewX(-17deg),mix-blend-mode:multiply}
+![ryuson-shadow](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Dragonborn%20(Edit)%20-%20Unknown.png) {position:absolute,bottom:-90px,right:-60px,width:400px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.3)skewX(-17deg),mix-blend-mode:multiply}
 
-![ryuson](https://i.imgur.com/ugsfmOH.png) {position:absolute,bottom:60px,right:-70px,width:550px,mix-blend-mode:normal}
+![ryuson](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Dragonborn%20(Edit)%20-%20Unknown.png) {position:absolute,bottom:50px,right:-90px,width:600px,mix-blend-mode:normal}
 
-{{position:absolute,top:1000px,right:400px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:1000px,right:420px,margin-bottom:-30px,text-align:right
 
-##### An elder</br> Fire Ryuson
+##### An elder</br> Fire Ryūson
 
 }}
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-{{imageMaskEdge7,--offset:38%,--rotation:180
+{{imageMaskEdge7,--offset:33%,--rotation:180
   ![ryuson-2](https://cdna.artstation.com/p/assets/images/images/029/705/908/large/phill-berry-dnd-asian-dragonborn-copy.jpg?1598388901){position:absolute,top:-100px,right:-1px,width:101%}
 }}
 
-{{position:absolute,top:280px,right:110px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:325px,right:75px,margin-bottom:-30px,text-align:right
 
-##### A Water Ryuson
+##### A Water Ryūson
 
 }}
 
-::::::::::::::::
+:::::::::::::::::::::
 
-### Ryūson Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:294px,left:55px,width:375px,mix-blend-mode:normal}
+### Ryūson Traits ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:349px,left:55px,width:375px,mix-blend-mode:normal}
 
 **Creature Type:** :: Humanoid
 **Size:**          :: Medium (About 5-7 feet tall)
@@ -2092,7 +2103,7 @@ As a Ryūson, you gain these special traits:
 
 ***Aquatic.*** You can breathe underwater, and have a Swim Speed equal to your Speed.
 
-***Dragon-Kami Ancestry.*** Your lineage stems from a Dragon progenitor. Choose the kind of Dragon from the Dragon-Kami Ancestor tables. Your choice affects your Breath Weapon, Damage Resistance, and Orochi Ascendant traits. If there are multiple associated damage types for the specific Ancestor, choose one of those damage types when you select this species. The chosen Dragon also affects your appearance, with you displaying coloration and other features reminiscent of that Dragon.
+***Ryū Ancestry.*** Your lineage stems from a Dragon progenitor. Choose the kind of Dragon from the Ryū Ancestor tables. Your choice affects your Breath Weapon, Damage Resistance, and Orochi Ascendant traits. If there are multiple associated damage types for the specific Ancestor, choose one of those damage types when you select this species. The chosen Dragon also affects your appearance, with you displaying coloration and other features reminiscent of that Dragon.
 
 ***Breath Weapon.*** When you take the Attack action on your turn, you can replace one of your attacks with an exhalation of magical energy in a 30-foot-long, 5-foot-wide Line. Each creature in the Line must make a Dexterity Saving Throw (DC 8 plus your Constitution modifier and Proficiency Bonus). On a failed save, a creature takes 1d10 damage of the type determined by your Dragon-Kami Ancestry trait. On a successful save, a creature takes half as much damage. This damage increases by 1d10 when you reach Character Levels 5 (2d10), 11 (3d10), and 17 (4d10).
 
@@ -2100,11 +2111,11 @@ You can use this Breath Weapon a number of times equal to your Proficiency Bonus
 
 \column
 
-:::::::::::::::::
+:::::::::::::::::::::
 
 {{#dragon-table
 
-##### Dragon-Kami Ancestor
+##### Ryū Ancestor
 
 | Godai Dragon   | Damage Type             |
 |:---------------|:------------------------|
@@ -2124,34 +2135,32 @@ You can use this Breath Weapon a number of times equal to your Proficiency Bonus
 
 }}
 
-:
+&nbsp;&nbsp;&nbsp;&nbsp;***Draconic Resistance.*** You have resistance to the damage type associated with your Dragon-Kami Ancestry.
 
-&nbsp;***Draconic Resistance.*** You have resistance to the damage type associated with your Dragon-Kami Ancestry.
+***Orochi Ascendant.*** When you reach Character Level 5, you become able to tap into some of the power of your great Dragon ancestors. As an Action you can channel this power, becoming immune to the damage type associated with your Ryū Ancestry trait for 1 minute, or until you end the channelling with a Bonus Action. While you are channelling this power, once on your turn when you hit with an Attack Roll or deal damage with your Breath Weapon, you can have the attack or Breath Weapon deal an additional 1d6 damage of the type determined by your Dragon-Kami Ancestry trait. Once you use this trait, you can't do so again until you finish a Long Rest.
 
-***Orochi Ascendant.*** When you reach Character Level 5, you become able to tap into some of the power of your great Dragon ancestors. As an Action you can channel this power, becoming immune to the damage type associated with your Dragon-Kami Ancestry trait for 1 minute, or until you end the channelling with a Bonus Action. While you are channelling this power, once on your turn when you hit with an Attack Roll or deal damage with your Breath Weapon, you can have the attack or Breath Weapon deal an additional 1d6 damage of the type determined by your Dragon-Kami Ancestry trait. Once you use this trait, you can't do so again until you finish a Long Rest.
+![splotch-yellow](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Splotch.png) {position:absolute,right:120px,bottom:50px,width:180px,mix-blend-mode:multiply,filter:hue-rotate(45deg)brightness(200%),opacity:50%,rotate:90deg,transform:scaleY(1.5)}
 
-![splotch](https://i.imgur.com/UPUX4zG.png) {position:absolute,right:120px,bottom:50px,width:180px,mix-blend-mode:multiply,filter:hue-rotate(45deg)brightness(200%),opacity:50%,rotate:90deg,transform:scaleY(1.5)}
+![dragon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Character%20Species/Chinese%20Dragon%20-%20Unknown.png) {position:absolute,bottom:50px,right:100px,width:260px,mix-blend-mode:normal}
 
-![dragon](https://i.imgur.com/uHqVaGl.png) {position:absolute,bottom:50px,right:100px,width:260px,mix-blend-mode:normal}
+{{position:absolute,top:1010px,right:360px,margin-bottom:-30px,text-align:right
 
-{{position:absolute,top:1030px,right:330px,margin-bottom:-30px,text-align:right
-
-##### A depiction</br> of a Ryu
+##### A depiction</br> of a Ryū
 
 }}
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
 {{imageMaskEdge6,--offset:-40%,--rotation:180
-  ![human-noble](https://cdna.artstation.com/p/assets/images/images/039/784/598/large/darren-tan-l5r-shibatsukune-da2.jpg?1626930799){position:absolute,top:-1px,left:-1px,width:101%,transform:scaleX(1)}
+  ![human-noble](https://cdna.artstation.com/p/assets/images/images/039/784/598/large/darren-tan-l5r-shibatsukune-da2.jpg){position:absolute,top:-1px,left:-1px,width:101%,transform:scaleX(1)}
 }}
 
-{{position:absolute,top:1000px,left:-175px,margin-bottom:-30px,text-align:center
+{{position:absolute,top:1010px,left:-175px,margin-bottom:-30px,text-align:center
 
 ##### A Human noble
 
@@ -2160,37 +2169,39 @@ You can use this Breath Weapon a number of times equal to your Proficiency Bonus
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
 {{imageMaskEdge1,--offset:12%,--rotation:180
-  ![human-ranger](https://i.imgur.com/l48kpbD.jpg){position:absolute,top:-1px,left:-1px,width:101%}
+  ![human-ranger](https://cdnb.artstation.com/p/assets/images/images/009/878/035/large/jae-hyuck-jang-w.jpg){position:absolute,top:-1px,left:-1px,width:101%}
 }}
 
-![patch](https://i.imgur.com/YU6ihyO.png) {position:absolute,top:470px,left:410px,width:100px,mix-blend-mode:normal}
+<!-- TODO - ADD THIS PATCH TO OTHER PLACES WHERE NEEDED -->
 
-{{position:absolute,top:470px,left:0px,margin-bottom:-30px,text-align:center
+![patch](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Patch.png) {position:absolute,top:470px,left:410px,width:100px,mix-blend-mode:normal}
+
+{{position:absolute,top:475px,left:0px,margin-bottom:-30px,text-align:center
 
 ##### A Human ranger from Ryugenshima
 
 }}
 
-::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::
 
 ## 人 - Human
 
-To a visitor from one of the realms beyond Utsushiyo, witnessing the denizens of Sumiriku for the first time, they may consider Humans to be the least noteworthy people. They appear to lack the unique advantages that the members of Sumiriku's other species possess, the magical qualities or traits that differentiate themselves from each other. How is it then, the visitor would be forced to ponder, that these Humans have become the dominant presence in almost every corner of these islands?
+To a visitor from one of the realms beyond Utsushiyo, witnessing the denizens of Sumiriku for the first time, they may consider Humans to be among the least noteworthy people. They appear to lack the unique advantages that the members of Sumiriku's other species possess, the magical qualities or traits that differentiate themselves from each other. How is it then, the visitor would be forced to ponder, that these Humans have become the dominant presence in almost every corner of these islands?
 
-The Humans of Sumiriku are believed to have been made in the image of the first Myōjin, Yōzanagi-sama and Inzanami-sama. Humans take their appearance from this couple; they typically appear light to tan skinned, mostly hairless apart from dark hair on their head, and adults average around 5 to 6 feet tall. However, their creators also gave them a different blessing, that of willpower. Humans are known as a species to have an incredible amount of determination, commonly paired with a similar amount of reckless confidence and an ability to adapt to nearly any situation. <!-- This desire to face any challenge and adaptability in overcoming them has led humans to incredible success to find home in every climate -->
+The Humans of Sumiriku are believed to have been made in the image of the first Myōjin, Yōzanagi-sama and Inzanami-sama. Humans take their appearance from this couple; they typically appear light to tan skinned, mostly hairless apart from dark hair on their head, and adults average around 5 to 6 feet tall. Despite lacking any of the unique traits of their mortal relatives, their creators gave them a different blessing, that of willpower. Humans are known as a species to have an incredible amount of determination, commonly paired with a similar amount of reckless confidence and an ability to adapt to nearly any situation. This desire to face any challenge and adaptability in overcoming them has led humans to spread far and wide, finding home in nearly every region and climate.
 
 Yūkan-sama is a Human, and the latest member of the Myōjin. He is the God of Will.
 
 \column
 
-::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::
 
-### Human Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:525px,left:400px,width:375px,mix-blend-mode:normal}
+### Human Traits ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:525px,left:400px,width:375px,mix-blend-mode:normal}
 
 **Creature Type:** :: Humanoid
 **Size:**          :: Medium (about 4-7 feet tall) or Small (about 3-4 feet tall), chosen when you select this species
@@ -2216,35 +2227,35 @@ Refer to Appendix B for the updated Origin Feats and Appendix D for rules on Her
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
 {{imageMaskEdge5,--offset:-50%,--rotation:90
-  ![oni-layer-weapon](https://i.imgur.com/sIy4kcP.png){position:absolute,right:250px,bottom:-2px,height:101%,transform:scaleX(-1)}
+  ![oni-layer-weapon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Aberrant%20Forms/Korean%20Dokebi%20(Weapon%20Crop)%20-%20InHyuk%20Lee%20-%20artstation.com%2Bartwork%2By6Orn.png){position:absolute,right:250px,bottom:-2px,height:101%,transform:scaleX(-1)}
 }}
 
-{{imageMaskEdge5,--offset:8%,--rotation:90
+{{imageMaskEdge5,--offset:7%,--rotation:90,--scaleY:0.75
   ![oni-layer-man](https://cdna.artstation.com/p/assets/images/images/003/796/692/large/inhyuk-lee-.jpg?1477539907){position:absolute,right:250px,bottom:-2px,height:101%,transform:scaleX(-1)}
 }}
 
-![splotch](https://i.imgur.com/UPUX4zG.png) {position:absolute,right:50px,bottom:70px,width:200px,mix-blend-mode:multiply,filter:hue-rotate(0deg),opacity:50%}
+![splotch-red](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Splotch.png) {position:absolute,right:50px,bottom:90px,width:200px,mix-blend-mode:multiply,filter:hue-rotate(0deg),opacity:50%}
 
-![oni-mask](https://i.imgur.com/vwEspVh.png){position:absolute,right:50px,bottom:50px,width:225px}
+![oni-mask](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Aberrant%20Forms/Red%20Japanese%20Mask%20Stock%20Photo%20(Edit)%20-%20Unknown.png){position:absolute,right:50px,bottom:70px,width:225px}
 
-{{position:absolute,top:990px,left:360px,margin-bottom:-30px
+{{position:absolute,top:1000px,left:380px,margin-bottom:-30px
 
 ##### A Human with</br> an Oni Bloodline
 
 }}
 
-{{position:absolute,top:1060px,left:585px,margin-bottom:-30px
+{{position:absolute,top:1040px,left:585px,margin-bottom:-30px
 
 ##### An Oni mask
 
 }}
 
-{{#right-text
+{{#right-column
 
 # Aberrant Forms
 
@@ -2256,18 +2267,18 @@ When creating an Aberrant Form character, first pick an initial base species. Yo
 
 Certain people have manifested features that show their blood connection to the Oni, infernal and malevolent spirits. This connection may be from somewhere in their family, or from some kind of pact or ritual. Some may make this connection as a desire for strength and power, but others may be born as such, and thus resent the cursed burden placed upon them. These people can be identified by physical characteristics, such as horns, fangs, or different coloured skin, that makes it clear to strangers their connection no matter how it was made.
 
-This infernal bloodline gives the people cursed with it enhanced strength and an intimidating aura, but they are also prone to enraged and violent outbursts. If these Oni-touched do not find ways to keep this rage in check, these acts frequently lead to them being &nbsp;shunned from society, abandoned by their &nbsp;families, and forced to wander Sumiriku &nbsp;&nbsp;alone.
+This infernal bloodline gives the people cursed with it enhanced strength and an intimidating aura, but they are also prone to enraged and violent outbursts. If these Oni-touched do not find ways to keep this rage in check, these acts frequently lead to them being shunned from society, abandoned by their families, and forced to wander Sumiriku alone.
 
 }}
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-### Oni Bloodline Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Oni Bloodline Traits ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 **Creature Type:** :: Inherited from base species, Oni (Fiend)
 **Size:**          :: Inherited from base species
@@ -2284,6 +2295,14 @@ As an Oni Bloodline, you gain these special traits:
 
 ***Demon Fangs.*** You have grown fangs that show your demonic association. Your fanged bite is a Natural weapon, which counts as a Simple Melee weapon with which you are proficient. While above 10 Ferocity, you have Advantage on attacks with this bite. It deals 1d4 Piercing damage on a hit. When you attack with this weapon and hit a creature, you can expend any amount of Ferocity to deal an equal amount of additional damage with the attack.
 
+***Imposing Power.*** You can spend 5 Ferocity whenever you make a Charisma (Intimidation) or Strength (Athletics) check to grant yourself Advantage on the roll.
+
+***Frightful Presence.*** As an Action, you can spend 5 Ferocity to terrify the creatures around you. All creatures of your choice in a 30-foot-radius centred on you must succeed on a Wisdom Saving Throw (DC 5 plus your current Ferocity and Proficiency Bonus), or be Frightened of you until the start of your next turn.
+
+\column
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 {{note
 
 ##### Note: Gaining Ferocity
@@ -2292,46 +2311,40 @@ You are only able to gain Ferocity when you fail D20 tests that you had a reason
 
 }}
 
-\column
-
-&nbsp;***Imposing Power.*** You can spend 5 Ferocity whenever you make a Charisma (Intimidation) or Strength (Athletics) check to grant yourself Advantage on the roll.
-
-***Frightful Presence.*** As an Action, you can spend 5 Ferocity to terrify the creatures around you. All creatures of your choice in a 30-foot-radius centred on you must succeed on a Wisdom Saving Throw (DC 5 plus your current Ferocity and Proficiency Bonus), or be Frightened of you until the start of your next turn.
-
-{{position:absolute,top:1035px,right:410px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:1020px,right:375px,margin-bottom:-30px,text-align:right
 
 ##### A Human </br> Oni Samurai
 
 }}
 
-{{imageMaskCorner20,--offsetX:47%,--offsetY:-23%,--rotation:0
-  ![oni-2](https://cdna.artstation.com/p/assets/images/images/040/280/976/large/david-koo-yato-render-bg.jpg?1628403036){position:absolute,bottom:-20px,right:-185px,width:90%,transform:scaleX(-1)}
+{{imageMaskEdge6,--offset:10%,--rotation:270,--scaleY:0.75
+![oni-2](https://cdna.artstation.com/p/assets/images/images/040/280/976/large/david-koo-yato-render-bg.jpg?1628403036){position:absolute,bottom:-1px,right:-250px,height:101%,transform:scaleX(-1)}
 }}
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-{{imageMaskCorner21,--offsetX:-53%,--offsetY:40%,--rotation:0
-  ![skeleton](https://i.imgur.com/4wjoUkp.png){position:aboslute,top:-20px,left:-450px,height:65%,transform:scaleX(-1),mix-blend-mode:multiply,filter:brightness(75%)}
+{{imageMaskCorner21,--offsetX:-53%,--offsetY:50%,--rotation:0,--scaleY:1.25
+  ![skeleton](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Aberrant%20Forms/Takiyasha%20the%20Witch%20and%20the%20Skeleton%20Spectre%20-%20Utagawa%20Kuniyoshi%20-%20en.m.wikipedia.org%2Bwiki%2BFileTakiyasha_the_Witch_and_the_Skeleton_Spectre.jpg.png){position:aboslute,top:-20px,left:-450px,height:65%,transform:scaleX(-1),mix-blend-mode:multiply,filter:brightness(75%)}
 }}
 
-![yurei-shadow](https://i.imgur.com/wrb76S8.png) {position:absolute,bottom:200px,right:350px,width:400px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(-1)scaleY(0.2)skewX(0deg),mix-blend-mode:multiply}
+![yurei-shadow](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Aberrant%20Forms/Hisako%20(Edit)%20-%20fugi%20(zinc_park)%20-%20x.com%2Bzinc_park%2Bstatus%2B582855311842668544.png) {position:absolute,bottom:100px,right:350px,width:450px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(-1)scaleY(0.2)skewX(0deg),mix-blend-mode:multiply}
 
-{{imageMaskCorner21,--offsetX:-56%,--offsetY:40%,--rotation:0,--filter:opacity(80%)
-  ![yurei](https://i.imgur.com/wrb76S8.png) {position:absolute,left:-0px,top:00px,width:400px,margin-bottom:-25px,filter:brightness(95%),opacity:100%,mix-blend-mode:normal,transform:scaleX(-1)}
+{{imageMaskCorner21,--offsetX:-53%,--offsetY:50%,--rotation:0,--scaleY:1.25,--filter:opacity(80%)
+  ![yurei](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Aberrant%20Forms/Hisako%20(Edit)%20-%20fugi%20(zinc_park)%20-%20x.com%2Bzinc_park%2Bstatus%2B582855311842668544.png) {position:absolute,left:-20px,top:0px,width:450px,margin-bottom:-25px,filter:brightness(95%),opacity:100%,mix-blend-mode:normal,transform:scaleX(-1)}
 }}
 
-{{position:absolute,top:645px,left:275px,margin-bottom:-30px
+{{position:absolute,top:690px,left:260px,margin-bottom:-30px
 
-##### A Yurei Balanced</br> on a Naginata
+##### A Yūrei Balanced</br> on a Naginata
 
 }}
 
-::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## 幽霊 - Yūrei Manifest Form
 
@@ -2339,7 +2352,7 @@ A Yūrei is a ghost or spirit that lingers in the worlds of the living, rather t
 
 \column
 
-### Yūrei Manifest Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Yūrei Manifest Traits ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 **Creature Type:** :: Inherited from base species, Fushisha (Undead)
 **Size:**          :: Inherited from base species
@@ -2361,7 +2374,7 @@ As a Yūrei Manifest, you gain these special traits:
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -2373,7 +2386,7 @@ However they come into being, what is known is the stories of the Noppera-bō's 
 
 There is a growing paranoia and animosity about the existence of foreign-realm beings, believing them to be a dark perversion of the natural way, so many Noppera-bō choose never to reveal their secret. Noppera-bō are speculated to be hidden all across the nation, potentially in places of great authority.
 
-### Noppera-bō Changeling Traits ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:708px,left:55px,width:375px,mix-blend-mode:normal}
+### Noppera-bō Changeling Traits ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:677px,left:55px,width:375px,mix-blend-mode:normal}
 
 **Creature Type:** :: Inherited from base species, Yōkai (Fey), Obake (Shapechanger)
 **Size:**          :: Inherited from base species
@@ -2388,40 +2401,38 @@ As a Noppera-bō Changeling, you gain these special traits:
 
 \column
 
-&nbsp;***Shapechanger.*** As an Action, you change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height between Medium and Small. You can make yourself appear as a member of another race, though none of your game statistics change. You can't duplicate the appearance of an individual you've never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. Your clothing and equipment aren't changed by this trait.
+&nbsp;&nbsp;&nbsp;&nbsp;***Shapechanger.*** As an Action, you change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height between Medium and Small. You can make yourself appear as a member of another race, though none of your game statistics change. You can't duplicate the appearance of an individual you've never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. Your clothing and equipment aren't changed by this trait.
 
 You stay in the new form until you use an Action to revert to your true form or until you die.
 
-{{imageMaskCorner20,--offsetX:47%,--offsetY:-27%,--rotation:0
-  ![no-face](https://cdnb.artstation.com/p/assets/images/images/065/010/851/large/karina-pavlova-nopperabo-web.jpg?1689274158){position:absolute,left:330px,bottom:-40px,height:75%,transform:scaleX(1)}
+{{imageMaskCorner29,--offsetX:53%,--offsetY:-50%,--rotation:0,--scaleY:1.22
+  ![no-face](https://cdnb.artstation.com/p/assets/images/images/065/010/851/large/karina-pavlova-nopperabo-web.jpg?1689274158){position:absolute,left:350px,bottom:-30px,height:75%,transform:scaleX(1)}
 }}
 
-{{position:absolute,top:1040px,right:400px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:990px,right:420px,margin-bottom:-30px,text-align:right
 
-<!-- ##### A Noppera-bō</br>mask salesman -->
-##### A Noppera-bo</br>mask salesman
+##### A Noppera-bō</br>mask salesman
 
 }}
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-{{imageMaskEdge1,--offset:6%,--rotation:90
-  ![barbarian](https://i.imgur.com/Gbp6A7L.png){position:absolute,top:-1px,left:-500px,height:101%,transform:scaleX(-1)}
+{{imageMaskEdge7,--offset:8%,--rotation:90
+  ![barbarian](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Classes%20and%20Subclasses/Hida%20Tomonatsu%20(Edit)%20-%20MuYoung%20Kim%20-%20Unknown.png){position:absolute,top:-1px,left:-500px,height:101%,transform:scaleX(-1)}
 }}
 
-{{position:absolute,top:1065px,left:365px,margin-bottom:-30px,text-align:left
+{{position:absolute,top:1065px,left:390px,margin-bottom:-30px,text-align:left
 
-<!-- ##### An Ōtsuchi-wielding Barbarian -->
-##### An Otsuchi-wielding Barbarian
+##### An Ōtsuchi-wielding Barbarian
 
 }}
 
-{{#big-column-right
+{{#right-column
 
 # Classes and Subclasses
 
@@ -2450,21 +2461,20 @@ The intersection of skills between Barbarians and Monks are Sumōtori (相撲取
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-### Path of the Kaijū ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Path of the Kaijū ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
-**TODO - REVISION**
-</br>
+<!-- **TODO - REVISION** -->
 *Wield the Titan's Wrath*
 </br>
 Those who walk the Path of the Kaijū are living proof of the existence of Sumiriku's most destructive creatures. Though it is unknown how they forged this bond with beings of myth, in their veins flows the same blood as these mysterious titans of destruction, wrath, and carnage. Rumours still swirl about the Kaijū's status, their power, and their intentions, but one trait is agreed upon; their driving force is rage.
 
 #### Level 3: Rip and Tear
 
-You have grown the weapons of the Kaijū, vicious claws and a barbed tail. Your Unarmed Strikes deal Bludgeoning or Slashing damage, your choice, equal to one roll of your Exploit Die plus your Strength modifier. <!-- Should these be natural weapons??? -->
+You have grown the weapons of the Kaijū, vicious claws and a barbed tail. Your Unarmed Strikes deal Bludgeoning or Slashing damage (your choice) equal to one roll of your Exploit Die plus your Strength modifier. <!-- Should these be natural weapons??? -->
 
 As a Bonus Action you can swing your tail around to trip your foes. Each creature your size or smaller within 5 feet of you must succeed on a Strength Saving Throw against your Exploit Save DC, or they take Bludgeoning damage equal to one roll of your Exploit Die and are knocked Prone.
 
@@ -2484,42 +2494,56 @@ You learn certain Exploits at the Alternate Barbarian Levels in the table below.
 
 }}
 
-:
-
 #### Level 6: Titan's Slumber
 
 While you rest your power grows; those that disrupt this hibernation should beware. When you complete a Long Rest, you gain Temporary Hit Points equal to your Constitution modifier plus your Character Level. While you have these Temporary Hit Points, your Unarmoured Defence increased to 13 plus your Dexterity and Constitution modifiers, as your armoured scales build themselves around you.
 
 In addition, your heightened senses keep you dangerous, even in your slumber. You are aware of your surroundings even while Sleeping, and if you enter a combat with the Surprised Condition you are able to begin the combat by entering your Rage, before any other creatures get the chance to act.
 
-\column
-
-{{imageMaskCorner16,--offsetX:57%,--offsetY:38%,--rotation:0
-  ![waves](https://i.imgur.com/xWqkAcd.jpeg){position:aboslute,top:-50px,right:-160px,height:70%,transform:scaleX(1),filter:opacity(66%)}
-}}
-
-![godzillaman-shadow](https://i.imgur.com/UXS6ohJ.png) {position:absolute,top:220px,right:-210px,width:435px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.2)skewX(-25deg),mix-blend-mode:multiply}
-
-![godzillaman](https://i.imgur.com/UXS6ohJ.png) {position:absolute,right:-80px,top:30px,width:435px,margin-bottom:-25px,filter:brightness(95%),opacity:100%,mix-blend-mode:normal,transform:scaleX(1)}
-
-{{position:absolute,top:400px,right:300px,margin-bottom:-30px,text-align:right
-
-##### A Barbarian </br> with Kaiju </br> blood
-
-}}
-
-:::::::::::::::::::::::::::::::::::::::
-
 #### Level 10: Anti-Magic Scales
 
-Your carapace armour has developed a protection against magical threats. While Raging, if you are targeted by a *Magic Missile* spell, a line spell, or a spell that requires a Ranged Spell Attack, you may use your Reaction to make a Constitution Saving Throw against the caster's Spell Save DC. If you succeed the spell has no effect against you. If you roll a 20 on the Saving Throw, you are unaffected and and the effect is reflected back at the caster as though it originated from you, turning the caster into the target.
+Your carapace armour has developed a protection against magical threats. While Raging, if you are targeted by a *Magic Missile* spell, a line spell, or a spell that requires a
+
+\column
+
+{{imageMaskCorner23,--offsetX:50%,--offsetY:50%,--rotation:0,--scaleY:1.25,--scaleX:1.0
+  ![waves](https://data.ukiyo-e.org/mfa/images/sc120115.jpg){position:aboslute,top:-75px,right:-150px,width:80%,transform:scaleX(1),filter:opacity(66%)}
+}}
+
+![godzillaman-shadow](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Classes%20and%20Subclasses/Godzilla%20(Edit)%20-%20KuroSasori92%20-%20x.com%2Bkurosaki_sasori%2Bstatus%2B1774988997577871579.png) {position:absolute,top:220px,right:-210px,width:435px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.2)skewX(-25deg),mix-blend-mode:multiply}
+
+![godzillaman](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Classes%20and%20Subclasses/Godzilla%20(Edit)%20-%20KuroSasori92%20-%20x.com%2Bkurosaki_sasori%2Bstatus%2B1774988997577871579.png) {position:absolute,right:-100px,top:50px,width:500px,margin-bottom:-25px,filter:brightness(95%),opacity:100%,mix-blend-mode:normal,transform:scaleX(1)}
+
+{{position:absolute,top:690px,left:150px,margin-bottom:-30px,text-align:center
+
+##### A Barbarian </br> with Kaijū blood
+
+}}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Ranged Spell Attack, you may use your Reaction to make a Constitution Saving Throw against the caster's Spell Save DC. If you succeed the spell has no effect against you. If you roll a 20 on the Saving Throw, you are unaffected and and the effect is reflected back at the caster as though it originated from you, turning the caster into the target.
+
+{{note
+
+##### Note: Where are the Artificers?
+
+Artificer as a class is not presented here, as it is not assumed to be available within the setting of Sumiriku; their inventor archetype does not fit well within the pre-industrial setting. Talk with your DM if you wish to play as an Artificer, to create a character concept that would fit within Sumiriku.
+
+}}
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
+
+{{imageMaskEdge8,--offset:6%,--rotation:90,--scaleY:0.5
+  ![shamisen](https://64.media.tumblr.com/d53c12cd28c8811b621062dd1d07e67c/tumblr_p6b4dc1NR31u79880o1_1280.jpg){position:aboslute,bottom:-1px,left:-270px,height:101%,transform:scaleX(1)}
+}}
+
+\column
 
 #### Level 14: Titanomachy
 
@@ -2539,19 +2563,22 @@ This subclass was designed for the Alternate Barbarian by LaserLlama. To adapt t
 
 }}
 
-{{note
-
-##### Note: Where are the Artificers?
-
-Artificer as a class is not presented here, as it is not assumed to be available within the setting of Sumiriku; their inventor archetype does not fit well within the pre-industrial setting. Talk with your DM if you wish to play as an Artificer, to create a character concept that would fit within Sumiriku.
-
-}}
-
-\column
-
 ## Bard
 
 Music, rhythm, and stories permeate everything and everyone within Sumiriku; every drop of dew and gust of wind has a note to play or a story to tell. Those that hone their senses to this and help bring these tales to life can tap into a magical power known as Kotodama (言霊), or 'Sacred Sound', to influence the world around them. Musicians, Geishas, Theatre Performers, Painters, Poets, and other storytellers can all access this power through their own artistic methods. These types of artists are most commonly found in major cities, though travelling performers can be found far and wide. Some musicians are even employed on the battlefield; taiko drummers are used to keep the rhythm of war for advancing armies.
+
+{{position:absolute,top:1030px,left:410px,margin-bottom:-30px,text-align:left
+
+##### A Shamisen </br>player
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 2 | CHARACTER OPTIONS}}
+
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
+
+\page
 
 {{note
 
@@ -2561,27 +2588,9 @@ In the Equipment section later in this part is a list of instruments specific to
 
 }}
 
-{{imageMaskCorner20,--offsetX:47%,--offsetY:-42%,--rotation:0
-  ![shamisen](https://i.imgur.com/X7WZbjd.png){position:aboslute,bottom:-1px,right:-140px,height:70%,transform:scaleX(1)}
-}}
+### College of Ink ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:193px,left:55px,width:375px,mix-blend-mode:normal}
 
-{{position:absolute,top:1020px,right:385px,margin-bottom:-30px,text-align:right
-
-##### A Shamisen </br>player
-
-}}
-
-{{pageNumber,auto}}
-{{footnote PART 2 | CHARACTER OPTIONS}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
-
-\page
-
-### College of Ink ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
-
-**TODO - REVISION**
-</br>
+<!-- **TODO - REVISION** -->
 *Create Magic with your Brushstrokes*
 </br>
 The name Sumiriku translates to 'Land of Ink', in reference to the cosmic ink used by the </br>Ō-Hoshikuzushin to draw the islands' shores. Brushwork on canvas, in all its many forms, has always been a sacred and greatly appreciated art, from the elite classes to the common folk. Those that learn of the College of Ink turn their talent with the brush to pure, artistic magic.
@@ -2594,11 +2603,11 @@ You are able to choose the medium of your artistry and your magic. Choose either
 
 The ink of your brush enhances your spellcasting. When you use your medium's tool to cast a spell, you can replace the Verbal components that spell may have with writing or drawing with your brush.
 
-In addition, when you cast a spell that targets a creature or a point within 60 feet of you, you can expend one use of your Bardic Inspiration to create an Ink Zone, either as a line along the ground between yourself and the target or as a 10 foot radius circle on the ground centered on the target. This Ink Zone stays on the ground where it was drawn and lasts for 1 minute. If your medium is Writing, the path is Difficult Terrain, and each creature in contact with the path when it appears must succeed on a Dexterity Saving Throw against your Spell Save DC or have the Prone Condition. If your medium is Painting, creatures can travel 10 feet
+In addition, when you cast a spell that targets a creature or a point within 60 feet of you, you can expend one use of your Bardic Inspiration to create an Ink Zone, either as a line along the ground between yourself and the target or as a 10 foot radius circle on the ground centered on the target. This Ink Zone stays on the ground where it was drawn and lasts for 1 minute. If your medium is Writing, the path is Difficult
 
 \column
 
-within the zone only using 5 feet of movement, and you can grant any number of creatures in contact Temporary Hit Points equal to 1d6 plus your Bard Level.
+Terrain, and each creature in contact with the path when it appears must succeed on a Dexterity Saving Throw against your Spell Save DC or have the Prone Condition. If your medium is Painting, creatures can travel 10 feet within the zone only using 5 feet of movement, and you can grant any number of creatures in contact Temporary Hit Points equal to 1d6 plus your Bard Level.
 
 #### Level 6: Creative Endeavours
 
@@ -2620,31 +2629,30 @@ Your unparalleled mastery of the brush empowers your Ink Zones. If your medium i
 
 <!-- Your unparalleled mastery of the brush empowers your Ink Zones. Whenever a creature starts its turn in a Writing Ink Zone, it must succeed on a Dexterity Saving Throw against your Spell Save DC or have the Prone Condition. Whenever a creature starts its turn in a Painting Ink Zone, you can grant it Temporary Hit Points equal to 1d6 plus your Bard Level. -->
 
-{{position:absolute,top:780px,left:450px,margin-bottom:-30px,align:right
+{{position:absolute,top:785px,left:425px,margin-bottom:-30px,align:center
 
 ##### A Master Ink Painter
 
 }}
 
 {{imageMaskEdge8,--offset:34%,--rotation:0
-  ![ink](https://i.imgur.com/6OpYszC.jpeg){position:aboslute,bottom:-160px,left:-120px,width:130%}
+  ![ink](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Classes%20and%20Subclasses/Ink%20Master%20Painter%20%20(Edit)%20-%20Gabriel%20Gonzalez%20-%20Unknown.jpg){position:aboslute,bottom:-160px,left:-120px,width:130%}
 }}
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-{{imageMaskCorner27,--offsetX:-50%,--offsetY:-46%,--rotation:0
+{{imageMaskCorner27,--offsetX:-50%,--offsetY:-50%,--rotation:0,--scaleY:1.125,--scaleX:1.05
   ![yokai-hunter](https://i.hireillo.com/wp-content/uploads/2023/03/22231049/yokai-hunter-v1-rgb-699x1080.jpg){position:absolute,left:-120px,bottom:-50px,height:75%,transform:scaleX(-1)}
 }}
 
-{{position:absolute,top:520px,left:335px,margin-bottom:-30px,text-align:left
+{{position:absolute,top:1010px,left:400px,margin-bottom:-30px,text-align:left
 
-<!-- ##### A Yōkai</br>Hunter -->
-##### A Yokai</br>Hunter
+##### A Yōkai</br>Hunter
 
 }}
 
@@ -2654,10 +2662,9 @@ In the shadowy corners of the world there exist a select few, who have taken a m
 
 \column
 
-### Order of the Shiftstalkers ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Order of the Shiftstalkers ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
-**TODO - REVISION**
-</br>
+<!-- **TODO - REVISION** -->
 *Transform and Track Yōkai Shapechangers*
 </br>
 To most people, Yōkai seem like nothing more than curious miscreants, mischief makers - few recognise the true danger these otherworldly beings can bring. Dwelling within Kimyōkai, creatures of great power plot and scheme at the downfall of the manifest world and their control over both realms. The world's protection comes from Yokai hunters calling themselves the Shiftstalkers, who have mastered using the Yokai's techniques of disguise, trickery, and manipulation against them.
@@ -2688,7 +2695,7 @@ You can draw power from your Mimic Weapon's blood rather than your own. Once per
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -2698,50 +2705,54 @@ Your bond with your Mimic Weapon increases your awareness of your surroundings. 
 
 #### Level 7: Illusionary Persona
 
-You learn the Yokai magic of disguise and infiltration. You can use your Mimic Weapon to cast the *Alter Self* spell once per Long Rest. When you cast the spell this way you can any number of the options at once, not just one, and the duration of the spell is 8 hours. While taking the appearance of a specific creature, you have Advantage on Charisma (Deception) checks when interacting with said creature and on Wisdom (Survival) checks to track said creature.
+You learn the Yokai magic of disguise and infiltration. You can use your Mimic Weapon to cast the *Alter Self* spell once per Long Rest. When you cast the spell this way you can </br>choose any number of the options at </br>once, not just one, and the duration of </br>the spell is 8 hours. While taking the </br>appearance of a specific creature, you have Advantage on Charisma (Deception) checks when interacting with said creature and on Wisdom (Survival) checks to track said creature.
 
 #### Level 7: Grafted Armament
 
-The bond with your Mimic Weapon grows closer. You can no longer be separated from your Mimic Weapon by any means. As a Bonus Action you can have your Mimic Weapon retreat into your body or have it emerge from you in your hand.
+The bond with your Mimic Weapon grows </br>closer. You can no longer be separated from </br>your Mimic Weapon by any means. As a Bonus Action you can have your Mimic Weapon</br> retreat into your body or have it emerge from you in your hand.
 
 #### Level 13: Repellant Aura
 
-Your disgust to the allures of Yokai emboldens you and your allies. Whenever a creature attempts to Charm you or an ally of you within 30 feet they must make a Wisdom Saving Throw against your Rite Save DC. If the creature fails the Saving Throw the Charm attempt fails, and they take Psychic damage equal to a two roles of your Rite Die.
+Your disgust to the allures of Yokai emboldens you and your allies. Whenever a creature attempts give you or an ally within 30 feet of you the Charmed condition they must make a Wisdom Saving Throw against your Rite Save DC. If the creature fails the Saving Throw the Charm attempt fails, and they take Psychic damage equal to a two roles of your Rite Die.
 
 #### Level 18: Devour Soul
 
 You have learned the most foul of Yokai powers; the ability to feast on a foe's soul. Whenever you deal Fire, Necrotic or Psychic damage with a Crimson Offering on your Mimic Weapon, you restore a number of Hit Points equal to the damage dealt. If your maximum Hit Points have been reduced, you can increase them by the amount restored, up to your original maximum.
 
-\column
+{{note
 
-{{imageMaskCorner16,--offsetX:57%,--offsetY:45%,--rotation:0
-  ![swamp](https://www.originalmagicart.store/cdn/shop/products/AOJIMaiko_003_Swampcopy_5000x.jpg?v=1645691827){position:aboslute,top:-50px,right:-240px,height:70%,transform:scaleX(1),filter:opacity(66%)}
+##### Note: Adapting to 2022 Blood Hunter
+
+This subclass was designed for the Alternate Blood Hunter by LaserLlama. To adapt this subclass to function with the 2022 Blood Hunter by Matt Mercer, change the following:
+
+- Rite Die become Hemocraft Die.
+- Blade of Sinew now lets you amplify a Blood Curse without taking damage once per Long Rest.
+- Devour Soul applies to your Crimson Rite damage rather than your Crimson Offering damage.
+
 }}
 
-![oni-girl-shadow](https://i.imgur.com/VWlzFnV.png) {position:absolute,top:155px,right:-120px,width:390px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.2)skewX(-25deg),mix-blend-mode:multiply}
+\column
 
-![oni-girl](https://i.imgur.com/VWlzFnV.png) {position:absolute,right:0px,top:-35px,width:390px,margin-bottom:-25px,filter:brightness(95%),opacity:100%,mix-blend-mode:normal,transform:scaleX(1)}
+{{imageMaskCorner27,--offsetX:50%,--offsetY:50%,--rotation:0,,--scaleY:1.65
+  ![swamp](https://www.originalmagicart.store/cdn/shop/products/AOJIMaiko_003_Swampcopy_5000x.jpg?v=1645691827){position:aboslute,top:-1px,right:-140px,height:90%,transform:scaleX(1),filter:opacity(66%)}
+}}
 
-{{position:absolute,top:330px,right:305px,margin-bottom:-30px,text-align:right
+![oni-girl-shadow](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Classes%20and%20Subclasses/%E6%B7%B7%E6%B2%8C%E6%AD%A6%E5%A3%AB%20(Oni%20Girl)%20(Edit)%20-%20Hou%20China%20-%20chinahou.artstation.com%2Bprojects%2BOm8Xay.png) {position:absolute,top:270px,right:-260px,width:575px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.2)skewX(-25deg),mix-blend-mode:multiply}
 
-##### A Oni-cursed </br>Human with a </br>Tsukumogami </br>weapon
+![oni-girl](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Classes%20and%20Subclasses/%E6%B7%B7%E6%B2%8C%E6%AD%A6%E5%A3%AB%20(Oni%20Girl)%20(Edit)%20-%20Hou%20China%20-%20chinahou.artstation.com%2Bprojects%2BOm8Xay.png) {position:absolute,right:-80px,top:-10px,width:575px,margin-bottom:-25px,filter:brightness(95%),opacity:100%,mix-blend-mode:normal,transform:scaleX(1)}
+
+{{position:absolute,top:950px,left:225px,margin-bottom:-30px,text-align:center
+
+##### A Oni-cursed Human with </br>a Tsukumogami weapon
 
 }}
 
 ::::::::::::::::::::::::::::::::::
 
-{{note
-
-##### Note: Adapting to Original Blood Hunter
-
-**TODO - NOT STARTED**
-
-}}
-
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -2749,15 +2760,15 @@ You have learned the most foul of Yokai powers; the ability to feast on a foe's 
 
 **TODO - NOT STARTED**
 
-{{imageMaskCorner28,--offsetX:-52%,--offsetY:-50%,--rotation:0
-  ![shrine](https://data.ukiyo-e.org/jaodb/images/Kawase_Hasui-Shinto_and_its_Architecture-Yasukuni_Shrine_Tokyo-00043700-120311-F12.jpg){position:absolute,left:-200px,bottom:-250px,height:90%,transform:scaleX(1)}
+{{imageMaskCorner28,--offsetX:-56%,--offsetY:-50%,--rotation:0
+  ![shrine](https://data.ukiyo-e.org/jaodb/images/Kawase_Hasui-Shinto_and_its_Architecture-Yasukuni_Shrine_Tokyo-00043700-120311-F12.jpg){position:absolute,left:-225px,bottom:-250px,height:95%,transform:scaleX(1)}
 }}
 
-![miko-shadow](https://i.imgur.com/LV1E25m.png) {position:absolute,bottom:-190px,left:-125px,width:450px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(-1)scaleY(0.2)skewX(-25deg),mix-blend-mode:multiply}
+![miko-shadow](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Classes%20and%20Subclasses/Shaman%20(Atlantica%20Online)%20(Edit)%20-%20Unknown.png) {position:absolute,bottom:-190px,left:-125px,width:450px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(-1)scaleY(0.2)skewX(-25deg),mix-blend-mode:multiply}
 
-![miko](https://i.imgur.com/LV1E25m.png) {position:absolute,left:-10px,bottom:60px,width:450px,margin-bottom:-25px,filter:brightness(95%),opacity:100%,mix-blend-mode:normal,transform:scaleX(-1)}
+![miko](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Classes%20and%20Subclasses/Shaman%20(Atlantica%20Online)%20(Edit)%20-%20Unknown.png) {position:absolute,left:-10px,bottom:60px,width:450px,margin-bottom:-25px,filter:brightness(95%),opacity:100%,mix-blend-mode:normal,transform:scaleX(-1)}
 
-{{position:absolute,top:1050px,left:400px,margin-bottom:-30px
+{{position:absolute,top:960px,left:350px,margin-bottom:-30px
 
 ##### A Miko
 
@@ -2765,7 +2776,7 @@ You have learned the most foul of Yokai powers; the ability to feast on a foe's 
 
 \column
 
-### Duality Domain ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Duality Domain ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED**
 </br>
@@ -2807,11 +2818,11 @@ Your connection to this divine domain ensures you always have certain spells rea
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-### Sea Domain ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Sea Domain ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 **TODO - UNFINISHED**
 </br>
@@ -2852,7 +2863,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 \column
 
-### Sky Domain ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Sky Domain ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 **TODO - UNFINISHED**
 </br>
@@ -2894,12 +2905,12 @@ Your connection to this divine domain ensures you always have certain spells rea
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
 {{imageMaskCorner21,--offsetX:-53%,--offsetY:50%,--rotation:0
-  ![druid](https://i.imgur.com/j21G2eG.jpeg){position:aboslute,top:-1px,left:-20px,height:50%,transform:scaleX(-1)}
+  ![druid](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5246e0e3-fe8a-4fdb-9c31-4741f3509015/d947vc3-c3ff87bb-6340-4461-8878-63bc4269e789.jpg/v1/fit/w_828,h_1054,q_70,strp/san_and_the_wolves_by_changinghand_d947vc3-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU5MSIsInBhdGgiOiIvZi81MjQ2ZTBlMy1mZThhLTRmZGItOWMzMS00NzQxZjM1MDkwMTUvZDk0N3ZjMy1jM2ZmODdiYi02MzQwLTQ0NjEtODg3OC02M2JjNDI2OWU3ODkuanBnIiwid2lkdGgiOiI8PTEyNTAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.FViJh7dBsvze94CnnVOeHbXFPT-hte3bQ4UweqnNnjc){position:aboslute,top:-1px,left:-20px,height:50%,transform:scaleX(-1)}
 }}
 
 {{position:absolute,top:540px,left:265px,margin-bottom:-30px
@@ -2908,7 +2919,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 }}
 
-::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::
 
 ## Druid
 
@@ -2916,7 +2927,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 \column
 
-### Circle of Blossoms ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Circle of Blossoms ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 **TODO - REVISION**
 </br>
@@ -2956,7 +2967,7 @@ You are surrounded by flowing petals that give swiftness to your steps. While th
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -2968,7 +2979,7 @@ Your plants can hinder as well as heal. Whenever you use your Healing Bloom feat
 
 You have perfected your ability to nurture your magical garden. Whenever you use your Healing Bloom feature, you create two Blooms instead of one.
 
-### Circle of Disaster ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:411px,left:55px,width:375px,mix-blend-mode:normal}
+### Circle of Disaster ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:394px,left:55px,width:375px,mix-blend-mode:normal}
 
 **TODO - REVISION**
 </br>
@@ -2991,10 +3002,6 @@ Whenever you finish a Long Rest, choose one type of disaster: earthquake, erupti
 | 7           | *Stoneskin*                                                     |
 | 9           | *Transmute Rock<sup>XGE</sup>*                                  |
 
-}}
-
-{{#small-text-table
-
 ##### Eruption
 
 | Druid Level | Prepared Spells                           |
@@ -3003,10 +3010,6 @@ Whenever you finish a Long Rest, choose one type of disaster: earthquake, erupti
 | 5           | *Melf's Minute Meteors<sup>XGE</sup>*     |
 | 7           | *Fire Shield*                             |
 | 9           | *Immolation<sup>XGE</sup>*                |
-
-}}
-
-{{#small-text-table
 
 ##### Tsunami <!-- None of these deal cold damage reeeeeeeeeee -->
 
@@ -3021,7 +3024,7 @@ Whenever you finish a Long Rest, choose one type of disaster: earthquake, erupti
 
 \column
 
-:::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::
 
 {{#small-text-table
 
@@ -3052,11 +3055,11 @@ Whenever you finish a Long Rest, choose one type of disaster: earthquake, erupti
 
 ??? <!-- Earthquake, Incendiary Cloud, Tsunami, Whirlwind<sup>XGE</sup> -->
 
-{{imageMaskCorner18,--offsetX:62%,--offsetY:45%,--rotation:0
-  ![pyromancy](https://i.imgur.com/MxTTme9.jpg){position:absolute,top:-1px,right:-250px,width:100%}
+{{imageMaskCorner21,--offsetX:53%,--offsetY:50%,--rotation:0
+  ![pyromancy](https://cdna.artstation.com/p/assets/images/images/046/782/344/large/liiga-smilshkalne-es14a.jpg){position:absolute,top:-1px,right:-250px,width:100%}
 }}
 
-{{position:absolute,top:510px,left:420px,margin-bottom:-30px,text-align:left
+{{position:absolute,top:520px,left:400px,margin-bottom:-30px,text-align:left
 
 ##### A Circle of </br>Disaster Druid </br>channels volcanic energy
 
@@ -3065,7 +3068,7 @@ Whenever you finish a Long Rest, choose one type of disaster: earthquake, erupti
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -3073,7 +3076,7 @@ Whenever you finish a Long Rest, choose one type of disaster: earthquake, erupti
 
 **TODO - NOT STARTED**
 
-### Tempest Blade ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:125px,left:55px,width:375px,mix-blend-mode:normal}
+### Tempest Blade ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:125px,left:55px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED**
 </br>
@@ -3105,7 +3108,7 @@ Whenever you finish a Long Rest, choose one type of disaster: earthquake, erupti
 
 **TODO - NOT STARTED**
 
-### Way of the Raging Demon ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:504px,left:55px,width:375px,mix-blend-mode:normal}
+### Way of the Raging Demon ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:500px,left:55px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED**
 </br>
@@ -3135,7 +3138,7 @@ Whenever you finish a Long Rest, choose one type of disaster: earthquake, erupti
 
 **TODO - NOT STARTED**
 
-### Oath of Bushidō ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:125px,left:400px,width:375px,mix-blend-mode:normal}
+### Oath of Bushidō ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:125px,left:400px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED**
 </br>
@@ -3163,7 +3166,7 @@ Whenever you finish a Long Rest, choose one type of disaster: earthquake, erupti
 
 **TODO - NOT STARTED**
 
-### Spirit Trainer ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:459px,left:400px,width:375px,mix-blend-mode:normal}
+### Spirit Trainer ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:455px,left:400px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED**
 </br>
@@ -3190,14 +3193,14 @@ Whenever you finish a Long Rest, choose one type of disaster: earthquake, erupti
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -3205,7 +3208,7 @@ Whenever you finish a Long Rest, choose one type of disaster: earthquake, erupti
 
 **TODO - NOT STARTED**
 
-### Dagger Dancer ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:125px,left:55px,width:375px,mix-blend-mode:normal}
+### Dagger Dancer ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:125px,left:55px,width:375px,mix-blend-mode:normal}
 
 **TODO - REVISION**
 </br>
@@ -3229,7 +3232,7 @@ Your footwork keeps your enemies on their toes. Your movement no longer provokes
 
 \column
 
-{{imageMaskCorner12,--offsetX:51%,--offsetY:42%,--rotation:0
+{{imageMaskCorner12,--offsetX:50%,--offsetY:42%,--rotation:0,revealI
   ![dagger-dancer](https://i.imgur.com/Gu7CTCn.png){position:aboslute,top:-70px,right:-100px,width:60%,transform:scaleX(1),filter:opacity(100%)}
 }}
 
@@ -3243,7 +3246,7 @@ Your footwork keeps your enemies on their toes. Your movement no longer provokes
 
 }}
 
-:::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::
 
 #### Level 13: Double Time
 
@@ -3262,7 +3265,7 @@ This state lasts for 1 minute, or until you lose your concentration (as if you w
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -3270,7 +3273,7 @@ This state lasts for 1 minute, or until you lose your concentration (as if you w
 
 **TODO - NOT STARTED**
 
-### Soulflame Sorcery ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:125px,left:55px,width:375px,mix-blend-mode:normal}
+### Soulflame Sorcery ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:125px,left:55px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED**
 </br>
@@ -3298,7 +3301,7 @@ This state lasts for 1 minute, or until you lose your concentration (as if you w
 
 **TODO - NOT STARTED**
 
-### Dragonlord Patron ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:459px,left:55px,width:375px,mix-blend-mode:normal}
+### Dragonlord Patron ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:456px,left:55px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED**
 </br>
@@ -3326,7 +3329,7 @@ This state lasts for 1 minute, or until you lose your concentration (as if you w
 
 **TODO - NOT STARTED**
 
-### Astrologer ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:795px,left:55px,width:375px,mix-blend-mode:normal}
+### Astrologer ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:786px,left:55px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED**
 </br>
@@ -3356,14 +3359,14 @@ This state lasts for 1 minute, or until you lose your concentration (as if you w
 
 }}
 
-![mage-girl-shadow](https://i.imgur.com/ujAxzyV.png) {position:absolute,top:350px,right:-75px,width:300px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.2)skewX(-25deg),mix-blend-mode:multiply}
+![mage-girl-shadow](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Classes%20and%20Subclasses/%E6%8D%89%E5%A6%96%E5%B8%88%20(Mage%20Girl)%20-%20%E9%98%BF%20%E7%91%B6%20-%20artstation.com%2Bartwork%2Bw0XoKY.png) {position:absolute,top:350px,right:-75px,width:300px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.2)skewX(-25deg),mix-blend-mode:multiply}
 
-![mage-girl](https://i.imgur.com/ujAxzyV.png) {position:absolute,right:-0px,top:-0px,width:400px,margin-bottom:-25px,filter:brightness(95%),opacity:100%,mix-blend-mode:normal,transform:scaleX(1)}
+![mage-girl](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Classes%20and%20Subclasses/%E6%8D%89%E5%A6%96%E5%B8%88%20(Mage%20Girl)%20-%20%E9%98%BF%20%E7%91%B6%20-%20artstation.com%2Bartwork%2Bw0XoKY.png) {position:absolute,right:-0px,top:-0px,width:400px,margin-bottom:-25px,filter:brightness(95%),opacity:100%,mix-blend-mode:normal,transform:scaleX(1)}
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -3391,16 +3394,6 @@ To create a custom background, make your own choice of three Ability Scores, two
 
 }}
 
-{{imageMaskEdge1,--offset:32%,--rotation:0
-  ![writing](https://orientalsouls.com/wp-content/uploads/2018/09/Famous01.jpg){position:absolute,bottom:-0px,left:-1px,width:101%}
-}}
-
-{{position:absolute,top:790px,left:610px,margin-bottom:-30px
-
-##### An example of</br> Sumirikugo writing
-
-}}
-
 \column
 
 ## Languages
@@ -3411,10 +3404,20 @@ Sumiriku Sign Language is a language that characters can start with or learn, an
 
 On the next page is a table with all Languages known across Sumiriku. Sumirikugo (Common) is known by all characters, and each character gets one additional language.
 
+{{imageMaskEdge1,--offset:37.5%,--rotation:0,--scaleY:0.75
+  ![writing](https://orientalsouls.com/wp-content/uploads/2018/09/Famous01.jpg){position:absolute,bottom:-0px,left:-1px,width:101%}
+}}
+
+{{position:relative,top:10px,left:0px,margin-bottom:-30px,text-align:center
+
+##### An example of Sumirikugo writing
+
+}}
+
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -3432,26 +3435,26 @@ On the next page is a table with all Languages known across Sumiriku. Sumirikugo
 | Kimyōkaigo             | A language learned by the creatures from Kimyōkai, the Yōkai realm. The Obake, Kappa, and Akki are likely to be taught this language from birth, given their connection to said realm. |
 | Ryūgo                  | The language that was introduced to Sumiriku by the Dragon-Kami. Often the first language learned by the Ryūson. |
 | Saruruigo              | A language developed by the Masaru people, utilising cries and other sounds specific to their unique vocal chords. It's believed that this language helps them communicate with other, not-sapient simians. |
+| Shingo                 | The first language of Sumiriku, taught by the deities and known by other holy beings. Devout followers may also come to learn this language. |
 
 }}
 
-{{imageMaskCorner19,--offsetX:53%,--offsetY:55%,--rotation:0
-  ![scholar](https://64.media.tumblr.com/f3483504dc7926d62b7af96e6809cb8e/tumblr_o41ke948ll1vn68joo1_1280.jpg){position:aboslute,top:-30px,right:-140px,width:100%}
+{{imageMaskCorner14,--offsetX:50%,--offsetY:50%,--rotation:0,--scaleY:1.15,--scaleX:1.15
+  ![scholar](https://64.media.tumblr.com/f3483504dc7926d62b7af96e6809cb8e/tumblr_o41ke948ll1vn68joo1_1280.jpg){position:aboslute,top:-30px,right:-140px,width:110%}
 }}
 
-{{position:absolute,top:400px,right:270px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:550px,left:175px,margin-bottom:-30px,text-align:center
 
-##### A Scholar reviews </br> documents in </br> many languages
+##### A Scholar reviews documents</br>in many languages
 
 }}
 
-:::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::
 
 {{#default-table
 
 | Language               | Description             |
 |:-----------------------|:------------------------|
-| Shingo                 | The first language of Sumiriku, taught by the deities and known by other holy beings. Devout followers may also come to learn this language. |
 | Shīsāgo                | The native language of the peoples of Sairikudō, the collection of northern islands. Commonly associated with Bunagaya, the species of people uniquely native to there. |
 | Shizengo               | A set of ancient words and secretive symbols, used only by those in harmony with the forest. The replacement language for Druidic. |
 | Sumiriku Sign Language | A language that communicates entirely with hand gestures, rather than with one's voice. Taught to help communication between those who are deaf, mute, or hard of hearing. |
@@ -3463,13 +3466,13 @@ On the next page is a table with all Languages known across Sumiriku. Sumirikugo
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
 ## Background Options
 
-### Carpenter ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:97px,left:55px,width:375px,mix-blend-mode:normal}
+### Carpenter ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:95px,left:55px,width:375px,mix-blend-mode:normal}
 
 **Ability Scores:**    :: Strength, Wisdom, Intelligence
 **Feat:**              :: Crafter
@@ -3487,7 +3490,7 @@ A Ono is a hand axe used for carpentry, but is useful in a pinch as a weapon. Se
 
 }}
 
-### Diplomat ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:520px,left:55px,width:375px,mix-blend-mode:normal}
+### Diplomat ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:497px,left:55px,width:375px,mix-blend-mode:normal}
 
 **Ability Scores:**    :: Dexterity, Intelligence, Charisma
 **Feat:**              :: Skilled
@@ -3515,7 +3518,7 @@ Igo (囲碁) is a board game about surrounding territory played with black and w
 
 }}
 
-### Geisha ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:300px,left:400px,width:375px,mix-blend-mode:normal}
+### Geisha ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:290px,left:400px,width:375px,mix-blend-mode:normal}
 
 **Ability Scores:**    :: Dexterity, Intelligence, Charisma
 **Feat:**              :: Musician
@@ -3533,11 +3536,11 @@ A Kimono is a type of traditional garment worn by many people, of which Geisha w
 
 }}
 
-{{imageMaskEdge1,--offset:32%,--rotation:0
-  ![geisha](https://cdn.myportfolio.com/146258a1-c5b4-4a64-a44a-93bc9a102f02/7e4fb85e-dc3a-4835-8d3f-041bff0974a9_rw_1920.jpg?h=164f3a46e8d2295915e706538a409d6e){position:absolute,bottom:-1px,left:-1px,width:101%}
+{{imageMaskEdge1,--offset:32.5%,--rotation:0,--scaleY:0.75
+  ![geisha](https://cdn.myportfolio.com/146258a1-c5b4-4a64-a44a-93bc9a102f02/7e4fb85e-dc3a-4835-8d3f-041bff0974a9_rw_1920.jpg?h=164f3a46e8d2295915e706538a409d6e){position:absolute,bottom:-1px,left:-150px,width:125%}
 }}
 
-{{position:absolute,top:810px,left:300px,margin-bottom:-30px
+{{position:absolute,top:740px,left:0px,margin-bottom:-30px,text-align:center
 
 ##### A Geisha walks a city street
 
@@ -3546,13 +3549,13 @@ A Kimono is a type of traditional garment worn by many people, of which Geisha w
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-:::::::::::::::::::::::
+::::::::::::::::::::::::::::::::
 
-### Rōnin ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:394px,left:55px,width:375px,mix-blend-mode:normal}
+### Rōnin ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:498px,left:55px,width:375px,mix-blend-mode:normal}
 
 **Ability Scores:**    :: Strength, Dexterity, Wisdom
 **Feat:**              :: Tavern Brawler
@@ -3562,7 +3565,7 @@ A Kimono is a type of traditional garment worn by many people, of which Geisha w
 
 A former Samurai now with no master, you have taken to a life of wandering the lands of Sumiriku. Disgraced by abandoning your former code, you drift through the world looking for purpose, perhaps searching for those in need or selling your services as a mercenary.
 
-### Samurai  ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:695px,left:55px,width:375px,mix-blend-mode:normal}
+### Samurai  ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:768px,left:55px,width:375px,mix-blend-mode:normal}
 
 **Ability Scores:**    :: Strength, Constitution, Charisma
 **Feat:**              :: Savage Attacker Updated
@@ -3574,17 +3577,17 @@ You are the hand through which the will of your Daimyō is done. Being among the
 
 \column
 
-{{imageMaskEdge1,--offset:26%,--rotation:180
-  ![ronin](https://cdnb.artstation.com/p/assets/images/images/069/171/367/4k/jason-scheier-14d.jpg?1699490193){position:absolute,top:-80px,left:-1px,width:101%}
+{{imageMaskEdge1,--offset:30%,--rotation:180,--scaleY:0.5
+  ![ronin](https://cdnb.artstation.com/p/assets/images/images/069/171/367/4k/jason-scheier-14d.jpg?1699490193){position:absolute,top:-1px,left:-1px,width:101%}
 }}
 
-{{position:absolute,top:375px,left:300px,margin-bottom:-30px
+{{position:absolute,top:450px,left:0px,margin-bottom:-30px,text-align:center
 
 ##### A Ronin wanders a forest alone
 
 }}
 
-::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::
 
 {{note
 
@@ -3594,7 +3597,7 @@ Refer to Appendix B for updated Feats, changed for this book.
 
 }}
 
-### Shinobi ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:540px,left:400px,width:375px,mix-blend-mode:normal}
+### Shinobi ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:625px,left:400px,width:375px,mix-blend-mode:normal}
 
 **Ability Scores:**    :: Dexterity, Intelligence, Wisdom
 **Feat:**              :: Dungeon Delver Updated
@@ -3615,11 +3618,11 @@ Shinobi typically wear many layers of wraps, often in earthen tones, to help the
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-### Shrine Keeper ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Shrine Keeper ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 **Ability Scores:**    :: Dexterity, Wisdom, Charisma
 **Feat:**              :: Magic Initiate (Cleric)
@@ -3631,25 +3634,27 @@ Shrines dedicated to the praise and worship of their Kami can be found all acros
 
 {{note
 
-##### Note: Daido Practices
+##### Note: Daidō Practices
 
 At a shrine the responsibility of maintenance and of hosting ceremonies falls on an officiant called a Kannushi (神主, 'Kami Master'), alongside the assistance of Miko (巫女, 'Shrine Maiden'). See the next section for information about the items used for these ceremonies.
 
 }}
 
-{{imageMaskEdge1,--offset:18.5%,--rotation:0
-  ![daido](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/77994871-b0ec-4e58-9593-7f996138184e/deccjod-70da74a1-8075-4d4f-b230-42310fdad680.jpg/v1/fill/w_1219,h_656,q_70,strp/shinto_shrine_by_sanyulmi_deccjod-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAzMyIsInBhdGgiOiJcL2ZcLzc3OTk0ODcxLWIwZWMtNGU1OC05NTkzLTdmOTk2MTM4MTg0ZVwvZGVjY2pvZC03MGRhNzRhMS04MDc1LTRkNGYtYjIzMC00MjMxMGZkYWQ2ODAuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.P-Hw8LGArrXswnRs3cyaYqYJKHYjKj-3zgF0Fr6MkRk){position:absolute,bottom:-1px,left:-1px,width:101%}
+{{imageMaskEdge1,--offset:35%,--rotation:0,--scaleY:0.5
+  ![daidō](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Backgrounds/Shinto%20Shrine%20-%20Sanyulmi%20-%20deviantart.com%2Bsanyulmi%2Bart%2BShinto-Shrine-867267229.jpg){position:absolute,bottom:-1px,left:-1px,width:101%}
 }}
 
-{{position:absolute,top:680px,left:360px,margin-bottom:-30px
+![patch](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Patch.png) {position:absolute,top:630px,left:270px,width:100px,mix-blend-mode:normal}
 
-##### A Daido shrine
+{{position:absolute,top:675px,left:00px,margin-bottom:-30px,text-align:center
+
+##### A Daidō shrine
 
 }}
 
 \column
 
-### Swordsmith ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Swordsmith ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 **Ability Scores:**    :: Strength, Wisdom, Intelligence
 **Feat:**              :: Crafter
@@ -3659,7 +3664,7 @@ At a shrine the responsibility of maintenance and of hosting ceremonies falls on
 
 For war to continue raging clans need armies, armies need soldiers, and soldiers need swords. You have been trained in the skill of forging blades of steel, elegant yet dangerous weapons. Perhaps you have decided to leave the forging of weapons behind to take up one of your own, or maybe you seek forgiveness for creating the tools to take life.
 
-### Theatre Performer ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:382px,left:400px,width:375px,mix-blend-mode:normal}
+### Theatre Performer ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:367px,left:400px,width:375px,mix-blend-mode:normal}
 
 **Ability Scores:**    :: Dexterity, Wisdom, Charisma
 **Feat:**              :: Actor Updated
@@ -3672,23 +3677,25 @@ You have been trained in one of Sumiriku's theatre traditions, a historic yet ev
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-{{imageMaskEdge1,--offset:21%,--rotation:180
-  ![mountain-path](https://i.imgur.com/uzOHbmP.jpeg){position:absolute,top:-75px,width:101%}
+{{imageMaskEdge1,--offset:28%,--rotation:180,--scaleY:0.5
+  ![mountain-path](https://pbs.twimg.com/media/FuDnn7xX0AEsgL_?format=jpg&name=large){position:absolute,top:-35px,width:101%}
 }}
 
-{{position:absolute,top:400px,left:250px,margin-bottom:-30px
+![patch](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Patch.png) {position:absolute,bottom:595px,right:275px,width:100px,mix-blend-mode:normal}
+
+{{position:absolute,top:440px,left:0px,margin-bottom:-30px,text-align:center
 
 ##### The path of a Yamabushi
 
 }}
 
-::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::
 
-### Yakuza ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:437px,left:55px,width:375px,mix-blend-mode:normal}
+### Yakuza ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:485px,left:55px,width:375px,mix-blend-mode:normal}
 
 **Ability Scores:**    :: Dexterity, Constitution, Charisma
 **Feat:**              :: Lucky Updated
@@ -3708,9 +3715,9 @@ Hanafuda (花札, 'Flower Cards') are a type of playing cards used for a variety
 
 \column
 
-::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::
 
-### Yamabushi ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:437px,left:400px,width:375px,mix-blend-mode:normal}
+### Yamabushi ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:485px,left:400px,width:375px,mix-blend-mode:normal}
 
 **Ability Scores:**    :: Dexterity, Constitution, Wisdom
 **Feat:**              :: Tough
@@ -3739,21 +3746,21 @@ A Shakujō (錫杖) is a staff topped with a metal loop, with smaller metal ring
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-{{imageMaskCorner18,--offsetX:-62%,--offsetY:40%,--rotation:0
+{{imageMaskCorner18,--offsetX:-62%,--offsetY:50%,--rotation:0,--scaleY:1.2
   ![katana](https://www.hipstersofthecoast.com/wp-content/uploads/2022/03/MV-Scan.jpg){position:absolute,top:-1px,left:-320px,width:100%}
 }}
 
-{{position:absolute,top:600px,left:75px,margin-bottom:-30px,text-align:left
+{{position:absolute,top:590px,left:50px,margin-bottom:-30px,text-align:left
 
 ##### A Katana marks a grave at a mountaintop
 
 }}
 
-{{#right-text
+{{#right-column
 
 # Weapons, Armour, and Equipment
 
@@ -3761,11 +3768,11 @@ A Shakujō (錫杖) is a staff topped with a metal loop, with smaller metal ring
 
 ::::::::::::::::::::::::::::::::::::
 
-### Weapon Tables ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:658px,left:55px,width:375px,mix-blend-mode:normal}
+### Weapon Tables ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:664px,left:55px,width:375px,mix-blend-mode:normal}
 
 \column
 
-:::::
+::::::::
 
 ## Weapons
 
@@ -3814,7 +3821,7 @@ The Weapon Mastery prerequisites show which Masteries are applicable to which we
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -3847,8 +3854,9 @@ The Weapon Mastery prerequisites show which Masteries are applicable to which we
 | Hinawajū    | 1d12 Piercing    | Ammunition (Range 100/400), Firearm, Loading, Two-Handed   | Push    |
 
 }}
+:
 
-### Weapon Properties ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:526px,left:55px,width:375px,mix-blend-mode:normal}
+### Weapon Properties ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:510px,left:55px,width:375px,mix-blend-mode:normal}
 
 #### Chain Weapon
 
@@ -3864,6 +3872,8 @@ You are required to gain a separate proficiency in Firearms in addition to a pro
 
 \column
 
+:
+
 #### Protective Fan
 
 When you attack with a weapon with the Protective Fan property, or as a Bonus Action while using a weapon with said property, you can change the weapon from closed to open or vice versa. While open, the weapon instead deals 1d4 Slashing damage, but grants you an additional +1 AC. You must be proficient in this weapon to gain this bonus.
@@ -3872,7 +3882,7 @@ When you attack with a weapon with the Protective Fan property, or as a Bonus Ac
 
 When you hit with a weapon that has the Strong-Draw property, you can add 1 plus half your Strength modifier (rounded down) to the damage.
 
-### Weapon Masteries ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:800px,left:400px,width:375px,mix-blend-mode:normal}
+### Weapon Masteries ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:772px,left:400px,width:375px,mix-blend-mode:normal}
 
 #### Cross
 
@@ -3883,11 +3893,11 @@ If you use the Attack action and hit a creature with a Melee Attack using this w
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-### Weapon Descriptions ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Weapon Descriptions ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 #### Bō (棒)
 
@@ -3931,16 +3941,16 @@ Axe can be translated to 'Ono' (斧) or 'Fuetsu' (斧鉞)
 
 Made in the same style as other Sumiriku swords, the small size of the Tantō makes it more intended to be used as a dagger. Tantō are frequently carried by Samurai as a complement to their main weapon, to be used in situations where a larger weapon would be too cumbersome to use effectively or would not be allowed, but the Wakizashi has somewhat supplanted the Tantō for this role. Yoroi-dōshi and Kabutowari are similar weapons to the Tantō, and are designed specifically to penetrate and break armour. Women often carry a concealed Tantō called a Kaiken for self-defence.
 
-{{pageNumber,auto}}
-{{footnote PART 2 | CHARACTER OPTIONS}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
-
-\page
-
 #### Te Yari (手槍)
 
 A straight-headed spear with a shorter staff, often wrapped in rope. Used to protect from home invasion and a weapon of the police, its smaller size and streamlined shape also make it a more practical throwing weapon.
+
+{{pageNumber,auto}}
+{{footnote PART 2 | CHARACTER OPTIONS}}
+
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
+
+\page
 
 #### Fukiya (吹き矢)
 
@@ -3953,8 +3963,6 @@ A shorter form of the Yumi, or Bow, used to fire arrows known as Ya. Notable for
 #### Shuriken (手裏剣)
 
 A concealed blade weapon, either in the shape of flat discs of sharp metal or small darts. Their aerodynamic shape makes them excellent thrown weapons, able to create distractions or quietly take out targets from out of sight. Flat disc Shuriken, or Hira Shuriken, are also often known as throwing stars because of this. Despite this they are also useful tools in close quarters combat, and their small size and light weight makes it possible to hide and carry many on one's person for quick access. These traits make Shuriken common weapons of the Ninja, great for stealthy assassinations. Seeing a Shuriken out of place should fill you with fear, as you can be sure someone is watching you from the shadows.
-
-\column
 
 #### Jitte (十手)
 
@@ -3972,16 +3980,16 @@ Appendix E contains real-world photos and reference images for each of the weapo
 
 }}
 
-{{pageNumber,auto}}
-{{footnote PART 2 | CHARACTER OPTIONS}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
-
-\page
-
 #### Katana (刀)
 
 If there is one weapon which Sumiriku will be known for, it is the Katana. A Katana is characterised by a curved, single-edged blade, typically 60 to 80 cm long, with a circular or squared guard and long grip to accommodate two hands, though some chose to wield one with a single hand. Katanas are the most common weapon for a Samurai to use, as it is a weapon equally as useful in a castle as on a battlefield, but many Rōnin and warrior monks also gravitate to the weapon. The light-weight build and sleek shape also make it a weapon equally useful for those who fight with pure might and those who fight with swiftness and finesse. A Katana is held at the side sharp edge pointed upward, often alongside a Wakizashi, the pair of which is called a Daishō. A well forged and decorated Katana or Daishō is considered a signifier of high status for a Samurai and a true dedication to the craft for a swordsmith. The most famous Katana is one of the Starlight Regalia and former blade of Yūkan-sama, Kūshokiri.
+
+{{pageNumber,auto}}
+{{footnote PART 2 | CHARACTER OPTIONS}}
+
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
 
 #### Kusarigama (鎖鎌)
 
@@ -4058,14 +4066,14 @@ A more common real-world name for Hinawajū is Tanegashima (種子島), named af
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -4112,11 +4120,11 @@ Details for each Armour have been moved into their own Armour Properties, such a
 
 <!-- ![armour](https://cdnb.artstation.com/p/assets/images/images/029/297/109/4k/mitch-mohrhauser-jin-broken-armor-ranks-1.jpg?1597092452){position:absolute,bottom:-60px,left:-20px,width:100%,mix-blend-mode:multiply,transform:scaleX(-1)} -->
 
-{{imageMaskCorner27,--offsetX:-55%,--offsetY:-55%,--rotation:0
-  ![armour](https://preview.redd.it/t4e8x735tld61.jpg?width=640&crop=smart&auto=webp&s=d1c4d3bbd4fb7219d49fcdd50aa03beb207f4dc0){position:absolute,bottom:-100px,left:-1px,height:60%,mix-blend-mode:multiply,transform:scaleX(-1)}
+{{imageMaskCorner27,--offsetX:-50%,--offsetY:-55%,--rotation:0
+  ![armour](https://cdna.artstation.com/p/assets/images/images/029/294/226/large/mitch-mohrhauser-early-sakai-armor-1.jpg){position:absolute,bottom:-90px,left:-40px,height:55%,mix-blend-mode:multiply,transform:scaleX(-1)}
 }}
 
-{{position:absolute,top:1050px,left:335px,margin-bottom:-30px
+{{position:absolute,top:1040px,left:385px,margin-bottom:-30px
 
 ##### Samurai</br> armour
 
@@ -4124,9 +4132,9 @@ Details for each Armour have been moved into their own Armour Properties, such a
 
 \column
 
-:
+::
 
-### Armour Properties ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:691px,left:400px,width:375px,mix-blend-mode:normal}
+### Armour Properties ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:687px,left:400px,width:375px,mix-blend-mode:normal}
 
 #### Bulky
 
@@ -4149,7 +4157,7 @@ You require training in Traditional items in addition to Armour and Shield Train
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -4159,13 +4167,13 @@ Despite the violence that rages all around, Sumiriku is still also known for its
 </br>
 **TODO - ADD MORE CATEGORIES**
 
-### Carpenter's Tools ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:232px,left:55px,width:375px,mix-blend-mode:normal}
+### Carpenter's Tools ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:228px,left:55px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED**
 
 <!-- ADD THESE TO EQUIPMENT SECTION - (with Ryoba (両刃, 'Dual Edge') and Kanna (鉋, 'Plane')) -->
 
-### Gaming Sets ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:292px,left:55px,width:375px,mix-blend-mode:normal}
+### Gaming Sets ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:287px,left:55px,width:375px,mix-blend-mode:normal}
 
 #### Hanafuda
 
@@ -4182,19 +4190,19 @@ Igo (囲碁) is a traditional board game, brought to Sumiriku from the foreign n
 
 \column
 
-### Holy Symbols ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Holy Symbols ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 Kannushi and Miko each have special dress and tools, and are involved in the performances and blessings that occur at the shrine. They use a ceremonial wooden wand decorated with paper streamers called Shide as part of these rituals; with two streamers the wand is called a Gohei and with many it is called an Ōnusa. Plucking a sacred Shortbow is involved in many ceremonies, as it is believed that the sound of the string is enough to scare away Oni. Tamagashi are bundles of tree branches used as offerings. Ofuda are paper talismans, used to write down people's prayers to the Kami or for storing spells.
 </br>**TODO - REVISION**
 
-### Instruments ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:375px,left:400px,width:375px,mix-blend-mode:normal}
+### Instruments ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:361px,left:400px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED**
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -4214,7 +4222,7 @@ Feats are divided into multiple types. Origin Feats are chosen as part of a Back
 
 ## Species Feats
 
-### Soul Illuminate ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:641px,left:55px,width:375px,mix-blend-mode:normal}
+### Soul Illuminate ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:606px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Species Feat (Prerequisite: Level 4+, Nekotaiyō*)
 </br>You have developed an increasing connection to the power of the twin suns. You gain the following benefits.
@@ -4237,7 +4245,7 @@ All Feats found in the 2024 D&D Player's Handbook are available to use within th
 
 }}
 
-### Lunar Enlightenment ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:272px,left:400px,width:375px,mix-blend-mode:normal}
+### Lunar Enlightenment ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:263px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Species Feat (Prerequisite: Level 4+, Tsukibito)*
 </br>The pale moon has blessed you with an expanded and enhanced mind. You gain the following benefits.
@@ -4255,25 +4263,23 @@ All Feats found in the 2024 D&D Player's Handbook are available to use within th
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-<!-- https://i.imgur.com/HP73Xgb.png -->
-
-{{position:absolute,text-align:left,top:240px,left:315px,margin-bottom:-30px
+{{position:absolute,text-align:right,top:275px,right:660px,margin-bottom:-30px
 
 ##### A Masaru </br> monk
 
 }}
 
-![splotch-grey](https://i.imgur.com/UPUX4zG.png) {position:absolute,left:40px,top:0px,width:275px,mix-blend-mode:multiply,filter:brightness(10%),opacity:70%,transform:rotate(-45deg)}
+![splotch-grey](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Splotch.png) {position:absolute,left:75px,top:20px,width:275px,mix-blend-mode:multiply,filter:brightness(10%),opacity:70%,transform:rotate(-45deg)}
 
-![monk-y](https://i.imgur.com/HP73Xgb.png) {position:absolute,left:40px,top:0px,width:300px,margin-bottom:-25px,transform:scaleX(-1)rotate(15deg)}
+![monk-y](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Feats/MONKey%20(Edit)%20-%20Phan%20Tuan%20Dat%20-%20x.com%2Bultimatept0812%2Bstatus%2B1597702264684417025.png) {position:absolute,left:60px,top:0px,width:325px,margin-bottom:-25px,transform:scaleX(-1)rotate(15deg)}
 
-:::::::::::::::::::
+:::::::::::::::::::::::
 
-### A Grand Tail ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:336px,left:55px,width:375px,mix-blend-mode:normal}
+### A Grand Tail ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:376px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Species Feat (Prerequisite: Level 4+, Masaru)*
 </br>You have discovered your potential for growth, becoming able to adapt to all situations. You gain the following benefits.
@@ -4294,7 +4300,7 @@ All Feats found in the 2024 D&D Player's Handbook are available to use within th
 
 \column
 
-### Might's Pinnacle ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Might's Pinnacle ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Species Feat (Prerequisite: Level 4+, Ōgaru)*
 </br>You have tapped into the innate toughness, force, and power that roils inside you. You gain the following benefits.
@@ -4305,37 +4311,36 @@ All Feats found in the 2024 D&D Player's Handbook are available to use within th
 
 ***Relentless.*** When you use your Unkillable Overlord trait, you can use your Reaction to make one Weapon Attack. You can also choose to spend one Hit Point Die to heal, regaining a number of Hit Points equal to a roll of the die plus your Constitution modifier
 
-{{imageMaskCorner30,--offsetX:66%,--offsetY:-47%,--rotation:0
-  ![mighty](https://i.imgur.com/VdF8cf1.jpg){position:absolute,bottom:-70px,right:-200px,width:120%,transform:scaleX(-1)}
+{{imageMaskCorner30,--offsetX:67%,--offsetY:-50%,--rotation:0,--scaleY:1.2
+  ![mighty](https://cdnb.artstation.com/p/assets/images/images/045/859/851/large/xavier-ribeiro-unstoppable-ogre.jpg?1643721998){position:absolute,bottom:-70px,right:-225px,width:130%,transform:scaleX(-1)}
 }}
 
-{{position:absolute,top:1050px,right:425px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:460px,right:320px,margin-bottom:-30px,text-align:right
 
-<!-- ##### A mighty </br> Ōgaru -->
-##### A mighty </br> Ogaru
+##### A mighty </br> Ōgaru
 
 }}
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-{{imageMaskCorner25,--offsetX:-52.5%,--offsetY:65%,--rotation:0
-  ![explosomancer](https://i.imgur.com/TUK7uXF.jpg){position:absolute,top:-5px,left:-180px,width:75%}
+{{imageMaskCorner25,--offsetX:-55%,--offsetY:56%,--rotation:0,
+  ![explosomancer](https://static.wixstatic.com/media/0a2620_48d75e9eb770484abf8ccf23bcef946e~mv2.jpg/v1/fill/w_764,h_561,al_c,q_85,enc_auto/0a2620_48d75e9eb770484abf8ccf23bcef946e~mv2.jpg){position:absolute,top:-5px,left:-275px,width:100%}
 }}
 
-{{position:absolute,top:350px,left:280px,margin-bottom:-30px
+{{position:absolute,top:450px,left:280px,margin-bottom:-30px
 
 ##### An Akki</br> explosomancer
 
 }}
 
-:::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::
 
-### Aura of the Shell ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:452px,left:55px,width:375px,mix-blend-mode:normal}
+### Aura of the Shell ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:539px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Species Feat (Prerequisite: Level 4+, Kappa)*
 </br>You have learned how to conjure up innate shielding magic to protect yourself and those closest to you. You gain the following benefits.
@@ -4348,7 +4353,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 \column
 
-### Cannon Ball Run ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Cannon Ball Run ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Species Feat (Prerequisite: Level 4+, Akki)*
 </br>You have learned how to harness the power of the strange powder coating your carapace. You gain the following benefits.
@@ -4359,12 +4364,11 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 ***Blast Off.*** You have discovered that your explosiveness makes for effective transportation. As a Bonus Action on your turn you can launch yourself, flying up to 40 feet in a straight line before falling. This movement does not provoke Opportunity Attacks and does not use your Speed. You can choose to angle your takeoff upwards to avoid obstacles, letting you land anywhere on the ground within 40 feet of you. If you collide with a creature when moving in a straight line, the creature takes 4d6 Bludgeoning damage. If you launch yourself upwards, or you collide with a wall or another solid surface, you take 4d6 Bludgeoning damage on impact. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
-{{imageMaskCorner20,--offsetX:47.5%,--offsetY:-62%,--rotation:0
-  <!-- ![shell](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b3d08f41-3b20-4e72-891b-5dca0d934bb4/dclqy0j-81d42d28-3ba0-46e1-886f-2aac923087ac.jpg/v1/fill/w_1017,h_786,q_70,strp/kappa_by_lockdevil_dclqy0j-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTkwIiwicGF0aCI6IlwvZlwvYjNkMDhmNDEtM2IyMC00ZTcyLTg5MWItNWRjYTBkOTM0YmI0XC9kY2xxeTBqLTgxZDQyZDI4LTNiYTAtNDZlMS04ODZmLTJhYWM5MjMwODdhYy5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.1hXO8LMF0jTxJ0R6irMh-GfIuk1QmDQAa6ufG1ZQijw){position:absolute,bottom:-20px,right:-70px,width:70%,transform:scaleX(-1)} -->
-  ![shell](https://i.imgur.com/8UuEbYt.jpeg){position:absolute,bottom:-20px,right:-70px,width:70%,transform:scaleX(-1)}
+{{imageMaskCorner20,--offsetX:50%,--offsetY:-53%,--rotation:0,--scaleX:1.05
+  ![shell](https://cdnb.artstation.com/p/assets/images/images/006/753/247/large/joao-freire-kappa-3.jpg?1501000260){position:absolute,bottom:-1px,right:-65px,width:80%,transform:scaleX(-1)}
 }}
 
-{{position:absolute,top:1050px,right:400px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:1050px,right:405px,margin-bottom:-30px,text-align:right
 
 ##### A Kappa </br> hermit
 
@@ -4373,11 +4377,11 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-### Shapeshifting Trickster ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Shapeshifting Trickster ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Species Feat (Prerequisite: Level 4+, Tanuki, Kawauso, Kitsune, or Kisuru, not having the Wild Shapeshifting Feat)*
 </br>You have become more adept in using your shape-changing ability to pull pranks and tricks, deceiving people about your true form. You gain the following benefits.
@@ -4390,7 +4394,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 \column
 
-### Wild Shapeshifting ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Wild Shapeshifting ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Species Feat (Prerequisite: Level 4+, Tanuki, Kawauso, Kitsune, or Kisuru, not having the Shapeshifting Trickster Feat)*
 </br>You have become able to tap into the wild magic you originate from, and harness it to release the beast within. You gain the following benefits.
@@ -4401,11 +4405,11 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 ***Beast Whisperer.*** You gain Proficiency in Animal Handling. If you are already proficient in Animal Handling, you instead gain Expertise.
 
-{{imageMaskEdge1,--offset:25%,--rotation:0
-  ![big-fox](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Prince_Hanzoku_terrorised_by_a_nine-_tailed_fox.jpg/800px-Prince_Hanzoku_terrorised_by_a_nine-_tailed_fox.jpg){position:aboslute,top:700px,left:-1px,width:125%}
+{{imageMaskEdge1,--offset:35%,--rotation:0,--scaleY:0.5
+  ![big-fox](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Feats/Prince%20Hanzoku%20terrorised%20by%20a%20nine-%20tailed%20fox%20-%20Utagawa%20Kuniyoshi%20(1798%E2%80%931861).jpg){position:aboslute,top:700px,left:-1px,width:125%}
 }}
 
-{{position:absolute,top:750px,left:190px,margin-bottom:-30px
+{{position:absolute,top:680px,left:0px,margin-bottom:-30px,text-align:center
 
 ##### A great Kitsune
 
@@ -4414,18 +4418,18 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-### Bountiful Luck ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Bountiful Luck ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Species Feat (Prerequisite: Level 4+, Bunagaya)*
 </br>Your people have extraordinary luck, which you have learned to mystically lend to your companions when you see them falter. You're not sure how you do it; you just wish it, and it happens. Surely a sign of fortune's favour! You gain the following benefits.
 
 ***Share the Luck.*** When an ally you can see within 30 feet of you rolls a 1 on the d20 for a D20 Test, you can use your Reaction to let the ally reroll the die. The ally must use the new roll. When you use this ability, you can't use your Lucky racial trait before the end of your next turn.
 
-### Shelter under the Fuki ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:358px,left:55px,width:375px,mix-blend-mode:normal}
+### Shelter under the Fuki ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:344px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Species Feat (Prerequisite: Level 4+, Korpokkur)*
 </br>You have found a Giant Fuki Leaf, a symbol of your people's heritage. While you hold it, no matter where you are, you feel a little bit closer to home. You gain the following benefits.
@@ -4440,7 +4444,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 \column
 
-### Ryū Install ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Ryū Install ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Species Feat (Prerequisite: Level 4+, Ryūson, Orochi Ascendant Species Trait)*
 </br>You have strengthened your connection to the progenitor Dragon-Kami, improving your ability to channel their power. You gain the following benefits.
@@ -4456,23 +4460,23 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-{{imageMaskCorner21,--offsetX:-52.5%,--offsetY:54%,--rotation:0
-  ![determined](https://cdnb.artstation.com/p/assets/images/images/009/216/345/large/borja-pindado-digdeep-borjapindado.jpg?1517763919){position:absolute,top:-1px,left:-120px,width:75%}
+{{imageMaskCorner27,--offsetX:-50%,--offsetY:50%,--scaleY:1.2,--scaleX:1.05,rotation:0,
+  ![determined](https://cdnb.artstation.com/p/assets/images/images/009/216/345/large/borja-pindado-digdeep-borjapindado.jpg?1517763919){position:absolute,top:-1px,left:-225px,width:100%}
 }}
 
-{{position:absolute,top:520px,left:120px,margin-bottom:-30px
+{{position:absolute,top:700px,left:120px,margin-bottom:-30px
 
 ##### An determined warrior
 
 }}
 
-:::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::
 
-### Determined ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:567px,left:55px,width:375px,mix-blend-mode:normal}
+### Determined ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:757px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Species Feat (Prerequisite: Level 4+, Human)*
 </br>You have found an innate power within you, to be able to stand strong where others may falter. You gain the following benefits.
@@ -4485,7 +4489,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 \column
 
-### Oni Purified ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Oni Purified ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Species Feat (Prerequisite: Level 8+, Oni Bloodline, not having the Oni Embraced feat)*
 </br>You've managed to find inner tranquillity and balance, and have suppressed the evil that had tied itself to you. You may manifest some physical changes as a part of this, as some of your demonic features fade, but you accept that your past will always be a part of you. You also gain the following benefits.
@@ -4503,12 +4507,12 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
 {{imageMaskEdge4,--offset:8%,--rotation:90
-  ![embraced](https://i.imgur.com/9HNkS5I.jpg){position:absolute,bottom:-1px,left:-600px,height:101%}
+  ![embraced](https://cdnb.artstation.com/p/assets/images/images/044/439/025/large/isis-sangare-hidetsugu.jpg?1640014591){position:absolute,bottom:-1px,left:-600px,height:101%}
 }}
 
 {{position:absolute,top:990px,left:360px,margin-bottom:-30px,text-align:left
@@ -4519,7 +4523,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 \column
 
-### Oni Embraced ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Oni Embraced ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Species Feat (Prerequisite: Level 8+, Oni Bloodline, not having the Oni Purified feat)*
 </br>You've fully taken on the demonic part of yourself. You may believe that you can suppress the Oni and use its power, or the spirit inside you may have co-opted your body for its own ends. Either way, your physical demonic characteristics become more prominent, and you also gain the following benefits.
@@ -4532,11 +4536,11 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-### Yūrei of the Haunt ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Yūrei of the Haunt ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Species Feat (Prerequisite: Level 4+, Yūrei Manifest, not having the Yūrei of the Hunt feat)*
 </br>You remain in the physical world as a haunting, to terrorise someone who wronged you or to bring bad omens wherever you stay. You gain the following benefits.
@@ -4549,7 +4553,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 \column
 
-### Yūrei of the Vengeant ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Yūrei of the Vengeant ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Species Feat (Prerequisite: Level 4+, Yūrei Manifest, not having the Yūrei of the Haunt feat)*
 </br>The purpose of your existence is as a revenant, to get revenge or justice on those that brought you harm. You gain the following benefits.
@@ -4558,28 +4562,28 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 ***Invisible Stalker.*** If you are hidden and hit a creature with an attack, you remain hidden. If you hit your mark with an attack while hidden, the attack deals an additional 1d8 Necrotic damage.
 
-***Life from Unlife.*** Whenever you </br>deal damage to a creature, you </br>can use your Reaction to regain </br>a number of Hit Points equal </br>to the damage dealt to that </br>creature. You can use this </br>feature a number of times </br>equal to your Proficiency </br>Bonus, and you regain all </br>expended uses when you </br>finish a Long Rest.
+***Life from Unlife.*** Whenever you deal damage to a creature, you can use your Reaction to regain </br>a number of Hit Points equal to</br> the damage dealt to that </br>creature. You can use this </br>feature a number of times </br>equal to your Proficiency </br>Bonus, and you regain all </br>expended uses when you </br>finish a Long Rest.
 
-{{position:absolute,top:700px,right:270px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:650px,right:265px,margin-bottom:-30px,text-align:right
 
 ##### A haunting </br> Yurei
 
 }}
 
-{{imageMaskCorner9,--offsetX:56%,--offsetY:-45%,--rotation:0
-  ![grave](https://cdnb.artstation.com/p/assets/images/images/031/415/347/large/sara-savi-japanese-graveyard.jpg?1603557906){position:absolute,bottom:-1px,right:-250px,width:800px}
+{{imageMaskCorner12,--offsetX:50%,--offsetY:-52%,--rotation:0,
+  ![grave](https://cdnb.artstation.com/p/assets/images/images/031/415/347/large/sara-savi-japanese-graveyard.jpg?1603557906){position:absolute,bottom:-1px,right:-325px,width:900px}
 }}
 
-![yurei-2](https://i.imgur.com/gF5Hq27.png) {position:absolute,right:-110px,bottom:10px,width:455px,margin-bottom:-25px,filter:opacity:100%,mix-blend-mode:normal,transform:scaleX(-1)}
+![yurei-2](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Feats/Yurei%20(Pathfinder)%20(Edit)%20-%20Florian%20Stitz%20-%20Unknown.png) {position:absolute,right:-110px,bottom:10px,width:455px,margin-bottom:-25px,filter:opacity:100%,mix-blend-mode:normal,transform:scaleX(-1)}
 
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-### Supreme Shifter ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Supreme Shifter ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Species Feat (Prerequisite: Level 4+, </br>Noppera-bō Changeling)*
 </br>Your ability to disguise yourself for another extends to your whole physiology. You gain the following benefits.
@@ -4598,7 +4602,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 ## General Feats
 
-### Bōjutsu Master ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:97px,left:400px,width:375px,mix-blend-mode:normal}
+### Bōjutsu Master ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:95px,left:400px,width:375px,mix-blend-mode:normal}
 
 *General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+, Proficiency with Bō)*
 </br>You have honed the art of combat with your Bō, gaining the following benefits.
@@ -4609,11 +4613,11 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 ***Positional Awareness.*** Once per turn when you hit a creature with an attack with a Bō, you can immediately make an additional Bō attack against a different creature within 5 feet of you. You are also unable to be flanked while wielding a Bō.
 
-{{imageMaskEdge1,--offset:15%,--rotation:0
+{{imageMaskEdge1,--offset:17%,--rotation:0,--scaleY:0.5
   ![narset](https://cdna.artstation.com/p/assets/images/images/024/748/762/large/livia-prima-img-20200305-181700-084.jpg?1583407638){position:aboslute,top:575px,left:-1px,width:101%}
 }}
 
-{{position:absolute,top:640px,left:550px,margin-bottom:-30px
+{{position:relative,top:130px,left:0px,margin-bottom:-30px,text-align:center
 
 ##### A Bojutsu master
 
@@ -4622,24 +4626,23 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-{{imageMaskEdge1,--offset:10%,--rotation:180
-  <!-- ![snowfall](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5246e0e3-fe8a-4fdb-9c31-4741f3509015/dcmq5wj-3112415c-4938-40d1-a91d-bb1f4461573f.jpg/v1/fit/w_786,h_900,q_70,strp/snowfall_by_changinghand_dcmq5wj-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvNTI0NmUwZTMtZmU4YS00ZmRiLTljMzEtNDc0MWYzNTA5MDE1XC9kY21xNXdqLTMxMTI0MTVjLTQ5MzgtNDBkMS1hOTFkLWJiMWY0NDYxNTczZi5qcGciLCJ3aWR0aCI6Ijw9Nzg2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Tb0eWRM6GwdQlyp-tVu4pqZj2P8O27b9ToXk-yNO_BY){position:aboslute,top:-250px,left:-1px,width:101%} -->
-  ![snowfall](https://i.imgur.com/GIFhyML.jpeg){position:aboslute,top:-250px,left:-1px,width:101%}
+{{imageMaskEdge1,--offset:5%,--rotation:180,--scaleY:0.5
+  ![snowfall](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5246e0e3-fe8a-4fdb-9c31-4741f3509015/dcmq5wj-3112415c-4938-40d1-a91d-bb1f4461573f.jpg/v1/fit/w_786,h_900,q_70,strp/snowfall_by_changinghand_dcmq5wj-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6Ii9mLzUyNDZlMGUzLWZlOGEtNGZkYi05YzMxLTQ3NDFmMzUwOTAxNS9kY21xNXdqLTMxMTI0MTVjLTQ5MzgtNDBkMS1hOTFkLWJiMWY0NDYxNTczZi5qcGciLCJ3aWR0aCI6Ijw9Nzg2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.KAr4PybwiUhM7DmRuaj8cvuErS9Zpkyrdgk5p_9dV0g){position:aboslute,top:-250px,left:-1px,width:101%}
 }}
 
-{{position:absolute,top:510px,left:150px,margin-bottom:-30px
+{{position:absolute,top:560px,left:80px,margin-bottom:-30px
 
 ##### A warrior monk delivers a quick slash
 
 }}
 
-::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::
 
-### Iaijutsu Master ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:552px,left:55px,width:375px,mix-blend-mode:normal}
+### Iaijutsu Master ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:593px,left:55px,width:375px,mix-blend-mode:normal}
 
 *General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+, Proficiency with Katana)*
 </br>You have learned the art of Iaijutsu, being able to draw your sword and attack in one clean motion. You gaining the following benefits.
@@ -4652,9 +4655,9 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 \column
 
-::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::
 
-### Kimyōkai Touched ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:552px,left:400px,width:375px,mix-blend-mode:normal}
+### Kimyōkai Touched ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:593px,left:400px,width:375px,mix-blend-mode:normal}
 
 *General Feat (Prerequisite: Level 4+)*
 </br>Your exposure to the mystical world of Kimyōkai has changed you, granting you the following benefits.
@@ -4666,11 +4669,11 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-### Kunai Expert ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Kunai Expert ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+, Proficiency with Kunai)*
 </br>You have learned how to turn a Kunai, a simple farming implement, into a honed tool of infiltration and assassination. You gaining the following benefits.
@@ -4689,7 +4692,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 \column
 
-### Kusarigamajutsu Master ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Kusarigamajutsu Master ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+, Proficiency with Kusarigama)*
 </br>You have honed the art of combat with your Kusarigama, gaining the following benefits.
@@ -4702,11 +4705,11 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 ***Swing Hook.*** You are able to use the weight at the end of the Kusarigama chain as a grappling hook to reach higher places. You can throw the weight around beams, tree branches, into windows, and to other places of your DM's discretion within 15 feet. Creatures can climb the chain as if it were a rope, or they can swing from the chain to make Long Jumps of up to 20 feet as part of their movement.
 
-{{imageMaskEdge1,--offset:13%,--rotation:0
-  ![kusarigamajutsu](https://cdna.artstation.com/p/assets/images/images/018/900/544/large/angevere-ona-kristensen-cdc-cat-ninja.jpg?1561151808){position:absolute,bottom:-1px,right:-1px,width:101%,mix-blend-mode:normal}
+{{imageMaskEdge1,--offset:5%,--rotation:0,--scaleY:0.5
+  ![kusarigamajutsu](https://cdna.artstation.com/p/assets/images/images/018/900/544/large/angevere-ona-kristensen-cdc-cat-ninja.jpg?1561151808){position:absolute,bottom:-1px,right:-60px,width:110%,mix-blend-mode:normal}
 }}
 
-{{position:absolute,top:620px,left:450px,margin-bottom:-30px
+{{position:relative,top:50px,left:0px,margin-bottom:-30px,text-align:center
 
 ##### A Kusarigama-wielding Nekotaiyo
 
@@ -4715,11 +4718,11 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-### Okizeme Expert ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Okizeme Expert ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+)*
 </br>You have practised at getting the upper hand in a fight by knocking your opponent to the floor, gaining the following benefits.
@@ -4730,7 +4733,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 ***Sweep the Leg.*** When you hit a creature with an Unarmed Strike as part of the Attack action on your turn, you can deal damage to the target and also knock them Prone if the creature is no more than one size larger than you. You can use this benefit only once per turn.
 
-### Shurikenjutsu Master ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:430px,left:55px,width:375px,mix-blend-mode:normal}
+### Shurikenjutsu Master ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:395px,left:55px,width:375px,mix-blend-mode:normal}
 
 *General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+, Proficiency with Shuriken)*
 </br>You have honed the art of combat with your Shuriken, gaining the following benefits.
@@ -4743,11 +4746,11 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 ***Retrieval.*** At the end of a combat you can now spend 1 minute to recover all thrown weapons and ammunition used during said combat, rather than half, as long as those items are not missing or destroyed.
 
-{{imageMaskEdge1,--offset:3%,--rotation:270
-  ![hadoken](https://i.imgur.com/zhQpREA.png){position:absolute,bottom:-1px,right:-350px,height:101%,mix-blend-mode:normal,transform:scaleX(-1)}
+{{imageMaskEdge1,--offset:3%,--rotation:270,--scaleY:0.5
+  ![hadoken](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Feats/Ryu%2C%20World%20Warrior%20(MTG)%20-%20Jason%20Rainville%20-%20jasonrainville.com.png){position:absolute,bottom:-1px,right:-350px,height:101%,mix-blend-mode:normal,transform:scaleX(-1)}
 }}
 
-{{position:absolute,top:1020px,left:270px,margin-bottom:-30px
+{{position:absolute,top:950px,left:255px,margin-bottom:-30px
 
 ##### A practitioner of</br> Shotokan Karate
 
@@ -4756,16 +4759,15 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-{{imageMaskEdge1,--offset:3%,--rotation:90
-  <!-- ![death](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5246e0e3-fe8a-4fdb-9c31-4741f3509015/d870uiy-998dc2a8-50d7-4631-8a6d-149f7f928a4d.jpg/v1/fit/w_700,h_933,q_70,strp/nature_s_fortitude_by_changinghand_d870uiy-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTMzIiwicGF0aCI6IlwvZlwvNTI0NmUwZTMtZmU4YS00ZmRiLTljMzEtNDc0MWYzNTA5MDE1XC9kODcwdWl5LTk5OGRjMmE4LTUwZDctNDYzMS04YTZkLTE0OWY3ZjkyOGE0ZC5qcGciLCJ3aWR0aCI6Ijw9NzAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.fZ9SOoZKs0glNOxYaN0xQOCQI2hwVbiyIhXj90BoJHg){position:absolute,bottom:-50px,left:-200px,height:110%,mix-blend-mode:normal,transform:scaleX(1)} -->
-  ![death](https://i.imgur.com/Gn5MvKF.jpeg){position:absolute,bottom:-50px,left:-200px,height:110%,mix-blend-mode:normal,transform:scaleX(1)}
+{{imageMaskEdge1,--offset:3%,--rotation:90,--scaleY:0.5
+  ![death](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5246e0e3-fe8a-4fdb-9c31-4741f3509015/d870uiy-998dc2a8-50d7-4631-8a6d-149f7f928a4d.jpg/v1/fit/w_700,h_933,q_70,strp/nature_s_fortitude_by_changinghand_d870uiy-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTMzIiwicGF0aCI6Ii9mLzUyNDZlMGUzLWZlOGEtNGZkYi05YzMxLTQ3NDFmMzUwOTAxNS9kODcwdWl5LTk5OGRjMmE4LTUwZDctNDYzMS04YTZkLTE0OWY3ZjkyOGE0ZC5qcGciLCJ3aWR0aCI6Ijw9NzAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.tZxzBP9Q1d1jBwwvysOhRzpbd_kyyLiqf8XFxEbYEG4){position:absolute,bottom:-50px,left:-200px,height:110%,mix-blend-mode:normal,transform:scaleX(1)}
 }}
 
-{{position:absolute,top:960px,left:400px,margin-bottom:-30px,text-align:left
+{{position:absolute,top:900px,left:410px,margin-bottom:-30px,text-align:left
 
 ##### A samurai returns</br> to nature
 
@@ -4773,7 +4775,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 \column
 
-### Traditionalist ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Traditionalist ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *General Feat (Prerequisite: Level 4+)*
 </br>You have versed yourself in ancient practices and culture, gaining the following benefits.
@@ -4784,7 +4786,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 ***Natural Magic.*** You learn the *Shillelagh* cantrip, and another cantrip of your choice from the Druid or Cleric Spell List. Wisdom is your Spellcasting Ability for these cantrips.
 
-### Yomi Touched ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:321px,left:400px,width:375px,mix-blend-mode:normal}
+### Yomi Touched ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:310px,left:400px,width:375px,mix-blend-mode:normal}
 
 *General Feat (Prerequisite: Level 4+)*
 </br>Your exposure to the afterlife realm of Yomi has changed you, granting you the following benefits.
@@ -4796,7 +4798,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 {{pageNumber,auto}}
 {{footnote PART 2 | CHARACTER OPTIONS}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -4810,8 +4812,8 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 ## Culture
 
-{{imageMaskEdge1,--offset:11.5cm,--rotation:180
-  ![Background image](https://i.imgur.com/RLohFb7.jpg){position:absolute,top:-100px,left:0,width:100%}
+{{imageMaskEdge7,--offset:-58%,--rotation:180,--scaleY:0.75
+  ![boseiju](https://cdna.artstation.com/p/assets/images/images/046/099/484/large/zezhou-chen-web.jpg?1644305247){position:absolute,top:-100px,left:0,width:100%}
 }}
 
 {{position:absolute,bottom:105px,left:0px,margin-bottom:-30px
@@ -4823,7 +4825,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 {{pageNumber,auto}}
 {{footnote PART 3 | GEOGRAPHY AND CULTURE}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -4833,21 +4835,21 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 **TODO - NOT STARTED**
 
-![island-map](https://i.imgur.com/v4wZLoX.png) {position:absolute,top:200px,left:74px,width:1440px,opacity:85%}
+![island-map](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%203/Maps/Sumiriku%20Map.png) {position:absolute,top:200px,left:74px,width:1440px,opacity:85%}
 
 {{pageNumber,auto}}
 {{footnote PART 3 | GEOGRAPHY AND CULTURE}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-![island-map](https://i.imgur.com/v4wZLoX.png) {position:absolute,top:200px,right:74px,width:1440px,opacity:85%}
+![island-map](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%203/Maps/Sumiriku%20Map.png) {position:absolute,top:200px,right:74px,width:1440px,opacity:85%}
 
 {{pageNumber,auto}}
 {{footnote PART 3 | GEOGRAPHY AND CULTURE}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -4860,15 +4862,15 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 {{pageNumber,auto}}
 {{footnote PART 3 | GEOGRAPHY AND CULTURE}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
 {{imageMaskEdge7,--offset:9.5cm,--rotation:180
-  ![Background image](https://cdna.artstation.com/p/media_assets/images/images/000/304/010/large/Yomi_Entrance.jpg?1539545251){position:absolute,top:-1px,left:-600px,height:90%}
+  ![bolder](https://cdna.artstation.com/p/media_assets/images/images/000/304/010/large/Yomi_Entrance.jpg?1539545251){position:absolute,top:-1px,left:-600px,height:90%}
 }}
 
-{{position:absolute,bottom:145px,left:125px,margin-bottom:-30px,text-align:left
+{{position:absolute,bottom:135px,left:115px,margin-bottom:-30px,text-align:left
 
 ##### The bolder blocking the path to Yomi
 
@@ -4877,12 +4879,12 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 {{pageNumber,auto}}
 {{footnote PART 3 | GEOGRAPHY AND CULTURE}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-{{imageMaskEdge1,--offset:9.5cm,--rotation:180
-  ![Background image](https://www.grimoireofhorror.com/wp-content/uploads/2020/12/Night-Parade-of-100-demons.jpg){position:absolute,top:-1px,left:-500px,height:90%}
+{{imageMaskEdge8,--offset:8.5cm,--rotation:180
+  ![parade](https://www.grimoireofhorror.com/wp-content/uploads/2020/12/Night-Parade-of-100-demons.jpg){position:absolute,top:-1px,left:-500px,height:90%}
 }}
 
 {{position:absolute,bottom:170px,left:375px,margin-bottom:-30px,text-align:left
@@ -4894,7 +4896,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 {{pageNumber,auto}}
 {{footnote PART 3 | GEOGRAPHY AND CULTURE}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -4949,8 +4951,6 @@ The last day of the year, Ganjitsu (元日), is considered separate, and is not 
 
 The new year begins on the first day of Spring, or Haru (春). The 'Seasons' table lists each season, alongside the dates when they start.
 
-\column
-
 {{#default-table
 
 ##### Seasons
@@ -4964,15 +4964,18 @@ The new year begins on the first day of Spring, or Haru (春). The 'Seasons' tab
 
 }}
 
+
+\column
+
 ## Important Days
 
 There are many days of the year that have a significant religious or cultural context to the people of Sumiriku. These dates may be celebrated as grand festivals in major cities, or instead may be days of contemplation. The following is a selection of these days, explaining their meaning and what happens at that occasion.
 
-### Shōtenbi (昇天日, 'Ascension Day') </br> - 5th of Rokugatsu ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:439px,left:400px,width:375px,mix-blend-mode:normal}
+### Shōtenbi (昇天日, 'Ascension Day') </br> - 5th of Rokugatsu ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:302px,left:400px,width:375px,mix-blend-mode:normal}
 
 The day of the summer solstice, the longest day of the year. It is said that the first Emperor, Tokuzō-tennō, was crowned on this day over 2000 years ago, under the zenith of the twin suns. This day is treated as a day of reverence, to remember the great and noble deeds Tokuzō-tennō and every Emperor since has accomplished. In honour of the first Emperor, every Emperor since has also been crowned on this day, as part of a ceremony known as the 'Shōten Gishiki' (昇天儀式, 'Ascension Rite'); it is believed by some that the position of the twin suns grants a blessing required for this ceremony. Currently it has been the longest time in history since the previous Shōten Gishiki, over 150 years, due to the disappearance of the current Emperor.
 
-### Tanabata (七夕, 'Evening of the </br>Seventh') - 7th of Shichigatsu ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:803px,left:400px,width:375px,mix-blend-mode:normal}
+### Tanabata (七夕, 'Evening of the </br>Seventh') - 7th of Shichigatsu ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:651px,left:400px,width:375px,mix-blend-mode:normal}
 
 A day of wish-making.
 </br>**TODO - UNFINISHED**
@@ -4980,11 +4983,11 @@ A day of wish-making.
 {{pageNumber,auto}}
 {{footnote PART 3 | GEOGRAPHY AND CULTURE}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-### Ganjitsu (元日, 'New Year's Day') ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Ganjitsu (元日, 'New Year's Day') ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 The end of the current year and the beginning of the next. Ganjitsu also falls on the changing of the season, marking the end of winter and beckoning the arrival of a new spring. It is believed that the Myōjin first entered the world during a harsh, endless winter, but their presence warmed the world and new life bloomed around them. Because of this some find a greater connection to the Myōjin on this day, and treat it as a day of worship to them. Others however treat the day as a time for family, to feel present in each other's company, to share in good food, to reminisce on the year past and have hope for the year to come.
 
@@ -5000,19 +5003,19 @@ The end of the current year and the beginning of the next. Ganjitsu also falls o
 
 \column
 
-{{imageMaskCorner32,--offsetX:55%,--offsetY:57.6%,--rotation:0
-  ![blood-moon](https://i.imgur.com/7r3AVoC.jpg){position:absolute,top:-1px,right:-130px,width:75%,transform:scaleX(-1)}
+{{imageMaskCorner30,--offsetX:50%,--offsetY:50%,--rotation:0,,--scaleX:0.725,--scaleY:0.75
+  ![blood-moon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%203/Calendar%20and%20Notable%20Events/Blood%20Moon%20(MTG)%20-%20Franz%20Vohwinkel%20-%20Unknown.jpeg){position:absolute,top:-1px,right:-120px,width:75%,transform:scaleX(-1)}
 }}
 
-{{position:absolute,top:330px,left:440px,margin-bottom:-30px,text-align:left
+{{position:absolute,top:435px,left:175px,margin-bottom:-30px,text-align:center
 
 ##### The Blood Moon
 
 }}
 
-::::::::::::::::::::::::
+::::::::::::::::::::::::::::::
 
-### Hyakki Chitsuki (百鬼血月, 'Hundred Oni Blood Moon') ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:426px,left:400px,width:375px,mix-blend-mode:normal}
+### Hyakki Chitsuki (百鬼血月, 'Hundred Oni Blood Moon') ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:488px,left:400px,width:375px,mix-blend-mode:normal}
 
 The Oni first poured out of their realm in Makoku, lead by their Oni Lords, during the Kaika Jidai, and plunged the world into darkness and horror. These Oni started a seemingly endless night by blotting out the sky, protecting themselves from the radiance of the twin suns during their assault. It took the wisdom of Tomomi-sama, wielding Tasogare-no-Kagami, in order to push the Oni back. She helped return the suns and the stars to the sky, and sealed the Oni away within their realm, ending the a conflict now known as the Blood War. This entombment was not perfect however, and the Oni have discovered how to temporarily break their imprisonment and briefly bring chaos back to the real world.
 
@@ -5021,7 +5024,7 @@ The escape of the Oni causes a night of terror, known as the Hyakki Chitsuki, wh
 {{pageNumber,auto}}
 {{footnote PART 3 | GEOGRAPHY AND CULTURE}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -5034,15 +5037,15 @@ The escape of the Oni causes a night of terror, known as the Hyakki Chitsuki, wh
 {{pageNumber,auto}}
 {{footnote PART 3 | GEOGRAPHY AND CULTURE}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-{{imageMaskEdge1,--offset:5%,--rotation:270
-  ![horse](https://cdna.artstation.com/p/assets/images/images/013/237/310/large/matt-lara-mt-hiei.jpg?1538679780){position:absolute,bottom:-1px,right:-260px,height:101%}
+{{imageMaskEdge1,--offset:5%,--rotation:90,--scaleY:0.5
+  ![horse](https://cdna.artstation.com/p/assets/images/images/013/237/310/large/matt-lara-mt-hiei.jpg?1538679780){position:absolute,bottom:-1px,left:-260px,height:101%,transform:scaleX(-1)}
 }}
 
-{{position:absolute,top:1000px,right:390px,margin-bottom:-30px,text-align:right
+{{position:absolute,top:1000px,left:400px,margin-bottom:-30px,text-align:left
 
 ##### A Daimyo on</br> horseback
 
@@ -5051,7 +5054,7 @@ The escape of the Oni causes a night of terror, known as the Hyakki Chitsuki, wh
 {{pageNumber,auto}}
 {{footnote PART 3 | GEOGRAPHY AND CULTURE}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -5087,7 +5090,7 @@ Two groups of sacred treasures
 {{pageNumber,auto}}
 {{footnote PART 3 | GEOGRAPHY AND CULTURE}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -5098,10 +5101,10 @@ Two groups of sacred treasures
 ## Appendices
 
 {{imageMaskEdge1,--offset:11cm,--rotation:180
-  ![Background image](https://i.imgur.com/ShwzTAH.jpg){position:absolute,top:-100px,left:0,width:100%}
+  ![tetsuo](https://cdnb.artstation.com/p/assets/images/images/078/948/975/large/sidharth-chaturvedi-fkkylhuxmaiuxac.jpg?1723537536){position:absolute,top:-100px,left:0,width:100%}
 }}
 
-{{position:absolute,bottom:100px,left:200px,margin-bottom:-30px
+{{position:absolute,bottom:100px,left:00px,margin-bottom:-30px
 
 ##### An ink painting showing the</br> life of a great warrior
 
@@ -5110,7 +5113,7 @@ Two groups of sacred treasures
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -5267,14 +5270,14 @@ T {{width:5px}}his section is a list of stat blocks for common creatures that in
 
 }}
 
-{{imageMaskCorner15,--offsetX:45%,--offsetY:-50%,--rotation:0
-  ![raccoon-dog-2](https://i.imgur.com/LU0lIu4.jpg){position:absolute,bottom:-12px,right:-100px,width:75%,mix-blend-mode:multiply,transform:scaleX(1)}
+{{imageMaskCorner15,--offsetX:50%,--offsetY:-50%,--rotation:0,--scaleX:1.3,--scaleY:1.2
+  ![raccoon-dog-2](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b7aa8b8e-8053-4b28-a20c-fb99e472cce7/deyzbq7-a85c9fa0-2c08-48b1-9f57-1d465668bf6e.jpg/v1/fill/w_1043,h_766,q_70,strp/greater_tanuki_by_caraidart_deyzbq7-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTQxIiwicGF0aCI6Ii9mL2I3YWE4YjhlLTgwNTMtNGIyOC1hMjBjLWZiOTllNDcyY2NlNy9kZXl6YnE3LWE4NWM5ZmEwLTJjMDgtNDhiMS05ZjU3LTFkNDY1NjY4YmY2ZS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.RxlYVgdu6VZb7Jrt3ctRCugV15qjpZ1EZ5LItR-_UIU){position:absolute,bottom:-12px,right:-100px,width:85%,mix-blend-mode:multiply,transform:scaleX(1)}
 }}
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -5380,8 +5383,8 @@ T {{width:5px}}his section is a list of stat blocks for common creatures that in
 
 \column
 
-{{imageMaskCorner8,--offsetX:50%,--offsetY:30%,--rotation:0
-  ![river-otter-2](https://64.media.tumblr.com/4fad6acc34720d3ea0eb69eae1a3aba1/8579268e8b40cbe9-66/s1280x1920/1428c443b34f61e7d2cf03f6414469553aa135f6.jpg){position:absolute,top:-70px,right:-25px,width:55%,mix-blend-mode:multiply,transform:scaleX(1)}
+{{imageMaskCorner15,--offsetX:50%,--offsetY:50%,--rotation:0,--scaleY:1.5,--scaleX:1.1
+  ![river-otter-2](https://64.media.tumblr.com/4fad6acc34720d3ea0eb69eae1a3aba1/8579268e8b40cbe9-66/s1280x1920/1428c443b34f61e7d2cf03f6414469553aa135f6.jpg){position:absolute,top:-100px,right:-25px,width:60%,mix-blend-mode:multiply,transform:scaleX(1)}
 }}
 
 ::::::::::::::::::::::::::::
@@ -5436,7 +5439,7 @@ T {{width:5px}}his section is a list of stat blocks for common creatures that in
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -5595,15 +5598,14 @@ T {{width:5px}}his section is a list of stat blocks for common creatures that in
 
 }}
 
-{{imageMaskCorner15,--offsetX:40%,--offsetY:-55%,--rotation:0
-  <!-- ![fox-2](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2a340938-3ed0-4ae4-8ef6-884f929e1d86/d8pfbwl-0be04192-6a2e-4083-bb9d-d4a9bd1a3e60.jpg/v1/fill/w_1095,h_730,q_70,strp/ninetales_by_bluekomadori_d8pfbwl-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA2NyIsInBhdGgiOiJcL2ZcLzJhMzQwOTM4LTNlZDAtNGFlNC04ZWY2LTg4NGY5MjllMWQ4NlwvZDhwZmJ3bC0wYmUwNDE5Mi02YTJlLTQwODMtYmI5ZC1kNGE5YmQxYTNlNjAuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.iGu8be9JhIiz3d1dXYBokYjVH3yCkhUlaQR32E6tWE4){position:absolute,bottom:-20px,right:-130px,width:80%,mix-blend-mode:multiply,transform:scaleX(-1)} -->
-  ![fox-2](https://i.imgur.com/n9CP2Vt.jpeg){position:absolute,bottom:-15px,right:-130px,width:80%,mix-blend-mode:multiply,transform:scaleX(-1)}
+{{imageMaskCorner15,--offsetX:50%,--offsetY:-55%,--rotation:0,--scaleX:1.5,--scaleY:1.25
+  ![fox-2](https://64.media.tumblr.com/5cb4103ca3bb311e07b9ba5a3c7a3933/tumblr_nh8ldyIRpg1scuau3o2_1280.jpg){position:absolute,bottom:-15px,right:-100px,width:100%,mix-blend-mode:multiply,transform:scaleX(-1)}
 }}
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
@@ -5706,12 +5708,6 @@ T {{width:5px}}his section is a list of stat blocks for common creatures that in
 
 \column
 
-{{imageMaskCorner8,--offsetX:40%,--offsetY:42%,--rotation:0
-  ![big-crane](https://cdna.artstation.com/p/assets/images/images/003/050/470/large/yintion-j-18.jpg?1469007478){position:absolute,top:-60px,right:-75px,width:90%,mix-blend-mode:multiply,transform:scaleX(1)}
-}}
-
-::::::::::::::::::::::
-
 {{monster,frame
 
 ## Kisuru Empowered Crane
@@ -5760,10 +5756,14 @@ T {{width:5px}}his section is a list of stat blocks for common creatures that in
 
 }}
 
+{{imageMaskEdge2,--offset:20%,--rotation:0
+  ![big-crane](https://cdna.artstation.com/p/assets/images/images/003/050/470/large/yintion-j-18.jpg?1469007478){width:101%,bottom:-50px,left:-1px}
+}}
+
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -5826,7 +5826,7 @@ The following is a list of feats that have been updated from their original vers
 
 ## Origin Feats
 
-### Actor Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:548px,left:400px,width:375px,mix-blend-mode:normal}
+### Actor Updated ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:511px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Origin Feat*
 </br>Skilled at mimicry and dramatics, you gain the following benefits.
@@ -5846,11 +5846,11 @@ Origin Feats can be taken whenever you could take a General Feat, rather than ju
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-### Athlete Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Athlete Updated ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Origin Feat*
 </br>You have undergone extensive physical training to gain the following benefits.
@@ -5861,7 +5861,7 @@ Origin Feats can be taken whenever you could take a General Feat, rather than ju
 
 ***Jumping.*** You have Advantage on any Ability Check you make for the Jump action, and the minimum distance for your Long Jumps is increased by 5 feet.
 
-### Crafter Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:304px,left:55px,width:375px,mix-blend-mode:normal}
+### Crafter Updated ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:293px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Origin Feat*
 </br>You are adept at crafting things and bargaining with merchants, granting you the following benefits.
@@ -5872,7 +5872,7 @@ Origin Feats can be taken whenever you could take a General Feat, rather than ju
 
 ***Fast Crafting.*** When you craft an item using a tool with which you have Tool Proficiency, the required crafting time is reduced by 25 percent. In addition, when you finish a Long Rest, you can craft one piece of gear from the Fast Crafting table, provided you have the Artisan's Tools associated with that item and have proficiency with those tools. The item lasts until you finish another Long Rest, at which point the item falls apart.
 
-### Chef Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:688px,left:55px,width:375px,mix-blend-mode:normal}
+### Chef Updated ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:658px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Origin Feat*
 </br>You have spent time to master the culinary arts, gaining benefits listed below:
@@ -5881,11 +5881,11 @@ Origin Feats can be taken whenever you could take a General Feat, rather than ju
 
 ***Replenishing Meal.*** As part of a Short Rest, you can cook special food if you have ingredients and Cook's Utensils on hand. You can prepare enough of this food for a number of creature equal to 4 plus your Proficiency Bonus. At the end of the Short Rest, any creature who eats the food and spends one or more Hit Point Dice to regain Hit Points regains an extra 1d8 Hit Points.
 
+***Bolstering Treats.*** With one hour of work or when you finish a Long Rest, you can cook a number of Treats equal to your Proficiency Bonus, provided that you have ingredients and Cook's Utensils. These Treats last for 8 hours, and a creature can eat a Treat as a Bonus Action to gain Temporary Hit Points equal to double your Proficiency Bonus.
+
 \column
 
-&nbsp;***Bolstering Treats.*** With one hour of work or when you finish a Long Rest, you can cook a number of Treats equal to your Proficiency Bonus, provided that you have ingredients and Cook's Utensils. These Treats last for 8 hours, and a creature can eat a Treat as a Bonus Action to gain Temporary Hit Points equal to double your Proficiency Bonus.
-
-### Dungeon Delver Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:222px,left:400px,width:375px,mix-blend-mode:normal}
+### Dungeon Delver Updated ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Origin Feat*
 </br>You are as skilled as one can be at exploring dungeons and disarming deadly traps. You gain the benefits listed below:
@@ -5896,7 +5896,7 @@ Origin Feats can be taken whenever you could take a General Feat, rather than ju
 
 ***On The Move.*** Travelling at a fast pace does not impose the usual -5 penalty on your passive Investigation or Perception scores.
 
-### Lucky Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:533px,left:400px,width:375px,mix-blend-mode:normal}
+### Lucky Updated ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:361px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Origin Feat*
 </br>You have inexplicable luck that can kick in at just the right moment, granting you the following benefits.
@@ -5907,7 +5907,7 @@ Origin Feats can be taken whenever you could take a General Feat, rather than ju
 
 ***Disadvantage.*** When a creature rolls a d20 for an Attack Roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll.
 
-### Savage Attacker Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:846px,left:400px,width:375px,mix-blend-mode:normal}
+### Savage Attacker Updated ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:658px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Origin Feat*
 </br>You have trained to deal particularly damaging strikes, gaining the following benefits.
@@ -5919,30 +5919,30 @@ Origin Feats can be taken whenever you could take a General Feat, rather than ju
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
 ## Fighting Style Feats
 
-### Great Weapon Master Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:97px,left:55px,width:375px,mix-blend-mode:normal}
+### Great Weapon Master Updated ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:95px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 </br>When you roll damage for an attack you make with a Melee weapon that you are holding with two hands, you can treat any roll less than half their maximum value as instead being half that maximum value. The weapon must have the Two-Handed or Versatile property to gain this benefit.
 
 ## General Feats
 
-{{imageMaskCorner9,--offsetX:55%,--offsetY:58%,--rotation:0
-  ![dual-wield](https://i.imgur.com/LzRaRmC.jpeg){position:absolute,top:-60px,right:-100px,width:66%,transform:scaleX(-1)}
+{{imageMaskCorner9,--offsetX:57%,--offsetY:54%,--rotation:0,
+  ![dual-wield](https://pbs.twimg.com/media/FKsCJHMVgAEcQ6r?format=jpg&name=medium){position:absolute,top:-60px,right:-100px,width:66%,transform:scaleX(-1)}
 }}
 
-{{position:absolute,top:195px,left:380px,margin-bottom:-30px,text-align:left
+{{position:absolute,top:285px,left:425px,margin-bottom:-30px,text-align:left
 
-##### A Kitsune </br>practitioner of </br>Niten Ichi-ryu
+##### A Kitsune practitioner of Niten Ichi-ryū
 
 }}
 
-### Dual Wielder Revised ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:330px,left:55px,width:375px,mix-blend-mode:normal}
+### Dual Wielder Revised ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:321px,left:55px,width:375px,mix-blend-mode:normal}
 
 *General Feat (Prerequisite: Level 4+, Proficiency with any Martial weapon)*
 </br>You master fighting with two weapons, gaining the following benefits.
@@ -5955,9 +5955,9 @@ Origin Feats can be taken whenever you could take a General Feat, rather than ju
 
 \column
 
-::::::::::::::
+:::::::::::::::::::
 
-### Elemental Adept Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:265px,left:400px,width:375px,mix-blend-mode:normal}
+### Elemental Adept Updated ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:322px,left:400px,width:375px,mix-blend-mode:normal}
 
 *General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic feature)*
 </br>You have developed an affinity for a specific element and have gained greater control over it. You the following benefits.
@@ -5968,7 +5968,7 @@ Origin Feats can be taken whenever you could take a General Feat, rather than ju
 
 ***Repeatable.*** You can take this feat more than once, but you must choose a different damage type each time for Energy Mastery.
 
-### Gunner Revised ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:667px,left:400px,width:375px,mix-blend-mode:normal}
+### Gunner Revised ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:704px,left:400px,width:375px,mix-blend-mode:normal}
 
 *General Feat (Prerequisite: Level 4+, Dexterity 13+)*
 </br>You have a keen eye when employing firearms, being able to take extremely precise and damaging shots. You gain the following benefits.
@@ -5981,38 +5981,36 @@ Origin Feats can be taken whenever you could take a General Feat, rather than ju
 
 ***Sniper.*** You do not have Disadvantage on Ranged Attack Rolls with a Firearm when you attack at Long Range, or while Prone.
 
-{{imageMaskCorner9,--offsetX:-60%,--offsetY:-39%,--rotation:0
-  ![gunner](https://i.imgur.com/xBFzvM4.jpeg){position:absolute,bottom:-1px,left:-1px,width:50%,mix-blend-mode:multiply}
+{{imageMaskCorner20,--offsetX:-50%,--offsetY:-50%,--rotation:0,--scaleY:0.925,--scaleX:1.05
+  ![gunner](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8d19c0a1-4431-4882-bfcf-5111d3996cb7/db49fb7-0d6762ab-2826-4891-8def-1360df1be4fe.jpg/v1/fit/w_617,h_750,q_70,strp/ashigaru_2_by_kiabugboy_db49fb7-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzUwIiwicGF0aCI6Ii9mLzhkMTljMGExLTQ0MzEtNDg4Mi1iZmNmLTUxMTFkMzk5NmNiNy9kYjQ5ZmI3LTBkNjc2MmFiLTI4MjYtNDg5MS04ZGVmLTEzNjBkZjFiZTRmZS5qcGciLCJ3aWR0aCI6Ijw9NjE3In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.gbcNHEfrRKBKWiv5q2JvTcbihpaPNusvsta5uppvRH4){position:absolute,bottom:-25px,left:-50px,width:57.5%,mix-blend-mode:multiply}
 }}
 
-{{position:absolute,top:650px,left:300px,margin-bottom:-30px,text-align:left
+{{position:absolute,top:610px,right:390px,margin-bottom:-30px,text-align:right
 
-<!-- ##### An Ashigaru </br> gunner with</br>a Hinawajū -->
-##### An Ashigaru </br> gunner with</br>a Hinawaju
+##### An Ashigaru </br> gunner with</br>a Hinawajū
 
 }}
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-{{imageMaskCorner27,--offsetX:-47.5%,--offsetY:41%,--rotation:0
-  ![archer](https://artfiles.alphacoders.com/128/128179.jpg){position:absolute,top:-1px,left:-50px,height:60%,transform:scaleX(-1)}
+{{imageMaskCorner27,--offsetX:-47.5%,--offsetY:50%,--rotation:0,--scaleY:1.15
+  ![archer](https://artfiles.alphacoders.com/128/128179.jpg){position:absolute,top:-1px,left:-80px,height:65%,transform:scaleX(-1)}
 }}
 
-{{position:absolute,top:650px,left:290px,margin-bottom:-30px,text-align:left
+{{position:absolute,top:675\px,left:100px,margin-bottom:-30px,text-align:left
 
-<!-- ##### A sharpshooter </br> with a Daikyū -->
-##### A sharpshooter </br> with a Daikyu
+##### A sharpshooter with a Daikyū
 
 }}
 
-::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::
 
-### Polearm Master (Sumiriku) ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:696px,left:55px,width:375px,mix-blend-mode:normal}
+### Polearm Master (Sumiriku) ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:729px,left:55px,width:375px,mix-blend-mode:normal}
 
 *General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+)*
 </br>You have trained extensively with pole weapons, granting you the following benefits.
@@ -6025,7 +6023,7 @@ Origin Feats can be taken whenever you could take a General Feat, rather than ju
 
 \column
 
-### Sharpshooter Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Sharpshooter Updated ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *General Feat (Prerequisite: Level 4+, Dexterity 13+)*
 </br>You can make shots that others find impossible, gaining the following benefits.
@@ -6038,7 +6036,7 @@ Origin Feats can be taken whenever you could take a General Feat, rather than ju
 
 ***Fancy Feet.*** If you are the target of a Melee Attack from a hostile creature that misses while you are wielding a Ranged or Thrown weapon, you can use your Reaction to move up to 5 feet without provoking Opportunity Attacks. Once you have moved you can make a single Ranged Weapon Attack as part of the same Reaction.
 
-### Spell Sniper Updated ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:466px,left:400px,width:375px,mix-blend-mode:normal}
+### Spell Sniper Updated ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:412px,left:400px,width:375px,mix-blend-mode:normal}
 
 *General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic feature)*
 </br>You have learned techniques to enhance your attacks with certain kinds of spells, gaining the following benefits.
@@ -6062,17 +6060,19 @@ Homebrew feats, such as those found alongside the recommended Alternate version 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
 # Appendix C - Spell Changes
 
-{{#spell-table,wide
-
-:
+{{wide
 
 Below is an list of the spells changed in this document, with a brief description of the change.
+
+}}
+
+{{#spell-table,wide
 
 ##### Custom Spell Changes
 
@@ -6132,13 +6132,13 @@ Below is an list of the spells changed in this document, with a brief descriptio
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
 ## Level 1
 
-### Chromatic Orb ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:97px,left:55px,width:375px,mix-blend-mode:normal}
+### Chromatic Orb ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:97px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 1 Illusion*
 **Casting Time:** :: Action
@@ -6151,7 +6151,7 @@ If you roll the same number on two or more of the d8s, the orb leaps to a differ
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each Spell Slot Level above 1. The orb can leap a maximum number of times equal to the level of the slot expended, and a creature can be targeted only once by each casting of this spell.
 
-### Color Spray ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:584px,left:55px,width:375px,mix-blend-mode:normal}
+### Color Spray ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:541px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 1 Illusion*
 **Casting Time:** :: Action
@@ -6164,7 +6164,7 @@ You launch a dazzling array of flashing, colorful light. Each creature in a 15-f
 
 \column
 
-### Find Familiar ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Find Familiar ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 1 Conjuration*
 **Casting Time:** :: 1 hour or Ritual
@@ -6188,11 +6188,11 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-### Goodberry ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Goodberry ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 1 Conjuration*
 **Casting Time:** :: Action
@@ -6205,7 +6205,7 @@ Uneaten berries disappear when the spell ends.
 
 ***Using a Higher-Level Spell Slot.*** Five additional berries appear for each Spell Slot Level above 1.
 
-### Inflict Wounds ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:425px,left:55px,width:375px,mix-blend-mode:normal}
+### Inflict Wounds ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:390px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 1 Necromancy*
 **Casting Time:** :: Action
@@ -6216,7 +6216,7 @@ A creature you touch makes a Constitution Saving Throw, taking 3d10 Necrotic dam
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d10 for each Spell Slot Level above 1.
 
-### Jump ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:696px,left:55px,width:375px,mix-blend-mode:normal}
+### Jump ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:650px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 1 Transmutation*
 **Casting Time:** :: Bonus Action
@@ -6229,7 +6229,7 @@ You touch a willing creature. The creature's jumps have triple the distance for 
 
 \column
 
-### Shield ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Shield ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 1 Abjuration*
 **Casting Time:** :: Reaction, which you take when you are hit by an attack or targeted by the *Magic Missile* spell
@@ -6240,7 +6240,7 @@ An invisible barrier of magical force appears and protects you. Until the start 
 
 ## Level 2
 
-### Aid ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:385px,left:400px,width:375px,mix-blend-mode:normal}
+### Aid ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:370px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Abjuration*
 **Casting Time:** :: Action
@@ -6254,11 +6254,11 @@ Choose up to three creatures within range. Each target's current Hit Points incr
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-### Alter Self ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Alter Self ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Transmutation*
 **Casting Time:** :: Action
@@ -6275,7 +6275,7 @@ You alter your physical form. Choose one of the following options. Its effects l
 
 \column
 
-### Crown of Madness ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Crown of Madness ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Enchantment*
 **Casting Time:** :: Action
@@ -6288,7 +6288,7 @@ A spectral crown appears on the Charmed target's head, and it must use its Actio
 
 On your later turns, you must take the Magic action to maintain control of the target, or the spell ends.
 
-### Find Traps ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:496px,left:400px,width:375px,mix-blend-mode:normal}
+### Find Traps ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:475px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Divination*
 **Casting Time:** :: Action
@@ -6302,11 +6302,11 @@ This spell reveals that a trap is present and its location. You do learn the gen
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-### Flame Blade ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Flame Blade ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Evocation*
 **Casting Time:** :: Bonus Action
@@ -6321,7 +6321,7 @@ The flaming blade sheds Bright Light in a 10-foot radius and Dim Light for an ad
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 2.
 
-### Heat Metal ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:479px,left:55px,width:375px,mix-blend-mode:normal}
+### Heat Metal ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:441px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Transmutation*
 **Casting Time:** :: Action
@@ -6332,7 +6332,7 @@ Choose a metal object that you can see within range. You cause the object to glo
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each Spell Slot Level above 2.
 
-### Lesser Restoration ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:767px,left:55px,width:375px,mix-blend-mode:normal}
+### Lesser Restoration ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:718px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Abjuration*
 **Casting Time:** :: Bonus Action
@@ -6343,7 +6343,7 @@ You touch a creature and end one Condition on it: Blinded, Dazed, Deafened, Para
 
 \column
 
-### Melf's Acid Arrow ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Melf's Acid Arrow ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Evocation*
 **Casting Time:** :: Action
@@ -6354,7 +6354,7 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 ***Using a Higher-Level Spell Slot.*** The damage (both initial and later) increases by 1d4 for each Spell Slot Level above 2.
 
-### Pass Without Trace ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:406px,left:400px,width:375px,mix-blend-mode:normal}
+### Pass Without Trace ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:390px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Abjuration*
 **Casting Time:** :: Action
@@ -6365,7 +6365,7 @@ You radiate a concealing aura in a 30-foot Emanation for the duration. While in 
 
 ***Using a Higher-Level Spell Slot.*** The Dexterity (Stealth) bonus increases by +1 for each Spell Slot Level above 2.
 
-### Prayer of Healing ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:713px,left:400px,width:375px,mix-blend-mode:normal}
+### Prayer of Healing ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:684px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Abjuration*
 **Casting Time:** :: 1 minute
@@ -6379,11 +6379,11 @@ Choose a number of willing creatures equal to your Spellcasting Ability modifier
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png){position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png){position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-### Ray of Enfeeblement ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Ray of Enfeeblement ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Necromancy*
 **Casting Time:** :: Action
@@ -6394,7 +6394,7 @@ A beam of enervating energy shoots from you toward a creature within range. The 
 
 On a failed save, the target has Disadvantage on Strength checks, Strength Saving Throws, and attacks for the duration of the spell. The target repeats the save at the end of each of its turns, ending the spell on a success.
 
-### Spike Growth ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:406px,left:55px,width:375px,mix-blend-mode:normal}
+### Spike Growth ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:391px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Transmutation*
 **Casting Time:** :: 1 Action
@@ -6407,7 +6407,7 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 
 \column
 
-### Web ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Web ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 2 Conjuration*
 **Casting Time:** :: 1 Action
@@ -6424,7 +6424,7 @@ The webs are flammable. If the webs are exposed to fire they burn away in 1 roun
 
 ## Level 3
 
-### Counterspell ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:691px,left:400px,width:375px,mix-blend-mode:normal}
+### Counterspell ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:642px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 3 Abjuration*
 **Casting Time:** :: Reaction, which you take when you see a creature within 60 feet of yourself casting a spell with Verbal, Somatic, or Material components
@@ -6436,11 +6436,11 @@ You attempt to interrupt a creature in the process of casting a spell. The creat
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-### Fear ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Fear ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 3 Illusion*
 **Casting Time:** :: 1 Action
@@ -6451,7 +6451,7 @@ You project a phantasmal image of a creature's worst fears. Each creature in a 3
 
 An affected creature can repeat the Saving Throw at the end of each of its turns, ending the effect on a success.
 
-### Hypnotic Pattern ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:425px,left:55px,width:375px,mix-blend-mode:normal}
+### Hypnotic Pattern ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:407px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 3 Illusion*
 **Casting Time:** :: 1 Action
@@ -6464,7 +6464,7 @@ An affected creature can repeat this Saving Throw at the end of each of its turn
 
 \column
 
-### Leomund's Tiny Hut ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Leomund's Tiny Hut ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 3 Evocation*
 **Casting Time:** :: 1 minute
@@ -6479,14 +6479,7 @@ The atmosphere inside the Emanation is comfortable and dry, regardless of the we
 
 The spell ends early if you leave the Emanation or if you cast it again.
 
-{{pageNumber,auto}}
-{{footnote EXTRA | APPENDICES}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
-
-\page
-
-### Plant Growth ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Plant Growth ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:560px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 3 Transmutation*
 **Casting Time:** :: Action (Overgrowth) or 8 hours (Enrichment)
@@ -6499,9 +6492,14 @@ This spell channels vitality into plants. The casting time you use determines wh
 
 **Enrichment.** All plants in a half-mile radius centered on a point within range become enriched for 365 days. The plants yield twice the normal amount of food when harvested. They can benefit from only one Plant Growth per year.
 
-\column
+{{pageNumber,auto}}
+{{footnote EXTRA | APPENDICES}}
 
-### Spirit Guardians ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
+
+### Spirit Guardians ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 3 Evocation*
 **Casting Time:** :: Action
@@ -6516,7 +6514,7 @@ When you cast this spell, you can designate creatures to be unaffected by it. Th
 
 ## Level 4
 
-### Conjure Minor Elementals ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:619px,left:400px,width:375px,mix-blend-mode:normal}
+### Conjure Minor Elementals ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:591px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 4 Conjuration*
 **Casting Time:** :: Action
@@ -6529,14 +6527,9 @@ In addition, the ground in the Emanation is Difficult Terrain for your enemies.
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for every spell slot level above 4.
 
-{{pageNumber,auto}}
-{{footnote EXTRA | APPENDICES}}
+\column
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
-
-\page
-
-### Evard's Black Tentacles ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Evard's Black Tentacles ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 4 Conjuration*
 **Casting Time:** :: Action
@@ -6547,7 +6540,7 @@ Squirming, ebony tentacles fill a 20-foot square on ground that you can see with
 
 Each creature in that area makes a Strength Saving Throw. On a failed save, it takes 3d6 Bludgeoning damage, and it has the Restrained Condition until the spell ends or they leave the area. A creature also makes that save if it enters the area or ends it turn there. A creature makes this save even if they are already Restrained by the spell, taking the Bludgeoning damage again on a failed save or ending the Condition on a successful save. A creature makes that save only once per turn.
 
-### Leomund's Secret Chest ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:479px,left:55px,width:375px,mix-blend-mode:normal}
+### Leomund's Secret Chest ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:458px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 4 Conjuration*
 **Casting Time:** :: Action
@@ -6560,9 +6553,14 @@ While the chest remains on the Ethereal Plane, you can take a Magic action and t
 
 The spell ends if you cast this spell again or if the Tiny replica chest is destroyed. If the spell ends and the larger chest is on the Ethereal Plane, the chest remains there for you or someone else to find.
 
-\column
+{{pageNumber,auto}}
+{{footnote EXTRA | APPENDICES}}
 
-### Phantasmal Killer ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
+
+\page
+
+### Phantasmal Killer ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 4 Illusion*
 **Casting Time:** :: Action
@@ -6575,7 +6573,7 @@ For the duration, the target makes a Wisdom saving throw at the end of each of i
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d10 for each Spell Slot Level above 4.
 
-### Polymorph ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:496px,left:400px,width:375px,mix-blend-mode:normal}
+### Polymorph ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:475px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 4 Transmutation*
 **Casting Time:** :: Action
@@ -6588,14 +6586,9 @@ This spell transforms a creature that you can see within range into one of the B
 
 The transformation lasts for the duration. The target can choose to end the spell early when they take damage, and they can also choose to repeat the Saving Throw at the end of each of its turns, ending the effect on a success.
 
-{{pageNumber,auto}}
-{{footnote EXTRA | APPENDICES}}
+\column
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
-
-\page
-
-### Stoneskin ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Stoneskin ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 4 Abjuration*
 **Casting Time:** :: Action
@@ -6606,7 +6599,7 @@ This spell turns the flesh of a willing creature you touch as hard as stone. Unt
 
 ## Level 5
 
-### Dream ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:313px,left:55px,width:375px,mix-blend-mode:normal}
+### Dream ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:302px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 5 Illusion*
 **Casting Time:** :: 1 minute or Ritual
@@ -6621,9 +6614,14 @@ If the target is awake when you cast the spell, the messenger knows it and can e
 
 You can make the messenger terrifying to the target. If you do so, the messenger can deliver a message of no more than ten words, and then the target makes a Wisdom saving throw. On a failed save, the target gains no benefit from its rest, and it takes 3d6 Psychic damage when it wakes up.
 
-\column
+{{pageNumber,auto}}
+{{footnote EXTRA | APPENDICES}}
 
-### Geas ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
+
+### Geas ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 5 Enchantment*
 **Casting Time:** :: 1 minute
@@ -6640,14 +6638,9 @@ A Remove Curse,Greater Restoration, or Wish spell ends this spell.
 
 ***Using a Higher-Level Spell Slot.*** If you use a Level 7 or 8 Spell Slot, the duration is 365 days. If you use a Level 9 Spell Slot, the spell lasts until it is ended by one of the spells mentioned above.
 
-{{pageNumber,auto}}
-{{footnote EXTRA | APPENDICES}}
+\column
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
-
-\page
-
-### Planar Binding ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Planar Binding ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 5 Abjuration*
 **Casting Time:** :: 1 hour
@@ -6660,9 +6653,14 @@ A bound creature must follow your commands to the best of its ability. You might
 
 **Using a Higher-Level Spell Slot.** The duration increases with a Spell Slot of level 6 (10 days), 7 (30 days), 8 (180 days), and 9 (366 days).
 
-\column
+{{pageNumber,auto}}
+{{footnote EXTRA | APPENDICES}}
 
-### Wall of Force ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
+
+\page
+
+### Wall of Force ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 5 Conjuration*
 **Casting Time:** :: Action
@@ -6677,16 +6675,11 @@ An Invisible wall of force springs into existence at a point you choose within r
 
 ***Using a Higher-Level Spell Slot.*** The Hit Points of the wall created by this spell increase by 25 for each Spell Slot Level above 5.
 
-{{pageNumber,auto}}
-{{footnote EXTRA | APPENDICES}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
-
-\page
+\column
 
 ## Level 6
 
-### Magic Jar ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:97px,left:55px,width:375px,mix-blend-mode:normal}
+### Magic Jar ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:96px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 6 Necromancy*
 **Casting Time:** :: 1 minute
@@ -6710,9 +6703,14 @@ While you possess a creature, this spell ends, returning your soul to your body 
 
 Meanwhile, the possessed creature's soul can perceive from the container using its own senses, but it can't move or take actions at all. If the host body is dead when the spell ends, they die. If your body is dead when the spell ends, you die. When the spell ends, the container is destroyed.
 
-\column
+{{pageNumber,auto}}
+{{footnote EXTRA | APPENDICES}}
 
-### Otto's Irresistible Dance ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
+
+### Otto's Irresistible Dance ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 6 Enchantment*
 **Casting Time:** :: Action
@@ -6721,7 +6719,7 @@ Meanwhile, the possessed creature's soul can perceive from the container using i
 **Duration:**     :: Concentration, up to 1 minute
 One creature that you can see within range begins dancing comically and has the Charmed Condition for the duration. Creatures immune to the Charmed Condition are immune to this spell. While Charmed, the target must use all its movement to dance in place, and has Disadvantage on Dexterity Saving Throws and Attack Rolls, and other creatures have Advantage on Attack Rolls against it. On each of its turns, the target can take an Action to collect itself and make a Wisdom Saving Throw, ending the spell on itself on a success.
 
-### Planar Ally ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:425px,left:400px,width:375px,mix-blend-mode:normal}
+### Planar Ally ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:407px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 6 Conjuration*
 **Casting Time:** :: 10 minutes
@@ -6732,16 +6730,11 @@ You beseech an otherworldly entity for aid. The being must be known to you: a go
 
 When the creature appears, you can telepathically give the creature a single sentence task, even if you cannot communicate with them normally. The creature will attempt to complete the task to the best of their ability, so long as it is not obviously impossible or suicidal in nature. The spell ends early if the task is completed or the creature falls to 0 Hit Points.
 
-{{pageNumber,auto}}
-{{footnote EXTRA | APPENDICES}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
-
-\page
+\column
 
 ## Level 7
 
-### Forcecage ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:97px,left:55px,width:375px,mix-blend-mode:normal}
+### Forcecage ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:96px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 7 Conjuration*
 **Casting Time:** :: Action
@@ -6760,9 +6753,14 @@ A creature inside the cage cannot leave it by non-magical means. If the creature
 
 ***Using a Higher-Level Spell Slot.*** The Hit Points of the cage created by this spell increase by 25 for each Spell Slot Level above 7.
 
-\column
+{{pageNumber,auto}}
+{{footnote EXTRA | APPENDICES}}
 
-### Simulacrum ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
+
+\page
+
+### Simulacrum ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 7 Illusion*
 **Casting Time:** :: 12 hours
@@ -6777,16 +6775,11 @@ If the simulacrum takes damage, the only way to restore its Hit Points is to rep
 
 The simulacrum lasts until it drops to 0 Hit Points, at which point it reverts to snow and melts away. If you cast this spell again, any simulacrum you created with this spell is instantly destroyed.
 
-{{pageNumber,auto}}
-{{footnote EXTRA | APPENDICES}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
-
-\page
+\column
 
 ## Level 8
 
-### Befuddlement ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:97px,left:55px,width:375px,mix-blend-mode:normal}
+### Befuddlement ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:96px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 8 Enchantment*
 **Casting Time:** :: Action
@@ -6799,7 +6792,7 @@ On a failed save, the target takes 10d12 Psychic damage and can't cast spells or
 
 On a successful save, the target takes half as much damage only.
 
-### Control Weather ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:440px,left:55px,width:375px,mix-blend-mode:normal}
+### Control Weather ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:422px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 8 Transmutation*
 **Casting Time:** :: 10 minutes
@@ -6814,9 +6807,14 @@ When you change the weather conditions, find a current condition on the followin
 
 *(Condition Tables remain the same)*
 
-\column
+{{pageNumber,auto}}
+{{footnote EXTRA | APPENDICES}}
 
-### Incendiary Cloud ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
+
+### Incendiary Cloud ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 8 Conjuration*
 **Casting Time:** :: Action
@@ -6829,16 +6827,11 @@ When the cloud appears, each creature in it must make a Dexterity Saving Throw. 
 
 When the cloud appears, choose a direction. The cloud moves 10 feet in that direction at the start of each of your turns.
 
-{{pageNumber,auto}}
-{{footnote EXTRA | APPENDICES}}
-
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
-
-\page
+\column
 
 ## Level 9
 
-### Prismatic Wall ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:97px,left:55px,width:375px,mix-blend-mode:normal}
+### Prismatic Wall ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:96px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 9 Abjuration*
 **Casting Time:** :: Action
@@ -6856,9 +6849,14 @@ The wall, which has AC 10, can be destroyed one layer at a time, in order from r
 
 *(Layer properties remain the same)*
 
-\column
+{{pageNumber,auto}}
+{{footnote EXTRA | APPENDICES}}
 
-### Shapechange ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
+
+\page
+
+### Shapechange ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 9 Transmutation*
 **Casting Time:** :: Action
@@ -6873,14 +6871,9 @@ Your game statistics are replaced by the stat block of the chosen form, but you 
 
 Upon shape-shifting, you determine whether your equipment drops to the ground or changes in size and shape to fit the new form while you're in it.
 
-{{pageNumber,auto}}
-{{footnote EXTRA | APPENDICES}}
+\column
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
-
-\page
-
-### True Polymorph ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### True Polymorph ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Level 9 Transmutation*
 **Casting Time:** :: Action
@@ -6901,9 +6894,14 @@ The target's gear melds into the new form. The creature can't activate, use, wie
 
 *(Object into Creature and Creature into Object remains the same)*
 
-\column
+{{pageNumber,auto}}
+{{footnote EXTRA | APPENDICES}}
 
-### Wish ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+
+\page
+
+### Wish ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 9 Conjuration*
 **Casting Time:** :: Action
@@ -6923,7 +6921,7 @@ Using Wish in any way other than duplicating a spell causes any effects previous
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -6949,7 +6947,7 @@ You need to be able to see or hear the Bard to be able to receive Bardic Inspira
 
 The following are the Conditions that have been added or have had their rules modified:
 
-### Dazed ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:832px,left:55px,width:375px,mix-blend-mode:normal}
+### Dazed ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:812px,left:55px,width:375px,mix-blend-mode:normal}
 
 While Dazed, you experience the following effect:
 
@@ -6957,7 +6955,7 @@ While Dazed, you experience the following effect:
 
 \column
 
-### Dying ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:105px,left:400px,width:375px,mix-blend-mode:normal}
+### Dying ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:104px,left:400px,width:375px,mix-blend-mode:normal}
 
 When you reach 0 Hit Points but are not instantly killed, you gain the Dying Condition. When you take damage that reduces you to 0 Hit Points, if the remaining damage equals or exceeds your maximum Hit Points, you die.
 
@@ -6984,11 +6982,11 @@ While Dying, you experience the following effects:
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-### Exhausted ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Exhausted ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 While Exhausted, you experience the following effects:
 
@@ -7000,7 +6998,7 @@ While Exhausted, you experience the following effects:
 
 **Ending the Condition.** Finishing a Sleep removes 1 of your points of Exhaustion. When your Exhaustion points reaches 0, you are no longer Exhausted.
 
-### Grappled ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:394px,left:55px,width:375px,mix-blend-mode:normal}
+### Grappled ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:378px,left:55px,width:375px,mix-blend-mode:normal}
 
 While Grappled, you experience the following effects:
 
@@ -7012,7 +7010,7 @@ While Grappled, you experience the following effects:
 
 **Escape.** While Grappled, you can make a Dexterity or Strength Saving Throw against the grapple's escape DC at the end of each of your turns, ending the Condition on yourself on a success. The Condition also ends if the grappler is Incapacitated or if something moves you outside the grapple's range without using your Speed.
 
-### Paralyzed ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:796px,left:55px,width:375px,mix-blend-mode:normal}
+### Paralyzed ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:760px,left:55px,width:375px,mix-blend-mode:normal}
 
 While Paralyzed, you experience the following effect:
 
@@ -7028,7 +7026,7 @@ While Paralyzed, you experience the following effect:
 
 \column
 
-### Prone ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Prone ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 While Prone, you experience the following effects:
 
@@ -7038,7 +7036,7 @@ While Prone, you experience the following effects:
 
 **Sitting Duck.** Attack Rolls against you have Advantage if the attack is a Melee Attack, or if the attacker is within 5 feet of you. Otherwise, the Attack Roll has Disadvantage.
 
-### Struggling ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:321px,left:400px,width:375px,mix-blend-mode:normal}
+### Struggling ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:310px,left:400px,width:375px,mix-blend-mode:normal}
 
 While Struggling, you experience the following effect:
 
@@ -7048,7 +7046,7 @@ While Struggling, you experience the following effect:
 
 **Ending Effects.** Effects that end when you gain the Incapacitated Condition also end when you gain the Struggling Condition.
 
-### Stunned ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:651px,left:400px,width:375px,mix-blend-mode:normal}
+### Stunned ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:624px,left:400px,width:375px,mix-blend-mode:normal}
 
 While Stunned, you experience the following effect:
 
@@ -7063,7 +7061,7 @@ While Stunned, you experience the following effect:
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -7096,7 +7094,7 @@ Below is a table of all existing creature types in D&D, alongside the equivalent
 
 ## Eyes
 
-### Invisibility ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:570px,left:55px,width:375px,mix-blend-mode:normal}
+### Invisibility ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:545px,left:55px,width:375px,mix-blend-mode:normal}
 
 If a creature can somehow see a creature with Invisibility, as with Blindsight or Tremorsense, they don't gain the benefits of Invisibility against that creature.
 
@@ -7108,7 +7106,7 @@ For example, if you have a Speed of 30 and a Fly Speed of 60 because a Wizard ca
 
 \column
 
-### Jumping ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Jumping ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 Most long jumps, particularly those that happen in combat or while exploring a dungeon, are measured in increments of 5 feet. A 10 foot long jump is considered a jump that is able to clear a 5 foot gap, for example. Long jumping distance is rolled up to the nearest multiple of 5; a 6 foot long jump is considered equivalent to a 10 foot long jump.
 
@@ -7118,16 +7116,16 @@ You can also Long Jump as an Action. If you have moved at least 10 feet on foot,
 
 You can additionally attempt to High Jump as part of your Move on your turn. When you High Jump, you leap into the air a number of feet equal to your half your Athletics modifier. If you do not move at least 10 feet on foot before jumping, the distance you can High Jump is halved. The minimum height you can High Jump is 1 foot. A High Jump uses movement equal to the number of feet cleared, rounded up to the nearest 5. When appropriate, you can make a Strength (Athletics) check to grab onto or climb an adjacent platform or surface, but you cannot take actions while jumping. You can High Jump as an Action, clearing the same height as you would normally but not having any distance covered being considered part of your movement.
 
+When you land in Difficult Terrain, you must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check (DC 15) to land on your feet. Otherwise, you get the Prone Condition as you land.
+
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-&nbsp;When you land in Difficult Terrain, you must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check (DC 15) to land on your feet. Otherwise, you get the Prone Condition as you land.
-
-### Difficult Terrain ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:168px,left:55px,width:375px,mix-blend-mode:normal}
+### Difficult Terrain ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 Difficult Terrain is an area that reduces the movement of creatures that travel through it. By default Difficult Terrain makes it so that every 5 feet travelled through it uses 10 feet of movement, but some effects may specify a different amount of movement that is required to travel 5 feet. Different sources of Difficult Terrain do not stack.
 
@@ -7145,13 +7143,13 @@ Features that require having a free hand, such as making Unarmed Strikes, can be
 
 \column
 
-### Grappling and Shoving ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Grappling and Shoving ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 Grappling or Shoving a target requires a free hand. You cannot use that hand for as long as the target is grappled. A grappled creature counts as being in melee range, or within 5 feet, of the grappler for the purposes of targeting.
 
 Grappling or Shoving can be done in place of an Unarmed Strike when taking the Attack action. The target must succeed on a Strength or Dexterity Saving Throw (it choses, DC 8 plus your Athletics modifier) or it takes the effect of the Grapple or Shove, having the Grappled Condition, being pushed 5 feet away, or having the Prone Condition. These effects are only possible if the target is no more than one size larger than you.
 
-### Spellcasting Foci ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:376px,left:400px,width:375px,mix-blend-mode:normal}
+### Spellcasting Foci ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:361px,left:400px,width:375px,mix-blend-mode:normal}
 
 A Spellcasting Focus is an item that lets a spellcaster replace the need for individual components when casting a spell. If you are holding a Spellcasting Focus in either the main or off hand, you can ignore any Somatic or Material components required for the spell. The only exception to this is for spells where the Material components are consumed by the spell or have a gold cost. To cast spells with this Condition you need to have the required components in either hand. If that spell also has Somatic components, the other hand needs to either hold a Spellcasting Focus or be free to perform said Somatic components.
 
@@ -7162,7 +7160,7 @@ Bards can use musical instruments as their Spellcasting Focus for Bard spells. I
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -7182,15 +7180,15 @@ Sign Language is a universal method of non-verbal communication, achieved by usi
 - OR the Spellcasting Focus is a two-handed instrument, where a free hand (that can be holding materials) is needed to play the instrument for the V and S of the spell.
 - If you want to cast a VSM spell with materials that have a cost or are consumed, you can either have a Spellcasting Focus in one hand and the materials in the other or you can have the materials in one hand and leave the other for performing the S components.
 
-### Versatile Weapons ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:876px,left:55px,width:375px,mix-blend-mode:normal}
+### Versatile Weapons ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:814px,left:55px,width:375px,mix-blend-mode:normal}
 
 When an attack is made with a Versatile weapon and your off-hand is free, you can choose to make the Weapon Attack with both hands, using the Versatile damage die for the damage.
 
-\column
-
-### Two-Handed Weapons ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Two-Handed Weapons ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:924px,left:55px,width:375px,mix-blend-mode:normal}
 
 Two-Handed weapons count as being held only in one hand, which allows you to have a free off-hand for holding items or making Unarmed Strikes. However, you are required to have a free off-hand to be able to make attacks with this weapon.
+
+\column
 
 ## Heroic Reroll
 
@@ -7213,21 +7211,21 @@ If a feature lets you or forces you to reroll or otherwise change the result of 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
 ## Resting and Sleeping
 
-### Short Rest ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:97px,left:55px,width:375px,mix-blend-mode:normal}
+### Short Rest ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:96px,left:55px,width:375px,mix-blend-mode:normal}
 
 A Short Rest is a 10 minute period of downtime, an opportunity for characters to catch their breath and tend to their wounds before continuing. For the duration of a Short Rest you must have at least 1 Hit Point.
 
-:
-
 When you finish the Short Rest, you gain the following benefits.
 
-**Spend Hit Point Dice.** You can spend one or more of your Hit Point Dice to regain Hit Points. For each Hit Point Dice you spend in this way, roll the die, and add your Constitution modifier to it. You regain Hit Points equal to the total (minimum of 1 Hit Point). You can decide to spend an additional Hit Point Dice after each roll.
+:
+
+&nbsp;&nbsp;&nbsp;&nbsp;**Spend Hit Point Dice.** You can spend one or more of your Hit Point Dice to regain Hit Points. For each Hit Point Dice you spend in this way, roll the die, and add your Constitution modifier to it. You regain Hit Points equal to the total (minimum of 1 Hit Point). You can decide to spend an additional Hit Point Dice after each roll.
 
 **Special Features.** Some features are recharged by a Short Rest. If you have such a feature, it recharges in the way specified in its description.
 
@@ -7235,13 +7233,13 @@ When you finish the Short Rest, you gain the following benefits.
 
 A Short Rest is stopped by rolling Initiative, casting a spell other than a cantrip, taking or dealing any damage, or travelling from the place of the rest. An interrupted Short Rest confers no benefits, and it must be started over to confer any.
 
-### Sleep ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:618px,left:55px,width:375px,mix-blend-mode:normal}
+### Sleep ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:572px,left:55px,width:375px,mix-blend-mode:normal}
 
 Almost all characters need to sleep to fend off exhaustion. To gain the benefits of a sleep you must spend 6 hours fully asleep, during which you have the Unconscious Condition. This sleep can be broken up by at most 2 hours of light activity, such as standing watch. For the duration of a Sleep you must have at least 1 Hit Point.
 
-:
-
 When you finish the Sleep, you gain the following benefits.
+
+:
 
 **Stave Off Exhaustion.** You will not gain a point of Exhaustion due to tiredness unless you have not slept again 24 hours from now.
 
@@ -7253,7 +7251,7 @@ When you finish the Sleep, you gain the following benefits.
 
 A Sleep is stopped by rolling Initiative, casting a spell other than a cantrip, taking or dealing any damage, 1 hour of walking or other physical exertion, or being violently awoken. You can resume a Sleep immediately after an interruption. If you do, the Sleep requires 1 additional hour to finish. After you finish a Sleep, you must wait at least 16 hours before starting another one.
 
-### Long Rest ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:240px,left:400px,width:375px,mix-blend-mode:normal}
+### Long Rest ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:230px,left:400px,width:375px,mix-blend-mode:normal}
 
 A Long Rest is a Sleep completed in a location of relative safety, such as a town or city. For the duration of a Long Rest you must have at least 1 Hit Point.
 
@@ -7281,7 +7279,7 @@ A Long Rest is stopped if the Sleep is stopped. If a Long Rest is interrupted it
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
@@ -7301,25 +7299,25 @@ Some classes, subclasses, and feats let characters gain access to Weapon Masteri
 
 \column
 
-### Cleave ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
+### Cleave ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Prerequisite: Melee Weapon, Heavy Property*
 </br>
 If you hit a creature with a Melee Attack using this weapon, you can deal damage to every creature of your choice adjacent to the target and within the weapon's reach. This damage is equal to one roll of the weapon's damage die. You can deal this extra damage only once per turn.
 
-### Nick ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:249px,left:400px,width:375px,mix-blend-mode:normal}
+### Nick ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:225px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Prerequisite: Light Property*
 </br>
 When you make the extra attack of the Light property, you can make it as part of the Attack action, instead of as a Bonus Action. You can still make this extra attack only once per turn, and this extra attack still does not apply any Weapon Mastery properties.
 
-### Push ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:417px,left:400px,width:375px,mix-blend-mode:normal}
+### Push ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:386px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Prerequisite: Heavy, Two-Handed, or Versatile Property*
 </br>
 If you hit a creature with this weapon, you can push the creature up to 10 feet away from you if it is no more than one size larger than you. This movement is stopped by terrain and other creatures the same size or larger than the hit creature.
 
-### Topple ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:603px,left:400px,width:375px,mix-blend-mode:normal}
+### Topple ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:564px,left:400px,width:375px,mix-blend-mode:normal}
 
 *Prerequisite: Heavy, Reach, or Versatile Property*
 </br>
@@ -7329,18 +7327,18 @@ If you hit a creature with this weapon and exceed its AC by 5 or more, you may f
 
 The following Weapon Properties have been updated:
 
-### Heavy ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:812px,left:400px,width:375px,mix-blend-mode:normal}
+### Heavy ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:753px,left:400px,width:375px,mix-blend-mode:normal}
 
 Creatures that are Medium or Larger must have a Strength of 13 or higher or they have Disadvantage on Attack Rolls when attacking with a Heavy weapon. Creatures that are Small need a Strength of 15 or higher to not attack at Disadvantage, and Tiny creatures can't attack with this weapon.
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
-### Light ![line](https://i.imgur.com/TLmc0GL.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
+### Light ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:64px,left:55px,width:375px,mix-blend-mode:normal}
 
 When you take the Attack action on your turn and attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon you hold in your other hand, you must be holding both weapons when you make these attacks, and you don't add your Ability Modifier to the extra attack's damage, unless that modifier is negative. This Bonus Action attack cannot apply any Weapon Mastery properties.
 
@@ -7371,31 +7369,26 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
 # Appendix E - Reference Images
 
-:
-
 ## Simple Melee Weapons
 
-:
-
 {{text-align:center
-![bō-staff](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/B%C5%8D.jpg/1200px-B%C5%8D.jpg){position:absolute,bottom:650px,left:25px,width:110px}
+  ![bō-staff](https://upload.wikimedia.org/wikipedia/commons/5/51/B%C5%8D.jpg){position:absolute,bottom:650px,left:25px,width:110px}
 }}
 
 {{position:absolute,bottom:650px,left:75px,margin-bottom:-20px,text-align:left
 
-<!-- ##### Bō -->
-##### Bo
+##### Bō
 
 }}
 
 {{text-align:center
-![bokken](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Various_bokken_or_bukuto.jpg/320px-Various_bokken_or_bukuto.jpg){position:absolute,bottom:650px,left:165px,width:110px}
+  ![bokken](https://upload.wikimedia.org/wikipedia/commons/b/b0/Various_bokken_or_bukuto.jpg){position:absolute,bottom:650px,left:165px,width:110px}
 }}
 
 {{position:absolute,bottom:650px,left:195px,margin-bottom:-20px,text-align:left
@@ -7405,18 +7398,17 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 }}
 
 {{text-align:center
-![hanbō](https://upload.wikimedia.org/wikipedia/commons/d/db/Hanbo.png){position:absolute,bottom:650px,left:305px,width:110px}
+  ![hanbō](https://upload.wikimedia.org/wikipedia/commons/d/db/Hanbo.png){position:absolute,bottom:650px,left:305px,width:110px}
 }}
 
 {{position:absolute,bottom:650px,left:340px,margin-bottom:-20px,text-align:left
 
-<!-- ##### Hanbō -->
-##### Hanbo
+##### Hanbō
 
 }}
 
 {{text-align:center
-![hoko-yari](https://i.imgur.com/5cppj7P.jpg){position:absolute,bottom:550px,left:25px,width:400px}
+  ![hoko-yari](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Extra/Reference%20Images/Hoko%20Yari%20(Edit)%20-%20Unknown.jpg){position:absolute,bottom:550px,left:25px,width:400px}
 }}
 
 {{position:absolute,bottom:550px,left:190px,margin-bottom:-20px,text-align:left
@@ -7426,7 +7418,7 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 }}
 
 {{text-align:center
-![kama](https://upload.wikimedia.org/wikipedia/commons/c/c1/Kamas.jpg){position:absolute,bottom:340px,left:25px,width:190px}
+  ![kama](https://upload.wikimedia.org/wikipedia/commons/c/c1/Kamas.jpg){position:absolute,bottom:340px,left:25px,width:190px}
 }}
 
 {{position:absolute,bottom:340px,left:100px,margin-bottom:-20px,text-align:left
@@ -7436,7 +7428,7 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 }}
 
 {{text-align:center
-![kunai](https://upload.wikimedia.org/wikipedia/commons/d/d1/Kunai05.jpg){position:absolute,bottom:340px,left:235px,width:190px}
+  ![kunai](https://upload.wikimedia.org/wikipedia/commons/d/d1/Kunai05.jpg){position:absolute,bottom:340px,left:235px,width:190px}
 }}
 
 {{position:absolute,bottom:340px,left:310px,margin-bottom:-20px,text-align:left
@@ -7446,11 +7438,11 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 }}
 
 {{text-align:center
-![ono](https://i.imgur.com/zAtX4Cc.jpg){position:absolute,bottom:75px,left:105px,width:110px}
+  ![ono](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Extra/Reference%20Images/Ono%201%20(Edit)%20-%20upload.wikimedia.org%2Bwikipedia%2Bcommons%2B1%2B1d%2BOno_1.JPG.jpg){position:absolute,bottom:75px,left:105px,width:110px}
 }}
 
 {{text-align:center
-![ono-2](https://upload.wikimedia.org/wikipedia/commons/5/5f/Ono-axe.jpg){position:absolute,bottom:75px,left:235px,width:110px}
+  ![ono-2](https://upload.wikimedia.org/wikipedia/commons/5/5f/Ono-axe.jpg){position:absolute,bottom:75px,left:235px,width:110px}
 }}
 
 {{position:absolute,bottom:75px,left:210px,margin-bottom:-20px,text-align:left
@@ -7462,29 +7454,27 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 \column
 
 {{text-align:center
-![tantō](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tanto_Kunimitsu.jpg/800px-Tanto_Kunimitsu.jpg){position:absolute,bottom:790px,right:120px,width:130px}
+  ![tantō](https://upload.wikimedia.org/wikipedia/commons/4/4b/Tanto_Kunimitsu.jpg){position:absolute,bottom:790px,right:120px,width:130px}
 }}
 
 {{position:absolute,bottom:790px,right:170px,margin-bottom:-20px,text-align:right
 
-<!-- ##### Tantō -->
-##### Tanto
+##### Tantō
 
 }}
 
 {{text-align:center
-![kaiken-tantō](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Kwaiken_tanto.JPG/1280px-Kwaiken_tanto.JPG){position:absolute,bottom:600px,right:75px,width:220px}
+  ![kaiken-tantō](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Kwaiken_tanto.JPG/1280px-Kwaiken_tanto.JPG){position:absolute,bottom:600px,right:75px,width:220px}
 }}
 
 {{position:absolute,bottom:600px,right:140px,margin-bottom:-20px,text-align:right
 
-<!-- ##### Kaiken Tantō -->
-##### Kaiken Tanto
+##### Kaiken Tantō
 
 }}
 
 {{text-align:center
-![kabutowari](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hachiwari_with_tsuka.jpg/1920px-Hachiwari_with_tsuka.jpg){position:absolute,bottom:510px,right:25px,width:320px}
+  ![kabutowari](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hachiwari_with_tsuka.jpg/1920px-Hachiwari_with_tsuka.jpg){position:absolute,bottom:510px,right:25px,width:320px}
 }}
 
 {{position:absolute,bottom:510px,right:140px,margin-bottom:-20px,text-align:right
@@ -7494,18 +7484,17 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 }}
 
 {{text-align:center
-![yoroi-dōshi](https://i.imgur.com/eRPflnv.jpg){position:absolute,bottom:440px,right:25px,width:320px}
+  ![yoroi-dōshi](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Extra/Reference%20Images/Yoroi%20doshi%20tanto%20Gassan%20school%20(Edit)%20-%20upload.wikimedia.org%2Bwikipedia%2Bcommons%2B5%2B54%2BYoroi_doshi_tanto_Gassan_school.jpg.jpg){position:absolute,bottom:440px,right:25px,width:320px}
 }}
 
 {{position:absolute,bottom:440px,right:140px,margin-bottom:-20px,text-align:right
 
-<!-- ##### Yorio-dōshi -->
-##### Yoroi-doshi
+##### Yoroi-dōshi
 
 }}
 
 {{text-align:center
-![te-yari](https://collectionapi.metmuseum.org/api/collection/v1/iiif/24438/1643296/main-image){position:absolute,bottom:75px,right:80px,width:190px}
+  ![te-yari](https://collectionapi.metmuseum.org/api/collection/v1/iiif/24438/1643296/main-image){position:absolute,bottom:75px,right:80px,width:190px}
 }}
 
 {{position:absolute,bottom:75px,right:150px,margin-bottom:-20px,text-align:right
@@ -7517,14 +7506,14 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
 ## Martial Melee Weapons
 
 {{text-align:center
-![jitte](https://gcp-la8-storage-cdn.lot-art.com/public/upl/45/Tecchi-Jitte-The-weapons-of-samurai-and-policeman-Edo-period-Iron_6598b6fb64a64-full-72733300_1704507131-6598b6fbb1932.jpg){position:absolute,bottom:630px,left:60px,width:300px}
+  ![jitte](https://gcp-la8-storage-cdn.lot-art.com/public/upl/45/Tecchi-Jitte-The-weapons-of-samurai-and-policeman-Edo-period-Iron_6598b6fb64a64-full-72733300_1704507131-6598b6fbb1932.jpg){position:absolute,bottom:630px,left:60px,width:300px}
 }}
 
 {{position:absolute,bottom:630px,left:180px,margin-bottom:-20px,text-align:left
@@ -7534,29 +7523,29 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 }}
 
 {{text-align:center
-![jumonji-yari](https://i.imgur.com/ZW3j4VG.png){position:absolute,bottom:260px,left:20px,width:170px}
+  ![jumonji-yari](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Extra/Reference%20Images/Jumonji%20Yari%20-%20Unknown.png){position:absolute,bottom:250px,left:20px,width:170px}
 }}
 
-{{position:absolute,bottom:260px,left:20px,margin-bottom:-20px,text-align:left
+{{position:absolute,bottom:230px,right:290px,margin-bottom:-20px,text-align:center
 
-##### Jumonji Yari (Kama Yari)
+##### Jumonji Yari</br>(Kama Yari)
 
 }}
 
 {{text-align:center
-![katakama-yari](https://upload.wikimedia.org/wikipedia/commons/8/88/%E7%89%87%E9%8E%8C%E6%A7%8D%2C_Katakama_yari.jpg){position:absolute,bottom:260px,left:210px,width:170px}
+  ![katakama-yari](https://upload.wikimedia.org/wikipedia/commons/8/88/%E7%89%87%E9%8E%8C%E6%A7%8D%2C_Katakama_yari.jpg){position:absolute,bottom:250px,left:210px,width:170px}
 }}
 
-{{position:absolute,bottom:260px,left:210px,margin-bottom:-20px,text-align:left
+{{position:absolute,bottom:230px,right:100px,margin-bottom:-20px,text-align:center
 
-##### Katakama Yari (Kama Yari)
+##### Katakama Yari</br>(Kama Yari)
 
 }}
 
 \column
 
 {{text-align:center
-![daisho](https://i.imgur.com/8fOPbpF.jpg){position:absolute,bottom:450px,right:75px,width:250px}
+  ![daisho](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Extra/Reference%20Images/Samurai%20Swords%20(Edit)%20-%20worldhistory.org%2Bimage%2B10983%2Bsamurai-swords%2B.jpg){position:absolute,bottom:450px,right:75px,width:250px}
 }}
 
 {{position:absolute,bottom:450px,right:135px,margin-bottom:-20px,text-align:right
@@ -7566,10 +7555,10 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 }}
 
 {{text-align:center
-![kusarigama](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kusarigama-crop.jpg/640px-Kusarigama-crop.jpg){position:absolute,bottom:175px,right:50px,width:300px}
+  ![kusarigama](https://upload.wikimedia.org/wikipedia/commons/c/c3/Kusarigama.jpg){position:absolute,bottom:130px,right:50px,width:300px}
 }}
 
-{{position:absolute,bottom:175px,right:160px,margin-bottom:-20px,text-align:right
+{{position:absolute,bottom:130px,right:160px,margin-bottom:-20px,text-align:right
 
 ##### Kusarigama
 
@@ -7578,12 +7567,12 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
 {{text-align:center
-![naginata](https://www.martialartswords.com/cdn/shop/articles/Samurai_wearing_kusari_katabira__chain_armor_22.jpg?v=1516103015){position:absolute,bottom:620px,left:25px,width:360px}
+  ![naginata](https://www.martialartswords.com/cdn/shop/articles/Samurai_wearing_kusari_katabira__chain_armor_22.jpg?v=1516103015){position:absolute,bottom:620px,left:25px,width:360px}
 }}
 
 {{position:absolute,bottom:620px,left:170px,margin-bottom:-20px,text-align:left
@@ -7593,7 +7582,7 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 }}
 
 {{text-align:center
-![nunchaku](https://upload.wikimedia.org/wikipedia/commons/7/7c/Nunchaku.JPG){position:absolute,bottom:405px,left:25px,width:360px}
+  ![nunchaku](https://upload.wikimedia.org/wikipedia/commons/7/7c/Nunchaku.JPG){position:absolute,bottom:405px,left:25px,width:360px}
 }}
 
 {{position:absolute,bottom:405px,left:165px,margin-bottom:-20px,text-align:left
@@ -7603,20 +7592,19 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 }}
 
 {{text-align:center
-![odachi](https://upload.wikimedia.org/wikipedia/commons/3/36/Nodachi.jpg){position:absolute,bottom:105px,left:25px,width:360px}
+  ![odachi](https://upload.wikimedia.org/wikipedia/commons/3/36/Nodachi.jpg){position:absolute,bottom:105px,left:25px,width:360px}
 }}
 
 {{position:absolute,bottom:105px,left:180px,margin-bottom:-20px,text-align:left
 
-<!-- ##### Ōdachi -->
-##### Odachi
+##### Ōdachi
 
 }}
 
 \column
 
 {{text-align:center
-![nagamaki](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Antique_shinto_samurai_nagamaki_1.jpg/220px-Antique_shinto_samurai_nagamaki_1.jpg){position:absolute,bottom:496px,right:30px,width:340px}
+  ![nagamaki](https://upload.wikimedia.org/wikipedia/commons/a/a5/Antique_shinto_samurai_nagamaki_1.jpg){position:absolute,bottom:496px,right:30px,width:340px}
 }}
 
 {{position:absolute,bottom:496px,right:165px,margin-bottom:-20px,text-align:right
@@ -7626,36 +7614,34 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 }}
 
 {{text-align:center
-![ōtsuchi](https://i.imgur.com/OFAOMyV.jpg){position:absolute,bottom:65px,right:30px,width:340px}
+  ![ōtsuchi](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Extra/Reference%20Images/Kuz%C5%8D%20Ichikawa%20II%20as%20Teraoka%20Heiemon%20in%20Kanadehon%20Ch%C5%ABshingura%20(Edit)%20-%20Unknown%20-%20Wikimedia.jpg){position:absolute,bottom:65px,right:30px,width:340px}
 }}
 
 {{position:absolute,bottom:65px,right:165px,margin-bottom:-20px,text-align:right
 
-<!-- ##### Ōtsuchi -->
-##### Otsuchi
+##### Ōtsuchi
 
 }}
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
 {{text-align:center
-![sentōno](https://ancientpathworkshop.com/wp-content/uploads/2020/07/ono-axe.jpg){position:absolute,bottom:650px,left:45px,width:310px}
+  ![sentōno](https://ancientpathworkshop.com/wp-content/uploads/2020/07/ono-axe.jpg){position:absolute,bottom:650px,left:45px,width:310px}
 }}
 
 {{position:absolute,bottom:650px,left:165px,margin-bottom:-20px,text-align:left
 
-<!-- ##### Sentōno -->
-##### Sentono
+##### Sentōno
 
 }}
 
 {{text-align:center
-![sai](https://upload.wikimedia.org/wikipedia/commons/5/53/2_antique_sai.jpg){position:absolute,bottom:75px,left:45px,width:310px}
+  ![sai](https://upload.wikimedia.org/wikipedia/commons/5/53/2_antique_sai.jpg){position:absolute,bottom:75px,left:45px,width:310px}
 }}
 
 {{position:absolute,bottom:75px,left:185px,margin-bottom:-20px,text-align:left
@@ -7667,7 +7653,7 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 \column
 
 {{text-align:center
-![su-yari](https://yamazakura.co.uk/cdn/shop/products/B08A825D-4F27-4229-B475-47F2BBF2FB45_1315x4032_crop_center.jpg?v=1609069443){position:absolute,bottom:650px,left:400px,width:140px}
+  ![su-yari](https://yamazakura.co.uk/cdn/shop/products/B08A825D-4F27-4229-B475-47F2BBF2FB45_1315x4032_crop_center.jpg?v=1609069443){position:absolute,bottom:650px,left:400px,width:140px}
 }}
 
 {{position:absolute,bottom:650px,left:445px,margin-bottom:-20px,text-align:left
@@ -7677,7 +7663,7 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 }}
 
 {{text-align:center
-![tessen](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gunsen_Asian_Art_Museum_SF.JPG/1200px-Gunsen_Asian_Art_Museum_SF.JPG){position:absolute,bottom:650px,left:560px,width:200px}
+  ![tessen](https://upload.wikimedia.org/wikipedia/commons/5/56/Gunsen_Asian_Art_Museum_SF.JPG){position:absolute,bottom:650px,left:560px,width:200px}
 }}
 
 {{position:absolute,bottom:650px,left:640px,margin-bottom:-20px,text-align:left
@@ -7687,27 +7673,26 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 }}
 
 {{text-align:center
-![tetsubō](https://upload.wikimedia.org/wikipedia/commons/a/a1/Nanhoku-cho_period_samurai_from_%22Military_Costumes_in_Old_Japan%22%2C_1893.jpg){position:absolute,bottom:140px,right:35px,width:350px}
+  ![tetsubō](https://upload.wikimedia.org/wikipedia/commons/a/a1/Nanhoku-cho_period_samurai_from_%22Military_Costumes_in_Old_Japan%22%2C_1893.jpg){position:absolute,bottom:140px,right:35px,width:350px}
 }}
 
 {{position:absolute,bottom:140px,right:185px,margin-bottom:-20px,text-align:right
 
-<!-- ##### Tetsubō -->
-##### Tetsubo
+##### Tetsubō
 
 }}
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
 ## Simple Ranged Weapons
 
 {{text-align:center
-![fukiya](https://upload.wikimedia.org/wikipedia/commons/9/97/Fukiya.jpg){position:absolute,bottom:875px,left:50px,width:300px}
+  ![fukiya](https://upload.wikimedia.org/wikipedia/commons/9/97/Fukiya.jpg){position:absolute,bottom:875px,left:50px,width:300px}
 }}
 
 {{position:absolute,bottom:875px,left:175px,margin-bottom:-20px,text-align:left
@@ -7717,13 +7702,12 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 }}
 
 {{text-align:center
-![hankyū](https://i.etsystatic.com/10725948/r/il/cea472/3510946826/il_794xN.3510946826_ig20.jpg){position:absolute,bottom:390px,left:50px,width:300px}
+  ![hankyū](https://i.etsystatic.com/10725948/r/il/cea472/3510946826/il_794xN.3510946826_ig20.jpg){position:absolute,bottom:390px,left:50px,width:300px}
 }}
 
 {{position:absolute,bottom:390px,left:155px,margin-bottom:-20px,text-align:left
 
-<!-- ##### Hankyū (Yumi) -->
-##### Hankyu (Yumi)
+##### Hankyū (Yumi)
 
 }}
 
@@ -7742,18 +7726,17 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 ## Martial Ranged Weapons
 
 {{text-align:center
-![daikyū](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Professor_Inagaki_Genshiro.jpg/800px-Professor_Inagaki_Genshiro.jpg){position:absolute,bottom:605px,right:55px,width:290px}
+![daikyū](https://upload.wikimedia.org/wikipedia/commons/2/29/Professor_Inagaki_Genshiro.jpg){position:absolute,bottom:605px,right:55px,width:290px}
 }}
 
 {{position:absolute,bottom:605px,right:155px,margin-bottom:-20px,text-align:right
 
-<!-- ##### Daikyū (Yumi) -->
-##### Daikyu (Yumi)
+##### Daikyū (Yumi)
 
 }}
 
 {{text-align:center
-![hinawajū](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Strings_for_night_firing.jpg/800px-Strings_for_night_firing.jpg){position:absolute,bottom:160px,right:55px,width:290px}
+![hinawajū](https://upload.wikimedia.org/wikipedia/commons/5/5c/Strings_for_night_firing.jpg){position:absolute,bottom:160px,right:55px,width:290px}
 }}
 
 {{text-align:center
@@ -7762,21 +7745,20 @@ Unless specified otherwise in the rules for the transformation, you use the foll
 
 {{position:absolute,bottom:90px,right:170px,margin-bottom:-20px,text-align:right
 
-<!-- ##### Hinawajū -->
-##### Hinawaju
+##### Hinawajū
 
 }}
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
 # Credits
 
-##
+## Art Credits
 
 **TODO - NOT STARTED**
 
@@ -7787,27 +7769,27 @@ Very special thanks to Raluca Patria for her incredible assistance with map crea
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,left:0px,width:80px}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,left:0px,width:80px}
 
 \page
 
-{{imageMaskEdge1,--offset:11.5cm,--rotation:180
-  ![nensho](https://upload.wikimedia.org/wikipedia/commons/d/d0/100_views_edo_008.jpg){position:absolute,top:-80px,left:-25px,width:110%}
+{{imageMaskEdge1,--offset:-55%,--rotation:180,--scaleY:0.75
+  ![nenshō](https://upload.wikimedia.org/wikipedia/commons/d/d0/100_views_edo_008.jpg){position:absolute,top:-80px,left:-25px,width:110%}
 }}
 
-{{position:absolute,bottom:100px,left:0px,margin-bottom:-30px,text-align:center
+{{position:absolute,bottom:130px,left:0px,margin-bottom:-30px,text-align:center
 
-##### A Ukiyo-e view of Mount Nensho
+##### A Ukiyo-e view of Mount Nenshō
 
 }}
 
 {{pageNumber,auto}}
 {{footnote EXTRA | APPENDICES}}
 
-![sumiriku-mon](https://i.imgur.com/nqZtkta.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
+![sumiriku-mon](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Sumiriku%20Mon.png) {position:absolute,top:1055px,right:0px,width:80px,rotate:180deg}
 
 \page
 
 {{frontCover}}
 
-![background image](https://i.imgur.com/p9OQYMh.jpg){position:absolute,bottom:0,left:0,height:100.5%}
+![background image](https://github.com/AlexCGoose/Sumiriku-Doc/blob/main/Images/Player's%20Guide/Covers%20and%20Graphics/Back%20Cover%20(The%20Battle%20of%20Onin%20during%20the%20Onin%20War%20(1467-1477)%20-%20Utagawa%20Yoshitora).png?raw=true){position:absolute,bottom:0,left:0,height:100.5%}

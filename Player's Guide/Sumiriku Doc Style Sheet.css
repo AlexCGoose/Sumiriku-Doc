@@ -1,13 +1,15 @@
-/* TODO - FIX NOTO SERIF JP FONT */
+/* ----- FONT IMPORTS ----- */
 
 @import url('https://rawcdn.githack.com/AlexCGoose/Font/05386e25949715580318f830f1100b40096cf551/EdoSZ.css');
 
+@import url('https://fonts.googleapis.com/css2?family=Chiron+Sung+HK:ital,wght@0,200..900;1,200..900&display=swap');
+
 /* ----- COLOURS ----- */
-/* Dark Red			= #541718
-Red					= #c03436
-Orange				= #f7931e
-Light Orange		= #fbc98e
-Extra Light Orange	= #fde4c7 = 25% Opacity of Orange */
+/* Dark Red        = #541718
+Red                = #c03436
+Orange             = #f7931e
+Light Orange       = #fbc98e
+Extra Light Orange = #fde4c7 = 25% Opacity of Orange */
 
 
 
@@ -17,32 +19,26 @@ Extra Light Orange	= #fde4c7 = 25% Opacity of Orange */
 
 /* A4 Page Size */
 .page {
-	width  : 210mm;
-	height : 296.8mm;
+	width              : 210mm;
+	height             : 296.8mm;
 }
 
 /* Sets background page texture for each page */
 .page {
-	background-image : url(https://i.imgur.com/vjljz6I.png);
-	background-size  : cover;
+	background-image   : url("https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Document%20Background%20Left.png");
+	background-size    : cover;
 }
 
 .page:nth-of-type(odd) {
-	background-image : url(https://i.imgur.com/XpSFj2e.png);
-	background-size  : cover;
+	background-image   : url("https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Document%20Background%20Right.png");
+	background-size    : cover;
 }
 
-/* Sets font size for all text */
-.page {
-	font-size : 90%;
-}
-
-/* Reduces font size in notes, tweaks margins, and sets background colour to Sumiriku Light Orange */
+/* Sets note background colour to Sumiriku Light Orange and tweaks margins */
 .page .note {
-	font-size     : 95%;
-	background    : #fbc98e; /* Sumiriku Light Orange */
-	margin-top    : 1.25em;
-	margin-bottom : 0.5em;
+	background         : #fbc98e; /* Sumiriku Light Orange */
+	margin-top         : 1.5em;
+	margin-bottom      : 0.5em;
 }
 
 /* Page footer image - Imgur line coloured in Sumiriku Orange */
@@ -50,7 +46,7 @@ Extra Light Orange	= #fde4c7 = 25% Opacity of Orange */
 	background-image   : none;
 	background-size    : cover;
 	background-color   : #f7931e; /* Sumiriku Orange */
-	-webkit-mask-image : url('https://i.imgur.com/TLmc0GL.png');
+	-webkit-mask-image : url("https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Footer%20Accent.png");
 	-webkit-mask-size  : cover;
 	mix-blend-mode     : normal;
 	opacity            : 1;
@@ -59,17 +55,12 @@ Extra Light Orange	= #fde4c7 = 25% Opacity of Orange */
 
 /* Resets page count to start after the cover page */
 .page#p2 {
-	counter-reset : page-numbers 0;
+	counter-reset      : page-numbers 0;
 }
 
 /* Sets the Table of Contents page to use 3 columns */
 .page#p3 {
-	columns : 3;
-}
-
-/* Modified page 7 to make column fit */
-.page#p7 {
-	padding-bottom : 10px;
+	columns            : 3;
 }
 
 
@@ -77,170 +68,247 @@ Extra Light Orange	= #fde4c7 = 25% Opacity of Orange */
 
 /* ----- TEXT SETTINGS ----- */
 
-/* Sets headings to Sumiriku Red */
-.page h1, .page h2, .page h3, .page h4, .page h5, .page h6 {
-	color : #c03436; /* Sumiriku Red */
+/* -- DEFAULT TEXT -- */
+
+/* Sets font size and family for regular text */
+.page {
+	font-size          : 85%;
+	font-family        : 'Chiron Sung HK';
 }
 
-/* Heading settings for H1 - Sets font and size */
+/* -- HEADINGS -- */
+
+/* - Size, Font, and Colour - */
+
+/* Sets headings to Sumiriku Red */
+.page h1, .page h2, .page h3, .page h4, .page h5, .page h6 {
+	color              : #c03436; /* Sumiriku Red */
+}
+
+/*Heading settings for H1 - Sets font and size */
 .page h1 {
-	font-family    : 'Noto Serif JP';
-	font-weight    : 900;
-	font-size      : .9cm;
+	font-family        : 'Chiron Sung HK';
+	font-weight        : 900;
+	font-size          : .9cm;
 }
 
 /*Heading settings for H2 - Sets font and size */
 .page h2 {
-	font-family    : 'Noto Serif JP';
-	line-height    : 1.1;
-	font-weight    : 900;
-	font-size      : .6cm;
-	padding-bottom : 0.2em;
+	font-family        : 'Chiron Sung HK';
+	line-height        : 1.1;
+	font-weight        : 900;
+	font-size          : .6cm;
+	padding-bottom     : 0.3em;
 }
 
 /* Heading settings for H3 - Sets font and size - Bottom border colour set to Sumiriku Orange */
 .page h3 {
-	font-family    : 'Noto Serif JP';
-	font-weight    : 800;
-	font-size      : .45cm;
-	padding-bottom : 0.2em;
-	border-bottom  : 2px solid #f7931e; /* Sumiriku Orange */
-	margin-top     : 0em;
-}
-
-/* Increases gap between paragraph and heading 3 */
-.page p + h3 {
-	margin-top     : 0.8em;
-}
-
-/* Decreases gap between heading 2 and heading 3 */
-.page h2 + h3 {
-	margin-top     : 0.2em;
-}
-
-/* Decreases gap between heading 2 and heading 4 */
-.page h2 + h4 {
-	margin-top     : 0.2em;
+	font-family        : 'Chiron Sung HK';
+	font-weight        : 800;
+	font-size          : .45cm;
+	padding-bottom     : 0.2em;
+	border-bottom      : 2px solid #f7931e; /* Sumiriku Orange */
+	margin-top         : 0em;
 }
 
 /* Heading settings for H4 - Sets font and size */
 .page h4 {
-	font-family    : 'Noto Serif JP';
-	font-weight    : 700;
-	font-size      : .4cm;
+	font-family        : 'Chiron Sung HK';
+	font-weight        : 700;
+	font-size          : .4cm;
 }
 
 /* Heading settings for H5 - Sets size, keeps default font */
 .page h5 {
-	font-weight    : 600;
-	padding-bottom : 0em;
-	font-size      : .4cm;
+	font-family        : 'Chiron Sung HK';
+	font-variant       : small-caps;
+	font-weight        : 700;
+	padding-bottom     : 0em;
+	font-size          : 125%;
 }
 
 /* Heading settings for H6 - Sets font and size */
 .page h6 {
-	font-family    : 'Noto Serif JP';
-	font-weight    : 700;
-	font-size      : .4cm;
-	padding-top    : 0.5em;
-	padding-bottom : 0.2em;
+	font-family        : 'Chiron Sung HK';
+	font-weight        : 700;
+	font-size          : .4cm;
+	padding-top        : 0.5em;
+	padding-bottom     : 0.2em;
 }
+
+/* - Spacing Modifiers - */
+
+/* Increases gap between paragraph and heading 3 */
+.page p + h3 {
+	margin-top         : 0.8em;
+}
+
+/* - Custom Header - */	
+
+/* Creates a header with no underline and no top margin */
+#date-heading h3 {
+	margin-top         : 0em;
+	margin-bottom      : 0.2em;
+	border-bottom      : 0px;
+}
+
+/* -- DROP CAP -- */
 
 /* Drop Cap letter settings - Sets font to handwriting and colour to black */
 .page h1 + p::first-letter {
-	font-family    : 'Edo SZ';
-	font-size      : 2.65cm;
-	color          : #000000; /* Black */
-	line-height    : 1em;
-	padding-right  : 0.05em;
-	padding-left   : 5px;
-	margin-left    : 0px;
-	margin-top     : -0.3cm;
-	padding-bottom : 2px;
-	margin-bottom  : -12px;
-	float          : left;
+	font-family        : 'Edo SZ';
+	font-size          : 2.65cm;
+	color              : #000000; /* Black */
+	line-height        : 1em;
+	padding-right      : 0.05em;
+	padding-left       : 5px;
+	margin-left        : 0px;
+	margin-top         : -0.3cm;
+	padding-bottom     : 2px;
+	margin-bottom      : -12px;
+	float              : left;
 }
 
 /* Fancy and After-Fancy classes recreate section beginning with drop cap letter and small caps after - for when section starts part way down page */
 #fancy {
-	font-family    : 'Edo SZ';
-	font-size      : 2.65cm;
-	color          : #000000; /* Black */
-	line-height    : 1em;
-	padding-right  : 0.05em;
-	padding-left   : 5px;
-	margin-left    : 0px;
-	margin-top     : -0.3cm;
-	padding-bottom : 2px;
-	margin-bottom  : -12px;
-	float          : left;
+	font-family        : 'Edo SZ';
+	font-size          : 2.65cm;
+	color              : #000000; /* Black */
+	line-height        : 1em;
+	padding-right      : 0.05em;
+	padding-left       : 5px;
+	margin-left        : 0px;
+	margin-top         : -0.3cm;
+	padding-bottom     : 2px;
+	margin-bottom      : -12px;
+	float              : left;
 }
 
 #after-fancy {
-	font-variant   : small-caps;
+	font-variant       : small-caps;
 }
+
+/* -- QUOTES, FOOTERS, PAGE NUMBERS, NOTES -- */
 
 /* Quote without changed first line - for if it goes over multiple columns/pages */
 #quotation  p:first-line {
-	font-size      : 100%;
-	font-variant   : normal;
-	font-style     : italic;
+	font-size          : 100%;
+	font-variant       : normal;
+	font-style         : italic;
 }
 
 /* Page footer text settings */
 .page .footnote {
-	font-family    : 'Noto Serif JP';
-	font-weight    : 700;
-	color          : #f7931e; /* Sumiriku Orange */
+	font-family        : 'Chiron Sung HK';
+	font-weight        : 700;
+	font-size          : 85%;
+	color              : #f7931e; /* Sumiriku Orange */
 }
 
 /* Details for legal footnote on page 2 */
 .page#p2 .footnote {
-	font-family    : 'Noto Serif JP';
-	font-weight    : 700;
-	bottom         : 10px;
-	left           : 0;
-	width          : 100%;
-	font-size      : 11px;
-	text-transform : none;
-	text-align     : center;
-	color          : black;
-	padding        : 3em;
-	text-indent    : 0;
+	font-family        : 'Chiron Sung HK';
+	font-weight        : 700;
+	bottom             : 10px;
+	left               : 0;
+	width              : 100%;
+	font-size          : 11px;
+	text-transform     : none;
+	text-align         : center;
+	color              : black;
+	padding            : 3em;
+	text-indent        : 0;
 }
 
 /* Page Number settings - Sets text to white */
 .page .pageNumber {
-	line-height    : 16px;
-	color          : #ffffff; /* White */
+	line-height        : 16px;
+	color              : #ffffff; /* White */
 }
+
+/* Tweaks note font and size */
+.page .note {
+	font-size          : 90%;
+	font-family        : 'Chiron Sung HK';
+}
+
+/* -- TABLE OF CONTENTS -- */
 
 /* Sets font sizes and margins for Table of Contents */
 .toc {
-	font-size      : 80%;
+	font-size          : 85%;
 }
 
 .toc h3 {
-	font-size      : 115%;
+	font-size          : 115%;
 }
 
 .toc h4, .toc h5, .toc h6 {
-	font-size      : 100%;
-	margin-bottom  : 0em;
-	margin-top     : -0.2em;
+	font-size          : 100%;
+	margin-bottom      : 0em;
+	margin-top         : -0.2em;
 }
+
+/* -- TITLE PAGE MODIFIERS -- */
+
+/* - Inside Title - */
 
 /* Fixes size of "Player's Guide" on page 2 */
 .page#p2 h2 {
-	font-size      : 375%;
-	letter-spacing : 8px;
+	font-size          : 375%;
+	letter-spacing     : 8px;
 }
 
-/* Creates a header with no underline and no top margin */
-#date-heading h3 {
-	margin-top     : 0em;
-	margin-bottom  : 0.2em;
-	border-bottom  : 0px;
+/* - Part 1 - */
+
+/* Sets font size and family for Part 1 cover page */
+.page#p5 h1 {
+	font-size          : 550%;
+	transform          : scale(0.75, 1);
+	font-family        : 'Chiron Sung HK';
+}
+
+.page#p5 h2 {
+	font-family        	: 'Chiron Sung HK';
+}
+
+/* - Part 2 - */
+
+/* Sets font size and family for Part 2 cover page */
+.page#p29 h1 {
+	font-size          : 550%;
+	transform          : scale(0.75, 1);
+	font-family        : 'Chiron Sung HK';
+}
+
+.page#p29 h2 {
+	font-family        	: 'Chiron Sung HK';
+}
+
+/* - Part 3 - */
+
+/* Sets font size and family for Part 3 cover page */
+.page#p97 h1 {
+	font-size          : 550%;
+	transform          : scale(0.75, 1);
+	font-family        : 'Chiron Sung HK';
+}
+
+.page#p97 h2 {
+	font-family        	: 'Chiron Sung HK';
+}
+
+/* - Appendix - */
+
+/* Sets font size and family for Appendix cover page */
+.page#p108 h1 {
+	font-size          : 550%;
+	transform          : scale(0.75, 1);
+	font-family        : 'Chiron Sung HK';
+}
+
+.page#p108 h2 {
+	font-family        	: 'Chiron Sung HK';
 }
 
 
@@ -249,265 +317,287 @@ Extra Light Orange	= #fde4c7 = 25% Opacity of Orange */
 
 /* ----- TABLE SETTINGS ----- */
 
-/* Default Table Settings */
+/* -- DEFAULT TABLE -- */
+
 /* Sets colour of each even row to Sumiriku Extra Light Orange */
 #default-table thead {
-	background    : #fde4c7; /* Sumiriku Extra Light Orange */
+	background         : #fde4c7; /* Sumiriku Extra Light Orange */
 }
 
 #default-table tbody tr:nth-child(even) {
-	background    : #fde4c7; /* Sumiriku Extra Light Orange */
+	background         : #fde4c7; /* Sumiriku Extra Light Orange */
 }
 
 /* Sets colour of each odd row to Sumiriku Light Orange */
 #default-table tbody tr:nth-child(odd) {
-	background    : #fbc98e; /* Sumiriku Light Orange */
+	background         : #fbc98e; /* Sumiriku Light Orange */
 }
 
 /* Increases font size of text in table headings and body */
 #default-table tbody {
-	font-size     : 120%;
-	line-height   : 1.3em;
+	font-size          : 110%;
+	line-height        : 1.3em;
+	font-family        : 'Chiron Sung HK';
 }
 
 #default-table thead {
-	font-size     : 120%;
-	line-height   : 1.3em;
+	font-size          : 110%;
+	line-height        : 1.3em;
+	font-family        : 'Chiron Sung HK';
 }
 
-/* Reduces spacing around table */
-#default-table {
-	margin-top    : 0.5em;
-  	margin-bottom : 0.5em;
+/* Increases margin between table block and paragraph */
+#default-table + p {
+  margin-top         : 0.5em;
 }
 
-/* Small Text Table Settings - Default Table with smaller text and less bottom margin */
+/* Increases margin between table block and heading 2 */
+#default-table + h2 {
+  margin-top         : 0.5em;
+}
+
+/* Increases spacing between text and table block */
+p + #default-table {
+	margin-top         : 0.5em;
+}
+
+/* -- SMALL TEXT TABLES -- */
+/* (Default Table with smaller text ) */
+
 /* Sets colour of each even row to Sumiriku Extra Light Orange */
 #small-text-table thead {
-	background    : #fde4c7; /* Sumiriku Extra Light Orange */
+	background         : #fde4c7; /* Sumiriku Extra Light Orange */
 }
 
 #small-text-table tbody tr:nth-child(even) {
-	background    : #fde4c7; /* Sumiriku Extra Light Orange */
+	background         : #fde4c7; /* Sumiriku Extra Light Orange */
 }
 
 /* Sets colour of each odd row to Sumiriku Light Orange */
 #small-text-table tbody tr:nth-child(odd) {
-	background    : #fbc98e; /* Sumiriku Light Orange */
+	background         : #fbc98e; /* Sumiriku Light Orange */
 }
 
 /* Increases font size of text in table headings and body - Smaller font size than default table*/
 #small-text-table tbody {
-	font-size     : 110%;
-	line-height   : 1.3em;
+	font-size          : 100%;
+	line-height        : 1.3em;
+	font-family        : 'Chiron Sung HK';
 }
 
 #small-text-table thead {
-	font-size     : 110%;
-	line-height   : 1.3em;
+	font-size          : 100%;
+	line-height        : 1.3em;
+	font-family        : 'Chiron Sung HK';
 }
 
-/* Reduces spacing around table - Reduced bottom margin from default */
-#small-text-table {
-	margin-top    : 0.5em;
-	margin-bottom : 0em;
+/* Increases margin between table block and paragraph */
+#small-text-table + p {
+  margin-top         : 0.5em;
 }
 
-/* Deity table settings*/
+/* Increases spacing between text and table block */
+p + #small-text-table {
+	margin-top         : 0.5em;
+}
+
+/* -- GOD TABLE -- */
+
 /* Sets colour of each even row to Sumiriku Extra Light Orange */
 #god-table thead {
-	background    : #fde4c7; /* Sumiriku Extra Light Orange */
+	background         : #fde4c7; /* Sumiriku Extra Light Orange */
 }
 
 #god-table tbody tr:nth-child(even) {
-	background    : #fde4c7; /* Sumiriku Extra Light Orange */
+	background         : #fde4c7; /* Sumiriku Extra Light Orange */
 }
 
 /* Sets colour of each odd row to Sumiriku Light Orange */
 #god-table tbody tr:nth-child(odd) {
-	background    : #fbc98e; /* Sumiriku Light Orange */
+	background         : #fbc98e; /* Sumiriku Light Orange */
 }
 
 /* Increases font size of text in table headings and body */
 #god-table tbody {
-	font-size     : 120%;
-	line-height   : 1.3em;
+	font-size          : 110%;
+	line-height        : 1.3em;
+	font-family        : 'Chiron Sung HK';
 }
 
 #god-table thead {
-	font-size     : 120%;
-	line-height   : 1.3em;
+	font-size          : 110%;
+	line-height        : 1.3em;
+	font-family        : 'Chiron Sung HK';
 }
 
 /*Sets specific widths for columns*/
 #god-table td:nth-of-type(1) {
-	min-width     : 115px;
+	min-width          : 110px;
 }
 
-/* Reduces spacing around table */
-#god-table {
-	margin-top    : 0.5em;
-	margin-bottom : 0.5em;
+/* Increases spacing between text and table heading */
+#god-table h5 {
+	margin-top         : 0.5em;
 }
 
-/* Dragonborn table settings*/
+/* -- DRAGONBORN TABLE -- */
+
 /* Sets colour of each even row to Sumiriku Extra Light Orange */
 #dragon-table thead {
-	background    : #fde4c7; /* Sumiriku Extra Light Orange */
+	background         : #fde4c7; /* Sumiriku Extra Light Orange */
 }
 
 #dragon-table tbody tr:nth-child(even) {
-	background    : #fde4c7; /* Sumiriku Extra Light Orange */
+	background         : #fde4c7; /* Sumiriku Extra Light Orange */
 }
 
 /* Sets colour of each odd row to Sumiriku Light Orange */
 #dragon-table tbody tr:nth-child(odd) {
-	background    : #fbc98e; /* Sumiriku Light Orange */
+	background         : #fbc98e; /* Sumiriku Light Orange */
 }
 
 /* Increases font size of text in table headings and body */
 #dragon-table tbody {
-	font-size     : 120%;
-	line-height   : 1.3em;
+	font-size          : 110%;
+	line-height        : 1.3em;
+	font-family        : 'Chiron Sung HK';
 }
 
 #dragon-table thead {
-	font-size     : 120%;
-	line-height   : 1.3em;
+	font-size          : 110%;
+	line-height        : 1.3em;
+	font-family        : 'Chiron Sung HK';
 }
 
 /*Sets specific widths for columns*/
 #dragon-table td:nth-of-type(1) {
-	min-width     : 115px;
+	min-width          : 115px;
 }
 
 #dragon-table td:nth-of-type(2) {
-	min-width     : 175px;
+	min-width          : 175px;
 }
 
-/* Reduces spacing around table */
-#dragon-table {
-	margin-top    : 0.5em;
-	margin-bottom : -0.5em;
+/* Increases margin between table block and paragraph */
+#dragon-table + p {
+  margin-top         : 0.5em;
 }
 
-/* Weapon table settings*/
+/* -- WEAPON TABLE -- */
+
 /* Sets colour of each even row to Sumiriku Extra Light Orange */
 #weapon-table thead {
-	background    : #fde4c7; /* Sumiriku Extra Light Orange */
+	background         : #fde4c7; /* Sumiriku Extra Light Orange */
 }
 
 #weapon-table tbody tr:nth-child(even) {
-	background    : #fde4c7; /* Sumiriku Extra Light Orange */
+	background         : #fde4c7; /* Sumiriku Extra Light Orange */
 }
 
 /* Sets colour of each odd row to Sumiriku Light Orange */
 #weapon-table tbody tr:nth-child(odd) {
-	background    : #fbc98e; /* Sumiriku Light Orange */
+	background         : #fbc98e; /* Sumiriku Light Orange */
 }
 
 /* Increases font size of text in table headings and body */
 #weapon-table tbody {
-	font-size     : 120%;
-	line-height   : 1.3em;
+	font-size          : 110%;
+	line-height        : 1.3em;
+	font-family        : 'Chiron Sung HK';
 }
 
 #weapon-table thead {
-	font-size     : 120%;
-	line-height   : 1.3em;
+	font-size          : 110%;
+	line-height        : 1.3em;
+	font-family        : 'Chiron Sung HK';
 }
 
 /*Sets specific widths for columns*/
 #weapon-table td:nth-of-type(1) {
-	min-width     : 30px;
-	max-width     : 30px;
+	min-width          : 30px;
+	max-width          : 30px;
 }
 
 #weapon-table td:nth-of-type(2) {
-	min-width     : 60px;
-	max-width     : 60px;
+	min-width          : 60px;
+	max-width          : 60px;
 }
 
 #weapon-table td:nth-of-type(3) {
-	min-width     : 140px;
-	max-width     : 140px;
+	min-width          : 140px;
+	max-width          : 140px;
 }
 
 #weapon-table td:nth-of-type(4) {
-	min-width     : 30px;
-	max-width     : 30px;
+	min-width          : 30px;
+	max-width          : 30px;
 }
 
-/* Spell Table Settings */
+/* -- SPELL TABLE -- */
+
 /* Sets colour of each even row to Sumiriku Extra Light Orange */
 #spell-table thead {
-	background    : #fde4c7; /* Sumiriku Extra Light Orange */
+	background         : #fde4c7; /* Sumiriku Extra Light Orange */
 }
 
 #spell-table tbody tr:nth-child(even) {
-	background    : #fde4c7; /* Sumiriku Extra Light Orange */
+	background         : #fde4c7; /* Sumiriku Extra Light Orange */
 }
 
 /* Sets colour of each odd row to Sumiriku Light Orange */
 #spell-table tbody tr:nth-child(odd) {
-	background    : #fbc98e; /* Sumiriku Light Orange */
+	background         : #fbc98e; /* Sumiriku Light Orange */
 }
 
 /* Increases font size of text in table headings and body */
 #spell-table tbody {
-	font-size     : 110%;
-	line-height   : 1.2em;
+	font-size          : 105%;
+	line-height        : 1.25em;
 }
 
 #spell-table thead {
-	font-size     : 110%;
-	line-height   : 1.2em;
+	font-size          : 105%;
+	line-height        : 1.25em;
 }
 
-/* Reduces spacing around table */
+/* Decreases top margin */
 #spell-table {
-	margin-top    : -0.5em;
-	margin-bottom : -0.5em;
+	margin-top         : -0.5em;
 }
-
-#spell-table h5 {
-	margin-top    : 0.5em;
-}
-
 
 
 
 
 /* ----- TWEAKED COLUMNS ----- */
-/* Default column size is 308px, and default right column position is 342px */
+/* (Default column size is 308px, and default right column position is 342px) */
 
 /* Defines a larger column than the default */
 #big-column {
-	width    : 325px;
-	overflow : auto;
+	width              : 325px;
+	overflow           : auto;
 }
 
 /* Defines text to appear as if it was in the second column */
-#right-text {
-	position : relative;
-	left     : 342px;
-	overflow : auto;
+#right-column {
+	position           : relative;
+	left               : 342px;
+	overflow           : auto;
 }
 
 /* Defines a larger column for right side of page */
 #big-column-right {
-	position : relative;
-	left     : 325px;
-	width    : 325px;
-	overflow : auto;
+	position           : relative;
+	left               : 325px;
+	width              : 325px;
+	overflow           : auto;
 }
 
 /* Defines an even larger column for right side of page */
 #bigger-column-right {
-	position : relative;
-	left     : 275px;
-	width    : 375px;
-	overflow : auto;
+	position           : relative;
+	left               : 275px;
+	width              : 375px;
+	overflow           : auto;
 }
 
 
@@ -784,7 +874,7 @@ Extra Light Orange	= #fde4c7 = 25% Opacity of Orange */
 	padding-top : 0px;
 	text-align  : right;
 	font-weight : bold;
-	transform   : scaleY(1.);
+	transform   : scaleY(1.0);
 }
 
 /* Sets symbol details */
@@ -838,3 +928,19 @@ Extra Light Orange	= #fde4c7 = 25% Opacity of Orange */
 	z-index     : 205;
 	font-weight : 700;
 }
+
+/* Defines a smaller column than the default */
+#small-column {
+	width              : 275px;
+	overflow           : auto;
+}
+
+
+
+
+
+
+
+
+
+
