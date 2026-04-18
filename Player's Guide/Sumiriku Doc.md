@@ -3583,7 +3583,7 @@ You are the hand through which the will of your Daimyō is done. Being among the
 
 {{position:absolute,top:450px,left:0px,margin-bottom:-30px,text-align:center
 
-##### A Ronin wanders a forest alone
+##### A Rōnin wanders a forest alone
 
 }}
 
@@ -3737,7 +3737,7 @@ A Horagai (法螺貝) is a trumpet made from a large conch shell, often carried 
 
 {{note
 
-##### Note: Shakujo
+##### Note: Shakujō
 
 A Shakujō (錫杖) is a staff topped with a metal loop, with smaller metal rings attached. They are carried by Yamabushi and other monks, as a tool for prayer, a hiking aid, and a weapon.
 
@@ -4889,7 +4889,7 @@ When you cast *Shield of Faith* for free using this feat, you can instead turn t
 
 {{position:absolute,bottom:170px,left:375px,margin-bottom:-30px,text-align:left
 
-##### The 'Night Parade of One Hundred Yokai'
+##### The 'Night Parade of One Hundred Yōkai'
 
 }}
 
@@ -5047,7 +5047,7 @@ The escape of the Oni causes a night of terror, known as the Hyakki Chitsuki, wh
 
 {{position:absolute,top:1000px,left:400px,margin-bottom:-30px,text-align:left
 
-##### A Daimyo on</br> horseback
+##### A Daimyō on</br> horseback
 
 }}
 
