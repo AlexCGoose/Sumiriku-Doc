@@ -6138,7 +6138,7 @@ Below is an list of the spells changed in this document, with a brief descriptio
 
 ## Level 1
 
-### Chromatic Orb ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:97px,left:55px,width:375px,mix-blend-mode:normal}
+### Chromatic Orb ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Text%20Underline.png){position:absolute,top:96px,left:55px,width:375px,mix-blend-mode:normal}
 
 *Level 1 Illusion*
 **Casting Time:** :: Action
