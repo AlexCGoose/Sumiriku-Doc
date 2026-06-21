@@ -49,8 +49,10 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
     - [{{ Hōō Sensu}}{{ 6}}](#p7)
     - [{{ Nimbus Sake}}{{ 6}}](#p7)
     - [{{ Noh Mask of the Noppera-bō}}{{ 6}}](#p7)
-    - [{{ Prayer Beads to the Myōjin}}{{ 6}}](#p7)
-    - [{{ Statue of Preservation}}{{ 6}}](#p7)
+    - [{{ Nue Netsuke}}{{ 6}}](#p7)
+    - [{{ Prayer Beads to the Myōjin}}{{ 7}}](#p8)
+    - [{{ Shikigami Brush}}{{ 7}}](#p8)
+    - [{{ Statue of Preservation}}{{ 7}}](#p8)
     - [{{ Twin Dragon Daikyū }}{{ 7}}](#p8)
     - [{{ Unwinding Uwa-obi }}{{ 7}}](#p8)
     - [{{ Prostheses}}{{ 9}}](#p10)
@@ -102,35 +104,35 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 - ######
 
-  - [{{ Rouges and Rōnin}}{{ 43}}](#p44)
-    - [{{ Genji and Okamoto}}{{ 43}}](#p44)
-  - [{{ The Shadow Triad}}{{ 45}}](#p46)
-    - [{{ The Bai Crime Family}}{{ 46}}](#p47)
-  - [{{ Tenno}}{{ 47}}](#p48)
-    - [{{ Baku}}{{ 47}}](#p48)
-  - [{{ The Twin Sons}}{{ 49}}](#p50)
-  - [{{ Undead}}{{ 51}}](#p52)
-    - [{{ Jiangshi}}{{ 51}}](#p52)
-  - [{{ The Unknown Fire}}{{ 53}}](#p54)
-  - [{{ Wakasa Clan}}{{ 55}}](#p56)
-    - [{{ Hatsumomo}}{{ 56}}](#p57)
-    - [{{ Daimyō Hidemaro}}{{ 57}}](#p58)
-  - [{{ Yokai}}{{ 59}}](#p60)
-    - [{{ Kamaitachi}}{{ 59}}](#p60)
-    - [{{ Nijimu-onna}}{{ 60}}](#p61)
-    - [{{ Ningyo}}{{ 61}}](#p62)
-    - [{{ Nue}}{{ 62}}](#p63)
-    - [{{ Suiko}}{{ 62}}](#p63)
+  - [{{ Rouges and Rōnin}}{{ 45}}](#p46)
+    - [{{ Genji and Okamoto}}{{ 45}}](#p46)
+  - [{{ The Shadow Triad}}{{ 47}}](#p48)
+    - [{{ The Bai Crime Family}}{{ 48}}](#p49)
+  - [{{ Tenno}}{{ 49}}](#p50)
+    - [{{ Baku}}{{ 49}}](#p50)
+  - [{{ The Twin Sons}}{{ 51}}](#p52)
+  - [{{ Undead}}{{ 53}}](#p54)
+    - [{{ Jiangshi}}{{ 53}}](#p54)
+  - [{{ The Unknown Fire}}{{ 55}}](#p56)
+  - [{{ Wakasa Clan}}{{ 57}}](#p58)
+    - [{{ Hatsumomo}}{{ 58}}](#p59)
+    - [{{ Daimyō Hidemaro}}{{ 59}}](#p60)
+  - [{{ Yokai}}{{ 61}}](#p62)
+    - [{{ Kamaitachi}}{{ 61}}](#p62)
+    - [{{ Nijimu-onna}}{{ 62}}](#p63)
+    - [{{ Ningyo}}{{ 63}}](#p64)
+    - [{{ Nue}}{{ 64}}](#p65)
+    - [{{ Suiko}}{{ 64}}](#p65)
 
-- ### [{{ PART 2 - The Living Lore}}{{ 63}}](#p64) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:376px,left:285px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 2 - The Living Lore}}{{ 67}}](#p68) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:376px,left:285px,width:245px,mix-blend-mode:normal}
 
-- ###### [{{ Letters and Documents}}{{ 64}}](#p65)
+- ###### [{{ Letters and Documents}}{{ 68}}](#p69)
   
-  - [{{ Cultist’s Poem}}{{ 64}}](#p65)
-  - [{{ Haiku of the Fading Mire}}{{ 64}}](#p65)
-  - [{{ Note to Sayuri from Kaito}}{{ 64}}](#p65)
-  - [{{ Sensei Kenzo’s Letter to the Students}}{{ 64}}](#p65)
-  - [{{ The Usagi’s Letter to Jun}}{{ 65}}](#p66)
+  - [{{ Cultist’s Poem}}{{ 68}}](#p69)
+  - [{{ Haiku of the Fading Mire}}{{ 68}}](#p69)
+  - [{{ Note to Sayuri from Kaito}}{{ 68}}](#p69)
+  - [{{ Sensei Kenzo’s Letter to the Students}}{{ 68}}](#p69)
+  - [{{ The Usagi’s Letter to Jun}}{{ 69}}](#p70)
 
 }}
 
@@ -186,7 +188,7 @@ The first, *The Infinite Library*, acts as a repository for information about al
 
 # Items And Treasures
 
-Myth and folklore of Sumiriku are filled with important artefacts, relics who's powers were required in times of need or weapons elevated to legendary status by their wielders. These items, many currently enshrined or kept as treasured heirlooms, help connect this storied history to our present day.
+Myth and folklore of Sumiriku are filled with important artifacts, relics who's powers were required in times of need or weapons elevated to legendary status by their wielders. These items, many currently enshrined or kept as treasured heirlooms, help connect this storied history to our present day.
 
 The following lists a number of unique magic items that can be found within the setting of Sumiriku. These items feature lore explaining their origin, design, or use, as well as mechanical information for using the item.
 
@@ -224,9 +226,7 @@ This style of knife, in a sheath disguised as a make-up box, is often carried in
 #### Hōō Feather
 
 *Wondrous Item, Very Rare, Epic* </br>
-This large feather is a bright gradient in colour, from a deep red at the base to white at the tip. This feather was found among the belongings of Toku-Toku, a cult leader and pyromaniac. It seems that this feather has properties of healing flame.
-
-If this feather is held tightly, when the person holding the feather drops to 0 Hit Points, they are instead brought back in a fiery resurrection. They are healed a number of Hit Points equal to half their Maximum Hit Points, and all creatures within 5 feet of them must attempt a DC 14 Dexterity Saving Throw. They take 3d6 Fire damage on a failed save, or half that on a successful save. The feather is consumed if used in this way.
+This large feather is a bright gradient in colour, from a deep red at the base to white at the tip, and appears to have the properties of healing flame. If this feather is held tightly, when the person holding the feather drops to 0 Hit Points, they are instead brought back in a fiery resurrection. They are healed a number of Hit Points equal to half their Maximum Hit Points, and all creatures within 5 feet of them must attempt a DC 14 Dexterity Saving Throw. They take 3d6 Fire damage on a failed save, or half that on a successful save. The feather is consumed if used in this way.
 
 This feather can instead be used to return the recently deceased back to life. When placed on the body of a creature that has died within the last minute, they return to life with 1 hit point, as in the *Revivify* spell. This can't return to life a creature that has died of old age, nor can it restore any missing body parts. The feather is also consumed if used in this way.
 
@@ -240,7 +240,7 @@ This feather can instead be used to return the recently deceased back to life. W
 #### Hōō Sensu
 
 *Wondrous Item, Very Rare, Epic*</br>
-This fan, constructed out of feathers, was displayed in a golden statue of a Hōō, mystical birds of fire and radiance. The fan has 4 charges. As a Magic Action you can twirl the fan in a performance to emit golden flames in a 20-foot Emanation. Make a DC 15 Charisma (Performance) check. On a successful check, one creature of your choice in the Emanation gains a Heroic Reroll or has Disadvantage on their next Saving Throw until the end of your next turn. On a success or fail. allies in the Emanation gain Temporary Hit Points and other creatures of your choice in the Emanation take Fire damage equal to 2 times the fan's remaining charges. Once this property of the fan is used, it cannot be used again until the next dawn.
+This fan, constructed out of feathers, was displayed in a golden statue of a Hōō, mystical birds of fire and radiance. The fan has 4 charges. As a Magic Action you can twirl the fan in a performance to emit golden flames in a 20-foot Emanation. Make a DC 15 Charisma (Performance) check. On a successful check, one creature of your choice in the Emanation gains a Heroic Reroll or has Disadvantage on their next Saving Throw until the end of your next turn. On a success or fail, allies in the Emanation gain Temporary Hit Points and other creatures of your choice in the Emanation take Fire damage equal to 2 times the fan's remaining charges. Once this property of the fan is used, it cannot be used again until the next dawn.
 
 While holding the fan, you can take a Magic Action and expend a charge to cast *Revivify*, without requiring any Material Components. The fan becomes non-magical once all charges are used. The fan can be disassembled into a number of Hōō Feathers equal to the charges remaining, at which point it becomes non-magical.
 
@@ -254,9 +254,19 @@ This white gourd of sake, the mixture within made by the most esteemed Masaru br
 #### Noh Mask of the Noppera-bō
 
 *Wondrous Item, Uncommon, Minor* </br>
-This mask appears to be a traditional Noh theatre mask, depicting someone with closed eyes and small facial features, perhaps asleep or in quiet contemplation. The mask appears to have been imbued with some illusionary magic, though whether this is a blessing or a curse is unclear.
+This mask appears to be a traditional Noh theatre mask, depicting someone with closed eyes and small facial features, perhaps asleep or in quiet contemplation. The mask appears to have been imbued with some illusionary magic, though whether this is a blessing or a curse is unclear. When you put on the mask you can choose to cast the Disguise Self spell. The spell lasts until you take of the mask, and the DC of the Intelligence (Investigation) for discovering the illusion is 20. While wearing the mask you are unable to speak, or cast spells requiring verbal components.
 
-When you put on the mask you can choose to cast the Disguise Self spell. The spell lasts until you take of the mask, and the DC of the Intelligence (Investigation) for discovering the illusion is 20. While wearing the mask you are unable to speak, or cast spells requiring verbal components.
+#### Nue Netsuke
+
+*Wondrous Item, Rare, Major (requires attunement by a spellcaster)* </br>
+This netsuke, a small, carved sculpture, used to fasten the cord of a pouch to a belt, depicts the ferocious Yōkai known as the Nue. Its presence marks you as the leader of the pack. While you are concentrating on a spell that summons or creates a creature, you can cast and concentrate on an additional concentration spell, so long as that spell only targets the creature you have summoned. If you cast another concentration spell targeting the creature, the first one ends. You make Savings Throws to maintain on both spells at the same time; if you fail a save you lose concentration on both spells.
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
 
 #### Prayer Beads to the Myōjin <!-- CONSIDER REBALANCE - REGULAR CAST TIME/ONLY ONE SPELL PER DAY -->
 
@@ -269,17 +279,18 @@ The bracelet currently has beads of the following spells, listed with their asso
 - Netsu-sama: *Haste*
 - Kahei-sama: *Calm Emotions*
 
+#### Shikigami Brush
+
+*Wondrous Item, Very Rare, Minor*
+
+This ornately filigreed brush is secretly possessed by a mysterious spirit known as a Shikigami, whose purpose is to follow its masters commands. The brush generates its own mundane ink and acts on its own as you speak to it. While holding the brush, you can use a command word as a Bonus Action to activate it. While activated, the brush magically floats upright and writes the words you speak to it on whatever stationary, nonliving surface it's been placed on. You can instead command the brush to copy a document you show it, such as a Spell Scroll. When it reaches the edge of that surface, it begins a new line below before continuing. If the brush reaches the end of the surface, such as a piece of parchment, it taps against the surface expectantly until a new one is provided. You must be within 15 feet of the brush in order to speak to it. If the brush is behind Total Cover, it can't understand you. If you repeat the command word, even if you're not holding the brush, it deactivates and falls down. If the brush doesn't write anything for 1 minute, it deactivates on its own.
+
+\column
+
 #### Statue of Preservation
 
 *Wondrous Item, Common, Minor (requires attunement)* </br>
 This small statue of a decaying body in meditation gives off a spectral, haunting aura. While this statue is within 300 feet of you, if you are attuned to it, you have Advantage on Death Saving Throws.
-
-{{pageNumber,auto}}
-{{footnote PART 1 | THE INFINITE LIBRARY}}
-
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
-
-\page
 
 #### Twin Dragon Daikyū
 
@@ -541,7 +552,7 @@ If Wakare is ever broken, the spiritual energy stored within erupts as a wave of
 
 When the great Constellation Dragon wept for the first and only time, his single tear fell as a shooting star, carving a trail of sparkling light across the sky. The act of kindness that moved him so incredibly was blessed by the arrival of this magatama, containing within it the power to change hearts and minds, worth wielding only by those who show upmost empathy.
 
-Ryūsei-Namida (流星涙, ‘Meteor Tear’) is one of the three Sacred Treasures, unique gifts from from the starlight realm of Hoshikuzuten, representing the virtue of Benevolence. It is in the form of a magatama, a curved jewel, worn as a necklace. While wearing this magatama, if a creature is the only target of a Intelligence, Wisdom, or Charisma Saving Throw, you can redirect the effect causing the Saving Throw to yourself. If you do, you gain Advantage on the Saving Throw.
+Ryūsei-Namida (流星涙, ‘Meteor Tear’) is one of the three Sacred Treasures, unique gifts from from the starlight realm of Hoshikuzuten, representing the virtue of Benevolence. It is in the form of a magatama, a curved jewel, worn as a necklace. While wearing this magatama, if a creature you can see within 300 feet of you is the only target of a Intelligence, Wisdom, or Charisma Saving Throw, you can use your Reaction to redirect the effect causing the Saving Throw to yourself. If you do, you gain Advantage on the Saving Throw.
 
 The powers of this fragment of the illuminated realm appear to have dulled with time, ages gone unused. These abilities may grow with use, or with exposure to the other Starlight Regalia.
 
@@ -1933,7 +1944,7 @@ Yuxuan wields Zhē, a magical Jian, or shortsword. This sword is polished to a p
 
 ***Extinguish (1/Day).*** If Okiko fails a Saving Throw, he can choose to succeed instead. If he does so, all creatures and areas that are on fire cease to be on fire.
 
-***Immolate.*** Whenever Okiko deals Fire damage to a creature with an Attack, Spell, or other Action, he also sets them on fire for 1 minute. A creature who is on fire at the start of their turn takes 4 (1d6) Fire damage, or 7 (2d6) Fire damage if Okiko has used *Burning Rage*. The creature on fire or another creature within 5 feet of them can use their action to extinguish the flames. If a creature who is already on fire is set on fire again, the damage isn't cumulative, but the duration is reset.
+***Immolate.*** Whenever Okiko deals Fire damage to a creature with an Attack, Spell, or other Action, he also sets them on fire for 1 minute. A creature who is on fire at the start of their turn takes 4 (1d6) Fire damage, or 7 (2d6) Fire damage if Okiko has used *Burning Rage*. The creature on fire or another creature within 5 feet of them can use their action to extinguish the flames. If a creature who is already on fire is set on fire again, the damage isn't cumulative, but the duration is reset. <!-- TODO - REPLACE WITH BURNING HAZARD -->
 
 ***Serpentine.*** Okiko's serpentine body allows him to occupy another creature's space and vice versa. Okiko can move through any opening large enough for a Large creature.
 
@@ -1989,7 +2000,7 @@ Yuxuan wields Zhē, a magical Jian, or shortsword. This sword is polished to a p
 
 Many creatures of imposing size may require players to climb them, much like they would any other piece of terrain, in order to close in for a strike. A creature may attempt to grab hold of a creature two or more sizes larger than themselves; to do this, the target must succeed on a Dexterity Saving Throw against the smaller creature's Grapple DC. If the target fails, the smaller creature enters the larger creatures's space, has a grip on the larger creature, is moved with the larger creature, and can climb the larger creature as if it were terrain. The larger creature can still attack the smaller creature, and they can take the Escape a Grapple action in order to remove the smaller creature's grip on them.
 
-If a creature reaches a place on a larger creature, they can stand and ballance without needing to be grappling the creature. The smaller creature can spend half of their movement to Brace themselves, granting them Advantage on any Strength or Dexterity Saving Throws to avoid being moved against their will. It is up to the DM's discretion as to whether creatures Grappling or Bracing on larger creatures can be attacked by those larger creatures.
+If a creature reaches a stable place on a larger creature, they can stand and ballance without needing to be grappling the creature. The smaller creature can spend half of their movement to Brace themselves, granting them Advantage on any Strength or Dexterity Saving Throws to avoid being moved against their will. It is up to the DM's discretion as to whether creatures Grappling or Bracing on larger creatures can be attacked by those larger creatures.
 
 <!--  This advice goes for not just prostheses, but all representations of disability in games. -->
 
@@ -2961,7 +2972,7 @@ Many groups of bandits roam the roads and settlements of Sumiriku, who make thei
 {{vitals
 
 **AC**         :: 17
-**HP**         :: 187 (22d8 + 28)
+**HP**         :: 150 (20d6 + 80)
 \column
 **Initiative** :: +1 (11)
 **Speed**      :: 25 ft.
@@ -2992,7 +3003,7 @@ Many groups of bandits roam the roads and settlements of Sumiriku, who make thei
 **Gear**        :: Sentōno
 **Senses**      :: Passive Perception 17
 **Languages**   :: Anagumago, Sumirikugo
-**CR**          :: 7 (XP 2,300; PB +3)
+**CR**          :: 8 (XP 3,900; PB +3)
 
 }}
 
@@ -3086,6 +3097,181 @@ While Kuchan is transformed, her stat block is replaced by the stat block of tha
 ***Tunneler (1/Day).*** The badger-bear digs underground, tunnels up to 40 feet in a straight line, then suddenly unburrows. *Dexterity Saving Thrown:* DC 16, each creature within the space the badger-bear unburrows. *Failure:* 18 (4d8) Bludgeoning damage, and the target gains the Prone condition.
 
 }}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
+{{monster,frame
+
+## Setsurō, Unoathed
+
+*Medium Humanoid (Human, Paladin), Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 19
+**HP**         :: 150 (20d8 + 60)
+\column
+**Initiative** :: +1 (11)
+**Speed**      :: 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18|  +4  |  +4  |
+|Int| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12|  +1  |  +1  |
+|Wis| 10|  +0  |  +4  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16|  +3  |  +3  |
+|Cha| 16|  +3  |  +7  |
+
+}}
+
+**Skills**      :: Athletics +7, Intimidation +6
+**Immunities**  :: Deafened, Frightened
+**Gear**        :: Katana, Ōdachi, Su Yari, Wakizashi
+**Senses**      :: Passive Perception 10
+**Languages**   :: Formal Sumirikugo, Sumirikugo
+**CR**          :: 9 (XP 5,000; PB +4)
+
+}}
+
+### Traits
+
+***Unwavering.*** Setsurō has Advantage on all Saving Throws.
+
+***Master at Arms.*** Setsurō can swap weapons as part of each of his attacks. If he hits a creature with two different weapons in one turn, the second attack deals an additional 9 (2d8) Necrotic damage.
+
+### Actions
+
+***Multiattack.*** Setsurō makes two attacks.
+
+***Katana.*** *Melee Attack Roll:* +8 to hit, reach 5 ft. *Hit:* 8 (2d4 + 4) Slashing damage, and Setsurō can move to the opposite side of the creature without expending movement or provoking Opportunity Attacks.
+
+***Ōdachi.*** *Melee Attack Roll:* +8 to hit, reach 5 ft. *Hit:* 10 (2d6 + 4) Slashing damage. If this attack misses, Setsurō can deal 4 Slashing damage to the target.
+
+***Su Yari.*** *Melee Attack Roll:* +8 to hit, reach 10 ft. *Hit:* 9 (1d10 + 4) Piercing damage, and Setsurō can push the target up to 10 feet straight away from him.
+
+***Wakizashi.*** *Melee Attack Roll:* +8 to hit, reach 5 ft. *Hit:* 7 (1d6 + 4) Slashing damage, and Setsurō can move to the opposite side of the creature without expending movement or provoking Opportunity Attacks.
+
+***Spellcasting.*** Setsurō casts one of the following spells, using Charisma as the Spellcasting Ability (Spell Save DC 15):
+
+**3/day each:** Bane<sup>A, C</sup>, Hunter's Mark<sup>BA, C</sup>
+</br>**2/day each:** Hold Person<sup>A, C</sup>, Misty Step<sup>BA</sup>
+</br>**1/day each:** Haste<sup>A, C</sup>
+
+### Bonus Actions
+
+***Enmity (1/Day).*** Setsurō choses a creature he can see within 30 feet. He has Advantage on Attack Rolls against that creature until the end of his turn, and that creature has Disadvantage on Saving Throws until the end of their next turn.
+
+### Reactions
+
+***Dire Smite.*** *Trigger:* Setsurō hits a creature with an attack. *Response* Setsurō makes the attack deal an extra 18 (4d8) Necrotic damage. *Wisdom Saving Thrown:* DC 13, the target of the attack. *Failure:* The target gains the Frightened condition until the end of Setsurō's next turn.
+
+}}
+
+\column
+
+{{monster,frame
+
+## Michiko-hime, Voice of Yamamayuga
+
+*Medium Humanoid (Human, Warlock), Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 16
+**HP**         :: 130 (20d8 + 40)
+\column
+**Initiative** :: +2 (12)
+**Speed**      :: 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 10|  +0  |  +0  |
+|Int| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14|  +2  |  +6  |
+|Wis| 16|  +3  |  +7  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +2  |  +2  |
+|Cha| 18|  +4  |  +8  |
+
+}}
+
+**Skills**          :: Arcana +4, Religion +7
+**Immunities**      :: Charmed
+**Senses**          :: Passive Perception 12
+**Languages**       :: Kimyōkaigo, Sumirikugo,
+**CR**              :: 10 (XP 5,900; PB +4)
+
+}}
+
+### Traits
+
+***Wings of Night.*** On Michiko-hime's turn, she gains a Fly Speed equal to her Walking Speed.
+
+### Actions
+
+***Multiattack.*** Michiko-hime makes three Sparkle Beam attacks.
+
+***Sparkle Beam*** *Ranged Attack Roll:* +8 to hit, range 120 ft. *Hit:* 10 (1d10 + 4) Force damage, and Michiko-hime can move the creature in a straight line up to 5 feet away.
+
+***Spellcasting.*** Michiko-hime casts one of the following spells, using Charisma as the Spellcasting Ability (Spell Save DC 16, +8 to hit with Spell Attacks):
+
+**3/day combined:** Dominate Person<sup>A, C</sup>, Faerie Fire<sup>A, C</sup>, Greater Invisibility<sup>A, C</sup>
+
+### Bonus Actions
+
+***Silk Step.*** Michiko-hime teleports to an unoccupied space within 15 feet of herself that she can see. After teleporting in this way, Michiko gains one of the following benefits of her choice:
+
+**Chrysalis Barrier:** Michiko-hime surrounds herself with a golden shield, protecting her from the first instance of damage she would receive.
+</br>**Mental Spores:** *Wisdom Saving Thrown:* DC 16, creatures within 5 feet of the space Michiko-hime left or appeared in (her choice). *Failure:* 11 (2d10) Psychic damage.
+</br>**Cover of Darkness:** Michiko-hime gains the Invisible condition until the start of her next turn or until immediately after she makes an attack roll, deals damage, or casts a spell.
+
+### Reactions
+
+***Fluttering Escape (1/Day).*** *Trigger:* Michiko-hime take damage. *Response:* Michiko-hime uses **Silk Step**.
+
+<!-- ***Compound Eyes (1/Day).*** *Trigger:* A creature Michiko-hime can see hits her with an Attack Roll. *Response* Michiko-hime reduces the damage she takes by half. *Wisdom Saving Thrown:* DC ??, the creature that triggered the Reaction. *Failure:* The target takes Psychic damage equal to the damage Michiko-hime took. -->
+
+<!-- ***Compound Eyes (1/Day).*** *Trigger:* A creature Michiko-hime can see within 30 feet of her targets her with an Attack or Spell. *Response--Wisdom Saving Thrown:* DC 16, the creature that triggered the Reaction. *Failure:* The target gains the Charmed condition for 1 minute (). -->
+
+***Compound Eyes (1/Day).*** *Trigger:* A creature Michiko-hime can see within 30 feet of her targets her with an Attack or Spell. *Response--Wisdom Saving Thrown:* DC 16, the creature that triggered the Reaction. *Failure:* The target gains the Charmed condition until the end of Michiko-hime's next turn. When the condition ends, they take 22 (4d10) Psychic damage. *Success:* Half damage.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
@@ -3507,8 +3693,9 @@ While Kuchan is transformed, her stat block is replaced by the stat block of tha
 ***Death's Door.*** Daiyu teleports up to 30 feet to an unoccupied space she can see and leaves behind a terrifying visage. *Charisma Saving Throw:* DC 18, each creature within 10 feet of the space Daiyu left. *Failure:* The target has the Frightened Condition until the end of Daiyu's next turn.
 
 ### Reactions
-
+<!-- TODO - ADD TRIGGER -->
 ***Night's Grasp.*** Daiyu casts Counterspell in response to the spell's trigger, using the same Spellcasting Ability as Spellcasting. If the target fails their Saving Throw, they have the Frightened Condition until the end of their next turn.
+
 }}
 
 \column
@@ -4069,7 +4256,7 @@ The Baku has 2 Legendary Action Uses per round.
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
 |Str| 12|  +1  |  +1  |
-|Int| 15|  +2  |  +5  |
+|Int| 16|  +3  |  +6  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
@@ -4083,7 +4270,7 @@ The Baku has 2 Legendary Action Uses per round.
 
 }}
 
-**Skills**      :: Investigation +5, Religion +4, Survival +4
+**Skills**      :: Investigation +6, Religion +6, Survival +4
 **Senses**      :: Passive Perception 11
 **Languages**   :: Kimyōkaigo, Sumirikugo
 **CR**          :: 7 (XP 2,900; PB +3)
@@ -4120,7 +4307,7 @@ The Baku has 2 Legendary Action Uses per round.
 
 ***Blinding Rite.*** *Trigger:* Kiba is hit by an attack. *Response:* The attacker must subtract 1d8 from each of their Attack Rolls they make until the end of turn, potentially turning the hit into a miss.
 
-<!-- ***Glide.*** *Trigger:* Kiba is falling 10 feet or more. *Response* Kiba slows her fall to 60 feet per round until she lands. She can act normally while falling this way, and takes 0 damage when landing. -->
+<!-- ***Glide.*** *Trigger:* Kiba is falling 10 feet or more. *Response:* Kiba slows her fall to 60 feet per round until she lands. She can act normally while falling this way, and takes 0 damage when landing. -->
 
 }}
 
@@ -4130,8 +4317,6 @@ The Baku has 2 Legendary Action Uses per round.
 
 ## Kugi, Hammerfall
 
-**TODO - UNFINISHED - UNIMPORTANT**
-
 *Small Humanoid (Masaru, Blood Hunter), Lawful Neutral*
 
 {{stats
@@ -4139,10 +4324,10 @@ The Baku has 2 Legendary Action Uses per round.
 {{vitals
 
 **AC**         :: 15
-**HP**         :: 187 (22d6 + 110)
+**HP**         :: 113 (25d6 + 25)
 \column
-**Initiative** :: +? (??)
-**Speed**      :: 25 ft., climb 25 ft.
+**Initiative** :: +1 (11)
+**Speed**      :: 25 ft., Climb 25 ft.
 
 }}
 
@@ -4150,66 +4335,59 @@ The Baku has 2 Legendary Action Uses per round.
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Str| 18|  +4  |  +4  |
-|Int| 16|  +3  |  +6  |
+|Str| 20|  +5  |  +5  |
+|Int| 12|  +1  |  +1  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Dex| 13|  +1  |  +4  |
-|Wis| ? |  +?  |  +?  |
+|Dex| 12|  +1  |  +4  |
+|Wis| 18|  +4  |  +4  |
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Con| 20|  +5  |  +?  |
-|Cha| ? |  +?  |  +?  |
+|Con| 12|  +1  |  +4  |
+|Cha| 12|  +1  |  +4  |
 
 }}
 
-**Skills**      :: Stealth +?
-**Resistances** :: ???
-**Immunities**  :: ???; ???
-**Senses**      :: ???, Passive Perception ??
-**Gear**        :: ???
-**Languages**   :: Sumirikugo, ???
-**CR**          :: ? (XP ?; PB +3)
+**Skills**      :: Athletics +7, Acrobatics +4, Arcana +4
+**Senses**      :: Passive Perception 14
+**Gear**        :: Ōtsuchi
+**Languages**   :: Kimyōkaigo, Sumirikugo
+**CR**          :: 8 (XP 3,900; PB +3)
 
 }}
 
 ### Traits
 
-***???.*** ???
+***Pact of the Unknown Fire.*** Whenever Kugi hits a creature with a attack that deals Fire damage, they start burning. Creatures that are burning have Disadvantage on Saving Throws against Kugi's Spells and Rites.
 
-***Legendary Resistance (?/Day).*** If ??? fails a Saving Throw, ??? can choose to succeed instead.
-
-***??? (Antagonist Trait, Recharges after a Short or Long Rest).*** ???.
+***Rites and Sacrifices.*** Kugi knows a number of Rites, of which he can use 3 per day. Whenever he uses a Rite, he takes 5 (1d8) Necrotic damage.
 
 ### Actions
 
-***Multiattack.*** Kugi makes two attacks, either with Ōtsuchi or Blue Flame Blast.
+***Multiattack.*** Kugi makes two attacks, either Ōtsuchi or Blue FLame Blast. Kugi can replace one of these attacks with a use of Blue Flame Blast or Spellcasting.
 
-***Ōtsuchi*** *Melee Attack Roll:* +? to hit, reach ? ft. *Hit:* ? (1d12 + ?) Bludgeoning damage, plus ? (1d12) Fire damage.
+***Ōtsuchi*** *Melee Attack Roll:* +8 to hit, reach 5 ft. *Hit:* 12 (1d12 + 5) Bludgeoning damage, plus 7 (1d12) Fire damage.
 
-***Blue Flame Blast*** *Ranged Attack Roll:* +? to hit, range 60 ft. *Hit:* ? (2d8 + ?) Fire damage.
+***Blue Flame Blast*** *Ranged Attack Roll:* +7 to hit, range 60 ft. *Hit:* 18 (3d8 + 4) Fire damage.
+
+***Pact Casting.*** Kugi casts one of the following spells, using Wisdom as the Spellcasting Ability (Spell Save DC 15):
+
+**At will:** Mage Hand<sup>A</sup>, Minor Illusion<sup>A</sup>
+</br>**3/day combined:** Ray of Enfeeblement<sup>A, C</sup>, Scorching Ray<sup>A</sup>, Invisibility<sup>A, C</sup>
+
+***Jet Hammer (1/Day).*** Kugi strikes the ground with his hammer, launching himself into the air before landing in a space within 15 feet of himself. If Kugi lands on another creature, he can make an Ōtsuchi attack with Advantage against the creature. If the attack hits, it deals an additional 13 (2d12) Fire damage, and the creature must succeed on a DC 15 Strength Saving Throw or be pushed back 5 feet in a direction of Kugi's choosing and gain the Prone condition. If the attack misses or the creature succeeds on the Saving Throw, they are pushed back 5 feet in a direction of their choosing.
 
 ### Bonus Actions
 
-***???.*** *??? Saving Throw:* DC ??, ???. *Failure:* ???. *Success:* ???.
+***Befuddling Rite.*** *Intelligence Saving Throw:* DC 15, a creature that can see or hear Kugi within 30 feet. *Failure:* The creature gains the Dazed condition (save repeats at end of turn). While Dazed in this way, the creature believes it sees duplicates of Kugi. The creature is considered Flanked by Kugi and his allies.
+
+***Dread Rite.*** *Wisdom Saving Throw:* DC 15, a creature that can see or hear Kugi within 30 feet. *Failure:* The creature gains the Frightened condition (save repeats at end of turn). While Frightened in this way, the creature must spend its turn moving as far away from Kugi as possible.
 
 ### Reactions
 
-??? can take up to ??? Reactions per round but only one per turn.
-
-***???.*** *Trigger:* ???. *Response* ???.
-
-### Legendary Actions
-
-***???.*** ???.
-
-***??? (Antagonist Action).*** ???.
-
-### Villain Actions
-
-***???.*** ???.
+***Transmission Rite.*** *Trigger:* Kugi is hit by an attack. *Response:* Kugi teleports up to 15 feet to an unoccupied space he can see, causing the attack to miss.
 
 }}
 
@@ -4697,7 +4875,7 @@ The Baku has 2 Legendary Action Uses per round.
 
 {{monster,frame
 
-## ???
+## Nijimu-onna
 
 *??? ???, ??? ???*
 
@@ -4770,7 +4948,7 @@ The Baku has 2 Legendary Action Uses per round.
 
 ??? can take up to ??? Reactions per round but only one per turn.
 
-***???.*** *Trigger:* ???. *Response* ???.
+***???.*** *Trigger:* ???. *Response:* ???.
 
 ### Legendary Actions
 
@@ -4898,7 +5076,7 @@ The Baku has 2 Legendary Action Uses per round.
 
 \page
 
-### Nue ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+### Nue ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:395px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -4971,6 +5149,172 @@ The Baku has 2 Legendary Action Uses per round.
 ***Nimble Escape.*** The Nue takes the Disengage or Hide action.
 
 }}
+
+\column
+
+### Nukekubi ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+
+**TODO - NOT STARTED - UNIMPORTANT**
+
+{{monster,frame
+
+## Nukekubi
+
+*Tiny Fey, Neutral Evil*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 13
+**HP**         :: 35 (10d4 + 10)
+\column
+**Initiative** :: +3 (13)
+**Speed**      :: 5 ft., Fly 50 ft. (hover)
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 16|  +3  |  +3  |
+|Int| 9 |  -1  |  -1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12|  +1  |  +1  |
+|Wis| 12|  +1  |  +1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12|  +1  |  +1  |
+|Cha| 5 |  -3  |  -3  |
+
+}}
+
+**Skills**     :: Perception +3, Stealth +3
+**Immunities** :: Charmed, Exhaustion
+**Senses**     :: Darkvision 120 ft., Passive Perception 13
+**Languages**  :: Understands Kimyokaigo and Sumirikugo but does not speak them
+**CR**         :: 2 (XP 700; PB +2)
+
+}}
+
+### Traits
+
+***Bloodsucker.*** Whenever the Nukekubi deals Necrotic damage to a creature, the creature's Hit Point maximum is decreased by the amount of Necrotic damage dealt and the Nukekubi regains Hit Points equal to that amount.
+
+***Yokai Ward.*** The Rokurokubi has Advantage on Saving Throws against spells and other magical effects.
+
+### Actions
+
+***Feast.*** *Melee Attack Roll:* +5 to hit, reach 5 ft. *Hit:* 9 (2d6 + 3) Piercing damage, and the Nukekubi attaches to the target. While attached, the Nukekubi can't make Feast attacks, and the target takes 6 (1d12) Necrotic damage at the start of each of the Nukekubi's turns. </br>&nbsp;&nbsp;&nbsp;&nbsp;Attached creatures have their speed reduced by 10 feet, to a minimum of 0. The Nukekubi stays in an attached creature's space, moves with the creature, and can detach themselves by spending 5 feet of its movement. The target or a creature within 5 feet of them can use their action to make a DC 13 Strength (Athletics) check, detaching all Nukekubi on the target on a success
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
+### Rokurokubi ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+
+**TODO - NOT STARTED - UNIMPORTANT**
+
+{{monster,frame,wide
+
+## Rokurokubi
+
+*Huge Fey, Neutral Evil*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 15
+**HP**         :: 243 (18d12 + 126)
+\column
+**Initiative** :: +8 (18)
+**Speed**      :: 50 ft., Climb 50 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 25|  +7  |  +7  |
+|Int| 9 |  -1  |  -1  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 16|  +3  |  +8  |
+|Wis| 13|  +2  |  +7  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 25|  +7  |  +7  |
+|Cha| 5 |  -3  |  -3  |
+
+}}
+
+**Skills**          :: Athletics +12, Perception +7, Intimidation +7
+**Immunities**      :: Charmed, Exhaustion
+**Senses**          :: Darkvision 120 ft., Passive Perception 17
+**Languages**       :: Kimyokaigo, Sumirikugo
+**CR**              :: 16 (XP 15,000, or 18,000 in lair; PB +5)
+
+}}
+
+### Traits
+
+***Heads Up (3/Day).*** If the Rokurokubi fails a Saving Throw, she can eat a Nukekubi within 30 feet of her to succeed instead.
+
+***Yokai Ward.*** The Rokurokubi has Advantage on Saving Throws against spells and other magical effects.
+
+### Actions
+
+***Multiattack.*** The Rokurokubi makes a Strike attack, a Bite attack, and either a Bind or Constrict attack, choosing different targets for each if possible.
+
+***Strike.*** *Melee Attack Roll:* +12 to hit, reach 10 ft. *Hit:* 16 (2d8 + 7) Slashing damage.
+
+***Bite.*** *Melee Attack Roll:* +12 to hit, reach 15 ft. *Hit:* 14 (2d6 + 7) Piercing damage.
+
+***Bind.*** *Melee Attack Roll:* +12 to hit, reach 10 ft. *Hit:* 14 (2d6 + 7) Bludgeoning damage. If the target is a Large or smaller creature, it has the Grappled condition. (escape DC 18). Until the grapple ends, the target is Restrained and the Rokurokubi can't Grapple another target.
+
+***Constrict.*** *Strength Saving Throw:* DC 18, one Large or smaller creature the Rokurokubi is grappling. *Failure:* 16 (2d8 + 7) Bludgeoning damage, and the target gets one point of Exhaustion.
+
+### Reactions
+
+The Rokurokubi can take up to 3 Reactions per round but only one per turn.
+
+***Squeeze.*** *Trigger:* A creature ends its turn while Grappled by the Rokurokubi. *Response:* The Rokurokubi makes a Constrict attack.
+
+***Headless Hunter.*** *Trigger:* The Rokurokubi is targeted by a Ranged Attack or Spell. *Response:* The Rokurokubi summons a Nukekubi adjacent to the creature that triggered the reaction. The Nukekubi acts now and on initiative count 20.
+
+***Spiked Vertebrae.*** *Trigger:* The Rokurokubi is targeted by a Melee Attack. *Response:* The Rokurokubi adds 5 to her AC against that attack, possibly causing it to miss. If it does, the triggering creature takes 7 (2d6) Piercing damage.
+
+***Tail Swing.*** *Trigger:* A creature ends its turn. *Response:* The Rokurokubi moves up to 50 feet towards the creature before making a Strike attack, if the creature is within range. If the creature is hit by the attack, they must succeed on a DC 18 Strength Saving Throw or they have the Prone condition.
+
+### Lair Actions
+
+***Dismember.*** For each hostile creature within 100 feet of the Rokurokubi, she summons a Nukekubi that appear adjacent to that hostile creature. The Nukekubi act on initiative count 20, including after this Lair Action.
+
+***Brain Fog.*** The Rokurokubi stomps the ground, erupting plant spores within the lair. *Constitution Saving Throw:* DC 16, each creature within 50 feet of the Rokurokubi. *Failure:* The target has the Dazed condition until the end of initiative count 20 on the next round. While Dazed in this way, the target creature cannot use any Spells or Exploits they used on their previous turn, if any.
+
+***Oil Eater.*** The Rokurokubi vomits up lamp oil, coating the ground in a 50-foot cone in front of her. The area becomes Difficult Terrain for 1 minute, or until another area of oil is made. *Dexterity Saving Throw:* DC 15, each creature in the area of oil when it appears. *Failure:* The target has the Prone condition. A creature other than the Rokurokubi that enters the area or ends its turn there must repeat this save. The oil is flammable; if the oil takes fire damage it ignites, dealing 14 (4d6) Fire damage to all creatures before disappearing.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
@@ -5093,6 +5437,15 @@ Mum and Dad Usagi.
 
 ***Drift Compatible.*** When you assume a Wild Shape form, you now gain a number of Temporary Hit Points equal to your Druid Level plus your Voyager Level, instead of just your Druid Level, and while you are in your Wild Shape form you gain the benefits of each of your spirits as if they were drifting with you.
 
+#### Eyes of the Omnicient
+
+*Boon Feat*
+</br>You have given your vision as payment to the Omicient, and in turn recieved a gift, gaining the following benefits:
+
+***History Recorded.*** Everything you see is magically documented by Iyo-Iyo the Omnicient.
+
+***Hightened Sight.*** As a Bonus Action your right eye beings to glow and shift, the pupil splitting into three. You gain Truesight with a range of 60 feet for 1 minute. Once you use this feature, you can't use it again until you finish a Long Rest.
+
 {{pageNumber,auto}}
 {{footnote PART 2 | THE LIVING LORE}}
 
@@ -5192,7 +5545,7 @@ Mum and Dad Usagi.
 
 ??? can take up to ??? Reactions per round but only one per turn.
 
-***???.*** *Trigger:* ???. *Response* ???.
+***???.*** *Trigger:* ???. *Response:* ???.
 
 ### Legendary Actions
 

@@ -647,7 +647,7 @@ minds and the ability to take humanoid forms. They continued to see each other e
 
 {{#god-table,wide
 
-##### The 14 Myōjin
+##### The 16 Myōjin
 
 | Name                              | Description                                                                        | Primary Domain |
 |:----------------------------------|:-----------------------------------------------------------------------------------|:--------------:|
@@ -3233,7 +3233,7 @@ Your footwork keeps your enemies on their toes. Your movement no longer provokes
 \column
 
 {{imageMaskCorner12,--offsetX:50%,--offsetY:42%,--rotation:0,revealI
-  ![dagger-dancer](https://i.imgur.com/Gu7CTCn.png){position:aboslute,top:-70px,right:-100px,width:60%,transform:scaleX(1),filter:opacity(100%)}
+  ![dagger-dancer](https://i.imgur.com/Gu7CTCn.png){position:aboslute,top:-70px,right:-100px,width:60%,transform:scaleX(1),filter:opacity(100%)} <!-- TODO FIX MOVE TO GITHUB -->
 }}
 
 {{imageMaskCorner12,--offsetX:30%,--offsetY:30%,--rotation:0
