@@ -3233,11 +3233,11 @@ Your footwork keeps your enemies on their toes. Your movement no longer provokes
 \column
 
 {{imageMaskCorner12,--offsetX:50%,--offsetY:42%,--rotation:0,revealI
-  ![dagger-dancer](https://i.imgur.com/Gu7CTCn.png){position:aboslute,top:-70px,right:-100px,width:60%,transform:scaleX(1),filter:opacity(100%)} <!-- TODO FIX MOVE TO GITHUB -->
+  ![dagger-dancer](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Classes%20and%20Subclasses/Spirit%20blades%20(Edit)%20-%20Olga%20Petuhova%20-%20artstation.com+artwork+xzyAX1.png){position:aboslute,top:-70px,right:-100px,width:60%,transform:scaleX(1),filter:opacity(100%)} <!-- TODO FIX MOVE TO GITHUB -->
 }}
 
 {{imageMaskCorner12,--offsetX:30%,--offsetY:30%,--rotation:0
-  ![dagger-dancer-crop](https://i.imgur.com/gIOgpRY.png){position:aboslute,top:-70px,right:-100px,width:60%,transform:scaleX(1),filter:opacity(100%)}
+  ![dagger-dancer-crop](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%202/Classes%20and%20Subclasses/Spirit%20blades%20(Edit%202)%20-%20Olga%20Petuhova%20-%20artstation.com+artwork+xzyAX1.png){position:aboslute,top:-70px,right:-100px,width:60%,transform:scaleX(1),filter:opacity(100%)}
 }}
 
 {{position:absolute,top:420px,right:300px,margin-bottom:-30px,text-align:right
