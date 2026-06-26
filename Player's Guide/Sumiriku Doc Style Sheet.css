@@ -41,12 +41,12 @@ Extra Light Orange = #fde4c7 = 25% Opacity of Orange */
 	margin-bottom      : 0.5em;
 }
 
-/* Page footer image - Imgur line coloured in Sumiriku Orange */
+/* Page footer image - Ink footer coloured in Sumiriku Orange */
 .page:after {
 	background-image   : none;
 	background-size    : cover;
 	background-color   : #f7931e; /* Sumiriku Orange */
-	-webkit-mask-image : url("https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Footer%20Accent.png");
+	-webkit-mask-image : url("https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Ink%20Footer.png");
 	-webkit-mask-size  : cover;
 	mix-blend-mode     : normal;
 	opacity            : 1;
@@ -62,6 +62,7 @@ Extra Light Orange = #fde4c7 = 25% Opacity of Orange */
 .page#p3 {
 	columns            : 3;
 }
+
 
 
 
@@ -934,13 +935,3 @@ p + #small-text-table {
 	width              : 275px;
 	overflow           : auto;
 }
-
-
-
-
-
-
-
-
-
-
