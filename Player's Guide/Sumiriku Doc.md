@@ -18,7 +18,7 @@
 
 {{footnote
 
-The contents of this document is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. Version Number v0.138.
+The contents of this document is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. Version Number v0.142.
 
 }}
 
@@ -314,7 +314,7 @@ No matter their size or shape, shrines are typically always at a raised position
 }}
 
 {{imageMaskCorner20,--offsetX:50%,--offsetY:-50%,--rotation:0,--scaleX:1.1,--scaleY:0.85
-  ![shrine](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%201/Spiritualism%20and%20the%20Kami/Shrine%20(Edited)%20-%20Unknown.png){position:aboslute,bottom:-5px,right:-150px,width:80%}
+  ![shrine](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%201/Spiritualism%20and%20the%20Kami/Shrine%20(Edit)%20-%20Unknown.png){position:aboslute,bottom:-5px,right:-150px,width:80%}
 }}
 
 {{pageNumber,auto}}
@@ -332,9 +332,9 @@ Magic permeates all things throughout the realms, but this mystical nature is mo
   ![march](https://cdnb.artstation.com/p/assets/images/images/032/318/945/large/rio-sabda-ya.jpg?1606107881){position:absolute,bottom:0px,left:-150px,height:80%,}
 }}
 
-![yokai-shadow](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%201/Creatures%20of%20Legend/Yokai%20Monsters%20Karakasa-obake%20(Edited)%20-%20Loneanimator%20-%20deviantart.com%2Bloneanimator%2Bart%2BYokai-Monsters-Karakasa-obake-275715513.png) {position:absolute,left:-50px,bottom:-175px,width:440px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.3)skewX(15deg),mix-blend-mode:multiply}
+![yokai-shadow](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%201/Creatures%20of%20Legend/Yokai%20Monsters%20Karakasa-obake%20(Edit)%20-%20Loneanimator%20-%20deviantart.com%2Bloneanimator%2Bart%2BYokai-Monsters-Karakasa-obake-275715513.png) {position:absolute,left:-50px,bottom:-175px,width:440px,filter:opacity(80%)brightness(10%)contrast(50%)sepia(100%)blur(15px),transform:scaleX(1)scaleY(0.3)skewX(15deg),mix-blend-mode:multiply}
 
-![yokai](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%201/Creatures%20of%20Legend/Yokai%20Monsters%20Karakasa-obake%20(Edited)%20-%20Loneanimator%20-%20deviantart.com%2Bloneanimator%2Bart%2BYokai-Monsters-Karakasa-obake-275715513.png) {position:absolute,left:50px,bottom:50px,width:440px,filter:brightness(80%),opacity:95%}
+![yokai](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%201/Creatures%20of%20Legend/Yokai%20Monsters%20Karakasa-obake%20(Edit)%20-%20Loneanimator%20-%20deviantart.com%2Bloneanimator%2Bart%2BYokai-Monsters-Karakasa-obake-275715513.png) {position:absolute,left:50px,bottom:50px,width:440px,filter:brightness(80%),opacity:95%}
 
 {{position:absolute,bottom:130px,left:400px,margin-bottom:-30px,align:right
 
@@ -7792,4 +7792,4 @@ Very special thanks to Raluca Patria for her incredible assistance with map crea
 
 {{frontCover}}
 
-![background image](https://github.com/AlexCGoose/Sumiriku-Doc/blob/main/Images/Player's%20Guide/Covers/Back%20Cover%20(The%20Battle%20of%20Onin%20during%20the%20Onin%20War%20(1467-1477)%20-%20Utagawa%20Yoshitora).png?raw=true){position:absolute,bottom:0,left:0,height:100.5%}
+![back-cover](https://github.com/AlexCGoose/Sumiriku-Doc/blob/main/Images/Player's%20Guide/Covers/Back%20Cover%20(The%20Battle%20of%20Onin%20during%20the%20Onin%20War%20(1467-1477)%20-%20Utagawa%20Yoshitora).png?raw=true){position:absolute,bottom:0,left:0,height:100.5%}

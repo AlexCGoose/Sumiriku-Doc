@@ -1,6 +1,6 @@
 {{frontCover}}
 
-![cover](https://i.imgur.com/t6uDxEI.jpeg){position:absolute,bottom:0,left:0,height:100.5%}
+![cover](https://github.com/AlexCGoose/Sumiriku-Doc/blob/main/Images/Stories%20and%20Secrets/Covers/Front%20Cover%20(Susanoo%20slays%20Yamata-no-Orochi%20-%20Toyohara%20Chikanobu).png?raw=true){position:absolute,bottom:0,left:0,height:100.5%}
 
 \page
 
@@ -10,15 +10,15 @@
 
 ## Stories & Secrets
 
-![line](https://i.imgur.com/iCxIyLL.png) {position:absolute,top:321px,left:175px,width:450px}
+![diamond](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Blue%20Inside%20Cover%20Diamond.png) {position:absolute,top:321px,left:175px,width:450px}
 
-![mouse](https://i.imgur.com/p8d8ld4.png) {position:absolute,top:400px,left:175px,width:450px}
+![mouse](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Mouse%20Constellation.png) {position:absolute,top:400px,left:175px,width:450px}
 
 {{wide,text-align:center
 
 {{footnote
 
-The contents of this document is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. Version Number v0.138.
+The contents of this document is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. Version Number v0.142.
 
 }}
 
@@ -34,11 +34,11 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 {{toc
 
-- ### [{{ Foreword - For Dungeon Masters' Eyes Only}}{{ 3}}](#p4) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:129px,left:55px,width:245px,mix-blend-mode:normal}
+- ### [{{ Foreword - For Dungeon Masters' Eyes Only}}{{ 3}}](#p4) ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:129px,left:55px,width:245px,mix-blend-mode:normal}
 
 - ###### [{{ Forget-Me-Not}}{{ 3}}](#p4)
 
-- ### [{{ PART 1 - The Infinite Library}}{{ 4}}](#p5) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:176px,left:55px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 1 - The Infinite Library}}{{ 4}}](#p5) ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:176px,left:55px,width:245px,mix-blend-mode:normal}
 
 - ###### [{{ Items and Treasures}}{{ 5}}](#p6)
   
@@ -124,7 +124,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
     - [{{ Nue}}{{ 64}}](#p65)
     - [{{ Suiko}}{{ 64}}](#p65)
 
-- ### [{{ PART 2 - The Living Lore}}{{ 67}}](#p68) ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:376px,left:285px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 2 - The Living Lore}}{{ 67}}](#p68) ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:376px,left:285px,width:245px,mix-blend-mode:normal}
 
 - ###### [{{ Letters and Documents}}{{ 68}}](#p69)
   
@@ -152,14 +152,14 @@ The first, *The Infinite Library*, acts as a repository for information about al
 
 \column
 
-### Forget-Me-Not ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:132px,left:395px,width:375px,mix-blend-mode:normal}
+### Forget-Me-Not ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:132px,left:395px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
 {{pageNumber,auto}}
 {{footnote PART 1 | FOREWORD}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
@@ -182,7 +182,7 @@ The first, *The Infinite Library*, acts as a repository for information about al
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -233,7 +233,7 @@ This feather can instead be used to return the recently deceased back to life. W
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
@@ -264,7 +264,7 @@ This netsuke, a small, carved sculpture, used to fasten the cord of a pouch to a
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -309,14 +309,14 @@ This obi, specifically designed for Samurai or Shinobi to carry their weapons, c
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -356,12 +356,12 @@ You can repair the arm over a Short or Long Rest. You can attempt the same check
 
 Your prosthetic has space for an attachment under the bone. You can manually swap attachments over a Short or Long Rest.
 
-![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
@@ -384,7 +384,7 @@ This attachment grants you hidden hooked blades, designed after the claws of the
 
 \column
 
-![arm](https://i.imgur.com/euSgduk.png) {position:absolute,bottom:35px,left:450px,height:95%}
+![arm](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Part%201/Items%20and%20Treasures/Shinobi%20Prothetic%20Concept%20Art%20(Edit)%20-%20Unknown.png) {position:absolute,bottom:35px,left:450px,height:95%}
 
 {{position:absolute,top:745px,right:280px,margin-bottom:-50px,text-align:right
 
@@ -395,7 +395,7 @@ This attachment grants you hidden hooked blades, designed after the claws of the
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -458,7 +458,7 @@ Kane-tsuki (鐘つき, 'Bell-Ringer') is a magical Kama Yari, gold-tipped and de
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
@@ -500,7 +500,7 @@ Placing the mirror inside an extradimensional space created by a Bag of Holding,
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -530,7 +530,7 @@ If Wakare is ever broken, the spiritual energy stored within erupts as a wave of
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
@@ -542,7 +542,7 @@ If Wakare is ever broken, the spiritual energy stored within erupts as a wave of
 
 \column
 
-### The Starlight Regalia ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:96px,left:54px,width:375px,mix-blend-mode:normal}
+### The Starlight Regalia ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:96px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - UNFINISHED**
 
@@ -556,12 +556,12 @@ Ryūsei-Namida (流星涙, ‘Meteor Tear’) is one of the three Sacred Treasur
 
 The powers of this fragment of the illuminated realm appear to have dulled with time, ages gone unused. These abilities may grow with use, or with exposure to the other Starlight Regalia.
 
-![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:395px,width:375px,mix-blend-mode:normal}
+![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:63px,left:395px,width:375px,mix-blend-mode:normal}
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -610,7 +610,7 @@ Notable and powerful characters will likely have additional types of actions the
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
@@ -710,7 +710,7 @@ Notable and powerful characters will likely have additional types of actions the
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -718,7 +718,7 @@ Notable and powerful characters will likely have additional types of actions the
 
 Toku-Toku is an Akki shaman and an advisor to his Gobbo Clan Daiymo, Ato-Ato. However, he is secretly building a violent cult movement under Ato-Ato's nose. They believe that a cleansing fire is coming to sweep over the land, letting it be reborn from the ashes. Their aims are to spread this holy blaze; they have planted makeshift bombs around the nearby village of Yamanoma, and, if not stopped, will burn it to the ground.
 
-![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
 {{position:absolute,top:315px,left:265px,margin-bottom:-50px,text-align:left
 
@@ -883,7 +883,7 @@ Toku-Toku is an Akki shaman and an advisor to his Gobbo Clan Daiymo, Ato-Ato. Ho
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
@@ -983,20 +983,20 @@ Toku-Toku is an Akki shaman and an advisor to his Gobbo Clan Daiymo, Ato-Ato. Ho
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
 ## Allies
 
-### Atsuki ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:95px,left:54px,width:375px,mix-blend-mode:normal}
+### Atsuki ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:95px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -1084,11 +1084,11 @@ Toku-Toku is an Akki shaman and an advisor to his Gobbo Clan Daiymo, Ato-Ato. Ho
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
-### Chie ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+### Chie ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -1188,18 +1188,18 @@ Toku-Toku is an Akki shaman and an advisor to his Gobbo Clan Daiymo, Ato-Ato. Ho
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
-### Makoto ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+### Makoto ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -1446,11 +1446,11 @@ Toku-Toku is an Akki shaman and an advisor to his Gobbo Clan Daiymo, Ato-Ato. Ho
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
-### Masuzō ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+### Masuzō ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -1552,11 +1552,11 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
-### Yuxuan ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+### Yuxuan ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -1569,7 +1569,7 @@ Yuxuan wields Zhē, a magical Jian, or shortsword. This sword is polished to a p
 }}
 
 {{imageMaskCorner20,--offsetX:-47%,--offsetY:-45%,--rotation:0
-  ![masuzo](https://i.imgur.com/KYuQDOa.jpeg){position:absolute,bottom:-25px,left:-50px,height:60%,transform:scaleX(1)}
+  ![yuxuan](https://i.imgur.com/KYuQDOa.jpeg){position:absolute,bottom:-25px,left:-50px,height:60%,transform:scaleX(1)}
 }}
 
 {{position:absolute,top:560px,left:330px,margin-bottom:-50px,text-align:left
@@ -1663,14 +1663,14 @@ Yuxuan wields Zhē, a magical Jian, or shortsword. This sword is polished to a p
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -1735,11 +1735,11 @@ Yuxuan wields Zhē, a magical Jian, or shortsword. This sword is polished to a p
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
-### Cult Footsoldiers ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+### Cult Footsoldiers ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -1873,18 +1873,18 @@ Yuxuan wields Zhē, a magical Jian, or shortsword. This sword is polished to a p
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
-### The Severed Siblings ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+### The Severed Siblings ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
 {{monster,wide,frame
 
@@ -2009,7 +2009,7 @@ If a creature reaches a stable place on a larger creature, they can stand and ba
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -2148,11 +2148,11 @@ If a creature reaches a stable place on a larger creature, they can stand and ba
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
-### Mamushi ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+### Mamushi ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -2252,7 +2252,7 @@ If a creature reaches a stable place on a larger creature, they can stand and ba
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -2260,7 +2260,7 @@ If a creature reaches a stable place on a larger creature, they can stand and ba
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
-### Guards ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:124px,left:54px,width:375px,mix-blend-mode:normal}
+### Guards ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:124px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -2324,11 +2324,11 @@ If a creature reaches a stable place on a larger creature, they can stand and ba
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
-### Samurai and Ashigaru ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+### Samurai and Ashigaru ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -2400,7 +2400,7 @@ If a creature reaches a stable place on a larger creature, they can stand and ba
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -2540,7 +2540,7 @@ If a creature reaches a stable place on a larger creature, they can stand and ba
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
@@ -2612,7 +2612,7 @@ If a creature reaches a stable place on a larger creature, they can stand and ba
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -2622,7 +2622,7 @@ If a creature reaches a stable place on a larger creature, they can stand and ba
 
 \column
 
-### Raijū ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:395px,width:375px,mix-blend-mode:normal}
+### Raijū ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:63px,left:395px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -2717,14 +2717,14 @@ The Raijū can take up to two Reactions per round but only one per turn.
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -2807,14 +2807,14 @@ Many groups of bandits roam the roads and settlements of Sumiriku, who make thei
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -2957,7 +2957,7 @@ Many groups of bandits roam the roads and settlements of Sumiriku, who make thei
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
@@ -3101,7 +3101,7 @@ While Kuchan is transformed, her stat block is replaced by the stat block of tha
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -3269,14 +3269,14 @@ While Kuchan is transformed, her stat block is replaced by the stat block of tha
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -3284,7 +3284,7 @@ While Kuchan is transformed, her stat block is replaced by the stat block of tha
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
-### Genji and Okamoto ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:123px,left:54px,width:375px,mix-blend-mode:normal}
+### Genji and Okamoto ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:123px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -3425,7 +3425,7 @@ While Kuchan is transformed, her stat block is replaced by the stat block of tha
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
@@ -3528,7 +3528,7 @@ While Kuchan is transformed, her stat block is replaced by the stat block of tha
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -3615,13 +3615,13 @@ While Kuchan is transformed, her stat block is replaced by the stat block of tha
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
 <!-- SUGGESTION - UPDATE SPELLCASTING FORMAT FOR OTHER STAT BLOCKS -->
 
-### The Bai Crime Family ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+### The Bai Crime Family ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -3779,7 +3779,7 @@ While Kuchan is transformed, her stat block is replaced by the stat block of tha
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -3787,7 +3787,7 @@ While Kuchan is transformed, her stat block is replaced by the stat block of tha
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
-### Baku ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:395px,width:375px,mix-blend-mode:normal}
+### Baku ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:63px,left:395px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -3966,14 +3966,14 @@ The Baku has 2 Legendary Action Uses per round.
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -4126,14 +4126,14 @@ The Baku has 2 Legendary Action Uses per round.
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -4141,7 +4141,7 @@ The Baku has 2 Legendary Action Uses per round.
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
-### Jiangshi ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:123px,left:54px,width:375px,mix-blend-mode:normal}
+### Jiangshi ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:123px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -4218,14 +4218,14 @@ The Baku has 2 Legendary Action Uses per round.
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -4394,14 +4394,14 @@ The Baku has 2 Legendary Action Uses per round.
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -4473,11 +4473,11 @@ The Baku has 2 Legendary Action Uses per round.
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
-### Hatsumomo ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+### Hatsumomo ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -4621,11 +4621,11 @@ The Baku has 2 Legendary Action Uses per round.
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
-### Daimyō Hidemaro ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+### Daimyō Hidemaro ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -4713,14 +4713,14 @@ The Baku has 2 Legendary Action Uses per round.
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -4728,7 +4728,7 @@ The Baku has 2 Legendary Action Uses per round.
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
-### Kamaitachi ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:124px,left:54px,width:375px,mix-blend-mode:normal}
+### Kamaitachi ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:124px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -4863,11 +4863,11 @@ The Baku has 2 Legendary Action Uses per round.
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
-### Nijimu-onna ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+### Nijimu-onna ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -4965,11 +4965,11 @@ The Baku has 2 Legendary Action Uses per round.
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
-### Ningyo ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+### Ningyo ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -5072,11 +5072,11 @@ The Baku has 2 Legendary Action Uses per round.
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
-### Nue ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:395px,width:375px,mix-blend-mode:normal}
+### Nue ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:63px,left:395px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -5152,7 +5152,7 @@ The Baku has 2 Legendary Action Uses per round.
 
 \column
 
-### Nukekubi ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+### Nukekubi ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -5216,11 +5216,11 @@ The Baku has 2 Legendary Action Uses per round.
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
-### Rokurokubi ![line](https://i.imgur.com/2bHWzF3.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+### Rokurokubi ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -5312,14 +5312,14 @@ The Rokurokubi can take up to 3 Reactions per round but only one per turn.
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -5342,7 +5342,7 @@ The Rokurokubi can take up to 3 Reactions per round but only one per turn.
 {{pageNumber,auto}}
 {{footnote PART 2 | THE LIVING LORE}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
@@ -5401,7 +5401,7 @@ Haruto Kenzo.
 {{pageNumber,auto}}
 {{footnote PART 2 | THE LIVING LORE}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
@@ -5422,7 +5422,7 @@ Mum and Dad Usagi.
 {{pageNumber,auto}}
 {{footnote PART 2 | THE LIVING LORE}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
 
@@ -5449,13 +5449,13 @@ Mum and Dad Usagi.
 {{pageNumber,auto}}
 {{footnote PART 2 | THE LIVING LORE}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
 
 \page
 
 {{frontCover}}
 
-![background image](https://i.imgur.com/0EKIQqi.jpeg){position:absolute,bottom:0,left:0,height:100.5%}
+![back-cover](https://github.com/AlexCGoose/Sumiriku-Doc/blob/main/Images/Stories%20and%20Secrets/Covers/Back%20Cover%20(Susanoo%20slays%20Yamata-no-Orochi%20-%20Toyohara%20Chikanobu).png?raw=true){position:absolute,bottom:0,left:0,height:100.5%}
 
 <!-- {{#default-table,classTable,frame
 
@@ -5562,13 +5562,13 @@ Mum and Dad Usagi.
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,left:-4px,width:62px} -->
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px} -->
 
 <!-- \page -->
 
 <!-- {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
-![star](https://i.imgur.com/4gBqU2g.png) {position:absolute,bottom:4px,right:-4px,width:62px} -->
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px} -->
 
 <!-- \page -->
