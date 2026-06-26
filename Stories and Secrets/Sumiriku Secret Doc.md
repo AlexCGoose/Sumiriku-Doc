@@ -146,7 +146,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 }}
 
-{{#fancy T}}{{#after-fancy &nbsp;his book is divided into two sections.}}
+{{#fancy T}}{{width:5px}}{{#after-fancy his book is divided into two sections.}}
 
 The first, *The Infinite Library*, acts as a repository for information about all things mechanical. This includes setting specific magic items, creatures, and additional feats and rules not shown in the Player's Guide. The second section is *The Living Lore*, which describes in greater detail knowledge about the world, including that which player characters may not be privy to and instead may discover on their journeys. This section features in-world text, such as sections of books, poems, and letters, as well as more specific information on the many locations and organisations within Sumiriku.
 
@@ -5347,8 +5347,6 @@ The Rokurokubi can take up to 3 Reactions per round but only one per turn.
 \page
 
 # Letters and Documents
-
-##
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
