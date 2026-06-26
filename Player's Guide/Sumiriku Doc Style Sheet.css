@@ -25,12 +25,12 @@ Extra Light Orange = #fde4c7 = 25% Opacity of Orange */
 
 /* Sets background page texture for each page */
 .page {
-	background-image   : url("https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Document%20Background%20Left.png");
+	background-image   : url("https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Graphics/Document%20Background%20Left.png");
 	background-size    : cover;
 }
 
 .page:nth-of-type(odd) {
-	background-image   : url("https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Document%20Background%20Right.png");
+	background-image   : url("https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Graphics/Document%20Background%20Right.png");
 	background-size    : cover;
 }
 
@@ -46,7 +46,7 @@ Extra Light Orange = #fde4c7 = 25% Opacity of Orange */
 	background-image   : none;
 	background-size    : cover;
 	background-color   : #f7931e; /* Sumiriku Orange */
-	-webkit-mask-image : url("https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Covers%20and%20Graphics/Ink%20Footer.png");
+	-webkit-mask-image : url("https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Graphics/Ink%20Footer.png");
 	-webkit-mask-size  : cover;
 	mix-blend-mode     : normal;
 	opacity            : 1;
