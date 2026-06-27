@@ -38,7 +38,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 - ###### [{{ Forget-Me-Not}}{{ 3}}](#p4)
 
-- ### [{{ PART 1 - The Infinite Library}}{{ 4}}](#p5) ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:176px,left:55px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 1 - The Infinite Library}}{{ 4}}](#p5) ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:189px,left:55px,width:245px,mix-blend-mode:normal}
 
 - ###### [{{ Items and Treasures}}{{ 5}}](#p6)
   
@@ -124,7 +124,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
     - [{{ Nue}}{{ 64}}](#p65)
     - [{{ Suiko}}{{ 64}}](#p65)
 
-- ### [{{ PART 2 - The Living Lore}}{{ 67}}](#p68) ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:376px,left:285px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 2 - The Living Lore}}{{ 67}}](#p68) ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:406px,left:285px,width:245px,mix-blend-mode:normal}
 
 - ###### [{{ Letters and Documents}}{{ 68}}](#p69)
   
@@ -152,7 +152,7 @@ The first, *The Infinite Library*, acts as a repository for information about al
 
 \column
 
-### Forget-Me-Not ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:132px,left:395px,width:375px,mix-blend-mode:normal}
+### Forget-Me-Not ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:135px,left:395px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -384,7 +384,7 @@ This attachment grants you hidden hooked blades, designed after the claws of the
 
 \column
 
-![arm](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Part%201/Items%20and%20Treasures/Shinobi%20Prothetic%20Concept%20Art%20(Edit)%20-%20Unknown.png) {position:absolute,bottom:35px,left:450px,height:95%}
+![arm](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Part%201/Items%20and%20Treasures/Shinobi%20Prosthetic%20Concept%20Art%20(Edit)%20-%20Unknown.png) {position:absolute,bottom:35px,left:450px,height:95%}
 
 {{position:absolute,top:745px,right:280px,margin-bottom:-50px,text-align:right
 
@@ -542,7 +542,7 @@ If Wakare is ever broken, the spiritual energy stored within erupts as a wave of
 
 \column
 
-### The Starlight Regalia ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:96px,left:54px,width:375px,mix-blend-mode:normal}
+### The Starlight Regalia ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:95px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - UNFINISHED**
 
@@ -620,7 +620,7 @@ Notable and powerful characters will likely have additional types of actions the
 
 \column
 
-<!-- TODO - Fix Statblock Average Damage - Average = half of die size>
+<!-- TODO - Fix Statblock Average Damage - Average = half of die size -->
 
 {{monster,frame
 
@@ -727,7 +727,7 @@ Toku-Toku is an Akki shaman and an advisor to his Gobbo Clan Daiymo, Ato-Ato. Ho
 }}
 
 {{imageMaskCenter4,--offsetX:-45%,--offsetY:4%,--rotation:0
-  ![pyroshaman](https://i.imgur.com/a9QehOT.jpeg){position:aboslute,top:250px,left:-60px,width:60%,transform:scaleX(-1)}
+  ![pyroshaman](https://cdnb.artstation.com/p/assets/images/images/046/235/901/large/jason-kang-goblin-shaman-copy-2.jpg){position:aboslute,top:250px,left:-60px,width:60%,transform:scaleX(-1)}
 }}
 
 {{position:absolute,top:950px,left:470px,margin-bottom:-50px,text-align:left
@@ -888,7 +888,7 @@ Toku-Toku is an Akki shaman and an advisor to his Gobbo Clan Daiymo, Ato-Ato. Ho
 \page
 
 {{imageMaskEdge5,--offset:8%,--rotation:180
-  ![toku-toku](https://i.imgur.com/uKY44gI.png){position:absolute,top:-1px,width:100%}
+  ![toku-toku](https://images.squarespace-cdn.com/content/v1/6510cafd18fbaa51f456dcab/d6473182-2dbf-4bba-8b67-0beceaaa499a/trgZT9jQ.png){position:absolute,top:-1px,width:100%}
 }}
 
 {{position:absolute,top:40px,left:100px,margin-bottom:-50px,text-align:left
@@ -1269,6 +1269,55 @@ Toku-Toku is an Akki shaman and an advisor to his Gobbo Clan Daiymo, Ato-Ato. Ho
 
 }} -->
 
+{{monster,frame
+
+## Kentaro, Waddling Rōnin
+
+*Tiny Beast, Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 16
+**HP**         :: 90 (20d4 + 40)
+\column
+**Initiative** :: +2 (12)
+**Speed**      :: 40 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 10|  +0  |  +0  |
+|Int| 5 |  -3  |  -3  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 18|  +4  |  +4  |
+|Wis| 16|  +3  |  +3  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +2  |  +2  |
+|Cha| 12|  +1  |  +1  |
+
+}}
+
+**CR** :: 4 (XP 1,100; PB +2)
+
+}}
+
+### Actions
+
+***Multiattack.*** Kentaro makes two Wakizashi attacks.
+
+***Wakizashi.*** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 8 (1d6 + 4) Slashing damage. **Cross.** *Hit:* Kentaro can move to the opposite side of the creature hit without expending movement and without provoking Opportunity Attacks. This feature can be used only once on his turn.
+
+}}
+
 \column
 
 {{monster,frame
@@ -1337,55 +1386,6 @@ Toku-Toku is an Akki shaman and an advisor to his Gobbo Clan Daiymo, Ato-Ato. Ho
 ### Bonus Actions
 
 ***Hunter's Mark.*** Makoto marks a creature she can see within 60 feet of her, ending any marks Makoto has on other creatures. When Makoto or Kentaro hits the marked target with an attack, the target takes an additional 4 (1d6) damage.
-
-}}
-
-{{monster,frame
-
-## Kentaro, Waddling Rōnin
-
-*Tiny Beast, Neutral*
-
-{{stats
-
-{{vitals
-
-**AC**         :: 16
-**HP**         :: 90 (20d4 + 40)
-\column
-**Initiative** :: +2 (12)
-**Speed**      :: 40 ft.
-
-}}
-
-{{tables
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 10|  +0  |  +0  |
-|Int| 5 |  -3  |  -3  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 18|  +4  |  +4  |
-|Wis| 16|  +3  |  +3  |
-
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14|  +2  |  +2  |
-|Cha| 12|  +1  |  +1  |
-
-}}
-
-**CR** :: 4 (XP 1,100; PB +2)
-
-}}
-
-### Actions
-
-***Multiattack.*** Kentaro makes two Wakizashi attacks.
-
-***Wakizashi.*** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 8 (1d6 + 4) Slashing damage. **Cross.** *Hit:* Kentaro can move to the opposite side of the creature hit without expending movement and without provoking Opportunity Attacks. This feature can be used only once on his turn.
 
 }}
 
@@ -1540,7 +1540,7 @@ When playing Kettōdo, a hit, disarm, or other Condition applied to the opponent
 }}
 
 {{imageMaskCorner20,--offsetX:50%,--offsetY:-40%,--rotation:0
-  ![masuzo](https://i.imgur.com/6g3T16j.jpg){position:absolute,bottom:-100px,right:-300px,height:70%,transform:scaleX(1)}
+  ![masuzo](https://images.squarespace-cdn.com/content/v1/581a9a15414fb5c2f5854382/1698707190028-MSTHI16Y67OWCO7WIN6D/421003+Kosei+Penitent+Warlord+.jpg){position:absolute,bottom:-100px,right:-300px,height:70%,transform:scaleX(1)}
 }}
 
 {{position:absolute,top:1010px,right:365px,margin-bottom:-50px,text-align:right
@@ -2260,7 +2260,7 @@ If a creature reaches a stable place on a larger creature, they can stand and ba
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
-### Guards ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:124px,left:54px,width:375px,mix-blend-mode:normal}
+### Guards ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:125px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -2705,7 +2705,7 @@ The Raijū can take up to two Reactions per round but only one per turn.
 }}
 
 {{imageMaskEdge1,--offset:10%,--rotation:0
-  ![raiju](https://i.imgur.com/FWfXlMb.jpeg){position:absolute,bottom:-600px,left:-1px,height:100%}
+  ![raiju](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b46d6307-3ad8-4b6c-9d1b-2eec22328de3/dg7poz7-a2070221-b7cf-4740-b3c4-a7258dc21cad.jpg/v1/fit/w_828,h_1160,q_70,strp/raiju_by_barssyk_dg7poz7-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTc5NCIsInBhdGgiOiIvZi9iNDZkNjMwNy0zYWQ4LTRiNmMtOWQxYi0yZWVjMjIzMjhkZTMvZGc3cG96Ny1hMjA3MDIyMS1iN2NmLTQ3NDAtYjNjNC1hNzI1OGRjMjFjYWQuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.EXMvBZEgLD3L1kLhixgWMgfw3HgIABjeqQSdXjat0TQ){position:absolute,bottom:-600px,left:-1px,height:100%}
 }}
 
 {{position:absolute,top:730px,left:320px,margin-bottom:-50px,text-align:left
@@ -2795,7 +2795,7 @@ Many groups of bandits roam the roads and settlements of Sumiriku, who make thei
 }}
 
 {{imageMaskCorner20,--offsetX:50%,--offsetY:-40%,--rotation:0
-  ![kanehisa](https://i.imgur.com/rV5tLvC.jpeg){position:absolute,bottom:-10px,right:-300px,height:60%}
+  ![kanehisa](https://s3.us-east-005.backblazeb2.com/artgram-co/artworks/qMiHNJLRG8oC4pocFU7YXRreMH2uJElUjnIXC7kR.webp){position:absolute,bottom:-10px,right:-300px,height:60%}
 }}
 
 {{position:absolute,top:1050px,left:350px
@@ -2819,6 +2819,10 @@ Many groups of bandits roam the roads and settlements of Sumiriku, who make thei
 \page
 
 ## King of Iron Fist Tournament Fighters
+
+**TODO - NOT STARTED - UNIMPORTANT**
+
+### Ikusaka Qualifier ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:150px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -2960,6 +2964,10 @@ Many groups of bandits roam the roads and settlements of Sumiriku, who make thei
 ![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
 
 \page
+
+### Kimyōkai Invitational ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:63px,left:54px,width:375px,mix-blend-mode:normal}
+
+**TODO - NOT STARTED - UNIMPORTANT**
 
 {{monster,frame
 
@@ -3284,7 +3292,7 @@ While Kuchan is transformed, her stat block is replaced by the stat block of tha
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
-### Genji and Okamoto ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:123px,left:54px,width:375px,mix-blend-mode:normal}
+### Genji and Okamoto ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:125px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -4141,7 +4149,7 @@ The Baku has 2 Legendary Action Uses per round.
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
-### Jiangshi ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:123px,left:54px,width:375px,mix-blend-mode:normal}
+### Jiangshi ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:125px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -4728,7 +4736,7 @@ The Baku has 2 Legendary Action Uses per round.
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
-### Kamaitachi ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:124px,left:54px,width:375px,mix-blend-mode:normal}
+### Kamaitachi ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:125px,left:54px,width:375px,mix-blend-mode:normal}
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -5054,7 +5062,7 @@ The Baku has 2 Legendary Action Uses per round.
 }}
 
 {{imageMaskCorner21,--offsetX:61%,--offsetY:-50%,--rotation:0
-  ![monstrous](https://i.imgur.com/40E5YKj.png){position:absolute,bottom:-1px,right:-100px,height:50%}
+  ![monstrous](https://cdna.artstation.com/p/assets/images/images/011/711/866/large/vincent-coviello-ningyos.jpg){position:absolute,bottom:-1px,right:-100px,height:50%}
 }}
 
 {{position:absolute,top:880px,left:340px,margin-bottom:-50px,text-align:left
@@ -5291,6 +5299,8 @@ The Baku has 2 Legendary Action Uses per round.
 
 The Rokurokubi can take up to 3 Reactions per round but only one per turn.
 
+\column
+
 ***Squeeze.*** *Trigger:* A creature ends its turn while Grappled by the Rokurokubi. *Response:* The Rokurokubi makes a Constrict attack.
 
 ***Headless Hunter.*** *Trigger:* The Rokurokubi is targeted by a Ranged Attack or Spell. *Response:* The Rokurokubi summons a Nukekubi adjacent to the creature that triggered the reaction. The Nukekubi acts now and on initiative count 20.
@@ -5336,7 +5346,7 @@ The Rokurokubi can take up to 3 Reactions per round but only one per turn.
 }}
 
 {{imageMaskEdge7,--offset:8.5cm,--rotation:180
-  ![satsuki](https://i.imgur.com/TEenxFX.jpeg){position:absolute,top:-0px,left:-350px,height:90%}
+  ![satsuki](https://www.artofmtg.com/wp-content/uploads/2022/01/Satsuki-the-Living-Lore-Kamigawa-Neon-Dynasty-MtG-Art.jpg){position:absolute,top:-0px,left:-350px,height:90%}
 }}
 
 {{pageNumber,auto}}
@@ -5347,6 +5357,8 @@ The Rokurokubi can take up to 3 Reactions per round but only one per turn.
 \page
 
 # Letters and Documents
+
+##
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
