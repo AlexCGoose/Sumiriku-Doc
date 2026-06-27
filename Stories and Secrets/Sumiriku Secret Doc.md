@@ -18,7 +18,7 @@
 
 {{footnote
 
-The contents of this document is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. Version Number v0.142.
+The contents of this document is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. Version Number v0.145.
 
 }}
 
@@ -737,7 +737,7 @@ Toku-Toku is an Akki shaman and an advisor to his Gobbo Clan Daiymo, Ato-Ato. Ho
 }}
 
 {{imageMaskCorner30,--offsetX:-60%,--offsetY:-60%,--rotation:0
-  ![moesashi](https://i.imgur.com/qVEWZ5g.jpeg){position:aboslute,bottom:-20px,left:-310px,width:100%,transform:scaleX(1)}
+  ![moesashi](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Part%201/Allies%2C%20Monsters%2C%20Foes%2C%20and%20Villains/Akki/Flames%20of%20the%20Raze-Boar%20(MTG)%20-%20Jason%20Engle%20-%20Unknown.jpg){position:aboslute,bottom:-20px,left:-310px,width:100%,transform:scaleX(1)}
 }}
 
 \column
@@ -1569,7 +1569,7 @@ Yuxuan wields Zhē, a magical Jian, or shortsword. This sword is polished to a p
 }}
 
 {{imageMaskCorner20,--offsetX:-47%,--offsetY:-45%,--rotation:0
-  ![yuxuan](https://i.imgur.com/KYuQDOa.jpeg){position:absolute,bottom:-25px,left:-50px,height:60%,transform:scaleX(1)}
+  ![yuxuan](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Part%201/Allies%2C%20Monsters%2C%20Foes%2C%20and%20Villains/Allies/Zhang%20Qiling%20-%20%E5%B0%8F%E5%8F%B7%E9%98%BF%E5%A0%82%E5%A0%82%20(Weibo)%20-%20Unknown.jpg){position:absolute,bottom:-25px,left:-50px,height:60%,transform:scaleX(1)}
 }}
 
 {{position:absolute,top:560px,left:330px,margin-bottom:-50px,text-align:left
@@ -5346,7 +5346,7 @@ The Rokurokubi can take up to 3 Reactions per round but only one per turn.
 }}
 
 {{imageMaskEdge7,--offset:8.5cm,--rotation:180
-  ![satsuki](https://www.artofmtg.com/wp-content/uploads/2022/01/Satsuki-the-Living-Lore-Kamigawa-Neon-Dynasty-MtG-Art.jpg){position:absolute,top:-0px,left:-350px,height:90%}
+  ![satsuki](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Part%202/Satsuki%2C%20the%20Living%20Lore%20(MTG)%20-%20Ryan%20Pancoast%20-%20Unknown.jpeg){position:absolute,top:-0px,left:-350px,height:90%}
 }}
 
 {{pageNumber,auto}}
