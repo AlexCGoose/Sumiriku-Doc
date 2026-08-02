@@ -281,8 +281,7 @@ The bracelet currently has beads of the following spells, listed with their asso
 
 #### Shikigami Brush
 
-*Wondrous Item, Very Rare, Minor*
-
+*Wondrous Item, Very Rare, Minor* </br>
 This ornately filigreed brush is secretly possessed by a mysterious spirit known as a Shikigami, whose purpose is to follow its masters commands. The brush generates its own mundane ink and acts on its own as you speak to it. While holding the brush, you can use a command word as a Bonus Action to activate it. While activated, the brush magically floats upright and writes the words you speak to it on whatever stationary, nonliving surface it's been placed on. You can instead command the brush to copy a document you show it, such as a Spell Scroll. When it reaches the edge of that surface, it begins a new line below before continuing. If the brush reaches the end of the surface, such as a piece of parchment, it taps against the surface expectantly until a new one is provided. You must be within 15 feet of the brush in order to speak to it. If the brush is behind Total Cover, it can't understand you. If you repeat the command word, even if you're not holding the brush, it deactivates and falls down. If the brush doesn't write anything for 1 minute, it deactivates on its own.
 
 \column
@@ -4474,7 +4473,7 @@ The Baku has 2 Legendary Action Uses per round.
 
 ***Multiattack.*** The Armour makes two attacks.
 
-***Katana.*** *Melee Attack ROll:* +4, reach 5 ft. *Hit:* 6 (2d4 + 2) Slashing damage.
+***Katana.*** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (2d4 + 2) Slashing damage.
 
 }}
 

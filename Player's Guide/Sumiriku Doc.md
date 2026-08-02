@@ -314,7 +314,7 @@ No matter their size or shape, shrines are typically always at a raised position
 }}
 
 {{imageMaskCorner20,--offsetX:50%,--offsetY:-50%,--rotation:0,--scaleX:1.1,--scaleY:0.85
-  ![shrine](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%201/Spiritualism%20and%20the%20Kami/Shrine%20(Edit)%20-%20Unknown.png){position:aboslute,bottom:-5px,right:-150px,width:80%}
+  ![shrine](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Player's%20Guide/Part%201/Spiritualism%20and%20the%20Kami/Lake%20Shrine%20Night%20(Edit)%20-%20Unknown.png){position:aboslute,bottom:-5px,right:-150px,width:80%}
 }}
 
 {{pageNumber,auto}}
