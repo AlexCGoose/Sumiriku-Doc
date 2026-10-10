@@ -72,6 +72,7 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
     - [{{ Wakare, the Branching}}{{ 13}}](#p14)
   - [{{ Sacred Treasures}}{{ 14}}](#p15)
     - [{{ The Relics of Kumonoue}}{{ 14}}](#p15)
+      - [{{ Hakō, the First-Forged}}{{ 14}}](#p15)
     - [{{ The Starlight Regalia}}{{ 14}}](#p15)
 
 - ###### [{{ Allies, Monsters, Foes, and Villains}}{{ 15}}](#p16)
@@ -97,6 +98,8 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
     - [{{ Raijū}}{{ 37}}](#p38)
   - [{{ The Hyakushima Bandits}}{{ 39}}](#p40)
   - [{{ King of Iron Fist Tournament Fighters}}{{ 41}}](#p42)
+    - [{{ Ikusaka Qualifier}}{{ 41}}](#p42)
+    - [{{ Kimyōkai Invitational}}{{ 42}}](#p43)
 
 }}
 
@@ -104,7 +107,10 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
 
 - ######
 
-  - [{{ Rouges and Rōnin}}{{ 45}}](#p46)
+  - [{{ Oni}}{{ 45}}](#p46)
+    - [{{ Gouki}}{{ 45}}](#p46)
+    - [{{ Akuma}}{{ 45}}](#p46)
+  - [{{ Rogues and Rōnin}}{{ 45}}](#p46)
     - [{{ Genji and Okamoto}}{{ 45}}](#p46)
   - [{{ The Shadow Triad}}{{ 47}}](#p48)
     - [{{ The Bai Crime Family}}{{ 48}}](#p49)
@@ -117,22 +123,23 @@ The contents of this document is unofficial Fan Content permitted under the Fan 
   - [{{ Wakasa Clan}}{{ 57}}](#p58)
     - [{{ Hatsumomo}}{{ 58}}](#p59)
     - [{{ Daimyō Hidemaro}}{{ 59}}](#p60)
-  - [{{ Yokai}}{{ 61}}](#p62)
-    - [{{ Kamaitachi}}{{ 61}}](#p62)
-    - [{{ Nijimu-onna}}{{ 62}}](#p63)
-    - [{{ Ningyo}}{{ 63}}](#p64)
-    - [{{ Nue}}{{ 64}}](#p65)
-    - [{{ Suiko}}{{ 64}}](#p65)
+  - [{{ The Watched Pot}}{{ 61}}](#p62)
+  - [{{ Yokai}}{{ 63}}](#p64)
+    - [{{ Kamaitachi}}{{ 63}}](#p64)
+    - [{{ Nijimu-onna}}{{ 64}}](#p65)
+    - [{{ Ningyo}}{{ 65}}](#p66)
+    - [{{ Nue}}{{ 66}}](#p67)
+    - [{{ Suiko}}{{ 66}}](#p67)
 
-- ### [{{ PART 2 - The Living Lore}}{{ 67}}](#p68) ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:406px,left:285px,width:245px,mix-blend-mode:normal}
+- ### [{{ PART 2 - The Living Lore}}{{ 69}}](#p70) ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:406px,left:285px,width:245px,mix-blend-mode:normal}
 
-- ###### [{{ Letters and Documents}}{{ 68}}](#p69)
+- ###### [{{ Letters and Documents}}{{ 70}}](#p71)
   
-  - [{{ Cultist’s Poem}}{{ 68}}](#p69)
-  - [{{ Haiku of the Fading Mire}}{{ 68}}](#p69)
-  - [{{ Note to Sayuri from Kaito}}{{ 68}}](#p69)
-  - [{{ Sensei Kenzo’s Letter to the Students}}{{ 68}}](#p69)
-  - [{{ The Usagi’s Letter to Jun}}{{ 69}}](#p70)
+  - [{{ Cultist’s Poem}}{{ 70}}](#p71)
+  - [{{ Haiku of the Fading Mire}}{{ 70}}](#p71)
+  - [{{ Note to Sayuri from Kaito}}{{ 70}}](#p71)
+  - [{{ Sensei Kenzo’s Letter to the Students}}{{ 70}}](#p71)
+  - [{{ The Usagi’s Letter to Jun}}{{ 71}}](#p72)
 
 }}
 
@@ -244,12 +251,17 @@ This fan, constructed out of feathers, was displayed in a golden statue of a Hō
 
 While holding the fan, you can take a Magic Action and expend a charge to cast *Revivify*, without requiring any Material Components. The fan becomes non-magical once all charges are used. The fan can be disassembled into a number of Hōō Feathers equal to the charges remaining, at which point it becomes non-magical.
 
+#### Id Lantern
+
+*Wondrous Item, Rare, Minor*</br>
+This cast iron lantern actually traps a tiny spirit of Id, a creature of base instinct and impulse, devoid of any higher thought or motivation. While open, the spirit emits magical Darkness from the lantern in a 30-foot-radius sphere. Darkvision can't see through it, and nonmagical light can't illuminate it. As a Bonus Action, you can close the lantern, containing the magical Darkness to inside the lantern, or open it again.
+
+\column
+
 #### Nimbus Sake
 
 *Wondrous Item, Very Rare, Major, Craftable*</br>
 This white gourd of sake, the mixture within made by the most esteemed Masaru brewers, is perpetually cool to the touch and damp with condensation. Despite felling full, attempting to drink from the gourd normally results in only a few drops of sake. Instead, by taking the Magic Action and tipping the gourd upside down a small fluffy cloud, a cylinder 3 foot in diameter and 1 foot deep, comes out of the gourd and hovers in a space within 5 feet of you. The cloud can fly with a Fly Speed of 80 feet, and moves according to your directions while you are within 30 feet of it. The cloud can carry a maximum of 400 lb, but its Fly Speed is halved if it carries more than 200 lb. If you are within 5 feet of the cloud, you can take the Magic Action while holding the gourd to return the cloud to the inside of the gourd.
-
-\column
 
 #### Noh Mask of the Noppera-bō
 
@@ -464,7 +476,7 @@ Kane-tsuki (鐘つき, 'Bell-Ringer') is a magical Kama Yari, gold-tipped and de
 #### Kenzo's Jitte
 
 *Weapon (Jitte), Unique, Minor* </br>
-This Jitte was a treasured weapon of Dojo Sensei Kenzo, which he had by his side for much of his life and used to teach martial arts to his students. If you successfully use the Disarming feature to disarm a creature, you get advantage with all attacks with this Jitte and with the disarmed weapon against that creature until the end of your next turn.
+This Jitte was a treasured weapon of Dōjō Sensei Kenzo, which he had by his side for much of his life and used to teach martial arts to his students. If you successfully use the Disarming feature to disarm a creature, you get advantage with all attacks with this Jitte and with the disarmed weapon against that creature until the end of your next turn.
 
 #### Musei, the Unknown
 
@@ -517,7 +529,6 @@ As an Action while holding Tansa-ki you can recall any record or piece of inform
 #### Wakare, the Branching
 
 *Spellcasting Focus (Holy Symbol), Unique, Major (Requires Attunement by a Cleric or Paladin), Miracle* </br>
-
 Those that pray to the great Kodama Iname wish for balance in all things, and understand that life and death, joy and suffering, these are but two branches on the same tree.
 
 Wakare (別れ, 'Separation') is a go-shintai, an enshrined object containing a small part of Iname's spirit. Though this branch fell from its tree over a thousand years ago, its leaves continue to grow. While holding Wakare, you gain access to an additional Channel Divinity: Balance Suffering.
@@ -539,6 +550,24 @@ If Wakare is ever broken, the spiritual energy stored within erupts as a wave of
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
+#### Hakō, the First-Forged
+
+*Weapon (Katana), Unique, Ultimate (Requires Attunement), Miracle* </br>
+<!-- Where the other Myōjin saw a world at peace, Netsu-sama saw one of weakness, a weakness he intended to correct. Taking motes of pure light from one sun and tempering it within the fires of the other he crafted the progenitor of all blades, an act that birthed the art of swordsmithing. He wielded it to fend off evil in the world's first conflicts, its radiant sunlight shining from the front. -->
+
+<!-- Though the world was at peace, Netsu-sama believed it would not be that way for long, -->
+
+Netsu-sama looked out on the glory of creation and felt that a factor was missing; heroism, those who would stand strong to fend off the evils that may be coming. To this end he set to work, taking motes of pure light from one sun and tempering it within the fires of the other to craft the first weapon, progenitor of all blades. He personally wielded this in the world's earliest conflicts, his sword of golden sunlight leading the way, and taught swordsmiths and warriors to follow in his ways.
+
+Hakō (刃光, 'Blade of Light') is history's first sword, a Katana forged from pure, hardened light, the personal weapon of the Myōjin Netsu-sama. You gain a +1 bonus to Attack Rolls and Damage Rolls made with this weapon. While holding this weapon you can take a Bonus Action to swap the source of its power between Hikariōna, the Light Mother, and Ikariōna, the Rage Mother; while in Hikariōna form attacks with this weapon deal Radiant damage rather than Slashing damage, and while in Ikariōna form attacks with this weapon deal Fire damage rather than Slashing damage.
+
+<!-- The sword's hard-light blade emits Bright Light in a 30-foot radius and Dim Light for an additional 30 feet while in Hikariōna form, and 30-foot radius and Dim Light for an additional 30 feet while in Ikariōna form. The light is sunlight. -->
+
+When drawn, the Katana's hard-light blade emits Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. The light is sunlight. You and all creatures Friendly to you within the Bright Light emitted by this Katana gain the following benefits, depending on which form Hakō is in:
+
+- *Hikariōna Form:* You gain 5 Temporary Hit Points at the start of each of your turns.
+- *Ikariōna Form:* Your Speed increases by 10 feet and you can make one additional Attack as part of the Attack Action on your turn. <!-- Barb rage advantage, fire damage? -->
+
 \column
 
 ### The Starlight Regalia ![line](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Constellation%20Text%20Underline.png){position:absolute,top:95px,left:54px,width:375px,mix-blend-mode:normal}
@@ -548,7 +577,6 @@ If Wakare is ever broken, the spiritual energy stored within erupts as a wave of
 #### Ryūsei-Namida
 
 *Wondrous Item, Unique, Ultimate (Requires Attunement), Miracle* </br>
-
 When the great Constellation Dragon wept for the first and only time, his single tear fell as a shooting star, carving a trail of sparkling light across the sky. The act of kindness that moved him so incredibly was blessed by the arrival of this magatama, containing within it the power to change hearts and minds, worth wielding only by those who show upmost empathy.
 
 Ryūsei-Namida (流星涙, ‘Meteor Tear’) is one of the three Sacred Treasures, unique gifts from from the starlight realm of Hoshikuzuten, representing the virtue of Benevolence. It is in the form of a magatama, a curved jewel, worn as a necklace. While wearing this magatama, if a creature you can see within 300 feet of you is the only target of a Intelligence, Wisdom, or Charisma Saving Throw, you can use your Reaction to redirect the effect causing the Saving Throw to yourself. If you do, you gain Advantage on the Saving Throw.
@@ -566,7 +594,7 @@ The powers of this fragment of the illuminated realm appear to have dulled with 
 
 # Allies, Monsters, Foes, and Villains
 
-Dangers lie in every corner of Sumiriku. A traveler on the roads might encounter armed clan checkpoints, roaming bandits, or even a rouge Samurai wishing to test their blade, and those are merely the threats of fellow citizens. Venture into Sumiriku's mountains, forests, and waters and you may find even greater terror, unknowable in nature and otherworldly in origin.
+Dangers lie in every corner of Sumiriku. A traveler on the roads might encounter armed clan checkpoints, roaming bandits, or even a rogue Samurai wishing to test their blade, and those are merely the threats of fellow citizens. Venture into Sumiriku's mountains, forests, and waters and you may find even greater terror, unknowable in nature and otherworldly in origin.
 
 The following are a selection of different stat blocks of different people and creatures that adventurers in Sumiriku my fight against or alongside. These stat blocks are divided up in two ways. The first is by creature type, such as Oni (Fiends), Undead, and Yokai (Fey). The second is by affiliation or organisation; stat blocks for members of specific cults, clans, or criminal organisations can all be found together.
 
@@ -836,7 +864,7 @@ Toku-Toku is an Akki shaman and an advisor to his Gobbo Clan Daiymo, Ato-Ato. Ho
 **HP**         :: 42 (5d10 + 5) <!-- 30 -->
 \column
 **Initiative** :: +0 (10)
-**Speed**      :: 40 ft..
+**Speed**      :: 40 ft.
 
 }}
 
@@ -1655,7 +1683,7 @@ Yuxuan wields Zhē, a magical Jian, or shortsword. This sword is polished to a p
 
 ### Reactions
 
-***Deflect Attacks.*** *Trigger:* Yuxuan is hit by a Ranged Attack. *Response:* Yuxuan reduces the damage by 16 (1d10 + 10). If this reduces the damage to 0, Yuxuan can force a creature he can see within 30 feet of him to succeed on a DC 15 Dexterity Saving Throw or take 5 (2d8 + 5) Necrotic damage.
+***Deflect Attacks.*** *Trigger:* Yuxuan is hit by a Ranged Attack. *Response:* Yuxuan reduces the damage by 16 (1d10 + 10). If this reduces the damage to 0, Yuxuan can force a creature he can see within 30 feet of him to succeed on a DC 15 Dexterity Saving Throw or take 14 (2d8 + 5) Necrotic damage.
 
 }}
 
@@ -1887,7 +1915,6 @@ Yuxuan wields Zhē, a magical Jian, or shortsword. This sword is polished to a p
 
 {{monster,wide,frame
 
-<!-- ## Daimyō Hidemaro, Spiteful Warlord -->
 ## Okiko, Son of Embers
 
 *Gargantuan Dragon (Godai), Neutral Evil*
@@ -1897,7 +1924,7 @@ Yuxuan wields Zhē, a magical Jian, or shortsword. This sword is polished to a p
 {{vitals
 
 **AC**         :: 18
-**HP**         :: 121* (9d12 + 63)
+**HP**         :: 135 (10d12 + 70)
 \column
 **Initiative** :: +12 (22)
 **Speed**      :: 5 ft., Fly 80 ft., Swim 80 ft.
@@ -1918,7 +1945,7 @@ Yuxuan wields Zhē, a magical Jian, or shortsword. This sword is polished to a p
 
 |   |   |  MOD | SAVE |
 |:--|:-:|:----:|:----:|
-|Con| 25|  +7  |  +7  |8
+|Con| 25|  +7  |  +7  |
 |Cha| 21|  +5  |  +5  |
 
 }}
@@ -2685,9 +2712,11 @@ If a creature reaches a stable place on a larger creature, they can stand and ba
 
 ***Multiattack.*** The Raijū makes three Lightning Claws attacks. They can replace one attack with a use of Tail Bolt.
 
+\column
+
 ***Lightning Claws.*** *Melee Attack Roll:* +9, reach 5 ft. *Hit:*  12 (2d6 + 5) Slashing damage plus 7 (2d6) Lightning damage, and the target must succeed on a DC 16 Constitution Saving Throw or become charged.
 
-***Tail Bolt.*** *Dexterity Saving Throw:* DC 16, each creature within 5 feet of a point within 60 feet. *Failure:* 21 (6d6) Lightning damage, and the target is Dazed and is charged. *Success:* Half damage, and the target is not Dazed or is charged.
+***Tail Bolt.*** *Dexterity Saving Throw:* DC 16, each creature within 5 feet of a point the Raijū can see within 60 feet. *Failure:* 21 (6d6) Lightning damage, and the target is Dazed and is charged. *Success:* Half damage, and the target is not Dazed or is charged.
 
 ***Volt Vortex (Recharge 5-6).*** The Raijū spins wildling, kicking up a swirling storm. *Dexterity Saving Throw:* DC 17, all creatures within 10 feet of Raijū. *Failure:* 14 (4d6) Slashing damage and 14 (4d6) Lightning damage. *Success:* Half damage. A 15 foot radius storm emanating from the Raijū is created which lasts for 1 minute. The area of the storm is Heavily Obscured to any creatures outside of the storm, and any creature that ends their turn inside the storm takes 7 (2d6) Slashing damage and 7 (2d6) Lightning damage.
 
@@ -2703,11 +2732,11 @@ The Raijū can take up to two Reactions per round but only one per turn.
 
 }}
 
-{{imageMaskEdge1,--offset:10%,--rotation:0
-  ![raiju](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b46d6307-3ad8-4b6c-9d1b-2eec22328de3/dg7poz7-a2070221-b7cf-4740-b3c4-a7258dc21cad.jpg/v1/fit/w_828,h_1160,q_70,strp/raiju_by_barssyk_dg7poz7-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTc5NCIsInBhdGgiOiIvZi9iNDZkNjMwNy0zYWQ4LTRiNmMtOWQxYi0yZWVjMjIzMjhkZTMvZGc3cG96Ny1hMjA3MDIyMS1iN2NmLTQ3NDAtYjNjNC1hNzI1OGRjMjFjYWQuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.EXMvBZEgLD3L1kLhixgWMgfw3HgIABjeqQSdXjat0TQ){position:absolute,bottom:-600px,left:-1px,height:100%}
+{{imageMaskEdge1,--offset:15%,--rotation:0
+  ![raiju](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b46d6307-3ad8-4b6c-9d1b-2eec22328de3/dg7poz7-a2070221-b7cf-4740-b3c4-a7258dc21cad.jpg/v1/fit/w_828,h_1160,q_70,strp/raiju_by_barssyk_dg7poz7-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTc5NCIsInBhdGgiOiIvZi9iNDZkNjMwNy0zYWQ4LTRiNmMtOWQxYi0yZWVjMjIzMjhkZTMvZGc3cG96Ny1hMjA3MDIyMS1iN2NmLTQ3NDAtYjNjNC1hNzI1OGRjMjFjYWQuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.EXMvBZEgLD3L1kLhixgWMgfw3HgIABjeqQSdXjat0TQ){position:absolute,bottom:-650px,left:-1px,height:100%}
 }}
 
-{{position:absolute,top:730px,left:320px,margin-bottom:-50px,text-align:left
+{{position:absolute,top:850px,left:275px,margin-bottom:-50px,text-align:left
 
 ##### A Raiju
 
@@ -3280,6 +3309,82 @@ While Kuchan is transformed, her stat block is replaced by the stat block of tha
 
 \page
 
+{{monster,frame,wide
+
+## Mizuku, Greatest Hero Ever
+
+*Small Humanoid (Kawauso, Monk), Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 17
+**HP**         :: 165 (22d8 + 66)
+\column
+**Initiative** :: +5 (15)
+**Speed**      :: 45 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 10|  +0  |  +4  |
+|Int| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 20|  +5  |  +9  |
+|Wis| 16|  +3  |  +7  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16|  +3  |  +3  |
+|Cha| 18|  +4  |  +4  |
+
+}}
+
+**Skills**      :: Athletics +5, Acrobatics +9, Persuasion +8, Performance +8
+**Senses**      :: Passive Perception 13
+**Languages**   :: Kimyōkaigo, Sumirikugo
+**CR**          :: 12 (XP 8,400; PB +4;)
+
+}}
+
+### Traits
+
+***Flow.*** When Mizuku makes a Dexterity Saving Throw to avoid damage, he takes no damage on a successful save and half damage on a failed save.
+
+***Vortex (1/Turn).*** When Mizuku hits a creature with a Surging Strikes attack, he can force the creature to make a DC 16 Constitution Saving Throw. On a failed save, the creature has the Restrained Condition until the start of Mizuku's next turn. On a failed save, the creature has the Dazed condition until the start of Mizuku's next turn.
+  
+***Endless Spring.*** At the end of each of his turns, Mizuku can remove one of the following conditions from himself: Charmed, Frightened, or Poisoned.
+
+### Actions
+
+***Multiattack.*** Mizuku makes two Surging Strikes attacks.
+
+***Surging Strikes.*** *Melee Attack Roll:* +9, reach 10 ft. *Hit:* 10 (1d10 + 5) Cold damage. *Strength Saving Throw:* DC 16, the creature hit by the attack. *Failure:* Mizuku moves the target up to 5 feet towards or away from him. Mizuku critical hits with Surging Strikes on a roll of 19 or 20.
+
+***Steam Geyser.*** Mizuku slams the ground, creating a 5-foot-radius, 30-foot-high Cylinder of steam centered on a point on the ground he can see within 60 feet. *Dexterity Saving Throw:* DC 16, Each creature in the Cylinder. *Failure:* 22 (4d10) Bludgeoning damage, and the target gains the Prone condition. *Success:* Half damage. The cylinder is Heavily Obscured, and lasts until the start of Mizuku's next turn.
+
+***Great Wave (1/Day).*** Mizuku conjure forth from himself a rushing torrent of water in a 80-foot-long, 10-foot-wide Line in a direction he chooses. *Strength Saving Throw:* DC 18, each creature in the Line. *Failure:* 33 (6d10) Bludgeoning damage, and the target is pushed back 40 feet. If the creature collides with a wall, they take an additional 5 (1d10) damage for every 10 feet they were moved. You can travel along the wave, moving to any point along the Line without provoking Opportunity Attacks.
+
+### Bonus Actions
+
+***Violent Rapids.*** Mizuku makes three Surging Strikes attacks.
+
+***Formless, Like Water.*** Mizuku mediates, floating on a bubble above the ground. He takes the Dodge action and gains 5 (1d10) Temporary Hit Points, and cannot take other actions until the start of his next turn. If Mizuku has Temporary Hit Points at the start of his next turn, he gains Advantage on all Surging Strikes attacks until the end of that turn.
+
+***Slipstream.*** Mizuku moves up to 15 feet in a straight line in any direction, without provoking opportunity attacks. If he moves through a creature's space, he can move up to another 15 feet in any direction.
+
+### Reactions
+
+***Change Course.*** *Trigger:* Mizuku is hit by an Attack. *Response:* Mizuku reduces the damage by 21 (1d10 + 15). If this reduces the damage to 0, Mizuku can force a creature he can see within 30 feet of him to succeed on a DC 16 Dexterity Saving Throw or take 10 (1d10 + 5) Cold damage, gain the Prone condition, and have their Speed reduced to 0 until the end of their next turn.
+
+}}
+
 {{pageNumber,auto}}
 {{footnote PART 1 | THE INFINITE LIBRARY}}
 
@@ -3287,7 +3392,186 @@ While Kuchan is transformed, her stat block is replaced by the stat block of tha
 
 \page
 
-## Rouges and Rōnin
+## Oni
+
+{{note
+
+##### Note: Oni Traits
+
+All Oni share the following traits or their equivalents, to represent their demonic strengths and weaknesses.
+
+***Curse the Suns.*** The Oni has Disadvantage on Saving Throws against effects that deal Radiant damage. The Oni takes 40 Radiant damage if they start their turn in sunlight, and have Disadvantage on Attack Rolls and Saving Throws while in sunlight.
+
+***Sense Fear.*** The Oni can sense the presence and heartbeat of living creatures within 120 feet of them, even if those creatures are behind Total Cover or are Invisible.
+
+}}
+
+### Gouki
+
+{{monster,frame
+
+## Gouki, Oni of Discord
+
+*Medium Fiend (Minion), Chaotic Evil*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 14
+**HP**         :: 12
+\column
+**Initiative** :: +3 (13)
+**Speed**      :: 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 16|  +3  |  +3  |
+|Int| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12|  +1  |  +1  |
+|Wis| 10|  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +2  |  +2  |
+|Cha| 16|  +3  |  +3  |
+
+}}
+
+**Skills**          :: Athletics +6, Performance +6
+**Gear**            :: Su Yari, Shamisen
+**Senses**          :: Darkvision 60 ft., Passive Perception 13
+**Languages**       :: Akumago
+**MCR**             :: 5 per 8 (XP 225; PB +3)
+
+}}
+
+### Traits
+
+***Curse the Suns.*** The Gouki has Disadvantage on Saving Throws against effects that deal Radiant damage. The Gouki dies if it starts its turn in sunlight.
+
+***Dissonant Inspiration.*** At the start of the Gouki's turn, they can grant a Discord Die to a non-minion ally they can see within 60 feet of them (no action required). This die starts as a d4, and the size increases for each Gouki that provides inspiration, to a maximum of a d12. The next time the ally misses with an Attack Roll they can roll the Discord Die and add that amount to the Attack Roll, potentially turning the failure into a success
+
+***Sense Fear.*** The Gouki can sense the presence and heartbeat of living creatures within 120 feet of them, even if those creatures are behind Total Cover or are Invisible.
+
+***Minion.*** If the Gouki takes damage from an attack or as the result of a failed Saving Throw, their Hit Points are reduced to 0. If the Gouki takes damage from another effect, they die if the damage equals or exceeds their hit point maximum; otherwise they take no damage.
+
+### Actions
+
+***Impale (Group Attack)*** *Melee Attack Roll:* +6 to hit, reach 10 ft. *Hit:* 4 Piercing damage.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+### Akuma
+
+{{monster,frame,wide
+
+## Akuma, Oni of the End
+
+*Huge Fiend, Chaotic Evil*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 20
+**HP**         :: 351 (26d12 + 182)
+\column
+**Initiative** :: +8 (18)
+**Speed**      :: 60 ft., Climb 60 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 26|  +8  |  +14 |
+|Int| 10|  +0  |  +6  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14|  +2  |  +8  |
+|Wis| 18|  +4  |  +4  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 24|  +7  |  +13 |
+|Cha| 12|  +1  |  +7  |
+
+}}
+
+**Skills**          :: Athletics +14, Intimidation +13, Religion +12
+**Resistances**     :: Cold, Poison
+**Immunities**      :: Fire; Exhaustion, Dazed, Frightened, Incapacitated, Paralyzed, Petrified, Poisoned, Restrained, Stunned, Unconcious
+**Senses**          :: Darkvision 120 ft., Passive Perception 13
+**Languages**       :: Akumago, Telepathy 120 ft.
+**CR**              :: 20 (XP 15,000; PB +6)
+
+}}
+
+### Traits
+
+***Curse the Suns.*** The Akuma has Disadvantage on Saving Throws against effects that deal Radiant damage. The Akuma takes 40 Radiant damage if they start their turn in sunlight, and have Disadvantage on Attack Rolls and Saving Throws while in sunlight.
+
+***Demonic Regeneration.*** The Akuma regains 20 hit points at the start of their turn. If they takes Radiant damage, this trait doesn't function at the start of their next turn. Zariel dies only if they start their turn with 0 hit points and doesn't regenerate.
+
+***Fear Aura.*** The Akuma emanates an aura in a 20-foot Emanation while it doesn't have the Incapacitated condition. *Wisdom Saving Throw:* DC 20, any enemy that starts its turn in the aura. *Failure:* The target has the Frightened condition until the start of its next turn. *Success:* The target is immune to this Akuma's aura for 24 hours.
+
+***Inevitable.*** The Akuma is immune to the Dazed, Incapacitated, Paralyzed, Petrified, Restrained, Stunned, and Unconcious contitions. If any of these conditions are applied to the Akuma, instead their Speed is reduced by 15 feet, to a minimum of 15.
+
+***Sense Fear.*** The Akuma can sense the presence and heartbeat of living creatures within 120 feet of them, even if those creatures are behind Total Cover or are Invisible.
+
+\column
+
+### Actions
+
+***Multiattack.*** The Akuma makes two Devilish Claw attacks, one Oni Fangs attack, and one Spiked Tail attack.
+
+***Devilish Claw.*** *Melee Attack Roll:* +14 to hit, reach 10 ft. *Hit:* 26 (4d8 + 8) Slashing damage. If the Akuma is not currently Grapling a target, they can give the target has the Grappled condition (escape DC 18). Until the Grapple ends, the target has the Restrained condition.
+
+***Oni Fangs.*** *Melee Attack Roll:* +14 to hit, reach 10 ft. *Hit:* 22 (3d8 + 8) Piercing damage. *Consitution Saving Throw:* DC 20, the creature hit by the attack. *Failure:* The target has the Poisoned condition for 1 minute. While Poisoned, the target loses 9 (2d8) current and maximum Hit Points at the start of each of their turns (save repeats at end of turn).
+
+***Spiked Tail.*** *Melee Attack Roll:* +14, reach 20 ft. *Hit:* 22 (3d8 + 8) Piercing damage, plus 14 (3d8) Fire damage. If the target is a Large or smaller creature, it has the Prone condition.
+
+### Reactions
+
+***Scars of War.*** *Trigger:* A creature hits the Akuma with a Weapon Attack. *Response:* The Akuma reduces the damage of the attck by 20 (1d10 + 15). If this reduces the damage to 0 and the attack was a Melee Weapon Attack, the Akuma traps the weapon in its skin, disarming the attacker.
+
+### Legendary Actions
+
+The Akuma has 3 Legendary Action uses per round.
+
+***Endless Charge.*** The Akuma moves up to its speed. If they are Grappling a creature, the creature takes 4 (1d6) damage for each 5 feet the Akuma moves with them.
+
+***Warrior Soul.*** The Akuma moves up to half its speed, then makes one Devilish Claw attack.
+
+***Unhallowed Scream (Costs 2 Actions).*** *Constitution Saving Throw:* DC 22, each creature in a 80-foot Cone. *Failure:* 39 (6d12) Thunder damage, the target loses Concentration if it is maintaining it, the target is no longer Blessed if it is currently Blessed, and the target has the Deafened condition until . *Success:* Half damage only. *Success or Failure:* Any Hallowed areas in the range of the Cone are no longer Hallowed.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
+## Rogues and Rōnin
 
 **TODO - NOT STARTED - UNIMPORTANT**
 
@@ -4731,6 +5015,253 @@ The Baku has 2 Legendary Action Uses per round.
 
 \page
 
+## The Watched Pot
+
+**TODO - NOT STARTED - UNIMPORTANT**
+
+<!-- ### Matsumi Hanagai -->
+
+{{monster,frame,wide
+
+## Chinmoku, Stealer of Selves
+
+*Medium Fey (Shapechanger), Chaotic Evil*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 17
+**HP**         :: 130 (20d8 + 40)
+\column
+**Initiative** :: +3 (13)
+**Speed**      :: 40 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 22|  +6  |  +12 |
+|Int| 15|  +2  |  +2  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 17|  +3  |  +9  |
+|Wis| 15|  +2  |  +2  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14|  +2  |  +8  |
+|Cha| 22|  +6  |  +12 |
+
+}}
+
+**Skills**          :: Deception +12, Intimidation +12, Persuasion +12
+**Resistances**     :: Psychcic
+**Senses**          :: Blindsight 120ft, Passive Perception 12
+**Languages**       :: Sumirikugo, Kimyōkai
+**CR**              :: 17 (XP 18,000; PB +6)
+
+}}
+
+### Traits
+
+***Stolen Stances.*** Chinmoku has five different Fighting Stances, based on a different competetors in the tournament. These Stances are Glacial, Dread, Whisp, Lunar, Wave, and Faceless Stance. Chinmoku can change Stance as a Bonus Action, and each Stance gives Chinmoku access to different Actions, Traits, and Abilities.
+
+***Legendary Resistance (1/Day).*** If Chinmoku fails a Saving Throw, he can choose to succeed instead.
+
+***Id Made Manifest (Antagonist Trait, Recharges after a Short or Long Rest).*** If Chinmoku is reduced to 0 Hit Points for the first time, he doesn’t die or fall unconscious. Instead Chinmoku regains all of his Hit Points and removes any Conditions he may be under. Chinmoku additionally regains any spent uses of Legendary Resistance, and he can use any actions listed as Antagonist Actions for 1 hour, and the Fragment of the Unspeakable appears. He reverts to Faceless Stance, but is able abilities of all stances without needing to change stance.
+
+***Impact.*** Whe Chinmoku hits with an Uncanny Strike attack, he deals an additional 7 (1d12) damage of a damage type based on the stance he is in; Necrotic for Faceless, Cold for Glacial and Wave, Psycic for Dread, and Force for Lunar.
+
+***Yokai Ward.*** Chinmoku has Advantage on Saving Throws against spells and other magical effects.
+
+### Actions
+
+***Multiattack.*** Chinmoku makes three Uncanny Strike attacks, or four in Wave Stance.
+
+***Uncanny Strike*** *Melee Attack Roll:* +12 to hit, reach 5 ft. *Hit:* 11 (1d10 + 6) Slashing damage. If Chinmoku is in Lunar Stance, this is a Ranged Attack with a range of 120 feet.
+
+### Bonus Actions
+
+***Change Stance.*** Chinmoku changes his active stance.
+
+### Reactions
+
+***Misdirect (Requires Faceless Stance).*** *Trigger:* Chinmoku is hit by an attack. *Response:* Chinmoku adds +2 to his AC against that attack, possibly causing it to miss. If the attack misses, he can teleport to an unoccupied space of himself that he can see.
+
+***Shattering Shield (Requires Glacial Stance).*** *Trigger:* Chinmoku is hit by an attack. *Response:* Chinmoku reduces the attack's damage by 12 (1d12 + 6). If this does not reduce the damage of the attack to 0, the attacker takes Cold damage equal to the damage reduced this way.
+
+***Metamorphosis (Requires Lunar Stance).*** *Trigger:* Chinmoku is hit by an attack. *Response:* Chinmoku teleports to an unoccupied space within 30 feet of himself that she can see, then surrounds himself with a blackened shield, protecting her from the first instance of damage she would receive.
+
+### Villain Actions
+
+***Thread Memory (Requires Faceless Stance).*** Chinmoku makes an Uncanny Strike attack. If it hits a creature, it deal an extra 11 (2d10) Psychic damage, as Chinmoku begins extracting their memories. At the begining of each of the target's turns while Chinmoku is concentrating on this effect, the target must succeed on a DC 18 Charisma Saving Throw or take an additional 11 (2d10) Psychic damage and lose a memory of their choice.
+
+***Whims of Ice (Requires Glacial Stance).*** Chinmoku casts Ice Storm, requiring no Material components and using Charisma as the Spellcasting Ability (Spell Save DC 20).
+
+***Dire Smite (Requires Dread Stance).*** Chinmoku makes an Uncanny Strike attack. If it hits a creature, it deal an extra 22 (4d10) Necrotic damage and the target gains the Frightened condition until the end of Chinmoku's next turn.
+
+***Twisted Rite.*** *Intelligence Saving Throw:* DC 20, a creature that can see or hear Chinmoku within 30 feet. *Failure:* The creature gains the Dazed condition (save repeats at end of turn). While Dazed in this way, the creature believes it sees duplicates of Kugi. The creature is considered Flanked by Kugi and his allies.
+
+***Shrouded Step (Requires Lunar Stance).*** Chinmoku teleports to an unoccupied space within 30 feet of himself that she can see. *Wisdom Saving Thrown:* DC 20, creatures within 5 feet of the space Michiko-hime left or appeared in (her choice). *Failure:* 11 (3d10) Psychic damage.
+
+***Blackwater Wave (Requires Wave Stance).*** Chinmoku conjure forth from himself a rushing torrent of water in a 60-foot-long, 10-foot-wide Line in a direction he chooses. *Strength Saving Throw:* DC 20, each creature in the Line. *Failure:* 22 (4d10) Bludgeoning damage, and the target is pushed back 40 feet.
+
+### Antagonist Actions
+
+***Traumatic Memories.*** ***Charisma Saving Throw:*** DC 22, each creature of Chinmoku's choice that he can see within 60 feet. *Failure:* 33 (6d10) Psychic damage, and Chinmoku begins extracting their memories. At the begining of each of the target's turns while Chinmoku is concentrating on this effect, the target must succeed on a DC 18 Charisma Saving Throw or take an additional 11 (2d10) Psychic damage and lose a memory of their choice. *Success:* Half damage.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,left:-4px,width:62px}
+
+\page
+
+{{monster,frame
+
+## Faceless Figure
+
+*Medium Humanoid, Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 17
+**HP**         :: 165 (22d8 + 66)
+\column
+**Initiative** :: +4 (14)
+**Speed**      :: 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18|  +4  |  +8  |
+|Int| 8 |  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 18|  +4  |  +8  |
+|Wis| 14|  +2  |  +2  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16|  +3  |  +3  |
+|Cha| 5 |  -3  |  -3  |
+
+}}
+
+**Skills**      :: Athletics +8, Acrobatics +8, Perception +10
+**Gear**        :: Improved Medium Armour
+**Senses**      :: Passive Perception 20
+**Languages**   :: Sumirikugo
+**CR**          :: 10 (XP 5,900; PB +4)
+
+}}
+
+### Traits
+
+***Nameless.*** The Figure has Advantage on Saving Throws against Enchantment, Illusion, and Divination spells cast by creatures that do not know their identity.
+
+***With One Will.*** The Figure has Advantage on attack rolls against a creature if at least one of the Figure's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+
+### Actions
+
+***Multiattack.*** The Figure makes three Honed Weapon attacks.
+
+***Honed Weapon.*** *Melee Attack Roll:* +8 to hit, reach 5 ft. *Hit:* 9 (1d10 + 4) Bludgeoning, Piercing, or Slashing damage, plus 5 (1d10) Necrotic damage.
+
+***Abduct Identity (1/Day).*** *Charisma Saving Throw:* DC 18, one creature the Figure can see within 15 feet. *Failure:* The creature takes 9 (2d8) Psychic damage and gains the Paralyzed condition (save repeats at end of turn). At the start of each of the creatures turns while Paralyzed, they take an additional 9 (2d8) Psychic damage. For an hour after a creature fails this saving throw, the creature does not remember their name or identity.
+
+### Reactions
+
+***Ōji-waza.*** *Trigger:* A creature the Figure can see targets them with a Melee Attack Roll. *Response:* The Figure adds +2 to their AC against that attack, possibly causing it to miss. If the attack misses, the figure makes a Honed Weapon attack against the creature that triggered the reaction.
+
+}}
+
+\column
+
+{{monster,frame
+
+## Fragment of the Unspeakable
+
+*Medium Humanoid, Neutral*
+
+{{stats
+
+{{vitals
+
+**AC**         :: 17
+**HP**         :: 165 (22d8 + 66)
+\column
+**Initiative** :: +4 (14)
+**Speed**      :: 30 ft.
+
+}}
+
+{{tables
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18|  +4  |  +8  |
+|Int| 8 |  +0  |  +0  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 18|  +4  |  +8  |
+|Wis| 14|  +2  |  +2  |
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16|  +3  |  +3  |
+|Cha| 5 |  -3  |  -3  |
+
+}}
+
+**Skills**      :: Athletics +8, Acrobatics +8, Perception +10
+**Gear**        :: Improved Medium Armour
+**Senses**      :: Passive Perception 20
+**Languages**   :: Sumirikugo
+**CR**          :: 10 (XP 5,900; PB +4)
+
+}}
+
+### Traits
+
+***Nameless.*** The Figure has Advantage on Saving Throws against Enchantment, Illusion, and Divination spells cast by creatures that do not know their identity.
+
+***With One Will.*** The Figure has Advantage on attack rolls against a creature if at least one of the Figure's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+
+### Actions
+
+***Multiattack.*** The Figure makes three Honed Weapon attacks.
+
+***Honed Weapon.*** *Melee Attack Roll:* +8 to hit, reach 5 ft. *Hit:* 9 (1d10 + 4) Bludgeoning, Piercing, or Slashing damage, plus 4 (1d8) Necrotic damage.
+
+***Abduct Identity (1/Day).*** *Charisma Saving Throw:* DC 18, one creature the Figure can see within 15 feet. *Failure:* The creature takes 9 (2d8) Psychic damage and gains the Paralyzed condition (save repeats at end of turn). At the start of each of the creatures turns while Paralyzed, they take an additional 9 (2d8) Psychic damage. For an hour after a creature fails this saving throw, the creature does not remember their name or identity.
+
+### Reactions
+
+***Ōji-waza.*** *Trigger:* A creature the Figure can see targets them with a Melee Attack Roll. *Response:* The Figure adds +2 to their AC against that attack, possibly causing it to miss. If the attack misses, the figure makes a Honed Weapon attack against the creature that triggered the reaction.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote PART 1 | THE INFINITE LIBRARY}}
+
+![star](https://raw.githubusercontent.com/AlexCGoose/Sumiriku-Doc/refs/heads/main/Images/Stories%20and%20Secrets/Graphics/Star.png) {position:absolute,bottom:4px,right:-4px,width:62px}
+
+\page
+
 ## Yokai
 
 **TODO - NOT STARTED - UNIMPORTANT**
@@ -5448,7 +5979,7 @@ Mum and Dad Usagi.
 
 #### Eyes of the Omnicient
 
-*Boon Feat*
+*Blessing*
 </br>You have given your vision as payment to the Omicient, and in turn recieved a gift, gaining the following benefits:
 
 ***History Recorded.*** Everything you see is magically documented by Iyo-Iyo the Omnicient.

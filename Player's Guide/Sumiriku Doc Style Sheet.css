@@ -609,6 +609,8 @@ p + #small-text-table {
 
 /* PHB 2024 Monster Frame Styling START */
 .page .monster.frame {
+	font-family      : 'Chiron Sung HK';
+	font-size        : 85%;
 	padding          : 5px 8px;
 	background-image : none;
 	background-color : #fde4c7; /* Sumiriku Extra Light Orange */
@@ -617,9 +619,10 @@ p + #small-text-table {
 	border-radius    : 10px;
 	box-shadow       : 2px 2px 8px #888888;
 	h2 {
+		font-family    : 'Chiron Sung HK';
+		font-weight    : 900;
 		width          : 100%;
 		column-span    : all;
-		font-family    : Open Sans;
 		font-variant   : small-caps;
 		font-size      : 20px;
 		padding-bottom : 2px;
@@ -632,6 +635,9 @@ p + #small-text-table {
 		font-size : inherit;
 	}
 	h3 {
+		font-family    : 'Chiron Sung HK';
+		font-variant   : small-caps;
+		font-weight    : 900;
 		margin-top     : 0.5em;
 		padding-bottom : 0px;
 		border-bottom  : 1px solid #c03436 /* Sumiriku Red */
@@ -653,6 +659,7 @@ p + #small-text-table {
 			columns    : 3;
 			column-gap : 5px;
 			table {
+				font-family     : 'Chiron Sung HK';
 				border-collapse : separate;
 				border-spacing  : 0px 2px;
 				th {
